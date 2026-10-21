@@ -1,0 +1,45 @@
+X:1
+T:Kinderszenen
+T:Bittendes Kind
+C:Robert Schumann
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+L:1/16
+V:3 bass 
+L:1/16
+V:4 bass 
+V:1
+!p! Bgfe | d[^G=B] c2 |!pp! Bgfe |$ d[^G=B] c2 ||!p! =cABF | G=E F2 |$!pp! =cABF | G=E F2 || %8
+!p!"^ritardando"!<(! F^GAB!<)! |$ c[^GB] A2 |!pp!"^ritardando"!<(! F^GAB!<)! | c[^GB] A2 | %12
+!p! Bgfe |$ d[^G=B] c2 |!pp!"^ritardando" (Bgfe | d[^G=B] c2- | !fermata!g2) z2 |] %17
+V:2
+ GE x2 _BG x2 | AF x2 AE x2 | =GE x2 _BG x2 |$ AF x2 AE x2 || %4
+ AEF[I:staff +1]_E[I:staff -1] GD_E[I:staff +1]=C | %5
+[I:staff -1] DB,^C[I:staff +1]_B,[I:staff -1] D[I:staff +1]A,F,D, |$ %6
+[I:staff -1] AEF[I:staff +1]_E[I:staff -1] GD_E[I:staff +1]=C | %7
+[I:staff -1] DB,^C[I:staff +1]_B,[I:staff -1] D[I:staff +1]A,F,D, || %8
+[I:staff -1] D=B,[I:staff +1]A,^G, x4 |$ %9
+[I:staff -1] cE[I:staff +1]^D=D[I:staff -1] AC[I:staff +1]E,C, | %10
+[I:staff -1] D=B,[I:staff +1]A,^G, x4 | %11
+[I:staff -1] cE[I:staff +1]^D=D[I:staff -1] AC[I:staff +1]E,C, |[I:staff -1] =GE x2 _BG x2 |$ %13
+ AF x2 AE x2 | =GE x2 _BG x2 | AF x2 A-E- x2 | [EAc]4 x4 |] %17
+V:3
+"" A,2[I:staff -1]BG""[I:staff +1] C2""[I:staff -1]AG | %1
+""[I:staff +1] D2"m"[I:staff -1]=FD""[I:staff +1] A,2[I:staff -1]CA, | %2
+""[I:staff +1] A,,2[I:staff -1]BG""[I:staff +1] C2""[I:staff -1]AG |$ %3
+""[I:staff +1] D2"m"[I:staff -1]=FD""[I:staff +1] A,2[I:staff -1]CA, || %4
+""""[I:staff +1] D,4"""m" D,4 |"""m" D,4"" D,4 |$"""" D,,4"""m" D,4 |"""m" D,4"" D,4 || %8
+"""m" (B,,4"" F,E,"m"D,[I:staff -1]F |$""""[I:staff +1] E,4"" A,4) | %10
+"m""m" (B,,4"" F,E,"m"D,[I:staff -1]F |""""[I:staff +1] E,4"" A,4) | %12
+"" A,,2[I:staff -1]BG""[I:staff +1] C2""[I:staff -1]AG |$ %13
+""[I:staff +1] D2"m"[I:staff -1]=FD""[I:staff +1] A,2[I:staff -1]CA, | %14
+""[I:staff +1] A,,2[I:staff -1]BG""[I:staff +1] C2""[I:staff -1]AG | %15
+""[I:staff +1] D2"m"[I:staff -1]=FD""[I:staff +1] A,2C-A,- |"" [A,C]4 z4 |] %17
+V:4
+ A, z C z | D z A, z | A,, z C z |$ D z A, z || x4 | x4 |$ x4 | x4 || x2 C,D, |$ x4 | x2 C,D, | %11
+ x4 | A,, z C z |$ D z A, z | A,, z C z | D z A, z | !fermata!A,,2 x2 |] %17

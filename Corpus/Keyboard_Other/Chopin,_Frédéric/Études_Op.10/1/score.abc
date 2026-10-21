@@ -1,0 +1,124 @@
+X:1
+T:Étude Op. 10 No. 1 in C major
+C:Frédéric Chopin
+%%score { 1 | 2 }
+L:1/16
+Q:1/4=176
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano"
+V:2 bass 
+L:1/4
+V:1
+!f!"^Allegro" z"^legato"[I:staff +1] C,G,C[I:staff -1] !>!ECGc !>!ecgc'!8va(! !>!e'c'g'c'' | %1
+ !>!e''c''g'c'!8va)! !>!e'c'gc !>!ecGC !>!EC[I:staff +1]G,C, |$ %2
+[I:staff -1] z[I:staff +1] C,A,C[I:staff -1] !>!FCAc !>!fcac'!8va(! !>!f'c'a'c'' | %3
+ e''c''a'c'!8va)! e'c'ac ecAC DC[I:staff +1]A,C, | %4
+[I:staff -1] z[I:staff +1] B,,G,B,[I:staff -1] DB,GB dBgb!8va(! d'bg'a' |$ %5
+ d''a'^f'c'!8va)! d'a^fc dA^FC D[I:staff +1]A,^F,C, | %6
+[I:staff -1] z[I:staff +1] C,=F,_A,[I:staff -1] DC=F_A dc=f_a!8va(! d'c'=f'_a' | %7
+ d''g'f'b!8va)! d'gfB dGFB, !>!^D[I:staff +1]G,F,B,, |$ %8
+[I:staff -1] z[I:staff +1] C,G,C[I:staff -1] ECGc ecgc'!8va(! e'c'g'c'' | %9
+ e''c''g'c'!8va)! e'c'gc ecGC EC[I:staff +1]G,C, | %10
+[I:staff -1] z[I:staff +1] C,F,C[I:staff -1] FCFc fcfc'!8va(! f'c'f'c'' |$ %11
+ e''c''^f'c'!8va)! e'c'^fc ec^FC EC[I:staff +1]^F,C, | %12
+[I:staff -1] z[I:staff +1] C,G,C[I:staff -1] DCGc dcgc'!8va(! d'c'g'c'' | %13
+ d''b'g'b!8va)! d'bgB dBGB, DB,[I:staff +1]G,B,, |$ %14
+[I:staff -1] z[I:staff +1] D,G,D[I:staff -1] EDGd edgd'!8va(! e'd'g'd'' | %15
+ e''c''g'c'!8va)! e'c'gc ecGC EC[I:staff +1]G,C, | %16
+[I:staff -1] z[I:staff +1] E,C[I:staff -1]E FEce fec'e'!8va(! f'e'c''e'' |$ %17
+ f''d''b'd'!8va)! f'd'bd fdBD FDB,[I:staff +1]D, | %18
+[I:staff -1] z[I:staff +1] D,B,D[I:staff -1] EDBd edbd'!8va(! e'd'b'd'' | %19
+ e''c''a'c'!8va)! e'c'ac ecAC EC[I:staff +1]A,C, |$ %20
+[I:staff -1] z[I:staff +1] C,A,C[I:staff -1] ECAc ecac'!8va(! e'c'a'c'' | %21
+ ^d''b'a'b!8va)! ^d'baB ^dBAB, ^D[I:staff +1]B,A,B,, | %22
+[I:staff -1] z[I:staff +1] B,,A,B,[I:staff -1] EB,AB eBab!8va(! e'ba'b' |$ %23
+ e''b'^g'b!8va)! e'b^gB eB^GB, EB,[I:staff +1]^G,B,, | %24
+[I:staff -1] z[I:staff +1] E,A,^C[I:staff -1] =GEA^c =gea^c' =g'c'ae | %25
+ g'=c'ae g=cAE G=C[I:staff +1]A,E,[I:staff -1] ^FC[I:staff +1]A,D, |$ %26
+[I:staff -1] z[I:staff +1] D,G,C[I:staff -1] =FDGc fdgc'!8va(! f'd'g'c'' | %27
+ f''b'g'd'!8va)! f'bgd fBGD F[I:staff +1]B,G,D, | %28
+[I:staff -1] z[I:staff +1] C,G,_B,[I:staff -1] ECG_B ecg_b!8va(! e'c'g'c'' |$ %29
+ _e''_b'_e'c'!8va)! e'_b_ec e_B_EC E_B,[I:staff +1]_E,C, | %30
+[I:staff -1] z[I:staff +1] C,_E,A,[I:staff -1] _ECEA _ecea!8va(! _e'c'e'a' | %31
+ _e''_a'_e'_c'!8va)! e'_a_e_c e_A_E_C E[I:staff +1]_A,_E,_C, |$ %32
+[I:staff -1] z[I:staff +1] _B,,F,_A,"_cresc."[I:staff -1] D_B,F_A d_Bf_a!8va(! d'_bf'_a' | %33
+ d''^g'=e'_b!8va)! d'^g=e_B d^G=E_B, D[I:staff +1]^G,=E,_B,, | %34
+!f![I:staff -1] z[I:staff +1] A,,E,A,[I:staff -1] ^CA,EA ^cAea!8va(! ^c'ae'a' |$ %35
+ ^c''a'e'a!8va)!"_dimin." ^c'aeA ^cAEA, ^C[I:staff +1]A,E,A,, | %36
+[I:staff -1] z[I:staff +1] A,,D,^F,[I:staff -1] =CA,D^F =cAd^f =c'ad'^f' | %37
+!8va(! c''=f'd'g!8va)! c'=fdG c=FD[I:staff +1]G, !>!B,=F,D,G,, |$ %38
+[I:staff -1] z[I:staff +1] G,,C,E, B,G,[I:staff -1]CE BGce bgc'e' | %39
+ b'e'c'f becF BEC[I:staff +1]F, !>!A,E,C,F,, | %40
+[I:staff -1] z[I:staff +1] F,,B,,D, A,F,B,[I:staff -1]D AFBd afbd' |$ %41
+ g'd'be gdBE Acge"_cresc." ac'g'e' | f'c'ad fcAD GBfd gbf'd' | e'bgc eBGC FAec fae'c' |$ %44
+!f! d'afB dAFB, D[I:staff +1]A,F,B,,[I:staff -1] z4 | %45
+ ^d'a^fB ^dA^FB, ^D[I:staff +1]A,^F,B,,[I:staff -1] z4 | %46
+ z[I:staff +1] B,,E,^G,[I:staff -1] EB,E^G eBe^g!8va(! e'be'^g' |$ %47
+ e''^g'e'b!8va)!"_dim." e'^geB!>(! e^GEB, =FB,[I:staff +1]=G,D,!>)! | %48
+[I:staff -1] z[I:staff +1] C,G,C[I:staff -1] ECGc ecgc'!8va(! e'c'g'c'' | %49
+ e''c''g'c'!8va)! e'c'gc ecGC EC[I:staff +1]G,C, |$ %50
+[I:staff -1] z[I:staff +1] C,A,C[I:staff -1] FCAc fcac'!8va(! f'c'a'c'' | %51
+ e''c''a'c'!8va)! e'c'ac ecAC DC[I:staff +1]A,C, | %52
+[I:staff -1] z[I:staff +1] B,,G,B,[I:staff -1] DB,GB dBgb!8va(! d'bg'a' |$ %53
+ d''a'^f'c'!8va)! d'a^fc dA^FC D[I:staff +1]A,^F,C, | %54
+[I:staff -1] z[I:staff +1] C,=F,_A,[I:staff -1] DC=F_A dc=f_a!8va(! d'c'=f'_a' |$ %55
+ d''g'f'b!8va)! d'gfB dGFB, !>!^D[I:staff +1]G,F,B,, | %56
+[I:staff -1] z[I:staff +1] C,G,C[I:staff -1] ECGc ecgc'!8va(! e'c'g'c'' | %57
+ e''c''g'c'!8va)! e'c'gc ecGC EC[I:staff +1]G,C, |$ %58
+[I:staff -1] z[I:staff +1] C,F,C[I:staff -1] FCFc fcfc'!8va(! f'c'f'c'' | %59
+ e''c''^f'c'!8va)! e'c'^fc _ec^FC !>!_EC[I:staff +1]^F,C, | %60
+[I:staff -1] z[I:staff +1] C,G,C[I:staff -1] DCGc dcgc'!8va(! d'c'g'c'' |$ %61
+ d''b'g'b!8va)! d'bgB dBGB, DB,[I:staff +1]G,B,, | %62
+[I:staff -1] z[I:staff +1] C,A,C[I:staff -1] DCAc dcac'!8va(! d'c'a'c'' | %63
+ _e''c''a'c'!8va)! _e'c'ac !>!^dBAB, !>!^DB,[I:staff +1]A,B,, |$ %64
+[I:staff -1] z[I:staff +1] B,,^G,B,[I:staff -1] EB,^GB eB^gb!8va(! e'b^g'b' | %65
+ e''b'^g'b!8va)! e'b^gB eB^GB, EB,[I:staff +1]^G,B,, | %66
+[I:staff -1] z[I:staff +1] D,A,C[I:staff -1] FDAc fdac'!8va(! f'd'a'c'' |$ %67
+ f''b'g'd'!8va)! f'bgd fBGD FB,[I:staff +1]G,D, | %68
+[I:staff -1] z[I:staff +1] C,G,C"_cresc."[I:staff -1] ECGc ec_bc'!>(! g'c'b!>)!e | %69
+!>(! ^f'c'a!>)!_e!>(! ^fcA_E!>)!!>(! =fB^GD!>)!!>(! =FB,[I:staff +1]^G,D,!>)! |$ %70
+[I:staff -1] z[I:staff +1] C,=G,C!<(![I:staff -1] ECGc ecgc' e'c'gc!<)! | %71
+!>(! _e'a^fc _eA^FC!>)! d_A=FB, D[I:staff +1]_A,=F,B,, | %72
+[I:staff -1] z[I:staff +1] _B,,=E,G,!<(![I:staff -1] _D_B,=EG _d_B=eg _d'_b=e'g'!<)! |$ %73
+!8va(!!>(! _d''^f'_e'=a!8va)! _d'^f_e=A!>)! !>!_d^F_E=A, cFEA, | %74
+ z _A,D=F!<(! c_Ad=f c'_ad'=f'!8va(! c''f'd'a!<)! | %75
+ b'f'd'g!8va)!"_dim." bfd!>(!G BFD[I:staff +1]G, B,F,D,G,,!>)! |$ %76
+[I:staff -1] z[I:staff +1] G,,E,G, CG,[I:staff -1]EG!<(! cGeg!8va(! c'ge'g'!<)! | %77
+[Q:1/4=170]!>(! c''g'[Q:1/4=162]e'g!8va)![Q:1/4=154] c'g[Q:1/4=146]eG!>)![Q:1/4=138] cG[Q:1/4=130]E[I:staff +1]G,[Q:1/4=122] CG,[Q:1/4=114]E,G,, | %78
+[Q:1/4=106][I:staff -1] !fermata!z16 |] %79
+V:2
+!ped! !^![C,,C,]4- | [C,,C,]4!ped-up! |$!ped! !^![F,,,F,,]4!ped-up! | %3
+!ped! !^![^F,,,^F,,]4!ped-up!!ped!!ped-up! | %4
+!ped! !^![G,,,G,,]2!ped-up! !^![^F,,,^F,,] !^![E,,,E,,] |$!ped! !^![D,,,D,,]4!ped-up! | %6
+!ped! [G,,,G,,]4-!ped-up! |!ped! [G,,,G,,]4!ped-up!!ped!!ped-up! |$!ped! !^![C,,C,]4- | %9
+ [C,,C,]4!ped-up! |!ped! !^![A,,,A,,]4-!ped-up! |$!ped! [A,,,A,,]4!ped-up! | %12
+!ped! !^![G,,,G,,]4-!ped-up! |!ped! [G,,,G,,]4!ped-up! |$!ped! !^![C,,C,]4-!ped-up! | %15
+!ped! [C,,C,]4!ped-up! |!ped! !^![A,,,A,,]4!ped-up! |$ %17
+!ped! !^![B,,,B,,]2!ped-up!!ped! !^![A,,,A,,]2!ped-up! |!ped! !^![^G,,,^G,,]4!ped-up! | %19
+!ped! !^![A,,,A,,]2!ped-up!!ped! !^![=G,,,=G,,]2!ped-up! |$!ped! !^![F,,,F,,]4-!ped-up! | %21
+!ped! [F,,,F,,]4!ped-up! |!ped! !^![E,,,E,,]4-!ped-up! |$!ped! [E,,,E,,]4!ped-up! | %24
+!ped! !^![A,,,A,,]4!ped-up! |!ped! !^![D,,D,]4!ped-up!!ped!!ped-up! |$ %26
+!ped! !^![G,,,G,,]4-!ped-up! |!ped! [G,,,G,,]4!ped-up! |!ped! !^![C,,C,]4!ped-up! |$ %29
+!ped! !^![_G,,,_G,,]4!ped-up! |!ped! !^![F,,,F,,]4!ped-up! |!ped! !^![_C,,_C,]4!ped-up! |$ %32
+!ped! !^!_B,,,4-!ped-up! |!ped! !^![B,,,_B,,]4!ped-up! |!ped! !^![A,,,A,,]4- |$ %35
+ [A,,,A,,]4!ped-up! |!ped! !^!D,,4!ped-up! |!ped! !^![G,,,G,,]4!ped-up!!ped!!ped-up! |$ %38
+!ped! !^!C,,4!ped-up! |!ped! !^![F,,,F,,]4!ped-up!!ped!!ped-up! |!ped! !^!B,,,4!ped-up! |$ %41
+!ped! !^![E,,,E,,]2!ped-up!!ped! !^![A,,,A,,]2!ped-up! | %42
+!ped! !^![D,,,D,,]2!ped-up!!ped! !^![G,,,G,,]2!ped-up! | %43
+!ped! !^![C,,,C,,]2!ped-up!!ped! !^![F,,,F,,]2!ped-up! |$!ped! [B,,,B,,]3 B,,,-!ped-up! | %45
+!ped! [B,,,B,,]3 B,,,!ped-up! |!ped! [E,,,E,,]4- |$ [E,,,E,,]3!ped-up!!ped! [D,,,D,,]!ped-up! | %48
+!ped! !^![C,,,C,,-]4 | [C,,C,]4!ped-up! |$!ped! !^![F,,,F,,]4!ped-up! | %51
+!ped! !^![^F,,,^F,,]4!ped-up!!ped!!ped-up! | %52
+!ped! !^![G,,,G,,]2!ped-up! !^![^F,,,^F,,] !^![E,,,E,,] |$!ped! !^![D,,,D,,]4!ped-up! | %54
+!ped! [G,,,G,,]4-!ped-up! |$!ped! [G,,,G,,]4!ped-up!!ped!!ped-up! |!ped! !^![C,,C,]4- | %57
+ [C,,C,]4!ped-up! |$!ped! !^![A,,,A,,]4-!ped-up! | %59
+!ped! [A,,,A,,]3!ped!!ped-up!!ped! [_A,,,_A,,]!ped-up! |!ped! !^![G,,,G,,]4-!ped-up! |$ %61
+!ped! [G,,,G,,]4!ped-up! |!ped! !^![^F,,,^F,,]4!ped-up! | %63
+!ped! !^![=F,,,=F,,]4!ped-up!!ped!!ped-up! |$!ped! !^![E,,,E,,-]4 | [E,,E,]4!ped-up! | %66
+!ped! !^!D,,4!ped-up! |$!ped! !^![G,,,G,,]4!ped-up! |!ped! !^!C,,4-!ped-up! | %69
+!ped! !^![C,,C,]4!ped-up!!ped!!ped-up! |$!ped! !^!C,,4!ped-up! | %71
+!ped! !^![G,,,G,,]4!ped-up!!ped!!ped-up! |!ped! [G,,,G,,]4-!ped-up! |$ %73
+!ped! [G,,,G,,]4!ped-up!!ped!!ped-up! |!ped! [G,,,G,,]4-!ped-up! |!ped! [G,,,G,,]4!ped-up! |$ %76
+!ped! !^![C,,,C,,]4- | [C,,,C,,]4 |!f! !^!!fermata![C,,,C,,]4!ped-up! |] %79

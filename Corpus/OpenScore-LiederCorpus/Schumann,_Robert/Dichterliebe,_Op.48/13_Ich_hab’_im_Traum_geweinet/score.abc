@@ -1,0 +1,66 @@
+X:1
+T:Dichterliebe, Op.48
+T:Ich hab' im Traum geweinet
+C:Robert Schumann
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:6/8
+I:linebreak $
+K:Gb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+!p!"^Leise" B | B2 B!<(! B2 B!<)! |!>(! c3 B3!>)! | z6 | z2 z z2 G |$ G3/2 G/ G _F E D | E3 z2 z | %7
+w: Ich|hab' im Traum ge-|wei- net,||mir|träum- te, du lä- gest im|Grab.|
+ z z G G2 G | =G2 z z G G |$ B2 A z2 z | %10
+w: Ich wach- te|auf, und die|Thrä- ne|
+ A3/2[Q:1/4=75]"^ritard." E/ E/[Q:1/4=70] E/ E3/2[Q:1/4=65] E/ =D | %11
+w: floss noch von der Wan- ge her-|
+ F2 z !fermata!z2!p![Q:1/4=80] B | B2 B B2 B |$ c3 B3 | z6 | z2 z z2 G | G3/2 G/ G (_FE) D | %17
+w: ab. Ich|hab' im Traum ge-|wei- net,||mir|träumt', du ver- lies- * sest|
+ E3 z2 z | z2 z!<(! G G G |$ =G2!<)! z z G G | B2 A z z A | %21
+w: mich.|Ich wach- te|auf, und ich|wein- te noch|
+"^ritard."[Q:1/4=75] A2 E[Q:1/4=70] E2 =D | F2[Q:1/4=80] z z2 z | z6 |$ z2 z z2!pp! B | B2 B B2 B | %26
+w: lan- ge bit- ter-|lich.||Ich|hab' im Traum ge-|
+ c3 B2 B | B3/2 B/ B"^ritard."[Q:1/4=75] =c B[Q:1/4=70] A |$ d2 d d2 d | d3- d d d | d2 d- d3 | %31
+w: wei- net, mir|träum- te, du wärst mir noch|gut. Ich wach- te|auf, _ und noch|im- mer _|
+ d d d _f2 f |$ e6 | z6 | z6 | z6 | z6 | z6 | z6 |] %39
+w: strömt mei- ne Thrä- nen-|fluth.|||||||
+V:2
+ z | z6 | z6 | x2!pp! x4 | x6 |$ z6 | x2!pp! x4 | x6 |!<(! x4 x!<)! x |$ x6 | z6 | x2 x2 x2 | z6 |$ %13
+ z6 | x2!pp! x4 | x6 | z6 | x2 x4 | x6 |$ x6 | x6 | z6 | x6 |!<(! x6!<)! |$!>(! x4!>)! x2 | x6 | %26
+ x6 |!<(! x3!<)!!>(! x3!>)! |$!pp![I:staff +1] [F,D]2!<(![I:staff -1] D D2 D!<)! | %29
+ !>![D-__E]3 [B,D_E]3 | !>![_CD-=E]3 [=CDF]3 |!<(! [D_G]3!<)!!>(! [D_F]3!>)! |$ [DE]2 z ([DEc]3- | %33
+ [DEc]3 [CEc]2) z | z6 | x2!pp! x4 | x6 | x6 | x6 |] %39
+V:3
+ z | z6 | z6 | z z .[E,G,B,] .[F,A,B,]z/.[E,G,B,]/.[=D,F,B,] | .[E,G,B,] z z z2 z |$ z6 | %6
+ z z .[E,G,] .[_F,G,]z/.[E,G,]/.[D,G,] | .[E,G,] z z z2 z | z2 z !>![E,=G,] z z |$ %9
+ z2 z !>![E,A,] z z | z6 | z z E, [=D,F,] !fermata!z z | z6 |$ z6 | %14
+ z z .[E,G,B,] .[F,A,B,]z/.[E,G,B,]/.[=D,F,B,] | .[E,G,B,] z z z2 z | z6 | %17
+ z z .[E,G,] .[_F,G,]z/.[E,G,]/.[D,G,] | .[E,G,] z z z2 z |$ z2 z [E,=G,] z z | z2 z [E,A,] z z | %21
+ z6 | z z E, [=D,F,]2 [E,G,B,] | [E,G,B,]2 [E,G,B,] [E,G,B,]2 [E,G,B,] |$ [E,A,C]3 [E,G,B,]3- | %25
+!pp! [E,G,B,]6 | [E,A,C]3 [E,G,B,]3- | [E,G,B,]3 [G,=CE]3 |$ [D,,A,,]2 D, D,2 D, | %29
+ [D,-__E,]3 [D,_E,]3 | [D,-=E,]3 [D,F,]3 | [B,,D,_G,]3 [_A,,D,_F,]3 |$ [=G,,D,E,]2 z ([G,,E,]3- | %33
+ [G,,E,]3 [A,,E,]2) z |"^" z6 | z z .[E,_G,B,] .[F,A,B,]z/.[E,G,B,]/.[=D,F,B,] | %36
+ .[E,G,B,] z z z2 z | z2 z z2 .[=D,F,B,] | .[E,G,B,] z z z2 z |] %39
+V:4
+ x | x6 | x6 | z z .[E,,B,,] .[B,,,B,,]z/.[B,,,B,,]/.[B,,,B,,] | .[E,,B,,] z z z2 z |$ x6 | %6
+ z z .[C,,G,,] .[D,,G,,]z/.[C,,G,,]/.[B,,,G,,] | .[C,,G,,] z z z2 z | z2 z [C,,=G,,] z z |$ %9
+ z2 z [C,,A,,] z z | x6 | z z [C,,C,] [B,,,B,,] !fermata!z z | x6 |$ x6 | %14
+ z z .[E,,B,,] .[B,,,B,,]z/.[B,,,B,,]/.[B,,,B,,] | .[E,,B,,] z z z2 z | x6 | %17
+ z z .[C,,G,,] .[D,,G,,]z/.[C,,G,,]/.[B,,,G,,] | .[C,,G,,] z z z2 z |$ z2 z [C,,=G,,] z z | %20
+ z2 z [C,,A,,] z z | x6 | z z [C,,C,] [B,,,B,,]2 [E,,B,,] | %23
+ [E,,B,,]2 [E,,B,,] [E,,B,,]2 [E,,B,,] |$ [A,,,A,,]3 [E,,B,,]3- | [E,,B,,]6 | %26
+ [A,,,A,,]3 [E,,B,,]3- | [E,,B,,]3 [A,,,A,,-]3 |$ x6 | G,,3 =G,,3 | A,,3 =A,,3 | x6 |$ x6 | x6 | %34
+ x6 | z z .[B,,,B,,] .[B,,,B,,]z/.[B,,,B,,]/.[B,,,B,,] | .[E,,B,,] z z z2 z | z2 z z2 .[B,,,B,,] | %38
+ .[E,,B,,] z z z2 z |] %39
+V:5
+ x | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x3/2"^ritard." x/ x4 | x6 | x6 |$ x6 | x6 | %15
+ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x3 x3 | x6 | x6 |$ x6 | %33
+ x6 | x6 | x6 | x6 | x6 | x6 |] %39

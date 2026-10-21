@@ -1,0 +1,54 @@
+X:1
+T:An die Musik
+C:Franz Schubert
+Z:Franz von Schober
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=52
+M:2/2
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+L:1/4
+V:1
+"^Mässig" z8 | z8 |: z2 A2 d2 d2 | F6 B2 |({B} D3) D (FE) (DE) |$ F2 D2 z4 | z2 A2 B2 B2 | %7
+w: ||1. Du hol- de|Kunst, in|wie viel grau- * en _|Stun- den,|wo mich des|
+w: ||2. Oft hat ein|Seuf- zer|dei- ner Harf * ent- *|flos- sen,|ein sü- sser,|
+ C3 C D3 D | (FE) (DE) F4 |$ z8 | z2 d2 e3 G | (F2 A4) c2 | d3 f (ec) (AG) |({G} F2) F2 z2 A2 |$ %14
+w: Le- bens wil- der|Kreis _ um- * strickt,||hast du mein|Herz _ zu|war- mer Lieb _ ent- *|zun- den, hast|
+w: hei- li- ger Ak-|kord * von * dir,||den Him- mel|bess- * rer|Zei- ten mir * er- *|schlos- sen, du|
+ B3 B B2 (cd) | d3 d f3 e |({e2} d4) z B c d | (d2 F) F (A2 C) C |$ D4 z4 | z8 | z8 | z8 :| z8 |] %23
+w: mich in ei- ne _|bess- re Welt ent-|rückt, in ei- ne|bess- * re Welt _ ent-|rückt.|||||
+w: hol- de Kunst, ich _|dan- ke dir da-|für, du hol- de|Kunst _ ich dan- * ke|dir.|||||
+V:2
+!p! [A,DF][A,DF][A,DF][A,DF] [A,DF][A,DF][A,DF][A,DF] | %1
+ !>![A,DA][A,DA][A,DA][A,DA] [A,DG][A,DG][K:bass] [G,A,CE][G,A,CE] |: %2
+!pp! [F,A,D][A,DF][A,DF][A,DF] [A,DF][A,DF][A,DF][A,DF] | %3
+ [A,DF][A,DF][A,DF][A,DF] [F,DF][F,DF][B,DF][B,DF] | z [A,DF][A,DF][A,DF] z [A,CG][A,CG][A,CG] |$ %5
+ z [A,DF][A,DF][A,DF] [A,DF][A,DF][A,DF][A,DF] | %6
+ [A,DA][A,DA][A,DA][A,DA] [B,DB][B,DB][B,DB][B,DB] | %7
+ z[K:bass] [E,G,C][E,G,C][E,G,C] z [D,F,D][D,F,D][D,F,D] | %8
+ z [G,A,E][G,A,E][G,A,E] z [F,A,F][F,A,F][F,A,F] |$ %9
+ [A,CE][A,CE][A,CA][A,CA] [B,DA][B,DA][CEA][CEA] | [DFA][DFA][DFA][DFA] [EGA][EGA][EGA][EGA] | %11
+ [DFA][DFA][CEA][CEA] [B,DA][B,DA][CEA][CEA] | [DFA][DFA][DFA][DFA] [EGA][EGA][EGA][EGA] | %13
+ z [A,DF][A,DF][A,DF]"_cresc." [A,CG][A,CG][=CDA][CDA] |$ z [B,DB][B,DB][B,DB] z [D=FB][DFB][DFB] | %15
+ z [D^FA][DFA][DFA] z [EFc][EFc]!f![EFc] |!>(! z [DFd][DFd][DFd]!>)!!p! z [D=FB][DFB][DFB] | %17
+ z [D^FA][DFA][DFA] z[K:bass] [G,A,C][G,A,C][G,A,C] |$ %18
+ [F,A,D][K:treble]!<(! [DFd][DFd][DFd] [DFd][DFd][EGc]!<)![FAd] | %19
+!>(! ([Ac][GB]).[DGB].[DGB]!>)! .[DGB].[B,GB].[CGB].[DGB] | %20
+!>(! ([GB][A,FA]).[A,FA].[A,FA]!>)! .[A,FA].[A,FA].[CFA].[DFA] | %21
+ ([^DFA][EG]).[B,EG].[B,EG][K:bass] ([CEG][G,A,CE]).[G,A,CE].[G,A,CE] :| %22
+ (!>![G,A,CE][F,A,D])[F,A,D][F,A,D] [F,A,D]2 z2 |] %23
+V:3
+ z (A,, D,) .D, | F,,2 .A,, .A,,, |: D,, z z2 | z (F,, B,,) .^G,, | A,, z A,, z |$ %5
+ .D, (A,, D,) .D, | (F,,2 G,,2) | (A,, ^A,, B,,2) | (C,2 D,2) |$ (A,, A, ^G, =G,) | %10
+ (F, D, C, A,,) | (D, A,,/A,/ ^G, =G, | F, D, C,3/2 A,,/) | (D,2 E, F,) |$ (G,2 ^G,2 | A,2 ^A,2 | %16
+ B,2 ^G,2) | (A,2 A,,2) |$ D, z z2 | !>![G,,,G,,]2 z/ .G,,/ .B,,/.C,/ | %20
+ !>![D,,D,]2 z/ .D,/ .E,/.F,/ | !>![G,,G,]2 !>!A,,2 :| [D,,D,]3 z |] %23
+V:4
+ x8 | x6[K:bass] x2 |: x8 | x8 | x8 |$ x8 | x8 | x[K:bass] x7 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ %14
+ x8 | x8 | x8 | x5[K:bass] x3 |$ x[K:treble] x7 | D2 x6 | x8 | B,2 x2[K:bass] x4 :| x8 |] %23

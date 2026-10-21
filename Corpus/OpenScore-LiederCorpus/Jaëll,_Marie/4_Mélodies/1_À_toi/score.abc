@@ -1,0 +1,69 @@
+X:1
+T:4 Mélodies
+T:A toi
+C:Marie Jaëll
+Z:Marie Jaëll (original lyrics)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/16
+Q:1/4=71
+M:2/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Chant\nVoice"
+L:1/8
+V:2 bass nm="Piano"
+L:1/8
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+"^Tranquille  avec simplicité" z4 | z2 z A | c c A A | B3/2 A/ G G |$ A A F F | G3 A | c c A A | %7
+w: |Les|ar- bres, le zé-|phyr, les fleurs Con-|\- nais- sent mon ser-|ment; Je|leur dis la joie|
+ B3/2 A/ G G | A A F F |$ A3 A |!>(! d c B c!>)! | (A>F) E e | d2 c2 | B7/2 c/ |$ B2 z E | %15
+w: et les pleurs De|mon coeur trop ai-|\- mant. O|toi qui m'as char-|mé- * e, Je|t'ai- me|sans dé-|\- tour. Aux|
+ E E E E | E E z z/ E/ | E E E E | E4 |$ z2 z A | c c A A | B3/2 A/ G G | A A F F | G3 A |$ %24
+w: fleurs, à la ra-|mé- e, J'ai|dit tout mon a-|mour.|Les|bois dé- serts aux|doux é- chos Et|les é- toi- les|d'or Et|
+ c c A A | B3/2 A/ G G | A A F F | A3 A | d c B c |$ (A>F) E e | d2 c2 | B7/2 c/ | B2 z E | %33
+w: la chan- son des|clairs ruis- seaux Tout|me dit: aime en-|cor! O|toi qui m'as char-|\- mé- * e, Je|t'ai- me|sans dé-|tour. Aux|
+ E E E E |$ E E z E | E2 E2 | D3 C | C4 | z4 | !fermata!z4 |] %40
+w: fleurs, à la ra-|\- mé- e J'ai|dit tout|mon a-|mour.|||
+V:2
+!pp! [A,C]4 | [A,C]4[K:treble] |!p! x e- e2 | x e- e2 |$ x e- e2 | z/ e3/2-e!p! x | x e- e2 | %7
+ x e- e2 |!<(! z f2 f!<)! |$!>(! [FAc]2!>)! F/A/f |!mf! ([FGd][EGc][DFB][EGc] | A2) x2 | %12
+!<(! (d2 ca)!<)! |!>(! (af=d>c) |$!p! [=DAB]2- [DAB]!>)! z |[K:bass]!pp! [B,_D]4 | C2 x2 | %17
+!>(! ([B,D]4!>)! |!pp! [A,C]4) |$ [A,C]4[K:treble] |!p! x e- e2 | x e- e2 | x e- e2 | %23
+ z/ e3/2-e!p! x |$ x e- e2 | x e- e2 |!<(! x (f2 f)!<)! | [FAc]2 F/A/f |!mf! (dcBc |$ A2) x2 | %30
+!<(! (d2 ca!<)! | a!>(!f=d>c) |!p! [=DAB]2-!>)! [DAB] z |[K:bass]!pp!!>(! ([B,_D]4 |$ C2) x2!>)! | %35
+!>(! ([A,B,-D-]4 | [G,B,D]4) |!pp! C2!>)! x2 |!pp! [E,A,C]4 | !fermata![E,A,C]4 |] %40
+V:3
+ z (E,EE,EE,E2) | z (E,EE,EE,[K:treble] [CA]2) | [Ec]4 [CA]4 | [DB]4 [B,G]4 |$ [CA]4 [A,F]4 | %5
+ [EG]2 z2 [Ge]2 [CA]2 | [Ec]4 [CA]4 | [DB]4 [B,G]4 | [CA]4 [Fd]4 |$ x8 | x8 | %11
+ [A,C]2[DF]2 [CE]2 z2 | AAaA AAa2 | [AB]4- [AB]2>[EAc]2 |$ x8 |[K:bass] (A,4!>(! G,4 | %16
+ A,E,zE, [A,C]!>)!E,) z2 | A,4 G,4 | (A,E,EE, EE,E2) |$ A,(E,EE, EE,[K:treble] [CA]2) | %20
+ [Ec]4 [CA]4 | [DB]4 [B,G]4 | [CA]4 [A,F]4 | [EG]2 z2 [Ge]2 [CA]2 |$ [Ec]4 [CA]4 | [DB]4 [B,G]4 | %26
+ [CA]4 [Fd]4 | x8 | [FGd]2[EGc]2[DFB]2[EGc]2 |$ [A,C]2[DF]2 [CE]2 z2 | AAaA AAa2 | %31
+ !arpeggio![AB]4- [AB]2>[EA]2 | x8 |[K:bass] A,4 G,4 |$ A,E,zE, [A,C]E, z2 | x8 | x8 | %37
+ (A,E,zE, [A,C]E,) z2 | x8 | x8 |] %40
+V:4
+!ped! (A,,2E,,2A,,2E,,2)!ped-up! |!ped! (A,,2E,,2A,,2E,,2)!ped-up! | %2
+!ped! [A,,,A,,] x3 x2"^M.D." E2!ped-up! |!ped! [A,,,A,,] x3 x2"^M.D." E2!ped-up! |$ %4
+!ped! ([A,,,A,,] E,EE,EE,E,,2)!ped-up! | %5
+ (!5!E,,!3!E,!1!E[I:staff -1]G-)[I:staff +1] (!1!E,!4!E,,[A,,,A,,]2) | %6
+!ped! [A,,,A,,] x3 x2"^M.D." E2!ped-up! |!ped! [A,,,A,,] (E,EE,EE,E,,2)!ped-up! | %8
+ (F,,C,A,C, B,,F,DF,) |$ F,,C,F,A,- A,4 | (E,,B,,G,B,, E,,B,,G,B,, | A,,E,A,2- A,E,A,C) | %12
+ [F,A,D]4 [E,A,C]4 | [=D,B,F]4- [D,B,F]2>[E,A,C]2 |$ [F,A,B,]4- [F,A,B,]2 z2 | [E,,B,,E,]8 | %16
+!ped! (A,,2E,,2A,,2E,,2)!ped-up! | [E,,B,,E,]8 |!ped! (A,,2E,,2A,,2E,,2)!ped-up! |$ %19
+ (A,,2E,,2A,,2E,,2) |!ped! [A,,,A,,] x3 x2"^M.D." E2!ped-up! | %21
+!ped! [A,,,A,,] x3 x2"^M.D." E2!ped-up! | ([A,,,A,,] E,EE,EE,E,,2) | %23
+ (!5!E,,!3!E,!1!E[I:staff -1]G-)[I:staff +1] (E,E,,[A,,,A,,]2) |$ %24
+!ped! [A,,,A,,] x3 x2"^M.D." E2!ped-up! |!ped! [A,,,A,,] (E,EE,EE,E,,2)!ped-up! | %26
+ (F,,C,A,C, B,,F,DF,) | F,,C,F,A,- A,4 | (E,,B,,G,B,, E,,B,,G,B,, |$ A,,E,A,2- A,E,A,C) | %30
+ [F,A,D]4 [E,A,C]4 | !arpeggio![=D,B,F]4- [D,B,F]2>[E,A,C]2 | [F,A,B,]4- [F,A,B,]2 z2 | %33
+ [E,,B,,E,]8 |$!ped! (A,,2E,,2A,,2E,,2)!ped-up! | [E,,B,,E,]8- | [E,,B,,E,]8 | %37
+!ped! (A,,2E,,2A,,2E,,2)!ped-up! | [A,,,E,,A,,]8 | !fermata![A,,,E,,A,,]8 |] %40
+V:5
+ A,,,8 | A,,,8 | x (E,EE,E!1!E,!5!E,,2) | x (E,EE,E!1!E,!5!E,,2) |$ x8 | x8 | x (E,EE,EE,E,,2) | %7
+ x8 | F,,4 B,,4 |$ x8 | x8 | [A,,,A,,]2>D,2 [A,,A,]4 | x8 | x8 |$ x8 | x8 | A,,,8 | x8 | A,,,8 |$ %19
+ A,,,8 | x (E,EE,EE,E,,2) | x (E,EE,EE,E,,2) | x8 | x8 |$ x (E,EE,EE,E,,2) | x8 | F,,4 B,,4 | x8 | %28
+ x8 |$ [A,,,A,,]2>D,2 [A,,A,]4 | x8 | x8 | x8 | x8 |$ A,,,8 | x8 | x8 | A,,,8 | x8 | x8 |] %40

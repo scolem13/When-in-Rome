@@ -1,0 +1,29 @@
+X:1
+T:Chorale 171:
+T:Heut ist, o Mensch, ein großer Trauertag
+T:Chorale 171:
+T:Heut ist, o Mensch, ein großer Trauertag
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ G A B !fermata!G | z d c B | A G !fermata!A2 | B c d !fermata!B |$ z d _e d | c c !fermata!B2 | %6
+ d c B !fermata!G | z c c B |$ A G !fermata!F2 | B c d !fermata!B | z d c G/A/ | B A !fermata!G2 |] %12
+V:2
+ D D D D | z G3/2 ^F/ (G | G/)^F/ G/G,/ D2 | =F F F F |$ z (B B/)A/ B | B A F2 | F3/2 ^F/ G D | %7
+ z G3/2 F/4=E/4 (F |$ F) E C2 | G A B/_A/ G | z G G (G | G) ^F D2 |] %12
+V:3
+ B, A, G, B, | z B, C D | D3/2 C/ ^F,2 | D C B, D |$ z F _E F | G F/_E/ D2 | B, C D B, | %7
+ z C/B,/ A,3/2 G,/ |$ A,/B,/ C/B,/ A,2 | D F F _E | z F _E B,/C/ | D3/2 C/ =B,2 |] %12
+V:4
+ G,3/2 ^F,/ G, !fermata!G,, | z G,, A,, B,,/C,/ | D, _E, !fermata!D,2 | %3
+ D,/ B,, A,,/ B,, !fermata!B, |$ z B,/_A,/ G, F, | _E, F, !fermata!B,,2 | %6
+ B,,/ B, A,/ G, !fermata!G,, | z =E, F, D, |$ C, C, !fermata!F,,2 | %9
+ G, F,/_E,/ D,/B,,/ !fermata!E, | z =B,, C,/D,/ _E, | D, D,, !fermata!G,,2 |] %12

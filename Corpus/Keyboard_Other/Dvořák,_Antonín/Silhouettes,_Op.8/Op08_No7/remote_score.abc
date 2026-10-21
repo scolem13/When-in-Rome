@@ -1,0 +1,69 @@
+X:1
+T:Silhouettes
+T:Allegro
+C:Antonín Dvořák
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+L:1/4
+V:2 treble 
+L:1/16
+V:4 treble 
+V:1
+!p!"^Allegro" .[df]2 .[dg] .[da]!sfz!.!^![db].[ce] | .[df]2 .[dg] .[da]!sfz!.!^![db].[ce] | %2
+ .[Bd]2 .[Be] .[Bf]!sfz!.!^![Bg].[^Ac] |$ .[Bd]2 .[Be] .[Bf]!sfz!.!^![Bg].[^Ac] | %4
+ .[GB]2 .[Gc] .[Bd]!>!.[Be].[^Ac] | .[FB]!>!.[Fc].[EF^A] .[DFB] z z |$ %6
+!pp! .[DF]2 .[DG] .[DA]!>!.[DB].[CE] | .[DF]2 .[DG] .[DA]!>!.[DB].[CE] | %8
+ .[B,D]2 .[B,E] .[B,F]!>!.[B,G].[^A,C] |$ .[B,D]2 .[B,E] .[B,F]!>!.[B,G].[^A,C] | %10
+ !>!.[G,B,]2 .[G,C] .[B,D]!>!.[B,E].[^A,C] | .[F,B,]!>!.[F,C].[E,F,^A,] .[D,F,B,] z z |$ %12
+!f! !^![A,DF]2 .[G,G] .[A,A].[B,B].[Cc] | !>![DFBd]2 .[Ee] .[Ff].[Gg].[Aa] | %14
+ !>![Bdgb]2 .[Aa] .[Gg].[Ff].[Ee] |$ !>![DFBd]2 .[Cc] .[B,B].[A,A].[G,G] | %16
+ !>![F,A,DF]2 .[E,E] .[D,D].[C,C].[B,,B,] |!>(! [C,F,^A,]2 [D,F,B,] [C,F,A,]2 [D,F,B,] |$ %18
+ [E,=A,C]2 [D,F,A,D] [D,F,A,D]2 [E,G,B,]!>)! |!p! B,3- B,2 z | %20
+!f! !^![A,DF]2 .[G,G] .[A,A].[B,B].[Cc] |$ !>![DFBd]2 .[Ee] .[Ff].[Gg].[Aa] | %22
+ !>![Bdgb]2 .[Aa] .[Gg].[Ff].[Ee] | !>![DFBd]2 .[Cc] .[B,B].[A,A].[G,G] |$ %24
+ !>![F,A,DF]2 .[E,E] .[D,D].[C,C].[B,,B,] |!>(! [C,F,^A,]2 [D,F,B,] [C,F,A,]2 [D,F,B,] | %26
+ [E,=A,C]2 [D,F,A,D] [D,F,A,D]2 [E,G,B,]!>)! |!p! B,3- B,2 z |$ %28
+!p! .[df]2 .[dg] .[da]!>!.[db].[ce] | .[df]2 .[dg] .[da]!>!.[db].[ce] |$ %30
+ .[Bd]2 .[Be] .[Bf]!>!.[Bg].[^Ac] | .[Bd]2 .[Be] .[Bf]!>!.[Bg].[^Ac] |$ %32
+!<(! .[GB]2 .[Gc] .[Fd]!>!.[Ee].[Gc]!<)! |!<(! .[FB]!>!.[Gc].[E^A] .[FB]!>!.[Gc].[EA]!<)! |$ %34
+!f! .[FB]!>!.[Gc].[E^A] .[DB] z z |!>(! .[F,B,]!>!.[G,C].[E,^A,] .[D,B,] z z!>)! |$ %36
+!p! (B,/B/F/D/B,) z2 z |!pp! (b/b'/f'/d'/b) z2 z |] %38
+V:2
+"" (DADA""EA"" FA""G,G""A,G) |"" (DADA""EA"" FA""G,G""A,G) | %2
+"m""^legato sempre" B,F"m"B,F""CF"m" DF"m"E,E""F,E |$"m" B,FB,F""CF"m" DF"m"E,E""F,E | %4
+"" G,DG,D"m"G,E"" F,F"m"F,G""F,E |"" F,D""F,EF,C"m" (B,,B,F,D,B,,2) |$ %6
+"" (D,A,D,A,""E,A,"" F,A,""G,,G,""A,,G,) |"" (D,A,D,A,""E,A,"" F,A,""G,,G,""A,,G,) | %8
+"m" (B,,F,"m"B,,F,""C,F,"m" D,F,"m"E,,E,""F,,E,) |$"m" (B,,F,B,,F,""C,F,"m" D,F,"m"E,,E,""F,,E,) | %10
+"" (G,,D,G,,D,"m"G,,E,"" F,,F,"m"F,,G,""F,,E,) |"" (F,,D,""F,,E,F,,C,"m" B,,,B,,F,,D,,B,,,2) |$ %12
+"" !^![D,,A,,D,F,]4"m" .[E,,E,]2"" .[F,,F,]2"".[G,,G,]2"".[A,,A,]2 | %13
+"m" !>![B,,D,F,B,]4"m" .[C,C]2"" .[D,D]2"m".[E,E]2"".[F,F]2 | %14
+"" !>![G,B,DG]4"" .[F,F]2"m" .[E,E]2"".[D,D]2"m".[C,C]2 |$ %15
+"m" !>![B,,D,F,B,]4"" .[A,,A,]2"" .[G,,G,]2"".[F,,F,]2"m".[E,,E,]2 | %16
+"" !>![D,,A,,D,]4"m" .[C,,C,]2"m" .[B,,,B,,]2"".[A,,,A,,]2"".[G,,,G,,]2 | %17
+"" [F,,,F,,]4"m" [B,,,B,,]2"" [F,,,F,,]4"m" [B,,,B,,]2 |$ %18
+"" [A,,,A,,]4"" [D,,,D,,]2 [D,,,D,,]4"m" [E,,,E,,]2 |"m""m" B,,6-"m" B,,4 z2 | %20
+"" !^![D,,A,,D,F,]4"m" .[E,,E,]2"" .[F,,F,]2"".[G,,G,]2"".[A,,A,]2 |$ %21
+"m" !>![B,,D,F,B,]4"m" .[C,C]2"" .[D,D]2"m".[E,E]2"".[F,F]2 | %22
+"" !>![G,B,DG]4"" .[F,F]2"m" .[E,E]2"".[D,D]2"m".[C,C]2 | %23
+"m" !>![B,,D,F,B,]4"" .[A,,A,]2"" .[G,,G,]2"".[F,,F,]2"m".[E,,E,]2 |$ %24
+"" !>![D,,A,,D,]4"m" .[C,,C,]2"m" .[B,,,B,,]2"".[A,,,A,,]2"".[G,,,G,,]2 | %25
+"" [F,,,F,,]4"m" [B,,,B,,]2"" [F,,,F,,]4"m" [B,,,B,,]2 | %26
+"" [A,,,A,,]4"" [D,,,D,,]2 [D,,,D,,]4"m" [E,,,E,,]2 |"m""m" B,,6-"m" B,,4 z2 |$ %28
+"" (DADA""EA"" FA""!>!G,G""A,G) |"" (DADA""EA"" FA""!>!G,G""A,G) |$ %30
+"m" (B,F"m"B,F""CF"m" DF"m"!>!E,E""F,E) |"m" (B,FB,F""CF"m" DF"m"!>!E,E""F,E) |$ %32
+"" (G,DG,D"m"E,D"" F,B,"m"!>!G,B,"m"E,B,) |"m" (D,B,"m"!>!E,B,"m"C,B,"m" D,B,"m"!>!E,B,"m"C,B,) |$ %34
+"m" (D,B,"m"E,B,"m"C,B,)"m" (B,,B,F,D,B,,2) | (D,,B,,"m"E,,B,,"m"C,,B,,)"m" (B,,,B,,F,,D,,B,,,2) |$ %36
+ z4 z2[K:treble]!>(! (BbfdB2)!>)! | z12 |] %38
+V:3
+ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ %18
+ x3 | ([D,F,] [E,G,]/ [D,F,]) x/ | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 | %27
+ ([D,F,] [E,G,]/ [D,F,]) x/ |$ x3 | x3 |$ x3 | x3 |$ x3 | x3 |$ x3 | x3 |$ x3 | x3 |] %38
+V:4
+ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ %18
+ x6 | (B,,,2 E,, B,,,2) x | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 | (B,,,2 E,, B,,,2) x |$ x6 | x6 |$ %30
+ x6 | x6 |$ x6 | x6 |$ B,,3 x3 | B,,,3 x3 |$ x3[K:treble] x3 | x6 |] %38

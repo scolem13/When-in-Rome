@@ -1,0 +1,35 @@
+X:1
+T:Chorale 307:
+T:Christus, der uns selig macht
+T:Chorale 307:
+T:Christus, der uns selig macht
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+L:1/4
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ e e e e | d c !fermata!B2 | A ^G A B/c/ |$ (d c) !fermata!B2 | A B c/B/ A | A/G/ F !fermata!E2 | %6
+ D ^C D E/F/ |$ (G F) !fermata!E2 | A A A G | F E !fermata!D2 | G A B c |$ (d e d c) | %12
+ !fermata!B2 A B | c/B/ A A/G/ F |$ !fermata!E2 D ^C | D E/F/ (G A | G F) !fermata!E2 |] %17
+V:2
+ ^GA BG A2 A2 | AE E2 E4 | CD (E2 E)^F ^GA |$ B3 A A2 !fermata!^G2 | A=G F2 G3 F | E3 D ^C4 | %6
+ DG, A,2 A,=B, ^CD |$ E3 D ^C4 | =C2 (F2 F)E/D/ (E2 | E) D2 ^C D4 | B, E2 D D2 E2 |$ %11
+ F G2 (A A)G G2 | G4 E^F G2 | G2 AG FE D2 |$ D2 !fermata!^C2 DA, _B,G, | A,=B, =CD E2 (F2 | %16
+ F) E2 D/C/ B,4 |] %17
+V:3
+ B,2 ED CD EC | C B,2 A, A,2 !fermata!^G,2 | A,2 B,2 C2 DE |$ FE E2 E4 | C2 D2 C3 D | A,2 A,2 A,4 | %6
+ F,D, E,2 F,2 G,A, |$ _B,A, A,2 A,4 | A,_B, C2 C3 B, | A,3 A,/G,/ F,4 | G, C2 D/C/ B,D G,C |$ %11
+ CB, CE F3 E | D4 C2 D2 | C3 ^C D2 A,2 |$ A,4 A,2 G,E, | F,2 G,2 C2 C2 | C>_B, A,=B,/A,/ ^G,4 |] %17
+V:4
+ E,^F, ^G,E, A,B, CA, | ^F,^G, A,A,, !fermata!E,4 | F,2 E,D, C,2 B,,A,, |$ %3
+ A,,^G,, A,,C, !fermata!E,4 | F,E, D,2 E,2 F,2 | ^C,2 D,2 !fermata!A,,4 | %6
+ _B,,2 A,,G,, F,,2 E,,D,, |$ D,,^C,, E,,F,, !fermata!A,,4 | F,,G,, A,,_B,, C,3 ^C, | %9
+ D,2 A,,2 !fermata!D,,4 | E,2 ^F,2 G,=F, E,2 |$ D,G, C,2 C,B,, C,E, | !fermata!G,4 A,2 G,=F, | %13
+ E,2 F,E, D,E,F,G, |$ !fermata!A,4 F,2 E,2 | D,2 C,2 C,_B,, A,,F,, | C,2 D,2 !fermata!E,4 |] %17

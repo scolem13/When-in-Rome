@@ -1,0 +1,49 @@
+X:1
+T:Chorale 133:
+T:Wir glauben all an einen Gott
+T:Chorale 133:
+T:Wir glauben all an einen Gott
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+L:1/4
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ (D2 A G) | A E F2 | !fermata!E2 G2 |$ (F E) (D ^C) | !fermata!D2 A A | d c B A/B/ | %6
+ (c B) !fermata!A2 |$ z B c A | A E F F | !fermata!E2 D E |$ F G A G | (F E) !fermata!D2 | %12
+ d d e d |$ e ^c d2 | !fermata!d2 e B | c A A E | F2 !fermata!E2 |$ A ^G A B | c B (A ^G) | %19
+ !fermata!A2 (=B ^c) | d2 A G |$ A E F2 | E2 G2 | (F E) (D ^C) | (D/E/ F E2) |$ !fermata!D2 (F G | %26
+ A =B c) B | !fermata!A2 z (G | F E) !fermata!D2 |$ E2 F G | F E D ^C | !fermata!D4 |] %32
+V:2
+ z2 A,2 D F2 E/D/ | E3 D/^C/ (D4 | D2) !fermata!^C2 z2 D(E |$ E) D2 ^C D/=C/_B, A,2 | A,4 FE (D2 | %5
+ D)E/F/ E2 E3 D | E F2 E/D/ C4 |$ z2 EF GE CD | ED E^C A,B,/C/ (D2 | D)^C/B,/ !fermata!C2 D3 C |$ %10
+ A,_B,/=C/ DC CC D(E | E) D2 ^C A,4 | =B,=CDB, C2 DG |$ GA _BG A^F (G2 | %14
+ G)^F/E/ !fermata!F2 EF^GE | A2 ^C2 D3 C | D3 ^C/B,/ C4 |$ E4 E2 (F2 | F)^FG^G AA, B,D | %19
+ DC/B,/ !fermata!C2 G=FEG | GF/E/ F2 F3 (E |$ E) D2 ^C D4 | !fermata!E4 E2 A,2 | DC_B,C A,B, E,E | %24
+ D^C D4 C2 |$ A,4 D2 (=C2 | C2) FD EF GE | F4 z2 F(E | E) D2 ^C D4 |$ ^CD (E2 E)D CE | %30
+ A, _B,2 (A, A,)=B, A,2 | A,8 |] %32
+V:3
+ z2 F,G, A,2 DG, | G,F,/E,/ A,2 A,4 | A,4 z2 D,A, |$ A,2 _B,A,/G,/ F,G,/F,/ E,/F,/G, | %4
+ G,F,/E,/ !fermata!F,2 D2 A,2 | A,^G, A,2 G, C2 B,/A,/ | ^G, A,2 G, A,4 |$ z2 =G,F, E,G, A,2 | %8
+ A,3 G, F,>G, A,2 | A,4 F,G,/A,/ _B,A,/G,/ |$ F,3 E, F,E, D,_B, | ^C,A, _B,A,/G,/ F,4 | %12
+ G,4 G,A, B,G, |$ CA, E2 D C2 _B, | A,4 A,2 ED | CD E2 A,4 | A,3 ^G, A,4 |$ A,B,CD CB,A,^G, | %18
+ A,2 E2 ED E2 | E4 G,2 A,2 | A,4 D3 C/_B,/ |$ A,4 A,G,A,B, | =C4 ^CD E2 | A,2 G,A, ^F,G, A,2 | %24
+ A,G, A,2 _B,2 A,G, |$ G,F,/E,/ !fermata!F,2 _B,A,G,C | A,2 DB, G,3 C | C4 z2 DA, | %28
+ A, _B,2 A,/G,/ F,4 |$ A,4 A, _B,2 A,/G,/ | A,G,/F,/ G,F,/E,/ F,2 E,/F,/G, | %31
+ G,^F,/E,/ !fermata!F,6 |] %32
+V:4
+ z2 D,E,F,D, _B,2 | ^C,3 B,,/A,,/ D,E,F,D, | !fermata!A,,4 z2 B,,^C, |$ D,F,,G,,A,, _B,,G,, A,,2 | %4
+ !fermata!D,,4 D,E,F,D, | B,,2 C,D, E,C, F,2 | E,D, E,2 !fermata!A,,4 |$ z2 E,D, C,E, F,2 | %8
+ ^C,B,,C,A,, D,A,, F,,D,, | !fermata!A,,4 _B,,A,, G,,A,, |$ D,C, _B,,C, F,,G,,/A,,/ B,,A,,/G,,/ | %11
+ A,,F,, G,,A,, !fermata!D,,4 | G,,A,,B,,G,, C,2 G,B, |$ E,F,G,E, ^F,D, G,2 | %14
+ !fermata!D,4 C,D, E,2 | E,F,G,E, F,G,A,G, | F,E, D,2 !fermata!A,,4 |$ =C,D,E,B,, C,2 D,2 | %18
+ D,^D,E,C, =F,2 E,2 | !fermata!A,,4 E,2 A,,2 | D,4 D,C,_B,,C, |$ F,,G,, A,,2 D,,E,,F,,D,, | %22
+ !fermata!A,,4 E,D,^C,E, | D,2 D,C, C,_B,,A,,G,, | F,,E,,D,,F,, G,,E,, A,,2 |$ %25
+ !fermata!D,,4 D,2 E,2 | F,E,D,G, E,D,E,C, | !fermata!F,4 z2 B,,^C, | D,_B,,G,,A,, !fermata!B,,4 |$ %29
+ A,,=B,,^C,A,, D,2 E,2 | E, D,2 ^C, D,^G,, A,,2 | !fermata!D,,8 |] %32

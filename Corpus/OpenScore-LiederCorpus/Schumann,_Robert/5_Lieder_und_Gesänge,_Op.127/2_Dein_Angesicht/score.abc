@@ -1,0 +1,64 @@
+X:1
+T:5 Lieder und Gesänge
+T:Dein Angesicht
+C:Robert Schumann
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 6 ) | ( 3 5 ) }
+L:1/16
+Q:1/4=50
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:6 treble 
+L:1/4
+V:3 bass 
+L:1/8
+V:5 bass 
+L:1/8
+V:1
+"^Langsam" z4 z2 z B | B3 B B2 B2 | c2 c2 f3 e | d2 c2 B2 A2 | (G2B) =A B2 z B | B3 B B2 B2 | %6
+w: Dein|An- ge- sicht, so|lieb und schön, Das|hab' ich jüngst im|Traum _ ge- seh'n, Es|ist so mild und|
+ c2 c2 f3 e- | e d2 c2 B2 A- | A!>(! (G"^ritard."B) =A G2!>)!!p! =B2 | =B3 =A G2 B2 | =B2 =A2 G4 | %11
+w: en- gel- gleich, Und|_ doch so bleich, so|_ schmer- * zen- reich. Und|nur die Lip- pen,|die sind rot;|
+ _c2 c c c2 c2 | _c3 c"^ritard." (ce_d) d | _d3 d d2 d2 | e2 e2 e2 _g2 | f3"^ritard." e _d d _c c | %16
+w: bald a- ber küsst sie|bleich der Tod, _ _ Er-|lö- schen wird das|Him- mels- licht, das|aus den from- men Au- gen|
+ B4 z2[Q:1/4=50]"^Im Tempo"[Q:1/4=50]"_Im Tempo" B2 | B3 B B2 B2 | c2 c2 f2 e2 | d2 c2 B2 A2 | %20
+w: bricht. Dein|An- ge- sicht so|lieb und schön, Das|hab' ich jüngst im|
+ (G2B) =A B2 z B | B3 D E3 c | c3 =E F2 _e2 | e2 _c2 A2 F2 | B6 D2 | E8 | z8 | z8 | z8 | z8 | z8 |] %31
+w: Traum _ ge- seh'n, es|ist so mild und|en- gel- gleich, und|doch so bleich, so|schmer- zen-|reich.||||||
+V:2
+!p! ([EGB]B,[EGB]B, [EGB]B,[EGB]B,) | ([EGB]B,[EGB]B, [EGB]B,[EGB]B,) | %2
+ ([GBc]C[GBc]C [FAc]C)([FAc]E | !arpeggio![FAB]DAC GB,[DF]A,) | %4
+ ([CE]G,[B,EF]=A, [B,DF]F,) ([F_AB]D) | ([EGB]B,[EGB]B, [EGB]B,[EGB]B,) | %6
+ ([GBc]C[GBc]C [FAc]C)([FAc]_E | !arpeggio![FAB]D[EA]C [DG]B,[DF]A,) | %8
+!>(! ([CE]G,"^ritard."[_B,D][^F,=A,] [=B,D]G,)!>)!!p! ([B,D]G, | [=B,D]^F,B,[=A,C] B,G,)([B,D]G, | %10
+ [=B,D]^F,B,[=A,C] B,G,) D2- | D2 D4 E2- | E2=F2- x2 F_d | _d8 | e2>e2 a2_g2 | %15
+!<(! (f2"^ritard."e2_d2_c2!<)! | B6) B2 | ([EGB]B,[EGB]B, [EGB]B,[EGB]B,) | %18
+ ([GBc]C[GBc]C [FAc]C[FAc]E) | [FAB]DAC GB,[DF]A, | (E2F2- F4) | B8- | B2 c4 ([A_c]2 | %23
+ [Ac]2) A4 F2 | (G2_G2F2D2) | (EG,_DA,!<(! C=A,EB,- | =D=B,FC!<)! EDAE | %27
+ G(_Ge2)"^ritard." G2)[FB]2- | ([FB]4 [G,E]4) | z4 [G,B,E]4 | [G,B,E]8 |] %31
+V:3
+ E,,4- | E,,4 | [A,,,A,,]4 | ([B,,,B,,]3 [=B,,,=B,,]) | ([C,,C,][F,,F,] [B,,,B,,]2) | ([E,,E,]4 | %6
+ =E,2 F,2) | ([B,,,B,,]3 [=B,,,=B,,]) | ([C,,C,][D,,D,] [G,,,G,,]2) |!p! ([D,,D,]2 [G,,,G,,]2) | %10
+ ([D,,D,]2 [G,,,G,,]) !>![=F,,,=F,,]- | [F,,,F,,] [_F,,,_F,,]2 [E,,,E,,]- | %12
+ [E,,,E,,] [_D,,,_D,,]2 [D,,_D,] | ([_G,,,_G,,]2 [B,,,B,,]2 | [_C,,_C,]4 | [_D,,_D,]3 [E,,E,] | %16
+ [=D,,=D,][=C,,=C,][B,,,B,,][A,,,A,,]) | ([G,,,G,,]2 [E,,,E,,]2) | [A,,,A,,]4 | %19
+ ([B,,,B,,]3 [=B,,,=B,,]) | ([C,,C,][F,,F,] [B,,,B,,]2-) | [B,,,B,,] [_A,,,_A,,]2 [G,,,G,,]- | %22
+ [G,,,G,,] [B,,,B,,]2 [A,,,A,,]- | [A,,,A,,]4 | z [B,,,B,,-]3 | B,,(B,,A,,C, | B,,D,C,F,) | E,3 x | %28
+ ([B,,D,B,-]2 [E,B,]2) | z2 [E,,B,,E,]2 | [E,,B,,E,]4 |] %31
+V:4
+ x8 | x8 | x8 | x2 E2- E2 x2 | x8 | x8 | x8 | x8 | x8 | x8 | x6 ([_CD]_A, | [_CD]A,CA,) (CA,CA,) | %12
+ (_CA,CA, C)([E_c][_DB][CA]) | !arpeggio![B,_G](B,GB, G_DGD) | ([_G_d]EGE _cAcG) | _cFcF BFAF | %16
+ (AFAE =G=DFD) | x8 | x8 | x2 E2- E2 x2 | z G,[_B,E]=A, [B,D]F,B,D | (EB,DB, EB,EG) | %22
+ (AC=EC FC)F(_C | [Fc]_CFC FCFC) | EB,E=A, E_A,B,A, | EG,2A,2=A,2B, | B,=B,2C2=D2E | %27
+ G2<_G2- z _A,3- | A,3=G,2 x3 | x8 | x8 |] %31
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | A,,4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | E,,4- | E,,3 _C, | _B,, ([=A,,C]2 [B,,D,B,]-) | x4 | x4 | x4 |] %31
+V:6
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x =F | x2 | x2 | x2 | x2 | x2 | x2 | %19
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %31

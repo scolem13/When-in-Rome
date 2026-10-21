@@ -1,0 +1,38 @@
+X:1
+T:Chorale 82:
+T:O großer Gott von Macht
+T:Chorale 82:
+T:O großer Gott von Macht
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ A | B c d A/=B/ | !fermata!c2 z G | G A B c | !fermata!A2 z =F | F G A B | !fermata!c2 z d |$ %7
+ B/c/ d c c | !fermata!B2 z d | d d c c | B B !fermata!A2 | %11
+[I:staff +1] x[I:staff -1] [xx][I:staff +1] [xAB]2[I:staff -1] A | G G F F |$ !fermata!E2 z G | %14
+ G A/B/ c B | A2 !fermata!G2 | %16
+[I:staff +1] x[I:staff -1] [xx][I:staff +1] [xGG]2[I:staff -1] A/=B/ | c _B A2 | !fermata!A4 |] %19
+V:2
+ ^F | G =F F F | [Gx]2 [xx] [_Ex] | =E ^F G A | [^Fx]2 [xx] [Dx] | D =E F _E | [_Ex]2 [xx] [Dx] |$ %7
+ G/A/ B B A | [Fx]2 [xx] [Fx] | G G G D | D E ^F2 | [xx] [^Fx][I:staff +1] [xG=F]2 x | %12
+[I:staff -1] F E D D |$ [Cx]2 [xx] ([Dx] | D/)C/ F G/A/ D/G/ | G ^F D2 | %16
+ [xx] [Dx][I:staff +1] [x_EF]2 x |[I:staff -1] G G G/F/ E | ^F4 |] %19
+V:3
+ D | D C B, F | _E2 z C | C C D _E | D2 z A, | B, B, C B, | F2 z F |$ _E F F C | D2 z B, | %9
+ B, B, B, A, | A, G, A,2 |[I:staff -1] x [xxDD]3[I:staff +1] C | D G, A, G, |$ G,2 z G, | %14
+ G, D C/A,/ B,/G,/ | _E A, B,2 |[I:staff -1] x [xx=B,C]3[I:staff +1] F | _E D ^C/ D C/ | D4 |] %19
+V:4
+ D, | G, A, B, D |[I:staff -1] [xC]2 [xx] [xC] |[I:staff +1] B, A, G, C, | %4
+[I:staff -1] [xD,]2 [xx] [xD,C,] |[I:staff +1] B,,/B,/A,/G,/ F, G, | %6
+[I:staff -1] [xA,]2 [xx] [xB,] |$[I:staff +1] _E, D,/E,/ F, F,, | %8
+[I:staff -1] [xB,,]2 [xx] [xB,A,] |[I:staff +1] G, F, =E, ^F, | G, G,, !fermata!D,2 | %11
+[I:staff -1] [xx] [xD,G,,A,,]3 x |[I:staff +1] =B,, C,2 B,, |$[I:staff -1] [xC,]2 [xx] [x_B,,] | %14
+[I:staff +1] _E, D, =E,/^F,/ G, | C, D, !fermata!G,,2 |[I:staff -1] [xx] [x=F,_E,D,]3 x | %17
+[I:staff +1] C, G,, A,,2 | !fermata!D,4 |] %19

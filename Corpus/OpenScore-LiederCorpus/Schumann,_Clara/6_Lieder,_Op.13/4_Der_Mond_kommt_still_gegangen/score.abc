@@ -1,0 +1,64 @@
+X:1
+T:6 Lieder, Op.13
+T:Der Mond kommt still gegangen
+C:Clara Schumann
+Z:Emanuel Geibel
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:3/8=35
+M:6/8
+I:linebreak $
+K:Db
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ z3 z2!p! A | A2 A A2 E | G2 F z2 A | e2 d cB c | d3- d z F |$ c2 =G!<(! =AB c | e2!<)! d z2 B | %7
+w: 1. Der|Mond kommt still ge-|gan- gen, mit|sei- nem gold'- * nen|Schein, * da|schläft in hol- * dem|Pran- gen die|
+ d2!>(! c =G2 A!>)! | A6 | z2 z z2 A | A2 A A2 E |$ G2 F z2 A | e2 d cB c | d3- d2 F | %14
+w: mü- de Er- de|ein.|2. Und|auf den Lüf- ten|schwan- ken, aus|man- chem treu- * en|Sinn, * viel|
+ c2!<(! =G =A B c!<)! | e2 d z2 z |$ d d c!>(! =G2 A!>)! | A6 | z3 z2 A | A3 A2 E | G F z z2 A |$ %21
+w: tau- send Lie- bes- ge-|dan- ken,|ü- ber die Schlä- fer|hin.|3. Und|drun- ten im|Tha- le da|
+ e e d!<(! c B c!<)! |!f! f3- f2 c | d3 z2 d[Q:1/4=50] | %24
+w: fun- keln die Fens- ter von|Lieb- * chens|Haus; ich|
+[Q:1/4=48]"^rit.""^dim." c2 B[Q:1/4=46] A A[Q:1/4=43] G |[Q:1/4=40] F2 E !>!A3- |$ A =D E G2 F | %27
+w: a- ber bli- cke im|Dun- keln still|_ in die Welt hin-|
+!mp! D6- | D2 z z3 | z6 | z6 | z6 | !fermata!z6 |] %33
+w: aus.|_|||||
+V:2
+!p! z2 ([FA] [GA][GA][FA] | [EA][EA][DA] [CA][B,A][CA]) | z2 ([FA] [GA][GA][FA] | %3
+ [EA][EA][DA] [CA][B,A][CA]) | z2 [FA] [GA][GA][FA] |$ z [Ec][E=G]!<(! [E=A][EB][Ec] | %6
+ z!<)! [_Ge][Fd]!>(! [F=A][FA][FB]!>)! | z!<(! [Fd][Ec]!<)!!>(! [E=G][EG][EA]!>)! | %8
+ z z (C [EA][EA][DA]) | z2 (A [_GA][GA][FA] | [EA][EA][DA] [CA][B,A][CA]) |$ %11
+ z2 ([FA] [GA][GA][FA] | [EA][EA][DA] [CA][B,A][CA]) | z2 [FA] [GA][GA][FA] | %14
+ z [Ec][E=G] [E=A][EB][Ec] | z [_Ge][Fd] [F=A][FA][FB] |$ z [Fd][Ec] [E=G][EG][EA] | %17
+ z z C [EA][EA][DA] | z2 A [_GA][GA][FA] | [EA][EA][DA] [CA][B,A][CA] | z2 [FA] [GA][GA][FA] |$ %21
+ [EA][EA]!<(![DA] [CA][B,A][CA]!<)! |!f! z [Ec][E=G] [E=A][EB][Ec] | z [Fd][Fd] [Fe][Fd][Fd] | %24
+ z [Dc]"_dim."[DB] z [_C=DA][B,EG] | z [=CF][CE] z [_C=D][CD] |$ z [=C=D][CE] z [CG][CF] | %27
+!mp! z2"_dim." ([DF] [DG][DG][DF] | [D__B][DB][DA] c2 d) | z2 ([Fd] [Gd][Gd][Fd] | %30
+ [__Bd][Bd][Ad] g2 f |!pp! [Af]2) z [Fd]2 z | !fermata![Fd]6 |] %33
+V:3
+ (D,,D,) ([A,D] [B,D][B,D][A,D] | [G,A,][G,A,][F,A,] [A,,E,G,][A,,D,F,][A,,E,G,]) | %2
+ ((D,,D,) [A,D] [B,D][B,D][A,D] | [G,A,][G,A,][F,A,] [A,,E,G,][A,,D,F,][A,,E,G,]) | %4
+ (D,,D,) [A,D] [B,D][B,D][A,D] |$ F,, [F,=A,][F,B,] [F,C][F,B,][F,A,] | B,,[=A,C][B,D] [CE][CE]D | %7
+ E,,[=G,B,][A,C] [B,D][B,D]C |!ped! (A,,,A,,E, [_G,A,][G,A,][F,A,]) | %9
+ (A,,E,C [B,D][B,D][A,D]!ped-up! | [G,A,][G,A,][F,A,] [A,,E,G,][A,,D,F,][A,,E,G,]) |$ %11
+ ((D,,D,) [A,D] [B,D][B,D][A,D] | [G,A,][G,A,][F,A,] [A,,E,G,][A,,D,F,][A,,E,G,]) | %13
+ ((D,,D,) [A,D] [B,D][B,D][A,D] | F,, [F,=A,][F,B,] [F,C][F,B,][F,A,]) | %15
+ B,,[=A,C][B,D] [CE][CE]D |$ E,,[=G,B,][A,C] [B,D][B,D]C |!ped! A,,,A,,E, [_G,A,][G,A,][F,A,] | %18
+ A,,E,C [B,D][B,D][A,D]!ped-up! | [G,A,][G,A,][F,A,] [A,,E,G,][A,,D,F,][A,,E,G,] | %20
+ (D,,D,) [A,D] [B,D][B,D][A,D] |$ [G,A,][G,A,][F,A,] [A,,E,G,][A,,D,F,][A,,E,G,] | %22
+ F,, [F,=A,][F,B,] [F,C][F,B,][F,A,] | B,,[B,D][B,D] [CE][B,D][B,D] | %24
+ A,,[A,C][G,B,] E,,[E,F,][E,G,] | A,,,[A,,G,][A,,G,] z [A,,F,][A,,F,] |$ %26
+ z [A,,G,][A,,G,] z [A,,B,][A,,A,] | ((D,,D,) A, __B,B,A, | [D,G,][D,G,][D,F,] [D,__B,]3) | %29
+ ((D,,D,) [A,D] [__B,D][B,D][A,D] | [G,D][G,D][F,D] [D,CE]3 | !arpeggio![D,DF]2) z [D,A,]2 z | %32
+ !fermata![D,A,]6 |] %33
+V:4
+ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | A,,3 x3 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | %18
+ A,,3 x3 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %33
+V:5
+ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | %19
+ x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x3 [EG]3 | x6 | x3 __B3 | x6 | x6 |] %33

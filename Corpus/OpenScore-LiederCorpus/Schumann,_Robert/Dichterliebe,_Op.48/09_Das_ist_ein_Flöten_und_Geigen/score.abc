@@ -1,0 +1,86 @@
+X:1
+T:Dichterliebe, Op.48
+T:Das ist ein Flöten und Geigen
+C:Robert Schumann
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:3/8
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:3 bass 
+L:1/16
+V:4 bass 
+V:1
+"^Nicht zu rasch." z | z3 | z3 | z3 | z z!mf! A | A2 A | d3/2 d/ d |$ !>!f3 | e2!f! A | d2 d | %10
+w: ||||Das|ist ein|Flö- ten und|Gei-|gen, Trom-|pe- ten|
+ d3/2 d/ d | c3- | c z c | B2 B |$ B3/2 B/ B | C3 | z3 | z3 | z3 | z3 | z z!p! D |$ D3/2 D/ D | %22
+w: schmet- tern dar-|ein,|_ Trom-|pe- ten|schmet- tern dar-|ein;|||||da|tanzt wohl  im|
+ G2 G | !>!B3 | A2 A | B3/2 B/ B | c2 c | A3 |$[K:F]"^*" z z A | G3/2 G/ G | G2 G | F3 | z3 | z3 | %34
+w: Hoch- zeit-|rei-|gen die|Herz- al- ler-|lieb- ste|mein,|die|Herz- al- ler-|lieb- ste|mein.|||
+ z3 |$ z3 | z3 | z3 | z z!p! A | A2 A | d3/2 d/ d | !>!f3 |$ e2!f! A | d2 d | d3/2 d/ d | c3 | %46
+w: ||||Das|ist ein|Klin- gen und|Dröh-|nen das|ist ein|Klin- gen und|Dröh-|
+ c2 c | B3/2 B/ B | B2 B |$ C3 | z3 | z3 | z3 | z3 | z z!p! D | D2 D |$ G3/2 G/ G | !>!B3 | A2 A | %59
+w: nen, ein|Pau- ken und|ein Schal-|mei'n;|||||da-|zwi- schen|schluch- zen und|stöh-|nen, da-|
+ B2 B | B3/2 B/ B | A3 | A z A |$ G3/2 G/ G | G2 G | F3 | z3 | z3 | z3 | z3 |$ z3 | z3 | z3 | z3 | %74
+w: zwi- schen|schluch- zen und|stöh-|nen die|lieb- li- chen|En- ge-|lein.|||||||||
+ z3 | z3 | z3 |$ z3 | z3 | z3 | z3 | z3 | z3 | z3 | !fermata!z2 |] %85
+w: |||||||||||
+V:2
+!p! (GA | BAGed^c | dagfef | ed^cdef | e^cABGA) | (BAGed^c | dagfef |$ ed^cdef |!<(! e^cAcde)!<)! | %9
+!f! fedagf | efedcd | cBABAG | FGFEDE | DCB,CB,A, |$[K:bass] G,A,G,F,E,F, | E,G,B,CEG | %16
+[K:treble]!>(! AFC z (CD!>)! |!p! _EDCAG^F | GdcBAB | AG^FGAB | A^FD_ECD) |$ _EDCAG^F | GdcBAB | %23
+ AG^FGAB |!<(! A^FD z ga!<)! |!f! bagd'c'b | abagfg | f_ededc |$[K:F] BcBAGA | GF_EFED | CDCB,A,D | %31
+ A,C_EFAc | !>!dBFDB,F, | ^G,=B,=E^G=Be | !>!^cAE^C!p! (=GA |$ BAGed^c | dagfef | ed^cdef | %38
+ e^cABGA) | BAGed^c | dagfef | ed^cdef |$!<(! e^cAcde!<)! |!f! fedagf | efedcd | cBABAG | FGFEDE | %47
+ DCB,CB,A, |[K:bass] G,A,G,F,E,F, |$ E,G,B,CEG |[K:treble]!>(! AFC z (CD!>)! |!p! _EDCAG^F | %52
+ GdcBAB | AG^FGAB | A^FD_ECD) | _EDCAG^F |$ GdcBAB | AG^FGAB |!<(! A^FD z ga!<)! |!f! bagd'c'b | %60
+ abagfg | f_ededc | BcBAGA |$ GF_EFED | CDCB,A,D | A,C_EFAc | !>!dBFDB,F, | ^G,=B,=E^G=Be | %68
+ ^cAE^C!p! (=GA | BAGed^c |$ dagfef | ed^cdef | e^cAB)(!>!=cd | _edcag^f | gd'c'bab | ag^fgab | %76
+ a^fdf^ce) |$!>(! (a^fdf^ce) | (a^fdf^ce) | (a^fdf^ce)!>)! | (a^fdf^cf | =c^f=Bf"_dim."_Bf | %82
+ A^f_AfGf | ^F^f^Ef=Ef |!pp!({/!fermata!D} !fermata![D^F]4)) |] %85
+V:3
+ z2 |!ped! A,,2!ped-up! [G,B,^CE][G,B,CE][G,B,CE]2 | A,,2 [A,DF][A,DF][A,DF]2 | %3
+ A,,2 [^G,=B,F][G,B,F][G,B,F]2 | A,,2 [A,^CE][A,CE][A,CE]2 | A,,2 [G,B,^CE][G,B,CE][G,B,CE]2 | %6
+ A,,2 [A,DF][A,DF][A,DF]2 |$ A,,2 [^G,=B,F][G,B,F][G,B,F]2 | A,,2 [A,^CE][A,CE][A,CE]2 | %9
+ D,,2 [F,A,D][F,A,D][F,A,D]2 | G,,2 [F,B,D][F,B,D][F,B,D]2 | C,2 [E,B,C][E,B,C][E,B,C]2 | %12
+ F,,2 [E,A,C][E,A,C][E,A,C]2 | B,,2 (D2^F2) |$ G,,2 [B,G][B,G][B,G]2 | C,,2 [C,E,][C,E,][C,E,]2 | %16
+ F,,2 z A,F,C, | D,,2 [^F,A,][F,A,][F,A,]2 | D,,2 [G,B,][G,B,][G,B,]2 | %19
+ D,,2 [B,^C=E][B,CE][B,CE]2 | D,,2 [^F,A,][F,A,][F,A,]2 |$ D,,2 [^F,A,][F,A,][F,A,]2 | %22
+ D,,2 [G,B,][G,B,][G,B,]2 | D,,2 [B,^C=E][B,CE][B,CE]2 | D,,2 z A,^F,D, | %25
+ !>![G,,,G,,]2 [B,DG][B,DG][B,DG]2 | !>![C,,C,]2 [B,_EG][B,EG][B,EG]2 | %27
+ !>![F,,F,]2 [A,_EF][A,EF][A,EF]2 |$[K:F] !>![B,,,B,,]2 [A,DF][A,DF][A,DF]2 | %29
+ !>![_E,,_E,]2[K:treble] (G2=B2) |[K:bass] !>!C,2[K:] [_Ge][Ge][Ge]2 | %31
+[K:bass] !>!F,,2 [F,C][F,C][F,C]2 | !>!B,,2F,F, F, z | !>!=E,,2 [=E,=B,][E,B,] [E,B,]2 | %34
+ !>!A,,2 z2 B,E, |$ A,,2 [G,B,^CE][G,B,CE][G,B,CE]2 | A,,2 [A,DF][A,DF][A,DF]2 | %37
+ A,,2 [^G,=B,F][G,B,F][G,B,F]2 | A,,2 [A,^CE][A,CE][A,CE]2 | A,,2 [G,B,^CE][G,B,CE][G,B,CE]2 | %40
+ A,,2 [A,DF][A,DF][A,DF]2 | A,,2 [^G,=B,F][G,B,F][G,B,F]2 |$ A,,2 [A,^CE][A,CE][A,CE]2 | %43
+ D,,2 [F,A,D][F,A,D][F,A,D]2 | G,,2 [F,B,D][F,B,D][F,B,D]2 | C,2 [E,B,C][E,B,C][E,B,C]2 | %46
+ F,,2 [E,A,C][E,A,C][E,A,C]2 | B,,2 (D2^F2) | G,,2 [B,G][B,G][B,G]2 |$ %49
+"_*""_[IMSLP edition #51736 has an incorrect key signature for the first page (p.15) of this score and \nchanges at measure 28 (the second page, p.16) without prior warning from two flats to one flat.\nThis file restores the correct key signature of one flat throughout.]" C,,2 [C,E,][C,E,][C,E,]2 | %50
+ F,,2 z A,F,C, | D,,2 [^F,A,][F,A,][F,A,]2 | D,,2 [G,B,][G,B,][G,B,]2 | %53
+ D,,2 [B,^C=E][B,CE][B,CE]2 | D,,2 [^F,A,][F,A,][F,A,]2 | D,,2 [^F,A,][F,A,][F,A,]2 |$ %56
+ D,,2 [G,B,][G,B,][G,B,]2 | D,,2 [B,^C=E][B,CE][B,CE]2 | D,,2 z A,^F,D, | %59
+ !>![G,,,G,,]2 [B,DG][B,DG][B,DG]2 | !>![C,,C,]2 [B,_EG][B,EG][B,EG]2 | %61
+ !>![F,,F,]2 [A,_EF][A,EF][A,EF]2 | !>![B,,,B,,]2 [A,DF][A,DF][A,DF]2 |$ %63
+ !>![_E,,_E,]2[K:treble] (G2=B2) |[K:bass] !>!C,2[K:] [_Ge][Ge][Ge]2 | %65
+[K:bass] !>!F,,2 [F,C][F,C][F,C]2 | !>!B,,2F,F, F, z | !>!=E,,2 [=E,=B,][E,B,] [E,B,]2 | %68
+ !>!A,,2 z2 B,E, | A,,2 [G,B,^CE][G,B,CE][G,B,CE]2 |$ A,,2 [A,DF][A,DF][A,DF]2 | %71
+ A,,2 [^G,=B,F][G,B,F][G,B,F]2 | A,,2 [A,^CE][A,CE]!>![A,=C_E^F]2 | %73
+ !>!D,2 [A,C_E^F][A,CEF][A,CEF]2 | D,2 [B,DG][B,DG][B,DG]2 | D,2[K:treble] [D=EG^c][DEGc][DEGc]2 | %76
+[K:bass] D,2[K:treble] [D^FA][DFA][DGB]2 |$[K:bass] D,2[K:treble] [D^FA][DFA][DGB]2 | %78
+[K:bass] D,2[K:treble] [D^FA][DFA][DGB]2 |[K:bass] D,2[K:treble] [D^FA][DFA][DGB]2 | %80
+[K:bass] D,2 !>!^F4- | F6- | F6 | .^F,2.^E,2.=E,2 | !fermata![D,A,]4 |] %85
+V:4
+ x | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$[K:F] x3 | x[K:treble] x2 |[K:bass] x[K:] x2 | %31
+[K:bass] x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | %48
+ x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x[K:treble] x2 | %64
+[K:bass] x[K:] x2 |[K:bass] x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x[K:treble] x2 | %76
+[K:bass] x[K:treble] x2 |$[K:bass] x[K:treble] x2 |[K:bass] x[K:treble] x2 | %79
+[K:bass] x[K:treble] x2 |[K:bass] x .D.^C | .=C.=B,._B, | .A,._A,.G, | x3 | x2 |] %85

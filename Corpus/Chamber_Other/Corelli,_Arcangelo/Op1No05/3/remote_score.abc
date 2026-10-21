@@ -1,0 +1,42 @@
+X:1
+T:Sonata da chiesa
+T:Adagio - Allegro
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3 4
+L:1/16
+Q:1/4=76
+M:3/2
+I:linebreak $
+K:F
+V:1 treble nm="StringInstrument" snm="Str"
+V:2 treble nm="StringInstrument" snm="Str"
+V:3 bass nm="StringInstrument" snm="Str"
+V:4 bass nm="Keyboard" snm="Kb"
+V:1
+ z8 z8 d8 | d16 d8 | d8 c16 | d24 ||$[M:4/4][Q:1/4=120] z2 Bc d2 cB f2 fg a2 gf | b8 a4 f4 | %6
+ d8 c8 |[Q:1/4=76] d4 c4 B8 |$ A8 !fermata!z8 ||[M:4/4][Q:1/4=120] z2 FG A2 GF c2 cd e2 dc | %10
+ f8 e4 c4 | a8 g8 |$[Q:1/4=76] a4 g4 f8 | e8 z8 ||[M:3/2] _e8 e12 d4 | d24 | f8 ^f16 | g24 |$ %18
+ B8 c16 | d24 ||[M:4/4][Q:1/4=128] z16 | z16 |$ z2 Bc d2 cB f2 fg a2 gf | b4 a8 g4- | g4 c'8 b4- | %25
+ b4 a4[Q:1/4=76] _a8 |$ g8 f8 ||[M:3/2][Q:1/4=72] z8 z8 B8- | B8 A16 | B24 || %30
+V:2
+ z8 z8 B8 | A16 A8 | G8 G12 A4 | ^F24 ||$[M:4/4] z16 | z2 Bc d2 cB f2 fg a2 gf | b8 a8 | %7
+ b4 f8 e4 |$ f8 !fermata!z8 ||[M:4/4] z16 | z2 FG A2 GF c2 cd e2 dc | f8 e8 |$ f4 c'8 =b4 | %13
+ c'8 z8 ||[M:3/2] g8 f12 f4 | f24 | d8 c16 | B24 |$ d8 G16 | ^F24 ||[M:4/4] z16 | %21
+ z2 Bc d2 cB f2 fg a2 gf |$ b8 a8 | g8 f8 | b8 a8 | g8 f8- |$ f4 e4 f8 ||[M:3/2] z8 z8 F8- | %28
+ F8 _E16 | D24 || %30
+V:3
+ z8 z8 G,8 | ^F,16 =F,8 | _E,24 | D,24 ||$[M:4/4] z16 | z16 | %6
+ z2 B,,C, D,2 C,B,, F,2 F,G, A,2 G,F, | B,4 A,4 G,4 C,4 |$ F,8 !fermata!z8 ||[M:4/4] z16 | z16 | %11
+ z2 F,G, A,2 G,F, C2 CD E2 DC |$ F4 E4 D4 G,4 | C8 z8 ||[M:3/2] C,8 A,,16 | B,,24 | B,8 A,16 | %17
+ G,24 |$ G,8 _E,16 | D,24 ||[M:4/4] z2 B,,C, D,2 C,B,, F,2 F,G, A,2 G,F, | B,8 A,8 |$ G,8 F,8 | %23
+ _E,4 C,4 D,4 B,,4 | G,4 _E,4 F,4 D,4 | _E,4 C,8 =B,,4 |$ C,8 F,,8 ||[M:3/2] z8 z8 D,8- | %28
+ D,8 C,16 | B,,24 || %30
+V:4
+ z8 z8"m" G,8 |"" ^F,16"m" =F,8 |"m""m" _E,24 |"" D,24 ||$[M:4/4]"" B,8"" A,8 |"m" G,8"" F,8 | %6
+"" z2 B,,C, D,2 C,B,,"" F,2 F,G, A,2 G,F, |"" B,4"" A,4"m" G,4"" C,4 |$"" F,8 !fermata!z8 || %9
+[M:4/4]"" F,8"" E,8 |"m" D,8"" C,8 |"" z2 F,G, A,2 G,F,"" C2 CD E2 DC |$"" F4"" E4"m" D4"" G,4 | %13
+"" C8 z8 ||[M:3/2]"" C,8"" A,,16 |"" B,,24 | B,8"m" A,16 |"m" G,24 |$ G,8"m" _E,16 |"" D,24 || %20
+[M:4/4]"" B,,8"" A,,8 |"" B,,8"" A,,8 |$"m" G,,8"" F,,4 F,4 |"" _E,4"m" C,4"m" D,4"m" B,,4 | %24
+"m" G,4"m" _E,4"" F,4"" D,4 |"" _E,4"m""" C,8"m" =B,,4 |$"""" C,8"" F,,8 ||[M:3/2] z8 z8"" D,8- | %28
+ D,8"m" C,16 |"" B,,24 || %30

@@ -1,0 +1,70 @@
+X:1
+T:Lyric Pieces
+T:Matrosenes oppsang
+C:Edvard Grieg
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/4
+Q:1/4=200
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Midi_1"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+L:1/8
+V:1
+"^Allegro vivace e marcato"!f! !>![EG]2 !>![EA]2 | !>![CEG]2- [CEG] .[CFc] | %2
+ .[CFB] .[CFA] .[G,CG] F/E/ | .[G,B,D] .[G,A,C] !>![G,B,D]2 | !>![GB]2 !>![Gc]2 | %5
+ !>![EGB]2- [EGB] .[EGc] |$ .[D^FB] .[DFA] .[DGd] c/B/ | .[D^FA] .[B,DG] !>![B,DG]2 | %8
+!f! !>![EG]2 !>![EA]2 | !>![CEG]2- [CEG] .[CFc] | .[CFB] .[CFA] .[G,CG] F/E/ | %11
+ .[G,B,D] .[G,A,C] !>![G,B,D]2 |$ !>![GB]2 !>![Gc]2 | !>![EGB]2- [EGB] .[EGc] | %14
+ .[D^FB] .[DFA] .[DGd] c/B/ | .[D^FA] .[B,DG] !>![B,DG]2 |!p! [B,D]2 [C!courtesy!=F]2 | D4 |$ %18
+ ([B,D]/[A,C]/)[G,B,]/[A,C]/ .[B,D] .[B,D] | !>![CF]2 [B,D] z | [CF]2 [EA]2 | [A,CF]4 | %22
+ (F/E/)D/E/ .F .F | !>![CEA]2 [EAc] z |$ [DGB]2 [FAd]2 | [DGB]4 | .[DGB] .[DGB] .[FAd] .[FAd] | %27
+ [DGB]4 |"^cresc." .[DGB] .[DGB] .[FAd] .[FAd] | .[DGB] .[DGB] .[FAd] .[FAd] |$ %30
+ .[DGB]"^poco ritard." .[FAd] .[DGB] .[FAd] | .[DGB] .[FAd] .[DGB] .[FAd] | %32
+"^a tempo""^ma   ben  ten."!ff! !>![G,CEG]2 !>![A,CEA]2 | %33
+ !>![G,CEG]2-"^poco  a poco ritard." [G,CEG] !>![CEc] | %34
+ !>![B,B] !>![A,A] !>![G,CEG] !>![F,F]/!>![E,E]/ | .[D,G,B,D] .!fermata![C,C] x2 |$ %36
+!p! [B,D]2 [C!courtesy!=F]2 | [B,D]4 | ([B,D]/[A,C]/)[G,B,]/[A,C]/ .[B,D] .[B,D] | %39
+ !>![CF]2 [B,D] z | [CF]2 [EA]2 | [A,CF]4 | (F/E/)D/E/ .F .F |$ !>![CEA]2 [EAc] z | [DGB]2 [FAd]2 | %45
+ [DGB]4 | .[DGB] .[DGB] .[FAd] .[FAd] | [DGB]4 |"_cresc." .[DGB] .[DGB] .[FAd] .[FAd] | %49
+ .[DGB] .[DGB] .[FAd] .[FAd] |$ .[DGB] .[FAd] .[DGB] .[FAd] | .[DGB] .[FAd] .[DGB] .[FAd] | %52
+!ff!"^ma   ben  ten.""^a tempo" !>![G,CEG]2 !>![A,CEA]2 | !>![G,CEG]2- [G,CEG] !>![CEc] | %54
+ !>![B,B] !>![A,A] !>![G,CEG] !>![F,F]/!>![E,E]/ | .[D,G,B,D] .[C,C] !>!!fermata![E,G,C]2 |] %56
+V:2
+"" !>!C2"m" !>![A,C]2 |"" z"" .[G,,G,]"" .[C,C]"" .[A,,A,] | %2
+"" .[G,,G,]"" .[F,,F,]"" .[E,,E,]"" .[F,,F,] |"" .[G,,G,]"m""" [D,,D,]2"" .[G,,,G,,] | %4
+"m" !>!E2"" !>![CE]2 |"m" z"m" .[B,,B,]"m" .[E,E]"m" .[A,,A,] |$ %6
+"" .[D,D]"" .[C,C]"" .[B,,B,]"" .[C,C] |"" .[D,D]"" .[G,,G,]"" .[D,,D,]"" .[G,,,G,,] | %8
+"" !>!C2"m" !>![A,C]2 |"" z"" .[G,,G,]"" .[C,C]"" .[A,,A,] | %10
+"" .[G,,G,]"" .[F,,F,]"" .[E,,E,]"" .[F,,F,] |"" .[G,,G,]"m""" [D,,D,]2"" .[G,,,G,,] |$ %12
+"m" !>!E2"" !>![CE]2 |"m" z"m" .[B,,B,]"m" .[E,E]"m" .[A,,A,] | %14
+"" .[D,D]"" .[C,C]"" .[B,,B,]"" .[C,C] |"" .[D,D]"" .[G,,G,]"" .[D,,D,]"" .[G,,,G,,] | %16
+"C{" G,2"m" [D,A,]2 |"" z"" .D,"" .G, .G,, |$ G,2 .G, .G, |"m" !>![D,A,]2"" G, z | %20
+"m" [D,A,]2"" [F,C]2 |"" z"m" .D,"" .G, .G,, |"m""m" A,2"m" A, A, |"" !>!F,2"m" ^F, z |$ %24
+"" G,2"m" D2 |"" z .D,"" .G, .G,, |"" z"" .G,"m" .D .D, |"" z .D,"" .G, .G,, | %28
+"" z"" .G,"m" .D .D, |"" z"" .G,"m" .D .D, |$"" z"" .G,"" .D"" .G, | %31
+"" .D,"" .[G,,G,]"" .[D,,D,]"" .[G,,,G,,] |"" !>![C,,C,] !>![D,,D,]"m" !>![E,,E,] !>![D,,D,] | %33
+"" !>![C,,C,] !>![B,,,B,,] !>![A,,,A,,]"" !>![G,,,G,,] | %34
+"" !>![^F,,,^F,,]"" !>![=F,,,=F,,]"" !>![E,,,E,,]"" !>![F,,,F,,] | %35
+"" .[G,,,G,,]""!ped! .[C,,,C,,] !>!!fermata![C,E,G,C]2!ped-up! |$"" G,2"m" [D,A,]2 | %37
+"" z"" .D,"" .G, .G,, | G,2 .G, .G, |"m" !>![D,A,]2"" G, z |"m" [D,A,]2"" [F,C]2 | %41
+"" z"m" .D,"" .G, .G,, |"m""m" A,2"m" A, A, |$"" !>!F,2"m" ^F, z |"" G,2"m" D2 | %45
+"" z .D,"" .G, .G,, |"" z"" .G,"m" .D .D, |"" z .D,"" .G, .G,, |"" z"" .G,"m" .D .D, | %49
+"" z"" .G,"m" .D .D, |$"" z"""^poco ritard." .G,"" .D"" .G, | %51
+"" .D,"" .[G,,G,]"" .[D,,D,]"" .[G,,,G,,] |"" !>![C,,C,] !>![D,,D,]"m" !>![E,,E,] !>![D,,D,] | %53
+"" !>![C,,C,] !>![B,,,B,,]"^poco  a poco ritard." !>![A,,,A,,]"" !>![G,,,G,,] | %54
+"" !>![^F,,,^F,,]"" !>![=F,,,=F,,]"" !>![E,,,E,,]"" !>![F,,,F,,] | %55
+"" .[G,,,G,,]""!ped! .[C,,,C,,] !>!!fermata![C,,G,,C,]2!ped-up! |] %56
+V:3
+ x4 | x4 | x3 [A,C] | x4 | x4 | x4 |$ x3 [EG] | x4 | x4 | x4 | x3 [A,C] | x4 |$ x4 | x4 | x3 [EG] | %15
+ x4 | x4 | B,4 |$ x4 | x4 | x4 | x4 | C2 C C | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %33
+ x4 | ^D2 x !>![A,C] | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 | C2 C C |$ x4 | x4 | x4 | x4 | x4 | x4 | %49
+ x4 |$ x4 | x4 | x4 | x4 | ^D2 x [A,C] | x4 |] %56
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | %19
+ x8 | x8 | x8 | (D,E,)F,E, .D,2 .D,2 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | %34
+ x8 | x4 !>!!fermata![C,,G,,]4 |$ x8 | x8 | x8 | x8 | x8 | x8 | (D,E,)F,E, .D,2 .D,2 |$ x8 | x8 | %45
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |] %56

@@ -1,0 +1,86 @@
+X:1
+T:5 Lieder und Gesänge, Op.127
+T:Sängers Trost
+C:Robert Schumann
+Z:Justinus Kerner
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { 3 | ( 4 5 6 ) }
+L:1/8
+Q:1/4=71
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+L:1/16
+V:4 bass 
+V:5 bass 
+V:6 bass 
+L:1/4
+V:1
+"^Ziemlich langsam" z6 |!p! B2 B (c>B) c | d3 d2 z |!p! d2 d =e2 e | f3- f z z | f2 f g2 d | %6
+w: |Weint auch einst * kein|Lieb- chen|Trä- nen auf mein|Grab: _|träu- feln doch die|
+ e3 e3 |!<(! d2 d{/d} f2 e!<)! |!>(! c3-!>)! c2 z |!p! B2 B (c>B) c |!<(! d3 d3-!<)! | %11
+w: Blu- men|mil- den Tau hin-|ab; _|weilt an ihm _ kein|Wan- drer|
+ d d3/2 d/ =e2 e | f3- f2 z | f2 f g2 d | e3 e e e | (d3 f2) e | c3- c2 z | %17
+w: _ im Vor- ü- ber-|lauf, _|blickt auf sei- ner|Rei- se doch der|Mond _ dar-|auf. _|
+"^nach und nach bewegter"[Q:1/4=72] B2 B (c>B) c | d3 d3 |[Q:1/4=73] z d3/2 d/ =e2 e | f3- f2 z | %21
+w: Denkt auf die- * sen|Flu- ren|bald kein Erd- ner|mein, _|
+[Q:1/4=74] f2 f g2 d | e3 e2 z |[Q:1/4=72] z d3/2 d/ f2 e | c3- c2 z |[Q:1/4=71] d2 d (e>d) e | %26
+w: denkt doch mein die|Au- e|und der stil- le|Hain. _|Blu- men, Hain * und|
+ =e3 f3 | f2 f (_gf) g | (=g3 _a) z z | x _d d!<(! =d2 d | f2 e =e2 e!<)! | %31
+w: Au- e,|Stern und Mon- * den-||die ich sang, ver-|ges- sen ih- res|
+"^ritard."[Q:1/4=70] !>!f3-[Q:1/4=68] f2 A |[Q:1/4=71] B3- B2 z | z6 | z6 | z6 | z6 | %37
+w: Sän- * gers|nicht. _|||||
+[Q:1/4=70] z6[Q:1/4=68][Q:1/4=65] | z6 |] %39
+w: ||
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+w: |||||||||||||||||||
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z _d d d2 d | _d6- | d _d d x2 x | x6 | x6 | x6 | x6 | %34
+w: |||||||||licht,|_ _ _|||||
+ x6 | x6 | x6 | x6 | x6 |] %39
+w: |||||
+V:3
+!p! z[I:staff +1] (D,G,B,A,G,[I:staff -1] z[I:staff +1] D,G,B,A,G,) | %1
+[I:staff -1] z[I:staff +1] (D,G,B,A,G,[I:staff -1] z[I:staff +1] E,A,CB,A,) | %2
+[I:staff -1] z[I:staff +1] (D,B,DCB,[I:staff -1] z[I:staff +1] F,B,DCB,) | %3
+!<(![I:staff -1] z[I:staff +1] (F,B,DCB,[I:staff -1] z[I:staff +1] G,^C=EDC)!<)! | %4
+[I:staff -1] z (F,DF=ED z A,DFED) | z (A,DF=ED z =B,DGFD) | z (G,C_EDC z!<(! F,CFEC) | %7
+ z[I:staff +1] (F,B,DB,_A,- A,G,ECG,E,)!<)! | %8
+!>(![I:staff -1] z[I:staff +1] (F,_B,=A,F,E, D,E,D,C,B,,A,,)!>)! | %9
+!p![I:staff -1] z[I:staff +1] (D,G,B,A,G,[I:staff -1] z[I:staff +1] E,A,CB,A,) | %10
+[I:staff -1] z[I:staff +1] (D,B,DCB,[I:staff -1] z[I:staff +1] F,B,DCB,) | %11
+!<(![I:staff -1] z[I:staff +1] (F,B,DCB,[I:staff -1] z[I:staff +1] G,^C=EDC)!<)! | %12
+[I:staff -1] z (F,DF=ED z A,DFED) | z (A,DF=ED z =B,DGFD) | z (G,C_EDC z F,CFEC) | %15
+ z[I:staff +1] (F,B,DB,_A,- A,G,ECG,E,) |[I:staff -1] z[I:staff +1] (F,_B,=A,F,E, D,E,D,C,B,,A,,) | %17
+"^nach und nach bewegter"[I:staff -1] z[I:staff +1] (D,B,G,D,B,,[I:staff -1] z[I:staff +1] E,CA,E,C,) | %18
+[I:staff -1] z[I:staff +1] ([D,F,]DB,F,D,[I:staff -1] z[I:staff +1] [D,F,]DB,F,D,) | %19
+[I:staff -1] z (F,DB,F,[I:staff +1]D,[I:staff -1] z G,=E^CG,[I:staff +1]=E,) | %20
+[I:staff -1] z (A,FDA,F, z A,FDA,F,) | z (A,FDA,F, z DGFDG,) | z (G,ECG,E, z CFECF,) | %23
+ z (B,FDB,F, z G,ECG,E,) | z (F,ECA,F,[I:staff +1] E,C,A,,F,,E,,C,,) | %25
+[I:staff -1] z[I:staff +1] (D,DB,_A,D,[I:staff -1] z[I:staff +1] E,EB,A,E,) | %26
+[I:staff -1] z[I:staff +1] (=E,=EB,_A,E,[I:staff -1] z[I:staff +1] F,FB,A,F,) | %27
+[I:staff -1] z (F,F_D_C_A, z _G,_GDB,G, | z =G,=G=E_DB, z _A,_AFD_C) | z (B,B_G_DB, z B,BG=DB,) | %30
+ z (B,B_GEB, z B,B=E_DB,) | z"_ritard." (B,F=DB,[I:staff +1]F,- F,_E,A,F,E,C,) | %32
+[I:staff -1] z[I:staff +1] (D,DB,F,D,[I:staff -1] z[I:staff +1] E,EA,F,E,) | %33
+[I:staff -1] z[I:staff +1] (=E,=EB,G,E,[I:staff -1] z[I:staff +1] F,F=B,_A,F,) | %34
+[I:staff -1] z (G,G_ECG, z A,AECA,) | z!<(! (B,BGEB,!<)! z!>(! FfcA!>)!F) | %36
+ z!<(! (B,BGEB,!<)! z!>(! FfcA!>)!F) | z (^FBGEB,- B,6-) |!p! B,12 |] %39
+V:4
+ G,,6 | (G,,3 F,,3 | B,,6) | (B,,3 A,,3 | D,,3) D,3- | D,3 G,,3 | (C,3 A,,3) | (B,,3 E,,3) | %8
+ (F,,3 ^F,,3) | (G,,3 =F,,3) | B,,6 | (B,,3 A,,3 | D,,3) D,3- | D,3 (G,,3 | C,3 A,,3) | %15
+ (B,,3 E,,3) | (F,,3 ^F,,3) | (G,,3 =F,,3) | B,,6 | (B,,3 A,,3 | D,,3) D,3- | (D,3 =B,,3) | %22
+ (C,3 A,,3) | (B,,3 E,,3 | F,,3-) F,,2 x | ([B,,,B,,]3 [C,,C,]3 | [^C,,^C,]3 [D,,D,]3) | %27
+ [_D,,_D,]3 D,3- | ([D,,D,]3 _D,3) | (_D,3 =D,3 | E,3 =E,3) | [F,,-F,]3 [F,,,F,,]3 | %32
+ ([B,,,B,,]3 [C,,C,]3 | [^C,,^C,]3 [D,,D,]3 | [_E,,_E,]3 [^F,,^F,]3 | [G,,G,]3) ((!>![=F,,E,-A,]3 | %36
+ [G,,E,G,]3)) ((!>![F,,E,-A,]3 | [B,,-E,B,]3)) ([B,,G,]/E,/B,,/G,,/E,,/B,,,/-) | B,,,6 |] %39
+V:5
+ x6 | x6 | x6 | x6 | D,,6- | D,,3 x3 | x6 | x3 (=B,,2 C,) | x6 | x6 | x6 | x6 | D,,6- | D,,3 x3 | %14
+ x6 | x3 (=B,,2 C,) | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 (=B,,2 C,) | x6 | x6 | x6 | _D,,6- | %28
+ x6 | _G,,6 | _G,,6 | x6 | x6 | x6 | x6 | x6 | x6 | x5 (E,, | F,,6) |] %39
+V:6
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ [D,F,]3 |] %39

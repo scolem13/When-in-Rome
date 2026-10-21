@@ -1,0 +1,51 @@
+X:1
+T:6 Lieder, Op.4
+T:Lied in der Ferne
+C:Emilie Zumsteeg
+Z:Theodor Hell
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+L:1/4
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+!f!"^Innig, mit sanfter Bewegung." ^A2 B2 z4 | A2 z2 z!mp! G F E |!<(! D2 z2 z2 F F!<)! | %3
+w: Ein- sam?|Nein, das bin ich|nicht, denn die|
+!>(! G3 F E3 F | E2 D2!>)! z2!mp!!<(! F F |$ F3 B,!<)!!>(! B3 A | A2 G2!>)! z2!p!!<(! F F | %7
+w: Gei- ster mei- ner|Lie- ben, die in|fer- ner Hei- mat|blie- ben, sie um-|
+ E4 ^E4 | F4 z2 ^G G!<)! |!mf!!>(! (B2 A4) A2 |$ D2!>)! z2 z2!mf! d d | %11
+w: schwe- ben|mich, sie um-|schwe- * ben|mich, sie um-|
+[Q:1/4=118]!<(! (d4!<)!!>(! (A4)!>)! | D4) z4 |[Q:1/4=116] z8[Q:1/4=110] | z8 :| %15
+w: schwe- ben|mich.|||
+V:2
+!f! .[CE^A]2 .[D=FB]2 z4 |!f! [DEA]2 [A,DE]2 z2!p! [G,A,E]2 | %2
+!p! DxF[I:staff +1]A,[I:staff -1] DxF[I:staff +1]A, | %3
+[I:staff -1] GxF[I:staff +1]D[I:staff -1] GxG^C | %4
+ DxF[I:staff +1]A,[I:staff -1] DxF[I:staff +1]A, |$ %5
+[I:staff -1] FxF[I:staff +1]B,[I:staff -1] FxF[I:staff +1]B, | %6
+[I:staff -1] ExG[I:staff +1]B,[I:staff -1] GxF=D | %7
+!<(! [B,DE] !>![B,DE]2 [B,DE] [B,D^E] !>![B,DE]2 [B,DE] | [A,DF] [A,DF]2 [A,DF]2 [B,DG]2 [D=F^G] | %9
+ [D^F]A,[^DF]A, [EG]A,[CE]A, |$ DxF[I:staff +1]A,[I:staff -1] DxFD | %11
+ [G,G]D[G,G]D!<)!!f! [F,F]!>(!D[A,E](C | %12
+ [A,D])!mp!A,!>)!"^decresc."F[I:staff +1]A,[I:staff -1] ^E[I:staff +1]^G,[I:staff -1]F[I:staff +1]A, | %13
+[I:staff -1] D[I:staff +1] A,,[F,A,]A,, [^E,^G,]A,,[F,A,]A,, | [D,F,]2 [D,F,]2 !fermata![D,F,]4 :| %15
+V:3
+ .G, .^G, z2 | A, z A,, z | [D,,D,] A,, [D,,D,] A,, | [D,,D,] B,, [D,,_B,,] A,, | %4
+ [D,,D,] A,, [D,,D,] A,, |$ [^D,,^D,] B,, [D,,D,] B,, | [E,,E,] B,, [E,,E,] F,, | %7
+ G,, [G,,,G,,] [^G,,,^G,,] [G,,,G,,] | [A,,,A,,] [=C,,=C,] [B,,,B,,] [_B,,,_B,,] | %9
+ [A,,,A,,]3 [A,,,A,,] |$ [D,,D,] A,, [D,,D,] =C, | B,, _B,, A,, (G,, | F,,) z z ([A,,,A,,] | %13
+ D,,) z"^ritard." z (A,,, | D,,) [D,,A,,] [D,,A,,]2 :| %15
+V:4
+ x8 | x8 | F,A,F, x F,A,F, x | G,B,G, x G,[I:staff -1]E[I:staff +1]G, x | F,A,F, x F,A,F, x |$ %5
+ F,B,A, x F,B,A, x | G,B,G, x G,B,A, x | x8 | x8 | x8 |$ F,A,F, x F,A,A, x | x8 | %12
+ x2 F, x ^E, x F, x | F, x7 | x8 :| %15
+V:5
+ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | D,,2- D,,2 | D,, x3 | x4 | x4 :| %15

@@ -1,0 +1,82 @@
+X:1
+T:Die schöne Müllerin (D.795)
+T:Der Müller und der Bach
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=40
+M:3/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Singstimme"
+L:1/16
+V:2 treble nm="Pianoforte"
+L:1/16
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Mässig" z6 | z6 |"^(Der Müller)" d3 d c B | Ad A3 d | ^f2>d2 c A | B4 z B |$ d4 c B | _Ae A3 G | %8
+w: ||Wo ein treu- es|Her- * ze in|Lie- * be ver-|geht, da|wel- ken die|Li- * lien auf|
+ ^F=Adc BA | G4 z d | d4 e f | ed c3 B | A2>e2 d^c |$ d4 z d | d4 c B | ec _A3 A | G=A BA BG | %17
+w: je- * * * dem *|Beet; da|muss in die|Wol- * ken der|Voll- * mond *|geh'n, da-|mit sei ne|Thrä- * nen die|Men- * schen * nicht *|
+ d6- | d2 z3 d | d4 c B | Ad A3 d |$ ^f2>d2 c A | B4 z d | d4 c B | _Ae A3 G | ^F=Adc B A | G4 z2 | %27
+w: seh'n;|_ da|hal- ten die|Eng- * lein die|Au- * gen sich|zu und|schluch- zen und|sin- * gen die|See- * * * le zur|Ruh.|
+ z4 z"^(Der Bach)" =B ||$[K:G] B4 A G | Ge e3 e | e2A2 ^cB | A4 z d | =c2 A3 d | Bd g3 e |$ %34
+w: Und|wenn sich die|Lie- * be dem|Schmerz * ent- *|ringt, ein|Stern- lein, ein|neu- * es, am|
+ d^c ed cd | B4 z d | c2 A3 d | Bd g3 G | GBd3/2e/4d/4 c F | G4 z d |$ e2 A3 e | ef d3 d | %42
+w: Him- * mel * er- *|blinkt, ein|Stern- lein, ein|neu- * es, am|Him- * * * * mel er-|blinkt; da|sprin- gen drei|Ro- * sen halb|
+ d^c BA Bc | ^c2d2 z d | e2 A3 e | gf d3 d |$ d^cec BA | d2>e2 d =c | B3 A G2 | Ge e3 e | %50
+w: roth * und * halb *|weiss, * die|wel- ken nicht|wie- * der, aus|Dor- * * * nen- *|reis; _ und die|En- ge lein|schnei- * den die|
+ eA A2 ^cB | A4 z d |$ =c2 A3 d | Bd g3 e | d^c ed cd | B4 z d | c2 A3 d | Bd g3 G |$ %58
+w: Flü- * gel sich *|ab und|geh'n al- le|Mor- * gen zur|Er- * de * her- *|ab, und|geh'n al- le|Mor- * gen zur|
+ GBd3/2e/4d/4 c F | G4 z2 | z4 z"^(Der Müller)" d | d3 d c _B | Ad A3 d | f2>d2 c A |$ _B4 z d | %65
+w: Er- * * * * de her-|ab.|Ach,|Bäch- lein, lieb- es|Bäch- * lein, du|meinst- * es so|gut, ach,|
+ d3 d c _B | _ec _A3 A | (G=A_B3/2c/4B/4 A) G | d6- | d4 z d |$ =f4 _e d | _ed c3 _B | A2>_e2 dc | %73
+w: Bäch- lein, a- ber|weisst * du wie|Lie- * * * * * be|thut?|_ Ach,|un- ten, da|un- * ten die|küh- * le _|
+ d4- d d | d3 d c =B | =ec A3 G |$ FA d^c ed | B4 z d | e3 d c B | ec A3 G | FA d^c ed | G4 z2 |$ %82
+w: Ruh, _ ach,|Bäch- lein, lieb es|Bäch- * lein, so|sin- * ge * nur *|zu, ach,|Bäch- lein, lieb es|Bäch- * lein, so|sin- * ge * nur *|zu!|
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %89
+w: |||||||
+V:2
+ z2 [B,G]4 | z2 [B,G]4 | z2 [B,G]4 | z2 [A,^F]4 | z2 [A,^F]4 | z2 [B,G]4 |$ z2 [B,G]4 | %7
+ z2 [_A,E_A]4 | z2 [=A,^F]4 | z2 [B,G]4 | z2!>(! [=B,FG]4!>)! | z2 [CEG]4 | z2 [A,EF]4 |$ %13
+ z2 [B,DF]4 | z2 [B,G]4 | z2 [CE_A]4 | z2 [B,=EG]4 | z2 [A,^F]4 | z2 [A,^F]4 | z2 [B,G]4 | %20
+ z2 [A,^F]4 |$ z2 [A,^F]4 | z2 [B,G]4 | z2 [B,G]4 | z2 [CE_A]4 | z2 [=A,^F]4 | z2 [B,G]4 | %27
+ z2 [B,G]4 ||$[K:G] (B,DGDB,D) | (CEGECE) | (A,EAEA,E) | (A,FAFA,F) | (CDADCD) | (B,DGDB,D) |$ %34
+ (CDFDCD) | (B,DGDB,D) | (CDADCD) | B,DGG,!<(!B,G!<)! |!>(! ((([G,B,G]4!>)! [A,CF]2))) | %39
+ B,DGDB,G, |$ G,A,EA,G,A, | F,A,DA,F,A, | G,A,^CA,G,A, | F,A,DA,F,A, | G,A,EA,G,A, | F,A,DA,F,A, |$ %46
+ G,A,^CA,G,A, | F,A,DA,F,A, | B,DGDB,D | CEGECE | A,EAEA,E | A,FAFA,F |$ CDADCD | B,DGDB,D | %54
+ CDFDCD | B,DGDB,D | CDADCD | B,DGG,B,G |$ ((([G,B,G]4 [A,CF]2))) | B,DGDB,D | _B,DGDB,D | %61
+ _B,DGDB,D | A,DFDA,D | A,DFDA,D |$ _B,DGDB,D | _B,DGDB,D | C_E_AECE | _B,=EGEB,E | A,DFDA,D | %69
+ A,DFDA,D |$ =B,=FGFB,F | C_EGECE | A,_E=FEA,E | _B,D=FDB,D | =B,DGDB,D | A,=EGEA,E |$ A,CFCA,C | %77
+ G,B,GB,G,B, | G,DGDG,D | A,EGEA,E | A,CFCA,C | B,DGDBG |$!>(! (d^cedcd)!>)! |!>(! (B,DGDBG)!>)! | %84
+!>(! (d^cedcd)!>)! | (GDBGDA) | (GDBGDA) | [B,G]6- | [B,G]6 |] %89
+V:3
+!p! [G,,D,]3 | [G,,D,]3 | [G,,D,]3 | [G,,D,]3 | (E, D,2) | [G,,D,]3 |$ [G,,D,]3 | [C,,C,]3 | %8
+ [D,,D,]3 | [G,,D,]3 | [G,,D,]3 | [C,,C,]3 | F,,3 |$ B,,3 | [G,,D,]3 | [C,,C,]3 | [^C,,^C,]3 | %17
+ [D,,D,]3 | [D,,D,]3 | [G,,D,]3 | [G,,D,]3 |$ (E, D,2) | [G,,D,]3 | [G,,D,]3 | [C,,C,]3 | %25
+ [D,,D,]3 | [G,,D,]3 | [G,,D,]3 ||$[K:G] [=F,G,]3 | [E,G,]3 | G,3 | F,3 | (F,D,>F,) | (G,D,>G,) |$ %34
+ (A,D,>A,) | (G,D,>G,) | (F,D,>F,) | (G,G,,3/2) [E,,E,]/ | [D,,D,]3 | [G,,D,]3 |$ ^C,A,,>C, | %41
+ D,A,,>D, | E,A,,>E, | D,A,,>D, | ^C,A,,>C, | D,A,,>D, |$ E,A,,>E, | D,3 | [=F,G,]3 | [E,G,]3 | %50
+ G,3 | F,3 |$ F,D,>F, | G,D,>G, | A,D,>A, | G,D,>G, | F,D,>F, | G,G,,3/2 [E,,E,]/ |$ [D,,D,]3 | %59
+ G,, D,2 | G,, D,2 | G,, D,2 | G,, D,2 | G,, D,2 |$ G,, D,2 | G,, D,2 | C,, C,2 | ^C,, ^C,2 | %68
+ D,, D,2 | D,, D,2 |$ G,, D,2 | C,, C,2 | =F,, =F,2 | _B,, =F,2 | =B,,, =B,,2 | C,, C,2 |$ %76
+ D,, D,2 | G,, D,2 | B,,, B,,2 | C,, C,2 | D,, D,2 | [G,,D,]3 |$ [G,,D,A,]3 | [G,,D,G,]3 | %84
+ [G,,D,A,]3 | [G,,D,]3 | [G,,D,]3 | (D,/B,,/G,/D,/E,/D,/4B,,/4) | [G,,,D,,G,,]3 |] %89
+V:4
+ x3 | x3 | x3 | x3 | G,,3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 |$ G,,3 | x3 | x3 | x3 | x3 | x3 | x3 ||$[K:G] (D, G,,2) | (G,, C,2) | (^C, A,,2) | %31
+ (A,, D,2) | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | %48
+ (D, G,,2) | (G,, C,2) | (^C, A,,2) | (A,, D,2) |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | G,,3 | %60
+ G,,3 | G,,3 | G,,3 | G,,3 |$ G,,3 | G,,3 | C,,3 | ^C,,3 | D,,3 | D,,3 |$ G,,3 | C,,3 | =F,,3 | %73
+ _B,,3 | B,,,3 | C,,3 |$ D,,3 | G,,3 | B,,,3 | C,,3 | D,,3 | x3 |$ x3 | x3 | x3 | x3 | x3 | G,,3 | %88
+ x3 |] %89
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 ||$[K:G] x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %37
+ x2 G, | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %55
+ x3 | x3 | x2 G, |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %73
+ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ [CF]3 | x3 | [CF]3 | (B,2 C) | (B,2 C) | x3 | x3 |] %89

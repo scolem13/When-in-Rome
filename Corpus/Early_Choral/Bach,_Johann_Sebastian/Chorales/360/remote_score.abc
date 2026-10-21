@@ -1,0 +1,31 @@
+X:1
+T:Chorale 360:
+T:Wir Christenleut habn jetzund Freud
+T:Chorale 360:
+T:Wir Christenleut habn jetzund Freud
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="S,A" snm="Pno"
+L:1/4
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ F/G/ | A G !fermata!F F/G/ | A G !fermata!F c | B A !fermata!G G | A A B B |$ c c B A | %6
+ G2 !fermata!F c | B A/G/ !fermata!G c | B A !fermata!G G |$ A A B B | c c B A/^G/ | %11
+ G2 !fermata!F |] %12
+V:2
+ C2 | F2 ^E2 F2 F2 | F2 ^E2 C2 F2 | F^E F2 E2 E2 | F2 F2 FG/A/ G2 |$ GF ^EF G3 F | F2 ^E2 C2 F2 | %7
+ F^E F2 E2 F=E | ^DE FD E2 G^E |$ F2 AF D2 B^G | A=G (F2 F)^E (F2 | F)^E/^D/ E2 C2 |] %12
+V:3
+ A,B, | C2 CB, A,2 B,2 | C2 CB, A,2 A,2 | B,2 C2 C2 C2 | C2 D2 DE/F/ ED |$ C2 B,A, DC CD | %6
+ DB, G,C A,2 A,2 | B,C ^D2 C2 C2 | F,2 B,2 B,2 C2 |$ CA, D2 DB, E2 | EC FE DC ^D2 | CG, CB, A,2 |] %12
+V:4
+ F,2 | F,/G,/A,/B,/ CC, !fermata!D,2 D,2 | C,B,, C,2 !fermata!F,2 F,2 | G,2 A,B, !fermata!C2 C,2 | %4
+ F,E, D,C, D,B,, E,2 |$ A,,A, G,F, F,^E, F,D, | B,,G,, C,2 !fermata!F,,2 F,E, | %7
+ D,C, ^B,,2 !fermata!C,2 A,,2 | =B,,C, ^D,B,, !fermata!E,2 ^E,C, |$ F,2 F,D, =G,2 ^G,E, | %10
+ A,2 ^A,F, B,2 ^B,G, | C=B, CC, !fermata!F,2 |] %12

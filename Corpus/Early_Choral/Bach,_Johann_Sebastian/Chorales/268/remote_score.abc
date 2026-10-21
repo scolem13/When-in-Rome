@@ -1,0 +1,38 @@
+X:1
+T:Chorale 268:
+T:Nun lob, mein Seel, den Herren
+T:Chorale 268:
+T:Nun lob, mein Seel, den Herren
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+L:1/8
+V:4 bass 
+L:1/8
+V:1
+ c | c B A G | (c d) !fermata!e e | e/d/ e e d | c/d/ Td !fermata!c :| c |$ c/d/ e d e | %7
+ (c B) !fermata!A A | d/c/ B c/B/ A | !fermata!G G c c | d d (e/d/ e) |$ !fermata!c c f f | %12
+ e/d/ e !fermata!d d | e e f f | g/f/4e/4f/g/ !fermata!c e | d/c/ B c/B/ A |$ !fermata!G G c B | %17
+ A G (d e) | !fermata!d e f e | d (c/d/ e) d | !fermata!c3 |] %21
+V:2
+ G | A G G/F/ E/F/ | (G A/)G/ G G | G/A/ B A3/2 G/ | G/A/ G/F/ E :| E |$ F c G/F/ E | E2 E E | %8
+ D D G/E/ ^F | D D G/F/ E | A/F/ G G/F/ G |$ F G F/G/ A | _B E F G | G A A _B | _B A/G/ F G | %15
+ A G G/E/ ^F |$ D D A D/E/ | =F G A3/2 B/4c/4 | G B A G/A/ | B c2 B | G3 |] %21
+V:3
+ E2 | E2 ED C2 C2 | C3 B, C2 CD | EF ED C3 B, | C2 B,2 G,2 :| G,2 |$ A,2 G,A, B,2 B,2 | %7
+ B, A,2 ^G, C2 CB, | A,2 G,2 G,2 DC | B,2 B,A, G,2 C2 | C2 B,2 C2 _B,2 |$ A,2 C2 DE F2 | %12
+ G2 ^C2 A,2 =B,2 | C2 C2 D2 D2 | EDC_B, A,2 C=B, | A,2 D2 G,2 DC |$ B,2 B,2 E,^F, G,2 | %17
+ D2 DC CB, C2 | B,2 ED CD EF | GF EF G3 F | E6 |] %21
+V:4
+ CB, | A,2 E,2 F,2 C,D, | E,2 F,G, !fermata!C,2 C,2 | C2 ^G,2 A,=G, F,G, | E,F, G,2 !fermata!C,2 :| %5
+ C,2 |$ F,2 E,F, G,2 ^G,2 | A,2 E,2 !fermata!A,,2 A,=G, | ^F,2 G,F, E,C, D,2 | %9
+ !fermata!G,,2 G,F, E,2 A,G, | F,D, G,2 C,3 D,/E,/ |$ !fermata!F,2 E,2 D,2 D2 | %12
+ G,_B, A,2 !fermata!D,2 G,2 | CB, A,G, F,E, D,2 | C,2 D,E, !fermata!F,2 C2 | ^F,2 G,2 E,C, D,2 |$ %16
+ !fermata!G,,2 G,,2 A,,2 B,,C, | D,2 E,2 F,2 ^F,2 | !fermata!G,2 ^G,2 A,B, C2 | F,G, A,2 G,F, G,2 | %20
+ !fermata!C,6 |] %21

@@ -1,0 +1,67 @@
+X:1
+T:5 Lieder und Gesänge, Op.127
+T:Schlusslied des Narren
+C:Robert Schumann
+Z:August Wilhelm Schlegel
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 6 ) | 4 }
+L:1/8
+Q:1/4=120
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+L:1/4
+V:6 treble 
+V:4 bass 
+V:1
+"^Lebhaft" z | z6 | z2 z z2 E || E ^F ^G (AB) c | B2 ^G E2 B | B3/2 B/ c c3/2 c/ B | %6
+w: ||Und|als ich ein win- * zig|Büb- chen war, hop|hei- sa, hop hei- sa, bei|
+ B3/2 B/ A A2 F | (FG) A _B c d | c c A F"^ritard."[Q:1/4=100] F F | E2 E z z D | E2 E E D B, | %11
+w: Re- gen und Wind, da|mach- * ten zwei- e nun|e- ben ein Paar, denn der|Re- gen, der|reg- net je- gli- chen|
+"^im Tempo" A,2[Q:1/4=120] z z2 E || E2 ^G (A>B) c | B2 ^G E2 B | B3/2 B/ c c3/2 c/ B | %15
+w: Tag. Und|als ich, ach! * ein|Weib tat frei’n, hop|hei- sa, hop hei- sa, bei|
+ B3/2 B/ A A2 c | C D E (FG) A | G G E C"^ritard."[Q:1/4=100] F F | E2 E z z D | E2 E E D B, | %20
+w: Re- gen und Wind, da|wol- lte mir Müss- * ig|geh’n nicht ge- deih’n; denn der|Re- gen, der|reg- net jeg- li- chen|
+ A,2"^im Tempo"[Q:1/4=120] z z2 E || (E^F) ^G A B c | B2 ^G E2 B | %23
+w: Tag. Die|Welt * steht schon ei- ne|hüb- sche Weil’, hop|
+[Q:1/4=100]"^ritard." B3/2 B/ c c3/2 c/ B | B3/2 B/ A A A A | %25
+w: hei- sa, hop hei- sa, bei|Re- gen und Wind; doch das|
+[Q:1/4=120]"^Schnell"[Q:1/4=144] A =G A B B B | ^c c c d2 d | d d d ^c c c | (B3- B2 A) | %29
+w: Stück ist nun aus, und ich|wünsch’ euch viel Heil, und|dass es Euch künf- tig ge-|fal- * *|
+ A z z z2 z | z6 | z6 | z6 | z6 | z6 | z2 z z |] %36
+w: le!|||||||
+V:2
+ x | x6 | x2 x x2 e || x6 | x6 | x6 | x3 x2 f | x6 | x6 | x6 | x6 | x3 x2 e || x6 | x6 | x6 | x6 | %16
+ x6 | x6 | x6 | x6 | x3 x2 e || x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ x6 | x4 |] %36
+V:3
+{/^d} .e | .E>.^F.^G .A>.B.c | (B2 ^G E3) ||!p! .E2 .[B,E^G] .[CEA]2 .[EAc] | %4
+ [E^GB]3- [EGB]2 .[DGB] | .[D^GB]>.[DGB].[CA] .[CA]>.[CA].[B,G] | .[B,^G]>.[B,G].[CA] .[CA]2 z | %7
+ ([C_EA]3 [DF_B]3 | [CFA]3) z"_ritard." [C^DA][CDA] | [CEA]3 [A,FA]3 | [CEA]3 [B,E^G]3 | %11
+"^im Tempo" [CEA]2{/^d} !>!.e E3 || .E2 .[B,E^G] .[CEA]2 .[EAc] | [E^GB]3- [EGB]2 .[DGB] | %14
+ .[D^GB]>.[DGB].[CA] .[CA]>.[CA].[B,G] | .[B,^G]>.[B,G].[CA] [CA]3 | ([_B,E=G]3 [A,F]3 | %17
+ [G,E]3) z"_ritard." [A,^D][A,D] | [A,CE]3 [A,=DF]3 | [A,CE]3 [^G,B,E]3 | %20
+ [A,CE]2"^im Tempo"{/^d} !>!.e E3 || .E2 .[B,E^G] .[CEA]2 .[CEA] | [B,E^G]3- [B,EG]2 .[DGB] | %23
+"_ritard." .[D^GB]>.[DGB].[C^DA] .[CDA]>.[CDA].[B,EG] | .[B,D^G]>.[B,DG].[CEA] [CEA]3 | %25
+"^Schnell"!f! [D^FA]3!f! [D=GB]3 |!f! [^CEGA^c]3!f! [D^FAd]3 |!f! [DE^GBd]3 [EA^c]3 | %28
+ ([AB]3 [^GB]2) A | [^CA] z!f!{/^g} !>!.a A>B^c | d>ef (!>![^GBe-]3 | [A^ce]) z{/^g} !>!.a A>Bc | %32
+ d>ef (!>![^GBe-]3 | .[A^ce]) z z (!>![^GBe-]3 | .[A^ce]) z z (!>![GBe-]3 | .[A^ce]) z z .[Acea] |] %36
+V:4
+{/^D} !>!.E | .E,>.^F,.^G, .A,>.B,.C | (B,2 ^G, E,3) || .E,2 .D, .C,2 .A,, | E,,3- E,,2 .E, | %5
+ .E,>.E,.A,, .A,,>.A,,.E, | .E,>.E,.A,, .A,,2 z | (F,3 _B,,3 | F,,3) z F,F, | E,3 =D,3 | %10
+ E,3 [E,,E,]3 | A,,2{/^D} .E E,3 || .E,2 .D, .C,2 .A,, | E,,3- E,,2 .E, | %14
+ .E,>.E,.A,, .A,,>.A,,.E, | .E,>.E,.A,, A,,3 | (C,6 | C,3) z F,F, | E,3 D,3 | E,3 [E,,E,]3 | %20
+ A,,2{/^D} .E E,3 || .E,2 .[D,E,] .[C,E,]2 .[A,,E,] | [E,,E,]3- [E,,E,]2 .E, | %23
+ .E,>.E,.A,, .A,,>.A,,.E, | .E,>.E,.A,, A,,3 | [D,A,]3 [B,,D,B,]3 | [A,,E,A,]3 [D,,D,]3 | %27
+ [E,,E,]6- | [E,,E,]6 | [A,,,A,,] z{/^G} .A A,>B,^C | D>EF ([A,E]3 | .A,,) z{/^G} .A A,>B,^C | %32
+ D>EF ([A,E]3 | .A,,) z z ([A,E]3 | .A,,) z z ([A,E]3 | .A,,) z z .[A,,,A,,] |] %36
+V:5
+ x/ | x3 | x3 || x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 || x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 || x3 | x3 | x3 | x3 | x3 | x3 | x3 | [DE]2 x | x3 | x3 | x3 | x3 | x3 | x3 | x2 |] %36
+V:6
+ x | x6 | x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 ^G2 x | x6 | x6 | x6 | x6 | x6 | x6 | x4 |] %36

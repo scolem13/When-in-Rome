@@ -1,0 +1,32 @@
+X:1
+T:Chorale 348:
+T:Meinen Jesum lass ich nicht
+T:Chorale 348:
+T:Meinen Jesum lass ich nicht
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ G G A A | B B !fermata!c2 | d d c c | B A/B/4c/4 A2 |$ !fermata!G2 G G | A A G F | %6
+ !fermata!E2 G G | F F E D/E/4F/4 | D2 !fermata!C2 |$ c c B B | A A !fermata!G2 | G G F E | %12
+ D D !fermata!C2 |] %13
+V:2
+ E E F F | F/E/ D E2 | G G G ^F | D C/D/4E/4 D2 |$ D2 E/D/ C | C D D/E/ F/D/ | C2 B, E | %7
+ D D C/_B,/ A, | G,2 G,2 |$ E/D/ C (G2 | G/)A/4G/4 ^F/4E/4F/ B,2 | E E D C/B,/ | A, B, G,2 |] %13
+V:3
+ C C C D | D G, G,2 | D B, A, A, | G,/^F,/ E,/C/ C/B,/ A, |$ B,2 C G, | F, F, G, C/G,/ | %6
+ G,2 G, A, | A, G, G,3/2 F,/ | F,/E,/ D, E,2 |$ G,3/2 ^F,/ D D | D C/A,/ E2 | ^C A, A,2 | %12
+ A,/D,/G,/F,/ E,2 |] %13
+V:4
+ CB, A,G, F,E, D,2 | G,2 G,,2 !fermata!C,4 | B,,C, D,E, A,,B,, C,D, | G,,2 C,2 D,4 |$ %4
+ !fermata!G,,4 C,D, E,C, | F,E, D,C, B,,C, A,,B,, | !fermata!C,4 E,D, ^C,A,, | %7
+ D,=C, B,,G,, C,2 F,,2 | G,,4 !fermata!C,4 |$ C,B,, A,,2 G,,A,,B,,C, | D,2 ^D,2 !fermata!E,4 | %11
+ A,,B,,^C,A,, D,2 A,,G,, | F,,2 G,,2 !fermata!C,4 |] %13

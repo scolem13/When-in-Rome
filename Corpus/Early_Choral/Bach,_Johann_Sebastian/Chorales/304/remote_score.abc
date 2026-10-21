@@ -1,0 +1,28 @@
+X:1
+T:Chorale 304:
+T:Wo soll ich fliehen hin
+T:Chorale 304:
+T:Wo soll ich fliehen hin
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ G | G A B c | !fermata!d3 d | d c B c | !fermata!A3 A |$ B c d d | c2 !fermata!d d | B c d d | %8
+ c2 !fermata!B d |$ f d d d | c2 !fermata!c c | d c B c | A2 !fermata!G |] %13
+V:2
+ D | E =E/^F/ G G | ^F3 F | G G/^F/ G A | ^F3 F |$ G A B B | B A/G/ A ^F | D C F G | G F/E/ D F |$ %9
+ F F/G/ A G | G/F/G/=E/ F F/_E/ | D =E/^F/ G G | G ^F D |] %13
+V:3
+ B, | C C D E | A,3 A, | B, C D E | D3 D |$ D E F F | G F/E/ D A, | B, F/E/ D/C/ B, | %8
+ B, A, F, B, |$ C D D/C/ B, | B,/A,/B,/G,/ A, A, | B, A, G,/B,/ E | D/C/4B,/4 C =B, |] %13
+V:4
+ G, | C/B,/ A, G,/F,/ E, | !fermata!D,3 C, | B,, A,, G,, C, | !fermata!D,3 D, |$ %5
+ G, =F,/E,/ D,/C,/ B,, | E, F, !fermata!^F, D, | G, A, B,/A,/ G,/F,/ | E, F, !fermata!B,, B, |$ %9
+ A, B, ^F, G,/=F,/ | =E, C, !fermata!F, F, | B,, C,/D,/ _E, D,/C,/ | D,2 !fermata!G,, |] %13

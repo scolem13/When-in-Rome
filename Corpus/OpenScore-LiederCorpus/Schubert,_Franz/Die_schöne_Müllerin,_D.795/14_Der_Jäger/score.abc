@@ -1,0 +1,62 @@
+X:1
+T:Die schöne Müllerin
+T:Der Jäger
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=130
+M:6/8
+I:linebreak $
+K:Eb
+V:1 treble nm="Singstimme"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+V:4 bass 
+V:1
+"^Geschwind" z | z6 | z6 | z6 | z2 z z2 |:$ G | C E D C E G | A A F G2 c | A A G F F A |$ %9
+w: |||||Was|sucht denn der Jä- ger am|Mühl- * bach hier? bleib,|tro- tzi- ger Jä- ger, in|
+w: |||||Doch|bes- ser, du blie- best im|Wal- de da- zu, und|lie- ssest die Müh- len und|
+ G G F E2 G | C E D CE G | A A F G2 c | A A G F F A |$ G G F E2 G | F F F G G G | =B B B c2 G |$ %16
+w: dei- nem Re- vier! hier|gibt es kein Wild _ zu|ja- gen für dich, hier|wohnt nur ein Reh- lein, ein|zah- mes, für mich; und|willst du das zärt- li- che|Reh- * lein seh'n, so|
+w: Mül- ler in Ruh', was|tau- gen die Fisch- lein im|grü- nen Ge- zweig? was|will denn das Eich- horn im|bläu- li- chen Teich? d'rum|blei- be, du tro- tzi- ger|Jä- ger, im Hain und|
+ F F F G G G | =B B B c2 c | G G G A B c |$ d c B e2 G | G G G A B c | dc B e2 B | =B B B c c c |$ %23
+w: lass dei- ne Büch- sen im|Wal- * de steh'n, und|lass dei- ne klaf- fen- den|Hun- de zu Haus, und|lass auf dem Hor- ne den|Saus _ und Braus, und|schee- re vom Kin- ne das|
+w: lass mich mit mei- nen drei|Rä- dern al- lein, und|willst mei- nem Schätz- chen dich|ma- chen be- liebt, so|wis- se, mein Freund, was ihr|Herz- chen be- trübt: Die|E- ber, die kom- men zu|
+ d d d e2 e | g e e e c c | G G G c2 G |$ =B B B c c c | d d d e2 e | g e e ec c |$ G G G c2 z | %30
+w: strup- pi- ge Haar, sonst|scheut sich im Gar- ten das|Reh- lein für- wahr, und|schee- re vom Kin\- ne das|strup- pi- ge Haar, sonst|scheut sich im Gar- ten das|Reh- lein für- wahr.|
+w: Nacht aus dem Hain, und|bre- chen in ih- ren Kohl-|gar- * ten ein, und|tre- ten und wüh- len her-|um in dem Feld, die|E- ber, die schiess', * du|Jä- * ger- held.|
+ z6 | z6 | z6 | z2 z z2 :| %34
+w: ||||
+w: ||||
+V:2
+ x | x6 | x6 | x6 | x5 |:$ x | x6 | A2 x4 | x6 |$ x6 | x3 C E x | x6 | x6 |$ x6 | x6 | %15
+ =B2 B x x2 |$ x6 | =B2 B x3 | x6 |$ x6 | x6 | d c x4 | x6 |$ x6 | x6 | G2 G x3 |$ x6 | x6 | %28
+ x3 e c x |$ G2 G x3 | x6 | x6 | x6 | x5 :| %34
+V:3
+ z | z2 z z2 .G |"^staccato" .C.E.D .C.E.[CG] | .[CA].[CA].[CF] .[CG].[CG].[CE] | %4
+ .[G,F].[=A,E].[=B,D] .C2 |:$!p! .G | .C.E.D .C.E.[CG] | .[CA].[CA].[CF] .[CG]2 .[Gc] | %8
+ .[EA].[EA].[DG] .[CF].[CF].[EA] |$ .[EG].[EG].[DF] .E2 .G | .C.E.D .C.E.[CG] | %11
+ .[CA].[CA].[CF] .[CG]2 .[Gc] | .[EA].[EA].[DG] .[CF].[CF].[EA] |$ .[EG].[EG].[DF] .E2 .G | %14
+ .B.[=AB].[_AB] .[GB].[FB].[EB] | .[D=B].[EB].[DB] .c3 |$ ._B.[=AB].[_AB] .[GB].[FB].[EB] | %17
+ .[D=B].[EB].[DB] .c3 | .c.[=Bc].[_Bc] .[Ac].[Gc].[Fc] |$ .B.[=AB].[_AB] .[GB].[FB].[EB] | %20
+ .c.[=Bc].[_Bc] .[Ac].[Gc].[Fc] | .B.[=AB].[_AB] .[GB].[FB].[EB] | %22
+ .[D=B].[GB].[FB] .[Ec].[Ac].[Gc] |$ .[Fd].[Bd].[Ad] .[Ge]2 .[Be] | .g.e.e .[Be].[Gc].[Gc] | %25
+ .[EG].[EG].[FG] .[EGc]2 .G |$ .[D=B].[GB].[FB] .[Ec].[Ac].[Gc] | .[Fd].[Bd].[Ad] .[Ge]2 .[Be] | %28
+ .g.e.e .[Be].[Gc].[Gc] |$ .[EG].[EG].[FG] .[EGc]2 z | z2 z z2 .G | .C.E.D .C.E.G | %32
+ .[CA].[CA].[CF] .[CG].[CG].[CE] | .[G,F].[=A,E].[=B,D] .C2 :| %34
+V:4
+!mf! .G, | .C,.E,.D, .C,.E,.G, | .A,2 .B, .A,.A,.G, | .F, z .D, .E, z .C, | .G,,.G,,.G,, .C,2 |:$ %5
+ z | .C,2 z .C,,.C,.E, | .F,.C,.D, .E,2 .E | .C.C.B, .A,.A,.C |$ .B,.B,.[B,,A,] .[E,G,]2 z | %10
+ .C,2 z .C,,.C,.E, | .F,.C,.D, .E,2 .E | .C.C.B, .A,.A,.C |$ .B,.B,.[B,,A,] .[E,G,]2 z | %14
+ .D2 z .E2 z | .G,.G,.G, .C,.=B,.C |$ .D2 z .E2 z | .G,.G,.G, .C,.=B,.C | .=E,2 z .F,.G,.A, |$ %19
+ .B,,.C,.D, .E,2 z | .=E,2 z .F,.G,.A, | .B,,.C,.D, .E,2 z | .G,2 z .A,2 z |$ .B,2 z .C2 .G | %24
+ .E.G.G .G.E.E | .[G,C].[G,C].[G,=B,] .C2 z |$ .G,2 z .A,2 z | .B,2 z .C2 .G | .E.G.G .G.E.E |$ %29
+ .[G,C].[G,C].[G,=B,] .[C,G,C]2 .G, | .C,.E,.D, .C,.E,.G, | .A,2 .B, .A,.A,.G, | %32
+ .F, z .D, .E, z .C, | .G,,.G,,.G,, .C,2 :| %34
+V:5
+ x | x6 | x6 | x6 | x5 |:$ x | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x3 .C.D.E |$ x6 | %17
+ x3 .C.D.E | x6 |$ x6 | x6 | x6 | x6 |$ x6 | .B2 .B x3 | x6 |$ x6 | x6 | .B2 .B x3 |$ x6 | x6 | %31
+ x6 | x6 | x5 :| %34

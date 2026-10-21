@@ -1,0 +1,31 @@
+X:1
+T:Chorale 50:
+T:O Welt, ich muss dich lassen
+T:Chorale 50:
+T:O Welt, ich muss dich lassen
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+L:1/8
+V:4 bass 
+V:1
+ A | F G A/B/ c | B2 !fermata!A A/B/ | c c G A/G/ | F2 !fermata!E C |$ F G A/B/4c/4 B/A/ | %6
+ !fermata!G3 A | F G A/B/ c | B2 !fermata!A A/B/ |$ c c G A/G/ | F2 !fermata!E C | F G A G/A/4B/4 | %12
+ A G !fermata!F |] %13
+V:2
+ F | D E F/G/ A | A G F F | F/E/ F/G/ E/D/ C | C =B, C E |$ D C C D | E3 E | D C C D | D G ^F =F |$ %9
+ F F E/D/ C | C =B, C G, | C B, A,/C/ F | F E C |] %13
+V:3
+ C2 | D2 CB, A,3 G, | F,2 C2 C2 C2 | C2 C2 C2 C=B, | A,G, F,2 G,2 B,2 |$ A,2 G,2 F,2 F,2 | C6 A,2 | %7
+ A,2 G,2 F,G, A,2 | G,A, B,C D2 D2 |$ CB,CD E2 F2 | F,A, G,F, G,2 E,2 | F,C DE FC B,F, | %12
+ C3 B, A,2 |] %13
+V:4
+ F, | B, A,/G,/ F,3/2 E,/ | D, E, !fermata!F, F,/G,/ | A, A,,/B,,/ C, A,, | D,2 !fermata!C, C, |$ %5
+ D, E, F, B,, | !fermata!C,3 ^C, | D, E, F, ^F, | G, G,, !fermata!D, D |$ A,/G,/A,/B,/ C F,/E,/ | %10
+ D,/C,/ D, !fermata!C, B,, | A,, G,, F,, D, | C,/B,,/ C, !fermata!F,, |] %13

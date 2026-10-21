@@ -1,0 +1,33 @@
+X:1
+T:Chorale 210:
+T:Christe, du Beistand
+T:Chorale 210:
+T:Christe, du Beistand
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ D | D E F2 | !fermata!E2 A B | c d/c/ B2 | !fermata!A2 z c | B A G G |$ A G F F | %7
+ E2 !fermata!F E | E F G2 | !fermata!E2 A B | c d/c/ B2 |$ !fermata!A2 z ^F | G G (G ^F) | %13
+ !fermata!G2 z E | F G TE2 | !fermata!D3 |] %16
+V:2
+ A, | A, E E D | ^C2 E E | A A A ^G | E2 z (A | A/)G/ F/E/ D (G |$ G/)(F/ F/)(E/ E/)D/ C/D/ | %7
+ C2 C ^C/D/ | (E E/)(D/ D/)C/D/B,/ | C2 A (A | A/)^G/ A A G |$ E2 z C | D D _E D | D2 z ^C | %14
+ D (D D) ^C | A,3 |] %16
+V:3
+ F,/G,/ | A, A, A,2 | A,2 A, E | E D/E/ F E/D/ | C2 z E | F/E/4D/4 C B, C |$ C C A, A, | %7
+ G,/A,/ _B, A, A, | A, A, G,2 | G,2 E F | E D/E/ F E/D/ |$ C2 z A, | G,3/2 F,/ _E,/_B,/ A,/C/ | %13
+ _B,2 z A, | A, G,/_B,/ A,/E,/A,/G,/ | ^F,3 |] %16
+V:4
+ D,E, | F,E,D,^C, D,E,F,D, | !fermata!A,,4 C,B,,A,,^G,, | A,,C, F,E, D,B,, E,2 | %4
+ !fermata!A,,4 z2 A,,2 | D,E, F,2 F,2 E,2 |$ F,2 C,2 D,2 A,,_B,, | C,4 !fermata!F,,2 A,,2 | %8
+ ^C,2 D,=C, B,,A,,B,,G,, | !fermata!C,4 C,2 D,2 | E,2 F,E, D,2 E,2 |$ !fermata!A,,4 z2 A,,2 | %12
+ _B,,2 =B,,2 C,2 D,2 | !fermata!G,,4 z2 A,,2 | D,C,_B,,G,, A,,4 | !fermata!D,6 |] %16

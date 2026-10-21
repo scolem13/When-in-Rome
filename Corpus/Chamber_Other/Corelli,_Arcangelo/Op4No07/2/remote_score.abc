@@ -1,0 +1,34 @@
+X:1
+T:Sonata da camera
+T:Corrente: Allegro
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3
+L:1/4
+Q:1/4=189
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Violin" snm="Vln."
+V:2 treble nm="Violin" snm="Vln."
+V:3 bass nm="Piano" snm="Pno."
+V:1
+"^Corrente Allegro" z A/B/ c | B G c | F f2- | f e2 | z f/g/ a | g g/a/ b |$ a c'3/2 d'/ | b b c' | %8
+ a2 b | g g a | f2 g | e c f- |$ f e g- | g f a | =B2 g | f2 e- | e d2 | c3 :: z e/f/ g |$ f d g | %20
+ c c'2- | c' b2- | b a2- | a g2- | g c f- | f e2- |$ e A d- | d ^c2 | d3 | z3 | z a/b/ c' | %31
+ b g c' |$ f b3/2 b/ | (b a2) | z g3/2 g/ | g c f- | f f3/2 e/ | f c d |$ _e3 | d2 f | b b d | %41
+ e2 g | c' c' e | f g a- |$ a/g/ g2 | f3 :| %46
+V:2
+ z3 | z3 | z A/B/ c | B G c | F f2- | f e2 |$ z a3/2 b/ | g g a | f2 g | e e f | d2 e | c2 d |$ %12
+ G2 e | A2 f | f2 e | A =B c- | c c3/2 =B/ | c3 :: z3 |$ z3 | z e/f/ g | f d g | c f2- | f e2 | %24
+ a3 | g3 |$ f2 a | b e2 | d3 | z3 | z f/g/ a | g c' g |$ a f b | e2 a | d2 g | c2 c | d G c | A3 |$ %38
+ G B c | F2 d | d3/2 c/ B/A/ | G2 e | f c3/2 d/ | B2 A |$ f f3/2 e/ | f3 :| %46
+V:3
+"" z3 |"" z3 |"" z3 |"""" z3 |"" z"" A,/B,/"" C |"m" B,"m" G,"" C |$"" F,"C{" F"" F- | %7
+"m" F"m""m" E2- |"m" E"m""m" D2- |"" D"""" C2- |"" C"" B,"m" B,- |"" B,"" A,"m" D |$ %12
+"" =B,"m" G,"" C |"""" F,2 F, |"" G,2"" C, |"" F,"" G,"m" A, |"" F,"" G,"" G,, |"" C,3 ::"C{" z3 |$ %19
+"" z3 |"" z3 |"""""m" z3 |"" z"" A,/B,/"" C |"" B,"m" G,"" C |"""" F,2"" A, |"m" =B,"m" ^C"" A, |$ %26
+"m""m" D2"m" F, |"m" G,"" A,2 |"m" z D,/E,/"m" F, |"m" E,"" A,, A, |"m" D,"" F,2- |"m" F,"" E,2- |$ %32
+"m" E,"" D,"m" G, |"m""m" C,2"" F, |"m""m" B,,2 B,, |"""" A,,2 A, |"m" B,"" C"" C, |"""C{" F,3 |$ %38
+"m" C"" G,"m" A, |"" B,/A,/ B,/C/ B,/A,/ |"m" G,2 G, |"" C/B,/ C/D/ C/B,/ |"" A,3/2 B,/"" C | %43
+"" D,"m" E,"" F, |$"m" B,,"""" C,2 |"" F,,3 :| %46

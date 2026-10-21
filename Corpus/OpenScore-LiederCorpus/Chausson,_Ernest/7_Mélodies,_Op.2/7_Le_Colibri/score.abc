@@ -1,0 +1,94 @@
+X:1
+T:7 Mélodies, Op.2
+T:Le Colibri
+C:Ernest Chausson
+Z:Leconte de Lisle
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/4
+Q:1/4=92
+M:5/4
+I:linebreak $
+K:Db
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+L:1/8
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Pas vite" z10 | z10 | z10 | z10 |$"^doux" A2 B2 F G A2 z A | d2 e f c2 c z z B | %6
+w: ||||Le vert col- ib- ri, le|roi des col- li- nes, Voy-|
+ B2 c d!<(! B2 c d e f!<)! |$ f6 c c d e | d4 B2 G2 A B | e6 A2- A z |$ e d A F F3 =G (3F A B | %11
+w: ant la ro- sée et le so- leil|clair, Lui- re dans son|nid tis- sé d'her- bes|fi- nes, _|Comme un frais ray- on s'é- chap- pe dans|
+ c4- c2 z2 z2 |$ c c B2- B c A B (3c B A | d4 A2- A z z2 |$ %14
+w: l'air. _|Il se hâte _ et vo- le'aux sour- ces voi-|si- nes, _|
+"^en pressant peu à peu"[Q:1/4=130]"^T" A2 =G A F2 G A (3F G A | B6- B2- B z |$ %16
+w: Où les bam- bous font le bruit de la|mer, _ _|
+"^cresc."!<(! _c c B c A2 B c (3(AB)!<)! c | d4 d2- d z z2 |$ =d d c B d4 d d | e B e4- e z z2 |$ %20
+w: Où l'a- ço- ka rou- ge'aux o- deurs * di-|vi- nes _|S'ouvre et por- te'au coeur un hu-|mi- de'é- clair. _|
+!f!"^a tempo"[Q:1/4=120]"^T" f4- f4 c2 | e2 B2 B2 z2 B c |$ ^c4- c4 =A2 | =c4 c2 z2 c2 |$ %24
+w: Vers _ la|fleur do- rée, il des-|cend, _ se|po- se, Et|
+"^en retenant peu à peu"[Q:1/4=110]"^T" _c6 __e2 c2 |!>(! B6 d2 B2!>)! |$!>(! __B4- B4 B2!>)! | %27
+w: boit tant d'a-|mour dans la|cou- * pe|
+"^rit."[Q:1/4=100]"^T" A4"^rit."[Q:1/4=90]"^T" A4- !fermata!A A |$ %28
+w: ro- se _ Qu'il|
+!p!"^a tempo"[Q:1/4=120]"^T" d6- d4- | d2 c d B2 c d (3(Bc) d | e6- e4- |$ %31
+w: meurt, *|* ne sa- chant s'il l'a pu- * ta-|rir! _|
+ e2 z2 z2"^rit."[Q:1/4=100]"^T" z4 |"^a tempo"[Q:1/4=120]"^T" z2!p! A B F G A2 A z | %33
+w: _|Sur ta lèv- re, pu- re,|
+ d d e f c4 B z |$!<(! B B c d B2 c d e f!<)! | f6- f4 |$!mf! g f e d B2- B A (3G A B | e6- e4 | %38
+w: ò ma bien– ai- mé- e,|Tel- le'aus- si mon âme eut vou- lu mou-|rir, _|Du pre- mier bai- ser, _ qui l'a par- fu-|mé- *|
+ d4- d2 z4 | z8 z2 |] %40
+w: e. _||
+V:2
+!mf! (f4 c4 c2 | e2 B2 B2) z2 (Bc | ^c4 =E4 =G2 |!>(! =c2) A2 A2 A2 A2!>)! |$ %4
+!mp! ([FA]2 [FB]2 [FB]2 [FA]2 [EA]2) | ([Fd]2 [Fd]2 [Fc]2 [Fc]2 [FB]2) | %6
+ ([FB]2 [FB]2 [=EB]2!<(! [_EB]2 [EB]2)!<)! |$!>(! (=AfedcB!>)! A2 A2) | (B2 B2 B2 [GB]4- | %9
+!>(! B e2 d2 c2 B2 A)!>)! |$ (A2 A2 A2 A2- (3:2:2A2 B) |!<(! (cdcdc!<)!d!>(!cdcd)!>)! |$ %12
+!p! ([E_Gc]2 [EGB]2 [EGB]2 [EGc]2 [EAc]2) |!>(! (dag_fefdA_FD)!>)! |$ %14
+ ([DFA]2 [DFA]4 [DFA]2 [DFA]2) |!<(! B2 (AB =G2) (AB (3GAB)!<)! |$ %16
+"_cresc." ([_CE_c]2 [CEc]4 [C_Fc]2 [CFc]2) |!<(! d2 (_cd B2) (cd (3Bcd)!<)! |$ %18
+ ([F=d]2 [Fd]4 [Fd]2 [Ad]2) |!<(! ([=G_de]2 [Gde]4 [Gde]2 [Gde]2)!<)! |$ %20
+!f! (fcAE) (cAEC[I:staff +1] A,E,) |[I:staff -1] (eBGE) (BGEB,[I:staff +1] G,E,) |$ %22
+[I:staff -1] (^c=A=E^C) AEC=A,[I:staff +1] =A,E, | %23
+[I:staff -1] (=c_A_E=C) (AECA,)[I:staff +1] A,E, |$ %24
+[I:staff -1] (_cA_F_C) (AFCA,)[I:staff +1] A,_F, | %25
+"^en retenant peu à peu"[I:staff -1] (B=G=E^C) (GECB,[I:staff +1] G,=E,) |$ %26
+[I:staff -1] (__B_GD__B,) (GDB,G,[I:staff +1] __B,G,) | %27
+!p![I:staff -1] (A-[EA]-[CEA]-[A,CEA]-) [A,CEA]4- !fermata![A,CEA] z |$ %28
+!pp!"^a tempo" z2 (.[GBd]2 .[GBd]2 .[GBd]2 .[GBd]2 | .[GBd]2 .[GBd]2 .[GBd]2 .[GBd]2 .[GBd]2) | %30
+!>(! [Ge] (e'2 c'2 a2 edc!>)! |$ e) (a2 e2"^rit." d2 cBA) | %32
+"^a tempo"!p! ([FA]2 [FA]2 [FB]2 [FA]2 [EA]2) | ([Fd]2 [Fd]2 [Fc]2 [Fc]2 [FB]2) |$ %34
+!mf! ([FB]2 [FB]2 [=EB]2 [_EB]2 [EB]2) | [E=A](fedcBAGFE) |$ (.[GB]2 .[GB]2 .[GB]2 .[GB]2 .[GB]2) | %37
+!p! z2 (e4 d)cBA | z2 !arpeggio![Adf]4!pp! !arpeggio![Ada]4 | !arpeggio![ad'd'']4 z4 z2 |] %40
+V:3
+ [EA]2 x3 | [EGB]2 x3 | [^C=E]2 x3 | [=C_EA] x4 |$ x5 | x5 | x5 |$ E [E=A] E E F | %8
+ G/F/G/F/G/F/ x2 | G G G G G |$ F/=E/F/E/F/E/ F- F | [=Ec] [E=G] [EA] [EG] [_EG] |$ x5 | [DA] x4 |$ %14
+ x5 | [DE] [DE]2 [DE] [DE] |$ x5 | =E E2 E E |$ x5 | x5 |$ !arpeggio![EAf] x4 | x5 |$ ^C x4 | x5 |$ %24
+ x5 | x5 |$ x5 | x5 |$ x5 | x5 | x5 |$ x/ x x x/ G G | x5 | x5 |$ x5 | x5 |$ x5 | x G2- G G | x5 | %39
+ x5 |] %40
+V:4
+ !arpeggio![A,,E,A,C]2- [A,,E,A,C]2 z | !arpeggio![A,,E,G,B,]2- [A,,E,G,B,]2 z | %2
+ !arpeggio![_A,,=E,=A,]2- [A,,E,A,]2 z | !arpeggio![_A,,_E,_A,]2- [A,,E,A,]2 z |$ (D D D C C) | %5
+ ([B,D] [B,D] [A,D] [A,C] [A,D]) | ([=G,D] [G,D] [_G,C] [G,C] [G,C]) |$ %7
+ ([F,C] [F,C] [G,C] [G,C] [F,C]) | ([E,D] [E,D] [E,D] [E,D] [E,D] | [A,C] [A,C]2 [A,C] [A,C]) |$ %10
+ ([D,A,] [D,A,] [D,A,] [C,A,] [C,A,]) | ([C,=G,] C [B,C] [B,C] [=A,C]) |$ %12
+ ([_A,C] [A,D] [A,D] [A,C] [G,A,]) | ([_F,A,] [F,A,]2 [F,A,] [D,A,]) |$ %14
+"^en pressant peu à peu" ([B,,A,] [B,,A,]2 [B,,A,] [B,,A,]) | ([E,=G,] [E,G,]2 [E,G,] [E,G,]) |$ %16
+ ([A,,A,] [A,,A,]2 [A,,A,] [A,,A,]) | ([G,B,] [G,B,]2 [G,B,] [G,B,]) |$ %18
+ ([F,A,B,] [F,A,B,]2 [F,A,B,] [F,B,]) | ([E,B,] [E,B,]2 [E,B,] [E,B,]) |$ %20
+ !arpeggio![A,,E,C]2- [A,,-E,C]2 A,, | [A,,G,B,]2- [A,,-G,B,]2 A,, |$ %22
+ [=A,,=E,=A,]2- [A,,-E,A,]2 A,, | [_A,,_E,_A,]2- [A,,-E,A,]2 A,, |$ [A,,_F,A,]2- [A,,-F,A,]2 A,, | %25
+ [A,,=E,=G,]2- [A,,-E,G,]2 A,, |$ [A,,_G,]2- [A,,-G,]2 A,, | %27
+ [A,,-E,G,]2 (G,/-[E,G,]/- [C,E,G,]/-)[A,,C,E,G,]/-!fermata![A,,C,E,G,]/ z/ |$ %28
+ z (.[E,D] .[E,D] .[E,D] .[E,D] | .[E,D] .[E,D] .[E,D] .[E,D] .[E,D]) | %30
+ z [G,A,CE]2 [G,A,CE] [G,A,CE] |$ z [G,A,CE]2 [A,CE] [A,CE] | z (D D C C) | %33
+ ([B,D] [B,D] [A,D] [A,C] [A,D]) |$ ([=G,D] [G,D] [_G,C] [G,C] [G,C]) | ([F,C] F,, C, F, C) |$ %36
+ (.[E,D] .[E,D] .[E,D] .[E,D] .[E,D]) | z [E,A,C]2- [E,A,C] [E,A,C] | %38
+ z !arpeggio![A,DF]2 !arpeggio![A,DF]2 |[I:staff -1] [Adf]2[I:staff +1] z2 z |] %40
+V:5
+ x5 | x5 | x5 | x5 |$ x5 | x5 | x5 |$ x5 | x5 | x5 |$ x5 | x5 |$ x5 | x5 |$ x5 | x5 |$ x5 | x5 |$ %18
+ x5 | x5 |$ x5 | x5 |$ x5 | x5 |$ x5 | x5 |$ x5 | x2 A,,2 x |$ E,,3- E,,2 | E,,3- E,,2 | A,,,4 z |$ %31
+ A,,,4 z | D,,4 z | x5 |$ x5 | x5 |$ x5 | A,,,3- A,,, x | D,,3- D,,2- | D,,2 x3 |] %40

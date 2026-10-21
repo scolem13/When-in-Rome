@@ -1,0 +1,61 @@
+X:1
+T:The Seasons
+T:March: Song of the Lark
+C:Pyotr Ilyich Tchaikovsky
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=40
+M:2/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+L:1/16
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Andantino espressivo"!p! z8 | z8 | z2!p! .G(3(G/A/G/) (^F2>A2) |!<(! (GBd^f)!<)! (!>!g2>(f2) | %4
+ d2)[G,B,D]2 z2 [A,CD]2 |$ z2 [B,D]2 z2 [A,CD]2 | z2 .G(3(G/A/G/)!<(! (^F2>A2) | %7
+ (GBd^f) (!>!g2>=f2)!<)! | (f2[ce]2) (d2c2) |!>(! (.c.^F.G.A)!>)! (!>!B2>A2 |$ %10
+"^un pochetino più mosso" G2) x2{d(e} (d2>)A2) |!<(! .B.^c.d.e .f.^f.b.a | %12
+({/a} (c'2>)b2)({/b} .d').a({/b}.d').a!<)! |!>(!({/a} d')g2b- b^f2a- | ad2!>)!g({de} (d2>)A2) |$ %15
+!<(! .B.^c.d.e .f.^f.b.a |({/a} (c'2>)b2)({/^f} .b).f({/f}.b).f!<)! | %17
+!>(!({/^f} a)d2g({/d} .B).A({/d}.B).A!>)! |({/d} A)(G2D)!<(!({DE} (D2>)A,2) |$ %19
+ .B,.^C.D.E .F.^F.B.A |({/A} (c2>)B2)!<)!({/B} .d).A({/B}.d).A | %21
+!>(!({/A} d)(D2G)({/D} .G).^C({/D}.G).C!>)! |({/D} (G2>)^F2)!p! z (3(D/E/D/)(^C>D) |$ %23
+ .^F/.^G/.A/.^c/d2 z .=g/(3(g/4a/4!<(!g/4)(^f>g)!<)! |!>(! d'(d2D)!>)! z (3(D/E/D/)(^C>D) | %25
+ .^F/.^G/.A/.^c/d2 z!<(! .=g/(3(g/4a/4g/4)(^f>g) |$ d'(d2D) z .=g/(3(g/4a/4g/4)(^f>g)!<)! | %27
+ d'(d2D) z (^c2^C) |"^poco ritenuto" z (d2D) z!>(! (^c2^C) | z (d2D) z (d2D)!>)! | %30
+!p!"^a tempo" z2 .G(3(G/A/G/) (^F2>A2) |$!<(! (GBd^f)!<)! (!>!g2>f2 | d2)[G,B,D]2 z2 [A,CD]2 | %33
+ z2 [B,D]2 z2 [A,CD]2 | z2 .G!<(!(3(G/A/G/) (^F2>A2) |$ (GBd^f) (!>!g2>=f2)!<)! | (f2e2) (d2c2) | %37
+!>(! (.c.^F.G.A) (!>!B2>A2!>)! | G2).G!pp!(3(G/A/G/) (^F2>A2) | (GBd^f) (!>!g2>f2) |$ %40
+ d2!pp![G,B,D] z z2 [A,CD] z | z2 [G,B,D] z z2 [A,CD] z |!ppp! z2 [B,D] z z2 [A,CD] z | %43
+ z2 [B,D] z z2 [A,CD] z | z2!>(! [G,B,D]4 [G,B,D]2- | [G,B,D]2 [G,B,D]4!>)! !fermata![G,B,D]2 |] %46
+V:2
+"m" [B,D]2"m" [CE]2 |"m" [B,D]2"" [A,CD]2 |"m" [B,D]2"m" [CE]2 |"m" [B,D]2"""" [A,CD]2 | %4
+"m" [B,D]"C{" x"" (^F,,>A,,) |$"m"!<(! (G,,/B,,/D,/^F,/)!<)!"" (!>!G,>""F,) | %6
+"" z [G,B,D]"" z [^F,A,D] |"m" z [G,B,D]"" z [G,=B,D] |"m" z/ (^F,/"m"G,/C/)"m""m" (=F>"m"E) | %9
+"" [G,B,D]2"" z"" D |$"m""^poco più" [G,,D,]"" z[K:treble]"m"!f! [E_G]2 |"" [DF]2"" [=CE]2 | %12
+"""" [DF]2"m" [D^Fc]2 |"m" [DGB]2"m""m" [CE]2 |"m""m" D2"""m" [E_G]2 |$"" [DF]2"" [=CE]2 | %16
+"""" [DF]2"m" [D^Fc]2 |"m""m" [DGB]2[K:bass]"" [D,^F,C]2 |"m""m" [D,G,B,]2"""m" [E,_G,]2 |$ %19
+"" [D,F,]2"" [C,E,]2 |"""" [D,F,]2"m" [D,^F,C]2 |"m" [D,G,B,]2"" [=E,A,]2 |"""" D,2"m" [G,B,]2 |$ %23
+"" [A,=C]2"m" [B,D]2 |"" [A,C]2"m" [G,B,]2 |"" [A,=C]2"m" [B,D]2 |$"" [A,C]2"m" [B,D]2 | %27
+"" [A,C]2"m""^dim." [G,B,]2 |"" [^F,A,]2"m" [G,B,]2 |"" [^F,A,]2 [F,A,]2 |"m" [B,D]2"m" [CE]2 |$ %31
+"m" [B,D]2"""" [A,CD]2 |"m" [B,D]"C{" x"" (^F,,>A,,) | %33
+"m"!<(! (G,,/B,,/D,/^F,/)!<)!"" (!>!G,>""F,) |"" z [G,B,D]"" z [^F,A,D] |$ %35
+"m" z [G,B,D]"" z [G,=B,D] |"m" z/ (^F,/"m"G,/C/)"m""m" (!>!=F>"m"E) |"" [G,B,D]2"" z"" D | %38
+"m" z"C{" [B,D]/ z/"m" z [CE]/ z/ |"m" z [B,D]/ z/"m" z [CE]/"m" z/ |$ %40
+"m" [B,D]"C{" z"" (^F,,>A,,) |"m" (G,,/B,,/D,/^F,/)"" (!>!G,>""F,) |"m" [G,,D,] z"" (!>!G,>""^F,) | %43
+"m" [G,,D,] z"" (G,>""^F, |"m" [G,,D,]4-) | !fermata![G,,D,]4 |] %46
+V:3
+ z G,2 G,- | G, G,2 G, | z G,2 G,- | G, G,2 G,- | G,.G,,/(3(G,,/4A,,/4G,,/4) x2 |$ x4 | (D,2 C,2 | %7
+ B,,) z =B,, z | C, z z [G,C] | z D,- D,2 |$ x2[K:treble] z B,- | B, B,2 B,- | B, B,2 B,- | %13
+ B, B,2 B,- | B, B,2 B,- |$ B, B,2 B,- | B, B,2 B,- | B,B,[K:bass] z B,,- | B,, B,,2 B,,- |$ %19
+ B,, B,,2 B,,- | B,, B,,2 B,,- | B,,B,, z A,, | z D,, z D, |$ z D, z D, | z D, z D, | z D, z D, |$ %26
+ z D, z D, | z D, z D, | z D, z D, | z D, z D, | z G,2 G,- |$ G, G,2 G,- | %32
+ G,.G,,/(3(G,,/4A,,/4G,,/4) x3/2 x/ | x4 | (D,2 C,2 |$ B,,) z =B,, z | C, z z [G,C] | z D,- D,2 | %38
+ [G,,D,]G,- G,2- | G,4- |$ G,.G,,/(3(G,,/4A,,/4G,,/4) x3/2 x/ | x4 | x4 | x4 | x4 | x4 |] %46
+V:4
+ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | z G z G | z2 [C^F]2 |$ [B,D]d x2 | x4 | x4 | x4 | x4 |$ %15
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | z/ A,/-A, x2 |$ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | %32
+ x4 | x4 | x4 |$ x4 | z [Gc] z G | z2 [C^F]2 | [B,D] x x2 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |] %46

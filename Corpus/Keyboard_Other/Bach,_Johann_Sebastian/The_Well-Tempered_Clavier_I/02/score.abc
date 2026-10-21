@@ -1,0 +1,56 @@
+X:1
+T:Praeludium 2
+T:BWV 847
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/16
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Score"
+V:3 treble 
+L:1/4
+V:2 bass 
+V:4 bass 
+L:1/4
+V:1
+ cEDE CEDE cEDE CEDE | AF=EF CFEF AFEF CFEF |$ =BF_EF DFEF BFEF DFEF | cGFG EGFG cGFG EGFG |$ %4
+ eAGA EAGA eAGA EAGA | d^F=EF DFEF dFEF DFEF |$ dG^FG DGFG dGFG DGFG | c=EDE CEDE cEDE CEDE |$ %8
+ cF=EF CFEF cFEF CFEF | BF_EF DFEF BFEF DFEF |$ BGFG EGFG BGFG EGFG | AGFG EGFG AGFG EGFG |$ %12
+ ADCD B,DCD ADCD B,DCD | GB,A,B, EB,A,B, GB,A,B, EB,A,B, |$ FCB,C =A,CB,C FCB,C A,CB,C | %15
+ FDCD =B,DCD FDCD B,DCD |$ FDCD =B,DCD FDCD B,DCD | EC=B,C G,CB,C ECB,C G,CB,C |$ %18
+ F,EDE FEDE F,EDE FEDE | ^F,C=B,C ECB,C F,CB,C ECB,C |$ EC=B,C G,CB,C ECB,C G,CB,C | %21
+ ^FC=B,C =A,CB,C FCB,C A,CB,C |$ GC=B,C DCB,C GCB,C DCB,C | AC=B,C DCB,C ACB,C DCB,C |$ x16 | %25
+ x16 |$ x3 C EC=B,C ^FC=AF ECB,C |[Q:1/4=144]"^P(resto)" z dcd ec=Bc =AcBc dBAB |$ %28
+ G=B=AB cAGA ^FAGA BGFG | Dg=fg afef dfef gede |$ cede fdcd =Bdcd ecBc | Gc=Bc Afef Gede Fdcd |$ %32
+ Ec=Bc AFEF GEDE FDCD | %33
+[Q:1/4=56]"^Adagio" =E2-E/C/D/E/F/4G/4A/4B/4c/4B/4A/4G/4FG/E/ MF2-F/G/F/E/ F/G/A/G/F/4_E/4D/4E/4F/4D/4E/4F/4 |$ %34
+[Q:1/4=112]"^Allegro" =B,2>[K:bass]D,2 F,A,G,F, B,F,DF, B,A,G,F, | %35
+ =E,_D_B,G, CA,F,A, G,B,G,E, A,F,=D,F, |$ =E,G,E,C, F,D,=B,,D, z2 z D, E,G,_B,G, | %37
+[K:treble] A,CFD FAc=B cGFD !fermata!=E4 |] %38
+V:2
+ C,G,F,G, E,G,F,G, C,G,F,G, E,G,F,G, | C,A,G,A, F,A,G,A, C,A,G,A, F,A,G,A, |$ %2
+ C,A,G,A, F,A,G,A, C,A,G,A, F,A,G,A, | C,E,D,E, G,E,D,E, C,E,D,E, G,E,D,E, |$ %4
+ C,CB,C A,CB,C C,CB,C A,CB,C | C,=A,G,A, ^F,A,G,A, C,A,G,A, F,A,G,A, |$ %6
+ B,,B,=A,B, G,B,A,B, B,,B,A,B, G,B,A,B, | B,,G,F,G, =E,G,F,G, B,,G,F,G, E,G,F,G, |$ %8
+ A,,A,G,A, F,A,G,A, A,,A,G,A, F,A,G,A, | A,,D,C,D, F,D,C,D, A,,D,C,D, F,D,C,D, |$ %10
+ G,,E,D,E, G,E,D,E, G,,E,D,E, G,E,D,E, | C,E,D,E, A,E,D,E, C,E,D,E, A,E,D,E, |$ %12
+ D,F,E,F, A,F,E,F, D,F,E,F, A,F,E,F, | E,G,F,G, A,G,F,G, E,G,F,G, A,G,F,G, |$ %14
+ E,=A,G,A, F,A,G,A, E,A,G,A, F,A,G,A, | D,F,E,F, _A,F,E,F, D,F,E,F, A,F,E,F, |$ %16
+ C,F,=E,F, A,F,E,F, C,F,E,F, A,F,E,F, | C,_E,D,E, F,E,D,E, !courtesy!_B,,E,D,E, F,E,D,E, |$ %18
+ A,,C,=B,,C, D,C,B,,C, A,,C,B,,C, D,C,B,,C, | =A,,E,D,E, C,E,D,E, A,,E,D,E, C,E,D,E, |$ %20
+ G,,E,D,E, F,E,D,E, G,,E,D,E, F,E,D,E, | G,,E,D,E, C,E,D,E, G,,E,D,E, C,E,D,E, |$ %22
+ G,,E,D,E, F,E,D,E, G,,E,D,E, F,E,D,E, | G,,E,D,E, F,E,D,E, G,,E,D,E, F,E,D,E, |$ %24
+ G,,=B,,D, F, A,F,=E,F, =B,F,DB, A,F,E,F, | %25
+ G,,C,E, G, CG,^F,G,[I:staff -1] ECGE[I:staff +1] CA,G,A, |$ G,,=A,,^F, x x4 x8 | G,,16- |$ %28
+ G,,DCD EC=B,C =A,CB,C DB,A,B, | G,=B,=A,B, C_A,G,A, F,=A,G,A, B,G,F,G, |$ %30
+ E,[K:treble]GFG AFEF DFEF GEDE | CEDE FDCD EC=B,C D[K:bass]B,=A,B, |$ %32
+ CEDE F,DCD E,C=B,C D,B,=A,B, | !arpeggio![G,B,]4 z4 !arpeggio![F,A,]4 z4 |$ %34
+ z A,,=B,,2- B,,4- B,,8 | z16 |$ x8 z G,,C,2- C,4- | C,16 |] %38
+V:3
+ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ %18
+ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | C/ x/ x C x |$ %34
+ x3/4[K:bass] x13/4 | x4 |$ x4 |[K:treble] x4 |] %38
+V:4
+ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ %18
+ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x/4[K:treble] x15/4 | %31
+ x13/4[K:bass] x3/4 |$ x4 | C, z C, z |$ z/4 C,,3/4- C,,- C,,2 | x4 |$ z2 C,,2- | C,,4 |] %38

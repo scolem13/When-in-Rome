@@ -1,0 +1,39 @@
+X:1
+T:Sonata da chiesa
+T:Grave
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3 4
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ a3 a _b2 b2 | a4 !fermata!z4 | f3 ^f g2 a2- | ad g4 =f2 | _b^c d4 c2 |$ d2 eA d4 | ^c4 a3 g | %7
+ f3 f eA a2- | a(g/f/) g3 (f/e/) f2- |$ f(e/d/) e3 A d2- | d2 c2 B4 | A2 z4 d'2 | ga_bc' ab c'2- |$ %13
+ c'f _b3 e a2 | de f4 f>e | f3 a g3 a/g/ | f3 f eA a2- |$ ad g4 f2 | _e^c d4 c2 | d2 _B2 ^C2 D2- | %20
+ D2 ^C2 D4 |] %21
+V:2
+ f3 f g2 g2 | f4 !fermata!z4 | a3 a d2 c2 | _B3 B A2 a2 | g2 fe f2 e2 |$ d2 A3 d/F/ G2 | %6
+ A4 z2 e2- | e2 d4 c2 | _B3 (c/B/) A2 a2 |$ g3 (a/g/) f3 f | ^GE A4 A>G | A2 a2 de f2- | %12
+ f2 e2 f3 e |$ d3 g ec z c' | d'c'_ba a2 g2 | f2 f4 e2- | e2 d4 ^c2 |$ d3 e ^c A2 a | %18
+ g2 (fe) f2 e2 | d2 D2 E2 F2 | E4 D4 |] %21
+V:3
+ D,3 D, D,2 ^C,2 | D,4 !fermata!z4 | D3 C _B,2 ^F,2 | G,3 G, ^C,2 D,2 | G,,2 ^G,,2 A,,4 |$ %5
+ D,2 C,2 _B,,4 | A,,4 A,,=B,,^C,A,, | D,E,F,G, A,3 A, | D,D,E,C, F,G,A,A,, |$ %9
+ B,,B,,^C,A,, D,E,F,D, | E,E,F,=C, D,B,,E,E,, | A,,3 A,, _B,,C,D,B,, | C,2 C2 F,G,A,F, |$ %13
+ _B,CDB, CC,F,A,, | _B,,C,D,A,, B,,G,,C,C, | F,G,A,F, C,D,E,^C, | D,E,F,G, A,3 A, |$ %17
+ _B,3 G, A,2 z F, | G,A,_B,G, A,G,A,A,, | D,2 G,,4 ^G,,2 | A,,4 D,,4 |] %21
+V:4
+"m" D,3 D,"m" D,2"m" ^C,2 |"m" D,4 !fermata!z4 |"m" D3"" C"m" _B,2"" ^F,2 | %3
+"m""m" G,3 G,"" ^C,2"m" D,2 |"m" G,,2"" ^G,,2"""" A,,4 |$"m" D,2"m" C,2"m""m" _B,,4 | %6
+"" A,,4"C{" A,,=B,,""^C,A,, |"m" D,E,"m"F,G,"m""m" A,3 A, |"" D,D,""E,C,"" F,G,""A,A,, |$ %9
+"" B,,B,,""^C,A,,"m""m" D,3 D, |"m" E,E,""F,"m"=C,"m" D,"m"B,,""E,""E,, | %11
+"m""C{" A,,3 A,,"" _B,,C,""D,B,, |"" C,2"" C2"" F,G,""A,F, |$"""" _B,3"m" _B,,"" C,2"" z A,, | %14
+"" _B,,C,""D,""A,,"" B,,G,,""C,""C, |"" F,G,""A,F,"" C,D,""E,"m"^C, |"m" D,E,"m"F,G,"""" A,3 A, |$ %17
+"m""m" _B,3"m" G,"""" A,3"m" F, |"" G,""A,""_B,"m"G,"" A,G,""A,A,, |"m" D,2"m""" G,,4"m" ^G,,2 | %20
+"""" A,,4"m" D,,4 |] %21

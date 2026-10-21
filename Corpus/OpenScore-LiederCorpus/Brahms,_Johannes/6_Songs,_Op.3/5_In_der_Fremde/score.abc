@@ -1,0 +1,65 @@
+X:1
+T:6 Songs, Op.3
+T:In der Fremde
+C:Johannes Brahms
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/4
+Q:1/4=75
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/8
+V:3 treble 
+L:1/8
+V:4 bass 
+V:5 bass 
+V:1
+"^Poco agitato" z | z4 | z4 |[Q:1/4=65]"_T" z4 | z2 z[Q:1/4=75]"_a tempo" A/!p!A/ |$ %5
+w: ||||Aus der|
+ A (G/A/) B G/ G/ | c B A c |!<(! c B/ c/!<)! d B | c z z2 |$ z!p!!<(! A2 A!<)! | %10
+w: Hei- mat * hin- ter den|Blit- zen rot, da|kom- men die Wol- ken|her.|A- ber|
+ A G/ A/!<(! B G/ G/!<)! | c!<(! B A c!<)! |!f! f e/ f/ =g e |$ f!>(! !>!A2 A/ A/!>)! |!pp! A3 A | %15
+w: Va- ter und Mut- ter sind|lan- ge tot, es|kennt mich dort kei- ner|mehr, kennt mich  dort|kei- ner|
+[Q:1/4=65]"^T"!>(!"^dim." A4!>)![Q:1/4=65]"_T" | z2 z[Q:1/4=75]"^a tempo"!p! A ||$ %17
+w: mehr.|Wie|
+ A G/ A/ B G/ G/ | c B A c | c B/ c/ d B |!<(! e4-!<)! |$ e d c!p! A- | A (G/A/) B G/ G/ | %23
+w: bald, ach wie bald kommt die|stil- le Zeit, da|ru- he ich auch, und|ü-|* ber mir rauscht|* die * schö- ne Wald-|
+[Q:1/4=60]"_T"[Q:1/4=60]"^T""^dim." c B A z | z2[Q:1/4=75]"^a tempo" z!<(! c!<)! |$ %25
+w: ein- sam- keit,|und|
+!f! f (e/f/) =g e/ e/ | c/ z/ f2[Q:1/4=65]"^T""^dim." d[Q:1/4=65]"^T" | B d2 B |!p! !fermata!c3 |] %29
+w: kei- ner * kennt mich mehr|hier, kei- ner|kennt mich mehr|hier.|
+V:2
+ (F2 | F2 ^EF G2 E2 | A2 G2 F2 A2) |"^dim."!<(! (A2 GB!<)! d2!>(! B2 | GCGC GC!>)![FA]C) |$ %5
+ [FA]C[^EG][FA] [GB]C[EG]C | [Ac]C[GB]C [FA]C[Ac]C |!<(! [Ac]E[GB][Ac]!<)! [Bd]E[GB]E | %8
+ [Ac]EBE BEGE |$ c4 z4 | [FA]C[^EG][FA] [GB]C[EG]C | [Ac]C[GB]C!<(! [FA]C[Ac]F!<)! | %12
+!f! [df]A[ce][Adf] [e=g]A[ce]A |$ f2 =g4 e2 | f2!pp! =g4 e2 | [df]8 | AFAF AF-[FA]C ||$ %17
+!p! [FA]C[^EG][FA] [GB]C[EG]C | [Ac]C[GB]C [FA]C[Ac]C | [Ac]E[GB][Ac] [Bd]E[GB]E | %20
+ [ce]E[Bd]E [Ac]E cE |$ c!>(!EBE AE!>)!AC | [FA]C[^EG][FA] [GB]C[EG]C | %23
+"_dim." [Ac]C[GB]C FC!arpeggio!^A"_sostenuto"C | c2 B2 ^A2 c2 |$!f! f2 ef !>!=g2 e2 | c2 !>!f4 d2 | %27
+ B2 !>!d4 B2 |!p! !fermata![C^Ac]6 |] %29
+V:3
+ FC | FC^EC GDED | ADGD FCAC | ACGC dCBC | G2 x6 |$ x8 | x8 | x8 | x2 !>!d4 B2 |$ %9
+ A!>(!CAC AC!>)!AC | x8 | x8 | x8 |$ dAe!>(!A eAcA!>)! | dAeA eAcA | dFAF A"_dim."F!>(!AF | %16
+ x4!>)! x4 ||$ x8 | x8 | x8 | x6 !>!e2- |$ (e2 d2 c2) x2 | x8 | x4 A2 !arpeggio!!>!c2- | %24
+ ^ACGC FCAF |$ dFcd eFcF | ^AFdF dFBF | ^GFBF BFGF | x6 |] %29
+V:4
+!p! A, | A, (G,/A,/ B, G,) | (C B, A, F,) | F, ^E,/G,/ B, G, | ^E,2!p! z2 |$ %5
+!ped! !arpeggio![F,,C,A,] ([^E,G,]/[F,A,]/!ped-up! [G,B,] [E,G,]) | ([A,C] [G,B,] [F,A,]) z | %7
+!ped! [E,,E,] ([G,B,]/[A,C]/!ped-up! [B,D] [G,B,]) | [A,C] (!>![A,,-E,-G,]3 |$!p! [A,,E,A,]2) z2 | %10
+!ped! !arpeggio![F,,C,A,] ([^E,G,]/[F,A,]/!ped-up! [G,B,] [E,G,]) | ([A,C] [G,B,] [F,A,]) z | %12
+ !>![D,,A,,D,] ([CE]/[DF]/) [E=G] [CE] |$ [DF] (!>![D,-A,-C]3 | [D,A,D]) !>![D,,A,,]3- | %15
+ [D,,A,,]4 | z4 ||$!ped! !arpeggio![F,,C,A,] ([^E,G,]/[F,A,]/!ped-up! [G,B,] [E,G,]) | %18
+ ([A,C] [G,B,] [F,A,]) z |!ped! [E,,E,] ([G,B,]/[A,C]/!ped-up! [B,D] [G,B,]) | %20
+ ([CE] [B,D] [A,C]) !>![A,,E,G,]- |$ ([A,,-E,-G,]2 [A,,E,A,]) z | %22
+!ped! !arpeggio![F,,C,A,] ([^E,G,]/[F,A,]/!ped-up! [G,B,] [E,G,]) | %23
+ ([A,C] [G,B,] A,/) z/!ped! !arpeggio![C,^E,]- | ([F,,-C,-E,]2 [F,,C,F,])!ped-up! z |$ %25
+!<(!!ped! [F,,F,] (.[CE]/!<)!.[DF]/)!ped-up!!>(! [E=G] [CE]!>)! | [^A,C]"^dim." [DF]2 [B,D] | %27
+ [^G,B,] [B,D]2 [G,B,] | !arpeggio!!fermata![F,,C,^A,]3 |] %29
+V:5
+ x | x4 | x4 | z2 C,2 | C,2 z2 |$ x C,- C,2 | C,2 F, x | x E,- E,2 | x4 |$ x4 | x C,- C,2 | %11
+ C,2 F, x | x A, A,2 |$ x4 | x4 | x4 | x4 ||$ x C,- C,2 | C,2 F, x | x E,- E,2 | E,2 x2 |$ x4 | %22
+ x C,- C,2 | C,2 F,/ x/ !arpeggio!F,,- | x4 |$ x F, F,2- | F, F,3- | F, !>!F,3 | x3 |] %29

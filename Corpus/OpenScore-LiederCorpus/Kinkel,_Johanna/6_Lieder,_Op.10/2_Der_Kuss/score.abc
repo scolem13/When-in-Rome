@@ -1,0 +1,71 @@
+X:1
+T:6 Lieder, Op.10
+T:Der Kuss
+C:Johanna Kinkel (originally published under the name J. Mathieux)
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/16
+Q:1/4=98
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Singstimme\nVoice"
+L:1/8
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:1
+"^Andante con moto"!mp! c2 | c4 c c | _d4 B2 |!<(! c6!<)! |$ f4!>(! e d | c4 BA | A3 G A2!>)! | %7
+w: Ich|will mei- ne|See- le|tau-|chen in den|Kelch der *|Li- lie hin-|
+!p! F6 |$ z2 z2!p! c2 |!<(! c3 =B c2!<)! |!>(! d4 =B2!>)! | c6 |$ !tenuto!.=B4!<(! B2 | %13
+w: ein.|Die|Li- lie soll|klin- gend|hau-|chen ein|
+ =B4 B c!<)! |!>(! d4 e2 | c6!>)! |$ z2 z2!mf! c2 | c4 c2 | c3 c c2 | _e6 |$ c4 c c | _d4 d2 | %22
+w: Lied von der|Lieb- sten|mein.|Das|Lied soll|schau- ern und|be-|ben Wie der|Kuss von|
+ _e4 _d2 | c6- |$ !tenuto!.c4 c2 | c4 c2 | _d4!<(! B2 | c6!<)! |$ f4!>(! ed | c3 B A2 | G4 A2!>)! | %31
+w: ih- rem|Mund,|_ den|sie mir|einst ge-|ge-|ben in _|wun- der- bar|sü- sser|
+!mf! F6 |$ %32
+w: Stund.|
+"^Voice staff: \"Hide when empty\" after note input is complete, so that this system can be on page 2" z6 | %33
+w: |
+ z6 | z6 |[Q:1/4=96] z6[Q:1/4=90][Q:1/4=80] |O z4 |] %37
+w: ||||
+V:2
+ z4 |!pp! z ([fa][Ac]) z z ([fa][Ac]) z z ([fa][Ac]) z | %2
+ z ([f_a][_A_d]) z z ([fa][Ad]) z z ([fb][Bd]) z | %3
+ z!<(! ([f=a][Ac]) z z ([fa][Ac]) z z ([fa][Ac])!<)! z |$ %4
+ z ([fa][Ad]) z z ([ea][Ad]) z z ([f_a][_Ad]) z | z [f=a][Ac]!>(! z z [fa][Ac] z z [fa][Ac] z!>)! | %6
+ z [eg][GB] z z [eg][GB] z z [eg][GB] z |!>(! z [fa][Ac] z z [fa][Ac] z z [fa][Ac] z!>)! |$ %8
+!pp! z [_ea][Ac] z z [ea][Ac] z z [ea][Ac] z | z [=ea][Ac] z!<(! z [ea][Ac] z z [ea][Ac]!<)! z | %10
+!>(! z [ea][Ad] z z [ea][Ad] z z [d^g][^G=B] z!>)! | %11
+ z [_ea][Ac] z!>(! z [ea][Ac] z z [ea][Ac]!>)! z |$ z [^da][A=B] z z [da][AB] z z [da][AB] z | %13
+ z [e^g][^G=B] z z [eg][GB] z z [e=g][=GB] z | z [fg][G=B] z z [fg][GB] z z [fg][GB] z | %15
+ z [ce][EG]!<(! z z [ce][EG] z z [ce][EG]!<)! z |$!mf! z [cf][F_A] z z [cf][FA] z z [cf][FA] z | %17
+ z [ce]!>(![EG] z z [ce][EG] z z [ce][EG]!>)! z | z [ce]!<(![E_A] z z [ce][EA] z z [ce][EA]!<)! z | %19
+ z [c_e]!>(![_EG] z z [ce][EG] z z [ce][EG]!>)! z |$ z [c_e][_E_A] z z [ce][EA] z z [ce][EA] z | %21
+ z [B_d][_E_A] z z [Bd][EA] z z [Bd][EA] z | z [B_d][_EG] z z [Bd][EG] z z [Bd][EG] z | %23
+ z [_Ac][C_E] z z [Ac][CE] z z [Ac][CE] z |$ z [Bc][C=E] z z [Bc][CE] z z [Bc][CE] z | %25
+ z [fa][Ac] z z [fa][Ac] z z [fa][Ac] z | z [f_a][_A_d] z z [fa][Ad] z z [fb][Bd] z | %27
+!<(! z [f=a][Ac] z z [fa][Ac] z z [fa][Ac] z!<)! |$ z [f=a][Ad] z z [fa][Ad] z z [f_a][_Ad] z | %29
+!>(! z [f=a][Ac] z z [fa][Ac] z z [fa][Ac] z!>)! | z [gb][Be] z z [gb][Be] z z [gb][Be] z | %31
+ z [fa][Ac] z z [fa][Ac] z z [fa][Ac] z |$!<(! z [fa][A^c] z z [fa][Ac] z z [fa][Ac] z!<)! | %33
+!>(! z [fa][A=c] z z [fa][Ac] z z [fa][Ac] z!>)! |!<(! z [fa][Ad] z z [fa][Ad] z z [fa][Ad] z!<)! | %35
+!>(! z [fa][Ac] z z"_rall." [fa][Ac] z z [fa][Ac] z!>)! | !fermata!z8 |] %37
+V:3
+ z4 | !>![F,,F,] z z ([CF]F,) z z ([CF]F,) z z ([CF] |!>!F,) z z ([_DF]F,) z z ([DF]F,) z z ([DF] | %3
+!>!F,) z z [CF]F, z z [CF]F, z z [F,C] |$ !>!D, z z A,D, z z A,=B,, z z =B, | %5
+!>!C, z z CC, z z CC, z z C |!>!C, z z [CE]C, z z [CE]C, z z [CE] | %7
+!>!F, z z [CF]F, z z [CF]F, z z [CF] |$ !>!F, z z [CF]F, z z [CF]F, z z [CF] | %9
+!>!=E, z z [CE]E, z z [CE]E, z z [CE] |!>!E, z z [=B,E]E, z z [B,E]E, z z [B,E] | %11
+!>!^F, z z [_E^F]F, z z [EF]F, z z [EF] |$ !>!^F, z z [^D^F]F, z z [DF]F, z z [=B,F] | %13
+!>!E, z z [=B,E]E, z z [B,E]E, z z [B,E] |!>!D, z z [G,D]D, z z G,G,, z z G, | %15
+!>!C, z z [G,C]C, z z [G,C]C, z z [G,C] |$ !>!C, z z [_A,C]C, z z [A,C]C, z z [A,C] | %17
+!>!C, z z [G,C]C, z z [G,C]C, z z [G,C] |!>!C, z z [_A,C]C, z z [A,C]C, z z [A,C] | %19
+!>!C, z z [G,C]C, z z [G,C]C, z z G, |$ !>!_A,, z z _E,A,, z z E,A,, z z _A, | %21
+!>!_E, z z [_A,_D]E, z z [A,D]E, z z [A,D] |!>!_E, z z _B,E, z z B,E, z z B, | %23
+!>!_A,, z z [_E,_A,]A,, z z [E,A,]A,, z z [E,A,] |$ !>!G,, z z [C,G,]G,, z z [C,G,]G,, z z [C,G,] | %25
+!>!F,, z z [CF]F, z z [CF]F, z z [CF] |!>!F, z z [_DF]F, z z [DF]F, z z [DF] | %27
+!>!F, z z [CF]F, z z [CF]F, z z C |$ !>!D, z z A,D, z z A,=B,, z z =B, | %29
+!>!C, z z CC, z z CC, z z C |!>!C, z z CC, z z CC, z z C |!>!F, z z [CF]F, z z [CF]F, z z [CF] |$ %32
+ !>!F, z z [^CF]F, z z [CF]F, z z [CF] |!>!F, z z [=CF]F, z z [CF]F, z z [CF] | %34
+!>!F, z z [=B,F]F, z z [B,F]F, z z [B,F] |!ped!!>!F, z z [CF]F, z z [CA]F, z z (!fermata!C, | %36
+ !fermata!F,,8)!ped-up! |] %37

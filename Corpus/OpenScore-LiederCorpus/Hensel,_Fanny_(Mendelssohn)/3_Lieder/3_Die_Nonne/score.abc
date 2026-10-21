@@ -1,0 +1,55 @@
+X:1
+T:3 Lieder
+T:Die Nonne
+C:Fanny (Mendelssohn) Hensel
+Z:Ludwig Uhland
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:3/8
+I:linebreak $
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+L:1/16
+V:6 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Andante con moto" z3 |: z3 | z3 | z2!p! E | e2 ^d | e2 ^d |$ e3 | A2 A/ A/ | c2 c | (cd) B | %10
+w: |||1.  Im|stil- len|Klo- ster-|gar-|ten ei- ne|blei- che|Jung- * frau|
+w: |||2. "O|wohl mir,|dass ge-|stor-|ben der *|treu- e|Buh- * le|
+w: |||3.  Sie|trat mit|za- gem|Schrit-|te wohl *|zum Ma-|ri- * a-|
+w: |||4.  Sie|sank zu|sei- nen|Fü-|ssen, sah *|auf mit|Him- * mels-|
+ c2 z | z2 c | e2 ^d | e2 ^d |$ e3 | B z B | c2 c | (cB) A | G2!<(! G | A2 B | c2 d!<)! |$ %21
+w: ging;|der|Mond be-|schien sie|trü-|be, an|ih- rer|Wim- * per|hing die|Trä- ne|zar- ter|
+w: mein!|Ich|darf ihn|wie- der|lie-|ben: er|wird ein|En- * gel|sein, und|En- gel|darf ich|
+w: bild;|es|stand im|lich- ten|Schei-|ne, es|sah so|mut- * ter-|mild her-|un- ter|auf die|
+w: ruh,|bis|ih- re|Au- gen-|li-|der im|To- de|fie- * len|zu: ihr|Schlei- er|wall- te|
+"^dolce" e3 | A2 z :| z3 | z3 | z3 | z3 | z3 | z3 | !fermata!z3 |] %30
+w: Lie-|be.||||||||
+w: lie-|ben:||||||||
+w: Rei-|ne.||||||||
+w: nie-|der.||||||||
+V:2
+ x3 |: x3 | x3 | x3 | x3 | x3 |$ x3 | x2 A | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | %18
+ x3 | x3 | x3 |$ x3 | x3 :| x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %30
+V:3
+!p! (CEAE[B,^G]E |:!<(! CEAE[^GB]E | cA!<)!!mf!!>(![df]A[ce]A | [Fd]A[Ec]A[DB]^G)!>)! | %4
+!p!"_legato sempre" CEACB,A | CEACB,A |$ CEAECE | DFAFDF | EAcAEA | EGBG[FB]G | EGcG!>!^D^F | %11
+ EGcG^D^F | Gcec^Fc | Gcec^Fc |$!pp! GeBGEB, | G,B,EB,G,B, | A,B,EB,A,B, | ^F,B,^DB,F,B, | %18
+!<(! G,B,E!mp!!>(!B,!<)!E_B,!>)! |!<(! CFAF^GF!<)! |!mp!!>(! CFAF=B,F!>)! |$ %21
+"_dim."!>(! CEAE[B,^G]E | (CEAE[B,^G]E!>)! :|!<(! CEAE[^GB]E | cA[df]A[ce]A!<)! | %25
+!mp!!>(! [Fd]A[Ec]A[DB]^G)!>)! |!p! A6 |"_dim."!>(! E6!>)! |!pp! ([^G,B,E-]6 | !fermata![A,E]6) |] %30
+V:4
+ A,,3 |: A,3 | A,,3 | A,3 | A,,3 | A,3 |$ A,,3 | !>![D,A,]3 | [A,,A,]3 | G,,3 | C,3 | C3 | C,3 | %13
+ C3 |$ B,3 | B,,3 | B,,,3 | B,,3 | E,2 C, | [F,,F,]3 | F,3 |$ E,,3 | A,,3 :| z E,E, | E,E,E, | %25
+ E,E,E, | E,3 | E,E,[D,E,] | ([D,E,-]3 | !fermata![C,E,]3) |] %30
+V:5
+ x3 |: x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 |$ x3 | x3 :| A,,3- | A,,3- | A,,3- | A,,3 | z3 | A,,3- | A,,3 |] %30
+V:6
+ x3 |: x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 |$ x3 | x3 :| x3 | x3 | x3 | (C[DF][CE] | [B,D][A,C][^G,B,]) | x3 | x3 |] %30

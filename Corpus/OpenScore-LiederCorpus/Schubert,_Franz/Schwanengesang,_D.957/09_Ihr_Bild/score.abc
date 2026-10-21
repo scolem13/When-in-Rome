@@ -1,0 +1,60 @@
+X:1
+T:Schwanengesang
+T:Ihr Bild
+C:Franz Schubert
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=50
+M:2/2
+I:linebreak $
+K:Db
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/4
+V:4 treble 
+V:3 bass 
+L:1/4
+V:5 bass 
+V:1
+"^Langsam" z8 | z4 z2 B2 | B3 d c2 B2 | =A4 B2 c2 | G7/2 F/ G7/2 _A/ |$ F6 z2 | z8 | z4 z2 F2 | %8
+w: |Ich|stand in dunk- len|Träu- men und|starrt' ihr Bild- niss|an,||und|
+ B3 B c2 B2 | =d4 c2 z2 |$ e2 =d c d2 c c | B6 z2 | z8 | z4 z2 B2 |$ B3 B B3 A | A2 _G4 G2 | %16
+w: das ge- lieb- te|Ant- litz|heim- lich zu le- ben be-|gann.||Um|ih- re Lip- pen|zog sich ein|
+ _c3 c c3 d | B4 z2 B2 |$ B3 B BA GF | F2 E4 G2 | _c2 c c PcB cd | B4 z4 |$ z8 | z4 z2 B2 | %24
+w: Lä- cheln wun- der-|bar, und|wie von Weh- * muths- *|thrä- nen er-|glänz- te ihr Au- * gen- *|paar.||Auch|
+ B3 d c2 B2 | =A4 B2 c2 | G7/2 F/ G2 G3/2 _A/ |$ F6 z2 | z8 | z4 z2 F2 | B3 B c2 B B | %31
+w: mei- ne Thrä- nen|flos- sen mir|von den Wan- gen her-|ab||und|ach, ich kann es nicht|
+ =d4 c2 c c |$ e2 =d c d2 c2 | B6 z2 | z8 | !fermata!z8 |] %36
+w: glau- ben, dass ich|dich ver- * lo- ren|hab'.|||
+V:2
+!pp! B,3 z | B,3 z | (B,3/2 D/ C B, | =A,2 B,) (C | G,7/4 F,/4 G,7/4 _A,/4 |$ F,3) [C=Ac] | %6
+ [CBc]4 | [C=Ac]3 F | ([FB]3/2"_cresc." [FB]/ [=Gc] [FB]) |!<(! (=d2 c2)!<)! |$ %10
+!>(! (e =d/c/)!>)! [FBd] [EF=Ac] | [=DFB]3 B, | %12
+!<(! ([B,E] [B,F]/[B,=G]/!<)!!>(! [B,F] [=A,F])!>)! | [B,F]3!pp! B |$ B4 | B3 B |!>(! _c4!>)! | %17
+ B3/2 z/4 .[Bd]/4 [GB] z |$ B4 |!>(! _c3!>)!!<(! c!<)! |!>(! _c4!>)! | %21
+ [GB]3/2 z/4 .[Bd]/4 [GB] z3/4 D/4 |$ [=E,B,]3 z3/4 D/4 | [F,B,]3 z | (B,3/2 D/ C B, | %25
+ =A,2 B,) (C | (G,7/4) F,/4 G,7/4 _A,/4 |$ F,3) [C=Ac] | [CBc]4 | [C=Ac]3 F | %30
+ [FB]3/2"_cresc." ([FB]/ [=Gc] [FB]) |!<(! (=d2!<)! c2) |$!>(! (e =d/c/!>)! [FBd] [EF=Ac]) | %33
+ [=DFB]3!f! B, | [E,B,E] [F,B,F]/[_G,B,_G]/ [F,B,F] [F,=A,EF] | !fermata![F,B,_DF]4 |] %36
+V:3
+ B,,3 z | B,,3 z | (B,,3/2 D,/ C, B,, | =A,,2 B,,) (C, | G,,7/4 F,,/4 G,,7/4 _A,,/4 |$ %5
+ F,,3) [F,,,F,,] | ([G,,,G,,]7/4 [F,,,F,,]/4 [G,,,G,,]7/4 [_A,,,_A,,]/4 | [F,,,F,,]3) F, | %8
+ ([=D,B,]3/2 [D,B,]/ [E,B,] [D,B,]) | (B,2 =A, _A,) |$ [=G,C]2 [B,=D] [=A,C] | %11
+ [B,,F,B,]3/2 (B,,/ [=A,,B,,] [_A,,B,,]) | ([=G,,B,,] [F,,=D,]/[E,,E,]/ [F,,D,] [F,,E,]) | %13
+ [B,,=D,]3 B, |$ B,4 | B,3 B, | [D,A,_C]4 | B,3/2 z/4 .[B,D]/4 [G,B,] z |$ B,4 | _C3 C | %20
+ [D,A,_C]4 | [G,B,]3/2 z/4 .[B,D]/4 [G,B,] z |$ [B,,,G,,B,,]3 z | [B,,,F,,B,,]3 z | %24
+!pp! (B,,3/2 D,/ C, B,, | =A,,2 B,,) (C, | (G,,7/4) F,,/4 G,,7/4 _A,,/4 |$ F,,3) [F,,,F,,] | %28
+ ([G,,,G,,]7/4 [F,,,F,,]/4 [G,,,G,,]7/4 [_A,,,_A,,]/4 | [F,,,F,,]3) F, | %30
+ [=D,B,]3/2 ([D,B,]/ [E,B,] [D,B,]) | (B,2 =A, _A,) |$ (C, =D,/E,/) [F,B,=D] [F,=A,C] | %33
+ [B,,F,B,]3/2 (B,,/ [=A,,B,,] [_A,,B,,]) | [_G,,B,,] [F,,B,,]/[E,,B,,]/ [F,,B,,_D,] [F,,C,] | %35
+ !fermata![B,,,F,,B,,]4 |] %36
+V:4
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | F8 |$ [E=G]4 x4 | x8 | x8 | x8 |$ (B6 _A2) | %15
+ (A2!<(! _G4) G2!<)! | (G2 FE F3 A) | G3 x5 |$ B4- (B!<(!AGF)!<)! | (F2 E4) G2 | (G2 FE F3 A) | %21
+ x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | F8 |$ [E=G]4 x4 | x8 | x8 | x8 |] %36
+V:5
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | F,8 |$ (C,2 =D,E,) F,2 F,2 | x8 | x8 | x8 |$ %14
+ (B,6 _A,2) | (A,2 _G,4) G,2 | x8 | G,3 x5 |$ B,4- (B,A,G,F,) | (F,2 E,4) [__E,G,]2 | x8 | x8 |$ %22
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | F,8 |$ [=G,C]4 x4 | x8 | x8 | x8 |] %36

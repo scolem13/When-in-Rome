@@ -1,0 +1,102 @@
+X:1
+T:6 Lieder, Op.13
+T:Aus der Ferne
+C:Josephine Lang
+Z:(Author unknown)
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/4
+Q:1/4=98
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Stimme\nVoice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+L:1/8
+V:1
+"^Andante" z3 | z3 |!mp! (F2 E | D2 F | B2 A |$ F2 D/) z/ | G z z/!<(! B/!<)! |!mp! e2!>(! d | %8
+w: ||1. Siehst du|dort die|Wol- ken|ei- len|ja mit|ih- nen|
+w: ||2. Ach sie|ge- hen|wie sie|kom- men,|hö- ren|nicht mein|
+w: ||3. Wol- ken!|se- gelt|durch die|Lüf- te,|grüs- set|mir mein|
+ c2 A!>)! | E2 z |$ F z z/!mf! ^G/ | A2!f! F | d2 d | c2 A |!<(! G2 F!<)! |$!p!!>(! f2 d | %16
+w: möcht' ich|gern,|doch, ich|muss al-|lein hier|wei- len,|ist das|Lieb- ste|
+w: fle- hend|Wort,|ha- ben|mich nicht|mit- ge-|nom- men,|ei- len|flüch- tig|
+w: Hei- mat-|land,|o dass|ich auch|mit euch|schiff- te|an des|Him- mels|
+ c- c3/2 ^E/!>)! |!mp! F2 z | z3 | z3 |$ z3 | z3 | z3 | z3 | z3 | z3 |$!p! G2 F |!<(! E2 =c!<)! | %28
+w: mir * so|fern!|||||||||Wol- ken|ihr am|
+w: wei- * ter|fort!|||||||||O so|grüsst mir|
+w: blau- * en|Rand.|||||||||Ein- sam|weil' ich|
+!mp!!>(! B2 G | F2 !tenuto!.E!>)! |!p! D- D3/2"^cres." C/ |$ B,2 d |!mp!!>(! c2 B | %33
+w: Him- mels-|bo- gen,|eilt _ doch|nicht so|schnell von|
+w: doch die|Lie- ben,|wel- * che|Fer- ne|von mir|
+w: in der|Fer- ne,|mei- * ne|Sehn- sucht|in der|
+ (F2 D/) z/!>)! |!p! E2 z/ F/ |[Q:1/4=100]!<(! G2"^string." A |$[Q:1/4=102] B2!<(! c!<)!!<)! | %37
+w: mir, _|bin ja|oft mit|euch ge-|
+w: scheid, _|grüsst sie|mir die|treu mir|
+w: Brust _|ach! mit|euch zög'|ich so|
+!>(! e2 d!>)! |[Q:1/4=100]!mp!!>(! d2 _B!>)! |[Q:1/4=98] d2 z/!p! B/ |!>(! A2 E!>)! |$!pp! F2 z | %42
+w: zo- gen,|lasst mich|nicht so|ein- sam|hier,|
+w: blie- ben,|brin- get|ih- nen|dies mein|Lied!|
+w: ger- ne,|ach, bei|euch ist|mei- ne|Lust!|
+!p!"^cres." E2 A | c2 z/ B/ |[Q:1/4=96] A2!f! c |[Q:1/4=94]"^ritard." f2 e |$ d2!mf! F | %47
+w: bin ja|oft mit|euch ge-|zo- gen,|lasst mich|
+w: grüsst sie|mir, die|treu mir|blie- ben,|brin- get|
+w: ach, mit|euch zög|ich so|ger- ne,|ach, bei|
+[Q:1/4=92] A2 (D |!mp![Q:1/4=88]"^dimim e ritard." F2[Q:1/4=80] E/D/ |!p! D3)[Q:1/4=90] | %50
+w: nicht so|ein- sam _|hier!|
+w: ih- nen|dies mein _|Lied!|
+w: euch ist|mei- ne- *|Lust!|
+[Q:1/4=96] z3 | z3 |$ z3 | z3 | z3 | z3 |[Q:1/4=94] z3 | z3 :| z3 |] %59
+w: |||||||||
+w: |||||||||
+w: |||||||||
+V:2
+ z/[I:staff +1] F, F, F,/ |[I:staff -1] z/[I:staff +1] F, F, F,/ | %2
+!p![I:staff -1] z/ [DF] [DF] [DF]/ | z/ [DF] [DF] [DF]/ | z/ [DF] [DF] [DF]/ |$ %5
+ z/ [DF] [DF] [DF]/ | z/!<(! [B,DG] [B,DG] [B,DG]/ | z/ [B,DG]!<)!!mp!!>(! [B,DG] [B,DG]/ | %8
+ z/ [A,CG] [A,CG]!>)! [A,CG]/ |!p!!<(! z/ [A,CG] [A,CG] [A,CG]/ |$ z/ [DF] [DF] [DF]/!<)! | %11
+!f! z/ [A,CF] [A,CF] [A,CF]/ | z/ [DF] [DF] [DF]/ | z/ [CF] [CF] [CF]/ | %14
+"_cres." z/ [DF] [DF] [DF]/ |$"_dimin." z/ [DF^G] [DFG] [DFG]/ |!mf! z/ [C^E^G] [CEG] [CEG]/ | %17
+ z/ [CF] [CF] [CF]/ |!f! (!^![df]3 | !^![^Gc]3 |$!p! !^![Ac]3- | [Ac]3 |!f! !^![f^g]3 | [c^e]3 | %24
+!>(!"_dimin." [cf]3- | [cf]3)!>)! |$!p! z/ E E x/ | z/ E E G/ | z/ E E G/ | z/ E E G/ | %30
+ z/ [B,DF] [B,DF] [B,DFB]/ |$ z/ [B,DF] [B,DF]"_cres." [B,DFB]/ | z/ [B,DF] [B,DF] [B,DFB]/ | %33
+ z/ [B,DF] [B,DF] [B,DFB]/ |!p! z/ [B,DE] [B,DE] [B,DEB]/ | z/ [CGA] [CGA]"_string." [CGA]/ |$ %36
+!<(! z/ [CGA] [CGA] [CGA]/!<)! |!ff! z/ [DFA] [DFA] [DFA]/ | z/!f! [DE_B] [DEB] [DEB]/ | %39
+!>(! z/ [DE_B] [DEB] [DEB]/!>)! |!p! z/ [CEA] [CEA] [CEA]/ |$ z/ [DFA] [DFA] [DFA]/ | %42
+ z/ [CGA]"_cres." [CGA] [CGA]/ | z/!<(! [CGA] [CGA] [CGA]/ | z/ [CGA]!<)!!f! [CGA] [CGA]/ | %45
+!>(! z/ [CGA] [CGA] [CGA]/!>)! |$ z/ [DFA] [DFA] [DFA]/ | z/ [DFA] [DFA] [DF]/ | %48
+!p!"^dimim e ritard." z/ [DF] [DF] [_B,CE]/ |!pp!!<(! D3!<)! |"^a tempo""^legato"!mp! (G2 A | %51
+ F2 A |$ E2 F | D2 F | E2 B |!>(! _B2 A!>)! |!pp! D3- | D3) :|[I:staff +1] !fermata!F,3 |] %59
+V:3
+!mf!!ped! D, D, A,,!ped-up! |!ped! D, D, A,,!ped-up! |!ped! D, D, A,, | D, D, A,,!ped-up! | %4
+ D, D, A,, |$ D, D, A,, | D, D, G,, | D, D, G,, | E, E, A,, | E, E, A,, |$ D, D, A,, | F, F, C, | %12
+ B, B, F, | A, A, F, | B, B, ^G, |$ B, B, ^G, | B, B, ^G, | A, A, F, | %18
+!ped! B,, ([B,D] F,)!ped-up! | C,, ([^E,B,] C,) |$ F,, (A, F,) | C, F, A, | B,, ([B,D] F,) | %23
+ C, ([B,C] ^G,) | F,, C, F, | A, F, C, |$ E, E, B,, | E, E, B,, | E, E, B,, | E, E, B,, | %30
+ F, F, D, |$ F, F, D, | F, F, D, | F, F, B,, | G, G, E, | A,, A,, E,, |$ A,, A,, A,,, | %37
+ A,, A,, D,, | G, G, D, | G, G, E, | G, G, E, |$ D, D, A,, | A, A, E, | A, A, E, | A, A, E, | %45
+ A, A, E, |$ A, A,!p! F, | A, A, A,, | B,, E,, A,, | A,, A,, D,, | E, E, A,, | D, D, A,, |$ %52
+ C, C, A,, | D, D, A,, | B,, B,, E,, | A,, A,, A, | A,, A,, D,, | A,, A,, D,, :| %58
+ !arpeggio!!fermata![D,,A,,]3 |] %59
+V:4
+ D,,3 | D,,3 | D,,3- | D,,3 | D,,3- |$ D,,3 | D,,3- | D,,3 | D,,3- | D,,3 |$ D,,3 | F,,3 | B,,3 | %13
+ F,,3 | B,,3 |$ B,,3 | C,3 | F,,3 | x3 | x3 |$ x3 | x3 | x3 | x3 | C,3- | C,3 |$ E,,3 | E,,3 | %28
+ E,,3 | E,,3 | F,,3- |$ F,,3 | F,,3- | F,,3 | G,,3 | x3 |$ x3 | x3 | G,,3- | G,,3 | A,,3 |$ D,,3 | %42
+ A,,3 | A,,3 | A,,3 | A,,3 |$ A,,3 | x3 | x3 | x3 | D,,3- | D,,3 |$ D,,3- | D,,3 | x3 | x3 | x3 | %57
+ x3 :| x3 |] %59
+V:5
+ x6 | x6 |[I:staff -1] x[I:staff +1] A,2 A,2 A, |[I:staff -1] x[I:staff +1] A,2 A,2 A, | %4
+[I:staff -1] x[I:staff +1] A,2 A,2 A, |$[I:staff -1] x[I:staff +1] A,2 A,2 A, | x6 | x6 | x6 | %9
+ x6 |$[I:staff -1] x[I:staff +1] A,2 A,2 A, | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | %18
+[I:staff -1] z [FB]2 [FB]2 [FB] | z [C^E]2 [CE]2 [CE] |$ z [CF]2 [CF]2 [CF] | z [CF]2 [CF]2 [CF] | %22
+ z [F^G]2 [FG]2 [FG] | z [^E^G]2 [EG]2 [EG] | z [FA]2 [FA]2 [FA] | z [FA]2 [FA]2 [FA] |$ %26
+ x[I:staff +1] [G,B,]2 [G,B,]2 [G,B,] | x [G,B,]2 [G,B,]2 [G,B,] | x [G,B,]2 [G,B,]2 [G,B,] | %29
+ x [G,B,]2 [G,B,]2 [G,B,] | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | %43
+ x6 | x6 | x6 |$ x6 | x5 A, | x ^G,2 G,2 =G, | F, F,2 F,2 F, | [A,C] [A,C]2 [A,C]2 [A,C] | %51
+ [A,D] [A,D]2 [A,D]2 [A,D] |$[I:staff -1] z[I:staff +1] [G,A,]2 [G,A,]2 [G,A,] | %53
+[I:staff -1] z[I:staff +1] [F,A,]2 [F,A,]2 [F,A,] | %54
+[I:staff -1] z"^cres."[I:staff +1] [^G,D]2 [G,D]2[I:staff -1] [DE] | z [DE]2 [DE]2 [CE] | %56
+ z[I:staff +1] F,2 F,2 F, |[I:staff -1] z[I:staff +1] F,2 F,2 F, :| x6 |] %59

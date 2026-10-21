@@ -1,0 +1,71 @@
+X:1
+T:3 Lieder
+T:Verlust
+C:Fanny (Mendelssohn) Hensel
+Z:Heinrich Heine
+Z:Open Score (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=144
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Singstimme\nVoice"
+L:1/8
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Allegro con fuoco" z4 z2!p! (AF) | E2 A F E2 A d | !>!d4 ^c2 A2 | B6 B2 | A2 G A ^F2 (d>B) |$ %5
+w: Und *|wüss- ten's die Blu- men, die|klei- nen, wie|tief ver-|wun- det mein Herz, sie *|
+ A2 (d>B) A2!f! (dg) | g4 ^f2 d2 | !>!=f4- (fd) (c=B) |"^dim." c4- (cA) (_BG) | F2 z2 z2!p! A2 | %10
+w: wür- den * mit mir *|wei- nen, zu|hei- * * len *|mei- * * nen *|Schmerz. Und|
+ A2 B A A2 B2 |$ (c3 A) F2 z2 | F2 _G F F2 G F | F2 z2 z4 | z2"^cresc." A2 B2 A2 | %15
+w: wüss- ten's die Nach- ti-|gal- * len,|wie ich so trau- rig und|krank,|sie lies- sen|
+ B2 =B3/2 B/ c2 ^c3/2 A/ |!ff! (defe d^cdB |$ A^G) (A=G)!f! F3 E | D2 z2 z4 | z8 | z4 z2!p! (A>F) | %21
+w: fröh- lich er- schal- len er-|qui- * * * * * * *|* * cken- * den Ge-|sang.||Und *|
+ E2 (A>F) E2 (Ad) | d4 ^c2 A2 |$ B6 B2 | A3 G ^F2 (d>B) |"^cresc." A2 d3/2 B/ A2!f! (dg) | %26
+w: wüss- ten * sie mein *|We- he, die|gold'- nen|Ster- ne- lein, sie *|kä- men aus ih- rer *|
+ g4 ^f2 d2 | =f4- (fd) (c=B) | c4-"^dim." (cA) (_BG) |$ F2 z2 z2!p! A2 | A2 (BA) A2 A B | %31
+w: Hö- he und|sprä- * * chen *|Trost _ _ mir *|ein. Die|al- le * kön- nen's nicht|
+ (c3 A) F2!p! (_G>F) | F2 (_G>F) F2 _e d | d2 z2 z4 | z2!p! A2 B2 A2 |$"^cresc." B2 =B2 c2 ^c A | %36
+w: wis- * sen, nur *|Ei- ner * kennt mei- nen|Schmerz,|er hat ja|selbst zer- ris- sen, zer-|
+!ff! (defe d^cdB | A^G) (A=G)!f! F3 E | D2 z2 z4 | z8 | !fermata!z8 |] %41
+w: ris- * * * * * * *|* * sen * mir das|Herz.|||
+V:2
+!p! z2 z ([FA]/[DF]/ | [^CE]) ([FA]/[DF]/ [CE]) ([FA]/d/) | ((([FA-d]2 [EA^c]))) [^CEA] | B3 B | %4
+ A3 ([Bd]/>[GB]/ |$ [^FA]) ([Bd]/>[GB]/ [FA])!f! ([Bd]/g/) | ([Bdg]2 [A^f]) [^Fd] | %7
+ d!>(! c [F=B]2!>)! | [FAc] [FA] [EG] [CE] | [A,F] (!>![B,D]/[A,C]/) [A,C]!p! ([FA] | %10
+ [GA] [FB] [EFA] [DFB] |$ [CGc]) ([B,E] [A,F] [^CE]) |!p! (D [C_E] [B,D] [CE] | %13
+ [B,D]) (!>!_e/d/) [Fd] (!>![^C=E] | !>![DF]"_cresc." !>![D^FA] !>![DGB] !>![DA] | %15
+ !>![DGB] !>![DG=B] !>![CGc] !>![EG^c] |!ff! [FAd]2) z!f! ([D-GB] |$ [DA]) (D2 ^C) | %18
+ [F,D] z!f! z ([FA]/>[DF]/ | [^CE]) z z"_dim." ([FA]/>[DF]/ | [^CE]) z z!p! ([FA]/>[DF]/ | %21
+ [^CE]) ([FA]/>[DF]/ [CE]) ([FA]/d/) | ((([FA-d]2 [EA^c]))) [^CA] |$"_express." [DB] A G [FB] | %24
+ A3 ([Bd]/>[GB]/ |"_cresc." [^FA]) ([Bd]/>[GB]/ [FA]) ([Bd]/g/) |!f! ([Bdg]2 [A^f]) [^Fd] | %27
+ d"_dim." c [F=B]2 |!p! [FAc] [FA] [EG] [CE] |$ [A,CF] (!>![B,D]/[A,C]/) [A,C] (A | %30
+ [GA] [FB] [EA] [DF] | [CF] [B,E] [A,F])!p! ([C_E] | [B,D]) ([C_E] [B,D]) ([_G_e] | %33
+ [Fd]) (!>![^CE] !>![DF] !>![_E^F] | !>![DG] !>![^FA] !>![GB] !>![DA] |$ %35
+"_cresc." !>![DB] !>![D_A=B] !>![CGc] !>![G=A^c] |!ff! [FAd]2) z ([D-GB] | [DA]) (D2 ^C) | %38
+ [F,D] z z ([FA]/>[DF]/ | [^CE]) z z"_dim." ([FA]/>[DF]/ |!p! !fermata![^CE]4) |] %41
+V:3
+ [A,,A,]4- | [A,,A,]4- | [A,,A,] A,, A, [G,,G,] | [F,,F,] [E,,E,] [D,,D,] E,,/D,,/ | %4
+ ^C,, A,, D, z |$ [D,,D,]4 | z [D,,D,] [D,D] [C,C] | [=B,,=B,] [C,C] [D,G,D]2 | [C,C]3 [C,_B,] | %9
+ [F,,F,]3 (F, | E, [D,D] [C,C] [B,,B,] |$ [A,,A,]) (C, D, A,,) | (B,, A,, B,, A,, | %13
+ B,,) ([A,C] B,2) | (!>![B,,B,] !>![A,,A,] !>![G,,G,] !>![^F,,^F,] | %15
+ !>![G,,G,] !>![=F,,=F,] !>![E,,E,] !>![A,,A,] | [D,,D,]2) x [E,,E,]- |$ [E,,E,] (!>!B,, A,,2) | %18
+ D, z [A,,A,]2- | [A,,A,]2 !>![A,,A,]2- | [A,,A,]4- | [A,,A,]4 | z A,, A, A,, |$ %23
+ G,, [F,,F,] [E,,E,] [D,,D,] | [^C,,^C,] A,, [D,,D,]2- | [D,,D,]4- | [D,,D,] [D,,D,] [D,D] [C,C] | %27
+ [=B,,=B,] [C,C] [D,G,D]2 | C3 _B, |$ F,,3 ([F,F] | [E,E] [D,D] [C,C] [B,,B,] | %31
+ [A,,A,] [C,G,] [D,F,]) (A,, | B,,) (A,, B,,) ([A,C] | [B,,B,]3) (!>![C,C] | %34
+ !>![B,,B,] !>![A,,A,] !>![G,,G,] !>![^F,,^F,] |$ %35
+ !>![G,,G,] !>![=F,,=F,] !>![_E,,_E,] !>![=E,,=E,] | [D,,D,]2) z (([E,,E,] | %37
+ [F,,F,])) (!>!B,, A,,2) | D,, z [A,,A,]2- | [A,,A,]2 !>![A,,A,]2- | !fermata![A,,A,]4 |] %41
+V:4
+ x4 | x4 | x4 | [DF] G F G/F/ | E ^C D x |$ x4 | x4 | [G=f]2 x2 | x4 | x4 | x4 |$ x4 | x4 | %13
+ x _G x2 | x4 | x4 | x4 |$ x (G, A, G,) | x4 | x4 | x4 | x4 | x4 |$ x4 | E ^C D x | x4 | x4 | %27
+ [G=f]2 x2 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x (G, A, G,) | x4 | x4 | x4 |] %41
+V:5
+ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | %19
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | C,4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %38
+ x4 | x4 | x4 |] %41

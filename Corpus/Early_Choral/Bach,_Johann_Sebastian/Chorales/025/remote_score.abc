@@ -1,0 +1,30 @@
+X:1
+T:Chorale 25:
+T:Wo soll ich fliehen hin
+T:Chorale 25:
+T:Wo soll ich fliehen hin
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ F | F G A B | !fermata!c2 z c | c3/2 B/ A B | !fermata!G2 z G |$ A B c c | B2 !fermata!c c | %7
+ A B c _d/e/ | (c B/A/) !fermata!A c |$ e c c c | B2 !fermata!B B | c3/2 B/ A B/A/ | %12
+ G2 !fermata!F |] %13
+V:2
+ C | C D/=E/ F/E/ F/G/ | [=Ex]2 [xx] [_Ex] | E/F/ (G G/)F/ =E/F/ | [=Ex]2 [xx] [Ex] |$ F _E E F | %6
+ F E E E | F F/G/ A A | A G E A |$ B A A A | A G/F/ G G | G/F/ =E (F2 | F) =E C |] %13
+V:3
+ A,/B,/ | C B, C _D | G,2 z A, | A, G, C _D | C2 z C |$ C/_D/C/B,/ A, A, | A, G, A, A, | %7
+ A, _D C F | E _D/C/ C E |$ E E F E | F/E/ =D E E/_D/ | C C C B,/C/ | _D C/B,/ =A, |] %13
+V:4
+ F,/G,/ | A, G, F, _D, |[I:staff -1] [xC,]2 [xx] [xA,,B,,] |[I:staff +1] C,/=D,/ =E, F, B,, | %4
+[I:staff -1] [xC,]2 [xx] [xC,] |$[I:staff +1] F, G, A,/G,/F,/E,/ | _D, E, !fermata!A,, A,, | %7
+ _D,/C,/ B,, F,/E,/ D, | E,2 !fermata!A,, A, |$ G, A,/G,/ F,/E,/_D,/C,/ | %10
+ =D, B,, !fermata!E, G,/F,/ | =E,/D,/ C, F,/_E,/_D,/C,/ | B,, C, !fermata!F,, |] %13

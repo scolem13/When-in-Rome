@@ -1,0 +1,36 @@
+X:1
+T:Zwölf Gesänge, Op.3
+T:Frühlingsblumen
+C:Louise Reichardt
+Z:Aus des Knaben Wunderhorn (eds. von Arnim and Brentano)
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=110
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+V:1
+"^Fröhlich doch nicht geschwind." B2 B c B c | d3 B2 G | c3/2 d/ c B2 B | A3- A2 z | %4
+w: Herz- lich thut mich  er-|freu- en die|fröh- li- che Som- mer-|zeit, *|
+ B A B (cB) c |$ d3- d({c} B)({A} G) | G2 (G/A/) B2 A | G3- G z D | A2 A (BA) B | c3 A z A | %10
+w: all mein  Ge- blüt * er-|neu- * en, der|May in * Wöl- lust|freut; * die|Lerch' thut  sich * er-|schwin- gen mit|
+ B2 B ^c2 c |$ d3- (d2 =c) | B A B (cB) c | (d3 g) d B | G2 G (AB) A |1,2 G3 z2 D :|3 %16
+w: ih- rem hel- len|Schall _ _|lieb- lich die Vö- * gel|sin- * gen, da-|zu die Nach- * ti-|gall. Der|
+"^Schluss" (G2 z z3) |] %17
+w: |
+V:2
+ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x3 (^c/d/e/f/g/) c/ |$ x6 | x6 | x6 | x6 |1,2 %15
+ x6 :|3 x6 |] %17
+V:3
+ B,DG CDF | B,DG B,DG | CDF B,DG | A,DF A,DF | B,DG CDF |$ B,DG B,DG | B,DG CDF | B,DG B,DG | %8
+ CDF B,DG | CDF CDF | B,DG ^CEG |$ A,DF =CDF | B,DG CDF | B,DG B,DG | B,DG CDF |1,2 B,DG B,DG :|3 %16
+ B,DG G, z2 |] %17
+V:4
+ [G,,G,]6 | [G,,G,]6 | [D,,D,]3 [G,,G,]3 | [D,,D,]6 | [G,,G,]6 |$ [G,,G,]6 | [D,,D,]6 | [G,,G,]6 | %8
+ [D,A,]3 [G,,G,]3 | [D,A,]3 [D,A,]3 | G,3 E,3 |$ D,6 | [G,,G,]3 [D,A,]3 | [G,,G,]6 | [D,,D,]6 |1,2 %15
+ [G,,G,]6 :|3 G,,3- G,, z2 |] %17

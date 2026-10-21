@@ -1,0 +1,73 @@
+X:1
+T:6 Lieder, Op.4
+T:Die Kapelle
+C:Emilie Zumsteeg
+Z:Heinrich Carl Breidenstein
+Z:OpenScore(CC0)
+%%score ( 1 2 ) { ( 3 5 6 ) | 4 }
+L:1/8
+Q:1/4=114
+M:6/8
+I:linebreak $
+K:Ab
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+V:6 treble 
+V:4 bass 
+V:1
+"^Mässig" E E E E F G | A B c d2 d/ d/ | (cB) A A2 A/ A/ | A G F !fermata!G3 |$ %4
+w: 1. Was schim- mert dort auf dem|Ber- ge so schön, wenn die|Stern- * lein hoch an dem|Him- mel auf- gehn?|
+w: 2. Was tön- et in der Ka-|pel- le zur Nacht * *||ruh- ig- er Pracht?|
+[M:4/4][Q:1/4=92]"^Etwas langsamer" !>!A A A A B2 B2 | (c2{d/c/} B) c !fermata!d2 z d | %6
+w: 1. Das ist die Ka- pel- le|still * und klein, sie|
+w: |weih- * ter Chor, die|
+ (d2 c) B e2 A d | c2 B2 A2 z2 | z8 |$ z8 :|[K:Cb][Q:1/4=71]"^Langsam" z4 z2 z E | %11
+w: la- det den Pil- ger zum|Be- ten ein.|||3. Was|
+w: An- * dacht hebt sie zum|Herrn em- por.||||
+ E2 E E E2 =F =G | A2 (Bc) d2 z d | c2 B A A2 z A | A2({B/A/)} =G A !fermata!B2 z2 |$ %15
+w: hal- let und klin- get so|wun- der- * bar vom|Ber- ge he- rab so|tief und so klar?|
+w: ||||
+ !>!B2 B B B B z2 | z B B B B2 z E | _f2 e2 (ed) c c | B2 =G2 A2 z2 | %19
+w: 3. Das ist das Glöck- lein,|das in die Gruft am|früh- en Mor- * gen den|Pil- ger ruft.|
+w: ||||
+"_rallentando"[Q:1/4=71] z8[Q:1/4=69]"^.6"[Q:1/4=68]"^.9"[Q:1/4=68]"^.3"[Q:1/4=66]"^.9"[Q:1/4=66]"^.2" | %20
+w: |
+w: |
+[Q:1/4=65]"^.5" z8[Q:1/4=64]"^.1"[Q:1/4=62]"^.8" |] %21
+w: |
+w: |
+V:2
+ x6 | x3 d2 d | c B A A2 A | x6 |$[M:4/4] A2 A A B2 B B | x8 | x8 | x8 | x8 |$ x8 :|[K:Cb] x8 | %11
+w: ||||
+2. Das
+ * * * * *|||||||
+w: |* so|fei- er- lich ernst, in||* ist der Brü- der ge \-|||||||
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |] %21
+w: ||||||||||
+w: ||||||||||
+V:3
+ [A,C]3 !>![B,D]3 | [A,C]3 !>![G,E]3 | !>![A,E]3 !>![A,F]3 | !>![=B,F]3 !fermata![A,=E]3 |$ %4
+[M:4/4] z2 !>!A4 G2 | A3 _G !fermata!F2 z z | !arpeggio!!>![GB]4 !arpeggio![EAe]2 [FA][FBd] | %7
+ !arpeggio![EAc]2 B2 [CEA]2 z2 |"_dol" A4 [Ae]2 [FA]{/e}[FBd] |$ %9
+ !arpeggio![EAc]2 !arpeggio![DEGB]2 !fermata![CEA]2 z2 :|[K:Cb]!p! [A,C]3 [A,C] [A,C]3 [A,C] | %11
+!p! [A,C]3 [A,C] [B,D]3 [B,D] | [A,C]3 [A,C] [B,D]2 z [B,D] | [A,C]3 [A,C] [A,F]2 z [A,F] | %14
+ [A,B,]3 [B,=D] !fermata![G,E]2 z2 |$ [=DAB]3 [DAB] [E=GB](.e'.e') z | %16
+ [=DAB]3 [DAB] [E=GB](.e'.e') z | [=GBf]2 [EAe]2 [EBd]2 [EAc][FAc] | [FBd]2 [_D=GB]2 [CEc]2 z2 | %19
+ A4 [Ae]2 [FA]!>![ABd] | (.[EAe]2 .[E=Ge]2) !fermata![EAe]4 |] %21
+V:4
+ [A,,E,]6 | [A,,E,]3 [B,,E,]3 | [C,E,]3 [D,F,]3 | [D,,D,]3 !fermata![C,,C,]3 |$ %4
+[M:4/4] F,4 B,,2 E,2 | A,,4 !fermata!_D,2 z z | _D4 C2 F,_D, | E,2 E,,2 A,,2 z2 | %8
+ A,4 [A,C]2 [F,C][D,D] |$ !arpeggio![E,E]2 [C,,C,]2 [A,,,A,,]2 z2 :| %10
+[K:Cb] [A,,E,]3 [A,,E,] [A,,E,]3 [A,,E,] | [A,,E,]3 [A,,E,] [A,,E,]3 [A,,E,] | %12
+ [A,,E,]3 [A,,E,] [A,,F,]2 z [A,,F,] | [A,,E,]3 [A,,E,] [D,,D,]2 z [D,,D,] | %14
+ [=D,,=D,]3 =F, !fermata!E,2 z2 |$ _F,3 F, E,2 z2 | F,3 F, E,2 z2 | D2 C2 =G,2 A,F, | %18
+ D,2 E,2 A,,2 z2 |"_rallentando" A,4 [A,C]2 [F,C][D,D] | %20
+!pp! (.[E,C]2!pp! .[E,D]2)!ped! !fermata![A,,E,=C]4!ped-up! |] %21
+V:5
+ x6 | x6 | x6 | x6 |$[M:4/4] z CFE =DB,E_D | CEA,_G A,2 x2 | =E2 _E2 x4 | x2 [=DFA][_DEG] x2 x2 | %8
+ F2 ED x4 |$ x8 :|[K:Cb] x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | F2 ED x4 | x8 |] %21
+V:6
+ x6 | x6 | x6 | x6 |$[M:4/4] x8 | x8 | x8 | x8 | !>!a2 gf x4 |$ x8 :|[K:Cb] x8 | x8 | x8 | x8 | %14
+ x8 |$ x8 | x8 | x8 | x8 | a2 _gf x4 | x8 |] %21

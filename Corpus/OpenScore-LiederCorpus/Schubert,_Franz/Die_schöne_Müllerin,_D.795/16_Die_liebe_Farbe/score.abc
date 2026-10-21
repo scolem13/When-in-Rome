@@ -1,0 +1,72 @@
+X:1
+T:Die schöne Müllerin (D.795)
+T:Die liebe Farbe
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/16
+Q:1/4=40
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="Singstimme"
+L:1/8
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+L:1/4
+V:4 bass 
+V:6 bass 
+L:1/8
+V:1
+"^Etwas langsam." z4 |: z4 | z4 |$ z4 | z2 z!p! F | B B F F/ F/ |$ c2 B d | c/f/ d c B | %8
+w: ||||In|Grün will ich mich *|klei- den, in|grü- * ne Thrä- nen-|
+w: ||||Wohl-|auf zum fröh- li- chen|Ja- gen, wohl-|auf _ durch Haid' und|
+w: ||||Grabt|mir ein Grab im *|Wa- sen, deckt|mich * mit grü- nen|
+ ^A2 c z/ c/ |$ ^d d c c/ c/ | f3 F | F F F^G/ ^A/ |$ B2 z!p! B | =A A/ A/ ^G A/ B/ | %14
+w: wei- den: mein|Schatz hat's Grün so *|gern, mein|Schatz hat's Grün _ so|gern. Will|su- chen * ei- nen Cy-|
+w: Ha- gen! mein|Schatz hat's Ja- gen so|gern, mein|Schatz hat's Ja- gen so|gern. Das|Wild, das ich ja- ge, das|
+w: Ra- sen: mein|Shatz hat's Grün so *|gern, mein|Schatz hat's Grün _ so|gern. Kein|Kreuz- lein * schwarz, _ kein|
+ c3/2 d/ c c/ c/ |$[Q:1/4=35]!mp!"^cresc." f F/ F/ F F/!mf! F/ |"_dim." e3!p! d | %17
+w: pres- sen- hain, ei- ne|Hai- de von grü- nen *|Ros- ma-|
+w: ist der Tod, * die|Hai- de, die heiss' ich die|Lie- bes-|
+w: Blüm- lein bunt, * grün|Al- \- les, grün so *|rings und|
+!pp! c2[Q:1/4=40] z!p! c |$ ^d d c c/ c/ | f3 F | F F F^G/ ^A/ | B2 z2 :|$ z4 | z4 | z4 | %25
+w: rein; mein|Schatz hat's Grün so *|gern, mein|Schatz hat's Grün- * so|gern.||||
+w: noth: mein|Schatz hat's Ja- gen so|gern, mein|Schatz hat's Ja- gen so|gern.||||
+w: rund: mein|Schatz hat's Grün so *|gern, mein|Schatz hat's Grün _ so|gern.||||
+ !fermata!z4 |] %26
+w: |
+w: |
+w: |
+V:2
+ x8 |: x8 | x8 |$ x8 | x8 | x6 F2 |$ x8 | x8 | x8 |$ x6 c2 | x8 | x4 F2 ^G x |$ x8 | x2 A2 ^G2A x | %14
+ x4 c3 c |$ f3 F F2 F2 | x8 | x8 |$ x6 c2 | x8 | x4 F2 ^G x | x8 :|$ x8 | x8 | x8 | x8 |] %26
+V:3
+ z (.[DF].[DF].[DF]!<(! .[DF].[DF].[DF].[DFB])!<)! |: %1
+!>(! ([DFB][CF^A])(.[CFA].[CFA]!>)! .[CFA].[EFA].[EFB].[EFc]) | %2
+!mp!!>(! ([DFc][DF])(.[DF].[DF]!>)! .[DF].[DF].[DF].[DFBd]) |$ %3
+ ([EFBd][EF^Ac])(.[EFAc].[EFAc] .[EFAc]!>(!.[EFAce].[EFBd].[EFAc])!>)! | (.F.F.F.F .F.F.F.F) | %5
+ (.F.F.F.F) (.F.F.F.F) |$ FFFF FFFF | FFFF FFFF | FFFF FFFF |$ FFFF!<(! FFF!mp!F!<)! | %10
+!>(! FFFF!>)!!pp! FFFF | FFFF FFFF |$ FFFF FFFF | FFFF FF!pp!!<(!FF!<)! | %14
+!mp!!>(! FFF!>)!!pp!F F!<(!FFF!<)! |$ F!pp!FFF!<(! FFFF!<)! |!mp!!>(! FFFF!>)!!pp! FFFF | %17
+ FFFF FFFF |$ FFFF FFFF | FFFF FFFF | FFFF FFFF | (.[DF].[DF].[DF].[DF] .[DF].[DF].[DF].[DFB]) :|$ %22
+!p!!>(! ([DFB][CF^A])!pp!(.[CFA]!>)!.[CFA] .[CFA]!<(!.[EFA].[EFB].[EFc])!<)! | %23
+!mp!!>(! ([DFc][DF])(.[DF]!>)!!pp!.[DF] .[DF]!<(!.[DF].[DF].[DFBd])!<)! | %24
+!mp!!>(! ([EFBd][EF^Ac])(.[EFAc]!>)!!pp!.[EFAc] .[EFAc]!p!!>(!.[EGAce].[EFBd].[EFAc])!>)! | %25
+!pp! !fermata![DFB]8 |] %26
+V:4
+!p! B,,,4-!p! B,,,(.B,,,.B,,,.D,,) |:!mf! F,,4-!p! F,,(.F,,.F,,.^A,,) | %2
+ B,,4-!p! B,,(.B,,,.B,,,.D,,) |$!pp! F,,4- F,,!p!(.F,,.F,,.F,,) |!pp! B,,,4 z2 F,2 | D2(D2C2)(C2 |$ %6
+ (E4) D2)(B,2 | ^A,2B,2A,2=A,2) | (F,4 ^A,2)zA, |$ (.B,2.B,2)!pp!(.F,2.F,2) | (^D,8 | %11
+!pp! (=D,4) C,4) |$ [B,,,B,,]4- [B,,,B,,]2 D2 | C2C2 D2CB, | A,2>B,2 A,4 |$ %15
+ [D,A,]4 [D,A,]2[D,A,]2 | ([C,^A,]6 ([B,,B,]2) | [F,^A,]6) A,2 |$ (.B,2.B,2)(.F,2.F,2) | (^D,8 | %20
+ (=D,4) C,4) | [B,,,-B,,]4 B,,,(.B,,,.B,,,.D,,) :|$ F,,4- F,,(.F,,.F,,.^A,,) | %23
+ B,,4- B,,(.B,,,.B,,,.D,,) | F,,4- F,,(.F,,.F,,.F,,) | !fermata![B,,,B,,]8 |] %26
+V:5
+ x2 |: x2 | x2 |$ x2 | [DB] x | x2 |$ x2 | x2 | x2 |$ x2 | x2 | z E |$ D- D/ z/ | x2 | x2 |$ x2 | %16
+ x2 | x2 |$ x2 | x2 | z E | x2 :|$ x2 | x2 | x2 | x2 |] %26
+V:6
+ x4 |: x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | F,,4 |$ x3 z | F,F, F,2 | F,2 F,2 |$ %15
+ x4 | x4 | x4 |$ x4 | x4 | F,,4 | x4 :|$ x4 | x4 | x4 | x4 |] %26

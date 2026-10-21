@@ -1,0 +1,90 @@
+X:1
+T:6 Lieder, Op.10
+T:Die Schwalben
+C:Josephine Lang
+Z:Christoph August Tiedge
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=110
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 treble 
+V:5 treble 
+V:1
+"^Allegretto grazioso" z z2 z | z6 | z6 |!p! z z A{/B} A ^G A |: B2 z G2 F | ^D E z z2!<(! E |$ %6
+w: |||1. Der Schnee ist da-|hin, ist ver-|schwom- men, in's|
+w: |||* * * 2.|dan- nen ge-|flo- gen, und|
+ A3/2 A/ A A!<)!!>(! B3/2 G/ | F2!>)! A{/B} A ^G A | (c2 B) A2 =G | F E E E F G | A3- A B c | %11
+w: gros- se ge- wal- ti- ge|Meer, die Schwal- ben sind|wie- * der ge-|kom- men, die Schwal- ben sind|wie- * der ge-|
+w: nah- te die Blu- men- zeit|sich, so ka- men sie|wie- * der ge-|zo- gen, so ka- men sie|wie- * der ge-|
+ d3 D2 D |$ C3 B,2 B, | E3 F2 A | A,3 B,2- B,/ E/ | EA, z z2 z | z6 | z6 | %18
+w: kom- men, sie|ka- men, sie|ka- men, ich|weiss nicht * wo-|her? *|||
+w: zo- gen, sie|ka- men, sie|ka- men, was|küm- mert * es|mich? *|||
+[Q:1/4=108] z6[Q:1/4=102] |$ !fermata!z2 z z2[Q:1/4=110]!p! A, | =F3- F E F | =G3- G E =C | A6 | %23
+w: |Ich|weiss * nur sie|fan- * den sich|wie-|
+w: |Am|lieb- * sten noch|sah * ich sie|schei-|
+ G2 z A3 | _B3 D2 D | (D2 E) =FA G |$ (=F6 | E2) z z2 G | G3 E2 D | C3 E2 A | A3- (A2 =F) | %31
+w: der, weil|Lie- be von|Lie- * be * nicht|lässt,|* und|las- sen sie|häus- lich hier|nie- * *|
+w: den, weit|hin in das|wär- * me- * re|Land,|* ich|konnt' ihr Ge-|schwät- ze nicht|lei- * *|
+ D2 z z2 D | A3 ^G2 D | D3 C2 D |$ E6 | z6 | z6 | z z E{/F} E ^D E | A3- A B =G | ^E F z z2 z | %40
+w: der, denn|Lie- be baut|Lie- be das|Nest,|||ich weiss nur, sie|fan- * den sich|wie- der,|
+w: den, wo-|von ich noch|gar nichts ver-|stand,|||ich konnt' ihr Ge-|schwät- * ze nicht|lei- den,|
+ z6 | z z!mp!!<(! A, D E F |$ G3 A2 B!<)! | !fermata!c3- c z A |!f! d6- |!>(! d3 c2 B!>)! | %46
+w: |weil Lie- be von|Lie- be nicht|lässt, * weil|Lie-|* be von|
+w: |wo- von ich noch|gar nichts ver-|stand, * wo-|von|* ich noch|
+"^dolce"!mp! B3 A2 G | F3- F z F |!mf!!<(! d6-!<)! |!f! d!>(! ^A B F G E |$ B6- | %51
+w: Lie- be nicht|lässt, * weil|Lie-|* be von Lie- be, von|Lie-|
+w: gar nichts ver-|stand, * wo-|von|* ich noch gar nichts, noch|gar-|
+ (B2 A{/A} G) F E!>)! |!mp! D3 z2 z | z6 | z6 | z6 |1 z z!p! A{/B} A ^G A :|2 !fermata!z6 |] %58
+w: * * * be nicht|lässt.||||2. Oft, wenn sie von||
+w: * * * nichts ver-|stand.||||||
+V:2
+!p! [da]{/b} [da][d^g][da] | [db]2 z [cg]2 [df] | (^d e2-) !fermata!e3 | %3
+ z z [DA]{/B} [DA][D^G][DA] |: [DB]2 z [CG]2 [DF] | (^DE) [CE]{/F} [CE]!<(![^B,D][CE]!<)! |$ %6
+ [DA][DA][DA] [=G,CEA]!>(![G,CEA][G,CEA]!>)! | [F,DFA]2!p! [DA]{/B} [DA][D^G][DA] | %8
+ (c2 B) (A2 =G) | (FE) z [CE][CE][CE] | [DA]2 z [G,CE]3 | [A,DF]3 [A,DA]2 [A,DF] |$ %12
+ z[I:staff +1] E,[A,C][I:staff -1] z[I:staff +1] E,[^G,B,] | %13
+[I:staff -1] z[I:staff +1] [E,A,]E[I:staff -1] z[I:staff +1] [F,A,B,]F | %14
+[I:staff -1] z [A,C]E z [^G,D]E |!<(! [A,CE]A,A, A, (e>a)!<)! | (a2 A) z (=f>a) | %17
+ (!>!a2 A) z (^f>a) | ([A^cea]3 ged) |$ !fermata![Gc]4 z z | z A,D =FDA, | z _B,E GEB, | %22
+ z A,=C =F=B,G, | z G,=C ECG, | z G,_B, DB,G, | GDG, =FDG, |$ z A,=C =F=B,G, | E=CG, EDG, | %28
+ z G,^C ECG, | z A,^C [EA]CA, | z A,D ADA, | z =F,A, [D=F]A,F, | z[I:staff +1] E,^G, [DE]=G,E, | %33
+[I:staff -1] =FD^G, EDG, |$ z A,^C ECA, | A2 a{/b} [da][d^g][da] | [db]2 z [cg]2 [df] | %37
+ (^d e2) [CE][^B,^D][CE] | [=DA]2 z [=G,CEA]2 z | [^G,B,D^E][A,DF] [da]{/b} [da][d^g][da] | %40
+ c'b z ag z | fe z!<(! D[DE][DF]!<)! |$ [DG]3 [DFA]2 [DGB] | !fermata![EAc]4 z A |!f! !/![DFAd]6 | %45
+!>(! !/![DEBd]3 [DEBd][DEBd][DEBd] |!mp! !/![DEBd]3!>)! [CEAc][CEAc][CEAc] | %47
+ [CEFc][CEF][CEF] [EF][EF][EF] |!mf! !/![B,DF]3 !/![=CDF=c]3 |!f! !arpeggio![B,DGB]2 z z2 z |$ %50
+!p! z [F,A,][A,D] [DF] z z | z [G,C][CE] [EA] z z | [F,A,DF] z!f! [Af]{/g} P[Af][Ae][Af] | %53
+ [Acg]2 z [Ace]2 z | [Ada]3!>(! [dd'][dc'][db] | [Aa][Acg][Adf] (!>!f2 e)!>)! |1 %56
+!p! [Fd]2 z{/B} [DA][D^G][DA] :|2 !fermata![Fd]6 |] %58
+V:3
+ F{/G} F^EF | G2 z [EA]2 [DA] | !fermata![C=G]6 |[K:bass] z z F,{/G,} F,^E,F, |: %4
+ G,2 z [E,A,]2 [D,A,] | [C,G,A,]3 [G,A,][G,A,][G,A,] |$ [F,A,][F,A,][F,A,] [A,,,A,,]3 | %7
+ [D,,A,,]2 F,{/G,} F,^E,F, | G,3 [E,A,]3 | [C,=G,]3 [G,A,][G,A,][G,A,] | [F,A,]2 z A,,3 | %11
+ B,,3 D,2 B,, |$ E,3 =D,3 | ^C,3 ^D,3 | E,3 E,,3 | A,,,A,,C, E,C,A,, | %16
+ A,,!mp![=F,A,][A,D] [D=F]"^cresc."[A,D] z | A,,[^F,A,][A,=C] [D^F][A,D] z | %18
+ (A,,^C,E,) z [CE][DF] |$!mf! !fermata![A,E]4 z z |!p! D,6 | =C,6 | =F,3 D,3 | E,3 =C,3 | G,,6 | %25
+ _B,,3 =B,,3 |$ =C,3 _D,3 | =C,3 _B,,3 | A,,6 | G,,6 | =F,,6 | [D,,D,]6 | [=B,,,=B,,]6 | %33
+ [E,,E,]6 |$ [A,,,A,,]6 | z2 z[K:treble] F^EF | G2 z [EA]2 [DA] | %37
+ [C=G]3[K:bass] [G,A,][G,A,][G,A,] | [F,A,]2 z A,,2 z | D,,2[K:treble] F{/G} F^EF | G2 z E2 z | %41
+ [C=G]2[K:bass] z DC=C |$ B,3 A,2 G, | !fermata![G,,G,]4 z z | !/![F,,A,,D,F,]6 | %45
+ !/![G,,B,,D,E,]3 [G,,B,,D,E,][G,,,G,,][G,,,G,,] | !/![A,,,A,,]3 [A,,,A,,][A,,,A,,][A,,,A,,] | %47
+ [^A,,,^A,,] [A,,F,][A,,F,] ^A,B,C | !/!B,,3 !/![=A,,D,=A,]3 | !arpeggio![G,,D,G,]2 z z2 z |$ %50
+ [A,,,A,,]6 | A,,,6 | [D,,A,,]2 D DCD | E2 z G2 z | F2 z[K:treble] BAG | FED A,3 |1 %56
+[K:bass] [D,A,]2 z F,^E,F, :|2 !fermata![D,A,]6 |] %58
+V:4
+ x4 | x6 | A6 | x6 |: x6 | x6 |$ x6 | x6 | [DG]3 C3 | A,3 x3 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | %17
+ x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | %36
+ x6 | A3 x3 | z6 | x6 | d2 z [Be]2 z | A2 x4 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | %52
+ x6 | x6 | x6 | x3 [Gc]3 |1 x6 :|2 x6 |] %58
+V:5
+ x4 | x6 | x6 |[K:bass] x6 |: x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | %17
+ x6 | x3 A,3 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | %35
+ x3[K:treble] x3 | x6 | x3[K:bass] x3 | x6 | x2[K:treble] x4 | x6 | x2[K:bass] x4 |$ x6 | x6 | x6 | %45
+ x6 | x6 | x3 F,,^G,,^A,, | x6 | x6 |$ x6 | x6 | x6 | x6 | x3[K:treble] x3 | x6 |1[K:bass] x6 :|2 %57
+ x6 |] %58

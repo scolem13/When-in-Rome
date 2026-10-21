@@ -1,0 +1,72 @@
+X:1
+T:6 Lieder, Op.13
+T:Der Wanderer an die Quellen
+C:Josephine Lang
+Z:Christoph Wenzel
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=110
+M:6/8
+I:linebreak $
+K:F#
+V:1 treble nm="Stimme\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Allegretto grazioso" z6 | z6 | z6 | z2 z z2!f! c |:$ c>A G (FE) D | C B, z z2 B, | B,>D G BA G |$ %7
+w: |||1. Was|jauchzt * ihr so, * ihr|Quel- len, als|blie- * bet ihr * bei|
+w: ||||mir, * lasst mir * das|Sin- gen, das|Jauch- * zen las- * set|
+ d3- d2!p! B | BG F EF G | D3 C z C |$!f! dB A GA B | c3 z2 F |!p! f3- fd B |$ G3 A3 |!<(! c6!<)! | %15
+w: ihr _ und|müsst * doch im- * mer|wei- ter und|müsst * doch fort * von|hier und|müsst _ _ doch|im- mer|wei-|
+w: mir _ so|lang' * ich bin * und|le- be, bleib'|ich * fort- an * bei|ihr so|lang' _ _ ich|bin und|le-|
+ A3 z2 F |$ d3"^cresc." ^e3 |!f! (g3 f2) d | d3-"^dim." (d2 E) |$ F3- F2 z | z6 | z6 |$ z6 |1 %23
+w: ter! und|müsst doch|fort, _ doch|fort _ von|hier! _||||
+w: be! bleib'|ich fort-|an _ bei|ihr, _ bei|ihr! _||||
+ !fermata!z2 z z2 c :|2 !fermata!z6 |] %25
+w: ||
+w: 2.Lasst||
+V:2
+"^leggiero"!p! (B>AG GAB | (c3 f) z z | [A,CA]>[A,CG][A,CF]{/F} EDE) | F6 |:$ %4
+!f! [A,CFA]>[A,CFA][A,CFA] [A,CFA][A,CFA][A,CFA] | [B,DGB]>[B,DGB][B,DGB] [B,DGB][B,DGB][B,DGB] | %6
+ [B,DGB]>[B,DGB][B,DGB] [B,DGB][B,DGB][B,DGB] |$ %7
+"_cres." [B,DGB]>[B,DGB][B,DGB] [B,DGB][B,DGB][B,DGB] | %8
+!p![I:staff +1] [G,B,C]>[G,B,C][G,B,C] [F,B,C][F,B,C][F,B,C] | %9
+ [^E,B,C]>[E,B,C][E,B,C]!<(! [E,B,C][E,B,C][E,B,C]!<)! |$ %10
+!f![I:staff -1] [^E,B,C^E]>[E,B,CE][E,B,CE] [E,B,CE][E,B,CE][E,B,CE] | %11
+ [B,C=E]>[B,CE][B,CE]!>(! [A,CE][A,CE][A,CE]!>)! |!pp! [F,CD]>[F,CD][F,CD] [F,B,D][F,B,D][F,B,D] |$ %13
+!<(! ^E>[B,C][B,C] F>[A,C][A,C] | F>[B,D][B,D] E>[B,C][B,C] | %15
+ F>[I:staff +1][F,A,][F,A,] [F,A,][F,A,][F,A,] |$[I:staff -1] B3 A3!<)! | %17
+!f! A>"_cres."[DF][DF] =A>[DF][DF] |"_dim." G6 |$ %19
+!mp! [A,F]>[I:staff +1][F,A,][F,A,] [F,A,][F,A,][F,A,] |"^leggiero"!p![I:staff -1] (B>AG GAB | %21
+ c3 f2 z |$ A>GF{/F} EDE) |1 !fermata!F6 :|2 !fermata!F6 |] %25
+V:3
+ [B,CE]>[B,CE][B,CE] [B,CE][B,CE][B,CE] | [CF]>[CF][CF] !arpeggio![Fc][Fc][Fc] | %2
+ x3[I:staff +1] [G,B,][F,B,][G,B,] | [F,A,]>[F,A,][F,A,] [F,A,][F,A,][F,A,] |:$ x6 | x6 | x6 |$ %7
+ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ %16
+[I:staff -1] B,>[DF][DF][I:staff +1] ^A,>[I:staff -1][^^C^E][CE] | %17
+[I:staff +1] A,3/2 x3/2 =A,3/2 x3/2 | G,>[I:staff -1][B,^E][B,E] [B,E][B,E][B,E] |$ x6 | %20
+ [B,CE]>[B,CE][B,CE] [B,CE][B,CE][B,CE] | [CF]>[CF][CF] [Fc][Fc][Fc] |$ %22
+[I:staff +1] [A,C]>[A,C][A,C] [G,B,][F,B,][G,B,] |1 x6 :|2 x6 |] %25
+V:4
+ [F,,C,G,]>[F,,C,G,][F,,C,G,] [F,,C,G,][F,,C,G,][F,,C,G,] | %1
+ !arpeggio![F,,C,A,]>[C,A,][C,A,] [C,A,][C,A,][C,A,] | C,>C,C, C,C,C, | %3
+ [F,,C,]>[F,,C,][F,,C,] [F,,C,][F,,C,][F,,C,] |:$ %4
+ [F,,C,F,]>[F,,C,F,][F,,C,F,] [F,,C,F,][F,,C,F,][F,,C,F,] | %5
+ [F,,D,G,]>[F,,D,G,][F,,D,G,] [F,,D,G,][F,,D,G,][F,,D,G,] | %6
+ [F,,D,G,]>[F,,D,G,][F,,D,G,] [F,,D,G,][F,,D,G,][F,,D,G,] |$ %7
+ [F,,D,G,]>[F,,D,G,][F,,D,G,] [F,,D,G,][F,,D,G,][F,,D,G,] | %8
+ [^E,,C,]>[E,,C,][E,,C,] [F,,C,][F,,C,][F,,C,] | [G,,C,]>[G,,C,][G,,C,] [G,,C,][G,,C,][G,,C,] |$ %10
+ [C,,C,]>[C,,C,][C,,C,] [C,,C,][C,,C,][C,,C,] | [F,,F,]>[F,,F,][F,,F,] [F,,F,][F,,F,][F,,F,] | %12
+ B,,>B,,B,, B,,B,,B,, |$ ^E,3/2 x/ x F,3/2 x/ x | G,3/2 x/ x G,3/2 x/ x | A,3/2 x/ x x3 |$ %16
+ [B,,,B,,]3 [A,,,A,,]3 | [D,,D,]3 [^B,,,^B,,]3 | [C,,C,]6 |$ %19
+ [F,,C,]>[F,,C,][F,,C,] [F,,C,][F,,C,][F,,C,] | %20
+ [F,,C,G,]>[F,,C,G,][F,,C,G,] [F,,C,G,][F,,C,G,][F,,C,G,] | %21
+ [F,,C,A,]>[F,,C,A,][F,,C,A,] [F,,C,A,][F,,C,A,][F,,C,A,] |$ C,>C,C, C,C,C, |1 %23
+ [F,A,]>[F,A,][F,A,] [F,A,][F,A,][F,A,] :|2 [F,A,]>[F,A,][F,A,]"_Fine." !fermata![F,A,]3 |] %25
+V:5
+ x6 | x6 | x6 | x6 |:$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ G,,3 F,,3 | [C,,C,]6 | %15
+ [F,,C,]>[F,,C,][F,,C,] [F,,C,][F,,C,][F,,C,] |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 |1 %23
+ [F,,C,]>[F,,C,][F,,C,] [F,,C,][F,,C,][F,,C,] :|2 [F,,C,]>[F,,C,][F,,C,] !fermata![F,,C,]3 |] %25

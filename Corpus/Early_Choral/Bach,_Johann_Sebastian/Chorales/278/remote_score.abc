@@ -1,0 +1,31 @@
+X:1
+T:Chorale 278:
+T:Wie schön leuchtet der Morgenstern
+T:Chorale 278:
+T:Wie schön leuchtet der Morgenstern
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ E | B G E B | c c !fermata!B B | c d e d | c c !fermata!B G |$ c B A G | F2 !fermata!E :| z | %8
+ B2 !fermata!G2 | B2 !fermata!G2 | A G F G | A G F G |$ A G F2 | !fermata!E2 e d | c B A G | %15
+ F2 !fermata!E |] %16
+V:2
+ B, | B, B, C D | G F F G | A A G F | F/G/ F/E/ D E |$ E D E/F/ G/E/ | E D B, :| z | F2 E2 | %9
+ F2 E2 | F E D E | F E D E |$ F E/D/ C/D/4E/4 D | B,2 G ^^F | G G/F/ E E | E D B, |] %16
+V:3
+ G, | F, E,/F,/ G,/^A,/ B, | B, ^A, D E | E F B, B, | B, ^A, B, B, |$ A,/G,/ F, C B, | %6
+ B,3/2 A,/ G, :| z | B,2 B,2 | D2 C2 | C B, B, B, | B, B, B, B, |$ C/D/ E E/C/ B,/A,/ | %13
+ G,2 C/B,/ ^A, | G, D C B, | C B,/=A,/ G, |] %16
+V:4
+ E, | D, E, C, G, | E, F, !fermata!B,, E, | A, G,/F,/ G,/^A,/ B, | F, F,, !fermata!B,, E, |$ %5
+ A,, B,, C,/D,/ E, | B,,2 !fermata!E, :| z | D,2 !fermata!E,2 | B,,2 !fermata!C,2 | %10
+ F, G, A,/G,/ F,/E,/ | D, E, B,,/B,/ A,/G,/ |$ F, C,/B,,/ A,, B,, | !fermata!E,2 C, D, | %14
+ ^E,/^^F,/ G, C,/D,/ =E, | ^A,, B,, !fermata!E, |] %16

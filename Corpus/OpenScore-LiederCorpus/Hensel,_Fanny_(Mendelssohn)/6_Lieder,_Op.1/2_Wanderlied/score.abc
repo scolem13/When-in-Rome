@@ -1,0 +1,72 @@
+X:1
+T:6 Lieder
+T:Wanderlied
+C:Fanny (Mendelssohn) Hensel
+Z:Johann Wolfgang von Goethe
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=80
+M:4/8
+I:linebreak $
+K:D
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+L:1/16
+V:3 bass 
+V:1
+"^Allegro molto vivace" z4 | z2 z!f! F/ G/ |]:$!f! ^G A e d | c B z E/ F/ | G ^G A B |$ %5
+w: |Von den|Ber- gen zu den|Hü- geln, nie- der-|ab das Thal ent-|
+w: ||nicht am Bo- den|hef- ten, frisch ge-|wagt, und frisch hin-|
+ (dc) z F/ E/ | D F d B | A ^G z B/ A/ |$ A"^cresc." (d/c/) c (f/e/) |!ff! (e^d)!mf! =d c | %10
+w: lang, * da er-|klingt es wie von|Flü- geln, da be-|wegt sichs * wie Ge- *|sang, * da be-|
+w: aus, * Kopf und|Arm mit hei- tern|Kräf- ten, ü- ber-|all sind * sie zu *|Haus, * ü- ber-|
+!p! (B2 =c) A |$ (A2 !turn!^c3/2) B/ | A2 z2 | z2 z E/ F/ |$ G G e3/2 d/ | d c z E/ F/ | %16
+w: wegt * sichs|wie * Ge-|sang.|Und dem|un- be- ding- ten|Trie- be fol- get|
+w: all * sind|sie * zu|Haus.|Wo wir|uns der Son- ne|freu- en, sind wir|
+ G G e3/2 d/ |$ B2 z2 | z2 z!p! F/ G/ | ^G A d c |$ ^A B z"^cresc." G/ A/ | ^A B e d | %22
+w: Freu- de, fol- get|Rath,|und dein|Stre- ben sei's in|Lie- be, und dein|Le- ben sei die|
+w: je- der Sor- ge|los,|dass wir|uns in ihr zer-|streu- en da- rum|ist die Welt so|
+ (^B!ff!c) z!mf! A/ B/ |$ ^B c f e | c d!f! g f | (ed) (c B) |$"^cresc." A3 (d/B/) |!ff! (A4 | %28
+w: That, * und dein|Stre- ben sei's in|Lie- be, und dein|Le- * ben dein|Le- ben *|sei-|
+w: gross, * dass wir|uns in ihr zer-|streu- en, da- rum|ist * die *|Welt die *|Welt-|
+ !turn!B2) c2 |$ d4 | z4 | z4 |$ z2 z F/ G/ :| z4 | z4 |] %35
+w: * die|That.|||2.~Blei- be|||
+w: * so|gross.||||||
+V:2
+ (3z[I:staff +1] ^E,F,!<(! (3A,[I:staff -1]DF!<)! (3A^EF (3D[I:staff +1]A,F, | %1
+[I:staff -1] (3z[I:staff +1] ^E,F, (3A,[I:staff -1]DF (3A^EF (3D[I:staff +1]A,F, |]:$ %2
+[I:staff -1] (3z[I:staff +1] ^E,F, (3A,[I:staff -1]DF (3A^EF (3DA,[I:staff +1]F, | %3
+[I:staff -1] (3z[I:staff +1] F,G, (3B,[I:staff -1]DG (3BFG (3EB,G, | %4
+ (3GCG, (3=F[I:staff +1]B,=F,[I:staff -1] (3E[I:staff +1]A,E,[I:staff -1] (3D[I:staff +1]^G,E, |$ %5
+[I:staff -1] (3z[I:staff +1] E,=G, (3^A,[I:staff -1]CE (3c^AF (3E[I:staff +1]CA, | %6
+[I:staff -1] (3z[I:staff +1] ^E,F, (3B,[I:staff -1]DF (3B^EF (3DB,[I:staff +1]F, | %7
+[I:staff -1] (3z ^A,B, (3D^GB (3d^AB (3GDB, |$ (3ACA, (3BEB, (3cEC (3d^GD | %9
+ (3eAE (3[^df]AF (3[e^g]=dG (3[ea]c!ff!A | %10
+!p! (3z[I:staff +1] F,B,[I:staff -1] (3[DF][I:staff +1]B,F,[I:staff -1] (3z[I:staff +1] A,=C[I:staff -1] (3[FA][I:staff +1]CA, |$ %11
+[I:staff -1] (3z DA (3[Bd]AD (3z D^G (3[Be]GD | (3z ^B,C (3EAc (3e^Bc (3AEC | %13
+ (3z ^B,C (3EAc (3e^Bc (3AEC |$ (3z ^B,C (3EGc (3e^Bc (3GEC | (3z ^B,C (3EGc (3e^Bc (3GEC | %16
+ (3z ^B,C (3EGc (3e^Bc (3GEC |$!mp! (3z CE (3Gce (3!>!g^de (3cGE | %18
+ (3!>!e^Bc (3GEC (3!>!cFG!p! (3ECA, | (3z A,C (3DFA (3d^GA (3FDA, |$ %20
+ (3z B,^C (3DGB"_cresc." (3d^AB (3GDB, | (3z B,^D (3EGB (3e^AB (3GEB, | %22
+!ff! (3z ^B,C!f! (3EAc (3e^Bc!mf! (3AEC |$ (3z ^B,C (3FAc (3f^Bc (3AFC | %24
+ (3z CD (3FB(d!f! (3[dg])BG (3[cf]AF | (3[Be]GE (3[Ad]FD (3[Gc]EC (3[FB]DB, |$ %26
+ (3[EA]CA, (3[EG]CG, (3[DF]A,F, (3[D=F]B,=F, | %27
+ (3z[I:staff +1] ^E,^F, (3A,[I:staff -1]DF (3A^EF (3D[I:staff +1]A,F, | %28
+[I:staff -1] (3z[I:staff +1] G,C[I:staff -1] (3EGc (3e^Bc (3GEC |$ %29
+!ff! (3z[I:staff +1] ^E,F, (3A,[I:staff -1]DF (3A^EF (3D[I:staff +1]A,F, | %30
+[I:staff -1] (3z[I:staff +1] A,C[I:staff -1] (3DFA (3d^GA (3FDA, | (3z ^EF (3Adf (3!>!a^ef (3dAF |$ %32
+ (3!>!fcd (3AFD (3!>!d^GA (3FDA, :| %33
+ (3!>!A^EF(3D[I:staff +1]A,F,[I:staff -1] (3!>!FCD[I:staff +1](3A,F,D, |[I:staff -1] z8 |] %35
+V:3
+!f! [D,,D,] z [F,A,] z | [D,,D,] z [F,A,] z |]:$!f! [D,,D,] z [F,A,] z | [G,,,G,,] z [G,B,] z | %4
+ [E,,E,][D,,D,][C,,C,][B,,,B,,] |$ [^A,,,^A,,] z z2 | [B,,,B,,] z [F,B,D] z | %7
+ [E,,E,]2 [^E,,^E,]2 |$ [F,,F,][^G,,^G,][A,,A,][B,,B,] | [C,C]!<(![=C,=C][B,,B,][A,,A,]!<)! | %10
+ [D,,D,]2 [^D,,^D,]2 |$!ped! [E,,E,]2 [E,B,]2!ped-up! |!ped! [A,,A,]2 [CE]2!ped-up! | %13
+ [A,,A,]2 [CE]2 |$!ped! [_B,,_B,] z [CE] z!ped-up! |!ped! [A,,A,] z [CE] z!ped-up! | %16
+!ped! [_B,,_B,] z [CE] z!ped-up! |$ A,,2 z2 | z4 | [F,,F,] z [F,A,] z |$ [G,,G,] z [G,B,] z | %21
+ [G,,G,] z [G,B,] z | [A,,A,] z [CE] z |$ [A,,A,] z [CF] z | [B,,B,] z [B,,B,][A,,A,] | %25
+ [G,,G,][F,,F,][E,,E,][D,,D,] |$ [C,,C,][A,,,A,,][D,,D,][^G,,,^G,,] | %27
+!ped! [A,,,A,,] z [F,A,] z!ped-up! |!ped! [A,,,A,,]2 [G,A,CE]2!ped-up! |$ %29
+!8vb(!!ped! [D,,,D,,]2!8vb)! [F,A,]2 | [D,,D,]2 [F,A,]2!ped-up! | [D,,D,]2 z2 |$ z4 :| z4 | %34
+!8vb(! D,,,2!8vb)! z2 |] %35

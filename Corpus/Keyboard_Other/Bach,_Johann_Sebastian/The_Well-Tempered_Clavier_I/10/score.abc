@@ -1,0 +1,61 @@
+X:1
+T:Praeludium 10
+T:BWV 855
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/16
+Q:1/4=69
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Score"
+V:2 treble 
+L:1/8
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ e8- e2f/e/^d/e/ Pe3d/e/ | f16- |$ fe^de (fe)(gf) a4- a/c'/b/a/ga/f/ | g8- g2c'b c'2e2 |$ %4
+ f8- f2b2- b/c'/b/a/b/g/a/b/ | e8- ecAB cede/c/ |$ d8- d2g2- g/=f/e/d/cd/B/ | c8- cdef gfac | %8
+{c} B8- B2B2 A/G/FG/F/E |$ e2-e/f/e/^d/ e2>f2 Pf6 z e/f/ | g8- gBAG- GF/E/^DE |$ %11
+ c2-c/B/A/B/ c/d/c/B/cd Pd6 z c/d/ | e8- e2dc dB^GA |$ d8- d=fed Pc3d/B/ | c16- | %15
+ c4- cA^GA cAGA EAGA |$ c8- c2B2 ^c2e^d | e16- | e2^df ac'bd e8- |$ e4- e/f/e/^d/e/^c/d Td6 e2 | %20
+ e16- |$ e16- |[Q:1/4=111]"^Presto" eabc' bc'ba eabc' bc'ba |$ ba^ga baga d2b2- baga | %24
+ =fBcd cdcB edef efed |$ c^GAB AGAB ca=g=f efed | ^ce^fg fgfe ^dfga gagf |$ gGAB ABAG =f^GAB ABAG | %28
+ eABc BcBA dBcd cdcB | cA^GA EAGA c8- |$ cA^GA ^DAGA cAGA EAGA | cF=GA GFE^D BEFG FEDE | %32
+ Agab abag cfga gagf |$ ^Aefg fgfe ^d8 | z Bcd cdcB A8 | z GAB ABAG z FGA GAGF |$ z EFG FGFE ^D8 | %37
+ B,^C^DE FGAB =c8 |$ ^c8 ^d8 | e=dcB AGFE cBAG FE^D^C | ^DB,F2 z E2D [B,E]8 |] %41
+V:2
+ [GB] z z2 [GB] z z2 | [Ac] z z2 [Ac] z z2 |$ [Ac] z z2 [Bf] z z2 | [Be] z z2 [Be] z z2 |$ %4
+ [Ac] z z2 [Bd] z z2 | [GB] z z2 [Ac] z z2 |$ [FA] z z2 [GB] z z2 | [EG] z z2 [FA] z z2 | %8
+ [DG] z z2 [DG] z z2 |$ [A^c] z z2 [A^d] z z2 | [Be] z z2 [GB] z z2 |$ [=FA] z z2 [FB] z z2 | %12
+ [Gc] z z2 [EG] z z2 |$ [^FA] z z2 [^GB] z z2 | [EA] z z2 [EA] z z2 | [^DA] z z2 [EA] z z2 |$ %16
+ [FA] z z2 [FA] z z2 | [^GB] z z2 [^A^c] z z2 | [F=A] z z2 [GB] z z2 |$ [G^c] z z2 [FB] z z2 | %20
+ [GB] z z2 [^GB] z z2 |$ [Ac] z z2 [Bd] z z2 | c z x6 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |$ x8 | %31
+ x8 | x8 |$ x4 z/ =A/B/c/ B/c/B/A/ | G4 z/ F/G/A/ G/A/G/F/ | E4 ^D4 |$ %36
+ ^C4 z/ A,/B,/=C/ B,/C/B,/A,/ | x4 z/ F/G/A/ G/A/G/F/ |$ z/ G/A/B/ A/B/A/G/ z/ A/B/=c/ B/c/B/A/ | %39
+ G z z2 x4 | x/ B,3/2- B,A, ^G,4 |] %41
+V:3
+ E,G,A,B, A,B,A,G, E,G,A,B, A,B,A,G, | E,A,B,C B,CB,A, E,A,B,C B,CB,A, |$ %2
+ ^D,A,B,C B,CB,A, D,A,B,C B,CB,A, | E,G,A,B, A,B,A,G, E,G,A,B, A,B,A,G, |$ %4
+ E,F,G,A, G,A,G,F, D,F,G,A, G,A,G,F, | D,E,F,G, F,G,F,E, C,E,F,G, F,G,F,E, |$ %6
+ C,F,G,A, G,A,G,F, B,,G,A,B, A,B,A,G, | B,,E,F,G, F,G,F,E, A,,F,G,A, G,A,G,F, | %8
+ G,,A,B,C B,CB,A, G,B,CD CDCB, |$ G,^CDE DEDC F,^DEF EFED | E,F,G,A, G,A,G,F, E,G,A,B, A,B,A,G, |$ %11
+ E,A,B,C B,CB,A, D,B,CD CDCB, | C,D,E,=F, E,F,E,D, C,E,F,G, F,G,F,E, |$ %13
+ C,^F,G,A, G,A,G,F, B,,^G,A,B, A,B,A,G, | A,B,CD CDCB, G,A,B,C B,CB,A, | %15
+ F,A,B,C B,CB,A, E,A,B,C B,CB,A, |$ ^D,A,B,C B,CB,A, D,F,G,A, G,A,G,F, | %17
+ =D,^G,A,B, A,B,A,G, ^C,E,F,=G, F,G,F,E, | =C,F,G,A, G,A,G,F, B,,E,F,G, F,G,F,E, |$ %19
+ ^A,,E,F,G, F,G,F,E, B,,F,G,=A, G,A,G,F, | E,G,A,B, A,B,A,G, D,^G,A,B, A,B,A,G, |$ %21
+ C,A,B,C B,CB,A, ^G,B,CD CDCB, | A,CDE DEDC A,CDE DEDC |$ A,DE=F EFED A,DEF EFED | %24
+ ^G,DE=F EFED G,B,CD CDCB, |$ A,B,CD CDCB, A,B,CD CDCB, | G,^CDE DEDC F,^DEF EFED |$ %27
+ EE,F,G, F,G,F,E, D,E,=F,=G, F,G,F,E, | C,^F,^G,A, G,A,G,F, B,,G,A,B, A,B,A,G, | %29
+ A,A,,B,,C, B,,C,B,,A,, =G,,A,,B,,C, B,,C,B,,A,, |$ %30
+ F,,A,,B,,C, B,,C,B,,A,, E,,A,,B,,C, B,,C,B,,A,, | %31
+ ^D,,A,,B,,C, B,,C,B,,A,, E,,G,,A,,B,, A,,B,,A,,G,, | C,,2 z2 z4 z A,B,C B,CB,A, |$ %33
+ ^C,2 z2 z4 B,,F,G,A, G,A,G,F, | B,,G,A,B, A,B,A,G, B,,A,B,C B,CB,A, | %35
+ B,,B,CD CDCB, B,,A,B,C B,CB,A, |$ B,,G,A,B, A,B,A,G, B,,F,G,A, G,A,G,F, | %37
+ G,B,A,G, F,E,^D,F, z D,E,F, E,F,E,D, |$ z E,F,G, F,G,F,E, z F,G,A, G,A,G,F, | %39
+ E,2 z2 z4 A,,B,,C,D, E,F,G,A,- | A,2>A,2 G,2F,2 E,8 |] %41
+V:4
+ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | %18
+ x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ %36
+ x8 | x4 B,,4 |$ B,,4 B,,4 | C, x x2 x4 | B,,4 E,,4 |] %41

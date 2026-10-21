@@ -1,0 +1,65 @@
+X:1
+T:Dichterliebe, Op.48
+T:Ein Jüngling liebt ein Mädchen
+C:Robert Schumann
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=80
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+ z | z4 | z4 | z4 | z2 z!mf! B | B G G B |$ B2 F B | B B/ B/ e e/ e/ | d2 z c | c A A c/ c/ | %10
+w: ||||Ein|Jüng- ling liebt ein|Mäd- chen, die|hat ei- nen An- dern er-|wählt; der|An- d're liebt ei- ne|
+ c2 G G |$ A A/ A/ B B/ B/ | E2 z2 | z4 | z4 | z4 | z2 z F |$ F F F e | d2 B B | c c d d | %20
+w: An- d're und|hat sich mit die- ser ver-|mählt.||||Das|Mäd- chen nimmt aus|Aer- ger den|er- sten be- sten|
+ B2 !>!f2 | d d/ d/[Q:1/4=80]"^dim." c[Q:1/4=78]"^.9" c |$ %22
+w: Mann, der|ihr in den Weg ge-|
+[Q:1/4=77]"^.8""^dim." B[Q:1/4=76]"^.7" B[Q:1/4=75]"^.6" z[Q:1/4=74]"^.4" f | %23
+w: lau- fen; der|
+[Q:1/4=73]"^.3""^dim." d[Q:1/4=72]"^.2" d/[Q:1/4=71]"^.7" d/[Q:1/4=71]"^.1" c[Q:1/4=70]"^dim." c | %24
+w: Jüng- ling ist ü- bel|
+ B2 z B | B B,/ B,/ B, B,/ B,/ | B2 E B |$ B3/2 F/ F F | B2 z B | %29
+w: d'ran. Es|ist ei- ne al- te Ge-|schich- te, doch|bleibt sie im- mer|neu; und|
+ _d[Q:1/4=70]"^dim." d[Q:1/4=69] d[Q:1/4=68] d |[Q:1/4=67] _d2[Q:1/4=65] B[Q:1/4=64] =d[Q:1/4=66] | %31
+w: wem sie just pas-|si- ret, dem|
+[Q:1/4=63] d[Q:1/4=62] d[Q:1/4=61] d[Q:1/4=60] e |$[Q:1/4=80]"_a tempo" e2 z2 | z4 | z4 | z4 | z4 | %37
+w: bricht das Herz ent-|zwei.|||||
+ z4 | z4 |$ z4 | z4 | z4 | z4 | z4 | z4 | z4 | !fermata!z4 |] %47
+w: ||||||||||
+V:2
+!mf! z | z !>!B2 z | z !>!B2 z | z B2 e | z !>!d2 z | z B2 z |$ z B2 z | z B2 e | z d2 z | z c2 z | %10
+ z c2 z |$ z c2 B | z B2 z | z !>!f2 z | z !>!f2 z | z .[Bg] z .[=Af] | z !>!f2 z |$ z f2 z | %18
+ z f2 z | z [Gc] z [=Ad] | z B z [Fcf] | z [FBd]"^dim." z [=Ad] |$"^dim." z B z [Fcf]- | %23
+"^dim." [Fcf] (.[FBd].[GBc]"^dim.".[F=Ac]) | z B2 z | z B2 z | z B2 z |$ z B2 B | z B2 z | %29
+ z"^dim." !>!_d2 z | z !>!_d2 z | z !>!=d2 [ABd] |$ z [Be]E z |!f! z !>!B2 z | z !>!B2 z | %35
+ z !>![EFAc] z !>![DFAB] | z !>!B2 z | z !>!B2 z | z !>!B2 z |$ z !>![EFAc] z !>![DFAB] | %40
+ z !>![EGB] z !>![EAc] | z !>![EGB] z !>![FBd] | z !>![GBe] z !>![EAc] | z !>![EGB] z !>![FBd] | %44
+ [GBe] z z2 |!f! [G,B,E]3 [G,B,E] | !fermata![G,B,E]4 |] %47
+V:3
+ (B,, | E,,) !>!G,2 (B,, | D,,) !>!F,2 (B,, | E,,)G,F,,F, | B,,, B,,2 (B,, | E,,) G,2 (B,, |$ %6
+ D,,) F,2 (B,, | E,,)G,F,,F, | B,,, B,,2 (B,, | F,,) !>!A,2 (C, | =E,,) !>!G,2 (C, |$ %11
+ F,,)F,B,,,B,, | E,, E,2 (F, | =A,,) !>!C2 (F, | B,,) !>!D2 F, | E,CF,C | B,, B,2 (F, |$ %17
+ =A,,) C2 (F, | B,,) D2 F, | E,CF,D | G,B,=A,C | B,D!>!^F,D |$ G,D=A,C- | %23
+ B,(.[D,B,D].[E,B,C].[F,=A,C]) | B,, z z (F,, | B,,,) D,2 (F,, | C,,) E,2 (F,, |$ ^C,,)=E,D,,F, | %28
+ _E,, G,2 (B,, | F,,) A,2 (_D, | _G,,) B,2 _C,- | C,2 B,,,B,, |$ E,, G,2 (B,, | D,,) !>!F,2 (B,, | %34
+ E,,) !>!G,2 B,, | A,,!>!A,B,,!>!B, | E,, !>!G,2 (B,, | D,,) !>!F,2 (B,, | E,,) !>!G,2 B,, |$ %39
+ A,,!>!A,B,,!>!B, | E,,E,A,,A, | B,,B, B,,,B,, | E,,E,A,,A, | B,,B, B,,,B,, | [E,,E,] z z2 | %45
+ [E,,B,,E,]3 [E,,B,,E,] | !fermata![E,,B,,E,]4 |] %47
+V:4
+ x | x [EG]B, x | x [FA]B, x | x [EG]E=A | x BD x | x [EG]B, x |$ x [FA]B, x | x [EG]E=A | x BD x | %9
+ x [F_A]C x | x [GB]C x |$ x [FA]CD | x [EG]B, x | x [ce]F x | x [Bd]F x | x4 | x [Bd]F x |$ %17
+ x [ce]F x | x [Bd]F x | x4 | x4 | x4 |$ x4 | x4 | x [DF]B, x | x [F_A]B, x | x [EA]!<(!B, x |$ %27
+ x!<)! [=EA]B,[FA] | x [_EG]B, x | x [A_c]_D x | x [_GB]_D x | x [A_c]=D x |$ x G2 x | x [FA]B, x | %34
+ x [EG]B, x | x4 | x [EG]B, x | x [FA]B, x | x [EG]B, x |$ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %47
+V:5
+ x | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | %19
+ x4 | x4 | x4 |$ x4 | C x3 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | F,,A, x2 |$ x4 | x4 | x4 | x4 | %36
+ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %47

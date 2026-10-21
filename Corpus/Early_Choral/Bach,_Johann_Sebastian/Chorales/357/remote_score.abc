@@ -1,0 +1,33 @@
+X:1
+T:Chorale 357:
+T:Warum sollt ich mich denn grämen
+T:Chorale 357:
+T:Warum sollt ich mich denn grämen
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+L:1/8
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ G G A G | A/B/ c (c B) | !fermata!c2 d e | !fermata!c2 B/c/ d |$ !fermata!A2 d d | c B A A/>G/ | %6
+ !fermata!G2 c c | B c A d | (d ^c) !fermata!d2 |$ d e !fermata!c2 | B/c/ d !fermata!A2 | %11
+ d d c B/A/ | A A/>G/ !fermata!G2 |] %13
+V:2
+ EF G(E E)(D D)G | F2 G2 G4 | G4 GF E2 | E4 E2 D2 |$ D4 D2 E2 | E(D D)G G2 ^F2 | D4 G^F GA | %7
+ G2 (G2 G2) F2 | E4 ^F4 |$ G2 G2 =F4 | DE DE ^F4 | ^F2 GF EF G2 | (G2 ^F2) D4 |] %13
+V:3
+ C C C B,/C/ | F E D/E/ F/G/4F/4 | E2 B, B, | A,2 G, G, |$ ^F,2 F, G, | G,/A,/ B,/D/ E A,/4B,/4C/ | %6
+ B,2 G, E | D C C A, | _B, A, A,2 |$ =B, _B,/C/4B,/4 A,2 | G, G, D2 | D/C/ B, C D | %12
+ D A,/4B,/4C/ B,2 |] %13
+V:4
+ C,D, E,C, F,3 E, | D,2 E,F, G,4 | !fermata!C,4 G,2 ^G,2 | !fermata!A,4 E,2 B,,C, |$ %4
+ !fermata!D,4 B,,2 E,2 | E,^F, G,B,, C,A,, D,2 | !fermata!G,,4 E,D, E,^F, | G,=F, E,C, F,E, F,D, | %8
+ G,E, A,A,, !fermata!D,4 |$ G,2 C,2 !fermata!F,4 | F,E, B,,C, !fermata!D,4 | B,,2 E,2 A,,2 B,,C, | %12
+ D,4 !fermata!G,,4 |] %13

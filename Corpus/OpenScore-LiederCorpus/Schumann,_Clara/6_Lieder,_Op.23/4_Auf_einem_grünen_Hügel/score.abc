@@ -1,0 +1,72 @@
+X:1
+T:6 Lieder, Op.23
+T:Auf einem grünen Hügel
+C:Clara Schumann
+Z:Hermann Rollet
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=62
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Langsam." z | z4 | z2 !fermata!z!p![Q:1/4=66] e[Q:1/4=50] |: c B d A | B B z B |$ %5
+w: ||1.  Auf|ei- nem grü- nen|Hü- gel da|
+w: |||2.~ ei- nem grü- nen|Hü- gel da|
+!<(! c c f e!<)! | d3 z | z!mp! ^G A/ A/ B | z/!<(! c/ ^G/ G/ A B!<)! |!<(! c e (g f/) e/!<)! |$ %10
+w: steht ein Rös- lein|hell,|und wenn  ich roth,|roth Rös- lein seh’ so|roth wie lau- * ter|
+w: stehn zwei Blüm- lein|blau,|und wenn ich blau,|blau Blüm- lein seh’ so|blau wie blau- * e|
+ e ^d z2 | z4 | z2 z!f! A | !>!f- (3(f/e/)!>(! d/ c ^G!>)! | A3 z | z4 |1 %16
+w: Lie- be~||möcht|wei- * * nen  ich zur|Stell’!||
+w: Äug- lein~||durch|Thrä- * * nen ich sie|schau’!||
+[Q:1/4=56] z2 !fermata!z[Q:1/4=66] e[Q:1/4=50] :|2$ %17
+w: 2.~ Auf|
+w: |
+[Q:1/4=56] z2 !fermata!z[Q:1/4=66]!p! e[Q:1/4=50] || c B d A | B B z B |!<(! c c f e!<)! | d3 z |$ %22
+w: 3.~ Auf|ei- nem grü- nen|Hü- gel da|singt ein Vö- ge-|lein;|
+w: |||||
+ z!<(! ^G A B!<)! | c2 z B |!<(! c e (g f/) e/!<)! | e3/2 ^d/ d d | (eB) c z |$ z2 z!mf! A | %28
+w: mir ist’s, als|säng’s: Wer|nie- mals Leid, _  recht|gro- sses Leid er-|fah- * ren|wird|
+w: ||||||
+ !>!f3/2 A/ A A | _B2[Q:1/4=60] !>!f2- | (3fe d[Q:1/4=50]!>(! c[Q:1/4=45] ^G!>)! | A3 z |] %32
+w: nie recht  glück- lich|sein, nie~|_ _ recht  glück- lich|sein.|
+w: ||||
+V:2
+!p!!ped! [ce] | [Ac]>[EB]!ped-up!!ped! [CA]!ped-up!!ped![DF]!ped-up! | %2
+!ped! [CE]!ped-up![B,D]!ped! !fermata![B,E]!ped-up!!ped! [ce]!ped-up! |: [Ac][GB] [FAd][FA] | %4
+ [E^GB]2 z [EGB]!ped!!ped-up! |$!<(! [EAc]2!ped! f2-!ped-up!!ped!!<)!!ped-up! | %6
+!>(! f3!ped! [EBe]!ped-up!!ped!!>)!!ped-up! | %7
+ [Ec]!ped! (^G!ped-up!!ped!A)!ped-up!!ped! (B!ped-up!!ped!!ped-up! | %8
+c)!ped! (^G!ped-up!!ped!A)!ped-up!!ped! (B!ped-up!!ped!!ped-up! |!<(! c4)!ped!!<)!!ped-up! |$ %10
+ (e!ped!^d) z [^FBd]!ped-up!!ped!!ped-up! |!>(! [EBe] [=DEB][Cc]!>)! [_B,^G]- | %12
+ [B,G] [A,A]2 [A,A] | [B,F^G] [CEA]/[FAB]/ [EAc][DEG] | [CEA]3!p!!ped! [ce] | %15
+ [Ac]>[EB] [CA]!ped-up!!ped![DF]!ped-up! |1 %16
+!ped! [CE]!ped-up!!ped![B,D]!ped! !fermata![B,E]!ped-up! [ce] :|2$ %17
+ [CE][B,D]!ped! !fermata![B,E]!ped-up!!ped! [ce] || %18
+!ped! [Ac][GB]!ped-up!!ped![FAd]!ped-up!!ped![FA]!ped-up! | %19
+!ped! [E^GB]2 z!ped-up! [EGB]!ped!!ped-up! |!<(! [EAc]2!ped! f2-!ped-up!!ped!!<)!!ped-up! | %21
+!>(! f3!ped! [EBe]!ped-up!!ped!!>)!!ped-up! |$ %22
+ c!ped! ^G!ped-up!!ped!A!ped-up!!ped! (B!ped-up!!ped!!ped-up! | %23
+ c)!ped! ^G!ped-up!!ped!A!ped-up!!ped! B!ped-up!!ped!!ped-up! | c4!ped!!ped-up! | %25
+ e!ped!^d z [^FBd]!ped-up!!ped!!ped-up! | %26
+!>(! [EBe]!ped! [=DB][Cc]!ped-up! [_B,^G]-!ped!!>)!!ped-up! |$ [_B,^G] [A,A]2 [A,A] | %28
+ [A,FA]4!ped!!ped-up! | [_B,F_B]3 [=B,F^G] | [CEA][FAB] [EAc][DE^G] | [CEA]3 z |] %32
+V:3
+ z | z4 | z [F,A,] !fermata![E,^G,] z |: z4 | z2 z E, |$ A,2 F,2 | G,3 ^G, | A, (E,F,) (^G, | %8
+A,) E,F, [^G,D] | [A,C]4 |$ [A,B,]2 z A, | ^G, G,A, [E,C]- | [E,C] [F,C]2 [E,C] | D, C,/D,/ E,E, | %14
+ A,,3 z | z4 |1 z [F,A,] !fermata![E,^G,] z :|2$ z [F,A,] !fermata![E,^G,] z || z4 | z2 z E, | %20
+ A,2 F,2 | G,3 ^G, |$ A, E,F, (^G, | A,) E,F, ^G, | [A,C]4 | [A,B,]2 z A, | ^G, G,A, [E,C]- |$ %27
+ [E,C] [F,C]2 [E,C] | [_E,C]4 | (D,3 D,) | C,D, E,E, | A,,3 z |] %32
+V:4
+ x | x4 | x4 |: x4 | x4 |$ x2 DC- | C B,2 x | x D2 F- |F D2 F- | F2 (EF) |$ [^FB]2 x2 | x4 | x4 | %13
+ x4 | x4 | x4 |1 x4 :|2$ x4 || x4 | x4 | x2 DC- | C B,2 x |$ E D2 F- | F D2 F- | F2!<(! EF | %25
+ [^FB]2!<)! x2 | x4 |$ x4 | x4 | x4 | x4 | x4 |] %32
+V:5
+ x | x4 | x4 |: x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |1 x4 :|2$ x4 || %18
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x E2 x |$ x4 | x4 | x4 | x4 | x4 |] %32

@@ -1,0 +1,100 @@
+X:1
+T:6 Lieder, Op.12
+T:Nachts
+C:Josephine Lang
+Z:Christian Reinhold Köstlin
+Z:OpenScore (CC0)
+%%score 1 { ( 2 6 ) | ( 3 4 5 ) }
+L:1/8
+Q:1/4=144
+M:6/8
+I:linebreak $
+K:E
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:6 treble 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Allegro" z6 | z6 | z6 | z6 | z6 | z6 | z6 |$ z2 z z2 B, | G3 F3 | A3 G2 G | F3 E3 | B,6 | %12
+w: |||||||Im|Wal- de|weit auf der|Hai- de|breit|
+ z2 z E3 | (F3 G2) G | E3 z2 z | z6 |$ G3 F2 F | A3 G3 | F3 E2 E | B,6 | z2 z E3 | F3 G2 G | E6- | %23
+w: kein|Hauch, * kein|Hauch!||le- ge dich|mü- der|Wan- de- rer|auch|jetzt|un- ter den|Strauch!|
+ E3 z2 z | z2 z G3 |$ B3- B2 G |!p! ^A6 | G3 z2 z | z2 z G3 | B3- B2 D | F6- | F3 z2 D | %32
+w: _|ist|al- * les|Stil-|le!|ist|al- * les|Ruh'!|_ be-|
+ D3 B,2 B, |!<(! (F2 D) (A2 F)!<)! |$ (c3- c2 A) | F3 z2 D |!p! (E3 B,2) B, |!pp! B,3 B,3 | %38
+w: schlos- sen in|Frie- * dens- *|Schran- * *|ken ist|al- * les|Stil- le,|
+[Q:1/4=120]"^ritard."!<(! (B,3!<)!!>(! D2)[Q:1/4=110] C!>)! | B,3- B,2 z | %40
+w: al- * les|Ruh'! _|
+ z2 z z2!f![Q:1/4=144]"^a tempo" E | G2 B, EG B | =d3- d2 B |$ E3- E2 E |!f! e6- | %45
+w: Der|Bach nur stür- * met|im- * mer|zu _ und|mei-|
+ e2 c!>(! A G F!>)! |!p! (B6 | G3) z2 B |!p! (e6 | d3) d3 |!p! d6 | c3- c2 c |$!<(! c6!<)! | d6 | %54
+w: * ner Lie- be Ge-|dan-|ken, und|mei-|* ner|Lie-|be _ Ge-|dan-||
+ e6 |!ff! g6- | g3 !>!f3 | !>!e3 d2 c |!<(! B3 e3-!<)! |!>(! e3 G3!>)! |"_dim."!<(! B6-!<)! |$ %61
+w: ken,|mei-|* ner|Lie- be Ge-|dan- *|||
+!>(! (B6!>)! |!mf! E6) | z6 | z6 | z6 | z6 | z6 | z6 | !fermata!z6 |] %70
+w: |ken!||||||||
+V:2
+!pp!"^molto legato" (G3 E3 |[I:staff +1] [B,,F,A,B,]6 |[I:staff -1] G3 E3 | %3
+[I:staff +1] [B,,F,A,B,]6) |"^legato" ([D,F,A,B,]3!<(! [E,A,C]3!<)! |[I:staff -1] D3 E3 | %6
+!>(! [A,CF]3 [B,DG]3)!>)! |$!p! E6 | ([EG]3 [B,DF]3 | !arpeggio![A,B,DA]3 [G,B,EG]3 | %10
+ [A,B,DF]3 [G,B,E]3 |[I:staff +1] [D,F,A,B,]3 [E,A,C]3 |!<(![I:staff -1] [F,A,D]3 [G,B,E]3)!<)! | %13
+ [A,CF]3 [B,DG]3 |!>(! E3[I:staff +1] [C,E,A,C]3!>)! |!<(! [C,F,A,C]3!<)!!>(! [D,F,A,B,]3!>)! |$ %16
+[I:staff -1] [EG]3 [B,DF]2 [B,DF] | [A,B,DA]3 [EG]3 | [DF]3 E3 |[I:staff +1] [D,F,A,B,]3 [E,A,C]3 | %20
+[I:staff -1] D3 E3 | [A,CF]3 [B,DG]3 |!<(! E6-!<)! | E3!>(! E3!>)! | [G,B,EG]3 [G,CEG]3 |$ %25
+ [G,B,DG]3 [G,B,D]3 | ^^F6 | G6 |!<(! [EG]3 [CEG]3!<)! | [B,DG]3 [B,DF]3 | %30
+!p!!<(![I:staff +1] ([=E,-F,-^A,-C]3 [E,F,A,^^C]3!<)! |!>(![I:staff -1] D6)!>)! |!p! D6 | %33
+!<(! [A,B,DF]3 [B,DFA]3!<)! |$!f! (c6 | B3) A3 |!pp! [EG]3 [DF]3 | %37
+ E3!<(![I:staff +1] [B,,F,A,B,]3!<)! |"_ritard." [B,,E,G,B,]3!>(! [E,=G,^A,]3!>)! | B,6 | %40
+!ff![I:staff -1] !^![EG]3 !^![EG]3 | !^![EG]3 !^![EG]3 | [B,=DGB]3 [DEA=d]3 |$ [=DEB=d]3 [DEBd]3 | %44
+!ff! [CEBc]3 [CEBc]3 |!>(! [CEAc]3 [A,CFA]3!>)! |!p! F3 ^^F3 | G6 | [EG]3 [CEG]3 | %49
+ [^B,DG]3 [B,DG]3 | F6 | [^A,CF]3 [A,CF]3 |$ E6 | E6 |"_cresc." (E6 | [CE]3!ff! [CE]3 | E6 | F6) | %58
+ G6 | [G,B,EG]3 [G,B,EG]3 | A6- |$!>(! A6!>)! |!mf! [EG]3 E3 |[I:staff +1] [B,,F,A,B,]6 | %64
+[I:staff -1] G3 E3 |[I:staff +1] [B,,F,A,B,]6 |!<(! [D,F,A,B,]3 [E,A,C]3!<)! |[I:staff -1] D3 E3 | %68
+ [A,CF]3 [B,DG]3 | !fermata!E6 |] %70
+V:3
+ [G,B,]3 [E,G,]3 | x6 | [G,B,]3 [E,G,]3 | x6 | x6 | [F,A,]3 [G,B,]3 | x6 |$ [E,G,]6 | [G,B,]3 F,3 | %9
+ x6 | x6 | x6 | x6 | x6 | [E,G,]3 x3 | x6 |$ [G,B,]3 F,2 F, | x3 [G,B,]3 | [A,B,]3 [G,B,]3 | x6 | %20
+ [F,A,]3 [G,B,]3 | x6 | x6 | [E,G,B,]3 [E,G,B,]3 | x6 |$ x6 | x6 | x6 | [G,B,]3 G,3 | G,3 F,3 | %30
+ x6 | x6 | x6 | x6 |$[I:staff -1] [DFA]3!>(! [DFA]3 | [DFA]3!>)! [B,DF]3 | %36
+[I:staff +1] [G,B,]3 [A,B,]3 | [G,B,]3 x3 | x6 | x6 | [G,B,]3 [G,B,]3 | [G,B,]3 [G,B,]3 | x6 |$ %43
+ x6 | x6 | x6 | x6 | [G,B,]3 [G,B,]3 | [G,B,]3 G,3 | G,3 G,3 | x6 | F,3 F,3 |$ x6 | x6 | x6 | %55
+ [E,G,]3 [E,G,]3 | x6 |[I:staff -1] [^A,CE]3 [A,CE]3 | [G,B,E]3 [G,B,E]3 | x6 | x6 |$ x6 | %62
+[I:staff +1] [G,B,]3 [E,G,]3 | x6 | [G,B,]3 [E,G,]3 | x6 | x6 | [F,A,]3 [G,B,]3 | x6 | [E,G,]6 |] %70
+V:4
+ z2 E,, z2 E,, |!<(!!<(! E,,2 E,,!<)!!<)!!>(!!>(! D,,2 B,,,!>)!!>)! | z2 E,,- E,,2 E,,- | %3
+!>(! E,,2 E,, D,,2!>)! B,,,- | B,,,2 B,,- B,,2 B,,,- | B,,,2 B,,- B,,2 B,,,- | %6
+ B,,,2 B,,- B,,2 B,,,- |$ B,,,2 B,,, [E,,,E,,]3 | z2 [B,,,B,,]- [B,,,B,,]2 [B,,,B,,]- | %9
+ [B,,,B,,]2 [B,,,B,,]- [B,,,B,,]2 [B,,,B,,] | z2 B,,,- B,,,2 B,, | z2 B,,,- B,,,2 B,,- | %12
+ B,,2 B,,,- B,,,2 B,, | z2 B,,,- B,,,2 B,, | z2 E,, z2 [A,,,A,,] | z2 [F,,,F,,] z2 [B,,,B,,] |$ %16
+ z2 B,,- B,,2 B,,,- | B,,,2 B,,- B,,2 B,,- | B,,2 B,,- B,,2 B,,- | B,,2 B,,, B,,,2 B,,- | %20
+ B,,2 B,,,- B,,,2 B,, | z2 [B,,,B,,]- [B,,,B,,]2 [B,,,B,,] | [E,G,]3 [C,E,A,C]3 | %23
+ [A,,,A,,]2 E,,- E,,2 E, | z2 [E,,E,] z2 [C,,C,] |$ z2 [G,,,G,,]- [G,,,G,,]2 [G,,,G,,]- | %26
+ [^^F,^A,D]3 [F,A,D]3 | [G,B,D]3 [G,B,D]3 | z2 [E,,E,] z2 [E,,E,] | z2 [G,,,G,,] z2 [B,,,B,,] | %30
+ z2 F,,- F,,2 F,, | [D,F,B,]3 [D,F,B,]3 | [D,F,B,]3 [D,F,B,]3 | z2 B,,,- B,,,2 B,, |$ %34
+ z2 [B,,,B,,]- [B,,,B,,]2 [B,,,B,,]- | [B,,,B,,]2 [B,,,B,,]- [B,,,-E,,B,,-]2 [B,,,G,,B,,] | %36
+ z2 B,,- B,,2 B,,,- | B,,,2 B,, z2 D,, | z2 E,, z2 =G,, | [D,F,]3 [D,F,]3 | %40
+ z2 [E,,B,,E,] z2 [E,,B,,E,] | z2 [E,,B,,E,] z2 [E,,B,,E,] | z2 [E,,B,,E,] z2 [E,,A,,E,] |$ %43
+ z2 [E,,G,,E,] z2 [E,,G,,E,] | z2 [A,,,A,,] z2 [A,,,A,,] | z2 [A,,,E,,A,,] z2 F,, | [A,B,D]6 | %47
+ z2 E,, z2!pp! [E,,E,] | z2 [E,,E,] z2 [C,,C,] | z2 G,, z2 G,, | [F,=B,D]3 [F,B,D]3 | %51
+ z2 F,, z2 F,, |$ [E,=A,C]3!<(! [E,A,C]3 | [E,A,=C]3!<)! [E,A,C]3 | [E,G,B,]3 [E,G,B,]3 | %55
+ z2 [C,,G,,C,] z2 [C,,G,,C,] | [E,F,^A,C]3 [E,F,A,C]3 | z2 [F,,C,] z2 [F,,C,] | %58
+ z2 [B,,,B,,] z2 B,, | z2 [B,,,B,,] z2 B,, | [=A,B,D]3!<(! [A,B,D]3!<)! |$ [A,B,D]3 [A,B,D]3 | %62
+ z2 E,,- E,,2!<(! E,,- | E,,2!<)!!>(! E,, D,,2 B,,,-!>)! | B,,,2 E,,- E,,2 E,, | %65
+ E,,2!>(! E,,!p! D,,2!>)! B,,,- | B,,,2 B,,- B,,2 B,,,- | B,,,2 B,,- B,,2 B,,,- | %68
+ B,,,2 B,,-!>(! B,,2 B,,,- | B,,,2!>)!!pp! B,,, !fermata![E,,,E,,]3 |] %70
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %19
+ x3 | x3 | x3 | z E,,/- E,, [A,,,A,,]/- | x3 | x3 |$ x3 | [G,,,G,,] [D,,D,]/ z [D,,D,]/ | %27
+ z G,,/ z G,,/ | x3 | x3 | x3 | z [B,,,B,,]/ z [B,,,B,,]/ | z B,,,/ z B,,/ | x3 |$ x3 | x3 | x3 | %37
+ x3 | x3 | z B,,/ z B,,/ | x3 | x3 | x3 |$ x3 | x3 | x3 | z [B,,,B,,]/ z [B,,,B,,]/ | x3 | x3 | %49
+ x3 | z B,,,/ z D,,/ | x3 |$ z [A,,,A,,]/ z [A,,,A,,]/ | z A,,,/ z A,,/ | z E,,/ z E,,/ | x3 | %56
+ z [F,,C,]/ z [F,,C,]/ | x3 | x3 | x3 | z B,,,/ z F,,/ |$ z B,,/ z B,,,/ | x3 | x3 | x3 | x3 | x3 | %67
+ x3 | x3 | x3 |] %70
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | %38
+ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | E3 x3 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | %56
+ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %70

@@ -1,0 +1,33 @@
+X:1
+T:Praeludium 23
+T:BWV 868
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/16
+M:4/4
+I:linebreak $
+K:B
+V:1 treble nm="Score"
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+ z BAB cABc z dcd ecde | z fde fcde d8 |$ c8- cAGA BGAB- | BGFG AFGA- A4 G2F2 |$ ^E4 F8 E4 | F16 | %6
+ z G^^FG AFGA FAGA BGAB |$ cg^^fg afga d8 | c8- cdcd ecde |$ ABAB cABc B2d2g2^f2 | %10
+ ^e8 z2 c2f2=e2 |$ ^d8 e8- | ecBc dBcd- d4 c2B2 |$ A4 B8 A4 | z =ABA GBAG F8- | FFGF ^EGFE- E8 |$ %16
+ [FA]4 [GB]4 [Ac]4 [Bd]4 | z efe dfed c4 B4- | B4 A4 !fermata![FB]8 |] %19
+V:2
+ D4 E4 F4 G4 | A8 x8 |$ x16 | C,4 F,4 B,,A,G,A, B,G,A,B, |$ C,D,B,,C, D,B,,C,D, G,,4 C,4 | %5
+ F,,C,B,,C, D,B,,C,D, F,,A,,G,,A,, B,,G,,A,,B,, | E,,4 E,4 D,8- |$ D,4 C,4 B,,2A,,2 G,,4- | %8
+ G,,G,^^F,G, A,F,G,A, E,2E2D2C2 |$ D2C2D2D,2 G,A,G,A, B,G,A,B, | %10
+ C,2CB, =A,2G,2 F,G,F,G, A,F,G,A, |$ B,,2B,=A, G,2F,2 E,D,E,D, C,E,D,C, | F,4 B,,4 E,DCD ECDE |$ %13
+ F,G,E,F, G,E,F,G, C,4 F,4 | B,,8- B,,C,D,E, F,=A,G,F, | [G,B,]16 |$ F,16- | %17
+ F,F,E,F, G,E,F,G, F,8- | F,D,C,D, E,C,D,E, !fermata!D,8 |] %19
+V:3
+ B,16- | B,16- |$ B,G,F,G, A,F,G,A, D,4 G,4 | x16 |$ x16 | x16 | x16 |$ %7
+ A,2 G,4 ^^F,2- F,[I:staff -1]AGA BGAB | x16 |$ x16 | x16 |$ x16 | x16 |$ x16 | x16 | x16 |$ %16
+[I:staff +1] x8 z CDC B,DCB, | A,4 B,4 A,,4 B,,4 | F,,8 B,,8 |] %19
+V:4
+ x16 | x8 z AGA BGAB |$ ^E4 F4- F8 | ^E4 =E4 D8- |$ D2C2B,2A,2 B,A,G,A, B,G,A,B, | A,4 B,4 C4 D4- | %6
+ D4 C8 B,4 |$ x16 | EBAG ^^F8 G4- |$ G4 ^^F4 G4 z4 | z cBc =dBcd =A8 |$ z =AGA BFGA G4 ^A2B2 | %12
+ A4 =A4 G8- |$ G2F2E2D2 EDCD ECDE | D4 E4- E4 D2C2 | x8 BcBc =dBcd |$ z =EFE DFED x8 | %17
+ c4 B4 z EFE DFED | C8 B,8 |] %19

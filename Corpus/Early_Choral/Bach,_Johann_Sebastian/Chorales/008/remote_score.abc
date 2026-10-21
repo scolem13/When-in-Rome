@@ -1,0 +1,36 @@
+X:1
+T:Chorale 8:
+T:Freuet euch, ihr Christian alle
+T:Chorale 8:
+T:Freuet euch, ihr Christian alle
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ c c B A | G3/2 F/ F !fermata!F | A3/2 B/ c c | B3/2 A/ !fermata!A2 | A B B A |$ %5
+ G3/2 F/ !fermata!F2 | c c _d d | B B c !fermata!c | A A _d d | c c !fermata!B2 |$ G _A B A | %11
+ G G !fermata!F2 | f f e e | d d c !fermata!c | c c _d c |$ B3/2 A/ A !fermata!A | A A _d d | %17
+ B B e e | c c f f | =e e f !fermata!f |] %20
+V:2
+ F F F/=E/ F | F/G/ =E F C | F3/2 G/ A A | A/F/ G E2 | F G =E F |$ F =E C2 | F F F F | %7
+ G/A/ B/G/ A A | F F B B | B =A F2 |$ =E F F/E/ F | F =E C2 | A A G G | G/A/ G/F/ =E E | %14
+ F F F/G/ A |$ A/F/ G E E | F F B B | G G c c | A/G/ A/B/ c B/A/ | G G =A A |] %20
+V:3
+ A, =A, B, C | _D C/B,/ A, A, | C3/2 B,/ E E | F E/_D/ C2 | _D D G, F,/A,/ |$ _D C/B,/ A,2 | %6
+ =A,/B,/ C/A,/ B, B, | B, E E E | _D D F F | _G F/E/ _D2 |$ C C B, C | _D C/B,/ A,2 | C C C C | %13
+ C =B, C G, | =A, A, B, E, |$ E3/2 _D/ C C | _D D F F | E E G G | F F C F, | C C C C |] %20
+V:4
+ F,2 E,2 _D,2 C,2 | B,,2 C,2 F,,2 !fermata!F,,2 | F,2 E,_D, C,B,, A,,2 | _D,2 E,2 !fermata!A,,4 | %4
+ _D,2 C,B,, C,2 D,2 |$ B,,2 C,2 !fermata!F,,4 | F,G,=A,F, B,,C,_D,B,, | E,F,G,E, A,2 !fermata!A,2 | %8
+ _D,E,F,D, B,,C,D,B,, | E,C, F,2 !fermata!B,,4 |$ B,2 A,2 G,2 F,2 | B,,2 C,2 !fermata!F,,4 | %12
+ F,,G,,A,,B,, C,D,E,F, | G,2 G,,2 C,2 !fermata!C,2 | F,E,_D,C, B,,2 C,D, |$ %15
+ E,2 E,2 A,,2 !fermata!A,,2 | _D,E,D,C, B,,C,D,B,, | E,F,E,_D, C,D,E,C, | F,=E,F,G, A,G,A,B, | %19
+ C2 C,2 F,2 !fermata!F,2 |] %20

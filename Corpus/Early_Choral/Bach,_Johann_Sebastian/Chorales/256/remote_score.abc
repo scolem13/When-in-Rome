@@ -1,0 +1,31 @@
+X:1
+T:Chorale 256:
+T:Freu dich sehr, o meine Seele
+T:Chorale 256:
+T:Freu dich sehr, o meine Seele
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ B c d c | B A G !fermata!F | B c d e | d c !fermata!B2 :|$ d e f e | d c !fermata!d2 | f f g f | %7
+ e d !fermata!c2 | d/e/ f e d |$ B c d2 | !fermata!B2 d f | e d c d | c2 !fermata!B2 |] %13
+V:2
+ F F F3/2 =E/ | D C/F/ F/=E/ F | D F F F | F F F2 :|$ B B A G/A/ | B A B2 | B B B A | G F F2 | %8
+ F B/_A/ G F |$ G/^F/ (G G/)F/4=E/4 F | D2 G _A | G D/E/ F F | F2 F2 |] %13
+V:3
+ D A, B,/A,/ G, | F,/G,/ A,/>B,/ C/G,/ A, | B, A, B, C | C/B,/ B,/A,/ D2 :|$ F G C/D/ E | F F F2 | %6
+ D D E C | B, B, A,2 | B,/C/ D D/ C B,/ |$ B,/A,/ G,/A,/ B,/A,/4G,/4 A, | G,2 B, B, | B, B, A, B, | %12
+ B,/A,/4G,/4 A, D2 |] %13
+V:4
+ B,2 F,2 B,,2 C,2 | D,=E, F,2 CC, !fermata!F,2 | G,2 F,E, D,C, B,,A,, | B,,2 F,,2 !fermata!B,,4 :|$ %4
+ B,A, G,2 F,2 C,2 | D,E, F,2 !fermata!B,,4 | B,,C, D,B,, E,D, E,F, | G,A, B,2 !fermata!F,4 | %8
+ B,2 B,,2 C,2 D,2 |$ E,2 E,2 D,4 | !fermata!G,4 G,F, E,D, | E,F, G,F, E,D, C,B,, | %12
+ F,4 !fermata!B,,4 |] %13

@@ -1,0 +1,113 @@
+X:1
+T:Rêve d'un soir
+C:Cécile Chaminade
+Z:Eugène Adénis
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+L:1/4
+V:1
+ z4[Q:1/4=60]"^Lento." | z8 | z4 !fermata!z!p! (D F A |$ A4- A!pp! A, D F | %4
+w: ||Rê- ve d'un|soir, * rê- ve d'une|
+w: ||Dream of an|eve, * dream of an|
+ (^E2 F2))!mf! z!<(! D F A!<)! |!f! (c2 B) F"^dim." A A G B, |$!p! (F2 E3) z z2 | %7
+w: heu- re, Tu t'es en-|fui * sur l'ai- le du dé-|sir, *|
+w: hour, * Forth art thou|flown * on wings * of de-|sire, *|
+!mf! E F"^cresc." G A B2 G E |!f! (!>!d2 !breath!c3) (E E c |$!>(! (c2 ^B3)!>)!!p! ^D D B | %10
+w: Ta fé- li- ci- té n'est qu'un|leur- re, Rê- ve d'un|soir, * rê- ve d'une|
+w: Thy de- lights do fade like a|flower, * Dream of an|eve, * dream of an|
+ (=c2 =B3)) !tenuto!B !tenuto!B !tenuto!B | !tenuto!B B, B,3 !tenuto!^C !tenuto!D !tenuto!E |$ %12
+w: heu- re Que vain- ne-|ment je cher- che‿à res- sai-|
+w: hour, * That all in|vain I seek new life t'in-|
+ D3 z z4 |!mf!"^Poco più animato."[Q:1/4=66] F ^G A B A2 G F | %14
+w: sir.|Ton en- chan- te- ment nous ef-|
+w: spire.|Of thy spell we pre- sage the|
+[Q:1/4=67] (!>!A2 !breath!^G3)!<(! G A B!<)! |$ c2 ^B ^G!>(! =B2 A ^E | (^G2!>)! F2) z4 | %17
+w: fleu- re, Tu dis- pa-|rais dans les feux du ma-|tin, *|
+w: pow- er, Thou dis- ap-|pear- est in glow of the|morn *|
+!f!"^appasionato."[Q:1/4=68] A B c d c2 B A |$ (!>!c2 !breath!B3) B c A | %19
+w: No- tre voix t'ap- pelle et te|pleu- re Rê- ve d'un|
+w: Heed- less of our plain- ing for-|lorn; * Dream  of an|
+!>(! (c2 B3)!>)!"^dolce." B c ^G | (B2 !breath!A3)!p!!<(! E E E!<)! |$ %21
+w: soir, * rê- ve d'une|heu- re, O doux mi-|
+w: eve, * dream of an|hour, * O fair mi-|
+!<(! G2 F E G2!<)!"^rit."[Q:1/4=65]!>(! F E!>)! | %22
+w: rage e- niv- rant et loin-|
+w: rage of a far dis- tant|
+!pp![Q:1/4=63] (B2 C2) !fermata!z[Q:1/4=60]"^Tempo I."!pp! (D F A | A4- A A, D F |$ %24
+w: tain! * Puis- qu'i- ci-|bas * rien ne de-|
+w: bourne! * Since  naught on|earth * with- stands Time's|
+ (^E2 F2)) z!<(! D F A!<)! |!f! (!>!c2 B!>(! F A G2 B, | F2!>)! E3) z z2 |$ %27
+w: meu- re, Passe, é- teins-|toi comme un ray- on d'é-|té. *|
+w: pow- er, Pass thou, and|die like a sun- beam con-|fin'd. *|
+ z (F!<(! G A!<)!"^cresc." B B G E |!f! (!>!d2 !breath!c3)) (E E c | (c2 ^B3)!pp! ^D D B |$ %30
+w: Mais  comme un lys a- vant qu'il|meu- re, Rê- ve d'un|soir, * rê- ve d'une|
+w: But like the lil- y's dy- ing|flower, * Dream  of an|eve, * dream of an|
+ (=c2 !breath!=B3))!<(! B B B!<)! |!f!!<(! B2 ^B B ^c!<)!!ff! !fermata!e2 d | d3 z z4 |] %33
+w: heu- re, Ah! lais- se-|nous ton par- fum en- chan-|té!|
+w: hour, * Ah! leave thy|per- fume en- chan- ted be-|hind!|
+V:2
+ x4 | x8 | x8 |$ x8 | ^E2 F2 x4 | x4 A2 G x |$ x8 | x8 | x8 |$ x8 | =c2 B3 x3 | %11
+w: |||||||||||
+w: |||||||||||
+ x2 B,2!p! B, C x2 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | B2 A3 x3 |$ x8 | x8 | x8 |$ x8 | %25
+w: ||||||||||||||
+w: * with *||||||||||||||
+ x8 | x8 |$ x8 | x8 | x8 |$ =c2 B3 x3 | x8 | x8 |] %33
+w: ||||||||
+w: ||||||||
+V:3
+ z!mf! (Ace) | (e4 [=c=fa]) (=C=FA) |"^m. g."!p! ^c4 !fermata!z!p! (D^FA) |$ %3
+ (([C^EA-]2 [DFA]2)) z!pp! (DFA) | ((([C^EB]2 [DFA]2))) z!mf!!<(! (!>!D!>!F!>!A)!<)! | %5
+!f! (c2 BF)"_dim." (A2 GB,) |$!p! (F2 E2-) E!<(! z z2!<)! | %7
+!mf!!<(! (EFGA!<)! !arpeggio![B,EB]2 GE) |!f! (!>!d2!>(! c4) [E^Ac]2!>)! |$ %9
+!mf! (!>!c2 ^B4)!p! [^DAB]2 | (=c2 =B4-) B z | !arpeggio![D=Gd]4 [G,A,^CGA]4 |$ %12
+ !arpeggio![F,D-F-A-]2 [DFA]!<(! z z4!<)! |!mf! ([A,CF][CF^G][CFA][CFB] [CFc][CFc][CFB][CFA]) | %14
+ ([DAd][DAd][D^Gd][DGd] [DGd]!<(![DG][DA][DB])!<)! |$ %15
+ ([CFc][CFc][^D^G^B][DGB] [=B,F=B]!>(![B,FB][C^EA][CEA]) | %16
+ ([B,^E^G][B,EG]!>)![A,CF][A,CF] [A,CF][A,CF][A,C=F][A,CF]) | %17
+ (!arpeggio![A,=EA]"_cresc."[EAB][EAc][EAd] [EAe][EAe][EAd][EAc]) |$ %18
+!f! ([=FAc=f][FAcf][FABf][FABf] [FABf][FABf][EAce][EAce]) | %19
+ ([^DAc^d][DAcd][DABd][DABd]"_dim." [=DAB=d][DABd][D^Gc][DG]) | (B2 A3) x x2 |$ [D=G]4 [^DG]4 | %22
+"^m. g." c4 !fermata!z!pp! (=DFA) |!p! ((!>![C^EA-]2 [DFA]2)) z (DFA) |$ %24
+ ((([C^EB]2 [DFA]2))) z!<(! (!>!D!>!F!>!A)!<)! |!f! (c2 BF)!>(! (A G2 B,)!>)! | %26
+ (F2 E2-) E!<(! z z2!<)! |$ (E"_cresc."FGA) (!arpeggio![B,EB]2 GE) |!f! (d2 c4) [E^Ac]2 | %29
+ (c2 ^B4)!pp! [^DAB]2 |$ (=c2 =B4-) B z | %31
+!mf! [D=Gd]2!<(! [^DG^d]2 [EG^ce]!<)!!f! !^!!fermata![Acga]2[I:staff +1] !^![D,F,=D] | %32
+[I:staff -1] !^![DFd]2 !^![dfd']2!8va(! !^![d'f'd'']4!8va)! |] %33
+V:4
+ z4 |[K:treble] ([G_B]4 [=FA]2) z2 |[K:bass] [A,,E,G,]4 !fermata!z z2 z |$ %3
+"^sostenuto molto." (A,2- [D,A,]2) z4 | ([A,,,A,,-]2 [D,,A,,]2) z (!>!D,!>!F,!>!A,) | %5
+ (C2 B,F,) (A,2 G,2) |$ [A,,,A,,]4- [A,,,A,,] (A,,A,^G,) | (=G,F,E,D,) [C,G,]3 z | !>!F6 x2 |$ %9
+ !>!F6 F,2 | =F,6- F, z | !arpeggio![A,,E,B,]4!pp! [A,,,A,,]4 |$ [D,,,D,,]3 (F, A,F,D,E,) | %13
+"_marcato." (!arpeggio!F,^G,A,B, A,2 G,F,) | ^E,4- E, (E,F,^G,) |$ %15
+ [A,,A,]2 [^G,,^G,]2 [=D,,=D,]2 [C,,C,]2 | [F,,,F,,]6 =F,2 | %17
+ [C,,C,] (!>!B,!>!C!>!D !>!C2 !>!B,!>!A,) |$ (!>!C2 B,3) (!>!B,!>!C!>!A,) | %19
+ (!>!C2 B,3) (!>!B,!>!C!>!^G,) | [A,,E,]4 z!p! (^G,"_marcato."A,^A,) |$"^dolce." B,4 !-(!^B,4 | %22
+"^dolce." [A,,,A,,]4 !fermata!z z2 z |"^sostenuto." (!>!A,2- [D,A,]2) z4 |$ %24
+ ([A,,,A,,-]2 [D,,A,,]2) z (!>!D,!>!F,!>!A,) | (C2 B,F,) (A, G,3) | %26
+ [A,,,A,,]4- [A,,,A,,] (A,,A,^G,) |$ (=G,F,E,D,) [C,G,]3 z | !>!F6 x2 | !>!F6 F,2 |$ %30
+ =F,4- F, z z2 | %31
+ !arpeggio![A,,E,B,]2 !arpeggio![A,,E,^B,]2 [A,,,A,,][I:staff -1] !^!!fermata![A,CG]2!ff!!ped![I:staff +1] !^![D,,,D,,]- | %32
+ !^![D,A,]2[K:treble] !^![DA]2 !^![da]4!ped-up! |] %33
+V:5
+ x4 | d2 c2 x4 | !arpeggio![A,^CGA]4 x4 |$ x8 | x8 | [DF]3 F [B,D]3 B, |$ [G,C]4- [G,C] x3 | %7
+ B,4 x4 | [E^A]6 x2 |$ [^D=A]6 x2 | [=D^G]6- [DG] x | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | %19
+ x8 | [CE][CE][CE][CE] z [CE][CE][CE] |$ x8 | !arpeggio!!-)![G,CG]4 x4 | x8 |$ x8 | %25
+ [DF]4 [B,D]3 x | [G,C]4- [G,C] x3 |$ B,4 x4 | [E^A]6 x2 | [^D=A]6 x2 |$ [=D^G]4- [DG] z2 x | x8 | %32
+ x4!8va(! x4!8va)! |] %33
+V:6
+ x2 |[K:treble] x4 |[K:bass] z A,,, x2 |$ x4 | x4 | !arpeggio![B,,F,]3/2 z/ E,2 |$ x4 | x4 | %8
+{F,,,-F,,-} [F,,,F,,]3 [F,,,F,,]- |$ [F,,,F,,]3 x | x4 | x4 |$ x4 | F,,2 x2 | (B,,2 ^E,/) x3/2 |$ %15
+ x4 | x4 | x4 |$ D,3 E, | ^F,2 =F,2 | x4 |$ z A,,,2"^rit." A,,, | x4 | x4 |$ x4 | %25
+ !arpeggio![B,,F,]2 E,2 | x4 |$ x4 |{F,,,-F,,-} [F,,,F,,]3 [F,,,F,,]- | [F,,,F,,]3 x |$ x4 | x4 | %32
+ [D,,,D,,]2[K:treble] x2 |] %33

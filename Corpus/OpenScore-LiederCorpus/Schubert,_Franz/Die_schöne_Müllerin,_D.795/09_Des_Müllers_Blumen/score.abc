@@ -1,0 +1,55 @@
+X:1
+T:Die schöne Müllerin (D.795)
+T:Des Müllers Blumen
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=90
+M:6/8
+I:linebreak $
+K:A
+V:1 treble nm="Singstimme"
+V:2 treble 
+V:3 bass nm="Pianoforte"
+V:6 bass 
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Mässig." z6 |: z6 | z6 | z6 | z6 | z2 z !fermata!z2!p! e |$ ec A EA c | ed c !breath!B2 e | %8
+w: |||||Am|Bach * viel klei- * ne|Blu- * men steh'n, aus|
+w: |||||Dicht|un- * ter ih- * rem|Fen- * ster- lein, da|
+ ec A fd B | B2 d/c/ !breath!B2[Q:3/8=55] c/d/ | ec A EA c |$ ed c B2 d | cd c cf e | %13
+w: hel- * len blau- * en|Au- gen * seh'n, der *|Bach, * der ist _ des|Mül- * lers Freund und|hell- * blau Lieb- * chens|
+w: will * ich pflan- zen die|Blu- men * ein, da *|ruft * ihr zu, _ wenn|al- * les schweigt, wenn|sich * ihr Haupt * zum|
+ ^dc d[Q:3/8=60] !fermata!e3 | z6 |[Q:3/8=55] c3 Bc B |$ Ac f (e2 d) | c2 z z2 z | c3 Bc B | %19
+w: Au- * ge scheint,||d'rum sind * es|mei- * ne Blu- *|men,|d'rum sind * es|
+w: Schlum- * mer neigt,||ihr wisst * ja|was * ich mei- *|ne,|ihr wisst * ja|
+ Ac f (e2 G) | A2 z !fermata!z2 z :| %21
+w: mei- * ne Blu- *|men.|
+w: was * ich mei- *|ne.|
+V:2
+ x6 |: x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x3 f d x | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | %17
+ x6 | x6 | x6 | x6 :| %21
+V:3
+ z2 z z2 (E, |: (C,)E,A, CE[A,DA]) |!>(! (G2 F!>)! E2) [A,B,F] | %3
+!>(! ([G,-B,E]2 [G,D]) ([A,C]2!>)! E) | (D2 E) (C2 E) | (D2 E) !fermata![E,A,C]2 z |$ %6
+ CA,E, C,E,A, | DG,E, D,E,G, | A,CE A,B,F | B,2 D/C/ [G,B,]2 A,/B,/ | CA,E, C,E,A, |$ %11
+ DG,E, D,E,G, | ^E,B,C F,A,C | F,A,B, G,B,E | FGF [G,E][A,^D][B,=D] | E,A,C D,F,B, |$ %16
+ C,E,A, B,,E,G, |!>(! C,^E,G,!>)! C,F,A, | E,=G,C D,F,B, |!>(! C,E,[B,,^D,A,]!>)! [E,G,]3 | %20
+ [C,E,A,]3- !fermata![C,E,A,]2 E, :| %21
+V:4
+!p! [A,,,A,,-]6 |: z2 z z z F, |!p! (G,2 E, A,2)!pp! (^D, |!p! (=D,2) [B,,E,]) [A,,E,]3 | %4
+!pp! [A,,,E,,A,,]6 | [A,,,E,,A,,]3- !fermata![A,,,E,,A,,]2 z |$ [A,,,A,,]6 | [B,,,B,,]6 | %8
+ [C,,C,]3 ([D,,D,]2 [^D,,^D,]) | [E,,E,]2 A,, [E,,E,]2 x | [A,,,A,,]6 |$ [B,,,B,,]6 | %12
+ [G,,,G,,]3 [A,,,A,,]3 | [B,,,B,,]3 E,,2 G,, |!p!!>(! [B,,,B,,]3!>)!!pp! E,,F,,G,, | %15
+!pp! A,,3 D,,3 |$ E,,6 |!pp! ^E,,3!ppp! F,,3 |"_cresc." [^A,,,^A,,]3 [B,,,B,,]2 D,, | %19
+!mp! E,,3!pp! E,,3 | !fermata![A,,,E,,A,,]6 :| %21
+V:5
+ x3 |: A,,3 | A,,3 | A,,3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | %17
+ x3 | x3 | x3 | x3 :| %21
+V:6
+ x6 |: x6 | ([B,D]3 C2) x | x6 | (G,E,E) (A,E,E) | (G,E,E) x2 x |$ x6 | x6 | E,3 F,3 | G,E,A, x3 | %10
+ x6 |$ x6 | x6 | x6 | [A,^D]3 x3 | x6 |$ x6 | x6 | x6 | x3 B,,C,=D, | x6 :| %21

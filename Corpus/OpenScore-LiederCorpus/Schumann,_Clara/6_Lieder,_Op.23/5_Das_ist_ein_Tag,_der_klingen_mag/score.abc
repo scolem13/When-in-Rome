@@ -1,0 +1,70 @@
+X:1
+T:6 Lieder, Op.23
+T:Das ist ein Tag, der klingen mag
+C:Clara Schumann
+Z:Hermann Rollett
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=108
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Lebhaft" z | z6 | z6 | z6 | z2 z z2!f! d |$ c2 B A2 A | f2 e d2 z | z6 | z2 z z2!p! A | %9
+w: ||||Das|ist ein Tag, der|klin- gen mag~||Die|
+ A2 A e({fe}^d) e |$ A2 z z2!mf! A | B2 e c2 A | (Bf) e c2 A | F2 F"^cresc." (^Ge) G | A2 A B2 z | %15
+w: Wach- tel schlägt _ im|Korn, die|Ler- che jauchzt mit|Ju- * bel- schlag wohl|ü- berm hel- * len,|grü- nen Hag,|
+ z6 |$ z2 z z2!f! e | e2 e (ec) A | E3 z2 z | z6 | z6 | z6 |$ z2 z z2!p! A | f2 f f2 e | %24
+w: |der|Jä- ger bläst _ in's|Horn.||||Frau|Nach- ti- gall ruft|
+ (d{ed}c) B e2 z | z2 A B2 c | d2 B c2 z |$ z2 z z2!f! A | e2 A A2!mf! A |"^dim." A3- A2 d | %30
+w: sü- * ssen Schall,|durch's Laub ein|Flü- stern  zieht,|das|E- cho tönt im|Wi- * der-|
+!mp! A6- | A3 z2 z | z2 A!<(! B2 B |$ (Be) B c2 c!<)! | d6- | d3 z2 B | d3- d2 d | f3 d3 | %38
+w: hall,~|_|es klingt und|singt _ all ü- ber-|all,|_ das|ist~ _ ein|Früh- lings-|
+ A2 z!f! A3 |$ d3 f3 | a6- | a3 c3 | d2 z z2 z | z6 |[Q:1/4=100] z6 | z6 |] %46
+w: lied, das|ist ein|Früh-|* lings-|lied.||||
+V:2
+!p! ((([FG-d] | [EGc]))) z (([D=G-B] [CGA])) z (([GAe] | [FAd])) z ([Ec] [DB]) z [AB-f] | %3
+ [=GBe] z (([FAd] [=EGc])) z (([DG-B] | [CGA])) z (([DGB] [CGA])) z!mf! (([FG-d] |$ %5
+ [EGc])) z (([DGB] [CGA])) z [CGA] | [DGB] z [EGc] [Fd] z!p!{/^g} a- | a2{/^g} a- a2{/g} a- | %8
+ a2{/^g} a- a2{/g} a- | a2{/^g} a- a2{/g} a- |$ a2{/^d} e- e2 z | [DE=GB]3 [CGA]3 | %12
+ [DEGB]3 [CGA]3 | [DF]3"_cresc." [E^G]3 | [EA]3 [B,EB]2!f! [EB] | [Ac]2 [EB] [CA]2 [Ac] |$ %16
+ [EB]2{/^d} e e2 [EB] | [Ac]2 [EB] [CA]2 [Ac] | [EB]3!mf! z2 [CEA] | %19
+ [B,D^G]2 [A,DF] [^G,DE]2 [DEB] | [CA]2 [B,^G] [A,F]2 [E-c] | [DEB]2 [CEA] [B,D^G]2 [A,DF] |$ %22
+ [^G,DE]>[A,DF][B,D^G] [CEA]2 [CEA] | [B,D^G] z [CA] [DGB] z [EAc] | [FAd] z [^Gde] [Ace] z A | %25
+ [^Gf]2 [Af] [Bf]2 [ce] | (3(d/e/d/ c) B [Ec]2!f! [FA] |$ [FA]2 [DF] [DF]D[DF] | [A,E]3 A2 [FA] | %29
+"_dim." [FA]2 [DF] [DF]D[DF] | [A,E]2 [FA] [FA][DF][FA] |!p! [A,E]2 [FA] [FA][DF][FA] | %32
+ [A,E]2 z!<(! [^DFB]3 |$ [EGB]3 [CEc]3!<)! |!f! [Dd]2 [df] [df]2 [Bd] | [Bd]2 [FB] [FB][DF][FB] | %36
+ [DBd]2 [df] [df]2 [Bd] | [Bd]2 [FB] [FB][DF][FB] | [DFAd]2 [df] [df][Ad][Ad] |$ %39
+ [Ad][FA][FA] [FA][DF][DF] | [DF]D[DF] [FA][Ad][df] | [fa] z z [EGAc] z z | %42
+ [DFAd] z z!mf!{/^G} !>!A3- | .A z z!p!{/^G} A3- | A z z!pp! .[Ace] z z | .[Adf] z z z2 z |] %46
+V:3
+ z | z{/^G,} A,2 z A,2 |[K:treble] z{/^G} A2 z A,2 | z{/^g} a2 z A,2 | z A,2 z A,2 |$ z A,2 z A,2 | %6
+ z A,2[K:bass] z D,[K:treble] (([FA] | [EG]2)) (([DF] [CE]2)) (=G | F2) (E D2) (A | %9
+ =G2) (F E2) (D |$ C2) ([B,D] [CE]2) z |[K:bass] z E,2 z A,2 | z E,2 z A,2 | D,6 | %14
+ [C,A,]3 [^G,,E,]2!ped! [E,B,] | [A,C]2 [E,B,] [C,A,]2 [A,C]!ped-up! |$ [E,B,]2 E E2 [E,B,] | %17
+!ped! [A,C]2 [E,B,] [C,A,]2 [A,C]!ped-up! | [E,B,]3 E,3- | E,6 | z{/^D} E2 z2 z | %21
+[K:treble] z{/^d} e2 z{/d} e2- |$ e3- e2 z |[K:bass] z A,2 z A,2 | z A,2 z A,2 | z A,3 A,2- | %26
+ A, A,3 A,!ped! z |$ x4 F, x!ped-up! | z6!ped! | z6!ped-up! | z6!ped!!ped-up! | z6!ped!!ped-up! | %32
+ z2 z [A,B,]3 |$ [G,B,]3 [^A,,G,^A,]3 |!ped! [B,,F,B,]2 [DF] [DF]2 [B,D] | %35
+ [B,D]2 [F,B,] [F,B,][D,F,][F,B,]!ped-up! |!ped! [^G,,,^G,,]2 [DF] [DF]2 [B,D] | %37
+ [B,D]2 [F,B,] [F,B,][D,F,][F,B,]!ped-up! |!ped! [A,,,A,,]2 [DF] [DF][A,D][A,D] |$ %39
+ [A,D][F,A,][F,A,] [F,A,][D,F,][D,F,] | [D,F,][A,,D,][D,F,] [F,A,][A,D][DF] | %41
+[I:staff -1] [DF][I:staff +1] z!ped-up! z [A,,A,] z z | [D,,D,] z z z2 .A,, | .D, z z z2 .A,, | %44
+ .D, z z z2 .A, | .D z z z2 z |] %46
+V:4
+ x | x6 | x6 | x6 | x6 |$ x6 | x5 (d | c2) (B A2) (e | d2) (c B2) (f | e2) (d c2) (B |$ %10
+ A2) (^G A2) x | x6 | x6 |[I:staff +1] A,3 B,3 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | %23
+ x6 | x6 | [B,D]2 [CE] [DE]2 E |[I:staff -1] F2 [E^G] A2 x |$ x5 z | x6 | %29
+ x4[I:staff +1] F,[I:staff -1] z | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | %40
+ x[I:staff +1] A, x4 | x6 | x3[I:staff -1] z!p! z .[A,E] | .[DF] x2 z z .[A,E] | .[DF] x5 | x6 |] %46
+V:5
+ x | x6 |[K:treble] x6 | x6 | x6 |$ x6 | x3[K:bass] x2[K:treble] x | z A,3 A,2- | A, A,3 A,2- | %9
+ A, A,3 A,2- |$ A, A,3 A,2 |[K:bass] x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | %21
+[K:treble] x6 |$ x6 |[K:bass] x6 | x6 | x6 | x6 |$ z6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | %36
+ x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %46

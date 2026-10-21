@@ -1,0 +1,33 @@
+X:1
+T:Chorale 366:
+T:O Welt, ich muss dich lassen
+T:Chorale 366:
+T:O Welt, ich muss dich lassen
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+L:1/8
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ c/B/ | A B c/d/ e | d2 !fermata!c c/d/ | e e B c/B/ | A2 !fermata!G E |$ A B c/B/ c/d/ | %6
+ !fermata!B2 z c/B/ | A B c/d/ e | d2 !fermata!c c/d/ |$ e e B c/B/ | A2 !fermata!G E | %11
+ A B c/d/ e/d/ | c B !fermata!A |] %13
+V:2
+ AG | F3 G A3 E | F2 E2 E2 A2 | AG AB GF E2 | E2 ^D2 E2 B,2 |$ EF G2 AG AB | G4 z2 G2 | %7
+ F2 E2 ED C2 | CB,/A,/ B,2 A,2 A2 |$ Bc BA GF G2 | GF/E/ F2 E2 ED | CD CB, A,2 A2 | EF B,E C2 |] %13
+V:3
+ E | F/E/ D E A, | A, G, A, E | E E E/D/ C | C B, B, G, |$ A, D E/D/ E/F/ | E2 z ^E | %7
+ C/D/ C/B,/ A, A, | A,/ F E/ E F |$ E B, B,/A,/ G,/F,/ | E,/ C B,/ B, C/B,/ | A, G,/F,/ E,3/2 F,/ | %12
+ G,/ A, G,/ E, |] %13
+V:4
+ A,2 | DC B,2 A,2 C,2 | B,,2 E,2 !fermata!A,,2 A,B, | C2 C,D, E,2 A,G, | %4
+ F,2 B,,2 !fermata!E,2 E,D, |$ C,D, C,B,, A,,2 A,D, | !fermata!E,4 z2 C,2 | F,2 G,2 A,B, A,G, | %8
+ F,2 G,2 !fermata!A,2 F,2 |$ G,A, G,F, E,F, E,^D, | C,2 ^D,2 !fermata!E,2 C,2 | %11
+ F,2 E,D, C,B,, C,D, | E,D, E,2 !fermata!A,,2 |] %13

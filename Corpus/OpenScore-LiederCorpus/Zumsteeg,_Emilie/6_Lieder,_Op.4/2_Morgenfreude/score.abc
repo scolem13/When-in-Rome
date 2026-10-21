@@ -1,0 +1,53 @@
+X:1
+T:6 Lieder, Op.4
+T:Morgenfreude
+C:Emilie Zumsteeg
+Z:Theodor Körner
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=108
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:1
+"^Alla Polacca" z2 z |: G A B | c3 (e/d/) (c/B/) (A/G/) | !wedge!G !wedge!c z c d e | %4
+w: |1. Ich bin er-|wacht! im * Ro- * sen- *|schim- mer strahlt mir der|
+ ((d g) (g/^f/)) (e/d/) (d/c/) (B/A/) | G2 z2 z G |$ !>!^G E !>!B E !>!e d | (d/c/B/A/) d z z c | %8
+w: jun- * * * ge * Früh- * lings- *|tag; es|treibt mich aus dem en- gen|Zim- * * * mer, mich|
+ (B !>!d2) (e/d/) A (e/d/) | G (B/A/) G z[Q:1/4=100] z"^etwas gezogen" G | !>!A G !>!c B !>!e d |$ %11
+w: ruft _ der * Sehn- sucht *|Glo- cken- * schlag. noch|freut mich nicht der Son- ne-|
+ (c/B/d/c/) B z z G | !>!_A G !>!c B !>!d c | B z z2 z"^voriges Zeitmass"[Q:1/4=108] G | %14
+w: pran- * * * gen, die|glü- hend durch die Wol- ken|bricht, für|
+ c c c (d/c/) (=B/c/) (d/c/) |$ !wedge!c !wedge!f !fermata!z (e/d/) (=B/d/) (c/A/) | %16
+w: mich ist sie nicht * auf- * ge- *|gan- gen, denn * mei- * ne *|
+ G3 (=A/G/) D (A/G/) | E E!<(! e4- | e!<)! (d/c/) (B/d/) (c/A/) (G/D/) (A/G/) |$ C3 z z2 | z6 | %21
+w: Son- ne * ist es *|nicht, denn mei-|* ne * Son- * ne * ist * es *|nicht.||
+ z6 | z2 z :| %23
+w: ||
+V:2
+ [G,CE]"_staccato".[G,CE]/.[G,CE]/ .[G,CE] |: .[G,CE].[G,DF].[G,DF] | %2
+ [G,CE].[G,CE]/.[G,CE]/ .[G,CE].[G,CE] .[G,DF].[G,DF] | %3
+ [G,CE].[G,CE]/.[G,CE]/ .[G,CE].[G,CE] .[A,CE].[A,CE] | %4
+ [B,DG].[B,DG]/.[B,DG]/ .[B,DG].[B,DG] .[CD^F].[CDF] | %5
+ [B,DG].[B,DG]/.[B,DG]/ .[B,DG].[B,DG] .[B,DG].[B,DG] |$ %6
+ .[B,D^G].[B,DG] .[B,DG].[B,DG] .[B,DG].[B,DG] | .[CA].[CEA] .[CDA].[CDA] .[CDA].[CDA] | %8
+ [B,D=G].[B,DG]/.[B,DG]/ .[B,DG].[B,DG] .[CDA].[CDA] | .[B,DG].[D^F].[DG] [d^fb]/a/[Bdg] z | %10
+ !>![B,D].G, !>![D=F].G, !>![FA].G, |$ .[EG].G, .[DF].G, .[CE].G, | %12
+ !>![B,D].G, !>![DF].G, !>![F_A].G, | .[DF].G, .[B,D].G, .[DF].G, | %14
+ .[G,CE].[A,C=F] .[_B,CG].[A,CF] .[G,CE].[B,CG] |$ %15
+ !wedge![A,CF]!wedge![A,CD] !fermata!z [A,D][A,C_E][A,CE] | .[C=E].G,.[CE].G, [B,=F]G, | %17
+ [G,CE][^G,DE] [A,CE][B,DE] [CE][CE] |!f! [CE]4 [CD][B,=F] |$ %19
+ [CE].[G,CE]/.[G,CE]/.[G,CE] [Gg][Aa][Bb] | !wedge![cc'] !>![ee']2 (d'/c'/) (b/d'/)(c'/a/) | %21
+{/a} !wedge!g!>!g z/ (g/{/b}!>!a/g/ !wedge!d/)g/ (3(!>!b/a/g/) | !wedge!c z!f! [cegc'] :| %23
+V:3
+ [C,,C,].C,.C, |: .C,.C,.C, | C,.C, .C,.C, .C,.C, | [C,,C,].C, .C,.C, .A,,.A,, | %4
+ D,.D,.D,.D, .D,,.D,, | G,,.G,, .G,.G, .=F,.F, |$ .E,.E, .E,.E, .E,.E, | .A,.A, .^F,.D,.F,.D, | %8
+ G,.D,.G,.D, .^F,.D, | .G,.[C,C].[G,B,][I:staff -1] [Dc]G[I:staff +1] z | G,,6 |$ G,,6 | G,,6 | %13
+ G,,6 | .C,.C, .C,.C, .C,.C, |$ !wedge!F,,!wedge!F, !fermata!z F,^F,F, | G, z z2 G,,2 | %17
+!<(! C,B,, A,,^G,,A,,=G,,!<)! |!f! ^F,,4 G,,G,, |$ [C,,C,].C,.C, [C,E,G,C][C,F,G,B,][C,F,G,B,] | %20
+ .[C,E,G,C].[C,E,G,C].[C,E,G,C].[C,E,G,C] !>![F,A,CD]!>![^F,A,C^D] | %21
+ [G,CE].[G,CE]/.[G,CE]/!wedge![G,CE](!>![G,CE] [G,B,F])(!>![G,B,F] | !wedge![CE]) z [C,C] :| %23

@@ -1,0 +1,100 @@
+X:1
+T:Schwanengesang (D.975)
+T:Am Meer
+C:Franz Schubert
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 6 ) | ( 4 5 ) }
+L:1/4
+Q:1/4=45
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+L:1/8
+V:2 bass nm="Piano"
+L:1/16
+V:3 bass 
+V:6 bass 
+V:4 bass 
+L:1/16
+V:5 bass 
+V:1
+"^Sehr langsam" z8 | z4 z2 !fermata!z c | c3 c e2 dc | B3 d c3 c | f3 f e2 dc |$ %5
+w: |Das|Meer er- glänz- te *|weit hin- aus im|letz- ten A- bend- *|
+ (G7/2 B/4A/4) G2 z c | c2 c c e2 d c | B3 d c3 c | f3 f e2 B c | d4 c2 z2 |$ z8 | z4 z2 z G | %12
+w: schei- * * ne, wir|sa- ssen am ein- sa- men|Fi- scher- haus, wir|sa- ssen stumm und al-|lei- ne.||Der|
+ G3 G d4 | z2 z d d3 d |$ ^c4 z2 c2 | f2 e3/2 e/ d2 ^c2 | d4 D2 z2 | z4 z2 z _A | G3 B dB Gd |$ %19
+w: Ne- bel stieg,|das Was- ser|schwoll, die|Mö- ve flog  hin und|wie- der;-|aus|dei- nen Au- * gen *|
+ d3 c c2 z2 | !>!e2 d A !>!e2 dA | c4 B2 z2 | z4 z2 z c | c3 c e2 d c | B3 d c3 c |$ f3 f e2 dc | %26
+w: lie- be- voll,|fie- len die Thrä- nen *|nie- der.|Ich|sah sie fal- len auf|dei- ne Hand, und|bin auf's Knie ge- *|
+ (G7/2 B/4A/4) G2 z c | c3 c e2 dc | B3 d c3 c | f3 f e2 Bc | d4 c2 z2 |$ z8 | z4 z2 z G | %33
+w: sun- * * ken, ich|hab' von dei- ner *|weiss- en Hand die|Thrä- nen fort ge- *|trun- ken.||Seit|
+ G3 G d2 d2 |$ z2 z d d2 d e | ^c4 z2!mp! c2 | f2 e2 d2 ^c2 | d4 D2 z2 | z4 z2 z!pp! _A |$ %39
+w: je- ner Stun- de|ver- zehrt sich mein|Leib, die|See- le stirbt vor|Seh- nen;|mich|
+ G3 G G d e3/2 f/ | (f2 e2) z2 z e | !>!e2 d A !>!e2 dA | (c2 B3/4c/8B/8A/B/) c2 z2 | z8 | %44
+w: hat das un- glück- sel' ge|Weib * ver-|gif- tet mit ih- ren *|Thrä- * * * * * nen.||
+ !fermata!z8 |] %45
+w: |
+V:2
+!p!!>(! C16!>)! |!>(! (([^D,^F,C-]8!>)! !fermata![E,G,C]6))!pp! [E,CE]2 | %2
+ ([E,CE]6 [E,CE]2 [G,EG]4 [F,DF]2[E,CE]2) | ([D,B,D]6 [F,DF]2 [E,CE]6) [E,CE]2 | %4
+!>(! ([A,FA]6 [A,FA]2!>)! [G,EG]4 [F,DF]2[E,CE]2) |$[K:C] [D,B,D]12 [E,CE]4 | %6
+ ([E,CE]6 [E,CE]2 [G,EG]4 [F,DF]2[E,CE]2) | ([D,B,D]6 [F,DF]2 [E,CE]6) [E,CE]2 | %8
+!>(! ([A,FA]6!>)! [A,FA]2 [G,EG]4 [D,B,D]2[E,CE]2) | ([F,DF]8 [E,E]4)!ppp! x4 |$ ([F,DF]8 [E,E]8) | %11
+[K:treble]!pp! [C_E]/G,/[CE]/G,/[CE]/G,/[CE]/G,/ [CE]/G,/[CE]/G,/[CE]/G,/[CE]/G,/ [CE]/G,/[CE]/G,/[CE]/G,/[CE]/G,/ [CE]/G,/[CE]/G,/[CE]/G,/[CE]/G,/ | %12
+ !///-![DG]4 G,4 !///-![DG]4 G,4 | !///-![DG]4 G,4"_cresc." !///-![DG]4 G,4 |$ %14
+!<(! !///-![^CG]4 A,4 !///-![CE_B]4!<)! _B,4 | %15
+!>(! !///-![DFA]2 A,2 !///-![EG]2 _B,2 !///-![DF]2 A,2!>)! !///-![^CE]2 A,2 | %16
+!p! !///-![A,D]4 F,4 !///-![A,D]4 F,4 |"_dim." !///-![_A,D]4 F,4 !///-![A,D]4 F,4 | x12 D2F2 |$ %19
+!p!!>(! [G,G]8!>)!!pp! [G,EG]8 | %20
+!p!!>(! (([_B,^CG]4!pp! [A,DF]4))!>)!!p!!>(! (([B,CG]4!pp! [A,DF]4))!>)! |!pp! (E4 _E4 D8) | %22
+[K:bass]!ppp! (E,4 _E,4) x8 | ([E,CE]6 [E,CE]2 [G,EG]4 [F,DF]2[E,CE]2) | %24
+ ([D,B,D]6 [F,DF]2 [E,CE]6) [E,CE]2 |$!>(! ([A,FA]6 [A,FA]2!>)!!pp! [G,EG]4 [F,DF]2[E,CE]2) | %26
+ [D,B,D]12 [E,CE]4 | ([E,CE]6 [E,CE]2 [G,EG]4 [F,DF]2[E,CE]2) | %28
+ ([D,B,D]6 [F,DF]2 [E,CE]6) [E,CE]2 |!>(! ([A,FA]8!>)!!pp! [G,EG]4 [D,B,D]2[E,CE]2) | %30
+ ([F,DF]8 [E,E]4)!ppp! x4 |$ ([F,DF]8 [E,E]8) | %32
+[K:treble]!pp! [C_E]/G,/!pp![CE]/G,/[CE]/G,/[CE]/G,/!pp! [CE]/G,/!pp![CE]/G,/[CE]/G,/[CE]/G,/!pp! [CE]/G,/!pp![CE]/G,/[CE]/G,/[CE]/G,/!pp! [CE]/G,/!pp![CE]/G,/[CE]/G,/[CE]/G,/ | %33
+ !///-![DG]4 G,4 !///-![DG]4 G,4 |$!pp! !///-![DG]4"_cresc." G,4 !///-![DG]4 G,4 | %35
+!p!!<(! !///-![^CG]4 A,4 !///-![CE_B]4 _B,4!<)! | %36
+!>(! !///-![DFA]2 A,2 !///-![EG]2 _B,2 !///-![DF]2 A,2 !///-![^CE]2!>)! A,2 | %37
+!p! !///-![A,D]4 F,4 !///-![A,D]4 F,4 |"_dim." !///-![_A,D]4 F,4 !///-![A,D]4 F,4 |$ %39
+ [F,G,D]8!<(! (G,2F2G2>!<)!_A2) |!>(! (_A4!>)! G12) | %41
+!pp!!>(! (([_B,^CG]4 [A,DF]4))!>)!!pp!!>(! (([B,CG]4 [A,DF]4))!>)! | %42
+[K:bass]!pp! ([G,=CE]4 [F,G,D]4 [E,G,C]8) |!pp!!>(! C16!>)! |!ppp!!>(! C16!>)! |] %45
+V:3
+ ([^D,^F,]2 [E,G,]2) | x4 | x4 | x4 | x4 |$[K:C] x4 | x4 | x4 | x4 | z (!>!B, C) [D,B,D]/[E,CE]/ |$ %10
+ z (!>!B, C2) |[K:treble] x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | [F,G,D]2!<(! [G,G] [G,G]!<)! |$ %19
+ (F3/2 E/) x2 | x4 | =C2 =B,2 |[K:bass] ([C,G,-]2 [B,,D,G,]3/2)!pp! [=E,C=E]/ | x4 | x4 |$ x4 | %26
+ x4 | x4 | x4 | x4 | z (!>!B, C) [D,B,D]/[E,CE]/ |$ z (!>!B, C2) |[K:treble] x4 | x4 |$ x4 | x4 | %36
+ x4 | x4 | x4 |$ x2 G,2 | G,4 | x4 |[K:bass] x4 | ([^D,^F,]2 [E,G,]2) | %44
+ (!fermata![^D,^F,]2 !fermata![E,G,]2) |] %45
+V:4
+ (_A,,8 G,,8) | ([C,,-_A,,C,-]8 !fermata![C,,G,,C,]6) [C,,G,,C,]2 | %2
+"^molto ligato" [C,,G,,C,]8 [C,,G,,C,]8 | ([G,,,G,,]8 [C,,C,]8) | [C,,C,]12 [C,,C,]4 |$ %5
+[K:C] [G,,,G,,]12 [C,,G,,C,]4 | [C,,G,,C,]8 [C,,G,,C,]8 | ([G,,,G,,]8 [C,,C,]8) | %8
+ [C,,C,]12 [C,,C,]4 | ([G,,,G,,]8 [C,,C,]4) z4 |$ ([G,,,G,,]8 [C,,C,]8) | %11
+ C,/_E,/C,/E,/C,/E,/C,/E,/ C,/E,/C,/E,/C,/E,/C,/E,/ C,/E,/C,/E,/C,/E,/C,/E,/ C,/E,/C,/E,/C,/E,/C,/E,/ | %12
+ !///-!B,,4 D,4 !///-!B,,4 D,4 | !///-!_B,,4 D,4 !///-!B,,4 D,4 |$ %14
+ !///-!A,,4 E,4 !///-![A,,E,]4 G,4 | %15
+ !///-!A,,2 F,2 !///-![A,,E,]2 G,2 !///-![A,,D,]2 F,2 !///-![A,,^C,E,]2 G,2 | %16
+ !///-![D,,A,,]4 D,4 !///-![D,,A,,]4 D,4 | !///-![C,,_A,,]4 C,4 !///-![C,,A,,]4 C,4 | %18
+!pp! [B,,,G,,B,,]8 [B,,,G,,B,,]4 [B,,,G,,B,,]4 |$ [C,,G,,C,]8 [C,,G,,C,]8 | [F,,,F,,]8 [F,,,F,,]8 | %21
+ [G,,,G,,]16 | [G,,,G,,]8- [G,,,G,,]6 [C,,G,,C,]2 | [C,,G,,C,]8 [C,,G,,C,]8 | %24
+ ([G,,,G,,]8 [C,,C,]8) |$ [C,,C,]8 [C,,C,]8 | [G,,,G,,]12 [C,,G,,C,]4 | [C,,G,,C,]8 [C,,G,,C,]8 | %28
+ ([G,,,G,,]8 [C,,C,]8) | [C,,C,]12 [C,,C,]4 | ([G,,,G,,]8 [C,,C,]4) z4 |$ ([G,,,G,,]8 [C,,C,]8) | %32
+ C,/_E,/C,/E,/C,/E,/C,/E,/ C,/E,/C,/E,/C,/E,/C,/E,/ C,/E,/C,/E,/C,/E,/C,/E,/ C,/E,/C,/E,/C,/E,/C,/E,/ | %33
+ !///-!B,,4 D,4 !///-!B,,4 D,4 |$ !///-!_B,,4 D,4 !///-!B,,4 D,4 | %35
+ !///-!A,,4 E,4 !///-![A,,E,]4 G,4 | %36
+ !///-!A,,2 F,2 !///-![A,,E,]2 G,2 !///-![A,,D,]2 F,2 !///-![A,,^C,E,]2 G,2 | %37
+ !///-![D,,A,,]4 D,4 !///-![D,,A,,]4 D,4 | !///-![C,,_A,,]4 C,4 !///-![C,,A,,]4 C,4 |$ %39
+!pp! [B,,,G,,B,,]8 [G,,B,,]8 | [C,,G,,C,]16 | [F,,,F,,]8 [F,,,F,,]8 | [G,,,G,,]8 [C,,G,,C,]8 | %43
+ (_A,,8 G,,8) | (!fermata!_A,,8 !fermata!G,,8) |] %45
+V:5
+ [C,,C,]4 | x4 | x4 | x4 | x4 |$[K:C] x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %17
+ x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | %36
+ x4 | x4 | x4 |$ x2 B,,,2 | x4 | x4 | x4 | [C,,C,]4 | [C,,C,]4 |] %45
+V:6
+ x4 | x4 | x4 | x4 | x4 |$[K:C] x4 | x4 | x4 | x4 | x4 |$ x4 |[K:treble] x4 | x4 | x4 |$ x4 | x4 | %16
+ x4 | x4 | x4 |$ x4 | x4 | G,4 |[K:bass] x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | %32
+[K:treble] x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |[K:bass] x4 | x4 | x4 |] %45

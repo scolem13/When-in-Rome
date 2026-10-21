@@ -1,0 +1,46 @@
+X:1
+T:Kinderszenen
+T:Hasche-Mann
+C:Robert Schumann
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/16
+Q:1/4=120
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+L:1/8
+V:4 bass 
+L:1/4
+V:1
+ (B4 c).d.e.f | !>!.a.g.f.e !>!.g.f.e.d | (e4 f).g.a.b | !>!.d'.c'.b.^a ([fb]d) .B.F |$ %4
+ (B4 c).d.e.f | !>!.a.g.f.e !>!.g.f.e.d | (e4 f).g.a.b | !>!.d'.c'.b.^a ([fb]d) .B.F ||$ %8
+ (g4 A).B.c.d | .f.e.d.=c .B.A.G.F | (G4 F).G.A.B | .d.=c.B.A .G.F.E.^D |$ (E4 DE=FG) | %13
+ (E4 =FGAB) | =c4 [^Ae]4- | [Ae]8 |$ (B4 c).d.e.f | !>!.a.g.f.e !>!.g.f.e.d | (e4 f).g.a.b | %19
+ !>!.d'.c'.b.^a ([fb]d) .B.F ||$ (g4 A).B.c.d | .f.e.d.=c .B.A.G.F | (G4 F).G.A.B | %23
+ .d.=c.B.A .G.F.E.^D |$ (E4 DE=FG) | (E4 =FGAB) | =c4 [^Ae]4- | [Ae]8 |$ (B4 c).d.e.f | %29
+ !>!.a.g.f.e !>!.g.f.e.d | (e4 f).g.a.b | !>!.d'.c'.b.^a b4 |] %32
+V:2
+ (FD).B,.F, x4 | x8 | (BG).E.B, x4 | x8 |$ (FD).B,.F, x4 | x8 | (BG).E.B, x4 | x8 ||$ (dB).G.D x4 | %9
+ x8 | (EB,).G,.E, x4 | x8 |$ (=CG,).E,.=C, =D2B,2 | (=CG,).E,.=C, =F2D2 | (GE) x2 (^AE) x2 | x8 |$ %16
+ (FD).B,.F, x4 | x8 | (BG).E.B, x4 | x8 ||$ (dB).G.D x4 | x8 | (EB,).G,.E, x4 | x8 |$ %24
+ (=CG,).E,.=C, =D2B,2 | (=CG,).E,.=C, =F2D2 | (GE) x2 (^AE) x2 | x8 |$ (FD).B,.F, x4 | x8 | %30
+ (BG).E.B, x4 | x8 |] %32
+V:3
+"m" B,,/ z/ x .B,,.[F,D] |"m" .E,.[B,E]"m".B,,.[B,D] |"m" E,/ z/ x .E,.[EG] | %3
+"" .F,"".[E^A]"m" .B,/ z/ x |$"C{" B,,/ z/ x .B,,.[F,D] |"m" .E,.[B,E]"m".B,,.[B,D] | %6
+"m" E,/ z/ x .E,.[EG] |"" .F,"".[E^A]"m" .B,/ z/ x ||$"" B,/ z/ x .B,.[DG] | %9
+"m" .A,.[=CG]"".D,"".C |"m" z x"m" .B,,.[G,B,] |"m" .A,,.[F,=C]"".B,,"".[F,A,] |$ %12
+"" z x"" !>![=C,,G,,]2- |"" [C,,G,,]2"" !>![=C,,G,,]2- |"" [C,,G,,] .=C/.G,/"m" z (^G,/=A,/ | %15
+!<(! ^A,/B,/^B,/C/ D/^D/E/^E/)!<)! |$"m" z x .B,,.[F,D] |"m" .E,.[B,E]"m".B,,.[B,D] | %18
+"m" E,/ z/ x .E,.[EG] |"" .F,"".[E^A]"m" .B,/ z/ x ||$"" B,/ z/ x .B,.[DG] | %21
+"m" .A,.[=CG]"".D,"".C |"m" z x"m" .B,,.[G,B,] |"m" .A,,.[F,=C]"".B,,"".[F,A,] |$ %24
+"" z x"" !>![=C,,G,,]2- |"" [C,,G,,]2"" !>![=C,,G,,]2- |"" [C,,G,,] .=C/.G,/"m" z (^G,/=A,/ | %27
+!<(! ^A,/B,/^B,/C/ D/^D/E/^E/)!<)! |$"m" z x .B,,.[F,D] |"m" .E,.[B,E]"m".B,,.[B,D] | %30
+"m" E,/ z/ x .E,.[EG] |"" .F,[K:treble]"".[E^A]"m" [B,DB]2 |] %32
+V:4
+ x2 | x2 | x2 | x2 |$ x2 | x2 | x2 | x2 ||$ x2 | x2 | x2 | x2 |$ x2 | x2 | x [F,,F,]- | [F,,F,]2 |$ %16
+ x2 | x2 | x2 | x2 ||$ x2 | x2 | x2 | x2 |$ x2 | x2 | x [F,,F,]- | [F,,F,]2 |$ x2 | x2 | x2 | %31
+ x/[K:treble] x3/2 |] %32

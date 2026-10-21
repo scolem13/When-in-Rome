@@ -1,0 +1,70 @@
+X:1
+T:Die schöne Müllerin
+T:Morgengruß
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 4 7 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=75
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Singstimme"
+V:2 treble 
+L:1/4
+V:3 treble nm="Pianoforte"
+V:4 treble 
+V:7 treble 
+V:5 bass 
+V:6 bass 
+V:1
+"^Mässig." z6 | z6 | z6 | z4 |:1!p! G |:!p! G | G3 e d c |$ G3/2 B/4A/4 G2 z G | G3 e f/e/ d/c/ | %9
+w: ||||Gu-|ten|Mor- gen, schö- ne|Mül- le- * rin! wo|steckst du gleich * das *|
+w: |||||O|lass mich nur von|fer- ne * steh'n, nach|dei- nem lie- * ben *|
+w: |||||Ihr|schlum- mer- trunk' nen|Äu- ge- * lein, ihr|thau- be- trüb- * ten *|
+w: |||||Nun|schüt- telt ab der|Träu- me * Flor, und|hebt euch frisch * und *|
+ A3/2 ^c/ d3 f | f3 B{d/} (3cB c | e2 d2 z2 | z2 z2 z[Q:1/4=70] d |$ d3 d d d | ^c3/2 e/ e3 A/B/ | %15
+w: Köpf- chen hin, als|wär' dir was * ge-|sche- hen?|Ver-|driesst dich denn mein|Gruss so schwer? ver- *|
+w: Fen- ster seh'n, von|fer- ne, ganz * von|fer- ne!|Du|blon- des Köpf- chen|komm her- vor, her- *|
+w: Blü- me- lein, was|scheu- et ihr * die|Son- ne?|Hat|es die nacht so|gut ge- meint, dass *|
+w: frei em- por in|Got- tes hel- * len|Mor- gen!|Die|Ler- che wir- belt|in der Luft, und *|
+ =c3 c c c | B3/2 d/ !fermata!d3 G | e3 e (3dc B |$ c2 G2 z G | e3 e (3dc B | %20
+w: stört dich denn mein|Blick so sehr? So|muss ich wie- * der|ge- hen, so|muss ich wie- * der|
+w: vor aus eu- rem|run- den Thor ihr|blau- en Mor- * gen-|ster- ne, ihr|blau- en Mor- * gen-|
+w: ihr euch schliesst und|bückt und weint nach|ih- rer stil- * len|Won- ne, nach|ih- rer stil- * len|
+w: aus dem tie- fen|Her- zen ruft die|Lie- be Leid * und|Sor- gen, die|Lie- be Leid * und|
+ c2 G3/2 G/[Q:1/4=65] (3f[Q:1/4=64]"^.4"e[Q:1/4=63]"^.9" d |[Q:1/4=63]"^.3" f6 | %22
+w: ge- hen,   wie- * der|ge-|
+w: ster- ne, ihr Mor- * gen-|stern-|
+w: Won- ne, nach ih- * rer|Won-|
+w: Sor- gen, * Leid * und|Sor-|
+[Q:1/4=58]"^.3" e2[Q:1/4=56]"^.7" z2[Q:1/4=75] z2[Q:1/4=55]"^.8" | z6 | z2 !fermata!z2 :| %25
+w: hen.|||
+w: ne!|||
+w: ne?|||
+w: gen.|||
+V:2
+ x3 | x3 | x3 | x2 |:1 z/ |: G/ | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ %18
+ x3 | x3 | x G x | x3 | x3 | x3 | x2 :| %25
+V:3
+ (G3 edc) | (G3/2B/4A/4 G7/2) G/ | (Gc) (DA) (DG) | [CE]4 |:1 x |: x | (([CE]6 |$ [B,F]6)) | %8
+ [CE]6 | (D6 | (F3) B, C2) |!>(! ([A,CE]2!>)! [B,D]2){d/} (3cBc | (([Ace]2 [Bd]2)) z2 |$ %13
+ z (DGdGD) | z (EA^cAE) | z (=CF=cFC) | z DG-B- !fermata!B z | z2 z2 z G |$ (e4 (3dcB) | %19
+ c2 G2 z G | (e4 (3dcB) |!>(! (([DGB]6!>)! | [EGc]3)) ([CE] (3[DF][CE][B,D]) | %23
+!>(! (([G,-B,FG-]6!>)! | !fermata![G,CEG]4)) :| %25
+V:4
+ [EG]6 | F4- F>F | E2 D2 B,2 | x2 z2 |:1 x |: x | x6 |$ x6 | x6 | (A,6 | B,4) C2 | x4 (3z z G | %12
+ x6 |$ x6 | x6 | x6 | x D3- [DG] x | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x4 :| %25
+V:5
+!p! [C,G,C]6 | [D,G,B,]4- [D,G,B,]>[D,G,B,] | [E,G,C]2 [F,A,C]2 [G,,G,]2 | [C,G,]4 |:1 x |: x | %6
+!p! (([C,G,]6 |$ [D,G,]6)) | [E,G,]6 | (F,6 | ([D,F,]4) [E,G,]2) |!mp! (^F,2!p! G,2) (3z z [G,E] | %12
+ (^F2 G2) z2 |$!pp! _B,6 | A,6 | _A,6 | G,4- !fermata!G, z |!pp! (3E,G,C (3E,G,C (3F,G,B, |$ %18
+ (3E,G,C (3E,G,C (3F,G,B, | (3E,G,C (3E,G,C (3F,G,B, | (3E,G,C (3E,G,C (3F,G,B, |!mp! ([C,G,]6- | %22
+!pp! [C,G,C]3) z G,,2 |!mp! ([C,,-G,,-D,]6 |!pp! !fermata![C,,G,,C,]4) :| %25
+V:6
+ x6 | x6 | x6 | x2 z2 |:1 x |: x | x6 |$ x6 | x6 | (F,,6 | (_A,,2) G,,4) | G,,4 (3x x x | G,4 x2 |$ %13
+ x6 | x6 | x6 | x6 | C,6 |$ C,6 | C,6 | C,6 | x6 | x6 | x6 | x4 :| %25
+V:7
+ x6 | x6 | x6 | x4 |:1 x |: x | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x x G2 x x | %17
+ x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x4 :| %25

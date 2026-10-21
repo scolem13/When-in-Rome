@@ -1,0 +1,32 @@
+X:1
+T:Chorale 79:
+T:Heut triumphieret Gottes Sohn
+T:Chorale 79:
+T:Heut triumphieret Gottes Sohn
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ c c d | e2 d | c2 B | !fermata!c3 | c c c | (d c) B | A2 ^G | !fermata!A2 B |$ c2 d | %9
+ (e3/2 f/) g | (f e) d | !fermata!e3 | e e e | d2 d | (e d) c | !fermata!B3 |$ B B ^c | (d =c) B | %18
+ A2 ^G | !fermata!A2 B | c2 d | e2 e | e ^d2 | !fermata!e3 |] %24
+V:2
+ E/F/ G G | G2 F | E D2 | E3 | F G F | F E D | E F E | E2 E |$ E2 G | G2 G | c B A | ^G3 | %12
+ A =G/F/ G/A/ | B G A | B2 A | ^G3 |$ =G/A/ G/F/ E | D E F | E F E | E2 ^G | A2 =G | G2 ^F | %22
+ ^F ^G A | ^G3 |] %24
+V:3
+ C C B, | C B, A, | G, A, G, | G,3 | A, G, A, | ^G, A, B, | C B,2 | C2 ^G, |$ A,/B,/ C B, | C2 D | %10
+ C E F | B,3 | C C C | D/C/ D/E/ F | E2 E | E3 |$ E E A, | A,2 ^G, | A, D B, | C2 E | E F D | %21
+ C2 C | B,2 B, | B,3 |] %24
+V:4
+ A, E, G, | C,2 D, | E, F, G, | !fermata!C,3 | F, E, F, | B,, C, D, | C, D, E, | %7
+ !fermata!A,,2 E, |$ A,2 G, | C2 B, | A, G, F, | !fermata!E,3 | A, E, C, | G, B, A, | ^G,2 A, | %15
+ !fermata!E,3 |$ E,/D,/ E,/F,/ G, | F, E, D, | C, D, E, | !fermata!A,,2 E, | A,2 B, | C B, A, | %22
+ B,2 B,, | !fermata!E,3 |] %24

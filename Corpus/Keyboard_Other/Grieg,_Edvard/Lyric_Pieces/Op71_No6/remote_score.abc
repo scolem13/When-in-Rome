@@ -1,0 +1,62 @@
+X:1
+T:Lyric Pieces
+T:Forbi
+C:Edvard Grieg
+%%score { ( 1 4 5 ) | ( 2 3 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Midi_1"
+V:4 treble 
+V:5 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Andante dolorodo"!p! (!>![GB] | [F^A] [=F=A]!<(! [E^G] ([_E=G]!<)! | %2
+!>(! F) =F!>)! !courtesy!=E) !>!B | (E !courtesy!^F G)!<(! (!>!d/c/)!<)! |$ %4
+!>(! (E F!>)! G) (!>![!courtesy!=ce] | [B^d] [_B=d] [A^c]!<(! ([_E_A=c]!<)! | %6
+ B)!>(! _B!>)! !courtesy!=A) !>!e |$ (A !courtesy!=B c)!<(! (!>!!courtesy!=g/=f/)!<)! | %8
+!>(! (A B!>)! c) z |"_molto" z[K:bass]"^ben tenuto" ^A,3 | %10
+{/G,-} [G,B,]/[F,^A,]/"_rit."!>(! !>!B,2!>)! ||$"^a tempo\ncon moto"!p! (B,, | %12
+ C, [^C,A,] [D,_B,]!<(! [^D,=B,] | [E,C]!<)!!>(! [G,^C] [F,D])!>)![K:treble] !>!A | %14
+ (D E F)!<(! (!>!^c/B/)!<)! | (D!>(! E!>)! F) (F, |$ G,!<(! [^G,E] [A,=F] [^A,^F] | %17
+ [B,G]!<)! [D^G] [^CA]) !>!e | (A B ^c)!<(! (!>!^g/f/)!<)! | (A!>(! B!>)! ^c) !>!c |$ %20
+"_cresc." (E F ^G) (!>!^d/^c/) |"^più cresc." (E F ^G/) z/!f! A | !>!^C2 !>!^D2 |$ %23
+ E/^D/"_rit."!>(! !>!E2!>)!"^a tempo"!p! (!>![!courtesy!=ce] | [B^d] [_B=d] [A^c]!<(! [_A-=c]!<)! | %25
+ B!>(! _B!>)! A) !>!e | (A B c)!<(! (!>!g/=f/)!<)! |$ (A B c)!f! (!>![=fa] | %28
+ [e^g] [_e=g] [d!courtesy!^f]!<(! ([_A_d=f]!<)! | e)!>(! _e!>)! d) !>!a |$ %30
+ (d e!<(! =f)!<)! (!>!!courtesy!=c'/_b/) | (d!>(! e!>)! =f) z | %32
+ z"^ben ten." ([B,G] [^A,F] [=A,=F] |"^ritard."{/C-} [CE]/[B,^D]/) E2 |] %34
+V:2
+"" z |"" z"" !>!C"" B,"" (_B, |"m" ^A,)"m""" =A,"m" G,"" z | %3
+"m" ([C,E,]"" [B,,^D,]"m" [E,,B,,])"m" z |$"m""m" !arpeggio!E,"" ^D,/^C,/"m" B,,"m" z | %5
+"" z"" !>!=F"" E"" !>!C, |"m""m" =F,3/2"" E,/-"m" [A,,E,]"" z |$ %7
+"m" ([=F,A,]"" [E,^G,]"m" [A,,E,])"m" z |"m""m" !arpeggio!A,"" ^G,/^F,/"m" E,"C{" [A,,,A,,] | %9
+!<(! ([^G,,,^G,,]/[=G,,,=G,,]/)!<)!"m""""" [F,,,F,,]3- | %10
+"""" [F,,,F,,]"m""" (!arpeggio!G,,"m" F,,) ||$"" z |"m""" z2"" z"" G,, | %13
+"" ^G,,"" A,,-"" [D,,A,,]"" z |"" ([B,,D,]"" [A,,^C,]"" [D,,A,,])"" z | %15
+"" !arpeggio!D,"" ^C,/B,,/"" A,,"" z |$"m""" z2"" z"" D, |"" ^D,"" E,-"" [A,,E,]"" z | %18
+"" ([F,A,]"" [E,^G,]"" [A,,E,])"" z |"" !arpeggio!A,"" ^G,/F,/"" E,"m" z |$ %20
+ z"m" (([A,,^C,]"" [^G,,^D,]))"m" z | z"m" (^D,/^C,/"" E,/D,/)"" z | z A,,"" B,,"" ^C,- |$ %23
+"" C,"" ^D,/""^C,/"" B,,"m" z |"""""" x3"" !>!C, |"m""m" =F,3/2"" E,/-"m" [A,,E,]"" z | %26
+"m" ([=F,A,]"" [E,^G,]"m" [A,,E,])"m" z |$"m" !arpeggio!A,"" ^G,/^F,/"m" E,"m" z | %28
+"""""" x3"" !>!=F, |"m""m" _B,3/2"" A,/-"m" [D,A,]"" z |$"m" ([_B,D]"" [A,^C]"m" [D,A,])"m" z | %31
+"m" !arpeggio!D"" ^C/=B,/"m" A,"C{" [D,,D,] | ([^C,,^C,]/[=C,,=C,]/)"""""" [B,,,B,,]3- | %33
+"""" [B,,,B,,]"m""" (C,"m" B,,) |] %34
+V:3
+ x | x3 !>!G,, | C,3/2 B,,/- [E,,B,,] z | x4 |$ (!courtesy!=D,/C,/ B,, E,,) z | x4 | x4 |$ x4 | %8
+ (!courtesy!=G,/=F,/ E, A,,) x | x4 | x B,,,2 ||$ x | x4 | x4 | x4 | (^C,/B,,/ A,, D,,) z |$ x4 | %17
+ x4 | x4 | (^G,/F,/ E, A,,) z |$ x4 | x{/A,,-} A,, ^G,, z | z x B,,,2 |$ E,,3 z | x4 | x4 | x4 |$ %27
+ (!courtesy!=G,/!>(!=F,/ E, A,,)!>)! z | x4 | x4 |$ x4 | (!courtesy!=C/_B,/ A, D,) x | x4 | %33
+ x !arpeggio![E,,,E,,]2 |] %34
+V:4
+ x | x4 | ^D2 !courtesy!=E z | (A,2 G,) z |$ (A,2 G,) x | x4 | ^D =D C x |$ D2 x2 | (D2 C) z | %9
+ z[K:bass] [F,D] [^E,^C] [=E,=C] | x (E,/^D,/ =D,) ||$ x | x4 | x3[K:treble] x | (G,2 F,) x | %15
+ (G,2 F,) x |$ x4 | x4 | (D2 ^C) x | (D2 ^C) x |${/^C-} (C2 ^B,) x |{/^D-} D/^C/- C ^B, x | %22
+ A,!<(! F, G, A,-!<)! |$ A, B,/A,/ ^G, x | z !>!=F E (_E | ^D) =D C x | (D2 C) x |$ (D2 C) x | %28
+ z !>!_B A x | ^G =G =F x |$ (G2 =F) x | (G2 =F) z | z ^D3 | x (A,/^G,/!p! =G,) |] %34
+V:5
+ x | x4 | x4 | x4 |$ x4 | x4 | ^G2 x2 |$ x4 | x4 | x[K:bass] x3 | x3 ||$ x | x4 | x3[K:treble] x | %14
+ x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | ^G2 x2 | x4 |$ x4 | x4 | ^c2 x2 |$ x4 | %31
+ x4 | x4 | x3 |] %34

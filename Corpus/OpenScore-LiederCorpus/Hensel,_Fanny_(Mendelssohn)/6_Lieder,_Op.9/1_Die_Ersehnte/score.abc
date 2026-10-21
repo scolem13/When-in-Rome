@@ -1,0 +1,53 @@
+X:1
+T:6 Lieder
+T:Die Ersehnte
+C:Fanny (Mendelssohn) Hensel
+Z:Ludwig Christoph Heinrich Hölty
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=130
+M:12/8
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+L:1/8
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Andante con moto" z12 |: e3- e2 G G3 F2 G | A3 B3 c3 d3 | (e3- edc) B3 z3 |$ e3- e2 G G3 F2 G | %5
+w: |1.~Bräch * te dich mei- nem|Arm der näch- ste|Früh * * * ling!|Tön- * ten Vö- gel aus|
+w: |~2.~Won- * ne! sie wird mir|Pa- ra- die- se|zau- * * * bern!|wird * lust- wand- eln mit|
+w: |3.~Komm, * dich ru- fet die|Seh- suchts- thrän im|Au- * * * ge!|dich * dies wal- len- de|
+ A3 B3 _c3 D3 | (E3- EGF) E3 z3 | F3 z2 F _G3 G3 |$ =A3 A2 A B3 c3 | (c3 B3) (c3 d3) | %10
+w: Blü- ten mir das|Braut- * * * lied,|dann, dann hätt' ich|Se- li- ger schon auf|Er- * den *|
+w: mir in Gär- ten|Got- * * * tes,|wird in mei- nen|Ar- men ge- wiegt den|Früh- * lings- *|
+w: Herz voll süs- ser|Ahn- * * * dung,|trü- be floss mein|Le- ben, o Him- mels-|bo- * tin, *|
+ (e6- eag) (fd) e | (e6 B6) | E3 z2 z z6 :|$ z12 |] %14
+w: Won- * * * ne * des|Him- *|mels.||
+w: a- * * * bend * be-|flü- *|geln.||
+w: komm, _ _ _ es * zu|hei- *|tern.||
+V:2
+[I:staff +1] G,B,[I:staff -1]EGE[I:staff +1]B, G,B,[I:staff -1]EGE[I:staff +1]B, |: %1
+ [G,B,][I:staff -1]_DEGED B,DEGED | CEAG,_DE A,CEA,_CF | %3
+[I:staff +1] G,B,[I:staff -1]E[I:staff +1]F,A,[I:staff -1]E[I:staff +1] G,B,[I:staff -1]EGE[I:staff +1]B, |$ %4
+ G,B,[I:staff -1]EGE[I:staff +1]B,[I:staff -1] z[I:staff +1] B,[I:staff -1]EGE[I:staff +1]B, | %5
+[I:staff -1] _CEAB,EG A,CFA,CF | %6
+[I:staff +1] G,B,[I:staff -1]E[I:staff +1]A,_C[I:staff -1]E[I:staff +1] G,B,[I:staff -1]EGE[I:staff +1]B, | %7
+ F,B,[I:staff -1]DFD[I:staff +1]B, _G,B,[I:staff -1]E_GE[I:staff +1]B, |$ %8
+ _G,[I:staff -1]CE_GEC[I:staff +1] F,B,[I:staff -1]DFD[I:staff +1]B, | %9
+ A,B,[I:staff -1]FAFD B,DFBFD | B,EB=B,E=B CEAcAE | %11
+ [G,G]B,E[_G,_G]B,E[I:staff +1] F,A,[I:staff -1]E[I:staff +1]F,A,[I:staff -1]D | %12
+[I:staff +1] G,B,[I:staff -1]EGE[I:staff +1]B, G,B,[I:staff -1]EGE[I:staff +1]B, :|$ %13
+[I:staff -1] z12 |] %14
+V:3
+ [E,,E,]6 |: [E,,E,]6 | [E,,E,]6 | [E,,E,]6 |$ [E,,E,]6 | [E,,E,]6 | [E,,E,]6 | B,,6 |$ B,,6 | %9
+ [D,,B,,D,]3 [A,,A,]3 | [G,,G,]3 [A,,A,]3 | B,,6 | [E,,E,]6 :|$ [E,,B,,E,G,]6 |] %14
+V:4
+ x6 |: x6 | x6 | x6 |$ _D3 D3 | x6 | x6 | x6 |$ x6 | x6 | x6 | x3 F3/2 F3/2 | E3/2 z z/ z3 :|$ %13
+ x6 |] %14
+V:5
+ x6 |: x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ z3 D,3 | x6 | x6 | x6 | x6 :|$ x6 |] %14

@@ -1,0 +1,35 @@
+X:1
+T:Chorale 216:
+T:Es ist genug
+T:Chorale 216:
+T:Es ist genug
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+L:1/8
+V:3 bass 
+V:4 bass 
+V:1
+ A2 B c | !fermata!^d2 z d | e B B d | !fermata!c3 B | c/^d/ e e d |$ !fermata!e2 A2 | %6
+ B c !fermata!^d2 | z ^d e B | B =d !fermata!c2 | z B c/^d/ e |$ e ^d !fermata!e2 | z B B B | %12
+ c B d c | c2 !fermata!B2 | z B B B |$ c B d c | c2 !fermata!B2 | z e c B | !fermata!A2 z e | %19
+ c B !fermata!A2 |] %20
+V:2
+ E4 E2 DC | G4 z2 G2 | G3 AG FG E | A6 G2 | AB c2 B2 A/G/A |$ G4 E4 | E2 E2 F4 | z2 FG/A/ GF GA | %8
+ B2 G2 A4 | z2 F2 =GA B2 |$ BA/^G/ AF G4 | z2 GA BA BG | A2 B2 A2 A2 | AGAF G4 | z2 F2 B,2 B2 |$ %15
+ ^A2 =A2 G2 A2 | AF ^D2 E4 | z2 E2 E2 FG | F4 z2 B2 | A2 G2 E4 |] %20
+V:3
+ C2 B, F | F2 z ^B, | C/^D/ E E E | E3 E | E/F/ =G F B, |$ B,2 C2 | B, A, A,2 | z B, B, E | %8
+ E E E2 | z ^D E/F/ =G |$ F B, B,2 | z E E E | E E F E | E ^D E2 | z ^D E =F |$ E =D E ^F | %16
+ E/A,/ F, G,2 | z B, A, A,/G,/ | C2 z E | E D/4C/4D/ C2 |] %20
+V:4
+ A,2 G, ^A, | !fermata!^B,2 z G, | C/B,/4A,/4 G,/F,/ E,/D,/C,/B,,/ | !fermata!A,,3 E, | %4
+ A, ^A, B, B,, |$ !fermata!E,2 A,2 | G, =G, !fermata!F,2 | z B,, E,3/2 F,/ | %8
+ G, F,/E,/ !fermata!A,2 | z A, =G,/F,/ E, |$ B, B,, !fermata!E,2 | z E,/F,/ G,/F,/G,/E,/ | %12
+ A,/B,/A,/G,/ F,/G,/A,/A,,/ | E,2 !fermata!E,2 | z A, G, =G, |$ F, =F, E, ^D, | E,2 !fermata!E,2 | %17
+ z G, A,/C,/^D,/^E,/ | !fermata!F,2 z G, | A, E, !fermata!A,,2 |] %20

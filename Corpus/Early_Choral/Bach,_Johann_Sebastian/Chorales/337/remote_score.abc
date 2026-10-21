@@ -1,0 +1,34 @@
+X:1
+T:Chorale 337:
+T:O Gott, du frommer Gott (melody #2)
+T:Chorale 337:
+T:O Gott, du frommer Gott (melody #2)
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ A | A B/c/4d/4 c B/4A/4B/ | !fermata!A A/B/ c F | G A G2 |$ !fermata!F A A B/c/4d/4 | %5
+ c B !fermata!A A/B/ | c F G A/>B/ | G2 !fermata!F G |$ G A B B/>c/ | !fermata!A A G c/d/4_e/4 | %10
+ d c/=B/ !fermata!c c |$ c/B/ A B c/d/4_e/4 | !fermata!d G A A | G/A/4B/4 G !fermata!F |] %14
+V:2
+ E/F/4G/4 | F F F/E/4D/4 E | F F/D/ G/E/ F/D/ | E F D E |$ C F F F/G/ | E/ F E/ F F | %6
+ F/_E/ D =E F | F E C D |$ E (F F/)E/4D/4 E | F _E D G | F/_A/ G/F/ =E G |$ F F F F | F E F (F | %13
+ F/)E/4D/4 E C |] %14
+V:3
+ ^C | D D/B,/ A,/G,/4F,/4 C | C C/D/ E A,/F,/ | C C B, G, |$ A, C D D/B,/ | B,/A,/ G,/C/ C F,/G,/ | %6
+ A,/G,/ F, C C | C/B,/4A,/4 B,/G,/ A, D/=B,/ |$ C C D/C/4B,/4 C | C C =B, C | C/F/ D C =E |$ %11
+ C C D C | B, C C D | D/E/4F/4 E/G,/ A, |] %14
+V:4
+ A,,2 | D,C, B,,2 C,2 C,2 | !fermata!F,,2 F,2 E,2 D,2 | C,B,, A,,F,, B,,G,, C,C,, |$ %4
+ !fermata!F,,2 F,E, D,C, B,,G,, | C,2 C,2 !fermata!F,,2 D,2 | A,,2 B,,2 B,A, G,F, | %7
+ C,2 C,2 !fermata!F,2 =B,,G,, |$ C,2 _B,,A,, G,,2 C,2 | !fermata!F,2 ^F,2 =F,2 _E,F,/G,/ | %10
+ _A,G,/F,/ G,G,, !fermata!C,2 C_B, |$ A,G, F,_E, D,C, B,,A,, | !fermata!B,,2 C,2 F,E, D,C, | %13
+ B,,G,, C,2 !fermata!F,2 |] %14

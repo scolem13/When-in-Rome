@@ -1,0 +1,33 @@
+X:1
+T:Chorale 361:
+T:Ermuntre dich, mein schwacher Geist
+T:Chorale 361:
+T:Ermuntre dich, mein schwacher Geist
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+L:1/8
+V:3 bass 
+L:1/8
+V:4 bass 
+V:1
+ G | G A B/^c/ d | d ^c !fermata!d B | =c B A B | A2 !fermata!G :|$ A | A B c c | %7
+ B/A/ B !fermata!A B | B B c/d/ e | e ^d !fermata!e f |$ g B c B | A2 !fermata!A d | e d c B/c/ | %13
+ A2 !fermata!G |] %14
+V:2
+ D2 | E2 F2 DE F2 | EF G2 F2 F2 | E2 DE F2 G2 | G2 F2 D2 :|$ FG | A3 ^G AG A2 | A2 ^G2 E2 E^D | %8
+ E2 E2 EF GF | FG A2 G2 A2 |$ GA B2 BA AG | G4 F2 GF | E2 F2 GA D2 | E2 D2 D2 |] %14
+V:3
+ B,2 | B,C C D B,A, A,2 | A,2 A,2 A,2 B,A, | G,A, B,C D2 D2 | D3 C B,2 :|$ DE | FE D2 E2 F2 | %7
+ B,2 ED C2 =G,A, | B,C DE C2 ^C2 | B,2 B,2 B,2 D2 |$ D2 G2 G,A, B,2 | EDE^C D2 D2 | %12
+ DC CB, B,A, G,2 | G,F,/E,/ F,2 B,2 |] %14
+V:4
+ G,/F,/ | E, D, G, F,/G,/ | A, A,, !fermata!D, ^D, | E,/F,/ G,/C,/ C/B,/ A,/G,/ | %4
+ D D, !fermata!G, :|$ D, | D/C/ B, A, ^D, | E, E, !fermata!A,, E,/F,/ | G, ^G, A, ^A, | %9
+ B, B,, !fermata!E, D/C/ |$ B,/A,/ G,/F,/ E,/F,/ G,/E,/ | ^C,/B,,/C,/A,,/ !fermata!D, B,, | %12
+ C, D, E,/F,/ G, | C, D, !fermata!G,, |] %14

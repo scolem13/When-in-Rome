@@ -1,0 +1,43 @@
+X:1
+T:Sonata da chiesa
+T:Largo
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3 4
+L:1/8
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm="organ"
+V:2 treble nm="cello"
+V:3 bass nm="violn"
+V:4 bass nm="violn"
+V:1
+ c4 e4 | dG g2 c2 c'2- | c'2 =b2 c'2 z f | d _B2 e c _A2 d |$ =BG c4 B2 | c3 e d3 (e/d/) | %6
+ c3 (d/c/) =Bd g2- | g2 f2 e2 c2 |$ d3 g ec c'2 | b4 _a4 | g3 =a ^fd g2- | g2 ^f2 g2 z c |$ %12
+ de=fg ec z _a | f d2 g e c2 f | d B2 e cd e>e |$ e2 d2 e4 | B2 d2 cF z2 | c2 e2 dG g2- | %18
+ g2 f2 e4 |$ d2 g4 ^f2 | g3 b _a3 (b/a/) | g3 (_a/g/) f3 (g/f/) |$ e3 (f/e/) de d>d | %23
+ c2 e2 dG g2- | g2 f2 e4 | d4 c2 c2- |$ c2 =B2 c4 :| %27
+V:2
+ z8 | z4 z2 z c | defg ec _a2- | ad g2- gc f2- |$ f2 e2 d4 | c2 _a2- a(b/a/) g2- | %6
+ g(_a/g/) f2 g2 b2 | =ad d'2 g2 c'2- |$ c'2 b4 _a2- | a2 g4 f2- | f2 e2 d2 z G | ABcd BG c2- |$ %12
+ c2 =B2 c2 c'2- | c'f _b2- be _a2- | a2 g2 _ab g>g |$ f4 E2 G2 | FB, z2 F2 _A2 | GC z2 G2 B2 | %18
+ AD d4 c2- |$ c2 B2 A4 | Gd g2- gc f2- | fB e2- e(d/c/) d2- |$ dG c4 =B2 | c4 G2 _B2 | %24
+ AD d2- dG c2- | c2 =B2 c2 _A2 |$ D4 C4 :| %27
+V:3
+"m""""m" z8 |"m""m""m""""m""m" z8 |"""""m""""m" z8 |"m""m""""m""m""m" z8 |$ %4
+"" z2"" z C,"" D,E,""F,G, |"m" E,C,"" C2"m""m" B,4 |"m""m" _A,4"""m" G,4 | %7
+"m" D,2"m" =B,,2"m" C,2 E,2 |$"m" D,G,,"m" G,2"m" C,2"m" F,E, |"" D,B,,""E,D,"" C,2"m" D,2 | %10
+"" E,2"m""m""" C,4"m" B,,""E, |"" D,2"" D,,2"m" G,,2"m" _A,,_A, |$"" G,2"" G,,2"m" C,3"" C, | %13
+"""" D,3"m" B,,"""" C,3"m" _A,, |"m""m" B,,3"" G,"m""m" F,2"" E,2 |$"" B,2"" B,,2"" E,4 | %16
+"" D,2"" B,,2"m" _A,,2"m" F,2 |"m" E,2"m" C,2"" G,2"m" G,,2 |"m""m" D,4"m""m" z4 |$ %19
+"m" z2"m" z G,"" A,B,""CD |"m" B, G,2"" E"m" C"m" _A,2"" D |"" B,"" G,2"" C"m" _A,"m" F,2"m" B, |$ %22
+"m" G,"m" E,2"m" _A,"m" F,"m"E,/D,/"" G,G,, |"m" C,4"""m" z4 |"m""m" z4"m" z2"m" z C, | %25
+"" D,E,""F,G,"m" E,C,"m" F,2 |$"" G,2"" G,,2"m" C,4 :| %27
+V:4
+ C,2 CB, _A,2 C2- | C2 B,G, _A,2 E,C, | G,2 G,,2 C,3 _A, | B,3 G, _A,3 F, |$ G,4 G,,4 | %5
+ C,2 C2 B,4 | _A,4 G,2 G,,2 | D,2 =B,,2 C,4 |$ G,,4 C,2 F,E, | D,B,,E,D, C,2 D,2 | E,2 C,4 B,,E, | %11
+ D,2 D,,2 G,,2 _A,,_A, |$ G,2 G,,2 C,3 C, | D,3 B,, C,3 _A,, | B,,3 G, F,2 E,2 |$ B,2 B,,2 E,4 | %16
+ D,2 B,,2 _A,,2 F,2 | E,2 C,2 G,2 G,,2 | D,2 =B,,2 C,4 |$ G,,4 D,4 | G,3 E C _A,2 F, | %21
+ B, G,2 C _A, F,2 B, |$ G, E,2 _A, F,E,/D,/ G,G,, | C,4 =B,,2 G,,2 | D,2 =B,,2 C,4 | %25
+ G,,4 C,2 F,2 |$ G,2 G,,2 C,4 :| %27

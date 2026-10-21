@@ -1,0 +1,42 @@
+X:1
+T:6 Lieder, Op.9
+T:Der Maiabend
+C:Fanny (Mendelssohn) Hensel
+Z:Johann Heinrich Voss
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=90
+M:9/8
+I:linebreak $
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Allegretto" A | c2 B d3 B3 | d3/2 B/ c e2 c d2 e | f2 e _g3 e3 |$ a3/2 =g/ f e2 d c2 z | %5
+w: 1. Um-|weht von Mai\- duft,|un- ter des Blü- then- baums Hell\-|dun\- kel sehn wir|A- bend- ge- wölk' ver- glüh'n,|
+w: 2. Lau|war die Dämm'- rung,|trau- li- cher scherz- ten wir, mit|nach- ge- ahm- ter|Fröh- lich- keit bald ver- stummt,|
+ z2 E _G3 F3 | d2 c e2 c A2 _G |$ F3/2 =G/ A B3/2 c/ d e2 e | (a6- a=gf | e=d_dcBdfeG) | %10
+w: des vol- len|Mond's Auf- gang er- war- tend|und~ Phi- lo- me- len- ge- säng' im|Thal- * * *||
+w: in hol- dem|Tief- sinn sass das Mägd- lein,|flü- ster- te wol- len wir gehn, und|ging _ _ _|_ _ _ _ _ _ _ _ _|
+[Q:1/4=85] A3 z2 z z2[Q:1/4=80] z | z6 z2 z |] %12
+w: busch.||
+w: nicht.||
+V:2
+!mf! A | [Ac]2 B d3 B3 | [Ad]>Bc e2 c d2 e | f2 e _g3 e3 |$ [Ada]>=gf [Ge]2 d [Ac]2!mp! [Dd] | %5
+ [Ff]2 [Ee] [_G_g]3 [Ff]3 | [Fd]2 [_Gc] e2 c [CA]2 G |$ %7
+!<(! [DF]>[DF=G][DFA] [B,EB]>[EBc][EBd] [EBe]>[Ff][Gg]!<)! |!>(! [_Gea]6 [Fd]3 | %9
+ [Gdg]6- [Gdg]3!>)! |!p! [CA]2!>(! [DA] c2 B [CA]2 [DA] | c2 B!>)!!pp! [CA]3 z2 z |] %12
+V:3
+ C | [A,E]2 D F3 D3 | F>DE _G2 E F2 C | D2 C E3 C3 |$ [A,F]>ED [A,C]2 B, A,2 F, | A,2 _G, B,3 A,3 | %6
+ D2 E C3 A,3 |$ [D,A,]>[D,A,][D,A,] [D,G,B,]>[D,G,B,][D,G,B,] [D,G,B,]>[D,G,B,][D,G,B,] | %8
+ [C,A,E]6 [D,A,D]3 | [E,B,D]6- [E,B,D]3 | [A,,E,]2 [F,,E,] E,3 [A,,E,]2 [F,,E,] | %11
+ E,3 [A,,E,]3 z2 z |] %12
+V:4
+ x | x3 A6 | x3 A6 | A3 A6 |$ x9 | x9 | x3 E3 x3 |$ x9 | x9 | x9 | x3 D3 x3 | D3 x6 |] %12
+V:5
+ x | x3 A,6 | A,3 A,6 | A,3 A,6 |$ x9 | D,3 D,6 | D,3 D,6 |$ x9 | x9 | x9 | x3 E,,2 G,, x3 | %11
+ E,,2 G,, x6 |] %12

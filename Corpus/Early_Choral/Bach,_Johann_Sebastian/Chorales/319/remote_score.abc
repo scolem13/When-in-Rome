@@ -1,0 +1,36 @@
+X:1
+T:Chorale 319:
+T:Heilig, heilig
+T:Chorale 319:
+T:Heilig, heilig
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="S,A" snm="Pno"
+L:1/4
+V:2 treble 
+L:1/16
+V:3 bass 
+V:4 bass 
+V:1
+ c A G2 | !fermata!F2 c d | !fermata!c2 f f | e e d3/2 c/ |$ !fermata!c2 c d | c B !fermata!A2 | %6
+ z G A/=B/ c | c =B !fermata!c2 |$ c d B B | A B A G | !fermata!F2 z A | G2 !fermata!F c | %12
+ c =B !fermata!c f |$ f e d2 | !fermata!c2 c d/c/ | B B A B/A/ | G2 !fermata!F2 |] %17
+V:2
+ F4 (F4 F2)ED E4 | C8 G4 G4 | G8 F4 G4 | G4 E2FG A6 GF |$ E8 F4 F4 | E4 D2C2 C8 | z4 E2G2 F4 E4 | %7
+ A2GF G4 G8 |$ A4 A6 GF (G4 | G2)FE (F4 F2)ED E4 | C8 z4 F4 | F4 E4 D4 G4 | A4 G2F2 E4 F4 |$ %13
+ G4 G4 A4 G2F2 | E8 F4 F2E2 | D4 C4 C2DE (F4 | F2)ED E4 C8 |] %17
+V:3
+ A,B, C2 CG, CB, | A,4 C3 =B, | E4 A,2 D2 | DC/=B,/ C2 CB,/A,/ B,2 |$ G,4 A,2 _B,A, | %5
+ G,2 F,G, A,4 | z2 C2 C2 C2 | D2 DE/F/ E4 |$ F2 F2 D2 C2 | C2 B,D C3 B, | A,4 z2 C2 | %11
+ C3 B, A,2 G,2 | D2 D2 C2 C2 |$ D2 DC C=B,/A,/ B,2 | G,4 A,2 A,2 | B,A, G,2 F,A, D2 | %16
+ DB, G,C/B,/ A,4 |] %17
+V:4
+ F,,G,,A,,B,, C,4 | !fermata!F,,4 E,C, G,G,, | !fermata!C,4 D,C, =B,,G,, | C,E, A,G, F,D, G,G,, |$ %4
+ !fermata!C,4 F,2 _B,,2 | C,2 D,E, !fermata!F,4 | z2 C,E, F,G, A,G, | F,D, G,G,, !fermata!C,4 |$ %8
+ F,E, D,F, G,F, E,C, | F,E, D,B,, C,2 C,,2 | !fermata!F,,4 z2 F,2 | C,4 !fermata!D,2 E,2 | %12
+ F,2 G,2 !fermata!A,2 A,2 |$ =B,2 C2 F,2 G,2 | !fermata!C,4 F,E, D,F, | G,F, E,C, F,E, D,C, | %16
+ B,,G,, C,2 !fermata!F,,4 |] %17

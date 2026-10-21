@@ -1,0 +1,36 @@
+X:1
+T:Sonata da chiesa
+T:Vivace
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3 4
+L:1/16
+Q:1/4=132
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="StringInstrument" snm="Str"
+V:2 treble nm="StringInstrument" snm="Str"
+V:3 bass nm="StringInstrument" snm="Str"
+V:4 bass nm="Keyboard" snm="Kb"
+L:1/4
+V:1
+ agfe dcBA e4 f4 | e6 a2 ^f4 e4 | ^d4 e=dcB A4 fedc |$ B4 A4 ^G4 a=gfe | dcBA d2>e2 e8 :: %5
+ bagf edcB g4 z4 | agfe dcBA f4 z4 |$ gfed cBAG e4 z4 | agfe dcBA dcBA GFED | C4 c8 B4 |$ %10
+ c4 z4 BABc dcde | f4 z4 c'bag fedc | B4 z4 cded cBA=G |$ F4 z4 defe dcBA | ^G4 z cBA Bedc B2>A2 | %15
+ A4 z4 bagf edcB |$ e4 z4 agfe dcBA | ^G4 z4 (a=gfe) (dcBA) | T^d8 e8 :| %19
+V:2
+ z16 | edcB AGFE B4 c4 | BAG^F E4 cBA^G A4 |$ ^G4 A4 B4 e4 | A6 ^G2 G8 :: z8 edcB AGFE | %6
+ c4 z4 dcBA GFED |$ B4 z4 cBAG FEDC | c4 z4 fedc BAGF | E4 _e4 d8 |$ c4 z4 GFGA BABc | %11
+ d4 z4 agfe dcBA | ^GABA G^FED C4 z4 |$ fgag fedc B4 z4 | be^f^g a8 g4 | agfe dcBA d4 z4 |$ %16
+ gfed cBAG f4 z4 | edcB A^G^FE c4 z4 | TA8 ^G8 :| %19
+V:3
+ z16 | z16 | z8 A,G,F,E, D,C,B,,A,, |$ E,4 F,4 E,4 C,4 | F,8 E,8 :: z8 C,8 | F,8 D,8 |$ E,8 A,,8 | %8
+ F,8 D,8 | E,4 F,4 G,4 G,,4 |$ C,B,,C,D, E,D,E,F, G,8 | D,C,D,E, F,E,F,G, A,8 | %12
+ E,^F,^G,F, E,D,C,B,, A,,8 |$ D,8 D,8 | E,4 A,,4 E,4 E,,4 | A,,8 B,,8 |$ C,8 D,8 | E,8 F,8 | %18
+ ^F,8 E,8 :| %19
+V:4
+"m" A,,2"m" C,"m" D, |"m" C,2"m" D,"m" A,, |"" B,,"" ^G,,"m" A,,"m" D, |$"" E,"m" F,"" E,"m" C, | %4
+"m" F,2"" E,2 ::"" z2"" C,2 |"" F,2"m" D,2 |$"m" E,2"m" A,,2 |"" F,2"m""m" D,2 | %9
+"" E,"" F,"" G,"" G,, |$"" C,2"" G,2 |"m" D,2"m" A,,2 |"" E, E,,"m" A,,2 |$"m" D,2"m" D,2 | %14
+"" E,"m" A,,"" E,"" E,, |"m" A,,2"" B,,2 |$"""m" C,2"m""m" D,2 |"" E,2"""m" F,2 |"m" ^F,2"" E,2 :| %19

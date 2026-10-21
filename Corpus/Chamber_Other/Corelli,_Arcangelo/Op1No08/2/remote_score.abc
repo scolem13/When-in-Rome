@@ -1,0 +1,41 @@
+X:1
+T:Sonata da chiesa
+T:Allegro
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3 4
+L:1/16
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm="organ"
+V:2 treble nm="cello"
+V:3 bass nm="violn"
+L:1/8
+V:4 bass nm="violn"
+L:1/8
+V:1
+ g4 z gfe d2e2 d2>d2 | c2 g4 gf e2G2 c2>=B2 | =B4 z4 g6 g2 |$ f6 f2 e6 e2 | d8 e8 | =e8 f8 | %6
+ g8 _a4 g4- |$ g4 f4 g8 :: gdg_a gfed e4 z4 | fcfg fedc d4 z4 |$ %10
+ (b_a)(gf) (ed)(cB) (gf)(ed) (cB)(_AG) | F2G2 F2>F2 E8 | b_agf edcB gfed cB_AG |$ F2G2 F2>F2 E8 | %14
+ edef gfga b4 z4 |$ f=efg aga=b c'4 z4 | gdg_a gf_ed e6 =e2 |$ fg_ag f_edc =B2c2 c2>B2 | %18
+ (cd)(ed) (c_B)(_AG) A6 F2 | G2>_A2 D2>D2 C8 :| %20
+V:2
+ e4 z edc =B2c2 c2>B2 | c2e2d2=B2 c2E2 F2>G2 | G4 z4 e6 e2 |$ d6 d2 c6 c2 | =B8 c8 | _B8 _A8 | %6
+ c8 c4 =B4 |$ c8 =B8 :: z8 cGcd c_B_AG | _A4 z4 BFBc BAGF |$ G4 z4 (ed)(cB) (_AG)(FE) | %11
+ D2E2 E2>D2 E8 | z8 edcB _AGFE |$ D2E2 E2>D2 E8 | z8 BABc dcd=e |$ f4 z4 c=Bcd _edef | %16
+ g4 z4 cGcd c_B_AG |$ _A6 F2 G2>A2 D2>D2 | C4 z4 (fg)(_ag) (fe)(dc) | =B2c2 c2>B2 c8 :| %20
+V:3
+"m" C,D,"m"E,F,"" G,"m"F,""G,""G,, |"m" C,C""=B,G,"m" CC,/_B,,/"m""m" _A,,2 | %2
+"" G,,2 z2"" E,,F,,""G,,=A,, |$"" B,,C,"m"D,=B,,"m" C,D,"m"E,F, |"" G,F,"m"E,D,"m" C,C_B,_A, | %5
+"m" G,_A,B,G,"m" F,G,A,F, |"" =E,F,""G,E,"m" F,2"" G,2 |$"m""m" _A,4"" G,4 :: %8
+"C{" G,2 z2"m" C,2 z2 |"m" F,2 z2"" B,,2 z2 |$"" E,2 z2"" G,,3"m" _A,, | %11
+"" B,,""_A,,"""" B,,2"" E,4 | E,2 z2"" G,,3"m" _A,, |$"" B,,""_A,,"""" B,,2"" E,4 | %14
+"C{" E,4"" D,2"" B,2 |$"m" A,2"m" F,2"m" E,2"m" C,2 |"" =B,,4"m""" C,4 |$ %17
+"m""m" F,4-"" F,"m"E,/"m"F,/"" G,""G,, |"m" C,2"" =E,2"m""m" F,4- | %19
+"" F,"m"_E,/"m"F,/"" G,""G,,"m" C,4 :| %20
+V:4
+ C,D,E,F, G,F,G,G,, | C,C=B,G, CC,/_B,,/ _A,,2 | G,,2 z2 E,,F,,G,,=A,, |$ B,,2 =B,,2 C,D,E,F, | %4
+ G,2 D,2 C,4 | G,4 F,4 | =E,2 C,2 F,2 G,2 |$ _A,4 G,4 :: G,2 z2 C,2 z2 | F,2 z2 B,,2 z2 |$ %10
+ E,2 z2 G,,3 _A,, | B,,_A,, B,,2 E,4 | E,2 z2 G,,3 _A,, |$ B,,_A,, B,,2 E,4 | E,4 D,2 B,2 |$ %15
+ A,2 F,2 E,2 C,2 | =B,,4 C,4 |$ F,4- F,E,/F,/ G,G,, | C,2 =E,2 F,4- | F,_E,/F,/ G,G,, C,4 :| %20

@@ -1,0 +1,63 @@
+X:1
+T:Eichendorff-Lieder
+T:Der verzweifelte Liebhaber
+C:Hugo Wolf
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=120
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"^Rasch und unmutig"!f! d | e2 e e2 e | A A z z2 A | d2 d d2 d |$ G z z z[Q:1/4=110]!mf! G G | %5
+w: Stu-|die- ren will nichts|brin- gen, mein|Rock hält kei- nen|Stich, mei- ne|
+w: A|stud- ent's life is|trag- ic, and|trag- ic is my|lot, for my|
+ c2 c c2 c | F F z z2!mp! F[Q:1/4=100] |[Q:1/4=90]"^sehr zurückhaltend" B2 B[Q:1/4=85] A2 G |$ %8
+w: Zi- ther will nicht|klin- gen, mein|Schatz, der mag mich|
+w: lute has lost its|mag- ic: my|love, she loves me|
+[Q:1/4=120]"^a tempo" D3 z2 z | z6 | z2 z z2!p! d | c2 B A2 G | ^F3- F G A |$ B2 B (cd) e | %14
+w: nicht.||Ich|wollt', im Grün spa-|zier- * te die|al- er- schön- * ste|
+w: not.||I|would I knew a|fair- * er, sweet|maid- en young * and|
+ d3 z2 d | d2 d =e2 e | f3- f =e d |$ c2 c (cd) =e | f3 z2 F | _G2 B (_d_g) f | =e3 e2 G |$ %21
+w: Frau, ich|wär' ein Drach' und|führ- * te sie|mit mir fort * durchs|Blau. Ich|wollt', ich jagt' * ge-|rü- stet und|
+w: true, a|drag- on, I would|bear * her to|realms in a- * zure|blue. I|would I were * a|war- rior: I'd|
+ _G2 B (_d_g) f | =e3- e z c | _e2 e e d e | e3- e d e |$ e2 g f2 d | %26
+w: legt' die Lan- * ze|aus, * und|jag- te al- le Phi-|li- * ster zur|schö- nen Welt hin-|
+w: take my lance * to|hand, * I'd|rout and fright- en the|croak- * * ers,and|drive them from the|
+ e3 z2[Q:1/4=90]"^bedeutend langsamer"!p! d | ^c2 =c (BA) G | ^F2 A- A2 d | d2 c B2 G |$ %30
+w: aus. Ich|wollt', ich läg' * jetzt-|un- der * im|Him- mel still und|
+w: land. I|would I lay * in|slum- ber, * the|dome of heav'n my|
+ d3- d2!f! D |[Q:1/4=120]"^rasch" G2 G =B2 B | ^d2 d =e3- | e =d c =B2 A | G3 z2 z |] %35
+w: weit * und|fragt' nach all' dem|Plun- der nichts|* vor Zu- frie- den-|heit.|
+w: tent, * no|care my soul to|cum- ber, rapt|* in sub- lime con-|tent.|
+V:2
+ z | z2 z [ege']3 | z!f! [d^f][dfa] [dfd'] z z | z2 z [egd']3 |$ z [ce][ceg] [cegc'] z z | %5
+ z2 z [cfc']3 | z!f! [Bd][Bdf] [Bdfb] z z | z2 z!p! [A,^CG]3 |$ z!f! DD D z z | %9
+!f! !>![ege']2 [d^fa] !>![dgd']2 [ceg] | [c^fc'][Bb][Aa] [GBg] z z | (G,CG) (G,CG) | %12
+ (A,D^F) (A,DF) |$ (B,D=F) (CEA) | (CDA) (B,DB) |!<(! [B,DB]3 [^CG^c]3 | [DFd]3 [F^Gdf]3!<)! |$ %17
+!f! [Acfa]3 [c=ebc']3 | [fac'f']3- [fac'f'] z z |!f! [B,_GB]z/[B,GB]/[B,GB] [B,GB] z z | %20
+ [C=GBc]z/[CGBc]/[CGBc] [CGBc] z z |$ [B,_GB]z/[B,GB]/[B,GB] [B,GB] z z | %22
+ [C=GBc]z/[CGBc]/[CGBc] [CGBc] z z |!<(! [E_G_Ae]z/[EGAe]/[EGAe] [EGAe]!<)! z z | %24
+!ff! [_G=Ae_g]z/[GAeg]/[GAeg] [GAeg] z z |$ [=GBe=g] z z [_Adfb] z z | %26
+ [Begb]z/[egbe']/[egbe'] [egbe'] z z |!p! (([EG]6 | [D^F]6)) | (([Gdg]6 |$ [Ad^fa]6)) | %31
+!f! [=EG] z z [D^F=B] z z | [^DG^d] z z [Gc=eg]3 | [=Bdg=b] z z z [CD^F] z | %34
+ z2 !arpeggio![G=Bdg] z2 z |] %35
+V:3
+ z | z2 z[K:treble] [Ac]3 | z [B,D^FB][B,DFB] [B,DFB] z z | z2 z [EGd]3 |$ %4
+ z [_A,E_A][A,EA] [A,EA] z z | z2 z [DF_A]3 | z [G,DG][G,DG] [G,DG] z z | z2 z[K:bass] [E,,E,]3 |$ %8
+ z [D,,D,][D,,D,] [D,,D,] z z |[K:treble] [Ac][Ac] [B,^F] [EB][EB] [_A,E] | %10
+ [D^F][K:bass] z [D,^F,C] [G,B,] z z |!p! [E,,E,]3 [E,,E,]3 | [D,,D,]3 [D,,D,]3 |$ %13
+ [D,,D,]3 [F,,F,]3 | [^F,,^F,]3 [G,,G,]3 | [_A,,_A,][G,,G,][A,,A,] [=A,,=A,][^G,,^G,][A,,A,] | %16
+ [B,,B,][A,,A,][B,,B,] [=B,,=B,][^A,,^A,][B,,B,] |$ %17
+ [C,C][=B,,=B,][_B,,_B,] [A,,A,][_A,,_A,][G,,G,] | [F,,F,]C,[F,,F,] [F,,F,] z z | %19
+ [_G,,_D,]z[G,,D,] [G,,D,] z z | [C,,=G,,]z[C,,G,,] [C,,G,,]z/[C,,G,,]/[C,,G,,] |$ %21
+ [_G,,_D,]z[G,,D,] [G,,D,] z z | [C,,=G,,]z[C,,G,,] [C,,G,,]z/[C,,G,,]/[C,,G,,] | %23
+ [C,_A,]z[C,A,] [C,A,] z z | [_C,E,_C]z[C,E,C] [C,E,C] z z |$ [B,,E,B,] z z [B,,F,B,] z z | %26
+ [E,,B,,E,]z[E,,B,,E,] [E,,B,,E,] z z | (([E,G,]6 | [D,^F,]6)) | (([E,G,E]6 |$ [D,^F,D]6)) | %31
+ [=E,=B,] z z [D,^F,B,] z z | [=B,,G,=B,] z z [C,G,C]3 | [D,G,D] z z z [D,,D,] z | %34
+ z2 [G,,D,=B,] z2 z |] %35

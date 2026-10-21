@@ -1,0 +1,26 @@
+X:1
+T:Sonata da camera
+T:Adagio
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3
+L:1/8
+Q:1/4=32
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Violin" snm="Vln."
+V:2 treble nm="Violin" snm="Vln."
+V:3 bass nm="Piano" snm="Pno."
+V:1
+"^Adagio" z8 | AAAA AA^GG | ffff eeEE | ^DDBc ^FFBB |$ BBAA AAGG | GGFF EEee | eedd ddcc | %7
+ AAaa ^g2 z2 |$ AAAA BBBB | ccdf B2 c2 | B4 A4 | e2 z2 d2 z2 | !fermata!e8 || %13
+V:2
+ z4 EEEE | EEDD CCee | eedd ddcc | BBEE EE^DD |$ cccc BBBB | ^ccdd ddcc | ffff eeee | eedd e2 EE |$ %8
+ EEDD DDEE | EEAA ^G2 A2- | A2 ^G2 A4 | B2 z2 A2 z2 | !fermata!^G8 || %13
+V:3
+"m" A,A,A,A,"" ^G,G,"m"=G,G, |"" ^F,F,"m"=F,F,"" E,E,""E,E, |"m" A,A,"m"A,A,"" ^G,G,"m"A,A, | %3
+"m" A,A,"m"G,"m"A,"" B,B,""B,,B,, |$"m" E,E,"m"E,E,"m" E,E,"m"E,E, | %5
+"m" A,,A,,""A,,A,,"" A,,A,,""A,A, |"m" D,D,"m"DD"m" ^G,G,"m"A,A, |"m" F,F,"m"F,F,"" E,2"C{" E,E, |$ %8
+"m" F,F,""^F,F,"" G,G,""^G,G, |"m" A,A,"m"F,"m"D,"m" D,2"m" ^D,2 |"""" E,4"m" A,,4 | %11
+"m" G,,2 z2"m" F,,2 z2 |"" !fermata!E,,8 || %13

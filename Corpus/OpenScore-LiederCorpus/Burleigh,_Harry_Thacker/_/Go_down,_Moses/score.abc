@@ -1,0 +1,75 @@
+X:1
+T:Go down, Moses (Let my people go!)
+C:Harry Thacker Burleigh (arranged from a traditional Negro Spiritual)
+Z:Exodus 8
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+L:1/4
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Lento" z4 | z4 | z4 | z2 z!mp! F |$ d d c c | d d B2 | F F ^A/ A3/2 | B3 F |$ d d c c | d d B2 | %10
+w: |||When|Is- rael was in|E- gypt's lan'|Let my peo- ple|go, Op-|press'd so hard they|could not stand|
+ F F ^A/ A3/2 | B3 z |$ B B3 | e!<(! e3!<)! | f2 f3/2 e/ | f (f/>e/) (d/<B/-) B |$ (d/<B/) (B2 d) | %17
+w: Let my peo- ple|go.|Go down,|Mo- ses,|'Way down in|E- gypt's _ lan', _ _|Tell * ole _|
+"^rit."[Q:1/4=50]"^T" (B/A/) !fermata!F2 z/ F/ | F F ^A/ A3/2 |$ B4 |[Q:1/4=60]"^T" z4 | z4 | z4 |$ %23
+w: Pha- * roh, to|let my peo- ple|go.||||
+ z2 z!f! F | d d c c | d d B2 |$ F F ^A/ A3/2 | B3 F | d d c c |$ d d B2 | F F ^A/ A3/2 | B3 z |$ %32
+w: Thus|saith the Lord, bold|Mo- ses said,|Let my peo- ple|go, If|not I'll smite your|first- born dead,|Let my peo- ple|go.|
+ B B3 | e!<(! e3!<)! | f2 f3/2 e/ |$ f (f/>e/) (d/<B/-) B | (d/<B/) (B2 d) | %37
+w: Go down,|Mo- ses,|'Way down in|E- gypt's _ lan', _ _|Tell _ ole _|
+"^rit."[Q:1/4=50]"^T" (B/A/) !fermata!F2 z/!p! F/ |$ F F ^A/ A3/2 |!>(! B4- | B3!>)! z |] %41
+w: Pha- * roh, to|let my peo- ple|go!|_|
+V:2
+!f! [Bd]4 [^Ac]4 | [DB]4 G4 |"_dim." F4 E4 | [B,D]4- [B,DF]4 |$ [Ff]4 [Ge]4 | (de f2) B4 | F4 ^A4 | %7
+ B8 |$ [Fdf]4 [Gce]4 | ([Bd][ce] [df]2) B4 | F4 ^A4 | B8 |$!mf! B2 B4 B2 | e2 e4 e2 | f4 f3 e | %15
+ f2 f>e d<B- B2 |$ d<B B4 d2 |"_rit." BA!>(! !fermata!F6!>)! |!p! F4 G2 F2 |$ [B,DF]4!<(! x4!<)! | %20
+"_a tempo" [Bd]4 [^Ac]4 | [DB]4 G4 | F4 E4 |$ [B,D]4- [B,DF]4 | [Ff]4 [Ge]4 | (de f2) B4 |$ %26
+ F4 ^A4 | B8 | [Fdf]4 [Gce]4 |$ ([Bd][ce] [df]2) B4 | F4 ^A4 | B8 |$!mf! B2 B4 B2 | e2 e4 e2 | %34
+ f4 f3 e |$ [Bf]2 f>e d<B- B2 | d<B B4 d2 | BA!>(! !fermata!F6!>)! |$!p! F4 G2 F2 | %39
+!pp![I:staff +1] (B,,,-F,,-^D,-F,-[I:staff -1]B,-^D-F-B- |!>(! [B^dfb]8)!>)! |] %41
+V:3
+ (GF ^E2) (FE =E2) | (DE F2) (B,C D2) | ([^A,C][B,D] [CE]2) [^G,B,]2!>(! [A,C]2 | x8!>)! |$ x8 | %5
+ F4 ([B,D][CE] [DF]2) | ([CE][B,D] [^A,C]2) ([EG][DF] [CE]2) | ([DF][EG][DF][CE]) [B,D]4 |$ x8 | %9
+ F4 ([B,D][CE] [DF]2) | ([CE][B,D] [^A,C]2) ([EG][DF] [CE]2) | ([DF][EG][DF][CE]) [B,D]4 |$ %12
+ [DF] [DF]2 [DF] [DF] [DF]2 [DF] | [EB] [EB]2!<(! [EB] [EB] [EB]2 [EB] | %14
+ [FBd] [FBd]2!<)! [FBd] [F^Ad] [FAd]2 [FAc] | [FB]2 [F^A]2 F4 |$ z [DF]2 [DF] [D^E] [DE]2 [DE] | %17
+ [DF]2 [A,D]2 [^A,C]2 !fermata![B,D]2 | [^A,D] [A,D]2 [A,D] [A,CE] [A,CE]2 [A,CE] |$ x8 | %20
+ (GF ^E2) (FE =E2) | (DE F2) (B,C D2) | ([^A,C][B,D] [CE]2) [^G,B,]2 [A,C]2 |$ x8 | x8 | %25
+ F4 ([B,D][CE] [DF]2) |$ ([CE][B,D] [^A,C]2) ([EG][DF] [CE]2) | ([DF][EG][DF][CE]) [B,D]4 | x8 |$ %29
+ F4 ([B,D][CE] [DF]2) | ([CE][B,D] [^A,C]2) ([EG][DF] [CE]2) | ([DF][EG][DF][CE]) [B,D]4 |$ %32
+ [DF] [DF]2 [DF] [DF] [DF]2 [DF] | [EB]!<(! [EB]2 [EB] [EB] [EB]2 [EB]!<)! | %34
+ [FBd] [FBd]2 [FBd] [F^Ad] [FAd]2 [FAc] |$ F2 [F^A]2 x4 | z [DF]2 [DF] [D^E] [DE]2 [DE] | %37
+ [DF]2 [A,D]2 [^A,C]2 !fermata![B,D]2 |$ [^A,D] [A,D]2!>(! [A,D] [A,CE] [A,CE]2!>)! [A,CE] | x8 | %40
+ [B,DF]8 |] %41
+V:4
+ z F,2 F, z F,2 F, | z F,2 F, z F,2 F, | z F,2 F, z F,2 F, | z F,2 F, z F,2!mp! F, |$ %4
+ (B,,F,DF,) (B,,G,CG,) | (B,,F,DF,) (B,,F,B,F,) | z F,2 F, z F,2 F, | z F,2 F,- (F,G,F,D,) |$ %8
+ (B,,F,DF,) (B,,G,CG,) | (B,,F,DF,) (B,,F,B,F,) | z F,2 F, z F,2 F, | z F,2 F,- (F,G,F,D,) |$ %12
+ [B,,B,]4 [A,,A,]4 | [^G,,^G,]4 [=G,,=G,]4 | [F,,F,]4 [E,,E,]4 | %15
+ D,,[F,B,D] C,,[F,^A,E] B,,,[F,B,D] A,,,[F,B,D] |$ z [^G,B,]2 [G,B,] z [=G,B,]2 [G,B,] | %17
+ [F,,,F,,]2 [D,,A,,D,]2 [F,,C,F,]2 !fermata![B,,F,]2 | F,4 F,,4 |$ (B,,,F,,B,,D, F,B,DF) | %20
+ z F,2 F,/F,/ z F,2 F,/F,/ | z F,2 F,/F,/ z F,2 F,/F,/ | %22
+ z"^dim." F,2 F,/F,/ z!>(! F,2 F,/F,/!>)! |$!>(! z F,2 F,/F,/ z!>)! F,2 F,/F,/ | %24
+!f! (B,,F,D/F,/D) (B,,G,C/G,/C) | (B,,F,D/F,/D) (B,,F,B,/F,/B,) |$ z F,2 F,/F,/ z F,2 F,/F,/ | %27
+ z F,2 F,/F,/- (F,G,F,D,/D,/) | (B,,F,D/F,/D/F,/) (B,,G,C/G,/C/G,/) |$ %29
+ (B,,F,D/F,/D/F,/) (B,,F,B,/F,/B,/F,/) | z F,2 F,/F,/ z F,2 F,/F,/ | %31
+ z F,2 F,/F,/- (F,G,F,D,/D,/) |$ [B,,B,]4 [A,,A,]4 | [^G,,^G,]4 [=G,,=G,]4 | [F,,F,]4 [E,,E,]4 |$ %35
+ D,,[F,B,D] C,,[F,^A,E] B,,,[F,B,D] A,,,[F,B,D] | z [^G,B,]2 [G,B,] z [=G,B,]2 [G,B,] | %37
+"^rit." [F,,,F,,]2 [D,,A,,D,]2 [F,,C,F,]2 !fermata![B,,F,]2 |$ F,4 F,,4 |!ped! x8 | %40
+ [D,F,]8!ped-up! |] %41
+V:5
+ B,,2 B,,2 | B,,2 B,,2 | B,,2 B,,2 | B,,2 B,,2 |$ B,,2 B,,2 | B,,2 B,,2 | B,,2 B,,2 | B,,4 |$ %8
+ B,,2 B,,2 | B,,2 B,,2 | B,,2 B,,2 | B,,4 |$ x4 | x4 | x4 | D,, C,, B,,, =A,,, |$ ^G,,,2 =G,,,2 | %17
+ x4 | x4 |$ x4 | B,,2 B,,2 | B,,2 B,,2 | B,,2 B,,2 |$ B,,2 B,,2 | B,,2 B,,2 | B,,2 B,,2 |$ %26
+ B,,2 B,,2 | B,,4 | B,,2 B,,2 |$ B,,2 B,,2 | B,,2 B,,2 | B,,4 |$ x4 | x4 | x4 |$ %35
+ D,, C,, B,,, =A,,, | ^G,,,2 =G,,,2 | x4 |$ x4 | x4 | [B,,,F,,]4 |] %41

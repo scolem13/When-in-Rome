@@ -1,0 +1,43 @@
+X:1
+T:Zwölf Gesänge
+T:Nach Sevilla
+C:Louise Reichardt
+Z:Clemens Brentano
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/16
+Q:1/4=120
+M:2/4
+I:linebreak $
+K:E
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+L:1/8
+V:4 bass 
+L:1/8
+V:1
+"^Lebhaft" B3 B | B2 G2 z2 e3/2 e/ | e2 B2 z2 e d |$ c3 B A2B c | c2 B2 z2 B e | ed cB B3 A | %6
+w: 1. Nach Se-|vil- la, nach Se-|vil- la, wo die|ho- hen Pracht- * ge-|bäu- de in den|brei- * ten * Stras- sen|
+w:  2. Nach Se-|vil- la, nach Se-|vil- la, wo die|letz- ten Häu- * fer|stehn, _ die _|Nach- * barn * freund- lich|
+ A2G2 z2 G G |$ c3 =d c3 B | B2 A2 f3 c | B3 c B3 A |1,3$ A2G2 z2 e B | c2 A2 F2 B2 | G2 z2 B3 e |$ %13
+w: stehn, _ aus den|Fen- stern rei- che|Leu- te schön- ge-|putz- te Frau- en|sehn: _ da- hin|sehnt mein Herz sich|nicht, da- hin|
+w: grüs- sen, Mäd- chen|aus dem Fen- ster|sehn, _ Ih- re|Blu- men zu be\-||||
+ c2 f2 e2 d2 | e2 z2 z2 :|2,4 A2 G2 e4- | e4 c4 |$ B3 E F3 D | E2 z2 z4 | z8 | z4 z2 :| %21
+w: sehnt mein Herz sich|nicht.|gies- sen, ach!|_ da|sehnt mein Herz sich|hin.|||
+w: ||||||||
+V:2
+ z4 | z2 [EG]2[EG]2 z2 | z2 [EGB]2[EGB]2 z2 |$ EcAc EcAc | EBGB EBGB | %5
+[I:staff +1] B,[I:staff -1]ADA[I:staff +1] B,[I:staff -1]ADA | %6
+[I:staff +1] B,[I:staff -1]GEG[I:staff +1] B,[I:staff -1]GEG |$ CBGB CBGB | CAFA CAFA | %9
+[I:staff +1] B,[I:staff -1]ADA[I:staff +1] B,[I:staff -1]ADA |1,3$ %10
+[I:staff +1] B,[I:staff -1]GEG[I:staff +1] B,[I:staff -1]GEB | EcAc DBFB | EBGB EBGB |$ %13
+ [Ec]2[Af]2[Ge]2[Fd]2 | [Ge]2 E2E2 :|2,4[I:staff +1] B,[I:staff -1]GEG EeBe | EeBe EcAc |$ %17
+ EBGB[I:staff +1] A,[I:staff -1]FDF | z2 [EGBe]2 z2 [EAc]2 | z2 [EGB]2 z2 D2 | E2 [EG]2 E2 :| %21
+V:3
+ z2 | z E,E, z | z E,E, z |$ [E,A,C]4 | [E,G,B,]4 | [B,,F,]2 [B,,F,]2 | E,4 |$ ^E,4 | F,4 | %9
+ [B,,F,]4 |1,3$ E,2 G,2 | [A,,A,]2 [B,,F,]2 | E,2 E,2 |$ A,A,B,B, | E, [E,,E,][E,,E,] :|2,4 %15
+ E,2 G,2- | G,2 A,2 |$ B,2 B,,2 | [E,G,] z A, z | B, z B,, z | E, E, E, :| %21
+V:4
+ x2 | x B,B, x | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |1,3$ x4 | x4 | x4 |$ x4 | %14
+ x [G,B,][G,B,] :|2,4 x4 | x4 |$ x4 | x4 | x4 | [G,B,] B, G, :| %21

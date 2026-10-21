@@ -1,0 +1,82 @@
+X:1
+T:Op.59, D.775
+T:Dass sie hier gewesen
+C:Franz Schubert
+Z:Friedrich Rückert
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+L:1/4
+V:3 treble 
+V:5 treble 
+L:1/4
+V:1
+"^Sehr langsam" z4 | z2 ^c3/2 c/ | f2 e z | d2 ^c z | e4- | e d A d | c4 | B2 z2 |$ z2 d3/2 d/ | %9
+w: |Dass der|Ost- wind|Düf- te|hau-|* chet in die|Lüf-|te,|da- durch|
+ ^c2 df | (^c3 e- | ed) z2 | =c B A G | Gc e>c | c B A G | G2 c z |$ z4 | z4 | z4 | z2 ^c3/2 c/ | %20
+w: thut er _|kund,  _|_ _|dass du hier ge-|we- * sen, *|dass du hier ge-|we- sen.||||Dass hier|
+ f2 e z | d2 ^c z | e4- | e d A d | c4 | B2 z2 |$ z2 d3/2 d/ | ^c2 df | (^c3 e- | ed) z2 | %30
+w: Thrä- nen|rin- nen,|da-|* durch wirst du|in-|nen,|wär's dir|sonst nicht *|kund,  _|_ _|
+ =c B A G | Gc e>c | c B A G |$ G2 c z | z4 | z4 | z4 | c B A G | e d c B | g3 f |$ %40
+w: dass ich hier ge-|we- * sen, *|dass ich hier ge-|we\-- sen.||||Schön- heit o- der|Lie- be, ob ver-|steckt sie|
+ ^c3/2d/4e/4 !breath!!fermata!d2 | z4 | z4 | c4- | c4- | c3 c | fe d c |$ c4- | %48
+w: blie- * * be?|||Düf-||* te|thun * es und|Thrä-|
+"^♭" (!turn!c2 _d3/2) _B/ | _A4 | _B3/2 _d/ _e f | _A2 G z | _B3/2 _d/ _e f |$ _A2 G z | z4 | z4 | %56
+w: * * nen|kund,|dass sie hier ge-|we- sen,|dass sie hier ge-|we- sen;|||
+ d2 ^c z | f2 e e | e3 d | A2 z2 |$ c B A G | Gc e>c | c B A G | G2 c z | z4 | z4 | z4 |] %67
+w: Düf- te|thun es und|Thrä- nen|kund,|dass sie hier ge-|we- * sen, *|dass sie hier ge-|we- sen.||||
+V:2
+!pp! ([g-_b-^c'-f']2 [gbc'e']) z | (([e-g-_bd']2 [egb^c'])) z |!pp! ([G-_B-^c-f]2 [GBce]) z | %3
+ ([E-G-_B-d]2 [EGB^c]) z | [FAe]4- | (edAd) |!>(! (([^FAc]4 | [GB]2))!>)! z2 |$ %8
+ (([G_B-^c]2 [FBd])) z | (([G_B-^c]2 [FBd])) z | ((([G_B^c]4 | [FAd]2))) z2 | z (.[FG].[FG].[FG]) | %13
+ [EG]4 | ([cc'][Bb][Aa][Gg]) | ([Gg][cc']!>![ee']>[cc']) |$ ([cc'][Bb][Aa][Gg]) | z4 | %18
+!pp! ([g-_b-^c'-f']2 [gbc'e']2) | (([e-g-_bd']2 [egb^c'])) z |!pp! ([G-_B-^c-f]2 [GBce]) x | %21
+ ([E-G-_B-d]2 [EGB^c]) z | [FAe]4- | (edAd) |!>(! ((([^FAc]4 | [GB]2)))!>)! z2 |$ %26
+ (([G_B-^c]2 [FBd])) z | (([G_B-^c]2 [FBd])) z | ((([G_B^c]4 | [FAd]2))) z2 | z (.[FG].[FG].[FG]) | %31
+ [EG]4 | ([cc'][Bb][Aa][Gg]) |$ ([Gg][cc']!>![ee']>[cc']) | ([cc'][Bb][Aa][Gg]) | %35
+"_cresc." ([ee'][dd'][cc'][Bb]) | ([gg'][ff'][ee'][dd']) |!pp! (c[Bg][Ag][Gg]) | (e[dg][cg][Bg]) | %39
+ [Bdfg-]4 |$ !fermata!g4 |!pp! ([g-_b-=c'-f']2 [gbc'e']) z | ([e-g-_b-d']2 [egbc']) z | %43
+ ([G-_B-c-f]2 [GBce]) z | ([E-G-_B-d]2 [EGBc]) z | ([A-c-g]2 [Acf]) z | ([F-A-d]2 [FAc]) z |$ %47
+ ([_B-c-e-_a]2 [Bceg]) z | ([G-_B-_d]2 [GBc]) z | ([f-_b]2 [f_a]) z |!p! [F_B]4 | %51
+ ([_B_b][_d_d'][_e_e'][ff']) | (([_A_a]2 [Gg])) z |$ ([_B_b][_d_d'][_e_e'][ff']) | %54
+ ([G-_B-_d]2 [GBc]) z | ([G-_B-_d]2 [GBc]) z |"_cresc." ([G-_B-=d]2 [GB^c]) z | %57
+ ([G-_B-^c-f]2 [GBce]) z |!>(! (e3 d!>)! | A2) z2 |$ z!pp! (.[FG]!pp!.[FG]!pp!.[FG]) | [EG]4 | %62
+!pp! ([cc'][Bb][Aa][Gg]) |"_dim." ([Gg][cc']!>![ee']>[cc']) | ([cc'][Bb][Aa][Gg]) |!pp! ((([Gg]4 | %66
+!ppp! [cc']2))) z2 |] %67
+V:3
+ (!>![G-_B-^c-f]2 [GBce]) z | (!>![E-G-_B-d]2 [EGB^c]) z |[K:bass] ([G,-_B,-^C-F]2 [G,B,CE]) z | %3
+ ([E,-G,-_B,-D]2 [E,G,B,^C]) z | [F,A,E]4- | (EDA,D) | ([G,-_E]4 | [G,D]2) z2 |$ %8
+ (([E,_B,-^C]2 [F,B,D])) z | (([E,_B,-^C]2 [F,B,D])) z | ((([E,_B,^C]4 | [F,A,D]2))) z2 | %12
+ G,, (.[G,D]!pp!.[G,C]!pp!.[G,=B,]) |!pp! C4 | z!pp! [G,DF][G,CF][G,B,F] |!pp! [CE]4 |$ %16
+ z!pp! [G,DF]!pp![G,CF]!pp![G,B,F] | z4 |[K:treble] (!>![G-_B-^c-f]2 [GBce]) z | %19
+ (!>![E-G-_B-d]2 [EGB^c]) z |[K:bass] ([G,-_B,-^C-F]2 [G,B,CE]) z | ([E,-G,-_B,-D]2 [E,G,B,^C]) z | %22
+ [F,A,E]4- | (EDA,D) | ([G,-_E]4 | [G,D]2) z2 |$ (([E,_B,-^C]2 [F,B,D])) z | %27
+ (([E,_B,-^C]2 [F,B,D])) z | ((([E,_B,^C]4 | [F,A,D]2))) z2 | G,, (.[G,D].[G,C].[G,=B,]) | C4 | %32
+ z [G,DF][G,CF][G,B,F] |$ [CE]4 | z [G,DF][G,CF][G,B,F] | z [G,B,F][G,CF][G,DF] | %36
+ z [G,B,D][G,B,E][G,B,F] | z [G,DF][G,CF][G,B,F] | z [G,B,F][G,CF][G,DF] | [G,-DFG-]4 |$ %40
+ [^CE]2 !fermata![DF]2 |[K:treble] (([G-_B-=c-f]2 [GBce])) z | ([E-G-_B-d]2 [EGBc]) z | %43
+[K:bass] ([G,-_B,-C-F]2 [G,B,CE]) z | ([E,-G,-_B,-D]2 [E,G,B,C]) z | ([A,-C-G]2 [A,CF]) z | %46
+ ([F,-A,-D]2 [F,A,C]) z |$[K:treble] ([_B,-C-E-_A]2 [B,CEG]) z |[K:bass] ([E,-_B,-_D]2 [E,B,C]) z | %49
+[K:treble] ([F-_Bc-]2 [F_Ac]) z |[K:bass] [_D,_D]4 | z!p! (.[_E,_B,_D]!p!.[E,B,D]!p!.[E,B,D]) | %52
+!p! [_E,_B,_D]2- [E,B,D] x |$ z!p! (.[_E,_B,_D]!p!.[E,B,D]!p!.[E,B,D]) | %54
+ ([=E,-_B,-_D]2 [E,B,C]) z | ([E,-_B,-_D]2 [E,B,C]) z |!p! ([E,-G,-_B,-=D]2 [E,G,B,^C]) z | %57
+ ([G,-_B,-^C-F]2 [G,B,CE]) z | (E3 D | A,2) z2 |$ G,, (.[G,D].[G,C].[G,B,]) | C4 | %62
+ z [G,DF][G,CF][G,B,F] | [CE]4 | z [G,DF][G,CF][G,B,F] | [CE]4- | [CE]2 z2 |] %67
+V:4
+ x2 | x2 | x2 | x2 | x2 | [FA]2 | x2 | x2 |$ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |$ x2 | x2 | %18
+ x3/2 z/ | x2 | x2 | x2 | x2 | [FA]2 | x2 | x2 |$ x2 | x2 | x2 | x2 | x2 | x2 | x2 |$ x2 | x2 | %35
+ x2 | x2 | x2 | x2 | x2 |$ [^A^ce] !fermata![Bdf] | x2 | x2 | x2 | x2 | x2 | x2 |$ x2 | x2 | x2 | %50
+ x2 | x2 | x2 |$ x2 | x2 | x2 | x2 | x2 | [FA]2- | F x |$ x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %67
+V:5
+ x2 | x2 |[K:bass] x2 | x2 | x2 | [F,A,]2 | x2 | x2 |$ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |$ %16
+ x2 | x2 |[K:treble] x2 | x2 |[K:bass] x2 | x2 | x2 | [F,A,]2 | x2 | x2 |$ x2 | x2 | x2 | x2 | x2 | %31
+ x2 | x2 |$ x2 | x2 | x2 | x2 | x2 | x2 | x2 |$ !fermata![G,G]2 |[K:treble] x2 | x2 |[K:bass] x2 | %44
+ x2 | x2 | x2 |$[K:treble] x2 |[K:bass] x2 |[K:treble] x2 |[K:bass] x2 | x2 | x2 |$ x2 | x2 | x2 | %56
+ x2 | x2 | [F,A,]2- | F, x |$ x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %67

@@ -1,0 +1,77 @@
+X:1
+T:Winterreise, D.911
+T:Die Wetterfahne
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=87
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:1
+"^Ziemlich geschwind, unruhig." z/ z | z6 | z6 | z6 | z6 |$ z2 z z2 E | cB A ^GB c | dc B A c d | %8
+w: |||||Der|Wind * spielt mit _ der|Wet- * ter- fah- ne auf|
+ ed c fe ^d | eB ^G e2 !fermata!z |$ z2 z z2 B | c2 e d3/2 d/ c/ B/ | c G e eg e | eg e e^f ^d | %14
+w: mei- * nes schö- * nen|Lieb- * chens Haus.|Da|dacht ich schon in mei- nem|Wah- ne: sie pfiff * den|ar- * men Flücht- * ling|
+ e3- e2 E |$ ^Fc F{A/} G G3/2 G/ | ^Fc F{A/} G G z/ G/ | ^Gd G Ae A | ^G/f/e/d/ c/B/ A2 A | %19
+w: aus _ Er|hätt' _ es e- her be-|mer- * ken sol- len des|Hau- * ses auf- * ge-|steck- * * * tes *   Schild, so|
+ Ae A f>e d |$ cd/c/ _B/A/ G B d | df d df d | d>e ^c d2 z | z6 | z2 z z2"^leise" E |$ %25
+w: hätt' _ er nim- * mer|su- * * chen _ wol- len im|Haus * ein treu- * es|Frau- * en- bild.||Der|
+ =cB A ^GB c | dc B Ac d | e d c !fermata!f2 ^d | eB ^G e2 !fermata!z | z2 z z2"^laut" B |$ %30
+w: Wind * spielt drin- * nen|mit * den Her- * zen|wie auf dem Dach, nur|nicht * so laut.|Was|
+ c2 _d c3/2 d/ c/ d/ | c2 A z2 A | e^c A A/B/c/d/ e/^f/ | e2 ^G A2 z |$ z2 z!pp! z2"^leise" A | %35
+w: fra- gen sie nach mei- nen|Schmer- zen? ihr|Kind * ist ei- * * * ne *|rei- che Braut.|Der|
+ d=c B AB c | dc B Ac d | e d c !fermata!f2 ^d | eB ^G e2 !fermata!z |$ z2 z z2"^laut" B | %40
+w: Wind * spielt drin- * nen|mit * den Her- * zen|wie auf dem Dach, nur|nicht * so laut.|Was|
+ c2 _d c3/2 d/ c/ d/ | c2 A z2 ^c | d2 _e d3/2 e/ d/ e/ | d2 _B z2 A |$ e^c A A/^f/e/d/ c/B/ | %45
+w: fra- gen sie nach  mei- nen|Schmer- zen? was|fra- gen sie nach  mei- nen|Schmer- zen? ihr|Kind * ist ei- * * * ne *|
+ e3- e2 ^G | A2 z z2 z | z6 |$ z6 | z6 | z6 | z6 |] %52
+w: Rei- * che|Braut.||||||
+V:2
+!f! (E/A/c/) |!>(! (ec!>)!A) E>(fe/f/) |!>(! (ecA)!>)! (E>FE/F/) |!>(! (GE!>)!D CB,A,) | %4
+{A,/(B,/} (!>!TB,3){A,/B,/} A,>)!p!(B,A,/B,/) |${A,/(B,/} (TB,3){A,/B,/} A,) z!p! E | (cBA ^GBc) | %7
+{B/} (dcB Acd) |!<(! (edc!<)!!>(! fe^d)!>)! | e3- !fermata!e3/2!<(! (E/^G/B/)!<)! |$ %10
+!>(! (eB^G!>)! E^D=D) |!p! [CE]2 z [B,F]2 z | [CE]2 z z{E/} e z |"_cresc." z{E/} e z z{B/} b{B/}b | %14
+{B/} b>!f!(eB/G/) (ED/C/B,/C/) |$ A,!arpeggio![A,C^F] z z !arpeggio![B,DG] z | %16
+ z !arpeggio![A,C^F] z z !arpeggio![B,DG] z |!p! z !arpeggio![B,D^G] z z !arpeggio![CEA] z | %18
+!p! z !arpeggio![B,D^G] z z !arpeggio![CEA] z | z3/4 (_B/4 !>!A2) z3/4 (B/4 !>!A2) |$ %20
+ z3/4"_cresc." (_e/4 !>!d2) z3/4 (e/4 !>!d2) | z{d/} d' z z{d/} d' z | %22
+!f! z{a/} .a'{a/}.a'{a/} a' z/!f!!<(! (E/^G/B/!<)! |!>(! dB^G!>)! E>)(fe/f/) | %24
+ (e>dB/^G/ E2)[I:staff +1] E, |$[I:staff -1] (CB,A, ^G,B,C) |{B,/} (DCB, A,CD) | %27
+!<(! (EDC)!<)!!>(! (!fermata!F2!>)! (^D) | E3-) E !fermata!z/!pp! (E/^G/B/) | %29
+!<(! (eB!<)!"_cresc."^G E^D=D) |$!mf! [CF]2 z [_B,E]2 z | [A,F]2 z [^DA]2 z | %32
+"_cresc." [EAe]2 z [^FA^f]2 z |!f! (^c/e/a/^c'/)(^g/e'/) a z/ (A,/=C/E/) |$!>(! (AED!>)! CB,A,) | %35
+[K:bass]!pp!{^G,/} (!>!T=F,3{E,/F,/G,/} A,) z z |{^G,/} (!>!TF,3{E,/F,/G,/} A,) z z | %37
+[K:treble] (EDC) (!fermata!F2 (^D) | (E3) E) !fermata!z/ (f/e/f/) |$ (eB^G"_cresc." E^D=D) | %40
+!mf! [CF]2 z [_B,E]2 z | [A,F]2 z"_cresc." [_B,^CG]2 z | [DG]2 z [=C^F]2 z | %43
+ [_B,G]2 z [=C^DA]2 z |$!f! [EAe]2 z [^FA^f]2 z |!<(! A/B/^c/d/e/^f/ ^g/a/b/^c'/d'/e'/!<)! | %46
+ a z/!<(! (^G/A/G/ A/B/=c/^c/d/!<)!^d/) |!>(! (e=cA!>)! E) z/ (a/e/f/) |$ %48
+!>(! (ec!>)!A E) z/ (F/E/F/) |!>(! (GE!>)!"_dim."D CB,A,) | %50
+!p!{A,/(B,/} (((((!>!TB,3){A,/B,/} A,>)))))(B,A,/B,/) |{A,/(B,/} (TB,3){A,/B,/} A,) z !fermata!z |] %52
+V:3
+ (E,/A,/C/) | (ECA,) E,>(FE/F/) | (ECA,) (E,>F,E,/F,/) | (G,E,D, C,B,,A,,) | %4
+{A,,/(B,,/} (!>!TB,,3){A,,/B,,/} A,,>)(B,,A,,/B,,/) |${A,,/(B,,/} (TB,,3){A,,/B,,/} A,,) z (E, | %6
+ CB,A, ^G,B,C) |{B,/} (DCB, A,CD) | (EDC FE^D) | E3- !fermata!E3/2 (E,/^G,/B,/) |$ %10
+ (EB,^G, E,^D,=D,) | [C,G,]2 z [C,_A,]2 z | [C,G,]2 z [G,,E,G,]2 z | %13
+ [A,,E,G,]2 z [B,,E,G,]2 [B,,^F,A,] | [E,G,]>(EB,/G,/) (E,D,/C,/B,,/C,/) |$ %15
+ !arpeggio![A,,C,^F,]!p! z z !arpeggio![B,,D,G,] z z | %16
+ !arpeggio![A,,C,^F,] z z !arpeggio![B,,D,G,] z z | %17
+ !arpeggio![B,,D,^G,] z z !arpeggio![C,E,A,] z z | %18
+ !arpeggio![B,,D,^G,] z z !arpeggio![C,E,A,] z z | [^C,G,A,]3 [D,F,A,]3 |$ [^F,CD]3 [G,_B,D]3 | %21
+ [=F,D=F]2 z [G,DF]2 z | [A,DF]2 [A,EG] [DF] z/ (E,/^G,/B,/ | DB,^G, E,>)!p!(FE/F/) | %24
+ (E>DB,/^G,/ E,2)!pp! ((E,, |$ (C,))B,,A,, ^G,,B,,C,) |{B,,/} (D,C,B,, A,,C,D,) | %27
+ (E,D,C,) (!fermata!F,2 (^D,) | (E,3) E,) !fermata!z/ (E,/^G,/B,/) | (EB,^G, E,^D,=D,) |$ %30
+ [C,A,]2 z [C,G,]2 z | [F,,F,]2 z [F,C]2 z | [^C,A,]2 z [D,A,D]2 z | %33
+ [E,A,^C][E,A,CE][E,B,DE] [A,CE]!p! z/ (A,,/=C,/E,/) |$ (A,E,D, C,B,,A,,) | %35
+{^G,,/} (T=F,,3{E,,/F,,/G,,/} A,,) z z |{^G,,/} (TF,,3{E,,/F,,/G,,/} A,,) z z | %37
+ (E,D,C,) (!fermata!F,2 (^D,) | (E,3) E,) !fermata!z/ (F/E/F/) |$ (EB,^G, E,^D,=D,) | %40
+ [C,A,]2 z [C,G,]2 z | [F,,F,]2 z _E,2 z | [D,_B,]2 z [D,A,]2 z | [G,,G,]2 z =F,2 z |$ %44
+ [^C,A,]2 z [D,A,D]2 z | [E,A,^CE][E,A,CE][E,A,CE] [E,B,DE][E,B,DE][E,B,DE] | %46
+ [A,^CE] z/ (^G,/A,/G,/ A,/B,/=C/^C/D/^D/) | (E=CA, E,) z/ (A/E/F/) |$ (ECA, E,) z/ (F,/E,/F,/) | %49
+ (G,E,D, C,B,,A,,) |{A,,/(B,,/} (((((TB,,3)!pp!{A,,/B,,/} A,,>)))))(B,,A,,/B,,/) | %51
+{A,,/(B,,/} (TB,,3){A,,/B,,/} A,,) z !fermata!z |] %52

@@ -1,0 +1,98 @@
+X:1
+T:6 Lieder, Op.23
+T:An einem lichten Morgen
+C:Clara Schumann
+Z:Hermann Rollett
+Z:Creative Commons copyright waiver (CC0 1.0 Universal)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/8
+V:4 treble 
+L:1/8
+V:3 bass 
+L:1/16
+V:5 bass 
+V:1
+"^Lebhaft ." z4 |: z4 |$ z4 | z4 | z4 |$ z4 | z4 | z2 z A |$ A3/2 A/ =B B | d2 c c | B3/2 B/ d f |$ %11
+w: |||||||1. An|ei- nem lich- ten|Mor- gen da|klingt es hell im|
+w: |||||||2. Ich|will ja nichts ver-|lan- gen als|lie- gen dir im|
+ f3 z | z4 | z2 z!f! A |$ f d c B | A2 A =B |$ c3!<(! d | e2!<)! =B2 | c3 z |$ z4 | z4 |$ z4 | %22
+w: Thal:||wach'|auf du lie- be|Blu- me, ich|bin der|Son- nen-|strahl!||||
+w: Schoos,||und|dei- ne Blü- the-|kü- ssen eh'|sie ver-|welkt im|Moos.||||
+ z2 z!p! c | c3/2 c/ =B _B |$ B2 A A | e =B c ^G |$ A3 ^F | G A B d |$ d2 c A | B d g f |$ %30
+w: Er-|schlie- sse mit Ver-|trau- en dein|Blü- then- käm- mer-|lein und|lass die hei- sse|Lie- be in's|Hei- lig- thum hin-|
+w: Ich|will ja nichts be-|geh- ren, als|ruh'n an dei- ner|Brust, und|dich da- für ver-|klä- ren mit|son- nen- hel- ler|
+ e3!f! c | a f e d |$ d2 c _B | f d c A |1$ F3 z :|2 F3 z || z4 |$ z4[Q:1/8=180][Q:1/8=165] | %38
+w: ein, und|lass die hei- sse|Lie- be in's|Hei- lig- thum hin-|ein.|Lust.|||
+w: Lust, und|dich da- für ver-|klä- ren mit|son- nen- hel- ler|||||
+[Q:1/8=150] z4[Q:1/8=130][Q:1/8=100] |] %39
+w: |
+w: |
+V:2
+!p! x4 a z [_a=bd'] z |: d3 x d' z !arpeggio![egc'] z |$ x4 f z !arpeggio![egb] z | %3
+ B3 x b z !arpeggio![_e^fa] z |{/A} d3 x d' z !arpeggio![_deg] z |${/G} c3 x c' z F z | A4 G4 | %7
+ x8 |$ x4 [dg=b] z [DG=B] z | z4 !arpeggio![egc'] z [EGc] z | x4 f z [fbd'f'] z |$ %11
+ x4 f z [fac'f'] z | (f2 d2 c2 B2 | A3) x a z!mf! !arpeggio![EGA] z |$ x8 | %15
+ x4 a z !arpeggio![DG=B] z |$ x4 c' z"_cresc." !arpeggio![CDAd] z | z2 z2 e' z [=B,FG=B] z | %18
+!f! x4 c' z [EGc] z |$ c2"_dim." z (3d/-f/-(c'/ [df=b]) z [DF_B] z | %20
+ _B2 z (3c/-e/-(_b/ [cea]) z [CEA] z |$ e2 =B2 c2 d2 | c2 z2 c' z!p! [EAc] z | %23
+ z2 z2 =b z [DF_B] z |$ z2 z2 [cea] z [CEA] z | x8 |$ z2 z2 a z x2 | x8 |$ z2 z2 b z z2 | x8 |$ %30
+ x4 c' z!f! [EGce] z | x8 |$ x4 c z [_B,F_B] z | x8 |1$ z4 a z !arpeggio![_a=bd'] z :|2 %35
+ z4 a z [D_A=B] z || =B2 c2 c' z [F_Bd] z |$ x8 | x4 z2 z2!pp! |] %39
+V:3
+!ped! (6:4:6F,,C,F, A,C[I:staff -1]F[I:staff +1] (6:4:6F,C[I:staff -1]F Acf[I:staff +1] z4!ped-up![K:treble]!ped! !arpeggio![F_A=Bd]2 z2!ped-up! |: %1
+[K:bass]!ped! (6:4:6E,,D,G,[I:staff -1] DEG[I:staff +1] (6:4:6E,D[I:staff -1]G deg[I:staff +1] z4!ped-up![K:treble]!ped! !arpeggio![EGc]2 z2!ped-up! |$ %2
+[K:bass]!ped! (6:4:6D,,B,,D, F,B,[I:staff -1]D[I:staff +1] (6:4:6F,B,D[I:staff -1] FBd[I:staff +1] z4!ped-up![K:treble]!ped! !arpeggio![DEGB]2 z2!ped-up! | %3
+[K:bass]!ped! (6:4:6^C,,^C,E,[I:staff -1] B,^CE[I:staff +1] (6:4:6C,^C[I:staff -1]E B^ce[I:staff +1] z4[K:treble] !arpeggio![C_E^FA]2 z2!ped-up! | %4
+[K:bass]!ped! (6:4:6=B,,^F,A,[I:staff -1] D^FA[I:staff +1] (6:4:6=B,[I:staff -1]FA d^fa[I:staff +1] z4!ped-up![K:treble]!ped! !arpeggio![_B,_DEG]2 z2!ped-up! |$ %5
+[K:bass]!ped! (6:4:6A,,E,G,[I:staff -1] CEG[I:staff +1] (6:4:6A,[I:staff -1]EG ceg[I:staff +1] z4!ped-up!!ped! [D,F,G,]2 z2!ped-up! | %6
+[K:bass]!ped! (6:4:6(C,,C,F, A,[I:staff -1]CF c2)[I:staff +1] z2!ped! (6:4:6(C,,!ped-up!C,E, G,[I:staff -1]B,C c2)[I:staff +1] x2 | %7
+!ped! (6:4:6(F,,C,F, A,[I:staff -1]CF)[I:staff +1] (6:4:6(F,C[I:staff -1]F Acf) (6:4:6(afc AFC) (6:4:6(AFC[I:staff +1] A,F,C,)!ped-up! |$ %8
+!ped! (6:4:6F,,C,!ped-up!F, A,[I:staff -1]CF[I:staff +1] (6:4:6F,C[I:staff -1]F Acf[I:staff +1][K:treble]!ped-up!!ped! [FG=B]2 z2!ped-up![K:bass]!ped! !arpeggio![F,G,=B,]2 z2 | %9
+!ped! (6:4:6E,,=B,,G,[I:staff -1] DEG[I:staff +1] (6:4:6E,=B,[I:staff -1]G deg!ped-up!!ped! [EGc]2[I:staff +1] z2!ped-up![K:bass]!ped! !arpeggio![E,G,C]2!ped-up! z2 | %10
+!ped! (6:4:6(D,,B,,D,[I:staff -1] F,B,D)[I:staff +1] (6:4:6(D,B,D[I:staff -1] FBd)[I:staff +1] x4[K:treble] !arpeggio![DFBd]2!ped-up! z2 |$ %11
+[K:bass]!ped! (6:4:6(C,,A,,C,[I:staff -1] F,A,C)[I:staff +1] (6:4:6C,A,C[I:staff -1] FAc[I:staff +1] x4[K:treble] [CFA]2 z2!ped-up! | %12
+[K:bass]!ped! (B,,,/B,,/D,/F,/ G,/[I:staff -1]D/F/G/)[I:staff +1] z4 (6:4:6(C,,C,G,[I:staff -1] B,EG)[I:staff +1] z4!ped-up! | %13
+!ped! (6:4:6(^C,,^C,E, A,[I:staff -1]EG)[I:staff +1] (6:4:6(C,^CE[I:staff -1] Aeg)[I:staff +1] z4 !arpeggio![C,E,A,]2 z2!ped-up! |$ %14
+!ped! (5:4:5(D,,/F,,/_A,,/=B,,/D,/ (5:4:5F,/_A,/=B,/[I:staff -1]D/F/)[I:staff +1] (5:4:5(D,/F,/A,/B,/D/[I:staff -1] (5:4:5F/_A/=B/d/f/)!ped-up!!ped![I:staff +1] (3(E,,C,G,[I:staff -1] _B,/C/G/_B/)[I:staff +1] (3(E,C[I:staff -1]G B/c/g/_b/)!ped-up! | %15
+!ped![I:staff +1] (6:4:6F,,C,F,[I:staff -1] A,CF[I:staff +1] (6:4:6F,CF[I:staff -1] Acf[I:staff +1] z4!ped-up!!ped! !arpeggio![F,G,=B,]2 z2!ped-up! |$ %16
+!ped! (6:4:6E,,C,G,[I:staff -1] CEG[I:staff +1] (6:4:6E,C[I:staff -1]G ceg[I:staff +1] z4!ped-up!!ped! !arpeggio![^F,,D,A,]2 z2!ped-up! | %17
+!ped! (G,,/!ped-up!D,/F,/G,/[I:staff -1] (3=B,FG)[I:staff +1] (G,/D/[I:staff -1]F/G/ (3=Bfg)[I:staff +1] z4 !arpeggio![G,,D,F,G,]2 z2 | %18
+!ped! (6:4:6(C,,G,,E,[I:staff -1] CEG)[I:staff +1] (6:4:6(C,G,E[I:staff -1] ceg)[I:staff +1] z4!ped-up!!ped! !arpeggio![E,G,C]2 z2!ped-up! |$ %19
+!ped! (6:4:6(D,,D,F, C[I:staff -1]DF)[I:staff +1][K:treble]"^diminuendo" (3D-F-c- ([D-F-c]2!ped-up!!ped! [DF=B]2) z2!ped-up![K:bass]!ped! [D,F,_B,]2!ped-up! z2 | %20
+!ped! (6:4:6(E,,C,E,[I:staff -1] B,CE)[I:staff +1][K:treble] (3C-E-_B- ([C-E-B]2!ped-up!!ped! [CEA]2) z2!ped-up![K:bass]!ped! !arpeggio![E,A,]2!ped-up! z2 |$ %21
+!ped! (5:4:5z (E,,E,[I:staff -1]E^G)[I:staff +1] (5:4:5z (E,E[I:staff -1]DG)[I:staff +1] (5:4:5z!ped-up!!ped! (E,E[I:staff -1]CG)[I:staff +1] (5:4:5z!ped! (E,!ped-up!E!ped-up![I:staff -1]=B,G) | %22
+!ped![I:staff +1] (6:4:6(A,,E,A,[I:staff -1] CEA)[I:staff +1] (6:4:6A,[I:staff -1]EA cea[I:staff +1] z4!ped-up!!ped! !arpeggio![A,C]2 z2!ped-up! | %23
+!ped! (6:4:6(D,F,C[I:staff -1] DFc)[I:staff +1][K:treble] (6:4:6(DFc[I:staff -1] dfc')!ped-up!!ped![I:staff +1] =B2 z2[K:bass]!ped-up!!ped! [D,F,_B,]2 z2!ped-up! |$ %24
+!ped! (6:4:6(E,,C,_B,[I:staff -1] CE_B)[I:staff +1] (6:4:6(E,[I:staff -1]CB ce_b)[I:staff +1][K:treble]!ped-up!!ped! [CEA]2 z2!ped-up![K:bass]!ped! [E,A,]2 z2!ped-up! | %25
+!ped! (E,,E,[I:staff -1] ^G,D)[I:staff +1] (5:4:5(E,E[I:staff -1] G,DE)!ped-up!!ped![I:staff +1] (5:4:5(E,E[I:staff -1] A,D^F)!ped-up!!ped![I:staff +1] (5:4:5(E,E[I:staff -1] =B,!ped-up!D^G) |$ %26
+!ped![I:staff +1] (6:4:6(A,,E,A,[I:staff -1] CEA)[I:staff +1] (5:4:5(A,[I:staff -1]EA ce)[I:staff +1] z4!ped-up!!ped! (C,A,[I:staff -1] _E^F)!ped-up! | %27
+!ped![I:staff +1] (B,,G,[I:staff -1] DG)!ped-up!!ped![I:staff +1] (5:4:5(A,,^F,[I:staff -1] CDA)!ped-up!!ped![I:staff +1] (6:4:6(G,,D,G,!<(![I:staff -1] B,DB)!ped-up!!ped![I:staff +1] (6:4:6(F,,D,G,[I:staff -1] B,DB)!ped-up!!<)! |$ %28
+!ped![I:staff +1] (6:4:6(E,,C,G,[I:staff -1] _B,CG)[I:staff +1] (6:4:6E,C[I:staff -1]G Bcg[I:staff +1] z4 z4!ped-up! | %29
+!ped! (6:4:6(G,,D,G,[I:staff -1] _B,DG)[I:staff +1] (6:4:6(F,,D,G,!<(![I:staff -1] B,DG)[I:staff +1] (6:4:6(E,,C,G,[I:staff -1] B,CG)!ped-up![I:staff +1] (6:4:6(D,,D,G,[I:staff -1] B,DG)!<)! |$ %30
+!ped![I:staff +1] (6:4:6(C,,C,G,[I:staff -1] _B,EG)[I:staff +1] (6:4:6(C,C[I:staff -1]G Beg)[I:staff +1] z4 !arpeggio![C,B,C]2 z2!ped-up! | %31
+!ped! (3(F,,C,F, A,/[I:staff -1]C/F/A/)[I:staff +1] (3(F,[I:staff -1]CF A/c/f/a/)!ped-up!!ped![I:staff +1] (3(F,,D,F,[I:staff -1] _A,/=B,/F/_A/)[I:staff +1] (3(F,D[I:staff -1]F A/=B/f/_a/)!ped-up! |$ %32
+!ped![I:staff +1] (6:4:6(E,,D,G,[I:staff -1] =B,DG)[I:staff +1] (6:4:6(E,[I:staff -1]DG =Bdg)[I:staff +1] C2 z2!ped-up!!ped! !arpeggio![D,,F,]2 z2!ped-up! | %33
+!ped! (6:4:6(C,,C,F,[I:staff -1] A,CA)!ped-up!!ped![I:staff +1] (6:4:6(=B,,,=B,,F,[I:staff -1] _A,D_A)!ped-up!!ped![I:staff +1] (6:4:6(C,,C,[I:staff -1] B,CF=A)[I:staff +1] (6:4:6(C,C[I:staff -1] B,CEA)!ped-up! |1$ %34
+!ped![I:staff +1] (6:4:6(F,,C,F,[I:staff -1] A,CF)[I:staff +1] (6:4:6(F,C[I:staff -1]F Acf)[I:staff +1] z4[K:treble]!ped-up!!ped! !arpeggio![F_A=Bd]2 z2!ped-up! :|2 %35
+[K:bass][K:bass]!ped! (6:4:6(F,,C,F,[I:staff -1] A,CF)[I:staff +1] (6:4:6(F,C[I:staff -1]F Acf)[I:staff +1] z4!ped-up!!ped! !arpeggio![F,_A,]2!ped-up! z2 || %36
+[K:bass]!ped! (6:4:6(E,,D,G,[I:staff -1] =B,DG)!ped![I:staff +1] (5:4:5E,C[I:staff -1]G e!ped-up!g[I:staff +1] z4!ped-up!!ped! !arpeggio![D,F,_B,D]2!ped-up! z2 |$ %37
+[K:bass]!ped! (^C,/G,/B,/^C/[I:staff -1] E/G/B/e/)!ped![I:staff +1] (=D,/!ped-up!_A,/=B,/D/[I:staff -1] F/_A/"^dim."=B/f/)!ped![I:staff +1] (6:4:6(=C,!ped-up!_B,C[I:staff -1] FGc)!ped![I:staff +1] (6:4:6(C,!ped-up!B,C[I:staff -1] EGc)!ped-up! | %38
+!ped![I:staff +1] (6:4:6(F,,!ped-up!C,F, A,[I:staff -1]CF)[I:staff +1] (3(F,CF[I:staff -1] A/c/f/a/)[I:staff +1][K:treble] f'2 z2 z4 |] %39
+V:4
+ x8 |: x8 |$ x8 | x8 | x8 |$ x6[I:staff +1] =B, x | x7[I:staff -1] z | x8 |$ x8 | x8 | x8 |$ x8 | %12
+ x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |$ x2 x d x4 | x8 |$ x8 | x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | %29
+ x8 |$ x8 | x8 |$ x8 | x8 |1$ x8 :|2 x8 || x8 |$ x8 | x8 |] %39
+V:5
+ x3[K:treble] x |:[K:bass] x3[K:treble] x |$[K:bass] x3[K:treble] x |[K:bass] x3[K:treble] x | %4
+[K:bass] x3[K:treble] x |$[K:bass] x4 |[K:bass] x4 | x4 |$ x2[K:treble] x[K:bass] x | %9
+ x3[K:bass] x | x3[K:treble] x |$[K:bass] x2 z[K:treble] !>!c |[K:bass] x4 | x4 |$ x4 | x4 |$ x4 | %17
+ x4 | x4 |$ x[K:treble] x2[K:bass] x | x[K:treble] x2[K:bass] x |$ x4 | x4 | %23
+ x[K:treble] x2[K:bass] x |$ x2[K:treble] x[K:bass] x | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | %33
+ x4 |1$ x3[K:treble] x :|2[K:bass][K:bass] x4 ||[K:bass] x4 |$[K:bass] x4 | x2[K:treble] x2 |] %39

@@ -1,0 +1,31 @@
+X:1
+T:Chorale 298:
+T:Freu dich sehr, o meine Seele
+T:Chorale 298:
+T:Freu dich sehr, o meine Seele
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ c2 d | e2 d | c2 B | A3 | !fermata!G3 | c2 d | e2 f | e d2 | !fermata!c3 :|$ e2 f | g2 f | e d2 | %12
+ !fermata!e3 | g g2 | a2 g | f e2 | !fermata!d3 | e2 g |$ f2 e | c d2 | e3 | !fermata!c3 | e2 g | %23
+ f2 e | d2 e | d3 | !fermata!c3 |] %27
+V:2
+ G2 G | G2 ^F | (G A) G | (E ^F2) | D3 | C2 G | G2 A | E A G | E3 :|$ G2 A | _B2 A | (E A) G | G3 | %13
+ c _B2 | A =B c | c G2 | G3 | G2 G |$ A2 G | F (D G) | G3 | F3 | G2 G | G2 G | F D G | G3 | G3 |] %27
+V:3
+ E2 B, | C B, A, | E D D | C A,2 | B,3 | G,2 B, | C2 C | C2 B, | G,3 :|$ C2 C | G,2 C | C2 B, | %12
+ G,3 | E E2 | C D E | C2 C | B,3 | C2 C |$ C2 B, | C B,2 | C2 _B, | A,3 | C2 E | D2 C | A, G,2 | %25
+ G,/D/ F/E/ F | E3 |] %27
+V:4
+ C2 G, | C,2 D, | E, ^F, G, | C, D,2 | !fermata!G,,3 | E,2 G, | C B, A, | G, F, G, | %8
+ !fermata!C,3 :|$ C2 A, | E,2 F, | G, F, G, | !fermata!C,3 | C, C/_B,/A,/G,/ | F,2 E, | %15
+ A,/B,/ C C, | !fermata!G,3 | C2 E, |$ F,2 G, | A, B, G, | C2 C, | !fermata!F,3 | C,2 C | C B, C | %24
+ F, G, C, | G,,3 | !fermata!C,3 |] %27

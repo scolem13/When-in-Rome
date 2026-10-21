@@ -1,0 +1,75 @@
+X:1
+T:6 Lieder, Op.13
+T:Namenlos
+C:Josephine Lang
+Z:Apollonius August von Maltitz
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/4
+Q:1/4=71
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble nm="Stimme\nVoice"
+L:1/8
+V:2 treble nm="Piano"
+V:3 treble 
+L:1/8
+V:4 bass 
+V:5 bass 
+V:1
+"^Langsam und ausdrucksvoll" z8 | z8 | z8 |$ z8 | z8 |!mp! A4 z2 z D |$!mp!!<(! B3 B A2 G2!<)! | %7
+w: |||||Nimm' was|Göt- ter nur ver-|
+!>(! d4!>)! D2 z2 | z8 |$!p! E4 z2 z E |!<(! F4 =G4!<)! | (A4"^cresc." c3) B |$!f! A6 z2 | z8 | %14
+w: ste- hen!||Nimm der|Lie- be|gan- * zen|Schmerz!||
+!mp!!<(! (F6 F2!<)! |$!ff!!<(! f3!<)! e d2 =c2 | (B3 E)!mp! E4) | z8 |$!p! F4 z2 z _G | %19
+w: Nimm, was|Göt- ter nicht ver-|schmä- * hen,||nimm, o|
+ G2 z F"^dimin." F3/2 E/ B, C | D8[Q:1/4=68][Q:1/4=61][Q:1/4=68] |$[Q:1/4=71] z8 | z8 | %23
+w: nimm ein ganz zer- riss- nes|Herz!|||
+ z8[Q:1/4=69][Q:1/4=66] |[Q:1/4=60] z8 |] %25
+w: ||
+V:2
+!f!!<(! (f e d _c!<)! |"_sim."!f!!>(! B A G F!>)! |!mf!!<(! E2!<)!!f!!>(! A2)!>)! |$ %3
+!mp!!<(! z !^!D!<)!!>(! !^!F !^!D!>)! |!<(! z !^!D!<)!!>(! !^!F !^!D!>)! | %5
+!p!!<(! z !^!F!<)!!>(! !^!A !^!F!>)! |$!<(! z G!<)!!>(! B G!>)! |!<(! z F!<)!!>(! A F!>)! | %8
+!<(! z!p! _F!<)!!>(! A F!>)! |$!<(! z E!<)!!>(! A E!>)! |!<(! z F z =G!<)! | z A"_cresc." z e |$ %12
+!f! z A!>(! c A!>)! | z G!>(! B!>)! G |!p! z F A F |$!f!"_cresc." z F!>(! =A F!>)! | %16
+!mp!!<(! z E!<)!!>(! B E!>)! |!pp!!<(!"_dimin." z E!<)!!>(! B E!>)! |$!p!!<(! z F!<)!!>(! A F!>)! | %19
+!<(! z E!<)!!>(! A E!>)! |!<(! z D!<)! F D |$"^canto"!f!!<(! (f e d _c!<)! |!f! B"^decres." A G F | %23
+!pp! E2!pp! A2) | z[I:staff +1] (3F,/-A,/-D/-[I:staff -1] !fermata![DF]2 |] %25
+V:3
+ (3FAd (3EF=A (3DFB (3_CDF | (3B,DG[I:staff +1] (3A,D[I:staff -1]F[I:staff +1] (3G,B,D (3F,A,D | %2
+ (3E,B,D (3E,B,D (3G,C[I:staff -1]E[I:staff +1] (3G,C[I:staff -1]E |$ %3
+ (3z[I:staff +1] (F,A,[I:staff -1] (3D[I:staff +1]A,F,[I:staff -1] (3F[I:staff +1]A,F,[I:staff -1] (3D[I:staff +1]A,F,) | %4
+[I:staff -1] (3z[I:staff +1] (F,A,[I:staff -1] (3D[I:staff +1]A,F,[I:staff -1] (3F[I:staff +1]A,F,[I:staff -1] (3D[I:staff +1]A,F,) | %5
+[I:staff -1] (3z[I:staff +1] (A,D[I:staff -1] (3FD[I:staff +1]A,[I:staff -1] (3AD[I:staff +1]A,[I:staff -1] (3FD[I:staff +1]A,) |$ %6
+[I:staff -1] (3z[I:staff +1] (B,D[I:staff -1] (3GDB, (3BDB, (3GD[I:staff +1]B,) | %7
+[I:staff -1] (3z[I:staff +1] (A,D[I:staff -1] (3FD[I:staff +1]A,[I:staff -1] (3AD[I:staff +1]A,[I:staff -1] (3FD[I:staff +1]A,) | %8
+[I:staff -1] (3z[I:staff +1] (A,D[I:staff -1] (3_FD[I:staff +1]A,[I:staff -1] (3AD[I:staff +1]A,[I:staff -1] (3FD[I:staff +1]A,) |$ %9
+[I:staff -1] (3z[I:staff +1] A,C[I:staff -1] (3E[I:staff +1]CA,[I:staff -1] (3A[I:staff +1]CA,[I:staff -1] (3E[I:staff +1]CA, | %10
+[I:staff -1] (3z[I:staff +1] A,D[I:staff -1] (3FD[I:staff +1]A,[I:staff -1] (3z[I:staff +1] B,[I:staff -1]=E (3=GE[I:staff +1]B, | %11
+[I:staff -1] (3z CF (3AFC (3z D=G (3BGD |$ (3z!mp!!<(! CE (3AEC!<)! (3cEC (3AEC | %13
+ (3z!pp!!<(![I:staff +1] B,[I:staff -1]E (3GE[I:staff +1]B,!<)![I:staff -1] (3BE[I:staff +1]B,[I:staff -1] (3GE[I:staff +1]B, | %14
+[I:staff -1] (3z[I:staff +1] B,D[I:staff -1] (3FD[I:staff +1]B,[I:staff -1] (3AD[I:staff +1]B,[I:staff -1] (3FD[I:staff +1]B, |$ %15
+[I:staff -1] (3z[I:staff +1] =A,[I:staff -1]E (3FE[I:staff +1]A,[I:staff -1] (3=AE[I:staff +1]A,[I:staff -1] (3FE[I:staff +1]A, | %16
+[I:staff -1] (3z[I:staff +1] (B,D[I:staff -1] (3ED[I:staff +1]B,[I:staff -1] (3BD[I:staff +1]B,[I:staff -1] (3ED[I:staff +1]B,) | %17
+[I:staff -1] (3z[I:staff +1] (B,D[I:staff -1] (3ED[I:staff +1]B,[I:staff -1] (3BD[I:staff +1]B,[I:staff -1] (3ED[I:staff +1]B,) |$ %18
+[I:staff -1] (3z[I:staff +1] A,D[I:staff -1] (3FD[I:staff +1]A,[I:staff -1] (3AD[I:staff +1]A,[I:staff -1] (3FD[I:staff +1]A, | %19
+[I:staff -1] (3z[I:staff +1] G,C[I:staff -1] (3EC[I:staff +1]A,[I:staff -1] (3AC[I:staff +1]G,[I:staff -1] (3EC[I:staff +1]G, | %20
+[I:staff -1] (3z[I:staff +1] F,A,[I:staff -1] (3D[I:staff +1]A,F,[I:staff -1] (3F[I:staff +1]A,F,[I:staff -1] (3D[I:staff +1]A,!tenuto!.F, |$ %21
+[I:staff -1] (3FAd (3EF=A (3DFB (3_CDF | %22
+[I:staff +1] (3B,[I:staff -1]DG[I:staff +1] (3A,[I:staff -1]DF[I:staff +1] (3G,B,D (3F,A,D | %23
+ (3E,B,D (3E,B,D (3G,C[I:staff -1]E[I:staff +1] (3G,C[I:staff -1]E | x8 |] %25
+V:4
+ [D,D] [F,C] [B,,B,] [D,_A,] |!ped! [D,G,]!ped-up! F, D,2 |!ped! _G,,2!ped-up!!ped! A,,2!ped-up! |$ %3
+!ped! [D,,A,,]4!ped-up! |!ped! [D,,D,]4!ped-up! |!ped! [D,,D,]4!ped-up! |$ %6
+!ped!!<(! [G,,G,]4!ped-up!!<)! |!ped! D,4!ped-up! |!ped! D,,4!ped-up! |$!ped! A,,4!ped-up! | %10
+!ped! [D,,D,]2!ped-up!!ped! [C,,C,]2!ped-up! |!ped! [F,,F,]2!ped-up!!ped! [E,,E,-]2!ped-up! |$ %12
+!ped! [A,,E,]4!ped-up! |!p!!ped! [E,,E,]4!ped-up! |!ped!!<(! [B,,,B,,]4!ped-up!!<)! |$ %15
+!ped! [F,,F,]4!ped-up! |!ped! [G,,G,]4!ped-up! |!ped! [=G,,=G,]4!ped-up! |$!ped! A,,4!ped-up! | %19
+!ped! [A,,,A,,]4!ped-up! |!ped! [D,,D,]4!ped-up! |$ [D,A,D] [F,C] [B,,B,] [D,_A,] | %22
+!ped! [G,,D,G,]!ped-up! A,, B,, A,, |!ped! G,,2!ped-up!!ped! A,,2!ped-up! | %24
+!ped! (3D,,/-A,,/-D,/- x"_Fine" [F,A,]2!ped-up! |] %25
+V:5
+ x4 | G,, A,, B,, A,, | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | %16
+ x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 | x !fermata![D,,A,,D,]3 |] %25

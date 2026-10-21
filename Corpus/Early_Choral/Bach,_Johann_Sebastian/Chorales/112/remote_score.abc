@@ -1,0 +1,28 @@
+X:1
+T:Chorale 112:
+T:Wer nur den lieben Gott lässt walten
+T:Chorale 112:
+T:Wer nur den lieben Gott lässt walten
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ F | B c d c | B c ^A2 | !fermata!F2 z =A | A G F B | B ^A !fermata!B :|$ c | d e f f | %8
+ e3/2 d/ !fermata!d f | e d c B/c/ | d c !fermata!B |] %11
+V:2
+ D/E/ | F F F F/E/ | D G F2 | [Cx]2 [xx] [Fx] | F E D D | G F F :|$ ^A | B =A A B | B A A A | %9
+ ^A B B/A/ B | B ^A F |] %11
+V:3
+ B,/C/ | D C B, ^A, | B, E/D/ C2 | ^A,2 z C | D A, A, B, | C C D :|$ F | F E D D | D C F D | %9
+ E F G/F/ F/E/ | F3/2 E/ ^D |] %11
+V:4
+ B,, | B, ^A, B, F, | G, E, F,2 |[I:staff -1] [xF,,]2 [xx] [xF,] |[I:staff +1] B,, C, D, G,/F,/ | %5
+ E, F, !fermata!B,, :|$ F, | B, C D/C/B,/A,/ | G, A, !fermata!D, D | C B, E,/F,/ G, | %10
+ F,/E,/ F, !fermata!B,, |] %11

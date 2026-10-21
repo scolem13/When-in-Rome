@@ -1,0 +1,72 @@
+X:1
+T:Mazurkas
+C:Frédéric Chopin
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=116
+M:3/4
+I:linebreak $
+K:Bmin
+V:1 treble nm="piano"
+L:1/8
+V:2 treble 
+V:3 bass nm="piano"
+V:4 bass 
+V:1
+"^Allegretto" (d2 |!p! (3ded c2 B2 | ^A[Gg] [Ff]4) |!f!{/d} (3(ded c2 B2 | !>!A!>!^G !>!F2) z2 | %5
+!p! (3(BcB A2 G2 | F[Ee] [Dd]4) |$!f! (3(GAG F2 E2 | !>!D!>!C !>!B,2) z d |!p!{/d} (3(ded c2 B2 | %10
+ ^A)z/([Gg]/ [Ff]4) |!f!{/d} (3(ded c2 B2 | =A)z/(^G/ F2) z2 |$!p!{/B} (3(BcB A2 G2 | %14
+ F)z/([Ee]/ [Dd]4) |!f!{/G} (3(GAG F2 E2 | D)z/(C/ B,2) !>!F2 |"_poco a poco cresc." ^EF ^G2 AG | %18
+ F^G A2 BA |$ ^GA B2 cB | AB c2 ^dc | ^Bc ^d2 ^ed | c^d ^e2 f2 | ^ef ^g2 a2 |$ f4 ([^B,F]2 | %25
+!p! ^E"_poco a poco cresc."F ^G2 AG | F^G A2 BA | ^GA B2 cB | AB c2 ^dc |$ ^Bc ^d2 ^ed | %30
+ c^d ^e2 f2 | [c^e]>[dd'] [cc']2 ^ga | f4) f2 |!p!({f^g} f)^e f2 d2 | c2 A4 |$(({f^g} f)^e f2 d2 | %36
+ c2 A4) |(({f^g} f)^e f2 d2 | c2 A4) |({/^G2((f)^g} f)^e f2 d2 | c2 A4) |$!p!(({f^g} f)^e f2 d2 | %42
+ c2 A4) |(({f^g} f)^e f2 d2 | c2 A4) |(({f^g} f)^e f2 d2 | c2 A4) |$({/^G2((f)^g} f)^e f2 d2 | %48
+ c2 A2) !>![DF]2 | ^EF ^G2 AG |"_poco cresc." F^G A2 BA | ^GA B2 cB |$ AB c2 ^dc | ^Bc ^d2 ^ed | %54
+ c^d ^e2 f2 | ^ef ^g2 a2 | f4 (!>![^B,F]2 |!p! ^E"_poco a poco cresc."F ^G2 AG |$ F^G A2 BA | %59
+ ^GA B2 cB | AB c2 ^dc | ^Bc ^d2 ^ed | c^d ^e2 f2 |$ [c^e]>[dd'] [cc']2 ^ga | [Af]2) [ff']2 z2 |] %65
+V:2
+ x | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x D C | %18
+ C C ^D |$ E =F E | E A ^^F | ^G A G | =B [Bc] c | c c c |$ z [Ac] x | C D C | C C ^D | E =F E | %28
+ E A ^^F |$ ^G A G | =B [Bc] c | x2 c | z [Ac] x | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | %42
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | D D C | C C ^D | E =F E |$ E A ^^F | ^G A G | =B [Bc] c | %55
+ c c c | z [Ac] x | C D C |$ C C ^D | E =F E | E A ^^F | ^G A G | =B [Bc] c |$ x2 c | x3 |] %65
+V:3
+"m" z |!ped! B,, [F,D] [F,D]!ped-up! |""!ped! F,, [F,^A,E] [F,A,E]!ped-up! | %3
+"m"!ped! B,, [F,D] [F,D]!ped-up! |"m"!ped! F,, [F,A,C] [F,A,C]!ped-up! | %5
+""!ped! =G,, [D,B,] [D,B,]!ped-up! |""!ped! D,, [D,A,] [D,A,]!ped-up! |$ %7
+"m"!ped! E,,"m" [B,,C,G,]!ped-up!"" [F,,^A,,E,] |"m" z"m" [F,,D,]"C{" z | %9
+!ped! B,, [F,D] [F,D]!ped-up! |""!ped! F,, [F,^A,E]!ped-up! [F,A,E] | %11
+"m"!ped! B,, [F,D] [F,D]!ped-up! |"m"!ped! F,, [F,A,C]!ped-up! [F,A,C] |$ %13
+""!ped! =G,, [D,B,] [D,B,]!ped-up! |""!ped! D,, [D,A,]!ped-up! [D,A,] | %15
+"m"!ped! E,,"m" [B,,C,G,]!ped-up!"" [F,,^A,,E,] |"m" z"m" [F,,D,]"C{" z | %17
+"m"!ped! C,,"" [C,F,B,]!ped-up!"" [C,^E,B,] |"m"!ped! F,, [F,A,]!ped-up!"" [=F,A,] |$ %19
+"" [E,B,]"" [E,A,=D]"" [E,^G,D] |""!ped! A,, [A,E]!ped-up!"" [A,C] | %21
+"" [^G,^D]"" [G,C^F]"" [G,^B,F] |""!ped! C,[K:treble] [C^G]"" [CA]!ped-up! | %23
+"" [CB] [C^EB]"" [CEB] |$[K:bass]"m"!ped! F,, [F,CF]!ped-up!"C.Fr6{" [D,^G,] | %25
+"" [C,^G,]"" [C,F,B,]"" [C,^E,B,] |"m"!ped! F,, [F,A,]!ped-up!"" [=F,A,] | %27
+"" [E,B,]"" [E,A,D]"" [E,^G,D] |""!ped! A,, [A,E]!ped-up!"" [A,C] |$ %29
+"" [^G,^D]"" [G,C^F]"" [G,^B,F] |""!ped! [C,C]!ped-up![K:treble] [C^G]"" [CA] | %31
+"" [C^GB]/>[CFB]/ [C^EB] [CEB] |[K:bass]"m"!ped! F,, [F,CF]!ped-up!"C{" z | %33
+"m"!ped! B,, [F,B,D] [F,B,D]!ped-up! |"m"!ped! F,, [F,A,C] [F,A,C]!ped-up! |$ %35
+""!ped! D, [F,A,D] [F,A,D]!ped-up! |""!ped! A,, [E,A,C] [E,A,C]!ped-up! | %37
+"m"!ped! B,, [F,B,D] [F,B,D]!ped-up! |""!ped! E, [A,CE] [A,CE]!ped-up! | %39
+""!ped! E,, [E,^G,D]"" [E,G,D]!ped-up! |""!ped! A,, [E,A,C]"m" [F,C]!ped-up! |$ %41
+"m"!ped! B,, [F,B,D] [F,B,D]!ped-up! |"m"!ped! F,, [F,A,C] [F,A,C]!ped-up! | %43
+""!ped! D, [F,A,D] [F,A,D]!ped-up! |""!ped! A,, [E,A,C] [E,A,C]!ped-up! | %45
+"m"!ped! B,, [F,B,D] [F,B,D]!ped-up! |""!ped! E, [A,CE] [A,CE]!ped-up! |$ %47
+""!ped! E,, [E,^G,D]"" [E,G,D]!ped-up! |""!ped! A,, [A,C]"m" [B,,^G,B,]!ped-up! | %49
+"" [C,^G,B,]"" [C,F,B,]"" [C,^E,B,] |"m"!ped! F,, [F,A,]!ped-up!"" [=F,A,] | %51
+"" [E,B,]"" [E,A,=D]"" [E,^G,D] |$""!ped! A,, [A,E]"" [A,C]!ped-up! | %53
+"" [^G,^D]"" [G,C^F]"" [G,^B,F] |""!ped! C,[K:treble] [C^G]"" [CA]!ped-up! | %55
+""!ped! [CB] [C^EB]"" [CEB]!ped-up! |[K:bass]"m"!ped! F,, [F,CF]!ped-up!"C.Fr6{" [D,^G,] | %57
+"" [C,^G,]"" [C,F,B,]"" [C,^E,B,] |$"m"!ped! F,, [F,A,]!ped-up!"" [=F,A,] | %59
+"" [E,B,]"" [E,A,=D]"" [E,^G,D] |""!ped! A,, [A,E]"" [A,C]!ped-up! | %61
+"" [^G,^D]"" [G,C^F]"" [G,^B,F] |""!ped! [C,C][K:treble] [C^G]!ped-up!"" [CA] |$ %63
+"" [C^GB]/>[CFB]/ [C^EB] [CEB] |[K:bass]"m"!ped! [F,CF] [F,,F,]!ped-up! z |] %65
+V:4
+ x | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | B,,,2 x | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | B,,,2 x | %17
+ x3 | x3 |$ x3 | x3 | x3 | x[K:treble] x2 | ^G/F/ x2 |$[K:bass] x3 | x3 | x3 | x3 | x3 |$ x3 | %30
+ x[K:treble] x2 | x3 |[K:bass] x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | %45
+ x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x[K:treble] x2 | ^G/F/ x2 |[K:bass] x3 | x3 |$ x3 | %59
+ x3 | x3 | x3 | x[K:treble] x2 |$ x3 |[K:bass] x3 |] %65

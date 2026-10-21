@@ -1,0 +1,31 @@
+X:1
+T:Chorale 165:
+T:O Lamm Gottes, unschuldig
+T:Chorale 165:
+T:O Lamm Gottes, unschuldig
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="S,A" snm="Pno"
+L:1/4
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ F | F F c c | d2 !fermata!c c | F G A B | (A G/F/) !fermata!F :|$ A | A A G A | %7
+ (F/E/ D) !fermata!C c | d c c A/B/ |$ (c B) !fermata!A d | c/B/ A G A | (c A) G2 | !fermata!F3 |] %13
+V:2
+ C2 | C/D/_E ED =EC FE | A2 GF E2 (E2 | E)(D D)C CD/E/ (F2 | F)E/D/ E2 C2 :|$ F2 | F2 F2 F2 E2 | %7
+ D(C C)=B, G,2 _E2 | D=E FG/A/ G2 F2 |$ A3 (G G)!fermata!^F G2 | G2 F2 (G2 G)F/E/ | F2 (F2 F2) E2 | %12
+ C6 |] %13
+V:3
+ A,B, | C2 CB,/A,/ G,2 C2 | C2 =B,2 G,2 A,2 | A,2 G,2 F,2 F,D | C2 C>B, A,2 :|$ C2 | C2 D2 D2 A,2 | %7
+ A,G, A,G,/F,/ E,2 F,2 | F,G, A,B, C2 CD |$ _E2 D2 D2 DF | =E2 ED DC C2 | CA,F,A, D2 CB, | A,6 |] %13
+V:4
+ F,,G,, | A,,2 B,,2 B,,2 A,,G,, | F,,2 G,,2 !fermata!C,2 A,,2 | D,2 E,2 F,E,D,B,, | %4
+ C,2 C,,2 !fermata!F,,2 :|$ F,2 | F,E,D,C, =B,,2 ^C,2 | D,E,F,G, !fermata!C,2 A,,2 | %8
+ B,,2 F,2 F,E, F,2 |$ F,^F,G,G,, !fermata!D,2 B,,=B,, | C,2 D,2 E,2 F,2 | %11
+ A,,B,,/C,/ D,C, B,,2 C,2 | !fermata!F,,6 |] %13

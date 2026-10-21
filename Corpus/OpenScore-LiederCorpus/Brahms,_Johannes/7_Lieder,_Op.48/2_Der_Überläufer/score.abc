@@ -1,0 +1,60 @@
+X:1
+T:7 Lieder, Op.48
+T:Der Überläufer
+C:Johannes Brahms
+Z:Traditional ("Aus des Knaben Wunderhorn")
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/4
+Q:1/4=92
+M:2/4
+I:linebreak $
+K:A
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+V:4 bass 
+V:1
+"^Andante con moto" A A | B G | F E/ E/ | C C | E E | F D | C B, | C C |$ d c/ B/ | (A/>B/) c | %10
+w: 1. In den|Gar- ten|wol- len wir|ge- hen,|wo die|schö- nen|Ro- sen|ste- hen,|Da stehn  der|Ro- * sen|
+w: ||||||||||
+ B G | F2 | G G/ G/ | A E | G G | A2 | z2 | z!p! F |:$ A A/ A/ | B G/ G/ | F E | C C/ C/ | %22
+w: gar zu|viel,|brech ich mir|ei- ne,|wo ich|will.||2. Wir|ha- ben gar|öf- ters bei-|samm'n ge-|ses- sen,  wie|
+w: ||||||||3. Hört ihr *|nicht den *|Jä- ger|bla- sen *|
+ E E/ E/ | F D | C B, | C C | d c/ B/ |$ (A/>B/) c3/4 c/4 | B G | F2 | G G | A E | G G | A2 | z2 |1 %35
+w: ist mir mein|Schatz so|treu ge-|we- sen!|Das hätt ich|mir * nicht  ge-|bil- det|ein,|dass mein|Schatz so|falsch  könnt|sein.||
+w: in dem *|Wald auf|grü- nem|Ra- sen,|den Jä- ger|mit * dem *|grü- nen|Hut,|der *|Schatz ver-|füh- ren|tut,||
+ z2 :|2[Q:1/4=80] F2 | F2 |] %38
+w: |||
+w: |3. mein'n|Schatz.|
+V:2
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |$ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |:$ x A | %19
+w: |||||||||||||||||||
+w: |||||||||||||||||||
+ x G | x2 | x C | x E | x2 | x2 | x2 | x2 |$ x c | x2 | x2 | x G/ G/ | x2 | x2 | x2 | x2 |1 x2 :|2 %36
+w: |||||||||||||||||
+w: |||||||||||mei- nen||||||
+ x2 | x2 |] %38
+w: ||
+w: ||
+V:3
+!p! (([CFA] [CFA] | [DFB] [B,FG] | [A,CF] [B,E] | [A,C]2)) | ([EAc] [EAc] | [FAd] [DAB] | %6
+ [CEA] [B,DF] | [CFA]2) |$ ([df] [ce]/[Bd]/ | [Ac]/>[Bd]/ [ce]) | ([Bd] [GB] | A2) | [DGB] [DGB] | %13
+ [EAc] [CE] | [B,FG] [B,FG] | [CFA]2- | [CFA]2 |!>(! [B,DF]2!>)! |:$!p! (([CFA] [CFA] | %19
+ [DFB] [B,FG] | [A,CF] [B,E] | [A,C]2)) | ([EAc] [EAc] | [FAd] [DAB] | [CEA] [B,DF] | [CFA]2) | %26
+ [df] [ce]/[Bd]/ |$ [Ac]/>[Bd]/ [ce] | ([Bd] [GB] | A2) | [DGB] [DGB] | [EAc] [CE] | %32
+ [B,FG] [B,FG] | [CFA]2- | [CFA]2 |1!>(! [B,DF]2!>)! :|2!p!!>(! [B,DF]2!>)! |!pp! [A,CF]2 |] %38
+V:4
+ [F,,,F,,]2- | [F,,,F,,]2- | [F,,,F,,] [G,,,G,,] | [A,,,A,,]2- | [A,,,A,,]2- | [A,,,A,,]2- | %6
+ [A,,,A,,] [B,,,B,,] | [F,,,F,,]2- |$ [F,,,F,,]2 | [F,,,F,,]2- | [F,,,F,,]2 | [F,,,F,,]2 | %12
+ ([F,,F,] [E,,E,]/[D,,D,]/ | [C,,C,]/>[D,,D,]/ [E,,E,]) | ([D,,D,] [C,,C,]/>[B,,,B,,]/ | %15
+ [A,,,A,,]/>[B,,,B,,]/) [C,,C,]- | [C,,C,]2 | ([B,,,B,,] [G,,,G,,]) |:$ [F,,,F,,]2- | [F,,,F,,]2- | %20
+ [F,,,F,,] [G,,,G,,] | [A,,,A,,]2- | [A,,,A,,]2- | [A,,,A,,]2- | [A,,,A,,] [B,,,B,,] | %25
+ [F,,,F,,]2- | [F,,,F,,]2 |$ [F,,,F,,]2- | [F,,,F,,]2 | [F,,,F,,]2 | ([F,,F,] [E,,E,]/[D,,D,]/ | %31
+ [C,,C,]/>[D,,D,]/ [E,,E,]) | ([D,,D,] [C,,C,]/[B,,,B,,]/ | [A,,,A,,]/>[B,,,B,,]/) [C,,C,]- | %34
+ [C,,C,]2 |1 ([B,,,B,,] [G,,,G,,]) :|2 ([B,,,B,,] [G,,,G,,] | [F,,,F,,]2) |] %38
+V:5
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |$ F2 | F2 | F2 | F2 | x2 | x2 | x2 | x2 | x2 | x2 |:$ x2 | %19
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | F2 |$ F2 | F2 | F2 | x2 | x2 | x2 | x2 | x2 |1 x2 :|2 x2 | %37
+ x2 |] %38

@@ -1,0 +1,29 @@
+X:1
+T:Chorale 33:
+T:Herr, ich habe missgehandelt
+T:Chorale 33:
+T:Herr, ich habe missgehandelt
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+L:1/4
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ A E/^F/ ^G A | B/c/4d/4 c/B/ B !fermata!A | c B A B | c d !fermata!e2 :|$ e f g c | %5
+ f e d !fermata!c | d d e A | d c/B/ B2 | !fermata!A3 z |] %9
+V:2
+ ED C2 B,2 A,2 | E2 EF E2 E2 | AG FE E A2 ^G | AE AB/A/ ^G4 :|$ A2 A2 G2 AG | Ad G3 G/F/ E2 | %6
+ GA B2 B^G A=G | FE EF E3 D | [^Cx]6 [xx]2 |] %9
+V:3
+ CB, A,2 E,EDC | B,^G, A,2 A,G, C2 | E2 D2 C2 F,E, | E, A,2 ^G,/A,/ B,4 :|$ C2 D2 DC C2 | %5
+ CB, C3 B, G,2 | B,DGF E3 D | CB, A,2 A,2 ^G,2 | E,6 z2 |] %9
+V:4
+ A,,B,,C,D, E,2 ^F,2 | ^G,E, A,D, E,E,, !fermata!A,,2 | A,, A,2 ^G, A,F,D,E, | %3
+ A,,G,, F,,2 !fermata!E,,4 :|$ A,,A,=G,F, E,2 F,E, | D,2 E,F, G,G,, !fermata!C,2 | %6
+ G,F,E,D, C,D,C,B,, | A,,^G,,A,,D, E,2 E,,2 |[I:staff -1] [xA,,]6 [xx]2 |] %9

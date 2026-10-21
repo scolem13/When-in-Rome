@@ -1,0 +1,68 @@
+X:1
+T:6 Lieder, Op.13
+T:Abschied
+C:Josephine Lang
+Z:Christian Reinhold [Köstlin]
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/16
+Q:1/4=75
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="Stimme\nVoice"
+L:1/8
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+L:1/8
+V:1
+"^Andante" z | z4 | z4 | z4 | z2 z!p! c |$ G3 A | B3 A | d c B3/2 G/ | A2 z F |$ (F2 B) F | %10
+w: ||||Sie|hat mich|still zum|Ab- schied an- ge-|blickt! vor|tie- * fer|
+!<(! (F2 d)!<)! z | B A G F | (A2 G) z |$ z G A c | G2 z C | A3/2 G/ A =B | c2 z c |$ %17
+w: Rüh- rung|konn- te sie Nichts|sa- gen,|dann hat sie|gleich den|Mond mir nach- ge-|schickt, den|
+!<(! (c2!>(! d)!<)! c!>)! |!<(! (c2 d)!<)! z/ c/ |!f!!>(! c B A G!>)! | (B2 A/) z/!p! c |$ f2 _e2 | %22
+w: gan- * zen|Schmerz * des|Ab- schied's nach- zu-|tra- gen, dann|hat sie|
+ d2 z d |!>(! d c B!>)! A | G2 z G |$ B2 (A2 | (G2) F/) z/ F |!p! B B A G |!<(! F2 EF!<)! | %29
+w: gleich den|Mond mir nach- ge-|schickt, den|gan- zen|Schmerz * des|Ab- schied's nach- zu-|tra- * *|
+!>(! A2 G>F!>)! |$"^dim." F2 z2 | z4 |[Q:1/4=72] z4[Q:1/4=70] |[Q:1/4=68] z4[Q:1/4=66] | %34
+w: |\- gen!||||
+ !fermata!z4 |] %35
+w: |
+V:2
+!p! (c2 | G6 c2 | [B,EG]6 [EBc]2 | [Ff]2[FAc]2{/c}[EGB]2[_B,EG]2 | %4
+ [A,CFA][I:staff +1]A,C[I:staff -1]F AFC[I:staff +1]A,) |$[I:staff -1] [EG]6 [FA]2 | [EB]6 [FA]2 | %7
+ [EGd]2[Fc]2[GB]2[B,EG]2 | [A,CFA][I:staff +1]A,C[I:staff -1]E FC[I:staff +1]A,F, |$ %9
+[I:staff -1] _EC[I:staff +1]F,_E,[I:staff -1] DB,[I:staff +1]F,D, | %10
+"_cresc."[I:staff -1] AF_E[I:staff +1]A,[I:staff -1] BFD[I:staff +1]B, | %11
+[I:staff -1] [B,B]D[A,A][CD] G[B,D]F[I:staff +1][G,D] | %12
+[I:staff -1] F[I:staff +1]A,[I:staff -1]CF EDCB, |$[I:staff +1] A,C[I:staff -1]EC FCAC | %14
+ ECEG cGEC | [FA]C[EG]!<(!C [FA]C[^G=B]!<)!E | [Ac]TE^DE FE[Ac]E |$ %17
+"_cresc." !arpeggio![EGc]C[EG]c-!>(! [^D^Fc]C[DF]c-!>)! |!<(! [EGc]C[EG]c-!<)! [^D^Fc]C[DF]c | %19
+!f!!>(! [_E_e][^Fc][Dd][GB] [Cc][=FA][=E=e][Gc]!>)! | [EGce]Gce fcAF |$ %21
+!p! z[I:staff +1] F,C[I:staff -1]F z[I:staff +1] A,[I:staff -1]_EF | %22
+[I:staff +1] F,B,[I:staff -1]DF[I:staff +1] B,[I:staff -1]DFB |!>(! [Bd]D[Ac]D [GB]D[FA]D!>)! | %24
+ [EG]8 |$ G4!<(! F4!<)! |!>(! B4!>)! A4 | G4 d2 z2 | c8 | c4 e4 |$ [Ff]cAF z2 (c2 |!p! [EG]6 c2 | %32
+ [EG]6 [EBc]2 | [Ff]2[FAc]2{/c}[EGB]2[B,EG]2 | !fermata![A,CFA]8) |] %35
+V:3
+ z2 | z (C=B,C B,CB,C | z C=B,C _B,CG,C | A,C=B,C C,CB,C) | F,8 |$"^legato" (_B,C=B,C _B,CA,C | %6
+ z C=B,C B,CF,C) | B,CA,C G,DC,C | F,8 |$ A,,4 B,,4 | [C,,C,]4 [D,,D,]4 | %11
+ [G,,D,G,]2[A,,D,^F,]2[B,,D,]2=B,,2 | C,8 |$ F,,4 F,4 | [F,G,B,C]8 | [F,A,C]6 [E,E]2 | A,8 |$ %17
+ [B,,B,]4 [A,,A,]4 | [B,,B,]4 [A,,A,]4 | [G,,G,]4 C,2C2 | [C,G,B,C]4 [F,A,C]4 |$ A,,4 [F,,F,]4 | %22
+ B,,4 B,4 | [G,,,G,,]2[A,,,A,,]2[B,,,B,,]2[=B,,,=B,,]2 | [C,,C,]8 |$ E,4 F,4 | %26
+ [^C,,^C,]4 [D,,D,]4 | [B,,D,F,G,]2[B,,D,F,G,]2[B,,D,F,G,]2[G,,B,]2 | C,8 | C,4 C4 |$ %30
+ !arpeggio![F,,C,A,]4 CA,F,C, | z C=B,C B,CB,C | z C=B,C _B,CG,C | A,C=B,C C,CB,C | %34
+ z A,F,C, !fermata!F,,4 |] %35
+V:4
+ x2 | [B,E]8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ _E4 D4 | A4 B4 | %11
+ x4[I:staff +1] G,[I:staff -1] x[I:staff +1] =F,[I:staff -1] x | x8 |$ x8 | x8 | x8 | x8 |$ x8 | %18
+ x8 | x8 | x8 |$ x8 | x8 | x8 | z C=B,C ^D=EF^F |$ %25
+ G[I:staff +1]CB,G,[I:staff -1] FC[I:staff +1]A,F, | %26
+[I:staff -1] BGE[I:staff +1]B,[I:staff -1] AFD[I:staff +1]A, | %27
+[I:staff -1] GFD[I:staff +1]G,[I:staff -1] dGFD | z AFC[I:staff +1] A,2[I:staff -1] z2 | %29
+ cAFC ecGE |$ x8 | B,8 | B,8 | x8 | x8 |] %35
+V:5
+ x | C,4 | C,4 | x4 | x4 |$ x4 | G,3 F, | B,A,G,C, | x4 |$ x4 | x4 | x4 | x4 |$ F,,4 | x4 | x4 | %16
+ x4 |$ x4 | x4 | x4 | x4 |$ x4 | B,,4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | C,4 | C,4 | x4 | %34
+ x4 |] %35

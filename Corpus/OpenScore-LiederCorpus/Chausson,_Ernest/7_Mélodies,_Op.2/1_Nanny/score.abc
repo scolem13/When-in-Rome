@@ -1,0 +1,95 @@
+X:1
+T:7 Mélodies, Op.2
+T:Nanny
+C:Ernest Chausson
+Z:Leconte de Lisle
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:E
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:3 treble 
+L:1/16
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Lentement" z6 | z6 |!p!!>(! e2 d2 =d d |$ c2- c z z =c!>)! | B4 G E | E2 E2 z2 | %6
+w: ||Bois chers aux ra-|miers, _ pleu-|rez, doux feuil-|la- ges,|
+ z3/2!mf! =c/"^cresc." c2 c3/2 c/ |$ =d2 d2 z3/2!mf! d/ |"^cresc." ^d4 d3/2 d/ |!f! =f4- f f | %10
+w: Et  toi, sour- ce|vi- ve, et|vous, frais sen-|tiers, * Pleu-|
+!>(! e2 d d (3=d d d |$ =c2!>)!!mp! =F2 z!>(! c | B3/2 B/ B"^rit."[Q:1/4=56] z z[Q:1/4=54] =G | %13
+w: rez, ô bru- yè- res sau-|va- ges, Buis-|sons de  houx et|
+ =G[Q:1/4=52] E!>)!!p! E2 z!f!"^Poco"[Q:1/4=70] B |$"^animato" B4 B, B, | =C2 C C E D | D2 D2 z2 |$ %17
+w: d'é- glan- tiers. Prin-|temps, roi fleu-|ri de la ver- te‿an-|né- e,|
+ z2!f! B2 G G | D2 z2 (DC) | C2 z c (3c c c |$ c3!mf! C C C | =D3 D F ^E | ^E2 E2 z c | %23
+w: O jeu- ne|Dieu, pleu- *|re! E- té mû- ris-|sant, cou- pe ta|tres- se cou- ron-|né- e; Et|
+ =d3 =G G2- |$!<(! =G3 G B =d!<)! | ^d4- d!mf![Q:1/4=60]"^Tempo I" B[Q:1/4=56][Q:1/4=52] | %26
+w: pleu- re,‿Au- tom-|* ne rou- gis-|sant. _ L'an-|
+!>(! e2 d2 =d2 | c4 ^A A!>)! |$ =c4- c B | B2 B2 z2 |!<(! B B =d2- d d!<)! |$ ^d2- d z z2 | %32
+w: gois- se d'ai-|mer brise un|cœur _ fi-|dè- le.|Ter- re‿et ciel, _ pleu-|rez! _|
+!f![Q:1/4=58]"^en retenant" =g3 e =c B | ^A4-[Q:1/4=56]"^rit." A z |$ %34
+w: Oh! Que je l'ai-|mais! _|
+[Q:1/4=50]"^un peu plus lent" z2 z2!p! B =G | F3 F (3=c c c |"^dim." B2 B2 z =d |$ %37
+w: Cher pa-|ys, ne par- le plus|d'el- le; Nan-|
+ c2-[Q:1/4=48]"^en retenant" c z z =c |[Q:1/4=46] B B =G3 E |!pp! E4- E z | !fermata!z6 |] %41
+w: ny _ ne|re- vien- dra ja-|mais!  _||
+V:2
+!mf!!>(! e4 d4 =d4 | c8 =c4!>)! |!p! B4 x8 |$ (^AFC^A,) (cAFC) (=cFDB,) | %4
+ (BGEB,) (BGEB,) (GEB,G,) | %5
+ (EB,[I:staff +1]G,E,)[I:staff -1] (EB,[I:staff +1]G,E,)[I:staff -1] (EB,[I:staff +1]G,E,) | %6
+!mf![I:staff -1] (=cAE=C) (cAEC) (cAEC) |$ (BG=DB,) (BGDB,) (BGDB,) | (=cF^DB,) (cFDB,) (cFDB,) | %9
+!f! (=fBG=D) (fBGD) (fBGD) | e4 ^d4 =d4 |$ =c4 x8 | (B=GEB,) (BGEB,) (GE=C=G,) | %13
+ (=GEB,=G,) (GEB,G,) (GEB,G,) |$!mf!"^Poco animato" (BFDB,) (FDB,F,) (DB,[I:staff +1]F,D,) | %15
+[I:staff -1] x8 E2D2 | %16
+ (DB,[I:staff +1]F,D,)!<(![I:staff -1] (FD[I:staff +1]B,F,)[I:staff -1] (BFDB,)!<)! |$ %17
+ (BGDB,) (GDB,G,) (DB,[I:staff +1]G,D,) |[I:staff -1] x4 x4 D2C2 | x4 x4"_cresc." G(CEG) |$ %20
+ (cG^EC) (GECG,) (EC[I:staff +1]G,^E,) |[I:staff -1] x8 F2^E2 | %22
+ (^EC[I:staff +1]G,^E,)[I:staff -1] (GECG,) (cGEC) |"_cresc." (=dB=G=D) (BGDB,) (GDB,=G,) |$ %24
+ (B,=G,B,=D) (=GB,DG) (BDGB) |!f! (^d!>(!BA"^rit."!courtesy!^D) (BAFB,) (AFDA,)!>)! | %26
+!mf! e4 d4 =d4 | c8 x4 |$!mp! =c4 c4 c2B2 | B8 x4 | e12 |$ ^d8 d4 |!f! =g4 e4 =c2B2 | ^A8 x4 |$ %34
+!p! (B=GEB,) (BGEB,) (BGEB,) | (=cFDB,) (cFDB,) (dcAD) | x4 d4 =d4 |$ c8 =c4 | B4 =G4 E4 | x12 | %40
+ x12 |] %41
+V:3
+ (eBGE) (dBGD) (=dBG=D) | c^AEC (cAEC) (=cFDB,) | (BGEB,) (BGDB,) (BG=DB,) |$ x12 | x12 | x12 | %6
+ x12 |$ x12 | x12 | x12 | (ecAE) (^d=cFD) (=dBG=D) |$ (=cA=F=C) (cAFC) (cA^DC) | x12 | x12 |$ x12 | %15
+ (E=C[I:staff +1]A,E,)[I:staff -1] (EC[I:staff +1]A,E,)[I:staff -1] (EC[I:staff +1]A,F,) | x12 |$ %17
+ x12 | (G,D,G,B,)[I:staff -1] (DB,[I:staff +1]G,D,)[I:staff -1] (DB,[I:staff +1]G,E,) | x12 |$ %20
+ x12 | %21
+[I:staff -1] (F=D[I:staff +1]B,F,)[I:staff -1] (FD[I:staff +1]B,F,)[I:staff -1] (FD[I:staff +1]B,G,) | %22
+ x12 | x12 |$ x12 | x12 |[I:staff -1] eBGE dBGD =dBG=D | (c^A^^FC) (cAFC) (cAFC) |$ %28
+ (=c^FD=C) (cFDC) (cFDB,) | (BGEB,) (BGEB,) (BGEB,) | (eBGE) (eBGE) (eBGE) |$ %31
+ (d=cAD) (dcAD) (dBAD) | ([=G=g]e=cG) (ecGE) (cGE=C) | (^A=GE^A,) (AGEA,) (AGEA,) |$ x12 | x12 | %36
+ (eBGE) (dBGD) (=dBG=D) |$ (c^AEC) (cAEC) (=cFDB,) | (B=GEB,) (GEB,=G,) (EB,[I:staff +1]=G,E,) | %39
+ x12 | x12 |] %41
+V:4
+!ped! (3(E,,B,,G,) (3(E,,B,,G,)!ped-up!!ped! (3(E,,B,,G,)!ped-up! | %1
+!ped! (3(E,,C,^A,) (3(E,,C,A,)!ped-up!!ped! (3(E,,B,,=A,)!ped-up! | %2
+!ped! (3(E,,B,,G,) (3(E,,B,,G,)!ped-up!!ped! (3E,,B,,G,!ped-up! |$ %3
+!ped! (3(E,,C,^A,) (3(E,,C,A,)!ped-up!!ped! (3(E,,B,,=A,)!ped-up! | %4
+!ped! (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,E,)!ped-up! | (3(E,,^A,,B,,) (3(E,,A,,B,,) (3(E,,A,,B,,) | %6
+!ped!!<(! (3(E,,=C,A,) (3(E,,C,A,) (3E,,C,A,!ped-up! |$ (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,G,) | %8
+ (3(E,,B,,A,) (3(E,,B,,A,) (3(E,,B,,A,)!<)! | (3(E,,=D,B,) (3(E,,D,B,) (3E,,D,B, | %10
+!>(! (3(E,,C,A,) (3(E,,^D,A,) (3(E,,=D,G,) |$ (3(E,,=C,A,) (3(E,,C,A,) (3(E,,B,,A,) | %12
+ (3(E,,B,,=G,) (3(E,,"^rit."B,,G,) (3(E,,=C,E,) | (3(E,,B,,E,) (3(E,,B,,E,) (3(E,,B,,!>)!!p!E,) |$ %14
+ [B,,,B,,]6 | [A,,,A,,]4 [F,,,F,,]2 | [B,,,B,,]6 |$ [G,,,G,,]6- | %18
+ [G,,,G,,]2 [F,,,F,,]2 [E,,,E,,]2 |[I:staff -1] C/[I:staff +1](C,/E,/G,/ C/)G,/C/E/ x2 |$ %20
+ [C,,C,]6 | [B,,,B,,]4 [G,,,G,,]2 | [C,,C,]6 | [B,,,B,,]6- |$ [B,,,B,,]6 | [B,,,,B,,,]6 | %26
+!>(! (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,G,) | (3(E,,C,^A,) (3(E,,C,A,) (3(E,,C,A,)!>)! |$ %28
+ (3(E,,B,,=A,) (3(E,,B,,A,) (3(E,,B,,A,) | (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,G,) | %30
+!<(! (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,G,) |$ (3(E,,B,,F,) (3(E,,B,,F,) (3(E,,B,,A,)!<)! | %32
+ (3(E,,=C,=G,) (3(E,,C,G,) (3(E,,C,G,) |!>(! (3(E,,^C,=G,) (3(E,,C,G,)"^rit." (3(E,,C,G,)!>)! |$ %34
+ (3(E,,B,,=G,) (3(E,,B,,G,) (3(E,,B,,G,) | (3(E,,B,,A,) (3(E,,B,,A,) (3(E,,B,,F,) | %36
+!>(! (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,G,) |$ %37
+ (3(E,,C,^A,)"^en retenant" (3(E,,C,A,) (3(E,,B,,=A,) | (3(E,,B,,=G,) (3(E,,B,,E,) (3(E,,^A,,B,,) | %39
+ (B,/=G,/E,/B,,/)!pp! (B,/G,/E,/B,,/) B,/-[G,B,]/-[E,G,B,]/-[B,,E,G,B,]/-!>)! | %40
+!ppp! !fermata![B,,E,G,B,]6 |] %41
+V:5
+ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | %18
+ x3 | [C,,,C,,]3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | %35
+ x3 | x3 |$ x3 | x3 | E,,3- | !fermata![E,,,E,,]3 |] %41

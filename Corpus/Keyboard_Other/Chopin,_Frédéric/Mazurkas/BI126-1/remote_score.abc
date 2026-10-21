@@ -1,0 +1,71 @@
+X:1
+T:Mazurkas
+C:Frédéric Chopin
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=116
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble nm="piano"
+L:1/8
+V:2 treble 
+V:3 bass nm="piano"
+V:4 bass 
+V:1
+"^Allegretto""_dolce" (E2 | Ace=efG | A)(c({/f}_e)=d !>!e2) | (_df=gbaf | d)(=e({/g}f)e !>!f2) | %5
+ (GABcd=B |$ c)z/(=D/({/F}E)D !>!E2) | ([GB][Ac][B_d][ce][df][=B=d] | [ce])z/(=D/({/F}E)D !>!E2) | %9
+ (Ace=efG | A)(c({/f}_e)=d !>!e2) |$ (_df=gbaf | d)(=e({/g}f)e !>!f2) | (GABcd=B | %14
+ c)z/(=D/({/F}E)D !>!E2) | ([GB][Ac][B_d][ce][df][=B=d] |$ [ce])z/(=D/({/F}E)D !>!E2-) | (F4 G2- | %18
+ G>AAB c2- | cd c3 B | dc({/d}c)=B c2 |$ F4 G2- | G>AAB c2- | c=d =B3 G |!<(! =de c4!<)! | %25
+ F4 G2- |$ G>AAB c2- | cd c3 B | dc({/d}c)=B c2 | F4 G2- | G>AAB c2- |$ c=d =B3 G | =de c3) (e | %33
+ !>!e4- ee | =d4 c2) | (!>!e4- ee | =d2 c4) |$ (!>!e4- ee | =d4 c2) | (e4- ee | =d2 c4) | %41
+ z2 (G^G=A=G, | .C2)({/=A} (G)^F G2 |$ .C2) (G=B=A=B, | !>!C6) |"_sotto voce" (=E4 F2- | %46
+ F=E({/F}E)^D E2- | E2 =EG F2 | =E=B,!pp! C2 G=B |$ c4) (G=B | c=BG=dcB |!<(! G_dc=BGd | %52
+ c=B_BdcB)!<)! |:!f! (Ace=efG | A)(c({/f}_e)=d !>!e2) |$ (_df=gbaf | d)(=e({/g}f)e !>!f2) | %57
+ (GABcd=B | c)z/(=D/({/F}E)D !>!E2) | ([GB][Ac][B_d][ce][df][=B=d] |$ %60
+ [ce])z/(=D/({/F}E)D !>!E2-) :| (F4 G2- | G3/2 A/ AB c2- | cd c3 B | dc({/d}c)=B c2) |$ (F4 G2- | %66
+ G3/2 A/ AB c2- | c=d =B3 G | =de c4) | (F4 G2- |$"_dim." G3/2 A/ AB c2- | cd c3 B | %72
+ dc({/d}c)=B c2) | (F4 G2- | G3/2 A/ AB !fermata!c2) |] %75
+V:2
+ x | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | E _D2 | %18
+ C2 _G | F2 =G | F/E/E/=D/ E- |$ E _D2 | C2 =D | E =D F | E3- | E _D2 |$ C2 _G | F2 =G | %28
+ F/E/E/=D/ E- | E _D2 | C2 =D |$ E =D F | E2 E- | E F/G/ F- | F/F/ E E | G/A/G/A/ F- | F/F/ E2 |$ %37
+ z G/A/ F- | F/F/ E E | G/A/G/A/ F- | F/F/ =E2 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | %50
+ x3 | x3 | x3 |: x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 :| E _D2 | C2 _G | F2 =G | F/E/E/=D/ E- |$ %65
+ E _D2 | C2 =D | E =D F | E3- | E _D2 |$ C2 _G | F2 =G | F/E/E/=D/ E- | E _D2 | C2 !fermata!E |] %75
+V:3
+"" z |""!ped! A,,, [E,CE]"" [E,DE]!ped-up! |""!ped! A,, [A,C_G] [A,CG]!ped-up! | %3
+""!ped! D, [A,DF] [A,DF]!ped-up! |"m"!ped! B,, [A,DF] [A,DF]!ped-up! | %5
+""!ped! E, [G,DE] [G,DE]!ped-up! |$""!ped! A,, [E,A,C] [E,A,C]!ped-up! | %7
+""!ped! E,, [E,G,DE]"" [E,G,DE]!ped-up! |""!ped! A,, [E,A,C] [E,A,C]!ped-up! | %9
+"C{"!ped! A,,, [E,CE]"" [E,DE]!ped-up! |""!ped! A,, [A,C_G] [A,CG]!ped-up! |$ %11
+""!ped! D, [A,DF] [A,DF]!ped-up! |"m"!ped! B,, [A,DF] [A,DF]!ped-up! | %13
+""!ped! E, [G,DE] [G,DE]!ped-up! |""!ped! A,, [E,A,C] [E,A,C]!ped-up! | %15
+""!ped! E,, [E,G,DE]"" [E,G,DE]!ped-up! |$""!ped! A,, [E,A,C] [E,A,-C]!ped-up! |"" A,"m""" B,2 | %18
+""""!ped! [A,,E,] z"" [A,-E]!ped-up! |"" [D,A,]2"""" [E,D] |"""""" A,3- |$"" A,"m""" B,2 | %22
+""""!ped! [A,,E,] z"m" [A,,F,]!ped-up! |"""" [G,,G,]2"" =D |"m""m""m" G,3 |"" A,"m""" B,2 |$ %26
+""""!ped! [A,,E,] z"" [A,-E]!ped-up! |"" [D,A,]2"""" [E,D] |"""""" A,3- |"" A,"m""" B,2 | %30
+""""!ped! [A,,E,] z"m" [A,,F,]!ped-up! |$"""" [G,,G,]2"" [G,=D] |"m""m" [C,G,]2 [C,G,]- | %33
+"C{" [C,G,]"" [C,G,=B,] [C,G,B,]- |"" [C,G,B,]"m" [C,G,C]"m" [C,G,C]- | %35
+ [C,G,C]"" [C,G,=B,]"" [C,G,B,]- |"" [C,G,B,]"m" [C,G,C] [C,G,C] |$ %37
+!ped! [C,,G,,]"" [C,G,=B,]"" [C,G,B,]-!ped-up! |"" [C,G,B,]"m" [C,G,C]"m" [C,G,C]- | %39
+!ped! [C,G,C]"" [C,G,=B,]"" [C,G,B,]-!ped-up! |"" [C,G,B,]"" [C,G,C] [C,G,C] | %41
+"C{"!ped! C,, [G,=E]!ped-up!"" [G,F] |"" z!ped! [G,=E] [G,E]!ped-up! |$ %43
+!ped! C,"" [G,=E]!ped-up!"" [G,F]- |"" [G,F]""!ped! [G,=E] C,- | z!ped-up! G,/^G,/"m" =A,- | %46
+"" A,"" =G,/^F,/ G,- | G,"" G,/_B,/"m" =A, |""!ped! [C,G,]2 z!ped-up! |$ z3 | z3 | z3 |"" z3 |: %53
+""!ped! A,,, [E,CE]"" [E,D_E]!ped-up! |""!ped! A,, [A,C_G] [A,CG]!ped-up! |$ %55
+""!ped! D, [A,DF] [A,DF]!ped-up! |"m"!ped! B,, [A,DF] [A,DF]!ped-up! | %57
+""!ped! E, [G,DE] [G,DE]!ped-up! |""!ped! A,, [E,A,C] [E,A,C]!ped-up! | %59
+""!ped! E,, [E,G,DE]"" [E,G,DE]!ped-up! |$""!ped! A,, [E,A,C] [E,A,-C]!ped-up! :|"" A,"m""" B,2 | %62
+""""!ped! [A,,E,] z"" [A,-E]!ped-up! |"" [D,A,]2"""" [E,D] |"""""" A,3- |$"" A,"m""" B,2 | %66
+""""!ped! [A,,E,] z!ped-up!"m" [A,,F,] |"""" [G,,G,]2"" =D |"m""m""m" G,3 |"" A,"m""" B,2 |$ %70
+""""!ped! [A,,E,] z"" [A,-E] |"" [D,A,]2"""" [E,D] |"""""" A,3- |"" A,"m""" B,2 | %74
+"""" !fermata![A,,E,]3!ped-up! |] %75
+V:4
+ x | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | D,2 E,- | %18
+ x3 | x3 | x3 |$ D,2 E,- | x3 | x2 G, | C,/>=D,/ F, E,/D,/ | _D,2 E,- |$ x3 | x3 | x3 | D,2 E,- | %30
+ x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | C,2- C,/=B,,/ | %46
+ C,3 | C,2- C,/=B,,/ | x3 |$ x3 | x3 | x3 | x3 |: x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 :| %61
+ D,2 E,- | x3 | x3 | x3 |$ D,2 E,- | x3 | x2 G, | C,/>=D,/ F, E,/D,/ | _D,2 E,- |$ x3 | x3 | x3 | %73
+ D,2 E,- | x3 |] %75

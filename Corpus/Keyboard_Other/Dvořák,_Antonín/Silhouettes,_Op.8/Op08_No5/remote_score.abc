@@ -1,0 +1,60 @@
+X:1
+T:Silhouettes
+T:Presto
+C:Antonín Dvořák
+%%score { 1 | ( 2 3 ) }
+L:1/4
+M:3/4
+I:linebreak $
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+"^Presto"!f! C | [A,CF]2 [C^EG] | [CFA]2 [=EGB] | [EAc]2 [EAd] | [EAe]2 [FBd] | [EAc]2 [DGB] |$ %6
+ [CFA]2 [B,DG] | [A,CF]2 [G,C^E] | !fermata![F,A,CF]2!pp! .C | [CF]2 .[C^EG] | [FA]2 .[FB] | %11
+ [Fc]2 .[Fd] | [Fe]2 .[Fd] |$ [Fc]2 .[FB] | [FA]2 .[FG] | [A,F]2 .[B,C] | %16
+ !fermata![A,F]2!ff! !>!E | !>![CEA]2!<(! !>![EGB] | !>![EAc]2 !>![DBd] | !>![Ece]2 !>![Fdf]!<)! |$ %20
+ !>![Geg]2 !>![Fdf] | !>![Ece]2 !>![DBd] |!>(! !>![CAc]2 !>![B,GB] | [A,FA]2 [G,^EG]!>)! | %24
+ !fermata![A,FA]2!pp! .[D=E] | [CEA]2 .[EB] | [Ac]2 .[Ad] |$!<(! [Ae]2 .[Af] | [Ag]2 .[Af]!<)! | %29
+!>(! [Ae]2 .[Ad] | [Ac]2 .[AB] | [FA]2!>)! .[FG] | !fermata![CFA]2!ff! !>!G |$ [G^eg]2 [G^df] | %34
+ [Gc^e]2 [FG^B^d] | [FG^d]2 [^EGc] | [^EGc]2 [EGc] | [G^B^d]2 [Gc^e] | [G^B^d]2 [Gc] |$ [G^B^d]3- | %40
+ !fermata![GBd]2!pp! .G | [^eg]2 .[^df] | [c^e]2 .[G^d] | [G^d]2 .[^Ec] | [^Ec]2 .[Ec] |$ %45
+ [G^d]2 .[c^e] | [G^d]2 .[^Ec] | [G^d]3- | !fermata![Gd] z!ff! !>!C | !>![A,CF]2 !>![B,FG] | %50
+ !>![CFA]2 !>![EGB] |$ !>![EAc]2 !>![EAd] | !>![EAe]2 !>![FBd] | !>![EAc]2 !>![DGB] | %54
+ !>![CEA]2 !>![B,DG] | !>![A,CF]2 !>![B,C^E] | !fermata![^A,CF]2!pp! .C |$ [^A,CF]2 .[C^EG] | %58
+ [F^A]2 .[FB] | [Fc]2 .[FB^d] | [Fce]2 .[FB^d] | [F^Ac]2 .[FB] | [CF^A]2 .[B,FB] |$ %63
+ [CFc]2 .[^DFB] | [CF^A]2 .[B,FG] | [CFc]2 .[B,FB] |"^ritard." [CF^A]2 .[=DFB] | [CFc]2 .[DFB] | %68
+ [CF^A]2 .[B,FG] |$"^in tempo"!pp! ([F,F]2 [G,G] | [=A,=A]2 [B,B] | [Cc]2 [Dd] | [Ece]2 [DBd] | %73
+ [CAc]2 [B,GB] | [A,FA]2 [G,EG] |$ [F,DF]2 [G,EG] | [=A,^E=A]2[K:bass] [^E,CE] | [^E,C^E]3) | %78
+ [F,^A,CF]3- |"^ritard." [F,A,CF]3- | !fermata![F,A,CF]3 |] %81
+V:2
+"" C, |"m" [F,,F,]2"" [C,,C,] |"m" [F,,F,]2"" [E,,E,] |"" [A,,A,]2"" [B,,B,] | %4
+"" [C,C]2"m" [D,,D,] |"" [E,,E,]2"" [E,,E,] |$"m" [A,,,A,,]2"m" [B,,,B,,] |"" [C,,C,]2"" [C,,C,] | %8
+"m" !fermata![F,,,F,,]2"" z |"m" z .[A,,F,]"" .[C,G,] |"m" z .[F,A,]"m" .[G,B,] | %11
+"m" z .[A,C]"m" .[B,D] |"m" z .[CE]"m" .[B,D] |$"m" z .[A,C]"m" .[G,B,] | %14
+"m" z .[F,A,]"m" .[B,,G,] |"" z .[C,F,]"" .[C,^E,] |"m" .F, !fermata!F,,"" !>!=E, | %17
+"" !>![A,,E,A,]2"" !>![E,,E,] |"" !>![A,,A,]2"m" !>![B,,B,] |"" !>![C,C]2"" !>![D,D] |$ %20
+"" !>![E,E]2"" !>![D,D] |"" !>![C,C]2"m" !>![B,,B,] |"" !>![A,,A,]2"m" !>![G,,G,] | %23
+"m" [F,,F,]2"" [C,,C,] |"m" !fermata![F,,,F,,]2"" z |"" z .[C,A,]"" .[E,B,] | %26
+"" z .[A,C]"m" .[B,D] |$"" z .[CE]"" .[DF] |"" z .[EG]"" .[DF] |"" z .[CE]"m" .[B,D] | %30
+"" z .[A,C]"m" .[D,B,] |"m" z"m" .[C,A,]"m" .[B,,B,] |"m" !fermata!F,,2"" !>![G,,G,] |$ %33
+"" [C,,C,]2 [C,,C,] |"" [^E,,^E,]2"" [G,,G,] |"" [^B,,^B,]2"" [C,C] | [C,,C,]2 [C,C] | %37
+"" [G,,G,]2"" [C,C] |"" [G,,G,]2"" [^E,,^E,] |$"" [G,,G,]2 [G,,,G,,] | !fermata![G,,,G,,]2"" z | %41
+"" z .[^EG]"m" .[^DF] |"" z .[C^E]"" .[G,^D] | z .[G,^D]"" .[^E,C] | z .[^E,C] .[E,C] |$ %45
+"" z .[G,^D]"" .[C^E] |"" z .[G,^D]"" .[^E,C] |"" z .[G,^D] .[G,D] | !fermata!G,, z"m" !>![C,,C,] | %49
+"m" !>![F,,F,]2"m" !>![F,,F,] |"m" !>![F,,F,]2"" !>![E,,E,] |$"" !>![A,,A,]2"" !>![B,,B,] | %52
+"" !>![C,C]2"m" !>![D,,D,] |"" !>![E,,E,]2"" !>![E,,E,] |"" !>![A,,,A,,]2"m" !>![B,,,B,,] | %55
+"" !>![C,,C,]2"" !>![C,,C,] |"" !fermata![F,,,F,,]2"" z |$"" z .[^A,,F,]"" .[C,G,] | %58
+"" z .[F,^A,]"m" .[G,B,] |"" z .[^A,C]"" .[B,^D] |"" z .[^A,CE]"" .[B,^D] | %61
+"" z .[E,F,^A,C]"m" .[=D,F,B,] |"" z .[C,F,]"m" .[D,F,] |$"" z .[^A,,F,]"" .[B,,F,] | %64
+"" z .[C,F,]"m" .[=D,F,] |"" z .[E,F,]"" .[^D,F,] |"" z .[C,F,]"m" .[B,,F,] | %67
+"" z .[^A,,F,]"m" .[B,,F,] |"" z .[C,F,]"m" .[=D,F,] |$"m" F,,2 G,, | =A,,2 B,, |"" C,2 D, | %72
+ E,2 D, | C,2"" B,, | A,,2 G,, |$ F,,2"m" G,, |"" A,,2"" ^E,, | ^E,,3 |"" F,,3 | %79
+"C{"!ppp! ^a2"" ^e- | e"" g"" !fermata!f |] %81
+V:3
+ x | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | %38
+ x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ %57
+ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ F,,3- | F,,3 | E,,3- | E,,3- | %73
+ E,,2 D,,- | D,,3- |$ D,,3 | C,,3- | C,,3 | F,,,3 | x3 | x3 |] %81

@@ -1,0 +1,72 @@
+X:1
+T:Die gute Nacht
+C:Clara Schumann
+Z:Friedrich Rückert
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+L:1/4
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Einfach" z | z z!p!"^legato" F | F2 F | D3- | D3 | z3 | G!>(! G G!>)! | G2 F | z3 | %9
+w: |Die|gu- te|Nacht,-|||die ich dir|sa- ge,||
+!<(! (B3!<)! |$!mf! d2 B |!>(! A3-!>)! |!p! A3) | z3 | z3 | z3 | z z!p! F |!<(! F2!<)! F | %18
+w: Freund,|hö- rest|du!|||||Ein|En- gel,|
+ z!<(! E E!<)! |$ G2 G |!>(! G F!>)! z |!p! B3- | B B B | A3- | A2 z |$ z3 | z3 | z3 | z3 | %29
+w: der die|Bot- schaft|tra- ge,|geht|* ab und|zu.||||||
+ z z (_B |$ _B2 B | G2 G | =F2!<(! _E!<)! | _E!mf! D/ _B/!>(! A/ G/!>)! |!p! =F3) |$ z3 | z3 | %37
+w: Er|bringt sie|dir und|hat mir|wie- der den Gruss ge-|bracht:|||
+[Q:1/4=78] z3[Q:1/4=76][Q:1/4=73] |[Q:1/4=69] z3[Q:1/4=66] |!pp![Q:1/4=80]"^a tempo" F F F | %40
+w: ||Dir sa- gen|
+ E2 E |$!<(! G2!<)! B/!mf!d/ |!>(! d!>)! D z |!p! B3 | B2 B |!pp! A3- | A2 z |$ z3 | z3 | z3 | %50
+w: auch des|Freun- des *|Lie- der|jetzt|gu- te|Nacht.|.||||
+ z3 |$ z3 | z3 | z3 | z3 | z3 | !fermata!z3 |] %57
+w: |||||||
+V:2
+!p! [A,DF]2 | [A,DF]6- | [A,DF]6 | [B,D]6- | [B,D]6 |!mp! [DG]6 | [EG]6 |!p! G4 F2- | F6 | %9
+ ([DGB]6 |$!mf! [DBd]4 [DGB]2 | [DA]6- | [DA]6) | ([B,DG]6 | [GB]4 [EG]2 | [F,A,DF]6- | %16
+ [F,A,DF]6) | [DF]6 | [E,A,CE]6 |$ [DG-]6 | G2 F2 z2 | [GB]6- | [GB]2!mf! [GB]2 [GB]2 | %23
+!f! [FA][GB][FA][GB][FA][GB] | [FA][df][ce][Bd][Ac]!mp![GB] |$ [FA][FA][FA][FA][=FA][FA] | %26
+ [E=FA][EFA] [EFA][EFA] !>!A2 |!mf! !>!_B2 !>!=c2 !>!d2 |!f! !>!_e3!>(! e!mp!d=c!>)! | %29
+ z [=F_Bd] z [FBd] z [FBd] |$ z [G_Bd] z [GBd] z [GBd] | z [G=c] z [Gc] z [Gc] | %32
+ z [=F=c] z [Fc] z [Fc] | z!mf! [_E=c] z [D_B] z [EG] | z!p! [D=F]2 ([_Bd][A=c][GB] |$ %35
+ [=FA]3) ([_Bd][A=c][GB] | [_Bd]3) ([_EG][D=F][=CE] | %37
+"^ritard." [_B,D])[B,D][B,D][B,D][A,D]!mp![A,D] | [A,D][A,D]!mf![G,D][G,D]!f![G,DE]!mf![G,DE] | %39
+ [DF]2 [DF]2 [DF]2 | [E,A,CE]6 |$ [DG]6 | [A,DF]6 | [B,GB]6- | [B,GB]2 [GB]2 !arpeggio![GBd]2 | %45
+ (!arpeggio![FAd][GB][FA][GB][FA][GB] | [FA][df][ce][Bd][Ac][GB] |$ [FA][df][ce][Bd][Ac][GB] | %48
+ [FA]2) z2 z2 | (B3!<(! c^de!<)! |!mf! fe=d!>(!B^G!>)!!p!E |$ [C=GB]3)!<(! (^DEF!<)! | %52
+!mf! A!>(!GECB,!>)!A, | [G,A,CE]6-) | E2 F2 C2- | (3CDE D4- | !fermata!D6 |] %57
+V:3
+ [D,F,]2 | [D,F,]6- | [D,F,]6 | [B,,F,]6- |!<(! [B,,-F,]6!<)! | [B,,G,]6 |!>(! [C,A,]6!>)! | %7
+ [D,A,]6- | [D,A,]6 |!<(! ([G,B,]6!<)! |$ [B,D]4 [G,B,]2 |!>(! [F,A,]6-!>)! | [F,A,]6) | %13
+!p!{/E,,} [B,,D,G,]6 |{/A,,} [C,G,B,]4 [E,G,]2 | [D,,A,,D,]6- | [D,,A,,D,]6 | %17
+!<(! D,,A,,D,E,F,^G,!<)! | [C,,A,,C,]6 |$ [B,,,G,,]!<(!B,,D,G, z2!<)! | [A,,,D,,A,,]6 | %21
+!<(! G,,,D,,G,,B,,D,F,!<)! | G,F,!<(!G,A,B,C!<)! | DCDCDC | D!>(!F,G,A,B,!>)!C |$ D"^cresc."DDDDD | %26
+ CCCC =CC | _B,B,[A,=C][A,C][G,B,][G,B,] | [=F,A,]!>(![F,A,][F,A,]!>)![F,A,][G,_B,][A,=C] | %29
+ z!p! [_B,D] z [B,D] z [B,D] |$ z [G,_B,D] z [G,B,D] z [G,B,D] | z [_E,_B,] z [E,B,] z [E,B,] | %32
+ z!<(! [=F,_B,] z [F,G,] z!<)! [F,A,] | z [^F,A,] z!>(! [G,_B,] z [A,=C]!>)! | %34
+ z [_B,D]2[K:treble] [D=F]2 [_EG] |$[K:bass] z2 z A,[G,_B,][A,=C] | %36
+ D ((=F,, z) A,,[G,,_B,,] [A,,=C,] |"^cresc." [_B,,D,])[B,,D,][B,,D,][B,,D,][B,,D,][B,,D,] | %38
+ [_B,,D,][B,,D,][B,,D,][B,,D,][B,,D,][B,,D,] | z!pp! (A,,D,E,F,^G,) | z (A,,,E,,A,,^C,E,) |$ %41
+ (B,,,G,,B,,D,G,B,) | z (A,,,D,,F,,A,,D,) | z (G,,,D,,G,,B,,D, | G,F,G,A,B,C) |!pp! (DCDCDC | %46
+ DF,G,A,B,C |$ D[K:treble]FGABc | d2) z2 z2 |[K:bass]!p! [E,^G,D]6- | [E,G,D]6 |$ [E,-=G,-B,]6 | %52
+ x6 |!p! [D,,A,,]6- | [D,,A,,]6- | [D,,A,,]6- | !fermata![D,,A,,]6 |] %57
+V:4
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | D6- | D4 x2 | x6 |$ x6 | x6 | x6 | x6 | C6 | x6 | x6 | x6 | %18
+ x6 |$ z2 G,A,B,C | [A,D]6 | x6 | x6 | x6 | x6 |$ x6 | x4 [_E=F][EF] | [_E=F][EF][EF][EF][EF][EF] | %28
+ =FFFFFF | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ G,2- G,A,B,C | x6 | x6 | %44
+ x6 | x6 | x6 |$ x6 | x6 | E6 | x6 |$ x6 | x6 | x6 | [G,A,C]6 | [F,A,]6- | [F,A,]6 |] %57
+V:5
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %19
+ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x3[K:treble] x3 |$ %35
+[K:bass] z =F,- F,4 | _B, z =F,,4 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ %47
+ x[K:treble] x5 | x6 |[K:bass]({/A,,} A,,6-) | A,,6 |$({/A,,} A,,6-) | [A,,E,G,A,]6 | x6 | x6 | %55
+ x6 | x6 |] %57

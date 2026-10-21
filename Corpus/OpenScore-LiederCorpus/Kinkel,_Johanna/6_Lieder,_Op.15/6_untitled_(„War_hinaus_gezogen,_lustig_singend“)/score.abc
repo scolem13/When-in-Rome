@@ -1,0 +1,61 @@
+X:1
+T:6 Lieder, Op.15
+T:"War hinaus gezogen, lustig singend, wälderwärts"
+C:Johanna Kinkel
+Z:Johanna Kinkel
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=116
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+L:1/4
+V:4 bass 
+L:1/4
+V:1
+"^Allegretto" z8 | z8 |!mf! A3 A d3 B | ^G4 A2 z2 |!p!!<(! D2 E2 F2 G2!<)! | %5
+w: ||1. War hin- aus ge-|zo- gen,|lus- tig sin- gend,|
+w: ||2. Wollt' von dan- nen|flie- hen,|doch in Schlin- gen|
+!mp! (A>B A/F/) D/F/ E2 z2 |$!f! A3 A d3!>(! _B | _B4 A2!>)! z2 |!f!!>(! =B3 A/G/ (G2 F) A!>)! | %9
+w: wäl- * * * der * wärts;|kam ein Pfeil ge-|flo- gen|von dem * schönst’ * ge-|
+w: fiel * * * der * Fuss,|die mich rück- wärts|zie- hen|Ach ver- * ge- * bens|
+!f!!>(! =c3 B/A/ ^A2 B z!>)! |!mf! B3 A/B/ =c3 A |$!>(! E3 D =C4!>)! | %12
+w: wölb- ten * Bo- gen,|traf mir * in der|Brust das Herz,|
+w: ist mein * Mü- hen,|ach ver- * ge- bens|mein Ent- schluss;|
+"^ritenuto"[Q:1/4=112]!f! =c6 _BA |[Q:1/4=108] (A2 G4) d2 | (!turn!=F4!>(! A3) G!>)! | %15
+w: traf mir *|in * der|Brust * das|
+w: Ach, ver- *|ge- * bens|mein * Ent-|
+!mp![Q:1/4=112] =F4 z4 |"^a Tempo."[Q:1/4=116] z2 z!mf! A _B2 A G |$({G2} =F2) F F (G2 F) _E | %18
+w: Herz.|Er spal- tet es|wohl bis zum tief- * sten|
+w: schluss.|O Ket- ten der|Lie- be, wer reisst euch ent-|
+ D4!mp!!<(! D z E z | F z A z!<)! F2!>(! E>D | D4!>)! z4 :|[Q:1/4=112] z8 | z8!fine! |] %23
+w: Grund. Nie, ach,|nie mehr wird’s ge- *|sund.|||
+w: zwei! Nie, ach,|nie mehr werd’ ich *|frei.|||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x2 x/ x/ x/ x/ x4 | x8 | %16
+ x8 |$ x6 =F _E | x8 | x8 | x8 :| x8 | x8 |] %23
+V:3
+!mf! [A,A]2 ^DF ([=D^G]2 d) z |!>(! !trill(!Tc2!trill)!{^Bc} fe [Fd]2 z2!>)! | %2
+!mp! [DF]A,[DF]A, [B,G]D[B,G]D | [B,^E]D[B,E]D [A,F]D[A,F]D |!p! DA,[CE]A, [DF]A,[EG]A, | %5
+ [FA]A,[DF]A, [CE]A,[CE]A, |$!f!!>(! F,A,DF _B,DG_B | _B,DG_B =CDFA!>)! | %8
+!mf! [B,GB]D[B,GB]D [=CFA]D[CFA]D | [=CFA]D[CFA]D [B,G]D[B,G]D | [^G,D]E^GE [A,=C]EAE |$ %11
+ [^G,D]E^GE [A,=C]EAE |!f! =C=FA=c CFAc | DG_Bd DGBd | [=F=c]!courtesy!=C[Fc]!>(!C [Ec]C[Ec]!>)!C | %15
+!p! [=CA]A,[CA]A, [CA]!<(!A,[CA]A,!<)! |!mf! [^CGA]A,[CGA]A, [EG]A,[EG]A, |$ %17
+ [D=F]A,[DF]A, [=C_E]=F,[CE]F, | [_B,D]=F,[B,D]F,!p! [^G,D]E,[G,D]E, | %19
+ [^F,D]A,[F,D]A, [DF]A,[G,CE]A, | [F,D]A,[F,D]A,!<(! [F,D][A,E][DF][EG]!<)! :| %21
+!mf! [A,A]2 ^DF ([=D^G]2 d) z | !trill(!Tc2!trill)!{^Bc} fe !fermata![Fd]2 z2 |] %23
+V:4
+ [B,,F,]2 [E,,E,]2 | [A,,E,G,A,]2 [D,A,] z | [D,,D,]2 [D,,D,]2 | [D,,D,]2 [D,,D,]2 | %4
+ [F,,D,] [A,,E,] D, z | D,2 A,,2 |$ D,2 G,,2 | G,,2 D,2 | %8
+ [G,,G,]/D,/[G,,G,]/D,/ [G,,G,]/D,/[G,,G,]/D,/ | [D,,D,]2 [G,,G,]2 | E,2 E,2 |$ E,2 A,,2 | %12
+ [A,,=F,A,]2 [A,,F,A,]2 | [_B,,D,G,_B,]4 | [=C,=F,A,]2 [C,G,_B,]2 | [=F,,=C,=F,]4 | %16
+ [E,,E,]2 [C,,C,]2 |$ [D,,D,]2 [A,,,A,,]2 | [_B,,,_B,,]2 [B,,,B,,]2 | [A,,,A,,]2 [A,,,A,,]2 | %20
+ [D,,A,,]2 z2 :| [B,,F,]2 [E,,E,]2 | [A,,E,G,A,]2 [D,A,] z |] %23
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 |$ F,2 _B,2 | _B,2 =C2 | x4 | x4 | x4 |$ x4 | =C2 C2 | D2 D2 | x4 | %15
+ x4 | x4 |$ x4 | x4 | x4 | x4 :| x4 | x4 |] %23

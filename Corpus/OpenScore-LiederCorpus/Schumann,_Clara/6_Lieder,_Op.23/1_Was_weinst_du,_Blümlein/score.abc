@@ -1,0 +1,70 @@
+X:1
+T:6 Lieder, Op.23
+T:Was weinst du, Blümlein?
+C:Clara Schumann
+Z:Hermann Rollett
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=84
+M:2/4
+I:linebreak $
+K:A
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:1
+"^Allegretto" E | (.c2 .B2) | d c z A | !>!f3 e | e3 z | z4 | z2 z e |$[K:A] c G A F | %8
+w: Was|weinst du,|Blüm- lein, im|Mor- gen-|schein?||Das|Blüm- lein lach- te:|
+ z/"^ritard."[Q:1/4=66] C/ ^D/ D/ !fermata!E!mf!"^a tempo"[Q:1/4=84] E | G3 E | B A z!f! A | %11
+w: was fällt dir ein. Ich|bin ja|fröh- lich, ich|
+ (d3 c | c2) z A | f3 e |$ e2 ^d d | a3 ^d | =d3 ^A |!<(! (B2 c2!<)! | e2) d ^d | f4- |!>(! f3 G | %21
+w: wei- ne|nicht die|Freu- den-|thrä- ne durch's|Aug' mir|bricht, die|Freu- den-|thrä- ne  durch's|Aug'|_ mir|
+ A2!>)! z2 |$ z4 | z4 | z2 z!p! E | (.c2 .B2) | d c z A | =f3 e | e2 z2 | z (.G .A .=F) |$ %30
+w: bricht.|||Du|Mor- gen-|him- mel, bist|blu- tig|roth,|als lä- ge|
+ (E ^D E E) | z2 z"^ritard."[Q:1/4=68] =F | E ^D !fermata!E"^a tempo"[Q:1/4=84] E | G3 E | %34
+w: dei- ne Son- ne|im|Mee- re todt? Da|lacht der|
+ B A z A | d3 c | c2 z2 |$ z2 z!f! e | e2 ^d d | (a3 ^d) | =d3 ^A | B2 c2 | d d ^d d | f4- | f3 G | %45
+w: Him- mel und|ruft mich|an:|ich|streu- e ja|Ro- *|sen auf|ih- re|Bahn, auf ih- re|Bahn,|_ ja|
+ B A z2 |$ z4 | z4 | z2 E2 | !>!c2 !>!B2 | d c z c | f3 e | e3 z | z4 |$ z2 z!p! e | c G A F | %56
+w: Ro- sen!|||Und|strah- lend|flamm- te die|Sonn' her-|vor,||die|Blu- men- blü- then|
+ C ^D/ D/ !fermata!E E | G3 E | B A z2 |!<(! !turn!c2 B A!<)! | d2!f! A A | a3 f |$ e3 A | %63
+w: freu- dig em- por. Des|Ba- ches|Wel- len|jauchz- * ten|auf, und die|Son- ne|lach- te|
+ (e2 ^d) c | B3 z | z!p! e/ e/ c G | (A^EF) F |!f! f2 G G | A z z2 |] %69
+w: freund- * lich|drauf,|und die Son- ne|lach- * * te|freund- lich da-|rauf.|
+V:2
+ z |!p! (.[Ec]2 .[EB]2) | .[EGd].[EAc] z A | !>![Af]3 [Ae] | [Ae]3!p! e | .c.G.A.F | %6
+ .C.[A,B,^D].[G,B,E] .e |$[K:A] .c.G.A .F |"_ritard." C [A,B,^D] !fermata![G,B,E] z | %9
+ z!mf! [B,EG]3 | z [A,EA] z2 | ([^EGd]4 | [Fc]2) z2 |!f! [Af]3 [Ae] |$ e2 ^d2 | afe^d | %16
+ [GB=d]3 [CF^A] |!<(! [B,FB]2 [EFc]2 | [DFd]2!<)! z [A^d] | z2 [=A=df]2- |!>(! [Adf]2 [DEG]2 | %21
+ [CA]!>)!!p! .e.c .G |$ .A .[B,^E].[CF] .[^A,C] | .D z[I:staff +1] .[E,G,][I:staff -1] z | %24
+[I:staff +1] [E,A,][I:staff -1] z z2 | (.[Ec]2 .[EB]2) | .[EGd].[EAc] z2 | [A=f]3 [Ae] | %28
+ [Ae]3 (.e | =c.G.A.=F) |$ (.E.[B,^D].[B,E]) (.e | .=c.G.A)"^ritard." [=C=F] | %32
+ [=B,E] ^D !fermata!E"^a tempo"!mf! z |!mf! z [B,EGB]3 | z [A,EA] z2 |!<(! (([^EGd]4 | %36
+ [Fc]2))!<)! z!f! A |$ [Af]3 [Ae] | e2 ^d2 | (afe^d) | [GB=d]3 [CF^A] | [FB]2 [EFc]2 | %42
+ [DFd]2 [A^d]2 | z2 [=A=df]2- | [Adf]2!>(! [DEG]2!>)! | [CA] .e.c.G |$ .A .[B,^E].[CF].[^A,C] | %47
+ .[B,D] z[I:staff +1] [E,G,][I:staff -1] z |[I:staff +1] [E,A,][I:staff -1] z z2 | %49
+!mf! [Ec]2 [EB]2 | [EGd][EAc] z [EAc] | [FAf]3 [EAe] | [EAe]3 e | .c.G.A.F |$ .C.^D.[B,E]!p! e | %55
+ .c.G.A.F | C[B,^D] !fermata![B,E] z | z !>![B,EG]3 | z2 [A,EA]2 |!<(! (([EA-c]4 | %60
+ [DAd]2))!<)! z2 |!f! a3 f |$ [Ae]3 A | ([A-e]2 [A^d])[Ac] | [FAB]3 [EBe] | [EAc]!p! (GA^E | %66
+ FCD) [F^A] |!f! [FB] z [B,DG] z | [A,CA] z z2 |] %69
+V:3
+ z | (.A,2 .G,2) | .B,.A, z2 | !>![DF]3 [CE] | [CE]3 z | z4 | z .B,,.E,, z |$[K:A] z4 | %8
+ z B,, !fermata!E,,"^a tempo" z | z D,3 | z C, z2 | (B,4 | A,2) z2 | [DF]3 [CE] |$ [=CF]4 | %15
+ [B,F]4 | ^E,3 =E, | D,2 [C,^A,]2 | [B,,B,]2 z [=CF] | z2 [B,F]2- | [B,F]2 E,2 | A,, z z .E |$ %22
+ .C .G,.A, .[=E,=G,] | .[D,F,] z .[E,,D,] z | [A,,,C,] z z2 | (.A,2 .G,2) | .B,.A, z2 | %27
+ [D=F]3 [=CE] | [=CE]3 z | z4 |$ z .B,,.E,, z | z (.E.=C .A,) | G,=F, !fermata!E, z | z D,3 | %34
+ z C, z2 | (B,4 | A,2) z A, |$ [DF]3 [CE] | [=CF]4 | [B,F]4 | ^E,3 =E, | [D,B,]2 [C,^A,]2 | %42
+ [B,,B,]2 [=CF]2 | z2 [B,F]2- | [B,F]2 E,2 | A,, z z .E |$ .C .G,.A,.[=E,=G,] | %47
+ .[D,F,] z [E,,D,] z | [A,,,C,] z z2 | A,2 G,2 | B,A, z A, | [D,A,]3 [C,A,] | [C,A,]3 z | z4 |$ %54
+ z .B,,.E,, z | z4 | z B,, !fermata!E,, z | z !>!D,3 | z2 C,2 | [=G,A,-]4 | [F,A,]2 z2 | F3 D |$ %62
+ C3 A, | ([G,A,E]2 [F,A,^D])[E,A,C] | [^D,B,]3 [=D,G,] | [C,A,] z z2 | z z z [E,C] | %67
+ [D,B,] z [E,,E,] z | [A,,,A,,] z z2 |] %69
+V:4
+ x | x4 | x4 | x4 | x4 | x4 | x4 |$[K:A] x4 | x4 | x4 | x4 | x4 | x4 | x4 |$[I:staff -1] A4 | %15
+ [A^d]4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 |[I:staff +1] B, x3 | x4 | x4 | x4 | x4 | x4 | x4 |$ %30
+ x A, G,[I:staff -1] x | x4 | x[I:staff +1] A, G, x | x4 | x4 | x4 | x4 |$ x4 |[I:staff -1] A4 | %39
+ [A^d]4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ %54
+ x[I:staff +1] [A,B,] G, x | x4 | x A, G,[I:staff -1] x | x4 | x4 | x4 | x4 | A4 |$ x4 | x4 | x4 | %65
+ x4 | x4 | x4 | x4 |] %69

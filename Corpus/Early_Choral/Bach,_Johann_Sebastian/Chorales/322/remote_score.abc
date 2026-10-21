@@ -1,0 +1,33 @@
+X:1
+T:Chorale 322:
+T:Wenn mein Stündlein vorhanden ist
+T:Chorale 322:
+T:Wenn mein Stündlein vorhanden ist
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ G | D E F G | A B !fermata!G B/c/ | d d B/c/ d | c2 !fermata!B B | c B A G/A/ |$ %6
+ B B/A/ !fermata!G B/c/ | d d B d | c2 !fermata!B B | c B A G/A/ | B B !fermata!G A |$ B B E F | %12
+ G/F/ E !fermata!D D | G A B A/B/ | (c B A2) | !fermata!G3 |] %16
+V:2
+ D | D C C D | D D E D | D/E/ F G =F | E ^F D D | D3/2 E/ F G/F/ |$ E ^D E E | D A G (B | %8
+ B) A G G | G G F/E/ D | D D E E/(F/ |$ F/)E/4F/4 G/F/ (E E/)D/ | D D/^C/ A, D | D D G G | %14
+ F/(A/ A/)G/ G F | D3 |] %16
+V:3
+ B,/A,/ | G, G, A, =B, | C B, C B, | A, A, G,/A,/ B, | B, A, G, B, | A, B, B, B, |$ B, B, B, G, | %7
+ A,/B,/ C/D/ D/E/ =F | E ^F D D | C D D D/C/ | B,/A,/ G, C C |$ B, B, B,/A,/ A,/B,/4C/4 | %12
+ B,/A,/ G, F, F,/A,/ | B, A, G, E/D/ | C/D/ D E D/C/ | B,3 |] %16
+V:4
+ G,,/A,,/ | B,, _B,, A,, G,, | F,, G,, !fermata!C, G, | F,/E,/ D, E, B,, | C, D, !fermata!G,, G, | %5
+ F, G, ^D, E,/F,/ |$ G,/A,/ B, !fermata!E, E, | =F, ^F, G, ^G, | A, D, !fermata!G, G,/F,/ | %9
+ E, D, C, B,,/A,,/ | G,,/A,,/ B,, !fermata!C, A, |$ G,/F,/ E,/D,/ ^C, D, | %12
+ G,, A,, !fermata!D, D,/C,/ | B,,/A,,/ G,,/F,,/ E,,/D,/ C,/B,,/ | %14
+ A,,/F,,/ G,,/B,,/ C,/A,,/ D,/D,,/ | !fermata!G,,3 |] %16

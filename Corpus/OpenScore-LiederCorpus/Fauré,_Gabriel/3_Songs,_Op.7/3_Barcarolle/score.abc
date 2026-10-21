@@ -1,0 +1,86 @@
+X:1
+T:3 Songs, Op. 7
+T:Barcarolle
+C:Gabriel Fauré
+Z:Marc Monnier
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:6/8
+I:linebreak $
+K:Ab
+V:1 treble nm="Voice"
+L:1/16
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Andante con moto" z12 | z12 |!mf! c2- (3c (BA) G2 (FG) E2 F2 | F12 |$ %4
+w: ||Gon- * do- * lier du * Ri- al-|to|
+ E2- (3E (F_G) A2 (Bc){/e} d2 c2 | c6- c4 c2 | c2- (3c (BA) G2 (FG) E2 F2 |$ F12 | %8
+w: Mon _ châ- * teau c’est _ la la-|gu- * ne,|Mon _ jar- * din c’est _ le Li-|– do.|
+!<(! E2- (3E (F_G) A2 (Bc){/e} d3 c!<)! | c6- c4 c2 |$!f! c2- (3c (de) f2- f e d2 e2 | c12 | %12
+w: Mon _ ri- * deau, le _ clair de|lu- * ne.|Gon- * do- * lier _ du grand ca-|nal,|
+ c2- c d e2 (dc) B2 A2 | B6- B4 B2 |$ B2-"^dim."(Bc) d2 c B A2 _G2 | A12 | %16
+w: pour _ fa- nal j’ai * la croi-|sé- * e|Où _ _ s'al- lu- ment tous les|soirs,|
+!p! =A2- A B c2- c2 (BA) G F |$ (=A6 G6) | F12 | z12 | %20
+w: tes _ yeux noirs, _ mon _ é- pou-|– sé- *|e.||
+"^dolce"!mp!!>(! c2- (3c (BA) G2 (FG) E2 F2!>)! | F12 |$!<(! E2- (3E (F_G) A2 (Bc){/e} d2 c2!<)! | %23
+w: Ma _ gon- * dole est _ aux heu-|reux,|deux _ à * deux, je _ les pro-|
+ c6- c4 c2 |!>(! c2- (3c (BA) G2 (FG) E2 F2!>)! | F12 |$ E2- (3E (F_G) A2 (Bc){/e} d3 c | %27
+w: mè- * ne,|Et _ les * vents lé- * gers et|frais|sont _ dis- * crets sur * mon do-|
+ c6- c4 c2 |"^poco  a  poco  cresc." c2- (3c (de) f2- f e d2 e2 |$ c12 | c2- c d e2 (dc) B2 A2 | %31
+w: mai- * ne.|J'ai _ pas- * sé _ dans les a-|– mours,|plus _ de jours et _ de nuits|
+!mf! B6- B4 B2 |$!<(! B2- B c d2 (cB) A2 _G2!<)! | A12 | %34
+w: fol- * les,|Que _ Ve- ni- se _ n’a d’î-|lots|
+!f! =A2- A B c2- c2"^rall."[Q:1/4=90] (BA) G F |$[Q:1/4=88] (=A6 G6) |[Q:1/4=92] F12- | %37
+w: que _ ses flots _ n’ont _ de gon-|\- do- *|les.|
+[Q:1/4=90] F6 z4 z2 |$[Q:1/4=88] z12 | z12 |[Q:1/4=80] z12 | z12 |] %42
+w: _|||||
+V:2
+"^Andante con moto"!p! [A,C]6 | [A,C]6 | (([A,C]3[I:staff +1] [F,G,B,]3)) | %3
+!mp!!>(![I:staff -1] F-(3(F/E/D/C) (B,/C/A,B,)!>)! |$ B,3- [B,C]3 | %5
+!mp!!>(! c-(3(c/B/A/G) (F/G/EF)!>)! | F6 |$!mp!!>(! F-(3(F/E/D/C) (B,/C/A,B,)!>)! | B,3- [B,C]3 | %9
+!mp!!>(! c-(3(c/B/A/G) (F/G/EF)!>)! |$!f! F6 |!mf! c-(3(c/B/_A/_G) (F/G/EF) | F6 | %13
+!f! B-(3(B/"_dim."A/_G/F) (E/F/DE) |$ E6 |!mp!!>(! A-(A/_G/F-) F-(F/E/D)!>)! |!p! (C3 =D3) |$ %17
+ ([=A,CE]3 [B,C=E]3 | [=A,CF]6) |!pp! [_A,C]6 | (([A,C]3[I:staff +1] [F,G,B,]3)) | %21
+!p!!>(!!>(![I:staff -1] F-(3(F/E/D/C) (B,/C/A,B,)!>)!!>)! |$ B,3- [B,C]3 | %23
+!p!!>(! c-(3(c/B/A/G) (F/G/EF)!>)! | F6 |!p!!>(! F-(3(F/E/D/C) (B,/C/A,B,)!>)! |$ B,3- [B,C]3 | %27
+!>(! c-(3(c/B/A/G) (F/G/EF)!>)! |!<(! F6!<)! |$"_cresc." c-(3(c/B/_A/_G) (F/G/EF) | F6 | %31
+!mf!!>(! B-(3(B/A/_G/F) (E/F/DE)!>)! |$ E6 | A-(A/_G/F-) F-(F/E/D) |!f! (C3"_rall." =D3) |$ %35
+ ((([=A,CE]3 [B,C=E]3))) |!f!"_a Tempo"{/F} f-(3(f/=e/=d/c) (B/c/=AB) | %37
+ c-(3(c/B/=A/G)"_dim." (F/G/EF) |$!>(! G-(3(G/F/E/=D) (C/D/B,C)!>)! |!p! [B,=E]3 z2 z | z6 | z6 |] %42
+V:3
+[I:staff +1] F,6 | F,6 | F,3- x3 | x6 |$ (([E,_G,]3 [=E,=G,]3)) | x6 | %6
+[I:staff -1] (([A,C]3 [G,B,]3)) |$ x6 |[I:staff +1] (([E,_G,]3 [=E,=G,]3)) | x6 |$ x6 | x6 | %12
+[I:staff -1] (([=A,C]3 [B,D]3)) | x6 |$ ([_G,-B,]3 [G,C]3) | [A,D]3 A,3 | %16
+[I:staff +1] [F,=A,]3- [F,A,]3 |$ x6 | x6 | F,6 | F,3- x3 | x6 |$ (([E,_G,]3 [=E,=G,]3)) | x6 | %24
+[I:staff -1] (([A,C]3 [G,B,]3)) | x6 |$[I:staff +1] (([E,_G,]3 [=E,=G,]3)) | x6 | x6 |$ x6 | %30
+[I:staff -1] (([=A,C]3 [B,D]3)) | x6 |$ ([_G,-B,]3 [G,C]3) | [A,D]3 A,3 | %34
+[I:staff +1] [F,=A,]3- [F,A,]3 |$ x6 | x6 |[I:staff -1]({/C} C4) x2 |$ B,3 x3 | %39
+ =D-(3(D/C/B,/=A,) x3 | x6 | x6 |] %42
+V:4
+ ([F,,C,-]3 [C,,C,]3) | ([F,,C,-]3 [C,,C,]3) | [F,,C,]6 | %3
+!ped!{/F,,} (([C,-F,A,]3 [C,D,F,]3))!ped-up! |$ [F,,C,]6 | %5
+!ped!{/F,,} (([C,-F,-A,C]3 [C,F,G,B,]3))!ped-up! |"^." [F,,C,]6 |$ %7
+!ped!{/F,,} (([C,-F,A,]3 [C,D,F,]3))!ped-up! | [F,,C,]6 | %9
+!ped!{/F,,} (([C,-F,-A,C]3 [C,F,G,B,]3))!ped-up! |$"^." (([F,A,]3 [G,B,]3)) | %11
+!ped!{/F,,} ((([E,=A,C]3 [_G,B,C]3)))!ped-up! | ([F,,F,-]3 [B,,F,]3) | %13
+!ped!{/E,,} (([B,,-E,-_G,B,]3 [B,,E,F,A,]3))!ped-up! |$"^." ([E,,-B,,]3"^." [E,,A,,]3) | %15
+!ped! !arpeggio![D,,A,,F,]3 [=B,,D,F,]3!ped-up! | C,6 |$ [C,,C,]6 | ([F,,C,-]3 [C,,C,]3) | %19
+ ([F,,C,-]3 [C,,C,]3) | [F,,C,]6 |!ped!{/F,,} (([C,-F,A,]3 [C,D,F,]3))!ped-up! |$ [F,,C,]6 | %23
+!ped!{/F,,} (([C,-F,-A,C]3 [C,F,G,B,]3))!ped-up! |"^." [F,,C,]6 | %25
+!ped!{/F,,} (([C,-F,A,]3 [C,D,F,]3))!ped-up! |$ [F,,C,]6 | %27
+!ped!{/F,,} (([C,-F,-A,C]3 [C,F,G,B,]3))!ped-up! |"^." (([F,A,]3 [G,B,]3)) |$ %29
+!ped!{/F,,} ((([E,=A,C]3 [_G,B,C]3)))!ped-up! | ([F,,F,-]3 [B,,F,]3) | %31
+!ped!{/E,,} (([B,,-E,-_G,B,]3 [B,,E,F,A,]3))!ped-up! |$"^." ([E,,-B,,]3"^." [E,,A,,]3) | %33
+!ped! !arpeggio![D,,A,,F,]3 [=B,,D,F,]3!ped-up! | C,6 |$ [C,,C,]6 | %36
+!ped! (([F,,-C,=A,]3 [F,,=D,F,]3))!ped-up! |!ped! ([F,,-E,-G,]3 [F,,E,=A,]3)!ped-up! |$ %38
+ [F,,=D,F,]3 z2 z | [F,,C,G,]3 (G,/=A,/F,G,) | [F,=A,]3!ped! [C,F,A,]3 | %41
+ !fermata![C,F,=A,]3!ped-up! z2 z |] %42
+V:5
+ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ [F,,C,]6 | x6 | x6 | x6 |$ x6 | x6 | x6 |$ %17
+ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | [F,,C,]6 |$ x6 | x6 | x6 |$ x6 | x6 | %34
+ x6 |$ x6 | x6 | x6 |$ x6 | x3 z2 z | [F,,C,]3 [F,,,F,,]3 | [F,,,F,,]3 x3 |] %42

@@ -1,0 +1,58 @@
+X:1
+T:7 Lieder, Op. 48
+T:Liebesklage des Mädchens
+C:Johannes Brahms
+Z:Aus des Knaben Wunderhorn (eds. von Arnim and Brentano)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/4
+M:6/4
+I:linebreak $
+K:B
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/8
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Etwas langsam" z3 z2 B | (e d) c B z z |$ e d c B A G | c2 F z z B | (e d) c (f e) d |$ %5
+w: Wer|se- * hen will|zwe- en le- ben- di- ge|Brun- nen, der|soll * mein zwei * be-|
+ (c G) B (A B) c | c3- c z z | z2 z e d c |$ B"^rit." A z B/ B/ =A G | ^E3 F2 z | z3 z2 B |$ %11
+w: trüb- * te Au- * gen|sehn, *|die mir vor|Wei- nen schier sind aus- ge-|run- nen.|Wer|
+ (e d) c (B c) d | (e d) c (B A) G | c2 F z z B |$ (e d) c (f e) d | (c G) B (A B) c | c3- c z z |$ %17
+w: se- * hen will * viel|gross * und tie- * fe|Wun- den, der|soll * mein sehr * ver-|wund'- * tes Herz * be-|sehn, *|
+ z2 z e d c | B A z/ A/ B/ B/ =A G | ^E3 F2 z |$ z6 | z6 | z6 |] %23
+w: so hat mich|Lie- be ver- wund't im tief- sten|Grun- de.||||
+V:2
+!p! (=GeFdFc FBFcFd) | (=GeFdFc FBFcFd) |$ (=GeFdFc FB^EAE!courtesy!^G) | (CFCGCA) (G=dGcGB) | %4
+ (AeA^dAc) (^BfBe^Gd) |$ (GcCGCB)!>(! (CACBCc)!>)! | (C!<(!=ACB!<(!Cc) (EcE=dEe)!<)! | %7
+!f! (=AcB^dce-!<)! e2 d2 c2) |$ DF"_rit."E=GEG"_dim." DFCEB,D | (B,^E=DEB,E A,FCAFc) | %10
+ (=GeFdFc FBFcFd) |$ (=GeFdFc FBFcFd) | (=GeFdFc FB^EAE!courtesy!^G) | (CFCGCA) (G!<(!=dGcGB) |$ %14
+ (AeA^dAc) (^BfBe^Gd)!<)! | (GcCGCB) (CACBCc) | (C!<(!=A!<(!CBCc) (EcE=dEe)!<)! |$ %17
+!f! (=AcB^dc!<)!!>(!e- e2 d2 c2) | DF!>)!E"_rit. dim."=GEG DFCEB,D | (B,^E=DEB,E A,FCAFc) |$ %20
+ (=GeFdFc FBFcFd) |!>(! x (e2 c2 A2 =G2 F2 E)!>)! |!p! x D- [B,D]4- [B,D]6 |] %23
+V:3
+"_col Ped." ([=G,A,CE] [F,A,D] [E,F,A,C] [D,F,B,] [F,-A,C] [F,B,D]) | %1
+ ([=G,A,CE] [F,A,D] [E,F,A,C] [D,F,B,] [F,-A,C] [F,B,D]) |$ %2
+ ([=G,A,CE] [F,A,D] [E,F,A,C] [D,F,B,] [C,^E,A,] [B,,E,!courtesy!^G,]) | %3
+ ([A,,F,] [C,G,] [F,A,]) [^E,G,]2 [E,G,] | [=G,A,]2 [G,A,] [=A,^B,-F] [^G,B,E] [F,G,B,D] |$ %5
+ (C G, B,) (A, G, F,) | ([F,=A,] [C,G,] [=A,,F,]) ([A,C] [E,B,] [C,A,]) | %7
+ ([CE] [B,^D] [=A,C] [G,B,] [F,A,] [E,G,]) |$ ([D,F,] [E,=G,]2) ([D,F,] [C,E,] [B,,D,]) | %9
+!<(! (B,,!>(! =D,!<)! B,,)!>)! ([F,,C,] [A,,F,] [F,A,]) | %10
+ ([=G,A,CE] [F,A,D] [E,F,A,C] [D,F,B,] [F,-A,C] [F,B,D]) |$ %11
+ ([=G,A,CE] [F,A,D] [E,F,A,C] [D,F,B,] [F,-A,C] [F,B,D]) | %12
+ ([=G,A,CE] [F,A,D] [E,F,A,C] [D,F,B,] [C,^E,A,] [B,,E,!courtesy!^G,]) | %13
+ ([A,,F,] [C,G,] [F,A,]) [^E,G,]2 [E,G,] |$ (=E ^D C) x x2 | (C G, B,) (A, G, F,) | %16
+ ([F,=A,] [C,G,] [=A,,F,]) ([A,C] [E,B,] [C,A,]) |$ ([CE] [B,^D] [=A,C] [G,B,] [F,A,] [E,G,]) | %18
+ ([D,F,] [E,=G,]2) ([D,F,] [C,E,] [B,,D,]) |!<(! (B,,!>(! =D,!<)! B,,)!>)! (C, [A,,F,] [F,A,]) |$ %20
+ ([=G,A,CE] [F,A,D] [E,F,A,C] [D,F,B,] [C,F,A,] [B,,F,B,]) | [B,,,B,,]6- | %22
+ F,/[I:staff -1]B,/-[I:staff +1] x x4 |] %23
+V:4
+ x6 | x6 |$ x6 | x3 (=D C B,) | (=E ^D C) x3 |$ [E,G,] ^E,2 F, C, A,, | x6 | x6 |$ x6 | G,,3 x3 | %10
+ x6 |$ x6 | x6 | x3 (=D C B,) |$ [=G,A,]2 [G,A,] [=A,^B,-F] [^G,B,E] [F,G,B,D] | %15
+ [E,G,] ^E,2 F, C, A,, | x6 |$ x6 | x6 | G,,3 F,, x2 |$ x6 | x6 | [B,,,B,,F,]6 |] %23
+V:5
+ x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | =A3 G/B/F/A/E/G/ |$ B ^A2 (B =A ^G) | x6 | x6 |$ x6 | x6 | %13
+ x6 |$ x6 | x6 | x6 |$ =A3 G/B/F/A/E/G/ | B ^A2 (B =A ^G) | x6 |$ x6 | %21
+ =G/c/E/^A/C/G/ A,/E/A,/D/A,/C/ | x6 |] %23

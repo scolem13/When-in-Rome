@@ -1,0 +1,45 @@
+X:1
+T:4 Lieder, Op.96
+T:Wandrers Nachtlied, D.768
+C:Franz Schubert
+Z:Johann Wolfgang von Goethe
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | 4 }
+L:1/8
+Q:1/4=38
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Singstimme\n\n          \n          \n          Voice\n        "
+V:2 bass nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+V:1
+"^Langsam" z8 | z8 | B3/2 B/ B B c2 B A | B3 B e3 d |$ d>c B2 c3/2 c/ c2 | _d3 c/ B/ F2 z F | %6
+w: ||Ü- ber al- len Gip- feln ist|Ruh’, in all- len|Wip- * feln spü- rest du|kaum ei- nen Hauch; die|
+ c3 B/A/ c>B F2 |$ d/c/ c2 B/A/ c>B F z | B3/2 A/ G2 c3/2 B/ A2 | %9
+w: Vög- lein * schwei- * gen,|schwei- * gen im _ Wal- * de.|War- te nur, war- te nur,|
+"^(    )" !turn!d>e !fermata!f2 d2 c F |$ B2 z2 B3/2 A/ G2 | %11
+w: bal- * de ru- hest du|auch, war- te nur,|
+ c3/2 B/ A2"^(    )" !turn!d>e !fermata!f2 | d2 c F B4 | z8 |] %14
+w: war- te nur bal- * de|ru- hest du auch.||
+V:2
+!pp!!<(! [F,B,D]2 [F,B,D][F,B,D]!<)!!>(! ([G,E]2 [F,D]2)!>)! | ([F,D]2 [=E,G,][_E,A,C] [D,B,]4) | %2
+ [F,B,D]2 [F,B,D][F,B,D] [F,E]4 | [F,B,D]4!<(! ([E,B,E]2!<)!!>(! [F,B,D]2)!>)! |$ %4
+ (D>C B,2)!pp! x4 | [B,_D]/[B,D][B,D][B,D](([B,D]/ [A,C]/))[A,C][A,C][A,C][A,C]/ | %6
+[K:treble] z/ [EF][EF][EF]([EF-]/ [_DF]/)[DF][DF][DF](([DF]/ |$ %7
+ [EF]/))[EF][EF][EF](([EF-]/ [DF]/))[DF][DF][DF][DF]/ | %8
+!>(! ([G,B,]>!>)![A,C] [B,D]2)[K:bass]!>(!"_cresc." ([A,E]>!>)![B,D] [F,C]2) | %9
+ ([B,D]>[F,C] !fermata![D,B,]2)!pp! (F,2 [=E,G,][_E,A,C]) |$ %10
+ ([D,B,]>[F,C] [B,D]2)!>(! ([G,B,]>!>)![A,C] [B,D]2) | %11
+"_cresc." ([A,E]>[B,D] [F,C]2) ([B,D]>[F,C] [D,B,]2) | (F,2 [=E,G,][_E,A,C] [D,B,]4) | %13
+ ([F,D]2 [=E,G,][_E,A,C] [D,B,]4) |] %14
+V:3
+ x4 B,4 | x8 | x4 A,2 B,C | x8 |$ [_G,A,]2 F,2 z/ [B,C][B,C][B,C][B,-C]/ | x8 |[K:treble] x8 |$ %7
+ x8 | x4[K:bass] F4 | x8 |$ x8 | !>!F6 x2 | x8 | x8 |] %14
+V:4
+ [B,,,B,,]2 [B,,,B,,][B,,,B,,] [B,,,B,,]4 | (F,,4 [B,,,B,,]4) | %2
+ [B,,,B,,]2 [B,,,B,,][B,,,B,,] [B,,,B,,]4 | [B,,,B,,]4 (G,,2 F,,2) |$ (E,,2 D,,2) (E,,_G,,E,,G,,) | %5
+ (=E,,=G,,E,,=E,) (F,,F,F,,F,) | (A,F,A,F, B,F,B,F,) |$ (A,F,A,F, B,F,B,F,) | [G,,D,]4 [F,,F,]4 | %9
+ !fermata![B,,,B,,]4 [F,,,F,,]4 |$ [B,,,B,,]4 [G,,D,]4 | [F,,F,]4 !fermata![B,,,B,,]4 | %12
+!p! ([F,,,F,,]4 [B,,,B,,]4) |!pp! ([F,,,F,,]4 [B,,,B,,]4) |] %14

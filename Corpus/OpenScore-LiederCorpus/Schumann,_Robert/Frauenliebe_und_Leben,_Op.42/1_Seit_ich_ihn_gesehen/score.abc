@@ -1,0 +1,73 @@
+X:1
+T:Frauenliebe und Leben, Op.42
+T:Seit ich ihn gesehen
+C:Robert Schumann
+Z:Adelbert von Chamisso
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 6 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=66
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+L:1/4
+V:6 treble 
+L:1/4
+V:3 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Larghetto" z6 |!p! F F G3 F | F F z2 B G | F3/2 E/ E2 z2 | G G _A3 G |$ G G z2 c B | %6
+w: |Seit ich ihn ge-|se- hen, glaub' ich|blind zu sein;|wo ich hin nur|bli- cke, seh' ich|
+ B3/2[Q:1/4=60]"^ritard." =A/ A2 A B | (e3 dc) B | B2 A2 A3/2 B/ | (e3 dc) =B | (=B2 c2) d d |$ %11
+w: ihn al- lein. Wie im|wa- * * chen|Trau- me schwebt sein|Bild _ _ mir|vor, _ taucht aus|
+ (d3 Ec) c | c3 B B G | F B c3 B | B4 z2 | z6 | z6 |$!pp! F F G3 F |$ F F B3 G | F3/2 E/ E2 z2 | %20
+w: tief- * * stem|Dun- kel hel- ler,|hel- ler nur em-|por.|||Sonst ist licht und|farb- los al- les|um mich her,|
+ G G _A3 G | G G z2 c B |[Q:1/4=56]"^ritard." !>!B3/2 =A/ A2 A B |$ (e3 dc) B | B2 A2 A3/2 B/ | %25
+w: nach der Schwe- stern|Spie- le nicht be-|gehr' ich mehr, möch- te|lie- * * ber|wei- nen still im|
+ (e3 dc) =B | (=B2 c2) d d | (d3 Ec) c | c2 B2 z2 |$ F B c3 B | B4 z2 | z6 | z6 | z6 | z6 | %35
+w: Käm- * * mer-|lein; _ seit ich|ihn _ _ ge-|se- hen,|glaub' ich blind zu|sein.|||||
+ !fermata!z6 |] %36
+w: |
+V:2
+!p! (.[B,F]2 .[B,G]2 z .[A,F]) | (.[B,F]2 .[B,G]2 z .[A,F]) | (.[B,F] z B3 G) | %3
+ ([=B,F]>[CE]) [CE] [C_A]2 [B,G] | (.[CG]2 .[C_A]2 z .[=B,G]) |$ [CG]2 (G3 _G) | %6
+ (B2"^ritard." =A2) ([CFA][B,FB] | [EAe]3 [DBd][CGc][CGB]) | (B2 A2) [A,CF]>[B,DF] | %9
+ [A,EF]3 [B,DF][A,CF]>[G,=B,F] | (F6 |$ E6) | (D6 |[K:bass] [B,D]2) C7/2 B,/ | %14
+ [D,B,]4!pp! ([C,B,][^C,G,]) | x2 C7/2 B,/ |[K:treble] (.[B,F]2 .[B,G]2 z .[A,F]) |$ %17
+ (.[B,F]2 .[B,G]2 z .[A,F]) |$ (.[B,F] z B3 G) | ([=B,F]>[CE]) [CE] [C_A]2 [B,G] | %20
+ (.[CG]2 .[C_A]2 z .[=B,G]) | [CG]2 (G3 _G) |"^ritard." (B2 =A2) ([CFA][B,FB] |$ %23
+ [EAe]3 [DBd][CGc][CGB]) | (B2 A2) [A,CF]>[B,DF] | [A,EF]3 [B,DF][A,CF]>[G,=B,F] | (F6 | E6) | %28
+ (D6 |$[K:bass] [B,D]2) C7/2 B,/ | [D,B,]4!pp! ([C,B,][^C,G,]) | x2 C7/2 B,/ | %32
+[K:treble]!pp! (.[B,F]2 .[B,G]2 z .[A,F]) | (.[B,F]2 .[B,G]2 z .[A,F]) | [B,F]2 z2!ppp! x2 | %35
+ x4 z2 |] %36
+V:3
+ (.[B,,D,]2 .[E,,E,]2 z .[F,,E,]) | (.[B,,D,]2 .[E,,E,]2 z .[F,,E,]) | (.[B,,D,] z (!>!D,3 G,)) | %3
+ (_A,>G,) G, [F,,F,]2 [G,,F,] | (.[C,E,]2 .[F,,F,]2 z .[G,,F,]) |$ x2 (G,3 _G,) | %6
+ [E,F,]4 ([E,F,][D,F,] | [C,F,]3 [B,,F,][E,G,]=E,) | F,4 [_E,F,]>[D,F,] | %9
+ [C,F,]3 [B,,F,][E,F,]>[D,F,] | (F,6 |$ B,,2) C,2 A,,2- | A,,2 _B,,2 ([E,,E,][=E,,=E,]) | %13
+ ([F,,F,]4 F,,2) |!pp! ([^F,,,^F,,]2 [G,,,G,,]2) ([E,,,E,,][=E,,,=E,,]) | [=F,,,=F,,-]4 [F,,F,]2 | %16
+ (.[B,,D,]2 .[E,,E,]2 z .[F,,E,]) |$ (.[B,,D,]2 .[E,,E,]2 z .[F,,E,]) |$ (.[B,,D,] z D,3 G,) | %19
+ (_A,>G,) G, [F,,F,]2 [G,,F,] | (.[C,E,]2 .[F,,F,]2 z .[G,,F,]) | [C,E,]2 (G,3 _G,) | %22
+ [E,F,]4 ([E,F,][D,F,] |$ [C,F,]3 [B,,F,][E,G,]=E,) | F,4 [_E,F,]>[D,F,] | %25
+ [C,F,]3 [B,,F,][E,F,]>[D,F,] | (F,6 | B,,2) C,2 A,,2- | A,,2 _B,,2 ([E,,E,][=E,,=E,]) |$ %29
+ ([F,,F,]4 F,,2) |!pp! ([^F,,,^F,,]2 [G,,,G,,]2) ([E,,,E,,][=E,,,=E,,]) | [=F,,,=F,,-]4 [F,,F,]2 | %32
+ (.[B,,D,]2 .[E,,E,]2 z .[F,,E,]) | (.[B,,D,]2 .[E,,E,]2 z .[F,,E,]) | [B,,D,]2 z2 [F,B,D]2- | %35
+ !fermata![F,B,D]4 z2 |] %36
+V:4
+ x3 | x3 | x [B,D]2 | x3 | x3 |$ x C2 | [CF]2 x | x3 | [CF]2 x | x3 | G,3- |$ G,2- G,/F,/- | %12
+ F,2 G, |[K:bass] F, _E,2 | x3 | D, _E,2 |[K:treble] x3 |$ x3 |$ x [B,D]2 | x3 | x3 | x C2 | %22
+ [CF]2 x |$ x3 | [CF]2 x | x3 | G,3- | G,2- G,/F,/- | F,2 G, |$[K:bass] F, _E,2 | x3 | D, _E,2 | %32
+[K:treble] x3 | x3 | x3 | x3 |] %36
+V:5
+ x3 | x3 | x [G,,D,]2 | C,3/2 x x/ | x3 |$ [C,E,] E,2 | x3 | x3 | x3 | x3 | D, C, =B,,- |$ x3 | %12
+ x3 | x3 | x3 | x3 | x3 |$ x3 |$ x !>![G,,D,]2 | C,3/2 x/ x | x3 | x E,2 | x3 |$ x3 | x3 | x3 | %26
+ D, C, =B,,- | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x x B,,- | !fermata![B,,,B,,]2 x |] %36
+V:6
+ x3 | x3 | x3 | x3 | x3 |$ x c2 | x3 | x3 | x3 | x3 | =B, C D- |$ D- D/C/- C- | C- C/B,/- B, | %13
+[K:bass] F,/B,/- B, A, | x3 | (F,/B,/- B, A,) |[K:treble] x3 |$ x3 |$ x3 | x3 | x3 | x c2 | x3 |$ %23
+ x3 | x3 | x3 | =B, C D- | D- D/C/- C- | C- C/B,/- B,- |$[K:bass] F,/B,/- B, A, | x3 | %31
+ (F,/B,/- B, A,) |[K:treble] x3 | x3 | x3 | x3 |] %36

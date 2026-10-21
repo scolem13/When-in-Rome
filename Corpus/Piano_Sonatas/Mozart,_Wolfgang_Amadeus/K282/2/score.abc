@@ -1,0 +1,78 @@
+X:1
+T:Piano Sonata no. 4 in E flat major
+T:Menuetto I and Menuetto II
+C:Wolfgang Amadeus Mozart
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/4
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Klavier linke Hand"
+L:1/8
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"C.Bb.I6{""^Menuetto I"!p! (d>e) | (cB) !wedge!B2 !wedge!B2 |"CV2" !wedge!A2 z2 (e>f) | %3
+ (dc) !wedge!c2 !wedge!c2 |"CI6" !wedge!B2 z2"CI"!f! (d>e) |"CV[I6" (fg"CV7" ec"CI" de) | %6
+"CI6" (fg"CV7" ec"CI" de) |"CI6]" (f!p!b ag f=e) | (dc =B_B AG) | %9
+"CV.V(64)"!f! (c>d) [CF]2"CV7" [B,=E]2 |"CI}" [A,F]2 z2"CIV{"!p! ([Bd]>[Ac]) | %11
+"CI" [Ac]2 z2"Cviio64" ([B=e]>[Af]) |"CI}" [Af]2 z2 ::"CI.viio43/ii{"!f! !arpeggio![=Bd_a]2 | %14
+"CII6" !arpeggio![c=eg]2"Cviio43" !arpeggio![Ac_g]2"CI6" !arpeggio![Bdf]2 | %15
+"Cviio6/V" !arpeggio![GB=e]2"Cviio7" !arpeggio![_Gc_e]2"CI" !arpeggio![FBd]2 | %16
+"Cii6" z2!p! (c2"Cviio7/V" _d2) |"CV"({B} A2)"CV2" GF"CI6" B2 |!f! ([ce]2 [Bd]>)[Ac] [Bd]>[ce] | %19
+ ([Bd]2 [Ac]2)"CI6{" z2 | z2!p! [df]2 [df]2 | [ef]2 z2 z2 | z2 [ae']2 [ae']2 | [bd']2 z2!f! (d>e) | %24
+ (fg ec de) | (fg ec de) | f!p!(e' d'c' ba) | (gf =e_e dc) |"CV(64)"!f! (f>g) [FB]2 [EA]2 | %29
+ [DB]2 z2!p! ([eg]>[df]) | [df]2 z2 ([ea]>[db]) | [db]2 z2"Cvi"!f! (d>B) | e4 (c>A) | %33
+ B2 !fermata!z2 :|[K:Eb][M:3/4][K:treble]"CIV.V[V{""^Menuetto II"!p! (B/c/B/=A/) | %35
+"CI" B2 z3/2 (B/ e>)!wedge!e |"CV7(4)"!f! (e2"CV7" d2)!p! (B/c/B/=A/) | %37
+"CI" B2 z3/2 (B/ g>)!wedge!g |"CV7]"!f! (b2 a2) (a/b/a/f/) | %39
+"CI" (g/a/g/e/) (3(bag)"CV65/IV" (3(fe_d) |"CIV" (c/_d/c/A/) (3(c'ba)"C#viio43/ii" (3(gf=e) | %41
+"Cii6" (f/g/f/c/) (3(c'ba)"Cvii%7/V" (3(gfe) |"CV(64)}" (e2"CV" d2)"CI.I{"!p! (f/g/f/d/) | %43
+"CV43" !wedge!e2"CV2" !wedge!c2!f! (=a/b/a/f/) |"CI6" (b2"CI" d'2)!p! (f/g/f/d/) | %45
+"CV43" !wedge!e2"CV2" !wedge!c2!f! (=a/b/a/f/) |"CI6" (b2"CI" d'2)!p!({c'/} b)=a/g/ | %47
+({g} f2)"CI6" f2({g/} f)e/d/ |({d} c2)"Cii65" c2"CV65/V" c2 | %49
+"CV(64)"!f! (d/4e/4f3/2) z2"CV7"!p!({f/} e)d/c/ |"CI}" B2 z2 ::"C{"!p! !wedge!B!wedge!B | %52
+"CI[ii6"!f! (=B<c) z2"CI"!p! !wedge!d!wedge!d |"CIV6"!f! (d<e) z2"CI"!p! !wedge!f!wedge!f | %54
+"CIV"!f! (^f<g) z2"Cviio6"!p! !wedge!=a!wedge!a |"CI]}"!f! (=a<b) z2"C{"!p! !wedge!B!wedge!B | %56
+"CIV.bVI"!f! (ef _gf ed) |!p! (ef _g=g a"C.It6"=a) |"CV[V}" b2 z2!f! (B,/_C/B,/=A,/) | %59
+ B,2 z2"C{"!p! (B/c/B/=A/) |"CI" B2 z3/2 (B/ e>)!wedge!e |"CV7(4)"!f! (e2"CV7" d2)!p! (B/c/B/=A/) | %62
+"CI" B2 z3/2 (B/ g>)g |"CV7]"!f! (b2 a2) (a/b/a/f/) |"CI" (g/a/g/e/) (3(bag)"CV65/IV" (3(fe_d) | %65
+"CIV" (c/_d/c/A/) (3(c'ba)"C#viio43/ii" (3(gf=e) |"Cii6" (f/g/f/c/) (3(c'ba)"Cvii%7/V" (3(gfe) | %67
+"CV(64)}" (e2"CV" d2)"CI{"!p! (B/c/B/G/) |"CV43" !wedge!A2"CV2" !wedge!F2!f! (d/e/d/B/) | %69
+"CI6" (e2"CI" g2)!p! (B/c/B/G/) |"CV43" !wedge!A2"CV2" !wedge!F2!f! (d/e/d/B/) | %71
+"CI6" (e2"CI" g2)!p!({f'/} e')d'/c'/ |({c'} b2)"CI6" b2({c'/} b)a/g/ | %73
+({g} f2)"Cii65" f2"CV65/V" f2 |"CV(64)"!f! (g/4a/4b3/2) z2"CV7"!p!({b/} a)g/f/ | %75
+"CI}" e2 !fermata!z2 :| %76
+V:2
+ z | z!p! [DF] [DF] | [EF] z z | z F F | F z[K:bass] (B,/>C/) | (D/E/ C/A,/ B,/C/) | %6
+ (D/E/ C/A,/ B,/C/) | D z z | z3 | z!f! [C,A,] [C,G,] | F, F,, z | z!p! F z | z F, :: [F,F] | %14
+ [=E,=E] [_E,_E] [D,D] | [G,,G,] [A,,A,] [B,,B,] |!p! (E,2 =E,) | (F, E, D,) | (A, B,) =E, | %19
+ F,2[K:treble]!p! (D/>E/) | (C/B,/) !wedge!B, !wedge!B, | !wedge!A, z (E/>F/) | %22
+ (D/C/) !wedge!C !wedge!C | !wedge!B, z[K:bass] (B,/>C/) | (D/E/ C/A,/ B,/C/) | %25
+ (D/E/ C/A,/ B,/C/) | D z z | z3 | z!f! [F,D] [F,C] | B, B,, z | z!p! B z | z B, G, | E, C, F, | %33
+ !fermata!B, !fermata!B,, :|[K:Eb][M:3/4][K:bass] z |!p! G G G | A A A | G G G | F F F | %39
+ E z[K:bass] [G,,G,] | x z _D | C z (3(E/F/G/) | (G F)[K:treble] x | (C/F/ E/F/) (E/F/) | %44
+ (D/F/ B,/F/) (B,/F/) | (C/F/ E/F/) (E/F/) | (D/F/) !wedge!B, x | z!p! B, B, | z B, B, | %49
+ (B,/8C/8D3/4) z({D/} C/)B,/4=A,/4 | B, B,, :: (D/B,/) | (E/B,/ E/B,/) (F/B,/) | %53
+ (G/B,/ G/B,/) (D/B,/) | (E/B,/ E/B,/) (C/B,/) | (D/B,/ F/D/) B, | _C3- | _C3 | %58
+ [B,,B,] z (B,,/4_C,/4B,,/4=A,,/4) | B,, z z |!p! G G G | A A A | G G G | F F F | %64
+ E z[K:bass] [G,,G,] | x z [B,_D] | [A,C] z (3(E/F/G/) | (G F) (E,/B,/) | %68
+ (F,/B,/ A,/B,/) (A,/B,/) | (G,/B,/ E,/B,/) (E,/B,/) | (F,/B,/ A,/B,/) (A,/B,/) | %71
+ (G,/B,/) !wedge!E, z | z!p! E E | z E E | (E/8F/8G3/4) z({G/} F/)E/4D/4 | %75
+"_Menuetto I da capo" E[K:bass] !fermata!x :| %76
+V:3
+ x | x x2 | x x x | x E E | D x[K:bass] x | F,3- | F,3- | F, x x | x3 | x x2 | x3 | x3 | x2 :: x | %14
+ x3 | x3 | x3 | x3 | x3 | x2[K:treble] x | x3 | x3 | x3 | x2[K:bass] x | F,3- | F,3- | F, x x | %27
+ x3 | x3 | x3 | x3 | x3 | x3 | x2 :|[K:Eb][M:3/4][K:bass] x | E/B,/ E/B,/ E/B,/ | %36
+ F/B,/ F/B,/ F/B,/ | E/B,/ E/B,/ E/B,/ | D/B,/ D/B,/ D/B,/ | x2[K:bass] x | [A,,A,] x B, | %41
+ A, x =A, | B,2[K:treble] (B,/F/) | x3 | x3 | x3 | x3 | x D, D, | x (E, =E,) | F, x F, | x2 :: x | %52
+ x3 | x3 | x3 | x3 | _C,3- | _C,3 | x3 | x3 | E/B,/ E/B,/ E/B,/ | F/B,/ F/B,/ F/B,/ | %62
+ E/B,/ E/B,/ E/B,/ | D/B,/ D/B,/ D/B,/ | x2[K:bass] x | [A,,A,] x2 | x2 =A, | B,2 x | x3 | x3 | %70
+ x3 | x3 | x G, G, | x (A, =A,) | B, x B, | x[K:bass] E, :| %76
+V:4
+ x | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x2 :: x | x3 | x3 | x3 | x3 | x3 | x3 | %20
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |"CIV""Cii" G2"CV7" E | %33
+"CI}" D !fermata!x :|[K:Eb][M:3/4][K:treble] x | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %45
+ x3 | x3 | x3 | x3 | x3 | x2 :: x | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %64
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x2 :| %76

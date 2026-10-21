@@ -1,0 +1,69 @@
+X:1
+T:Piano Sonata no. 16 in C major
+T:Rondo – Allegretto
+C:Wolfgang Amadeus Mozart
+%%score { 1 | ( 2 3 ) }
+L:1/16
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano, Piano right" snm="Pno."
+V:2 bass 
+V:3 bass 
+L:1/4
+V:1
+"C.C.I6{" !wedge![eg]2!wedge![eg]2 |"Cvi" [ce]2 z2"Cii6" !wedge![df]2!wedge![df]2 | %2
+"CV" [Bd]2 z2"CI6" (cdec |"CIV" ABc^c"Cii6" de"Cii"fd) | %4
+"CV}" (cBAG)"CI6{" !wedge![eg]2!wedge![eg]2 |"Cvi" [ce]2 z2"Cii" !wedge![fa]2!wedge![fa]2 | %6
+"CV" [Bd]2 z2"CI" (agfe) |"Cii6" (^cdef)"CIV" (A=c"CV7"Bd) |"CI}" c4"CV.IV{" (e^fg)!wedge!g | %9
+"CI6" (ag^fe)"CV6" .d.d.d.d |"CI" (edcB)"CI6" (e'd'c'b) |"Cii6" (^gabc')"CV65/V" (e^f=ga) | %12
+"CV}" (g^fed)"CI6{" !wedge![bd']2!wedge![bd']2 |"Cvi" [gb]2 z2"Cii6" !wedge![ac']2!wedge![ac']2 | %14
+"CV" [^fa]2 z2"CI6" (gabg) |"CIV" (^dege"CV(64)" =dB"CV7"cA) |"CI}" G2 z2 (GABc | d2) z2 (Bcde | %18
+"CI.V7" =f2) z2 (defg | a2)!wedge!_a2 !wedge!g2!wedge!^f2 | =f2 z2"CI6{" !wedge![eg]2!wedge![eg]2 | %21
+"Cvi" [ce]2 z2"Cii6" !wedge![df]2!wedge![df]2 |"CV" [Bd]2 z2"CI6" (cdec | %23
+"CIV" ABc^c"Cii6" de"Cii"fd) |"CV}" (cBAG)"CI6{" !wedge![eg]2!wedge![eg]2 | %25
+"Cvi" [ce]2 z2"Cii" !wedge![fa]2!wedge![fa]2 |"CV" [Bd]2 z2"CI" (agfe) | %27
+"Cii6" (^cdef)"CIV" (A=c"CV7"Bd) |"CI}" c2 z2"Cvi.i6{" z4 |"Ci" (e^dfe)"Ciio" z4 | %30
+"CV6" (e^dfe)"CV(64)" !wedge![ec']2!wedge![ec']2 | [ca]2 z2"CV7" !wedge![=db]2!wedge![db]2 | %32
+"CV" [B^g]2 z2"Ci6" (aecA) |"C.bII6" (c_B)BB"C#viio6/iv" (d^c)cc | %34
+"Civ6" (ed)"CV6/iv"(fe)"Civ" (gf)"Ci64"(fe) |"C.Ger6" (e^d) (c'4 d2) |"CV}" e2 z2 (b^ged) | %37
+"CV(64)" (cea^g aecA) |"CV" (^GBe^g) (bged) |"CV(64)" (cea^g aecA) | %40
+"CV" E2 z2"Ci6{" !wedge![ce]2!wedge![ce]2 |"CV(64)" [Ac]2 z2"CV7" !wedge![Bd]2!wedge![Bd]2 | %42
+"CV" [^GB]2 z2"Ci64" z4 |"Ci6" (E^DFE)"Ciio6" z4 |"CV64" (e'^d'f'e'"C#viio" =d'^c'e'd') | %45
+"Ci" (d'c')"Ciio"(c'b)"Ci6" (ba)"CV65/iv"(ag) |"Civ" (gf)"Ci64"(fe)"Civ6" (ed)"Ci64"(dc) | %47
+"C.bII6" (_BfdB)"CV(64)" A2"CV"^G2 |"Ci}" A2 z2"CV7" (^GdBG) |"Ci" A2 z2"CV7" (^GdBG) | %50
+"Ci" A2 z2"CV7" (^GdBG) |"Ci" (AecA)"CI.V7" (BfdB) | !fermata!z4"CI6{" !wedge![eg]2!wedge![eg]2 | %53
+"Cvi" [ce]2 z2"Cii6" !wedge![df]2!wedge![df]2 |"CV" [Bd]2 z2"CI6" (cdec | %55
+"CIV" ABc^c"Cii6" de"Cii"fd) |"CV}" (cBAG)"CI6{" !wedge![eg]2!wedge![eg]2 | %57
+"Cvi" [ce]2 z2"Cii" !wedge![fa]2!wedge![fa]2 |"CV" [Bd]2 z2"CI" (agfe) | %59
+"Cii6" (^cdef)"CIV" (A=c"CV7"Bd) |"CI}" c4"CV2{" (BfdB) |"CI6" (agfe)"CV2" (dfdB) | %62
+"CI" (agfe)"Cii6" (d'c'ba) |"CV(64)" (ag).f.e"CV7" (ed).c.B |"CI(9)}" (d2"CI"c2)"CV2{" (BfdB) | %65
+"CI6" (agfe)"CV2" (dfdB) |"CI6" (agfe)"Cii6" (d'c'ba) |"CV(64)" (ag).f.e"CV7" (ed).c.B | %68
+"CI}" ceGc EGCE |"CV(64)" Gc[ce][eg]"CV7" ([eg][df]).[ce].[Bd] |"CI" ceGc EGCE | %71
+"CV(64)" Gc[ce][eg]"CV7" ([eg][df]).[ce].[Bd] |"CI" c2[egc']2 [Ec]2[Ec]2 | [Ec]4 !fermata!z4 |] %74
+V:2
+ z4 | !wedge![A,C]2!wedge![A,C]2 [F,A,]2 z2 | !wedge![G,B,]2!wedge![G,B,]2 [E,G,]2 z2 | F,6 D,2 | %4
+ .G,4 z4 | !wedge![A,C]2!wedge![A,C]2 [D,F,]2 z2 | !wedge![G,B,]2!wedge![G,B,]2 [C,E,]2 z2 | %7
+ ([F,A,]6 [G,F]2) | [CE]2C,2[K:treble] CGEG | B,GDG[K:bass] ^F,DA,D | G,DB,D B,,G,D,G, | %11
+ C,A,E,A, ^C,A,E,A, | .D,2 z2 z4 | !wedge![EG]2!wedge![EG]2 [CE]2 z2 | %14
+ !wedge![D^F]2!wedge![DF]2 [B,D]2 z2 | G,6 ^F,2 | G,2G,,2 z4 | [G,B,]2G,,2 z4 | [G,B,]2G,,2 z4 | %19
+ z8 | z8 | !wedge![A,C]2!wedge![A,C]2 [F,A,]2 z2 | !wedge![G,B,]2!wedge![G,B,]2 [E,G,]2 z2 | %23
+ F,6 D,2 | G,2 z2 z4 | !wedge![A,C]2!wedge![A,C]2 [D,F,]2 z2 | %26
+ !wedge![G,B,]2!wedge![G,B,]2 [C,E,]2 z2 | ([F,A,]6 [G,F]2) | [CE]2C,2 !wedge![CE]2!wedge![CE]2 | %29
+ [A,C]2 z2 !wedge![B,D]2!wedge![B,D]2 | [^G,B,]2 z2 z4 | (E^DFE) z4 | (E^DFE)[K:treble] [CE]4 | %33
+ [DF]4 [EG]4 | A8 | [FA]2 z2 [FA]2 z2 | E,E^G,E B,EG,E | E,EA,E CEA,E | E,E^G,E B,EG,E | %39
+ E,EA,E CEA,E | E,2 z2 z4 | (E^DFE) z4 | (E^DFE) !wedge![E,C]2!wedge![E,C]2 | %43
+ [C,A,]2 z2 !wedge![D,B,]2!wedge![D,B,]2 | [B,,^G,]2 z2 [G,B,]4 | [A,C]2[B,D]2[K:treble] E4 | A8 | %47
+ [DF]4[K:bass] C2B,2 | (A,CEC E,B,DB,) | (A,CEC E,B,DB,) | (A,CEC E,B,DB,) | (A,CEC G,DFD) | %52
+ !fermata!z4 z4 | !wedge![A,C]2!wedge![A,C]2 [F,A,]2 z2 | !wedge![G,B,]2!wedge![G,B,]2 [E,G,]2 z2 | %55
+ F,6 D,2 | .G,4 z4 | !wedge![A,C]2!wedge![A,C]2 [D,F,]2 z2 | %58
+ !wedge![G,B,]2!wedge![G,B,]2 [C,E,]2 z2 | ([F,A,]6 [G,F]2) | [CE]2C,2 (F,B,G,B,) | %61
+"^simile" E,CG,C F,B,G,B, | E,CG,C F,DA,D | G,ECE G,FDF | CGEG F,B,G,B, | E,CG,C F,B,G,B, | %66
+ E,CG,C F,DA,D | G,ECE G,FDF | CEG,C E,G,C,E, | G,2 z2 G,,2 z2 | CEG,C E,G,C,E, | G,2 z2 G,,2 z2 | %72
+ [C,,C,]2[E,,E,]2 [G,,G,]2[E,,E,]2 | [C,,C,]4 !fermata!z4 |] %74
+V:3
+ x | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x[K:treble] x | x[K:bass] x | x2 | x2 | x2 | x2 | x2 | %15
+ C, D, | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %32
+ x[K:treble] x | x2 | F/^C/ D/E/ | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %45
+ x[K:treble] C/^C/ | D/E/ F/E/ | x[K:bass] E, | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %58
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %74

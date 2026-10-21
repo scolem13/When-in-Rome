@@ -1,0 +1,32 @@
+X:1
+T:Chorale 327:
+T:Jesu, nun sei gepreiset
+T:Chorale 327:
+T:Jesu, nun sei gepreiset
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ f | f d e f | g2 !fermata!e e | e d d c | !fermata!d3 e | e e e f | d2 !fermata!d d |$ c d e e | %8
+ !fermata!d3 :: c | c c c c | d2 !fermata!d :: f | f d e f | g2 !fermata!f f |$ e f ^d d | %16
+ !fermata!e3 :| f | f d e f | g2 !fermata!e e | e d d c | !fermata!d3 |] %22
+V:2
+ A | A F G A | B2 G G | F F E A | A3 A | E ^G A ^A | B2 B F |$ E F G/A/4B/4 A/E/ | F3 :: E | %10
+ A A A A | A2 A :: A | A F G A | G A A B |$ G A F F | G3 :| F | F F E ^D | E F G G | F F E E | %21
+ F3 |] %22
+V:3
+ D | D A, B, =C | D2 =C C | ^C D B, E | F3 C | B,/C/ D C C | D/E/ F F B, |$ G, A,/D/ D C | A,3 :: %9
+ A, | E E F G/E/ | F2 F :: D | D A, B, =C | D A, D F |$ B, =C B, B, | B,3 :| C | D F B, A, | %19
+ B,2 ^A, B, | C B, B, A, | A,3 |] %22
+V:4
+ D, | D =C B, A, | G,2 !fermata!=C, B,, | ^A,, B,, ^G,, =A,, | !fermata!D,,3 A, | ^G, E, A, F, | %6
+ B,2 !fermata!B, B, |$ E, D, A, A,, | !fermata!D,3 :: A,, | A, G, F, A, | D,2 !fermata!D, :: D, | %13
+ D =C B, A, | B, ^C !fermata!D ^D, |$ E, A, B, B,, | !fermata!E,3 :| ^A, | B, =A, G, F, | %19
+ E, D, !fermata!C, B,, | ^A,, B,, ^G,, =A,, | !fermata!D,3 |] %22

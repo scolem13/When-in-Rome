@@ -1,0 +1,73 @@
+X:1
+T:String Quartet Op.18 No.5
+C:Ludwig van Beethoven
+Z:©
+%%score 1 2 3 4
+L:1/4
+Q:1/4=125
+M:3/4
+I:linebreak $
+K:A
+V:1 treble nm="Violin 1"
+V:2 treble nm="Violin 2"
+V:3 alto nm="Viola"
+V:4 bass nm="Violoncello"
+V:1
+"^Menuetto"!p! .c | e3 | B3 | (d/c/)(B/A/)(G/A/) | (c B) .c |$ e3 | c2 c | a3 | ^d2 d | b3 | %10
+ (a/g/)(f/e/)(^d/e/) |$ (f a) .^d | .e z z | z!p! (A c) | z (e g) | z (a c') | e' z z |$ z (A c) | %18
+ z (c a) | z (^d f) | z (f b) | z (e g) | z (g e') |$ z .c' .a | .g z E |:!p! d3 | %26
+ (c/e/).d/.c/.B/.A/ | .G/.E/.G/.B/.e/.f/ | .g/.e/.g/.a/.b/.c'/ |$!p! d'3 | (c'/e'/).d'/.c'/.b/.a/ | %31
+ .g/.f/.e/.^d/.e/.f/ | g/a/^a/b/^b/c'/ | d'/b/g/d/d'/d'/ |$ c'/a/f/c/c'/c'/ | c'/g/e/c/c'/c'/ | %36
+ c'/^^f/e/c/c'/c'/ | g/e/c/G/G/G/ | G/^D/^B,/G,/G,/G,/ |$"_cresc." (C3 | E3) | (!turn!^D3 | %42
+ G2 ^B, | C){/^D} (C/^B,/C/D/) |!ff! .E .E .E |$ z3 | z z!p! (c | e3) | B3 | (d/c/)(B/A/)(G/A/) | %50
+ (c B) .c | e3 |$ c2 c | a3 | ^d2 d | b3 | (a/=g/f/e/g/e/) | (d2{edcd} f/e/) |$ d z z | z3 | z3 | %61
+ z z!p! A | a3 | e3 |$ (=g/f/)(e/d/)(c/d/) | (f e) A |"_cresc." a3 | f2 f | d'3 | g2 g |$ e'3 | %71
+ (d'/c'/)(b/a/)(g/a/) |!f! (a d') .g | .a z!p! E | B3 | c3 |${/e} (d/c/).d/.B/.e/.d/ | .c .a z | %78
+"^cresc." b3 | c'3 | e'3/2 .d'/.c'/.b/ |1 a z E :|2 a z |]:$"^Trio" z |!p! [ce]2 [ce] | %85
+ [de]2 [de] | [Ee]2 [Ee] | [Ee]2 [Ee] | [Ee]2 [Ee] |$ [Ee]2 e- |$ e (e ^d) | e z :: z | z3 | z3 | %95
+ z3 | z z e |$"_cresc." (e' b c' | d' a b | c' b a | g) z!p! (e | c e a) | (a g a) |$ %103
+ b{/c'} (b/^a/ b/c'/) | (b a) e'- | e'2 (e'- | e' d') (d'- | d' c'"^Menuetto D.C." b) | a z :| %109
+V:2
+ z | z!p! (c A) | z (G E) | z (C A,) | E z z |$ z (c A) | z (A F) | z (f ^d) | z (B A) | z (G E) | %10
+ z (c B) |$ (A F) .B | .E z z | z (A, C) | z (E G) | z (A c) | e z z |$ z (A, C) | z (C A) | %19
+ z (^D F) | z (F B) | z (E G) | z (G e) |$ z .c .A | .G z z |:!p! (B,3 | C3 | D) z z | z3 |$ %29
+!p! (B3 | c3 | d) z z | z3 | z!p! (B d) |$ z (A c) | z (E c) | z (E c) | z (E G) | z G, G, |$ %39
+"_cresc." (G,3 | C3) | ^B,3- | B,2 (A,/G,/) | G,3 |!ff! .E .E .E |$ z3 | z3 | z!p! (c A) | %48
+ z (G E) | z (C A,) | E z z | z (c A) |$ z (A F) | z (f ^d) | z (B A) | z (=G E) | z (B =G) | %57
+ z A A, |$ D z z | z z!p! C | A3 | E3 | (=G/F/)(E/D/)(C/D/) | (D/C/)(B,/A,/)(G,/A,/) |$ A3 | %65
+ C/A/c/A/e/c/ | d z A- |"_cresc." A2 F- | F2 d- | d G e- |$ e2 A- | A2 c |!f! (f d) .d | .c z z | %74
+!p! G3 | A3 |$ .G .B .G | .E z z |"_cresc." [EB]3 | [Ec]3 | (F- F/d/).d/.d/ |1 c z z :|2 c z |]:$ %83
+ E | (C E A) | (A G A) | B{/c} (B/^A/B/c/) | (B A) (A- | A G) (=G- |$ G F) ^G |$ (A F B) | E z :: %92
+ z | E3- | E3- | E (E ^D | E) (^d/e/)(d/e/) |$"_cresc." (e B c | d A B | c B A | G) z!p! (E | %101
+ C E A) | (A G A) |$ B{/c} (B/^A/B/c/) | (B A) (A- | A G) (=G- | G F) (B- | B A G) | A z :| %109
+V:3
+ z | z3 | z3 | z3 | z3 |$ z3 | z3 | z3 | z3 | z3 | z3 |$ z3 | z z!p! .C |!p! E3 | B,3 | %15
+ (D/C/)(B,/A,/)(G,/A,/) | (C B,) .C |$ E3 | C2 C | A3 | ^D2 D | B3 | (A/G/)(F/E/)(^D/E/) |$ %23
+ (F A) .^D | .E z z |:!p! (G,3 | A,3 | B,) z z | z3 |$!p! (G3 | A3 | B) z z | z3 | z!p! (G B) |$ %34
+ z (C A) | z (C E) | z (C E) | z (C E) | z F, F, |$"_cresc." (E,3 | G,3) | (A,3/2 G,/A,/G,/) | %42
+ F, F, F, | E,3 |!ff! .E, .E, .E, |$ z3 | z3 | z3 | z3 | z3 | z3 | z3 |$ z3 | z3 | z3 | z3 | z3 | %57
+ z z!p! A, |$ A3 | E3 | (=G/F/)(E/D/)(C/D/) | (D/C/)(B,/A,/)(B,/C/) | (D A) z | (A, E) z |$ %64
+ (A, F) z | (A, =G) z |"_cresc." (F D) z | (A, D) z | (B, D) z | (B, E) z |$ (C A,) z | (C F) (F- | %72
+!f! F D) .B, | .A, z z |!p! E3 | E3 |$ .E .E .E | .E z z |"_cresc." G,3 | A,3 | (A, A) G |1 %81
+ A z z :|2 A z |]:$ E, | (C, E, A,) | (A, G, A,) | B,{/C} (B,/^A,/B,/C/) | (B, A,) (A,- | %88
+ A, G,) (=G,- |$ G, F,) ^G, |$ (A, F, B,) | E, z ::!p! E | (e B c | d A B | c B A | G) E, E, |$ %97
+"_cresc" E,3- | E,3- | E, E E- | (E ^D!p! =D) | [E,C]2 [E,C] | [E,D]2 [E,D] |$ [E,D]2 [E,D] | %104
+ [E,C]2 (A,- | A, G,) (=G,- | G, F,) (B,- | B, A, D) | C z :| %109
+V:4
+"" z | z3 |"" z3 |"" z3 |"""" z3 |$"" z3 |"m" z3 |"m" z3 |"""" z3 |"""" z3 |"""" z3 |$"m""m""" z3 | %12
+"" z3 |"" z!p! (C A,) |"" z (G, E,) |"" z (C,"" A,,) |"" E,, z z |$"" z (C A,) | z (A,"m" F,) | %19
+"m" z (F, ^D,) |"" z"" (B,,"" A,,) |"" z (G,, E,,) | z"" (C,"" B,,) |$"m" (A,,"m" F,,)"" .B,, | %24
+"" .E,, z z |:""!p! E, E, E, |"" E, E, E, |"" E, z z | z3 |$"m"!p! E E E |"" E E E |"" E z z | z3 | %33
+"m"!p! ^E, z z |$"m" F, z z |"m" G, z z |"m" A, z z |"" G, z z |"" G,, z z |$ %39
+"m""_cresc." (.C,, .C,, .C,,) |"m" (.C,, .C,, .C,,) |"m" (.C,, .C,,"" .C,,) |"" (.C,, .C,, .C,,) | %43
+"m" (.C,, .C,, .C,,) |"m"!ff! .C,"m" .C, .C, |$ z3 | z3 |"" z3 |"" z3 |"" z3 |"""" z3 |"" z3 |$ %52
+"""m" z3 |"m" z3 |"""" z3 |"" z3 |"m""m" z3 |"""" z3 |$"" z!p! (F, D,) |"" z (C, A,,) | %60
+"" z (D,,"" F,,) |"" z (A,,"" =G,) |"" z (F, A,,) |"" z"" (C,"" A,,) |$"" z (D,"" A,,) | %65
+"" z"" (A,"" =G,) |"" z"_cresc." (F,"" D,) | z (C, D,) |"m" z (^A,, B,,) |"" z (E,"" D,) |$ %70
+"" z (^B,, C,) | z"" (F,"m" E,) |""!f! (D,"m" B,,)"" .E, |"" .A,, z z |""!p! D3 |"" C3 |$ %76
+"" .B,"" .G,"" .E, |"" .A, z z |"""_cresc." D,3 |"" C,3 |"m""m" B,,2"" E, |1"" A,, z z :|2 %82
+ A,, z |]:$ z |""!p! A,,2"" E,, |"" B,,2"" E,, |"" D,2"" E,, |"""" C,2"" =C, |"""" B,,2"m" ^A,, |$ %89
+"""" B,,2"" B, |$"" B,,2"" B, |"" E, z :: z |""!p! C"" G,"" A, |"" B,"m" F,"" G, | %95
+"" A,"" G,"m" F, |"" E, z z |$"""_cresc." (C,"" G,,"" A,, |"" B,,"m" F,,"" G,, | %99
+"" A,,"" G,,"m" F,, |"" E,,) z"" z |""!p! A,,2"" E,, |"""" B,,2"" E,, |$"" G,,2"" E,, | %104
+"""" A,,2"" C, | C,,2"" C, |"""" D,,2"m" D, |"""" E,,2"" E, |"" A,, z :| %109

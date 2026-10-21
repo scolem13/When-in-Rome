@@ -1,0 +1,62 @@
+X:1
+T:Piano Sonata no. 16 in C major
+T:Allegro
+C:Wolfgang Amadeus Mozart
+%%score { 1 | 2 }
+L:1/16
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano, Piano right" snm="Pno."
+V:2 treble 
+V:1
+"C.C.I{" c8 e4 g4 |"CV43" (B6 cd"CI" c4) z4 |"CIV64" a8"CI" g4 c'4 | %3
+"CV6" g4"CV65" (Tf2ef)"CI}" e4 z4 |"CIV{" A2Bc defg agfe dcBA |"CI6" G2AB cdef gfed cBAG | %6
+"Cii7" F2GA Bcde fedc"CV43" BAGF |"CI" E2FG ABcd edcB AGFE |"Cii6" D2EF GAB^c dABc defg | %9
+"CIV" abc'b agfe"CIV6" fgag fe"CV65/V"dc |"CV" B2g2"CV(64)"e2c2"CV" d2g2"CV(64)"e2c2 | %11
+"CV}" d4 [Bdg]4 G4 z4 |"CV.V{""CV2" z16 |"CI6" (d'2b2) (g6 ab a2)!wedge!g2 | %14
+"CV2(4)" (Tg2>^f2)"CV43" f4 z8 |"CI6" (d'2b2) (g6 ab a2)!wedge!g2 |"CV2(4)" (Tg2>^f2)"CV43" f4 z8 | %17
+"CI6" d'4 z d'bg"CIV" e4 z ege |"Cviio6" c'4 z c'a^f"Ciii" d4 z dfd | %19
+"Cvi6" b4 z bge"Cii" c4 z cec |"CV6" a4 z a^fd"CI" B4 z gdB |"Cii6" A8({B/} c4)({^d/} e4) | %22
+({^g/} a6) (b/a/g/a/) (c'2a2)(c'2a2) |"CV(64)" (b2g2) d'8 c'bag |"CV7" Ta16({g/a/)} | %25
+"CI}" g4 gdgb d'bgb"CV7" c'a^fa |"CI" g4 GDGB dBGB"CV" cA^FA |"CI" G4 [db]4 [Bg]4 z4 :: %28
+"Cv.i{" G4 gdg_b d'bgb"CV7" c'a^fa |"Ci" g4 GDG_B dBGB"CV7" cA^FA |"Ci" G4 z4 z g_ba gfed | %31
+"Cii.V" ^c4 z4 z ^c'e'd' c'_bag |"Ci" f4 dAdf afdf"CV7" ge^ce |"Ci" d4 DA,DF AFDF"CV7" GE^CE | %34
+"Ci" z DEF GAB^c d4 z4 |"Cvi.V6" z Bcd e^f^ga b4 z4 |"Ci6" z ae'd' c'bag"Civ" f4 z4 | %37
+"CV6/III" z gd'c' bagf"CIII" e4 z4 |"CVI6" z fc'b agfe"Ciio" d4 z4 |"CV6" z eba ^gfed"Ci" c4 z4 | %40
+"CIV.IV6" z _Bdc BAGF"CV7" EFGA Bcde |"CI}{" f8 a4 c'4 |"CV43" (e6 fg)"CI" f4 z4 | %43
+"CIV64" d'8"CI" c'4 f'4 |"CV6" c'4"CV65" (T_b2ab)"CI}" a4 z4 |"CIV{" d2ef ga_bc' d'c'ba gfed | %46
+"CI6" c2de fga_b c'bag fedc |"Cii7" _B2cd efga _bagf"CV65" edcB |"CI" A2_Bc defg agfe dcBA | %49
+ a4 z4 z4 [ca]4 |"CI.I6" [cg]4 z4 z4 [cg]4 |"Cii7" [cf]4 z4 z4"CV7" [Bf]4 |"CI" [ce]4 z4 z4 [ce]4 | %53
+"Cii6" dDEF GAB^c dABc defg |"CIV" abc'b agfe"CIV6" fgag fe"CV65/V"dc | %55
+"CV" B2g2"CV(64)"e2c2"CV" d2g2"CV(64)"e2c2 |"CV}" d4 [Bdg]4 G4 z4 |"C{""CV2" z16 | %58
+"CI6" (g2e2) (c6 de d2)!wedge!c2 |"CV2(4)" (Tc2>B2)"CV43" B4 z8 |"CI6" (g2e2) (c6 de d2)!wedge!c2 | %61
+"CV2(4)" (Tc2>B2)"CV43" B4 z8 |"CI6" g4 z gec"CIV" A4 z AcA |"Cviio6" f4 z fdB"Ciii" G4 z gbg | %64
+"Cvi6" e'4 z e'c'a"Cii" f4 z faf |"CV6" d'4 z d'bg"CI" e4 z c'ge |"Cii6" d8({^c} d4)({c} d4) | %67
+"Cviio7/V" a8({^g} a4)({g} a4) |"CV(64)" g2ab c'd'e'd' c'bag fedc |"CV7" Td16({c/d/)} | %70
+"CI}" c4 cGce gece"CV7" fdBd |"CI" c4 CG,CE GECE"CV7" FDB,D |"CI" C4 [egc']4 c4 !fermata!z4 :| %73
+V:2
+ C2G2E2G2 C2G2E2G2 | D2G2F2G2 C2G2E2G2 | C2A2F2A2 C2G2E2G2 | B,2G2D2G2 C2G2E2G2 | %4
+ F4 z4 z4[K:bass] [F,C]4 | [E,C]4 z4 z4 [E,C]4 | [D,C]4 z4 z4 [D,B,]4 | [C,C]4 z4 z4 [C,E,]4 | %8
+ [F,A,]16 | F,6 G,2 A,6 ^F,2 | G,,B,,D,G, G,,C,E,G, G,,B,,D,G, G,,C,E,G, | G,,4 G,4 G,,4 z4 | %12
+ ^CDCD CDCD =CDCD CDCD | B,DB,D B,DB,D B,DB,D B,DB,D | CDB,D A,DB,D CDB,D CDA,D | %15
+ B,DB,D B,DB,D B,DB,D B,DB,D | CDB,D A,DB,D CDB,D CDA,D | z B,DG B4 z CEG c4 | %18
+ z A,C^F A4 z B,DF B4 | z G,B,E G4 z A,CE A4 | z[K:bass] ^F,A,[K:treble]D ^F4 z G,B,D G4 | %21
+ [CE]2[CE]2[CE]2[CE]2 [CE]2[CE]2[CE]2[CE]2 | [CE]2[CE]2[CE]2[CE]2 [CE]2[CE]2[CE]2[CE]2 | %23
+ DBGB DBGB DBGB DBGB | Dc^Fc DcFc DcFc DcFc | [GB]4 z4 z4 [DAc]4 | [GB]4 z4 z4[K:bass] [D,A,C]4 | %27
+ [G,B,]4 [G,,G,]4 [G,,G,]4 z4 :: [G,,G,]4 z4 z4[K:treble] [DAc]4 | [G_B]4 z4 z4[K:bass] [D,A,C]4 | %30
+ z G,,A,,_B,, C,D,E,^F, G,4 z4 | z A,,B,,^C, D,E,^F,^G, A,4 z4 | [D,,D,]4 z4 z4[K:treble] [A,EG]4 | %33
+ [DF]4 z4 z4[K:bass] [A,,E,G,]4 | [D,F,]4 z4 z DFE DCB,A, | ^G,4 z4 z G,B,A, G,F,E,D, | %36
+ C,4 z4 z[K:treble] DAG FEDC | B,4 z4 z CGF EDCB, | A,4 z4[K:bass] z B,FE DCB,A, | %39
+ ^G,4 z4 z A,CB, A,=G,F,E, | D,8 [C,G,_B,]8 | F2c2A2c2 F2c2A2c2 | G2c2_B2c2 F2c2A2c2 | %43
+ F2d2_B2d2 F2c2A2c2 | E2c2G2c2 F2c2A2c2 | _B4 z4 z4[K:bass] [_B,F]4 | [A,F]4 z4 z4 [A,F]4 | %47
+ [G,F]4 z4 z4 [G,E]4 | [F,F]4 z4 z8 | F,2G,A, _B,CDE FEDC B,A,G,F, | %50
+ E,2F,G, A,B,CD EDCB, A,G,F,E, | D,2E,F, G,A,B,C DCB,A, G,F,E,D, | %52
+ C,2D,E, F,G,A,B, CB,A,G, F,E,D,C, | [F,A,]16 | F,6 G,2 A,6 ^F,2 | %55
+ G,,B,,D,G, G,,C,E,G, G,,B,,D,G, G,,C,E,G, | G,,4 G,4 G,,4 z4 | ^FGFG FGFG =FGFG FGFG | %58
+ EGEG EGEG EGEG EGEG | FGEG DGEG FGEG FGDG | EGEG EGEG EGEG EGEG | FGEG DGEG FGEG FGDG | %62
+ z E,G,C E4 z F,A,C F4 | z D,F,B, D4 z E,G,B, E4 | z CEA c4 z DFA d4 | z B,DG B4 z CEG c4 | %66
+ z2 [FA]2[FA]2[FA]2 [FA]2[FA]2[FA]2[FA]2 | %67
+ z2 [^F,C_E]2[F,CE]2[F,CE]2 [F,CE]2[F,CE]2[F,CE]2[F,CE]2 | G,ECE G,ECE G,ECE G,ECE | %69
+ G,FB,F G,FB,F G,FB,F G,FB,F | [CE]4 z4 z4 [G,DF]4 | [CE]4 z4 z4 [G,,D,F,]4 | %72
+ [C,E,]4 C4 [C,,C,]4 !fermata!z4 :| %73

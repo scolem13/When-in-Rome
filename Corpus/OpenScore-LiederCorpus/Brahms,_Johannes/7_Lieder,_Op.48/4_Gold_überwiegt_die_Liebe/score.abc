@@ -1,0 +1,51 @@
+X:1
+T:7 Lieder, Op. 48
+T:Gold überwiegt die Liebe
+C:Johannes Brahms
+Z:Josef Wenzig
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/16
+Q:1/4=40
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 treble 
+L:1/8
+V:4 treble 
+L:1/8
+V:1
+"^Poco andante" e3 e (fe) z e | (ed) (dc) (cB) z2 | B3 B (BA) (FG) |$ ^c4 F2 z2 | e3 e (fe) z e | %5
+w: 1. Stern- chen mit _ dem|trü- * ben _ Schein, _|könn- test du _ doch _|wei- nen!|Hät- test du _ ein|
+ (ed) (cd) (cB) z2 |$ (dc) (cB) (BA) (dc) | (cB) (BA) (AG) z2 | g2 =f2 c2 A2 |$ (G2>^F2) E4 | z8 | %11
+w: Her- * ze- * lein, _|o _ du _ gold- * nes _|Stern- * lein _ mein, _|möch- test Fun- ken|wei- * nen.||
+ z8 ||$ e3 e (fe) z e | (ed) (dc) (cB) z2 | B3 B (BA) (FG) |$ ^c4 F2 z2 | e3 e (fe) z e | %17
+w: |2. Wein- test mit _ mir,|wein- * test _ laut _|Näch- te durch _ voll _|Lei- den,|dass sie mich _ vom|
+ (ed) (cd) (cB) z2 |$ (dc) (cB) (BA) (dc) | (cB) (BA) (AG) z2 | g2 =f2 c2 A2 |$ (G2>^F2) E4 | z8 | %23
+w: Lieb- * sten _ traut, _|um _ das _ Gold _ der _|rei- * chen _ Braut _|mich vom Lieb- sten|schei- * den.||
+ z8 | z8 |] %25
+w: ||
+V:2
+!p! z!>(! (c'2!>)!e) z!>(! (b2!>)!e) | z!>(! ([da]2!>)!c) z!>(! ([cf]2!>)!B) | %2
+ z (e2B) z ([Ae]2=G) |$ z (^c2G) z (B2F) | z ([cc']2e) z ([Bb]2e) | z ([Aa]2c) z ([Gg]2B) |$ %6
+!p! z (.[Gc]z.[GB]z.[GA]z.[Gc]) | z!<(! (.[GB]z.[GA]z.Gz!<)!.[Gcf]) | %8
+!f! z!>(! ([GBg]z[=Fc=f]z[Ac]z!>)![FA]) |$!p! z ([EG]z[^D^F]z!<(![B,E]z[GB])!<)! | %10
+!f! z!>(! ([Beg]z[Ac=f]z[Ac]z!>)![=FA]) |!p! z2 [EG]2 z2 [^FA^d]2 ||$ %12
+!p! z!>(! (c'2!>)!e) z!>(! (b2!>)!e) | z!>(! ([da]2!>)!c) z!>(! ([cf]2!>)!B) | %14
+ z (e2B) z ([Ae]2=G) |$ z (^c2G) z (B2F) | z ([cc']2e) z ([Bb]2e) | z ([Aa]2c) z ([Gg]2B) |$ %18
+!p! z (.[Gc]z.[GB]z.[GA]z.[Gc]) | z!<(! (.[GB]z.[GA]z.Gz!<)!.[Gcf]) | %20
+!f! z!>(! ([GBg]z[=Fc=f]z[Ac]z!>)![FA]) |$!p! z ([EG]z[^D^F]z!<(![B,E]z[GB])!<)! | %22
+!f! z!>(! ([Beg]z[Ac=f]z[Ac]z!>)![=FA]) |!>(! z2 [EG]2 z2!>)!!p! [A,^DF]2 | z4 [G,B,E]4 |] %25
+V:3
+ (Ac) (GB) | (FA) (^DF) | ^G2 E2 |$ (^A,E) (B,^D) | (AE) (GB,) |[K:bass] D2 D2 |$ %6
+ ([E,G,][D,G,][C,G,][E,G,]) | ([D,G,][C,G,][B,,G,][A,,G,]) | ([G,,G,]A,,C,=F,) |$ (B,A,G,E,) | %10
+ (E,,=F,, A,,/C,/=F,/A,/) | B,2 B,,2 ||$[K:treble] (Ac) (GB) | (FA) (^DF) | ^G2 E2 |$ %15
+ (^A,E) (B,^D) | (AE) (GB,) |[K:bass] D2 D2 |$ ([E,G,][D,G,][C,G,][E,G,]) | %19
+ ([D,G,][C,G,][B,,G,][A,,G,]) | ([G,,G,]A,,C,=F,) |$ (B,A,G,E,) | (E,,=F,, A,,/C,/=F,/A,/) | %23
+ B,2 B,,2 | E,,4 |] %25
+V:4
+ A2 G2 | (FE) ^D2 | (E=D) (CB,) |$ ^A,2 B,2 | A,2 G,2 |[K:bass] (F,D,) (G,=F,) |$ x4 | x4 | x4 |$ %9
+ B,,2 B,,2 | x4 | x4 ||$[K:treble] A2 G2 | (FE) ^D2 | (E=D) (CB,) |$ ^A,2 B,2 | A,2 G,2 | %17
+[K:bass] (F,D,) (G,=F,) |$ x4 | x4 | x4 |$ B,,2 B,,2 | x4 | x4 | x4 |] %25

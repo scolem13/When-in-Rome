@@ -1,0 +1,72 @@
+X:1
+T:Winterreise, D.911
+T:Der Leiermann
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=50
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Singstimme\nVoice"
+L:1/8
+V:2 treble nm="Pianoforte"
+L:1/8
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Etwas langsam" z6 | z6 | z6 | z4 z2 | z6 | z2 z4 | z6 | z6 |$[Q:1/4=46] A E A B c A | %9
+w: ||||||||Drü- ben hin- term Dor\- fe|
+ E A ^G B E2 |[Q:1/4=50] z6 | z6 |[Q:1/4=46] A E A B c A |$ E A ^G B E2 |[Q:1/4=50] z6 | z6 | %16
+w: steht ein Lei- er mann,|||Und mit star- ren Fin- gern|dreht er, was er kann.|||
+[Q:1/4=46] A e d c B E | A3/2 c/ B E B2 |$[Q:1/4=50] z6 | z6 |[Q:1/4=46] A e d c B E | %21
+w: Baar- fuss auf dem Ei- se|wankt er hin und her|||Und sein klei- ner Tel- ler|
+ A3/2 c/ B E B2 |[Q:1/4=50] z6 | z6 |$[Q:1/4=46] A B c d e3/2 d/ | c B A E A2 |[Q:1/4=50] z6 | z6 | %28
+w: bleibt ihm im- mer leer|||Und sein klei- ner Tel- ler|bleibt ihm im- mer leer|||
+ z6 | z6 |$[Q:1/4=46] A E A B c A | E A ^G B E2 |[Q:1/4=50] z6 | z6 |[Q:1/4=46] A E A B c A |$ %35
+w: ||Kei- ner mag ihn hö- ren|kei- ner sieht ihn an,|||Und die Hun- de knur- ren|
+ E A ^G B E2 |[Q:1/4=50] z6 | z6 |[Q:1/4=46] A e d c B E | A3/2 c/ B E B2 |[Q:1/4=50] z6 |$ z6 | %42
+w: um den al- ten Mann.|||Und er lässt es ge- hen|al- les wie es will|||
+[Q:1/4=46] A e d c B E | A c B E B2 |[Q:1/4=50] z6 | z6 |[Q:1/4=46] A B c d e3/2 d/ |$ c B A E A2 | %48
+w: Dreht, und sei- ne Lei- er|steht ihm nim- mer still,|||Dreht, und sei- ne Lei- er|steht ihm nim- mer still.|
+[Q:1/4=50] z6 | z6 | z6 | z6 |[Q:1/4=42] E3/2 E/ E E A E |$ z2 E E A c/B/ | A4 z2 | %55
+w: ||||Wun- der- li- cher Al- ter|soll ich mit dir *|gehn?|
+[Q:1/4=46] E3/2 e/ d f e E | E3/2 e/ d f e2- | e4 z2 |$ z6 | z6 | !fermata!z6 |] %61
+w: Willst zu mei- nen Lie- dern|dei- ne Lei- er drehn?|_||||
+V:2
+ z6 | z6 | (A/!pp!c/B/d/ cAB^G) | (Ac/) z/ !>![E^GB]4 | (Ac/) z/ !>![E^GB]4 | (A/e/d/f/ eABc) | %6
+ (!>![D^G]B/) z/ [CE]4 | (!>![D^G]B/) z/ [CE]4 |$ z6 | z6 | (A/c/B/d/ cAB^G) | %11
+ (!>!Ac/) z/ ((!>![E^GB]4 | [EA]2)) z2 z2 |$ z6 | (A/c/B/d/ cAB^G) | (Ac/) z/ (!>![E^GB]4 | %16
+ [EA]2) z2 z2 | z6 |$ (A/e/d/f/ eABc) | ([D^G]B/) z/ [CE]4 | z6 | z6 | (A/e/d/f/ eABc) | %23
+ ([D^G]B/) z/ [CE]4 |$ z6 | z6 |!<(! (A/f/e/^g/!<)!!>(! afe>d)!>)! | ([Ec]>[DB] [CA][B,E] [CA]2) | %28
+ (!>![D^G]B/) z/ [CE]4 | (!>![D^G]B/) z/ [CE]4 |$ z6 | z6 | (A/c/B/d/ cAB^G) | %33
+ (Ac/) z/ ((!>![E^GB]4 | [EA]2)) z2 z2 |$ z6 | (A/c/B/d/ cAB^G) | (!>!Ac/) z/ (!>![E^GB]4 | %38
+ [EA]2) z2 z2 | z6 | (A/e/d/f/ eABc) |$ (!>![D^G]B/) z/ [CE]4 | z6 | z6 | (A/e/d/f/ eABc) | %45
+ (!>![D^G]B/) z/ [CE]4 | z6 |$ z6 |!<(! (A/f/e/^g/!<)!!>(! afe>d)!>)! | %49
+ ([Ec]>[DB] [CA][B,E] [CA]2) | (!>![D^G]B/) z/ [CE]4 | (!>![D^G]B/) z/ [CE]4 | %52
+ (!>![D^G]B/) z/ [CE]4 |$ (!>![D^G]B/) z/ [CE]4 | (A/e/d/f/ ecAe) | z2 (!>![^GB]2 [Ac]2) | %56
+ z2 !>![^GB]2 [Ac]2 |!f! (A/!<(!f/e/^g/!<)!!>(! afec)!>)! |$!p! (A/c/B/d/ cAB^G) | %59
+!pp! (Ac/) z/ !>![E^GB]4 | !fermata![CEA]6 |] %61
+V:3
+!pp!{^D,/} [A,,E,]3 |{^D,/} [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | %7
+ [A,,E,]3 |$ [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 |$ [A,,E,]3 | [A,,E,]3 | %15
+ [A,,E,]3 | (A,2 ^G,) | (A, ^G,2) |$ [A,,E,A,]3 | (B, A,2) | (A,2 ^G,) | (A, ^G,2) | %22
+ (A,3/2 C/B,/A,/) | (B, A,2) |$ [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | (B, A,2) | (B, A,2) |$ %30
+ [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 |$ [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | %38
+ (A,2 ^G,) | (A, ^G,2) | [A,,E,A,]3 |$ (B, A,2) | (A,2 ^G,) | (A, ^G,2) | (A,3/2 C/B,/A,/) | %45
+ (B, A,2) | [A,,E,]3 |$ [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | (B, A,2) | (B, A,2) | (B, A,2) |$ %53
+ (B, A,2) | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 |$ [A,,E,]3 | [A,,E,]3 | !fermata![A,,E,]3 |] %61
+V:4
+ x3 | x3 | x3 | x3 | x3 | x3 | (B, A,2) | (B, A,2) |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %16
+ [A,,E,]3 | [A,,E,]3 |$ z3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 |$ x3 | x3 | x3 | %27
+ x3 | [A,,E,]3 | [A,,E,]3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | [A,,E,]3 | [A,,E,]3 | x3 |$ %41
+ [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | [A,,E,]3 | x3 |$ x3 | x3 | x3 | [A,,E,]3 | [A,,E,]3 | %52
+ [A,,E,]3 |$ [A,,E,]3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 |] %61
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | %19
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %38
+ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | E3 | E3 | %57
+ x3 |$ x3 | x3 | x3 |] %61

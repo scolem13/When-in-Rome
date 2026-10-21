@@ -1,0 +1,60 @@
+X:1
+T:Die schöne Müllerin (D.795)
+T:Danksagung an den Bach
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+Z:
+%%score 1 { ( 2 4 ) | 3 }
+L:1/16
+Q:1/4=65
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="Singstimme"
+V:2 bass nm="Pianoforte"
+V:4 bass 
+L:1/8
+V:3 bass 
+L:1/8
+V:1
+"^Etwas langsam." z2 | z8 | z8 | z8 | z4 z2 B c |$ d2 B G F3 F | (GB) d e d3 d | %7
+w: ||||War es|al- so ge- meint, mein|rau- * schen- der Freund, dein|
+({e/} d2) B G({G/} F2) F2 | z2 B c d2 f f |$ g2 B c d2 F F | G2 z2 z2 d2 | (^cg) c c d3 d | %12
+w: Sin- gen, dein Klin- gen|war es al- so ge-|meint, war es al- so ge-|meint? Zur|Mül- * le- rin hin, so|
+ (d=f) d B =c4 |$ e8 | e2 B B c2 e2 | d2 A A B2 d2 | z2 (Bc) d2 f f |$ g2 (Bc) d2 F F | G2 z2 z4 | %19
+w: lau- * tet der Sinn;|gelt,|hab' ich's ver- stan- den,|hab' ich's ver- stan- den?|zur * Mül- le- rin|hin, zur * Mül- le- rin|hin!|
+ z8 | z8 |$ z4 z3 d | d2 _B G F2 F F | G2 _B _e d3 d | d2 c _B A2 d d |$ =f2 _e c _B3 d | %26
+w: ||Hat|sie dich ge- schickt, o- der|hast mich be- rückt? das|möcht' ich noch wis- sen, ob|sie dich ge- schickt, ob|
+ =f2 _e c _B2 z2 | z4 z3 d | (d=e) d c B3 d |$ =f2 B B c2 c d | e2 e d (dc) B A | (de) d c B2 z2 | %32
+w: sie dich ge- schickt.|Nun|wie's * auch~ mag~ sein, ich|ge- be mich d'rein; was ich|such', hab' ich fun- * den, wie's|im- * mer mag sein.|
+ z4 z2 (Bc) |$ d2 B G F3 F | (GB) d e d2 d d |({e/} d2) B G({G/} F2) F2 | z2 (Bc) d3 f |$ %37
+w: Nach *|Ar- beit ich frug, nun|hab' * ich ge- nug, für die|Hän- de, für's Her- ze|voll- * auf ge-|
+ g2 (Bc) d3 F | G2 z2 z4 | z8 | z8 | z8 |] %42
+w: nug, voll- * auf ge-|nug.||||
+V:2
+!p! (G,A, | B,DD,B, CDD,C) | (B,DGE PDCA,D,) | (B,DD,B, CDD,C) | (B,DED B,2)!pp! (G,A,) |$ %5
+ (B,DD,B, CDD,C) | (B,DD,B, A,DD,C) | (B,DD,B, CDD,C) | (B,D,G,A, B,D,CD) |$ (B,D,G,A, B,D,CD) | %10
+ (B,DD,B, A,DD,A,) | (G,^CE,G, F,DD,F,) | (=F,B,D,F, E,CC,E,) |$ (B,EE,B, CEE,C) | %14
+!pp! (B,EE,B, CEE,C) | (A,DD,A, B,DD,G,) |!mf! (B,DG,A, B,D,CD) |$ (B,D,G,A, B,B,,CD) | %18
+!p! (B,DD,B, CDD,C) |!<(! (B,DGE!<)!!mf!!>(! PDCA,!>)!D,) |!p! (B,DD,B, CDD,C) |$ %21
+ (B,DED B,2)!pp! (G,A,) | (_B,DD,B, CDD,C) | (_B,DD,B, A,DD,C) | (_B,DD,B, A,DD,A,) |$ %25
+ (A,_E=F,A, _B,DD,B,) | (A,_E=F,A, _B,DF,B,) | (CD^F,C CDG,C) | (CDD,A, =B,DD,G,) |$ %29
+ (=F,B,D,F, E,CC,E,) | (B,EE,B, CEE,C) | (A,DD,A, B,DD,B,) | DEDC x2 x x |$ (B,DD,B, CDD,A,) | %34
+ (B,DD,B, A,DD,C) | (B,DD,B, CDD,C) |!mf! (B,D,G,A, B,D,CD) |$ (B,D,G,A, B,D,CD) | %38
+!p! (B,DD,B, CDD,C) | (B,DGE PDCA,D,) |!pp!"_dim." (B,DD,B, CDD,C) | (B,DED!ppp! B,2) z2 |] %42
+V:3
+ z | (G,,D,,F,,D,,) | G,,B,,,/B,,,/ (D,,>F,,) | (G,,D,,F,,D,,) | G,,D,,/D,,/ G,, z |$ %5
+ (G,,D,,A,,D,,) | (G,,D,,F,,D,,) | (G,,D,,A,,D,,) | G,,(G,,/E,,/ D,,)D,,/D,,/ |$ %9
+ (G,,,G,,/E,,/ D,,)D,,/D,,/ | (G,,,G,,F,,,F,,) | (A,,,A,,D,,A,,) | (G,,,G,,C,,G,,) |$ %13
+ (^G,,,^G,,A,,,A,,) | (^G,,,^G,,A,,,A,,) | (F,,,F,,=G,,,=G,,) | (G,,,G,,/E,,/ D,,)D,,/D,,/ |$ %17
+ (G,,,G,,/E,,/ D,,)D,,/D,,/ | (G,,D,,F,,D,,) | G,,B,,,/B,,,/ (D,,>F,,) | (G,,D,,F,,D,,) |$ %21
+ G,,D,,/D,,/ G,,, z | (G,,D,,A,,D,,) | (G,,D,,F,,D,,) | (G,,G,,,F,,,F,,) |$ (=F,,,=F,,_B,,,_B,,) | %26
+ (_B,,,_B,,B,,,B,,) | (A,,,A,,G,,,G,,) | (F,,,F,,G,,,G,,) |$ (G,,,G,,C,,G,,) | (^G,,,^G,,A,,,A,,) | %31
+ (F,,,F,,G,,,G,,) | (F,,D, G,,) z |$ (G,,D,,A,,D,,) | (G,,D,,F,,D,,) | (G,,D,,A,,D,,) | %36
+ (G,,,G,,/E,,/ D,,)D,,/D,,/ |$ (G,,,G,,/E,,/ D,,)D,,/D,,/ | (G,,D,,F,,D,,) | %39
+ G,,B,,,/B,,,/ (D,,>F,,) | (G,,D,,F,,D,,) | G,,D,,/D,,/ G,, z |] %42
+V:4
+ x | x4 | x4 | x4 | B,A, G, x |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ %17
+ x4 | x4 | x4 | x4 |$ B,A, G, x | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %32
+ (A,2 [G,B,]/)D,/G,/A,/ |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | B,A, G, x |] %42

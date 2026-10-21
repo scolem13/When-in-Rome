@@ -1,0 +1,46 @@
+X:1
+T:Silhouettes
+T:Andantino
+C:Antonín Dvořák
+%%score { ( 1 2 3 ) | ( 4 5 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 treble 
+L:1/4
+V:4 bass 
+V:5 bass 
+V:1
+!p!"^Andantino" F A d c B2 A2 | (D A d c B2 A2 | D)!<(! (A [eg] [df] [ce]!<)!!f! [Bd] [Ac] [GB] |$ %3
+ [FA]!>(! [EG] [_DF] [CE][K:bass] D E F C!>)! |!pp! B,4- B,3) z |!pp! =D F B =A =G2 F2 | %6
+ =D F B =A =G2 F2 |$!<(! (_D F B c !tenuto!d !tenuto!e !tenuto![df] !tenuto![d=g]) | %8
+ (!arpeggio![Fda]=a!<)!!f! (!fermata![_Gcb]2-) [Gcb]/"^dim. e ritard."[ca]/[_c_a]/[B=g]/[__B_g]/[Af]/[=G=e]/[^F^d]/[=F=d]/[=E^c]/[_E=c]/[=D=B]/[_D_B]/[=C=A]/ !tenuto!_A/!tenuto!G/!tenuto!_G/!tenuto!F<!pp!!fermata!=EF/) |$ %9
+"^in tempo"!p! F A d c B2 A2 |"_cresc." (D A d c B2 A2 | D) (A [eg] [df] [ce]!f! [Bd] [Ac] [GB] |$ %12
+ [FA][EG][_DF]!<(![DE] DE!<)!_F=C | E2"_dimin." D2-) (DE=FC | %14
+!>(! E2- (5:4:5E/D/C/D/E/!ppp! D4)!>)! |] %15
+V:2
+ x A3- A G F E | x A3- A G F E | x A3- A D2 =D- |$ D B,3[K:bass] B,2 =A, E, | %4
+ ([D,F,] [E,G,] [D,F,] [C,E,] [D,F,]3) x | x F3 E =A, =D C | x F3 E =A, =D C |$ _D3 E F2 F =G | %8
+ x11 C4 |$ x A3- AGF E | x A3- AGF!<(! E | x!<)! A3- A D2 =D- |$ D x7 | x8 | x8 |] %15
+V:3
+ F x3 | D x3 | x4 |$ x2[K:bass] x2 | x4 | =D x3 | =D x3 |$ x4 | x15/2 |$ F x3 | D x3 | x4 |$ x4 | %13
+ x4 | x4 |] %15
+V:4
+"" D,2"""""" D4"""" C2 |"" F,2"""" D4"""" C2 |"" A,2"""""" A,3"" ([G,,,G,,]2"" [B,,,B,,]- |$ %3
+"" [B,,,B,,]"m" [E,,,E,,]2"m" [G,,,G,,]-"" [G,,,G,,]2"m""" [F,,,F,,]2 | %4
+"m" [B,,,F,,B,,]4- [B,,,F,,B,,]3) z |"" z [B,,F,]2"m" [=D,F,]"" z"""" [C,F,]2"" [F,,E,F,] | %6
+"" z [B,,F,]2"m" [=D,F,]"" z"""" [C,F,]2"" [F,,E,F,] |$ %7
+"" z [B,,F,]2 [B,,F,]- [B,,F,]2"""" [__B,,D,]2 | %8
+"" [A,,D,F,]2"" [A,,,A,,]!fermata![_G,CE]- [G,CE]/G/=D/E/C/_D/^A,/=B,/^G,/=A,/^F,/=G,/=E,/=F,/ !tenuto!_G,/!tenuto!=G,/_A,- !fermata!A,2 |$ %9
+"""" D4-"""" D2"""" C2 |"" A,2 D2-"""" D2"""" C2 | %11
+"" [F,A,]2"""" [D,A,]2-"" [D,A,]"" ([G,,,G,,]2"" [B,,,B,,]- |$ %12
+"" [B,,,B,,]"m" B,2"" B,"" [F,A,]2"CGer6" [=E,=G,]2- | [E,G,]4"" [=F,A,]2"" [_G,A,C]2- | %14
+ [G,A,C]2)"""" [F,A,]4 !fermata![F,A,]2 |] %15
+V:5
+ (D,2 F,2 G,2 A, G,) | (F,4 G,2 A, G,) | F,2 D,3 x3 |$ x8 | x8 | x8 | x8 |$ x8 | x13 A,>_G, |$ %9
+ (D,2 F,2 G,2 A, G,) | (F,4 G,2 A, G,) | x8 |$ %12
+ x [E,,,E,,]2 [F,,,F,,]/ [=G,,,=G,,]/ [A,,,A,,]2 [__B,,,__B,,]2- | [B,,,B,,]4 [A,,,A,,]4- | %14
+ [A,,,A,,]2 !fermata![D,,,D,,]6 |] %15

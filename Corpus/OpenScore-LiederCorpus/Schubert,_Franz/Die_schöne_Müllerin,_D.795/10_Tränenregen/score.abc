@@ -1,0 +1,88 @@
+X:1
+T:Die schöne Müllerin
+T:Tränenregen
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 4 7 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:A
+V:1 treble nm="Singstimme"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 treble 
+V:7 treble 
+V:5 bass 
+V:6 bass 
+V:1
+"^Ziemlich langsam."!p! z | z6 | z6 | z6 | z2 z z2 c | c d B{A/} G F E |$ E3 A z A | B2 c ed c | %8
+w: ||||Wir|sas- sen so trau- lich bei-|sam- men im|küh- len Er- * len-|
+w: ||||Ich|sah _ nach kei- * nem|Mon- de, nach|kei- nem Ster- * nen-|
+w: ||||Und|in _ den Bach * ver-|sun- ken der|gan- ze Him- * mel|
+ B3 z z c | c d B{A/} G F E | E3 A2 B |$ c F F A ^D D | E3 z2 z | z6 | z2 z z2 E |$ %15
+w: dach, wir|schau- ten so trau- lich zu-|sam- men hin-|ab in den rie- seln- den|Bach.||Der|
+w: schein, ich|schau- te nach ih- * rem|Bil- de, nach|ih- * rem Au- ge al-|lein.||Und|
+w: schien und|woll- te mich mit _ hin-|un- ter in|sei- * ne Tie- * fe|zieh'n.||Und|
+ F3/2 F/ F G3/2 G/ G | (A2 c) B2 c | d3/2 c/ B c A B |$ c3 z z E | F3/2 F/ F G G G | %20
+w: Mond * war auch * ge-|kom- * men, die|Stern- * lein hin- * ter-|drein, und|schau- ten so trau- lich zu-|
+w: sa- he sie ni- cken und|bli- * cken her-|auf aus dem se- li- gen|Bach, die|Blüm- lein am U- fer, die|
+w: ü- ber den Wol- ken und|Ster- * nen da|rie- sel- te mun- ter der|Bach, und|rief * mit Sin- gen und|
+ (A2 c) B[Q:1/8=120] B[Q:1/8=118] c | %21
+w: sam- * men in den|
+w: blau- * en, * sie|
+w: Klin- * gen: * Ge-|
+[Q:1/8=116] d3/2[Q:1/8=113] c/[Q:1/8=112] B[Q:1/8=110] c[Q:1/8=108] e[Q:1/8=106] G[Q:1/8=114] |$ %22
+w: sil- ber- nen Spie- gel hin-|
+w: nick- ten und blick- ten ihr|
+w: sel- le, Ge- sel- le! mir|
+[Q:1/8=104] A2[Q:1/8=100] z[Q:1/8=120] z2 z[Q:1/8=103][Q:1/8=102][Q:1/8=101] | z6 | z4 z :| =c | %26
+w: ein.|||Da|
+w: nach.||||
+w: nach.||||
+ =c d B{A/} ^G ^F E |$ E3 A2 B | =c3/2 B/ c d3/2 d/ d | e2 z z2!mp! _B | A2 A A2 A | =c2 A z z A |$ %32
+w: gin- gen die Au- gen mir|ü- ber, da|ward es im Spie- gel so|kraus, sie|sprach: es kommt ein|Re- gen, a-|
+w: ||||||
+w: ||||||
+ ^cA B ce G | A2 z z2 z | z6 | z6 | z6 | z6 |] %38
+w: de, * ich geh' * nach|Haus.|||||
+w: ||||||
+w: ||||||
+V:2
+ x | x6 | x6 | x6 | x6 | cd B GF x |$ x6 | x6 | x6 | x3 GF x | x6 |$ cF x A^D x | x6 | x6 | x6 |$ %15
+ F2 F G2 G | x6 | d2 B cA B |$ x6 | F2 F x3 | x2 x B2 c | x6 |$ x6 | x6 | x5 :| x | x6 |$ x6 | x6 | %29
+ x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |] %38
+V:3
+ (!>!c- | cdB AG(e) | (^e)fd cB!>!c-) | (cdB AG(e) | (^e)fG A2) (!>!c- | cdB{A/} GFE) |$ E3 AGA | %7
+ B2 c edc | B2 c B2 (!>!c- | cdB{A/} GFE) | (E3- EAB) |$ c2 F ([^DA]2 D) | (EGB- B/B,/A/B,/F/B,/) | %13
+ (EGB- B/B,/A/B,/F/B,/) | EC/E/A,/E/- [G,E]2 E- |$ (F3 G3) | (A2 c) B2 c | (d2 B cAB) |$ %18
+ c3- c2 =E | (F3 G3) | (A2 c B2 c) | (d2 B ceG) |$!<(! Ac!p!e-!<)!!>(! edB!>)! | %23
+!<(! Ac!p!e-!<)!!>(! edB!>)! | AF/A/D/A/- [CA]2 :| (=c- | cdB{A/} ^G^FE) |$ E3- EAB | %28
+ [E=c]2 [Ec]!<(! d2 d!<)! | e6- | eA^c de=f | z2 z ^f3 |$ ^cAB ceG | A3- A z !>!c- | (cdB AGe) | %35
+ (^efd cB!>!=c-) | (cdB AG!>!e-) | (e=fG A2) z |] %38
+V:4
+ (^E | F3) E2 A- | A2 B AG^E | F3 E2 A- | A2 D C2 (^E | F3) E3 |$ E6 | z E2- E3 | E3- E2 (^E | %9
+ (F3) E3) | E6 |$ E^DC B,3 | E/B,/G/B,/^D/B,/ C2 D | E/B,/G/B,/^D/B,/ C2 D | ECA, x x2 |$ %15
+ EDC B,ED | CEF GEG | AFE- E F2 |$ ^E2 F E2 =E- | EDC B,ED | CEF GEG | AFE E2 E |$ %22
+ A/E/c/E/e/E/ e/E/d/E/B/E/ | A/E/c/E/e/E/ e/E/d/E/B/E/ | AFD x2 :| (E | =F3) E3 |$ x3 E2 E | %28
+ x3 =F2 [FB] | E=cB _BA=G | =F6 | z AB =cBA |$ E3 E3 | EFD CE^E | F3 E2 A- | A2 B AG(E | %36
+ =F3) E2 A- | A2 D =C2 x |] %38
+V:5
+!pp! A, | (D3 EDC) | (!>!DB,D E2 A,) | (!>!D3 EDC) | (!>!DB,E, [A,,A,]2) A, | D6- |$ (DCB, A,DC) | %7
+ G,2 A, B,2 A, | G,2 A, G,2 A, | D6- | (DCB, C2) G, |$ A,3 F,G,A, | [E,G,]3 A,F,B,, | %13
+ [E,G,]3 A,F,B,, | (G,A,F, E,2) E, |$ D,3- (D,C,B,,) | (A,,C,^D,) (E,G,^E,) | (F,A,G, A,F,D,) |$ %18
+ z (G,A,) G,2 E, | D,3- (D,C,B,,) | (A,,C,^D, E,G,^E,) | (F,A,G, A,C[E,D]) |$ %22
+[K:treble]!pp! (C3 DB,E) |!pp! (C3 DB,E) |!pp! (CDB, A,2) :|[K:bass] A, | D6- |$ (D=CB, C2) G, | %28
+ A,=G,F,!pp! G,2 G, |!p! =G,3- G,A,_B, | A,3- A,^CD | z =CB, A,B,C |$ A,^CG, A,CD | CDB, A, z A, | %34
+!pp! (D3 EDC) | (!>!DB,D E2 A,) | (D3 ED=C) | D2 (([E,B,] [A,,E,A,]2)) z |] %38
+V:6
+ x | x6 | x6 | x6 | x6 | (D,3 E,F,G,) |$ A,3 C x2 | x6 | E,D,C, E,2 A, | (D,3 E,F,G,) | %10
+ A,3- A,2 x |$ x3 B,,3 | x6 | x6 | E,3- E,2 x |$ x6 | x6 | x6 |$ C,3- C,2 E, | x6 | x6 | x6 |$ %22
+[K:treble] A,6 | A,6 | A,3- A,2 :|[K:bass] x | (D,3 E,F,G,) |$ A,3- A,2 x | x6 | (=C,3 ^C,3) | %30
+ D,6 | ^D,6 |$ E,6 | A,3- A, x x | x6 | x6 | x6 | x6 |] %38
+V:7
+ x | x6 | x6 | x6 | x6 | x6 |$ x6 | x3 G2 A | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 |$ %18
+ x6 | x6 | x6 | x6 |$ x2 G F2 G | x2 G F2 G | x5 :| x | x6 |$ x6 | x3 =cA x | x6 | x6 | x6 |$ x6 | %33
+ x6 | x6 | x6 | x6 | x6 |] %38

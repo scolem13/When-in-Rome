@@ -1,0 +1,34 @@
+X:1
+T:Chorale 244:
+T:Jesu, Jesu, du bist mein
+T:Chorale 244:
+T:Jesu, Jesu, du bist mein
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ G3/2 c/ =B c | d e/d/ !fermata!d2 | e c f e | d d/>e/ c !fermata!c |$ G G c B | %5
+ _A G/F/ !fermata!F2 | B G c/d/ e | G F/E/ E !fermata!E |$ G3/2 =A/ =B B | c d =B !fermata!B | %10
+ c d e c | f e d !fermata!d |$ c G _A G | G3/2 F/ !fermata!G2 | c G _A/G/ F/E/4D/4 | %15
+ E D/C/ !fermata!C2 |] %16
+V:2
+ E G F G | G G G2 | G G F/G/ (_A | _A/)D/G/F/ E E |$ E/F/ G C/D/ E | F E D2 | F3/2 E/ E/F/ G/F/ | %7
+ E D B, B, |$ E E F G | G _A G G | G G G G | F G G G |$ G (G G/) F E/ | E/D/ C D2 | G/F/ G/E/ F C | %15
+ C =B, G,2 |] %16
+V:3
+ C C D E | D C C !fermata!=B, | C E/D/ C C | C =B, G, G, |$ C D E B, | B, B, B,2 | %6
+ B, B, C/B,/ B,/C/ | B, B,/>_A,/ G, G, |$ B, C/E/ D D | E F D D | E D C/D/E/D/ | C C C =B, |$ %12
+ C E C =B, | C/=B,/ C B,2 | C C C _A, | G, G,/>F,/ =E,2 |] %16
+V:4
+ C,2 E,2 D,2 C,2 | =B,,2 C,2 !fermata!G,,4 | C,2 C_B, _A,3 G, | F,2 G,2 !fermata!C,4 |$ %4
+ C2 B,2 _A,2 G,F, | E,D, E,2 !fermata!B,,4 | D,B,, E,2 _A,,2 G,,A,, | B,,_A,, B,,2 !fermata!E,,4 |$ %8
+ E,D,E,C, D,_A,G,F, | E,C, F,,F, G,G,,G,F, | E,D,C,=B,, C,G,C_B, | _A,2 G,F, G,2 !fermata!G,,2 |$ %12
+ E,2 C,2 F,2 G,2 | _A,4 !fermata!G,4 | E,D,E,C, F,G,_A,F, | G,2 G,,2 !fermata!C,4 |] %16

@@ -1,0 +1,35 @@
+X:1
+T:Chorale 218:
+T:Lass, o Herr, dein Ohr sich neigen
+T:Chorale 218:
+T:Lass, o Herr, dein Ohr sich neigen
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+L:1/8
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ G G ^F G | A B A2 | !fermata!G2 :| B A |$ G B A G | !fermata!^F2 =F _E | D G G ^F | %7
+ !fermata!G2 B c |$ d d c B | c2 !fermata!B2 | B c d d | c B c2 | !fermata!B2 B A |$ G B A G | %14
+ !fermata!^F2 =F _E | D G G ^F | !fermata!G2 |] %17
+V:2
+ D2 D2 D2 D2 | _ED DG G2 ^F2 | D4 :| G2 G^F |$ G2 G=F _ED =E2 | D4 A,B, C2 | B,C D2 _E2 D2 | %7
+ D4 G2 A2 |$ B2 B_A GF F2 | G2 F_E D4 | F2 F2 F2 F2 | F_E D2 G2 FE | D4 D2 DC |$ B,2 _ED CD D2 | %14
+ D4 D2 DC/B,/ | A,2 D2 _E2 D2 | D4 |] %17
+V:3
+ B, B, A, B, | C B,/D/ _E D/C/ | B,2 :| D D/>C/ |$ B,/C/ D C B,/A,/ | A,2 F, F, | %6
+ F, B, A, A,/4B,/4C/ | B,2 D F |$ F F _E/C/ D/B,/ | B,/A,/4G,/4 A, B,2 | D C C/B,/4A,/4 B, | %11
+ A, B, B, A, | F,2 G, ^F, |$ G, G, A, B, | A,2 G, G, | ^F, G,/B,/ A, A,/C/ | =B,2 |] %17
+V:4
+ G,,A,,B,,C, D,C,B,,G,, | ^F,,2 G,,2 C,2 D,2 | !fermata!B,,4 :| G,2 D,2 |$ _E,2 B,,2 C,2 ^C,2 | %5
+ !fermata!D,4 D,C,B,,A,, | B,,A,,G,,B,, C,A,, D,2 | !fermata!G,,4 G,2 F,_E, |$ %8
+ D,C, B,,2 B,,A,, B,,D, | _E,C, F,2 !fermata!B,,4 | B,,3 A,, B,,F, B,2 | F,2 G,F, _E,2 F,2 | %12
+ !fermata!B,,4 G,,2 D,2 |$ _E,3 =E, F,^F, G,G,, | !fermata!D,4 =B,,2 C,2 | %15
+ C,B,,/A,,/ B,,G,, C,A,, D,2 | !fermata!G,,4 |] %17

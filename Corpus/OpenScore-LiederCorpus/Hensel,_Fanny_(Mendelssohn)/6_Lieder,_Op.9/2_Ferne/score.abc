@@ -1,0 +1,44 @@
+X:1
+T:6 Lieder, Op.9
+T:Ferne
+C:Fanny (Mendelssohn) Hensel
+Z:Johann Ludwig Tieck
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/4
+Q:1/4=90
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/8
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+"^Andante" z3 |!p! d d d | e2 d | ^c2 z | d A B | d2 c | B2 z | G G G |$ ((A2 c) | %9
+w: |1. O al- te|Hei\- math|süss!|wo find' ich|wie\- der|dich?|welch ei- ne|Qual _|
+w: |2. O fer- ner|Lie- bes-|schein,|glimmst wie- der|nach mir|her,|soll dies mein|Glük- *|
+w: |3. Bald such' ich|Lin- de-|rung|bei dir, o|Thrä- nen-|guss,|denk' dann es|ist *|
+"^cresc." (=B2) d) | c z z | z3 |!f! c c c | e2 d | ^c z z |"^dim." d A B | !>!d2 c |$ B z z | %18
+w: _ ist|dies!||Wa- rum ver-|folgst du|mich?|war- um er\-|tö\- dtest|mich?|
+w: * ke|sein?||Mir fällt das|Leid zu|schwer,|wer denkt wohl|mei\- ner,|wer?|
+w: ge- *|nung.||Dann denk' ich|ih\- ren|Kuss|und dass ich|wan- dern|muss,|
+!p! G G G |!<(! G3-!<)! |!>(! G3- | G2 G!>)! |!pp! D2 z | z3 :| z3 | z3 | z3 |] %27
+w: wa- rum er-|tö-||* dtest|mich?|||||
+w: wer denkt wohl|mei\--||* ner,|wer?|||||
+w: und dass ich|wan-||* dern|muss.|||||
+V:2
+!p![I:staff +1] G,B,[I:staff -1]DGB,D |[I:staff +1] B,[I:staff -1]DGBDG | %2
+[I:staff +1] B,[I:staff -1]EGBEG | B,=EGBEG | A,D^FADF | A,D^FADF | B,DGBDG | G,B,DGB,D |$ %8
+ G,CEGCE | G,DFG=B,F | G,CEGCE | G,CEGCE | G,CEGCE | G,CEGCE | G,B,EGB,E | ^F,D^FADF | A,D^FADF |$ %17
+ B,DGBDG | G,B,DGB,D | _A,CE_ACE | =B,FG=BFG | CEGcEG | A,CDGCD | A,CD^FCD :| z B,DGBG | %25
+ DB,G, x xx | z6 |] %27
+V:3
+ G,,3- | G,,3 | G,,3 | G,3 | ^F,3 | D,3 | G,3 | B,,3 |$ C,3 | D,3 | E,3- | E,3 | E,,3- | E,,3 | %14
+ E,3 | D,3 | ^F,,3 |$ G,,3 | B,,3 | C,3 | D,3 | E,3 | D,3 | D,3 :| [G,,G,]3- | [G,,G,]3 | %26
+ [G,,,G,,] z z |] %27
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 :| x6 | x2 x D,B,,D, | x6 |] %27

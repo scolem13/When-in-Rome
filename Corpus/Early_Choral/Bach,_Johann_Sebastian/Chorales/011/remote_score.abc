@@ -1,0 +1,42 @@
+X:1
+T:Chorale 11:
+T:Jesu, nun sei gepreiset
+T:Chorale 11:
+T:Jesu, nun sei gepreiset
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ e | e c d e | f2 !fermata!d d | d c c B | !fermata!c2 z d |$ d d d e | c2 !fermata!c c | B c d d | %8
+ !fermata!c3 :| B |$ B B B B | c2 !fermata!c B | B B B B | c2 !fermata!c ||[M:3/4][M:3/4] e |$ %15
+ (e d) c | d2 e | f3 | !fermata!e2 e | d2 d | ^c2 c | (d3 | !fermata!d2) e |$ e d c | d2 e | f3 | %26
+ !fermata!e2 e | d2 d | ^c2 c | (d3 | !fermata!d2) ||$[M:4/4][M:4/4] e | e c d e | %33
+ f2 !fermata!d d | d c c B | !fermata!c3 |] %36
+V:2
+ G | G G G G | F/G/ A _B A | G G A G | [Gx]2 [xx] [Gx]/[I:staff +1] [x^F]/ |$ %5
+[I:staff -1] G3/2 ^F/ G G | G =F/E/ F G | G/F/ E A G/F/ | E3 :| G |$ G A G ^G | A2 A A | A G D G | %13
+ G2 G ||[M:3/4][M:3/4] G |$ G2 G | G A B | c B A | G2 c | B A G | A _B G | F2 _B | A2 A |$ B2 A | %24
+ A2 G | A2 G | G2 G | F G A | G A _B | A _B G | ^F2 ||$[M:4/4][M:4/4] A | G G G G | A2 G G | %34
+ G G G/A/ G/F/ | E3 |] %36
+V:3
+ C | C/D/ E D C | C F F A, | B, C F/E/ D | E2 z B,/A,/ |$ B,/A,/B,/C/ D C/_B,/ | _B, A,/G,/ A, E | %7
+ D C C B, | G,3 :| D |$ D/E/ ^F E E | E2 E F | F E/F/ G F | F E/D/ E ||[M:3/4][M:3/4] C |$ C D E | %16
+ D2 G | C2 D | E2 G | G F E | F E2 | D2 E | F2 C |$ B, E2 | A, B, C | C B,/A,/ B, | C2 A, | A,2 D | %28
+ E2 E | A, D _B, | A,2 ||$[M:4/4][M:4/4] C | C C B, C | C/E/D/C/ B, B, | B, C/D/ E D/G,/ | G,3 |] %36
+V:4
+ C,2 | C,2 C2 B,2 _B,2 | A,2 G,F, !fermata!_B,2 ^F,2 | G,=F, E,2 F,2 G,2 | %4
+[I:staff -1] [xC,]4 [xx]2 [xG,,]2 |$[I:staff +1] G,^F,G,A, B,G, C2 | F,4 !fermata!F,2 E,F, | %7
+ G,2 A,G, F,2 G,G,, | !fermata!C,6 :| G,,2 |$ G,^F,E,^D, E,=D,C,B,, | A,,4 !fermata!A,,2 D,2 | %12
+ E,F,G,A, G,F,E,D, | C,4 !fermata!C,2 ||[M:3/4][M:3/4] C,2 |$ C2 B,2 A,2 | B,2 A,2 G,2 | A,4 B,2 | %18
+ !fermata!C4 C,2 | G,2 A,2 _B,2 | A,2 G,2 A,2 | _B,2 A,2 G,2 | !fermata!D,4 A,2 |$ ^G,4 A,2 | %24
+ F,4 E,2 | D,4 G,2 | !fermata!C,4 ^C,2 | D,2 E,2 F,2 | E,2 F,2 G,2 | ^F,2 G,2 G,,2 | %30
+ !fermata!D,4 ||$[M:4/4][M:4/4] A,,B,, | C,D,E,C, F,G,F,E, | D,E,F,D, G,A,G,F, | %34
+ E,D,E,F, G,F,G,G,, | !fermata!C,6 |] %36

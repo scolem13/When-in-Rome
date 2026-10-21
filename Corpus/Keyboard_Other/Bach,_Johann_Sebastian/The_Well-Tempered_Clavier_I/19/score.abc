@@ -1,0 +1,42 @@
+X:1
+T:Praeludium 19
+T:BWV 864
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Score"
+V:4 treble 
+V:2 bass 
+V:3 bass 
+L:1/8
+V:1
+"^\n" ABcA f2f2 f^de2 z ef=g | a=gfa dcBa ^gfeg cBA=g |$ fedf Bfed cBAB c^def | %3
+ gabg efge fgaf B2b2- | b2e2 z2 a2- a2^d2 z2 g2 |$ agfa ^dagf e4 z2 =g2 | =g2f2 z2 f2 f2e2 z2 e2 | %7
+ e2d2 z2 d2 d2c2 a4 |$ g4 =g4 f4 b4 | e4 a8 ^g4- |$ gf^eg f8 e4 | fgaf d2d2 d^Bc2 z cde | %12
+ fe^df BAGf ^edcb agfe |$ f^efg Pg2>f2 f4 z2 a2 | a2g2 z2 g2 g2f2 z2 b2 | b2a2 z2 a2 a2g2 z2 e2 |$ %16
+ e2A2d2d2 d2c2 z edc | BcdB E2e2- e2A2 z2 d2- | d2G2 z2 c2 dcBc dcde |$ ABcA f2f2 f^de2 z ef=g | %20
+ a=gfa dcBa ^gfeg cBA=g |$ fedf Bfed cBAc FEDF | B,CDE FGAB cdef gabg | a4- a2>g2 !fermata!a8 |] %24
+V:2
+ z8 z4 z2 E2- | E2A,2 z2 D2- D2G,2 z2 C2- |$ C2B,A, PG,2>G,2 A,2 z2 z4 | %3
+ E,F,G,E, C2C2 C^A,B,2 z B,C=D | EDCE A,G,F,E ^DCB,D G,F,E,=D |$ CB,A,C F,CB,A, G,F,E,F, G,A,B,C | %6
+ DEFD B,CDB, CDEC A,B,CA, | x8 A,B,CA, F2F2 |$[K:treble] F^DE2 x EF=G AGFA =DCB,A | %9
+ ^GFEG CB,A,=G FEDF B,F[K:bass]ED |$ C4 x4 x8 | x12 C4- | C2F,2 z2 B,2- B,2^E,2 z2 A,2- |$ %13
+ A,2G,F, ^E,2B,2 A,[I:staff -1]dcB AGF=E |[I:staff +1] z CB,A, G,F,E,^A, B,,4 z4 | %15
+ z ^DCB, A,G,F,D E,4 z4 |$ z E=DC B,A,G,B, A,,B,,C,A,, F,2F,2 | %17
+ F,^D,E,2 z E,F,=G, A,G,F,A, =D,C,B,,A, | ^G,F,E,G, C,B,,A,,=G, F,E,D,F, B,,F,E,D, |$ %19
+ z4 A,4 G,4 =G,4 | F,4 B,4 E,4 A,4 |$ D,4- D,D,C,B,, A,,B,,C,A,, D,E,F,D, | %22
+ G,A,G,F, E,DCB, A, z z2 z4 | F,,E,,D,,2 E,,2E,2 !fermata!A,,8 |] %24
+V:3
+ A,,2 A,2 G,2 =G,2 | F,2 B,2 E,2 A,2 |$ D,2 E,2 A,,A,G,F, | x8 | x8 |$ x8 | x8 | %7
+ B,/C/D/B,/ G,/A,/B,/G,/ A,2- A,/C/A,/F,/ |$[K:treble] C2 z/ E3/2- EA, z D- | %9
+ DG, z C DB, z[K:bass] E, |$ A,G,A,F, G,B,CC, | F,F,, F,2 ^E,2 =E,2 | ^D,2 G,2 C,2 F,2 |$ x8 | x8 | %15
+ x8 |$ x8 | x8 | x8 |$ C,/B,,/A,,/C,/ D,/E,/D,/C,/ B,,/A,,/G,,/B,,/ C,E,- | %20
+ E,A,, z D,- D,G,, z C,- |$ C,B,,/A,,/ G,,2 A,, z z2 | z4 z/ F,/E,/D,/ C,/B,,/A,,/G,,/ | x8 |] %24
+V:4
+ x16 | x16 |$ x16 | z4 e4 ^d4 =d4 | c4 f4 B4 e4- |$ e4 ^d4 e2B2e2e2 | e2d2 z2 d2 d2c2 z2 c2 | %7
+ c2B2 z4 x8 |$ x16 | x16 |$ x4 z =edc BAGB CdcB | A4 z cBA G2>[I:staff +1]G,2 x4 | x16 |$ x16 | %14
+[I:staff -1] ^D4 z2 e2- ee^dc B=AGF | E4 z2 f2- ffe=d cBAG |$ F4 z2 B2 B2E2 A4 | G4 =G4 F4 B4 | %18
+ E4 A8 ^G4 |$ A4 x12 | x16 |$ x16 | x16 | z gfe dcB2 c8 |] %24

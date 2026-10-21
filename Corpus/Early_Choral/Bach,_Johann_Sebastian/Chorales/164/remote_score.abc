@@ -1,0 +1,30 @@
+X:1
+T:Chorale 164:
+T:Herr Gott, dich loben alle wir
+T:Chorale 164:
+T:Herr Gott, dich loben alle wir
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ B | B2 A | G2 F | B c2 | !fermata!d2 d | d2 d |$ c2 d | e d2 | !fermata!c2 B | c2 d | c2 B |$ %11
+ G A2 | !fermata!B2 f | d2 B | c2 e | d c2 | !fermata!B2 |] %17
+V:2
+ F | G2 F | E2 D | D G F | F2 A | G2 G |$ G F F | F F2 | F2 G | F2 F/B/ | G F/E/ D |$ G G ^F | %12
+ G2 F | F2 G | F2 F | F G F/E/ | D2 |] %17
+V:3
+ D | D2 D | B,2 B, | B,2 A, | B,2 A, | B,2 B, |$ B, A, B, | C B,2 | A,2 D | C2 B, | B, A, B, |$ %11
+ B,/D/ E D | D2 C | D2 D | A,2 A, | B,2 A, | F,2 |] %17
+V:4
+ B,,A,, | G,,A,,B,,C,D,B,, | E,F,G,A,B,A, | G,F,E,D,E,F, | !fermata!B,,4 ^F,,2 | G,,D,G,F,E,D, |$ %6
+ E,C,F,E,D,C, | B,,A,,B,,C,D,E, | !fermata!F,4 G,2 | A,F,G,A,B,G, | E,D,E,F,G,D, |$ %11
+ E,B,,C,A,,D,D,, | !fermata!G,,4 A,2 | B,CB,A,G,F, | E,G,F,E,D,C, | B,,D,E,C,F,F,, | %16
+ !fermata!B,,4 |] %17

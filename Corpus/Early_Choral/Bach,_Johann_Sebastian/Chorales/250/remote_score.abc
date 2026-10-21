@@ -1,0 +1,32 @@
+X:1
+T:Chorale 250:
+T:Ein feste Burg ist unser Gott
+T:Chorale 250:
+T:Ein feste Burg ist unser Gott
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="S,A" snm="Pno"
+L:1/4
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ d | d d A/B/ c | d/c/ B !fermata!A d | c B A B/A/ |$ (G/F/ E) !fermata!D :| (D | A) B A ^G | %7
+ !fermata!A D A B/ c/ | !fermata!d c d/ c/ B/ B/ |$ !fermata!A B B A | B/A/ G !fermata!F =d | %11
+ c B A B/A/ | (G/F/ E) !fermata!D |] %13
+V:2
+ A2 | AG FG AF GA | FE DE C2 F2 | EF G2 FE D2 |$ D2 C2 A,2 :| (D2 | C)F E2 CD B,2 | A,2 D2 D2 G G | %8
+ F2 F2 F/^G/ A A G |$ A2 =G2 G2 F2 | F2 E2 ^D2 F^G | A2 =G2 G2 FE | (D2 C2) A,2 |] %13
+V:3
+ FE | D2 =CB, D2 E2 | A,2 A,^G, A,2 F,G, | A,2 ED C2 B,C |$ D2 A,G, F,2 :| F,^G, | A,D CB, EF ED | %7
+ C2 F,G, A,2 E E | D2 A,2 B, E F E |$ C2 B,C D2 D=C | B,2 B,2 B,2 B,2 | E2 E2 E2 DA, | %12
+ B,2 E,A, F,2 |] %13
+V:4
+ DC | B,2 A,G, F,2 E,2 | D,2 E,2 !fermata!A,,2 B,,2 | C,D, E,2 F,2 G,A, |$ %4
+ B,G,A,A,, !fermata!D,2 :| D,E, | F,2 ^G,2 A,D, E,2 | !fermata!A,,2 B,,2 F,2 E, A,, | %8
+ !fermata!D,2 F,2 B,, C, D, E, |$ !fermata!A,,2 E,2 B,,C, D,2 | ^D,2 E,2 !fermata!B,,2 B,,2 | %11
+ C,D, E,D, C,A,, D,C, | B,,G,, A,,2 !fermata!D,2 |] %13

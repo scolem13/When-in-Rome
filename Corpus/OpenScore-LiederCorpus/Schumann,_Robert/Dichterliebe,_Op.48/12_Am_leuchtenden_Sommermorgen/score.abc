@@ -1,0 +1,76 @@
+X:1
+T:Dichterliebe, Op.48
+T:Am leuchtenden Sommermorgen
+C:Robert Schumann
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=52
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:3 treble 
+L:1/16
+V:4 bass 
+V:5 bass 
+V:1
+"^Ziemlich langsam." z6 | z2 z z2!p! F | B3/2 B/ B d2 B |$ A G z z2 z | G G G A3/2 G/ A | %5
+w: |Am|leuch- ten- den Som- mer-|mor- gen|geh' ich im Gar- ten~ her-|
+ B2 z z2 z | z2 z z2 F |$ B3/2 B/ B B3/2 _c/ _d | _d3 _c3 | B B3/2 B/ =c2- c/ B/ |$ B3 z2 z | %11
+w: um.|Es|flü- stern~ und spre- chen die|Blu- men,|ich a- ber wand- * le|stumm.|
+ z2 z z2 F | B3/2 B/ B d3/2 d/ B | A G z z2 G |$ G2 G A3/2 G/ A | B3 z2 z | %16
+w: Es|flü- stern~ und spre- chen~ die|Blu- men, und|schau'n mit- lei- dig~ mich|an:|
+[Q:1/4=45]"^langsamer"!pp! =B B B d3/2 d/ B | A3 c2 c |$"^ritard."[Q:3/8=35] B3/2 B/ B _d2- d/ c/ | %19
+w: "~Sei uns- rer Schwe- ster~ nicht|bö- se, du|trau- ri- ger, blas- * ser|
+[Q:3/8=45] c3 z2 z | z6 | z6 |$ z6 | z6 | z6 | z6 |$ z6 | z6 | z6 | !fermata!z3 |] %30
+w: Mann!~"|||||||||||
+V:2
+ z B4 x!mf! z!>(! b4!>)!!p! x | z f4 x z A4 x | z B4 x z B4 x |$ z B4 x z =B4 x | z c4 x z A4 x | %5
+ z B4 x z b4 x | z f4 x z A4 x |$ z B4 x z ^A4 x | z ^f4 x z ^f'4 x | z =e4 x z _e4 x |$ %10
+ z2 !>!B4 z !>!b4 x | z f4 x z A4 x | z B4 x z B4 x | z B4 x z =B4 x |$ z c4 x z A4 x | %15
+ z B4 x z B4 x | z =B4 x z d4 x | z A4 x z c4 x |$ z"^ritard." !>!_B4 x z !>!b4 x | %19
+ z f4 x z g'4 x | z e4 x z f'4 x | z d4 x z e'4 x |$ z!p! (c- c4- cd2-<d2e- | %23
+ ef- f4- fB2-<B2[_A=B-] | Bc- c4- cd2-<d2_e- | ef- f4- fB- B4- |$ Bd- d4- dc- c4- | %27
+ cB- B4- BF- F4 | x F D4 (B,4 F,2- | !fermata![F,B,]6)) |] %30
+V:3
+ x (B=E^C!<(![I:staff +1] B,_G,)!<)![I:staff -1] x (b=e^c B_G) | %1
+ x (fdB FD) x (AF_E[I:staff +1] CF,) | %2
+[I:staff -1] x (BFD[I:staff +1] B,F,)[I:staff -1] x (BFD[I:staff +1] B,F,) |$ %3
+[I:staff -1] x (BGE[I:staff +1] B,G,)[I:staff -1] x (=BGF[I:staff +1] =B,G,) | %4
+[I:staff -1] x (cGE[I:staff +1] CG,)[I:staff -1] x (AFE[I:staff +1] CF,) | %5
+[I:staff -1] x (BFD!<(![I:staff +1] B,F,)!<)![I:staff -1] x (b=e^c B_G) | %6
+ x (fdBF D) x (AF_EC)[I:staff +1] F, |$ %7
+[I:staff -1] x (BFD[I:staff +1] B,F,)[I:staff -1] x (^A=E^C[I:staff +1] ^A,^F,) | %8
+[I:staff -1] x (^f^c=A ^F^C) x (^f'=ba ^d=B) | x (=e_BG =EC) x (_ecA FC) |$ %10
+ z (dBF[I:staff +1] DB,)[I:staff -1] x (b=e^c B_G) | x (fdBF D) x (AF_EC)[I:staff +1] F, | %12
+[I:staff -1] x BFD[I:staff +1] B,F,[I:staff -1] x BFD[I:staff +1] B,F, | %13
+[I:staff -1] x BGE[I:staff +1] B,G,[I:staff -1] x =BGF[I:staff +1] =B,G, |$ %14
+[I:staff -1] x cGE[I:staff +1] CG,[I:staff -1] x AFE[I:staff +1] CF, | %15
+[I:staff -1] x BFD[I:staff +1] B,F,[I:staff -1] x B^FD[I:staff +1] B,^F, | %16
+[I:staff -1] x =BGD[I:staff +1] =B,G,-[I:staff -1] x dBG[I:staff +1] DB, | %17
+[I:staff -1] x A^FD[I:staff +1] CA,[I:staff -1] x cAF[I:staff +1] DC |$ %18
+[I:staff -1] x BGD[I:staff +1] B,G,[I:staff -1] x b=e_d B=E | x fcA FC x g'd'=b gd | %20
+ x ecG EC x f'^c'a f^c | x dAF DA, x e'bg eB |$ %22
+ x cAF[I:staff +1] CA,[I:staff -1] z dAF[I:staff +1] CA, | %23
+[I:staff -1] z fBF[I:staff +1] DB,[I:staff -1] z B=E^C2D | %24
+ z c_BG[I:staff +1] CG,[I:staff -1] z d=AF[I:staff +1] C=A, | %25
+[I:staff -1] z fBF[I:staff +1] DB,[I:staff -1] z B=E_D2C |$ %26
+ z dBF[I:staff +1] DB,[I:staff -1] z AFE[I:staff +1] CA, | %27
+[I:staff -1] z BFD[I:staff +1] B,F,-[I:staff -1] z FEC[I:staff +1] A,F, | %28
+[I:staff -1] z FDB,[I:staff +1]F,[I:staff -1]D B,F,[I:staff +1]D,[I:staff -1]B,F,[I:staff +1]D,- | %29
+ x6 |] %30
+V:4
+!p!!ped! _G,,6!ped-up! | (F,,3 F,3) | B,,6 |$ E,3 D,3 | C,3 F,3 | %5
+ B,, z z!mf!!ped!!>(! _G,,3!ped-up!!>)! |!p! (F,,3 F,3) |$ B,,2 z ^F,,3 | %8
+!<(! (=B,,3!<)!!mf! =B,3) |!p! =C3 =F,3 |$ B,3!mf! _G,3 |!p! (F,,3 F,3) | B,,6 | E,3 D,3 |$ %14
+ C,3 F,3 | B,,3 _A,,3 |!pp! G,,3 G,3 | G,,3 G,3 |$ G,,3 _G,3 | F,,3 (F,3 | %20
+[I:staff -1] F2)[I:staff +1] z (F,3 |[I:staff -1] F2)[I:staff +1] z (F,3 |$ %22
+[I:staff -1] F2)[I:staff +1] z E,3 | D,3 _G,2-!<(! G,/!<)!!mp!!>(![F,_A,]/!>)! |!pp! =E,3 _E,3 | %25
+ D,3 _G,2- G,/=G,/ |$ F,,3 F,3 | F,,3 F,3 | B,,6 | !fermata![B,,D,]3 |] %30
+V:5
+ x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ %18
+ x6 | x6 | x6 | x6 |$ x6 | x3 x2 B,/=B,/ | x6 | x3 x2 B,/G,/ |$ x6 | x6 | x6 | x3 |] %30

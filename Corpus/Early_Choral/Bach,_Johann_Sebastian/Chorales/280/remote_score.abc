@@ -1,0 +1,39 @@
+X:1
+T:Chorale 280:
+T:Eins ist not, ach Herr, dies Eine
+T:Chorale 280:
+T:Eins ist not, ach Herr, dies Eine
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+L:1/8
+V:4 bass 
+L:1/8
+V:1
+ A G/F/ B B | c c d !fermata!d | B3/2 A/ G A | G/F/ E/F/ !fermata!D2 |$ A G/F/ B B | %5
+ c c d !fermata!d | B3/2 A/ G A | G/F/ E/F/ !fermata!D2 ||[M:3/4][M:3/4] D/E/ |$ F F F | E E E/F/ | %11
+ G G G/F/ | F F F | B3/2 A/ G |$ A3/2 G/ F | G F E | D !fermata!D D/E/ | F F F | E E E/F/ | %19
+ G G G/F/ |$ F2 F | B3/2 A/ G | A3/2 G/ F | G F E | !fermata!D3 |] %25
+V:2
+ F D D G/F/ | E A/G/ F F | D G/F/ E E | D C A,2 |$ E D F E/D/ | C F F F | G/F/ E D E | %7
+ E/D/ D/C/ A,2 ||[M:3/4][M:3/4] A, |$ D D D | C/B,/ C/D/ E | E E E | D/C/ D/E/ F | G3/2 F/ E |$ %14
+ E/D/ C D | D D C | A, A, A, | D D D | D C/B,/ C/D/ | E E E |$ (E D) z | D G/F/ (E | %22
+ E/)G/ F/E/ D/A,/ | D3/2 E/ C | A,3 |] %25
+V:3
+ D2 A,2 B,2 ED | CB, A,2 A,2 A,2 | G,A, B,2 B,2 A,2 | A,2 A,G, F,4 |$ A,2 A,2 A,F, G, B, | %5
+ B,^G, ^A,2 B,2 B,2 | D2 C2 B,G, E,A, | A,2 A,2 F,4 ||[M:3/4][M:3/4] F,G, |$ A,2 A,2 A,B, | %10
+ CD ED C2 | B,2 B,2 B,C | DE FE DC | B,A, G,A, B,2 |$ A,2 A,2 A,2 | G,A, B,2 E,2 | F,2 F,2 F,2 | %17
+ B,2 B,2 A,2 | B,2 A,^G, A,2 | A,2 B,2 C2 |$ A,4 A,2 | DC B,3 B, | A,3 C D2 | D,2 A,2 A,G, | F,6 |] %25
+V:4
+ D,2 D,2 G,F, E,2 | A,G, F,E, D,2 !fermata!D,2 | G,F, E,2 E,D, C,2 | D,2 A,,2 !fermata!D,4 |$ %4
+ C,2 D,2 ^D,2 E,2 | ^E,2 F,2 B,,2 !fermata!B,,2 | G,,2 A,,2 B,,2 C,2 | D,2 A,,2 !fermata!D,4 || %8
+[M:3/4][M:3/4] D,2 |$ D,C, D,E, F,G, | A,2 A,,2 A,2 | E,^D, E,F, G,A, | B,2 B,,2 B,A, | %13
+ G,F, E,2 E,D, |$ C,B,, A,,2 D,C, | B,,A,, G,,2 A,,2 | D,2 !fermata!D,2 D,C, | B,,2 B,A, G,F, | %18
+ ^G,2 E,2 A,2 | C,2 D,C, B,,A,, |$ D,4 z2 | B,,2 E,2 E,D, | C,A,, D,3 C, | B,,2 A,,G,, A,,2 | %24
+ !fermata!D,6 |] %25

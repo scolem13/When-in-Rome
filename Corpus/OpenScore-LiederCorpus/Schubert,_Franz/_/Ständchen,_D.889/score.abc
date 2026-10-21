@@ -1,0 +1,64 @@
+X:1
+T:Ständchen
+C:Franz Schubert
+Z:William Shakespeare
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=105
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+V:1
+"^Allegretto." z | z6 | z6 | z6 | z6 |$ z6 | z6 | z6[Q:1/4=95] |[Q:1/4=85] z2 z !fermata!z2!fine! | %9
+w: |||||||||
+[Q:1/4=105] e |$ f2 B B2 B | d2 c c2 G | G2 G G>A G | (G3 c) z e |$ f2 B B2 B | c2 e G2 G | %16
+w: Horch,|horch! die Lerch' im|Ä- ther- blau; und|Phö- bus, neu _ er-|weckt, _ tränkt|sei- ne Ros- se|mit dem Thau, der|
+ G2 G G>A G | (G3 e) z e |$ ge c ec A | G2 z z2 G | G2 G PGF G | _B2 _A A>B c |$ _d2 d d>_e d | %23
+w: Blu- men- kel- * che|deckt, _ der|Blu- * men- kel- * che|deckt; der|Rin- gel- blu- * men|Knos- pe schleusst _ die|gold- nen Äug- * lein|
+ c2 z z2 c | _e2 e e=d c | g2 =e c2 A |$ G>A G f>e d | e2 z z2 c | _e2 e ed c | g2 =e c2 A |$ %30
+w: auf; mit|al- lem, was _ da|rei- zend heisst, du|sü- * sse Maid _ steh|auf, mit|al- lem, was _ da|rei- zend heisst, du|
+ G>A G f>e!mf! d |!f!!>(! g3- g2!>)! G |"^dim." f3- f2 G | e3- e2 e | f>e d d>c!mf! B |$ %35
+w: sü- * sse Maid _ steh|auf, _ steh|auf, _ steh|auf, _ du|sü- * sse Maid _ steh|
+!f!!>(! g3- g2!>)! G |"^dim." f3- f2 G | e3- e2 e | Af e d>e d | c2 z z2!D.C.! |] %40
+w: auf, _ steh|auf, _ steh|auf, _ du|sü- * sse Maid _ steh|auf!|
+V:2
+!p! [Ec] | [FB]2 [Bf]/[Bf]/ [Bf]2 [FB] | [Ec]2 [EG]/[EG]/ [EG]2 ([Ec] | %3
+ [DB]) z ([Fd] [Ec]) z ([Af] | ([Ge]2) [Fd] [Ec]2) [Ec] |$ [FB]2 [Bfa]/[Bfa]/ [Bfa]2 [FB] | %6
+ [Ec]2 [EG]/[EG]/ [EG]2 ([Ge] | [^F^d]) z ([Ge][Ec]) z{e/} [=F=d] | %8
+ [Ec]2 [cec']/[cec']/ !fermata![cec']2 |!pp! [Ec] |$ [DB]2 [Gfg]/[Gfg]/ [Gfg]2 [FG] | %11
+ [EG]2 [Geg]/[Geg]/ [Geg]2 [CE] | [DF]2 [^CE] [DF]2 [B,D] | ([=CE]3 [EG]) .[Ge].[Ec] |$ %14
+ [DB]2 [Gfg]/[Gfg]/ [Gfg]2 [FG] | [EG]2 [Geg]/[Geg]/ [Geg]2 [CE] | [DF]2 [^CE] [DF]2 [B,D] | %17
+ ([=CE]3 [EG]) .[Ge].[Ec] |$ [EGA]2 [ega]/[ega]/ [d^fa]2 [C^Fd] | [B,G]2 [Bg]/[Bg]/ [Bg]2 z | %20
+ z _E/E/[_d_e] z E/E/[de] | z _E/E/[c_e] z E/E/[ce] |$ z _E/E/[G_B_e] z E/E/[GBe] | %23
+ z _E/E/[_Ac_e] z E/E/[Ace] | z ^F/F/!<(![c_e^f] z F/F/[cef]!<)! | z G/G/[c=eg] z G/G/=A |$ %26
+ z G/G/[eg] z B/B/[fb] | z c/c/[ec'] z E/E/[ce] | z ^F/F/[c_e^f] z F/F/[cef] | %29
+ z G/G/[c=eg] z G/G/A |$ z G/G/[eg] z B/B/[fb] | [CG]2 [cgc']/[cgc']/ [cgc']2 [CG] | %32
+ [B,FG]2 [Bfb]/[Bfb]/ [Bfb]2 [B,FG] | [_B,EG]2 [_Be_b]/[Beb]/ [Beb]2 [B,EG] | %34
+ [G,DF]2 [_A_a] [Gg]2 [dgd'] |$ [CG]2 [cgc']/[cgc']/ [cgc']2 [CG] | %36
+ [B,FG]2 [Bfb]/[Bfb]/ [Bfb]2 [B,FG] | [_B,EG]2 [_Be_b]/[Beb]/ [Beb]2 [B,EG] | %38
+ [A,DF]2 [Aa] [Gg]2 [Bb] | [cc']2 (([Bg] c2)) |] %40
+V:3
+ [G,,G,] | [G,,G,]2 [G,D]/[G,D]/ [G,D]2 [G,,G,] | [G,,G,]2 [G,C]/[G,C]/ [G,C]2 z | %3
+ z .G,,/(G,,/G,) z .G,,/(G,,/G,) | z (G,/A,/_B,/=B,/) C2 [G,,G,] |$ %5
+ [G,,G,]2 [G,D]/[G,D]/ [G,D]2 [G,,G,] | [G,,G,]2 [G,C]/[G,C]/ [G,C]2 z | %7
+ z .G,,/(G,,/G,) z .G,,/(G,,/G,-) | [C,G,]2 [CG]/[CG]/ !fermata![CG]2 | [G,,G,] |$ %10
+ [G,,G,]2 [G,D]/[G,D]/ [G,D]2 [G,,G,] | [G,,G,]2 [G,E]/[G,E]/ [G,E]2 z | z G,/G,/G, z G,/G,/G, | %13
+ z (G,/^F,/G,/E,/ C,) z [G,,G,] |$ [G,,G,]2 [G,D]/[G,D]/ [G,D]2 [G,,G,] | %15
+ [G,,G,]2 [G,E]/[G,E]/ [G,E]2 z | z G,/G,/G, z G,/G,/G, | z (G,/^F,/G,/E,/ C,) z C, |$ %18
+ C,2[K:treble] [CA]/[CA]/ [DAc]2[K:bass] D, | [G,,D,G,]2 [G,D]/[G,D]/ [G,D]2 z | _E,2 z E,2 z | %21
+ _E,2 z E,2 z |$ _E,2 z E,2 z | _A,2 z A,2 z | _A,,2 [_A,C_E] A,,2 [A,CE] | %25
+ G,,2 [G,C=E] G,,2 [G,F] |$ G,,2 [G,CE] G,,2 [G,DF] | C,2 [G,CE] C,2 [G,CE] | %28
+ _A,,2 [_A,C_E] A,,2 [A,CE] | G,,2 [G,C=E] G,,2 [G,F] |$ G,,2 [G,CE] G,,2 [G,DF] | %31
+ [E,G,]2 [EG]/[EG]/ [EG]2 [E,G,] | [D,G,]2 [DG]/[DG]/ [DG]2 [D,G,] | %33
+ [^C,G,]2 [^CG]/[CG]/ [CG]2 C, | D,2 [F,D] [G,DF]2 [G,F] |$ [E,G,]2 [EG]/[EG]/ [EG]2 [E,G,] | %36
+ [D,G,]2 [DG]/[DG]/ [DG]2 [D,G,] | [^C,G,]2 [^CG]/[CG]/ [CG]2 C, | D,2 [^F,CE] [G,D]2 [G,D=F] | %39
+ [CE]2 (([G,DF] [CE]2)) |] %40
+V:4
+ x | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x5 | x |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ %18
+ x2[K:treble] x3[K:bass] x | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | %32
+ x6 | x6 | x6 |$ x6 | x6 | x6 | x3 CB, x | x5 |] %40

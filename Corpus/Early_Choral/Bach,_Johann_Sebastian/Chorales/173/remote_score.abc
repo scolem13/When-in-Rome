@@ -1,0 +1,30 @@
+X:1
+T:Chorale 173:
+T:O Herzensangst, o Bangigkeit
+T:Chorale 173:
+T:O Herzensangst, o Bangigkeit
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ B G c | !fermata!B2 E | F2 G | A2 B | G !fermata!E2 | F G =A |$ !fermata!B2 d | c d e | d c2 | %9
+ !fermata!B3 | B =B B | !fermata!c2 d |$ e3/2 e/ f | e d2 | !fermata!c2 B | (c3/2 d/) e | e2 d | %17
+ !fermata!e3 |] %18
+V:2
+ E E E | D2 E | D/C/ B,2 | F2 F | E B,2 | D E E |$ D2 F | F F E | F G F/E/ | D3 | F G G/F/ | %11
+ E2 G |$ G G F | G A G/F/ | E2 E | E F (G | G) F/E/ F/A/ | G3 |] %18
+V:3
+ G, B, A,/G,/ | F,2 B, | A,2 G, | C B, B, | B, G,2 | B, B, C |$ F,2 B, | C B, B, | B,2 =A, | F,3 | %10
+ D D G, | G,2 D |$ C C C | C C =B, | G,2 _D | C/B,/ C B, | B,2 B, | B,3 |] %18
+V:4
+ E, E, A,, | !fermata!A,,2 G, | F,/E,/ D, E, | E, D,/C,/ D, | E, !fermata!E,,2 | B,, E,/D,/ C, |$ %6
+ !fermata!B,,2 B, | =A, _A, G, | F, E, F, | !fermata!B,,3 | B,/_A,/G,/F,/ E,/D,/ | %11
+ !fermata!C,2 =B,, |$ C,3/2 _B,,/ A,, | G,, F,, G,, | !fermata!C,2 G,, | A,,2 G,,/A,,/ | B,,3 | %17
+ !fermata!E,,3 |] %18

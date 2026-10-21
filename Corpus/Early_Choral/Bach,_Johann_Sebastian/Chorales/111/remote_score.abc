@@ -1,0 +1,29 @@
+X:1
+T:Chorale 111:
+T:Herzliebster Jesu, was hast du verbrochen
+T:Chorale 111:
+T:Herzliebster Jesu, was hast du verbrochen
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ A | A A ^G E | A B c c | (d c/4)B/4c/ !fermata!B B | c d/e/4f/4 e c |$ f f e/d/c/d/ | %6
+ d2 !fermata!c c | B A G/^F/ E/F/ | G G A G |$ F2 !fermata!E e | d c/B/ B2 | !fermata!A3 |] %12
+V:2
+ C/D/ | E E E B, | E/^F/ ^G A A | A2 ^G G | A =G G F |$ A A A E | A G G A | A/G/ G/^F/ E E | %8
+ E/D/^C/D/ E E |$ E D ^C A | A/B/ E/D/ F E/D/ | ^C3 |] %12
+V:3
+ A,/B,/ | C C B, ^G, | A, D E E | F A, E E | E B, C A, |$ D D C C | C B, E E | ^F/E/ C B, B, | %8
+ B, _B, A, A, |$ A,2 A, C | C/B,/ A, A, ^G, | E,3 |] %12
+V:4
+ A,2 | A,,B,, C,D, E,F, E,D, | C,D, C,B,, A,,E, A,G, | F,E, F,D, !fermata!E,2 E,2 | %4
+ A,G, F,G, C,D, E,F, |$ D,E, F,G, A,B,A,G, | F,E, F,G, !fermata!C,2 A,2 | ^D,E, ^F,D, E,F, G,F, | %8
+ E,=F, E,D, ^C,A,, B,,C, |$ D,E, F,G, !fermata!A,2 A,G, | ^F,^G, A,=F, D,B,, E,2 | !fermata!A,,6 |] %12

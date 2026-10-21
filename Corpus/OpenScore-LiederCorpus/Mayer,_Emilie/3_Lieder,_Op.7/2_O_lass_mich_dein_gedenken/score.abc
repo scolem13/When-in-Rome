@@ -1,0 +1,85 @@
+X:1
+T:3 Lieder, Op.7
+T:O lass mich dein gedenken
+C:Emilie Mayer
+Z:Hermann Kletke
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=95
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+L:1/4
+V:1
+"^Andantino" z8 | z8 | z8 | z4 z2 z!p! E |:$ E3 E A2 B2 | (c3 A) E3 E | A3 B c3 d | B2 z2 z2 z E |$ %8
+w: |||1. O|lass mich mein ge-|den- * ken wenn|fern von dir ich|bin ich|
+w: ||||ste- he ganz al-|lei- * ne am|Fen- ster schmal und|klein er|
+w: ||||Mond und Ster- ne|glän- * zen in|ih- rer ew'- gen|Ruh' und|
+ E3 E A2 B2 | (c3 A) E3 c | B3 B (!turn!B2 c) ^d |!>(! e6!>)! ^A2 | B2 ^AB ^dc=A F |$ %13
+w: will's in Nacht ver-|sen- * ken dass|ich dein ei- * gen|bin dass|ich dein * ei- * * gen|
+w: hellt vom Mon- den-|schei- * ne und|den- ke in- * nig|dein und|den- ke * in- * * nig|
+w: leich- te Wölk- chen|zie- * hen und|we- hen ab * und|zu und|we- hen * ab * * und|
+!mp! E2 z2 z2 z E | E3 E (3EFG (3GA B | (c3 A) E2 z E |$ d3 B c2 BA | B2 z2 z2 z d |$ %18
+w: 1. bin! Ich|will es nie- * * * * mand|sa- * gen ein|lei- ses duft'- ges *|Bild will|
+w: 2. dein! Und|al- les öd * * * * und|stil- * le kein|Lüft- chen regt sich *|mehr des|
+w: 3. zu! O|lass mich dein * * * * ge-|den- * ken, dein|wenn ich fer- ne *|bin ich|
+ c3 c cd/c/B c | e2 d2 z d c B | A E A B c2 B2 |!pp! A4- A2 ^d2 |$ e2 c2 fe=d B | A2 z2 z4 | z8 | %25
+w: ich's im Her- * * * zen|tra- gen was mei- ne|See- le mei- ne See- le|füllt _ was|1. mei- ne See- * * le|füllt.||
+w: Ta- ges rei- * * * che|Fül- le ruht * *|schlum- * mernd * rings- um-|her _ ruht|2. schlum- mernd rings- * * um-|her.||
+w: will's in Nacht * * * ver-|sen- ken dass * *|ich * dein * ei- gen|bin _ dass|3. ich dein ei- * * gen|bin.||
+ z8 |1,2 z4 z2 z E :|3 z8 |] %28
+w: |2. Ich||
+w: |3. Nur||
+w: |||
+V:2
+ x8 | x8 | x8 | x8 |:$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 |$ %18
+ x8 | x4 x dcB | AE AB x4 | x8 |$ x8 | x8 | x8 | x8 |1,2 x8 :|3 x8 |] %28
+V:3
+ [ea]2 [ea][db] [cc']2 z2 | [cf]2 [cf][Bg] [Aa]2 z2 | (3^egf (3=edc{/c} (3B^AB (3dcB | %3
+ f>ecA fe (3dBG |:$ (3(CEc) (3(CEc) (3(CEc) (3(DEd) | (3(CEe) (3(CEc) (3(CEA) (3(DEB) | %6
+ (3(CEc) (3(CEA) (3(CEA) (3(CEA) | (3PB^AB (3cBc (3Pdcd (3fed |$ (3(CEc) (3(CEc) (3(CEc) (3(DEd) | %9
+ (3(CEe) (3(CEc) (3(CEA) (3(CEc) | B2 z2 [B^db]2 [FAd]2 | %11
+ (3z [EGe][EGe] (3z [EGe][EGe] (3z [EAe][EAe] (3z [E^Ae][EAe] | [EGBe]4[I:staff +1] [F,A,B,D]4 |$ %13
+[I:staff -1] (3Eee!>(!{/g} (3fee{/g} (3fee{/g} (3fe!>)!e |!p! [deb]2 [deb]2 [deb]2 [deb]2 | %15
+ [cec']2 Te2 ^d/e/d/e/ f/e/c/A/ |$ d'2 d'2 c'2 c'2 | b2 ^a2 b2 d'2 |$ %18
+ c'[CEc][CEc][CEc] z [EFc][EFc][EFc] | z [DFB][DFB][DFB] z [Fd][Ec][DB] | %20
+ [CA]4[I:staff +1] [A,C][I:staff -1][CE][B,D][DG] | z [=CA][CA][CA] z [CA][CA][CA] |$ %22
+ [^CA]4 [DF][CE][B,D][G,E] | C2 [Aca][Aca] [Aca]3 [Bdb] | [cec']4 [Aca]3 [dfb] | %25
+ [cec']3 [Bdb] [Aca]3 [GBg] |1,2 [Aca]4 z4 :|3 [Aca]4 z4 |] %28
+V:4
+[I:staff -1] c2 cB A2[I:staff +1] x2 |[I:staff -1] A2 AG F2[I:staff +1] x2 | %2
+ [DF]2 z2 z2 [D,F,B,]2 | [E,A,C]4 [E,B,D]2 z2 |:$ (3(A,,E,A,) (3(A,,E,A,) (3(A,,E,A,) (3(A,,E,B,) | %5
+ (3(A,,E,A,) (3(A,,E,A,) (3(A,,E,A,) (3(A,,E,G,) | %6
+ (3(A,,E,A,) (3(A,,E,A,) (3(A,,E,A,) (3(A,,E,B,) | (3PG,(^^F,G, (3A,G,A, (3PB,A,B, (3DCB, |$ %8
+ (3(A,,)E,A,) (3(A,,E,A,) (3(A,,E,A,) (3(A,,E,B,) | %9
+ (3(A,,E,A,) (3(A,,E,A,) (3(A,,E,A,) (3(A,,E,A,) | (6:4:6B,,E,G,B,G,E, (6:4:6B,,F,A,B,^A,B, | %11
+!>(! E,2 [=D,=D]2 [C,C]2 [=C,=C]2!>)! | [B,,B,]4 [B,,,B,,]4 |$ %13
+ [G,B,]2[K:treble] [B=d]2 [Ac]2 [GB]2 | %14
+[K:bass] (3[E,,E,][K:treble]DE (3GED[K:bass] (3[E,,E,][K:treble]DE (3GED | %15
+[K:bass] (3[A,,A,][K:treble]CE (3AEC[K:bass] (3[A,,A,][K:treble]CE (3AEC |$ %16
+[K:bass] (3[E,E][K:treble][EG][EG][K:bass] (3[E,E][K:treble][EG][EG][K:bass] (3[E,E][K:treble][EA][EA][K:bass] (3[E,E][K:treble][EA][EA] | %17
+[K:bass] (3[E,,E,][K:treble][EG][EG][K:bass] (3[E,,E,][K:treble][^^F^A][FA][K:bass] (3[E,,E,][K:treble][EG][EG][K:bass] (3[E,,E,][K:treble][EG][EG] |$ %18
+[K:bass] [A,,A,]4 [^A,,^A,]4 | [B,,B,]4 [D,,D,]4 | [E,,E,]4 [E,,E,]4 | x A,A,A, x A,A,A, |$ %22
+ A,4 x4 | [A,,,A,,]E,[A,C]E, [A,,,A,,]E,[A,C]E, | [A,,,A,,]E,[A,C]E, [A,,,A,,]E,[A,C]E, | %25
+ [E,,E,]E,[G,D]E, [E,,E,]E,[B,D]E, |1,2 A,2 E,,2 A,,,2 z2 :|3 A,2 E,,2 A,,,2 z2 |] %28
+V:5
+ x8 | x8 | x8 | x8 |:$ C2 C2 C2 D2 | C2 C2 C2 D2 | C2 C2 C2 C2 | x8 |$ C2 C2 C2 D2 | C2 C2 C2 C2 | %10
+ x8 | x8 | x8 |$ x8 | x8 | x8 |$ (3d'[de][de] (3d'[de][de] (3c'[ce][ce] (3c'[ce][ce] | %17
+ (3b[Be][Be] (3^a[ce][ce] (3b[Be][Be] (3d'[de][de] |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |1,2 %26
+ x8 :|3 x8 |] %28
+V:6
+ x4 | x4 | x4 | x4 |:$ A,, A,, A,, A,, | A,, A,, A,, A,, | A,, A,, A,, A,, | E,4 |$ %8
+ A,, A,, A,, A,, | A,, A,, A,, A,, | x4 | x4 | x4 |$ [E,,E,][K:treble] E3 | %14
+[K:bass] x/3[K:treble] x5/3[K:bass] x/3[K:treble] x5/3 | %15
+[K:bass] x/3[K:treble] x5/3[K:bass] x/3[K:treble] x5/3 |$ %16
+[K:bass] x/3[K:treble] x2/3[K:bass] x/3[K:treble] x2/3[K:bass] x/3[K:treble] x2/3[K:bass] x/3[K:treble] x2/3 | %17
+[K:bass] x/3[K:treble] x2/3[K:bass] x/3[K:treble] x2/3[K:bass] x/3[K:treble] x2/3[K:bass] x/3[K:treble] x2/3 |$ %18
+[K:bass] x4 | x4 | x4 | [=F,,=F,]2 [F,,F,]2 |$ [E,,E,]2 [E,,E,]2 | A, x x2 | x4 | x4 |1,2 x4 :|3 %27
+ x4 |] %28

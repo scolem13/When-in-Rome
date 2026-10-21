@@ -1,0 +1,34 @@
+X:1
+T:Chorale 237:
+T:Was betrübst du dich, mein Herz
+T:Chorale 237:
+T:Was betrübst du dich, mein Herz
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+L:1/8
+V:3 bass 
+L:1/8
+V:4 bass 
+V:1
+ d c B A | B A/G/ ^F !fermata!D | d d _e c |$ d c/B/ !fermata!A2 | d c B A | B A/G/ ^F !fermata!D | %6
+ d d _e c |$ d c !fermata!B2 | d _e f d | _e d d/c/ !fermata!c | c d _e d | c3/2 B/ A !fermata!F |$ %12
+ d A B A | B c !fermata!d2 | d d c B | A3/2 G/ !fermata!G2 |] %16
+V:2
+ GA/B/ (A2 A)(G G)^F | DG/F/ _E2 D2 A,2 | B,C D2 G,2 G2 |$ A3 G ^F4 | ^F2 G(A A)(G G)F | %5
+ G=F =E2 D2 A,2 | B,D F2 G3 F |$ F2 F>_E D4 | F2 G2 F2 GF | _EC F2 F2 F2 | F2 F2 G^F G2 | %11
+ G^F G2 =F2 C2 |$ AG (A2 A)(G G)^F | G2 G2 ^F4 | G2 (G2 G)^F (G2 | G)^F/E/ F2 D4 |] %16
+V:3
+ B,C/D/ _ED D2 D>C | B,DCB, A,2 ^F,2 | G,2 GF _E/D/C CB, |$ A,D D2 D4 | A,2 G,D D2 D2 | %5
+ D2 =EA, A,2 ^F,2 | =F,B, DC B,2 C2 |$ CB, B,A, F,4 | DC B,2 B,A, B,2 | B,A, B,2 B,A, A,2 | %10
+ A,2 B,2 B,A, B,2 | C2 C2 C2 A,2 |$ A,2 D2 D2 D2 | D2 _E2 A,4 | B,2 D2 _ED =E2 | A,D D>C B,4 |] %16
+V:4
+ G,3/2 ^F,/ G, D, | G,, C, D, !fermata!D,, | G,,/A,,/B,,/G,,/ C,/D,/ _E, |$ ^F,, G,, !fermata!D,2 | %4
+ D, =E,/^F,/ G, D, | G, ^C, D, !fermata!D,, | B,, B,/A,/ G, A, |$ B, F, !fermata!B,,2 | %8
+ B,/A,/ G, D, G, | C, D,/_E,/ F, !fermata!F,, | F,/_E,/ D, C, G,/F,/ | _E, =E, F, !fermata!F,, |$ %12
+ ^F,/E,/F,/D,/ G, D, | G,/=F,/ _E, !fermata!D,2 | G, B,, C, ^C, | D, D,, !fermata!G,,2 |] %16

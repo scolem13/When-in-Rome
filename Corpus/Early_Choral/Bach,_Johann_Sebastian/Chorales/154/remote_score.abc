@@ -1,0 +1,28 @@
+X:1
+T:Chorale 154:
+T:Der du bist drei in Einigkeit
+T:Chorale 154:
+T:Der du bist drei in Einigkeit
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="S,A" snm="Pno"
+V:2 treble 
+L:1/8
+V:3 bass 
+V:4 bass 
+V:1
+ A | G D F G | A A !fermata!G A | G D F G | A A !fermata!G A |$ B c A G | G =F !fermata!E F | %7
+ G D F G | A A !fermata!G |] %9
+V:2
+ (D2 | D) C2 B,/^C/ D=C B,2 | E2 DC B,2 (D2 | D) C2 B,/^C/ D=C B,2 | E2 D2 D2 F2 |$ %5
+ (F2 F)(E E)D D2 | E3 D ^C2 D=C | B, C2 B,/^C/ D=C B,2 | E2 DC B,2 |] %9
+V:3
+ F, | G, G, A, G, | G, ^F, D, =F, | G, G, A, G, | G, ^F,/C/ B, C |$ D G, A,/4B,/4 C B,/ | %6
+ C/_B,/ A, A, A, | G, G, A, G, | G, ^F, D, |] %9
+V:4
+ D, | E, G, D, E,/D,/ | C, D, !fermata!G,, D, | E, G, D, E,/D,/ | C, D, !fermata!G,, =F,/E,/ |$ %5
+ D, C, F,/^F,/ G, | C,/^C,/ D, !fermata!A,, D, | E, G, D, E,/D,/ | C, D, !fermata!G,, |] %9
