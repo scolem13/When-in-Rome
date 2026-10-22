@@ -1,0 +1,98 @@
+% Der Tag der ist so freudenreich: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=773
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Der Tag der ist so freudenreich
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 ) ( 5 6 ) 7 8 9 10
+L:1/8
+Q:1/4=54
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="right" snm="P Fl"
+L:1/4
+V:2 treble 
+L:1/16
+V:3 treble nm="right" snm="Rec"
+L:1/4
+V:4 treble 
+L:1/16
+V:5 bass nm="left" snm="P Fl"
+V:6 bass 
+V:7 treble nm="left" snm="P Fl"
+V:8 bass nm="Pan Flute" snm="P Fl"
+V:9 bass nm="Recorder" snm="Rec"
+V:10 bass nm="Flute" snm="Fl"
+V:1
+ G2 G G | A B c/[GB]/ A | G2 B2 | A G/>=F/ E ^F | G E/D/4C/4 [B,C]/4D/4[CD]/4E/4 D/4[GF]/4G/ | %5
+ G2 G G | A B c/[GB]/ A | G2 B2 | A G/>=F/ E ^F | G E/D/4C/4 [B,C]/4D/4[CD]/4E/4 D/4[GF]/4G/ | %10
+ G2 d d | e d/>c/ B ^c | d3/2 [Dd]/ d2 | d d e d/[cAa]/ | B A G2 | G2 E F | G E D E | %17
+ D2 G G/4G,/4[Cc]/ | A B/4B,/4[Ee]/ c A | G2 A G/>=F/ | E ^F G E | D2 =F2 | E =C/[Cc]/ E ^F | %23
+ G A G2 |] %24
+V:2
+ z [DC]2<D2 CD2 z [ED]E2 z ED2 | z [FE]F2 z FG2 z [GF] z3 GF2 | z [DC]2<D2 DC2 z [CB,]C2 z DE2 | %3
+ z [DC]D2 z CB,2 z [CB,]C2 z B,C2 | z [B,A,]B,2 A4 G4- G z2 D | z [DC]2<D2 CD2 z [ED]E2 z ED2 | %6
+ z [FE]F2 z FG2 z [GF] z3 GF2 | z [DC]2<D2 DC2 z [CB,]C2 z DE2 | z [DC]D2 z CB,2 z [CB,]C2 z B,C2 | %9
+ z [B,A,]B,2 A4 G4- G z2 D | z2 D2 z B,D2 z [GF]2<G2 DG2 | z [GF]G2 z GF2 z [D^C]D2 z4 | %12
+ z7 [Ee] z [FfEe][Ff]2 z [Gg][Aa]2 | z [BbAa][Bb]2 z [Aa][Bb]2 z [AaGg][Aa]2 z [Gg] z2 | %14
+ z [GgFf]2<[Gg]2 [Gg][Ff]2 z [DdCc][Dd]2 z [B,B][Dd]2 | z [DdCc][Dd]2 z12 | x16 | %17
+ z8 z [DdCc]2<[Dd]2G3 | z [CcB,B][Cc]2 z B3 z [EeDd]2<[Ee]2 [Ee][Dd][Cc] | %19
+ z [B,BA,A][B,B]2 z [Dd][^C^c]2 z [DdCc][Dd]2 z [=C=c][B,B]2 | %20
+ z [CcB,B]2<[Cc]2 [B,B][Cc]2 z [Dd^C^c]2<[Dd]2 [Dd][Cc]2 | %21
+ z [A,AG,G][A,A]2 z [B,B][^C^c]2 z [DdCc][Dd]2 z [B,B][Dd]2 | %22
+ z [CcB,B][Cc]2 z [G,G] z D z [CcB,B]2<[Cc]2 [B,B][Cc]2 | %23
+ z [B,BA,A][B,B]2 [Ee]2[Dd][Cc] [B,B][CcB,B]2<[Cc]2 [Cc][B,B]2 |] %24
+V:3
+ g2 g g | a b c'/[gb]/ a | g2 b2 | a g/>=f/ e ^f | g e/d/4c/4 [Bc]/4d/4[cd]/4e/4 d/4[gf]/4g/ | %5
+ g2 g g | a b c'/[gb]/ a | g2 b2 | a g/>=f/ e ^f | g e/d/4c/4 [Bc]/4d/4[cd]/4e/4 d/4[gf]/4g/ | %10
+ g2 d' d' | e' d'/>c'/ b ^c' | d'2 d'2 | d' d' e' d'/c'/ | b a g2 | g2 e f | g e d e | d2 g g | %18
+ a b c' a | g2 a g/>=f/ | e ^f g e | d2 =f2 | e c/>d/ e ^f | g a g2 |] %24
+V:4
+ z [dc]2<d2 cd2 z [ed]e2 z ed2 | z [fe]f2 z fg2 z [gf] z3 gf2 | z [dc]2<d2 dc2 z [cB]c2 z de2 | %3
+ z [dc]d2 z cB2 z [cB]c2 z Bc2 | z [BA]B2 a4 g4- g z2 d | z [dc]2<d2 cd2 z [ed]e2 z ed2 | %6
+ z [fe]f2 z fg2 z [gf] z3 gf2 | z [dc]2<d2 dc2 z [cB]c2 z de2 | z [dc]d2 z cB2 z [cB]c2 z Bc2 | %9
+ z [BA]B2 a4 g4- g z2 d | z2 d2 z Bd2 z [gf]2<g2 dg2 | z [gf]g2 z gf2 z [d^c]d2 z4 | x16 | x16 | %14
+ x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 |] %24
+V:5
+ B,>A, B,>A, B,>B, C>G, | C>C B,>B, A,>B, C>C | B,>=F, E,>^F, G,>F, G,>G, | F,>F, G,2 G,>G, A,>A, | %4
+ G,3/2G, G,/F, G,A, B,2 | B,>A, B,>A, B,>B, C>G, | C>C B,>B, A,>B, C>C | %7
+ B,>=F, E,>^F, G,>F, G,>G, | F,>F, G,2 G,>G, A,>A, | G,3/2G, G,/F, G,A, B,2 | %10
+ B,/[DC]/D/B,/ G,>A, B,>D B,>B, | C>B, A,7/2 G,/ F,>E, | D,/[F,E,]/F,/D,/ [A,A] z/ G,/ A,>A, B,>C | %13
+ D>D G>=F E>E ^F>E | D>D ED/C/ B,>B, G,>A, | B,>A, G,>F, (3:2:1G,[G,GA,A] (3:2:2z/ F,-(6:5:1F,F,/ | %16
+ E,>B,, E,>G, F,3/2D, D,/[^C,A,A]/[G,G]/ | D,2 D,>E, =F,>F, E,>D, | E,>F, G,>G, A,>G, F,2 | %19
+ G,>F, E,>E, =F,>E, D,G, | G,>G, A,>A, B,>B, A,>G, | F,>F, G,>G, A,>A, G,>B, | %22
+ G,>G, E,>=F, G,>G, A,>A, | D,3/2G, G,/^F, =F,>E, D,2 |] %24
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 z2 z/ [A,A]/[G,G] | z2 z/ F, z4 z/ | %13
+ x8 | x8 | z2 z/ [A,A]/[B,B] z/ [A,AG]/ z/ G,/ z/ [A,A]/[B,B] | %16
+ z/ [B,BA,A]/[B,B] z/ [B,B]/[^C^c] z/ [A,AG,G]/[A,A] [B,B] z | %17
+ [^F,^F]/[A,AG,G]/[A,A]/[F,F]/ z/ [F,F]/[G,G] z4 | x8 | x8 | x8 | x8 | x8 | x8 |] %24
+V:7
+ B>A B>A B>B c>G | c>c B>B A>B c>c | B>=F E>^F G>F G>G | F>F G2 G>G A>A | G3/2G G/F GA B2 | %5
+ B>A B>A B>B c>G | c>c B>B A>B c>c | B>=F E>^F G>F G>G | F>F G2 G>G A>A | G3/2G G/F GA B2 | %10
+ B/[dc]/d/B/ G>A B>d B>B | c>B A7/2 G/ F>E | D/[FE]/F/D/ z/ FG/ A>A B>c | d>d g>=f e>e ^f>e | %14
+ d>d ed/c/ B>B G>A | B>A G>F G>G F>F | E>B, E>G F3/2D D/^C | D2 D>E =F>F E>D | E>^F G>G A>G F2 | %19
+ G>F E>E =F>E DG | G>G A>A B>B A>G | F>F G>G A>A G>B | G>G E>=F G>G A>A | D3/2G G/^F =F>E D2 |] %24
+V:8
+ z G,, G,F, E,D, C,B,, | A,,2 E,D, C,2 D,2 | G,,4 G,,A,, B,,C, | D,B,, E,D, C,B,, A,,D, | %4
+ G,,E, C,D, G,,4 | z G,, G,F, E,D, C,B,, | A,,2 E,D, C,2 D,2 | G,,4 G,,A,, B,,C, | %8
+ D,B,, E,D, C,B,, A,,D, | G,,E, C,D, G,,4 | G,,4 G,=F, E,D, | C,2 D,2 G,,2 A,,2 | %12
+ D,,4 D,C, B,,A,, | G,,=F,, E,,D,, C,,2 D,,2 | G,,B,, C,D, G,,4 | G,F, E,D, ^C,2 ^D,2 | %16
+ E,E,, G,,A,, B,,F,, G,,A,, | D,,4 B,,G,, C,B,, | A,,2 E,D, C,A,, D,D,, | G,,4 D,C, B,,G,, | %20
+ C,B,, A,,D, G,,E,, A,,2 | D,,4- D,, D, B,,G,, | C,D, E,D, C,B,, A,,D, | B,,G,, C,,D,, G,,4 |] %24
+V:9
+ z G, GF ED CB, | A,2 ED C2 D2 | G,4 G,A, B,C | DB, ED CB, A,D | G,E CD G,4 | z G, GF ED CB, | %6
+ A,2 ED C2 D2 | G,4 G,A, B,C | DB, ED CB, A,D | G,E CD G,4 | G,4 G=F ED | C2 D2 G,2 A,2 | %12
+ D,4 DC B,A, | G,=F, E,D, C,2 D,2 | G,B, CD G,4 | GF ED ^C2 ^D2 | EE, G,A, B,F, G,A, | %17
+ D,4 B,G, CB, | A,2 ED CA, DD, | G,4 DC B,G, | CB, A,D G,E, A,2 | D,4- D, D B,G, | CD ED CB, A,D | %23
+ B,G, C,D, G,4 |] %24
+V:10
+ z G,,, G,,F,, E,,D,, C,,B,,, | A,,,2 E,,D,, C,,2 D,,2 | G,,,4 G,,,A,,, B,,,C,, | %3
+ D,,B,,, E,,D,, C,,B,,, A,,,D,, | G,,,E,, C,,D,, G,,,4 | z G,,, G,,F,, E,,D,, C,,B,,, | %6
+ A,,,2 E,,D,, C,,2 D,,2 | G,,,4 G,,,A,,, B,,,C,, | D,,B,,, E,,D,, C,,B,,, A,,,D,, | %9
+ G,,,E,, C,,D,, G,,,4 | G,,,4 G,,=F,, E,,D,, | C,,2 D,,2 G,,,2 A,,,2 | D,,,4 D,,C,, B,,,A,,, | %13
+ G,,,=F,,, E,,,D,,, C,,,2 D,,,2 | G,,,B,,, C,,D,, G,,,4 | G,,F,, E,,D,, ^C,,2 ^D,,2 | %16
+ E,,E,,, G,,,A,,, B,,,F,,, G,,,A,,, | D,,,4 B,,,G,,, C,,B,,, | A,,,2 E,,D,, C,,A,,, D,,D,,, | %19
+ G,,,4 D,,C,, B,,,G,,, | C,,B,,, A,,,D,, G,,,E,,, A,,,2 | D,,,4- D,,, D,, B,,,G,,, | %22
+ C,,D,, E,,D,, C,,B,,, A,,,D,, | B,,,G,,, C,,,D,,, G,,,4 |] %24

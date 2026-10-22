@@ -1,0 +1,69 @@
+X:1
+T:Sonata in A Minor
+T:Allegro moderato ma innocentemente
+C:Carl Philipp Emanuel Bach
+%%score { ( 1 3 ) | 2 }
+L:1/16
+Q:1/4=90
+M:2/4
+I:linebreak $
+K:C
+U:s=!stemless!
+V:1 treble nm="Harpsichord" snm="Hch."
+V:3 treble 
+V:2 bass 
+L:1/8
+V:1
+"^Allegro moderato ma innocentemente" !turn!c2>d2 e4- | e2>f2 e2>d2 |{d} P!turn!c2>d2 e4- | %3
+ e2>f2 e2>d2 |{d} P!turn!c2>d2"^ten." e4 | !turn!A2>B2 c4- |$ c2Bc{e/} d2cB | (A4 !wedge!P^G4) | %8
+ !turn!c2>d2 e4- | e2>f2 e2>d2 |!p!{d} P!turn!c2>d2 e4- | e2>f2 e2>d2 | %12
+!f! c2>!turn!e2 !wedge!c'2!wedge!b2 |$ (b4 Pa2)gf | fedc cBA^G | (^G4 !wedge!MA4) | %16
+ !turn!c2>a2 e4- | edef edcB |$ !turn!c2(^ga) e4- | ebdf edcB | !turn!c2>d2 fedc | (B2PA)B dcBA | %22
+ GFPED CB,dB |$ (A4 !wedge!P^G4) | !turn!c2>d2 (fe)e2- | e>fe2- e>dPc>B |!p! !turn!c2>e'2 e4- | %27
+ e>e'd2- d>fPe>d |$!f! !turn!c2>e2 (^ga)(c'b) | (b4 Pa)AGF | F/E z/ D/C z/ C/B, z/ A,/^G, z/ | %31
+ (^G,4 !wedge!MA,4) | !turn!c4 d2>A2 |$ c4- PBcde | !turn!f4 g2>d2 | f4- f<eg<f | %36
+!p! a<g_b<a c'<ba<^g | (^g6 =b<a) |$ =g<fe<d (d2P!turn!c2) | (c4 !wedge!PB4) |!f! !turn!e2>f2 g4- | %41
+ g2>a2 g2>f2 |!p!{f} P!turn!e2>f2 g4- | g2>a2 g2>f2 |!f! !turn!e2>g2 !turn!c2>e2 |$ %45
+ !turn!A2>c2 D2>a2 | g<ed<c B<Af<B | (d4 !wedge!P!turn!c4) |!p! !turn!e4 f2^c2 | %49
+ (P!turn!=e4 =d2)eB | (d4 Pc)Bc2 |$ !wedge!B4 (e'b=d'c') | !wedge!c'4 (c'^gba) | !wedge!a4 (aAcB) | %54
+ =d<ce<d (d2P!turn!c2) |!p! (c4 !wedge!P!turn!B4) |!f! !turn!C2>D2 E4- |$ E2>F2 E2>D2 | %58
+!p!{D} P!turn!C2>D2 E4- | E2>F2 (E2P!turn!D2) |!f! c2>d2"^ten." e4 |!p! [Aa]4 [Ff]4 | %62
+ z2!f! d<B c<AB<^G |!ff! [Aa]4 [Ff]4 |$ z2!p! F<D C<B,A,<^G, | (^G,4 !wedge!MA,4) | %66
+!f! !turn!c4 (ed) z A | (c4 PB)cde | f4- !turn!f2a<g | f4- f^def |$!p! ^fg^ga c'<_ba<g | %71
+ ^g4- gg=b<a | =g<fe<d (d2P!turn!c>)a | (c4 !wedge!PB4) |$!f! !turn!e2>f2 g3(3c'/b/a/ | %75
+ g2>a2 (g2P!turn!f2) |!p! e(e'bc') g4- | g>d'f2- f>ad>f |!f! !turn!e2>g2 (Bc) z e |$ %79
+ (^GA) z c (EF) z a | !turn!=g2=a>=f{e} P!turn!d4 | c8 |!p! Me2 e4 g<f | (ed)d2- d(feB) | %84
+ (d4 Pc)Bc2 |$ !wedge!B4 e'2(3=d'c'b | b4- b(d'c'^g) | (^g4 b<)a=g<f | (e4 P^d)cBA | %89
+ (3^GBe E2!f! z4 |$ !turn!C2>D2 E4- | E>FE2- E>DPC>B, |!p! !turn!C2>D2 (^DE) z c | %93
+ ^AB z ^C (=D^GBd) | !turn!=c2>=d2"^ten." e4 |$ z!p! (^gba) z (e=gf) | z2!f! d<B c<AB<^G | %97
+!ff! [Aa]4 [Ff]4 | z2 G/F/E/D/ D/C/B,/A,/ C/B,/A,/^G,/ | (^G,4 !wedge!MA,4) |] %100
+V:2
+"m" (A,A,,) z A, |"" (^G,E,) z G, |"m" (A,A,,) z A, |"" (^G,E,) z G, |"m" (A,A,,) z =G, | %5
+"" (F,F,,) z E, |$"m" D,4 |"" E,,E,-"" E,/D,/C,/B,,/ |"m" (A,,A,) z A, |"" (^G,E,) z G, | %10
+"m" (A,,A,) z A, |"" (^G,E,) z G, |"m" (A,,A,) z !wedge!=G, |$"" (F,F,,)"" z"m" D, |"" E,2"" E,,2 | %15
+"m" A,,(A,"m"E,C,) |"m" (A,,A,) z/ (C/B,/A,/) |"" (^G,E,) z G, |$"m" (A,A,,) z/ (E/C/A,/) | %19
+"" (^G,E,) z G, |"m" (A,A,,) z =G, |"" (F,F,,) z E, |"m" D,4 |$"" E,E,,-"" E,,/D,/C,/B,,/ | %24
+"m" (A,,A,) z A, |"""^ten." ^G,2"""^ten." E,2 |"m" (A,A,,) z/ (A,/C/E/) | %27
+"""^ten." ^G,2"""^ten." E,2 |$"m" (A,A,,) z =G, |"" (F,F,,)"" z"m" D, |"" E,2"" E,,2 | %31
+"m" z (A,,"m"C,E,) |"C{" A,,(A,""^F,D,) |$"" z G,"" G,,2 |"" z (DB,G,) |"" z (C""C,D,) |"" E,4 | %37
+"" z F,"" F,,2- |$"m" F,,2"" ^F,,2 |"" G,,G,-"" G,/=F,/E,/D,/ |"" (C,C) z C |"" (B,G,) z B, | %42
+"" (CC,) z C |"" (B,G,) z B, |"" CB,"m"A,G, |$"" F,E,"m"(F,"m"B,,) |"" C,""E,""F,""G, |"""" C,4 | %48
+"m" z2"^ten." A,2 |"" z (B,^G,E,) |"m" z (A,""F,"m"^D,) |$"" !wedge!E,!wedge!E,, z2 | %52
+"m" !wedge!E,!wedge!E,, z2 |"" !wedge!F,!wedge!F,, z2 |"m"!f! ^D,,2- D,,2 | %55
+"" E,,E,-"" E,/=D,/C,/B,,/ |"m" (A,,A,) z A, |$"" (^G,E,) z G, |"m" (A,A,,) z A, |"" (^G,E,) z G, | %60
+"m" (A,A,,) z G, |"" [F,,F,]2"m" [D,,D,]2 | z"m" D,""E,""E,, |"" [F,,F,]2"m" [D,,D,]2 |$ %64
+ z"m" D,""E,""E,, |"m""m" A,,4 |"C{" z (A,""^F,D,) |"" z G,"" G,,2 |"" z (DB,G,) | %69
+"" z (CC,""=D,) |$"" E,4 |"" z =F,"" F,,2- |"m" F,,2"" ^F,,2 |"" G,,G,-"" G,/=F,/E,/D,/ |$ %74
+"" (C,C) z C |"" B,G, z B, |"" (CC,) z/ (E/D/C/) |"""^ten." B,2"""^ten." G,2 |"" C""B,"m"A,"m"G, |$ %79
+"" F,""E,"m"D,"m"B,, |"" C,""F,""G,G,, |"" C,E,/>G,/ C2 |"m" z2 [A,C]2 |"m" [A,B,]2"" [^G,B,]2 | %84
+"m" z (A,""F,"m"^D,) |$"" !wedge!E,!wedge!E,, z2 |"m" z E,"m""^ten." E,,2 |"" z F,"" F,,2- | %88
+"m" F,,F,"CGer65" F,,2 |"" E,,>F, E,/=D,/C,/B,,/ |$"m" (A,,A,) z A, |"""^ten." ^G,2"""^ten." E,2 | %92
+"m" (A,A,,) z A, |"" z ^G,"" z E, |"m"!f! (=A,A,,) z =G, |$"" F,2"m" D,2 | %96
+ z"m" [D,,D,]""[E,,E,]""[E,,E,] |"" [F,,F,]2"m" [D,,D,]2 | z"m" D,""E,""E,, |"m""m" A,,4 |] %100
+V:3
+ x8 | x8 | x8 | x8 | x8 | s^G3 x5 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ %18
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | %37
+ x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | %56
+ x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | %75
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | %94
+ x8 |$ x8 | x8 | x8 | x8 | x8 |] %100

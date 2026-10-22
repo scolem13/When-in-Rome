@@ -1,0 +1,63 @@
+% Sa Taille: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2021
+% Licence: Creative Commons Attribution-ShareAlike 4.0 International. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sa Taille
+C:Erik Satie (1866-1925)
+%%score ( 1 2 3 ) ( 4 5 6 )
+L:1/16
+Q:1/4=144
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="upper"
+V:2 treble 
+V:3 treble 
+L:1/8
+V:4 bass nm="lower"
+V:5 bass 
+L:1/8
+V:6 bass 
+L:1/8
+V:1
+ z4 [B,DA,]2[^CE_B,]2 [^D^F=C]3 z | z4 [=B,=DA,]2[^CE_B,]2 [^D^F=C]3 z | %2
+ z4 [A,CG,]2[=B,=D^G,]2 [^CE_B,]3 z | z4 [A,=C=G,]2[=B,D^G,]2 [^CE_B,]3 z | z12 | z12 | z12 | z12 | %8
+ z12 | [d'e'd]3 z [^c'a'^ga]3 z [be'^fa]3 z | d'2_b2 =c'2d'2 [be'^c=g]3 z | =c7 z [^g=bf]3 z | %12
+ e7 z [^fg]3 z | [Ad]4 [GBD]4 [AdE]4 | [GBF]4 [Ad]4 [GB^C]3 z | d2A2 [GeB,D]4 [^FBA,=C]4 | %16
+ [Ec]4 G2D2 [CA]3 z | F12 | A12 | F12 | A7 z [A,^C]3 z | [^f'B]4 A4 f'4- | [^f'B]2 B2 ^g'6 e'2 | %23
+ [d'B]4 A4 d'4- | [d'B]2 B2 d'6 ^c'2 | [^f'B]4 A4 f'4- | [^f'B]2 B2 ^g'6 e'2 | [d'^C]7 z d'4- | %28
+ [d'B]2 B2 [d'A]4 ^G3 z | z12 | z12 | z12 | z12 | z12 | z12 | [d'g']4 [c'e'g]4 [d'g'a]4 | %36
+ [c'e'b]4 [d'g']4 [c'e'^f]4 | [d'g']4 [c'e'g]4 [d'g'a]4 | [c'e'b]4 [d'g']4 [c'e'^f]3 z | %39
+ d'2a2 [ge'Bd]4 [^fbAc]4 | [ec'GB]4 g2d2 [caEG]3 z | d2A2 [GeB,D]4 [^FBA,C]4 | %42
+ [Ec]4 G2D2 [CA]3 z |] %43
+V:2
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | A3 z [=fg]3 z4 z | %11
+ z4 [e=gd]2[^fa^d]2 z4 | z2 [aa'] z [aa'^fg]3 z4 z | B,2^C2 z8 | z4 E2D2 z4 | [CE]4 z8 | x12 | %17
+ z4 [^G,D]7 z | z4 [A,^C]7 z | z4 [^G,D]7 z | z4 [A,^C]3 z4 z | ^C7 z ^G3 z | ^C7 z ^G3 z | %23
+ ^C7 z ^G3 z | ^C7 z ^G3 z | ^C7 z ^G3 z | ^C7 z ^G3 z | B4 A4 ^G3 z | ^C7 z4 z | x12 | x12 | x12 | %32
+ x12 | x12 | x12 | e2^f2 z8 | z4 a2g2 z4 | e2^f2 z8 | z4 a2g2 z4 | [ce]4 z8 | z4 [=FA]4 z4 | %41
+ [CE]4 z8 | x12 |] %43
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | z e' A2 z2 | x6 | z ^c' A2 z2 | x6 | z e' A2 z2 | z3 =c' z2 | z =c' z4 | x6 | x6 | %31
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %43
+V:4
+ G,7 z4 z | G,7 z4 z | F,7 z4 z | F,7 z4 z | G,,4 [^C,^D,=C,]4 [^C,D,G,,]4 | %5
+ F,,2^C,,2 [_B,,^C,]4 [B,,C,G,,]4 | A,,7 z [F,^G,=D,]3 z | A,,7 z [=F,^G,=D,]3 z | z12 | z12 | %10
+ z12 | z12 | z12 | z12 | z12 | z12 | [G,B,]4 [F,A,]4 [E,G,]3 z | [D,,,D,,]7 z [E,,,E,,]3 z | %18
+ [F,,,F,,]7 z [G,,,G,,]3 z | [D,,,D,,]7 z [E,,,E,,]3 z | [F,,,F,,]7 z4 z | z12 | z12 | z12 | z12 | %25
+ z12 | z12 | z12 | z12 | G,,7 z [^D,^F,C,]3 z | G,,7 z [^D,^F,=C,]3 z | G,,7 z [^D,^F,=C,]3 z | %32
+ G,,7 z [^D,^F,=C,]3 z | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | %42
+ [G,B,]4 [F,A,]4 [E,G,]3 z | [C,,,C,,]2 z2 [D,,,D,,]2 z2 [E,,,E,,]2 z2 | %44
+ [C,-F,,,F,,C,,,C,,F,,,F,,]16 C,8- C,3 | [C,,,C,,]2 [F,A,]12- [F,,,F,,]2 [C,,,C,,]2 | %46
+ [F,,,F,,]2 [F,A,]3 z8 z |] %47
+V:5
+ x6 | x6 | x6 | x6 | x6 | z2 ^D,,F,, z2 | z2 [^C,E,=B,,][^D,^F,=C,] z2 | %7
+ z2 [^C,E,B,,][^D,^F,=C,] z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %21
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 [B,,=D,A,,][^C,E,_B,,] z2 | %30
+ z2 [=B,,=D,A,,][^C,E,_B,,] z2 | z2 [=B,,=D,A,,][^C,E,_B,,] z2 | z2 [=B,,=D,A,,][^C,E,_B,,] z2 | %33
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [^D,G,B,]6 | [F,A,]6- x15/2 | x9 | x7 |] %47
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 | x6 | x6 | x6 | C,6- | x27/2 | x9 | x7 |] %47

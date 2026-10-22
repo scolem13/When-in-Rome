@@ -1,0 +1,105 @@
+X:1
+T:5 Lieder, Op.49
+T:Sehnsucht
+C:Johannes Brahms
+Z:Josef Wenzig, aus dem Böhmischen
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=70
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+L:1/4
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Langsam" z6 | z6 | (E3 A) (ce) | e4 B2 | (E3 A) (_ce) | _f4 _c2 | =c4 e2 | (a2 g2) c2 | %8
+w: ||Hin- * ter *|je- nen|dich- * ten *|Wäl- dern|weilst du,|mei- * ne|
+ (f2 e2) A2 | =d6 | _d4 z2 ||[M:4/4] c4 A4 | e6 z2 | (_f4 A2) e2 | (a4 !fermata!=d2) !fermata!z2 || %15
+w: Süss- * ge-|lieb-|te,|weit, ach|weit!|Weit, * ach|weit! *|
+[M:3/4][Q:1/4=115]"^Lebhaft" (g3 f) _d B | A4 G2 | (f3 e) c A | G4 F2 | F4 G A | B4 A2 | %21
+w: Ber- * stet, ihr|Fel- sen,|eb- * net euch,|Tä- ler,|dass ich er-|se- he,|
+ (^F3 G) =A B | e4 d2 | z2 c3 c | (c=d) d3 z | (=d3 e) (ea) | (a2 f2) _d2 | (f2 d2) B2 | (A4 G2) | %29
+w: dass * ich er-|spä- he|mei- ne|fer- * ne,|mei- * ne *|fer- * ne|sü- * sse|Maid! *|
+ z2 z B =A B | e4 d2 | (=B3 c) =d e | a4 _g2 | z2 _f3 f | (_g_f) f2 z2 | z2 _f3 e | (e_d) d2 z2 | %37
+w: dass ich er-|se he,|dass * ich er-|spä- he|mei- ne|fer- * ne,|mei- ne|sü- * sse,|
+ c4 B2 | (A2 d2) f2 | a4 c2 | e4 B2 | c2 z2 z2 | z6 | z6 | z6 | z6 | z6 |] %47
+w: mei- ne|fer- * ne|sü- sse,|sü- sse|Maid!||||||
+V:2
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 ||[M:4/4] x4 | x4 | x4 | x4 ||[M:3/4] x3 | %16
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %35
+ x3 | x3 | x3 | x3 | e2 x | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %47
+V:3
+!p! x2 (3z (CE) x2 | x2 (3z (DE) x2 | x2 (3z (CE) x2 | x2 (3z (DE) x2 | x2!<(! (3z (EA) x2!<)! | %5
+!>(! (3z (A_c) x2 (3z (A=d)!>)! |!<(! (3z (A,E) (3z (=CA) (3z (E[Ac])!<)! | %7
+ (3z A[ca] (3z B[dg] (3z Ac | (3z A[cf] (3z G[Be] (3z FA | (3z!>(! F[A=d] (3z F[Ad] (3z F[Ad] | %10
+ (3z E[G_d] (3z E[Gd] (3z E[Gd]!>)! ||[M:4/4] c4 A4 | e8 | _f4 e4 |!f! !fermata!a8 || %15
+[M:3/4] (3[B_dg][Bdg][Bdg] (3[Bdg][Bdg][Adf] (3[EBd][EBd][DGB] | %16
+ (3[B,DA][B,DA][B,DA] (3[B,DA][B,DA][B,DA] (3[B,DG][B,DG][B,DG] | %17
+ (3[A=df][Adf][Adf] (3[Adf][Adf][Ace] (3[EAc][EAc][CEA] | %18
+ (3[A,=DG][A,DG][A,DG] (3[A,DG][A,DG][A,DG] (3[A,DF][A,DF][A,DF] | %19
+!p! (3[B,=DF][B,DF][B,DF] (3[B,DF][B,DF][B,DF] (3[B,DG][B,DG][B,DA] | (B4 A2) | %21
+ (3[B,E^F][B,EF][B,EF] (3[B,EF][B,EF][B,EG] (3[EG=A][EGA][EGB] | (e4 d2) | %23
+ (3z [EAc][EAc] (3[EAc][EAc][EAc]!<(! (3[EAc][EAc][EAc] | %24
+ (3z [Ec][Fc=d] (3[Fcd][Fcd][Fcd] (3[Fcd][Fcd][Fcd] | %25
+ (3z [Gc=d][Gcd] (3[Gcd][Gcd][Gce] (3[Ace][Ace][Acea]!<)! | %26
+ (3z [A_da][Ada] (3[Ada][Ada][Ada] (3[Ad][Ad][Ad] | %27
+ (3z!>(! [ABf][ABf] (3[ABf][ABf][ABf] (3[FAB][FAB][FAB] | %28
+ (3z [CEA][CEA] (3[CEA][CEA][CEA] (3[B,EG][B,EG][B,EG]!>)! | %29
+ (3[EGB][EGB][EGB] (3[EGB][EGB][EGB] (3[E=A][EA][EB] | (e4!<(! d2) | %31
+ (3[EA=B][EAB][EAB] (3[EAB][EAB][EAc] (3[Ac=d][Acd][Ace] | (a4 _g2)!<)! | %33
+!p! (3z [^G^c=e][Gce] (3[Gce][Gce][Gce] (3[Gce][Gce][Gce] | %34
+ (3z [^G=de][Gde] (3[Gde][Gde][Gde] (3[Gde][Gde][Gde] | %35
+ (3z!<(! [=G^c=e][Gce] (3[Gce][Gce][Gce] (3[Gce][Gce][Gc_e]!<)! | %36
+ (3z!>(! [_E=G_d][EGd] (3[EGd][EGd][EGd] (3[EGd][EGd]!>)![EGd] |"^espress." (3z (_DG (3cDG (3BDG) | %38
+ (3z!<(! (DA (3dFA (3fAd) | (3z (Ac (3aAc (3eAc)!<)! | x2 e2 G2 | %41
+"_cresc. string." z [A,C]2 [F,D]2 [E,C]- | [E,C] [A,DF]2 [A,CE]2 [DFA]- | %43
+ [DFA-] [CEA]2!<(! [FAd]2 [EAc]- | [EAc] [Adf]2 [Ace]2 [Adfa]!<)! |!>(! (([A-dfa-]6!>)! | %46
+ [Acea]6)) |] %47
+V:4
+ (3z (C,E,) x2 (3z (C,E,) | (3z (D,E,) x2 (3z (D,E,) | (3z (C,E,) x2 (3z (C,E,) | %3
+ (3z (D,E,) x2 (3z (D,E,) | (3z (E,A,) x2 (3z (A,_C) | x2 (3z (A,=D) x2 | %6
+ (.[E,,,E,,]2 .E,2 .E,,2) | ([CE]2 [B,D]2 [A,C]2) | ([A,C]2 [G,B,]2 [F,A,]2) | %9
+!ped! [E,F,A,]6!ped-up! |!ped! [E,G,B,]6!ped-up! || %11
+[M:4/4]!ped! [E,A,]4!ped-up!!ped! [F,A,]4!ped-up! | %12
+!ped! [E,A,B,]4!ped-up!!ped! [D,E,G,B,]4!ped-up! | %13
+!ped! !arpeggio![_C,_F,A,_C]2 _C,,2!ped-up!!ped! !arpeggio![C,E,A,C]2 C,,2!ped-up! | %14
+!ped! !arpeggio![=F,A,B,=F]2 B,,,2!ped-up!!p! [F,A,B,F]4 || %15
+[M:3/4]!f! ([E,,E,]3!<(! [F,,F,] [G,,G,][B,,B,])!<)! |!>(! (([_F,_F]4!>)! [E,E]2)) | %17
+ ([=B,,,=B,,]3!<(! [C,,C,] [E,,E,][A,,A,])!<)! |!>(! [_C,_C]6!>)! | (B,,2 A,,4) | %20
+ (([G,,G,]2 [F,,F,]4)) | (([E,,E,]2 [D,,D,]4)) | (([C,,C,]2 [B,,,B,,]4)) | %23
+!p! (3[A,,,A,,][E,A,C][E,A,C] (3[E,A,C][E,A,C][E,A,C] (3[E,A,C][E,A,C][E,A,C] | %24
+ (3[A,,A,][E,C][F,C=D] (3[F,CD][F,CD][F,CD] (3[F,CD][F,CD][F,CD] | %25
+ (3[G,,G,][G,C=D][G,CD] (3[G,CD][G,CD][G,CE] (3[F,,F,][F,A,CE][F,A,CE] | %26
+ (3[B,,,B,,][A,B,F][A,B,F] (3[A,B,F][A,B,F][A,B,F] (3[A,B,F][A,B,F][A,B,F] | %27
+ (3[D,,D,][D,A,B,][D,A,B,] (3[D,A,B,][D,A,B,][D,A,B,] (3[D,A,B,][D,A,B,][D,A,B,] | E,,4 E,2 | %29
+!p! G,6 | ([C,E,A,]2 [B,,E,B,]4) | ([A,,E,A,]2 [_G,,_G,]4) | ([F,,F,]2 [E,,E,]4) | %33
+ (3[^C,,^C,][^G,^C=E][G,CE] (3[G,CE][G,CE][G,CE] (3[G,CE] z z | %34
+ (3[=B,,,=B,,][^G,=D=E][G,DE] (3[G,DE][G,DE][G,DE] (3[G,DE] z z | %35
+ (3[=A,,,=A,,][=G,^C][G,C] (3[G,C][G,C][G,C] (3[G,C] z z | %36
+ (3[_B,,,_B,,][E,G,_D][E,G,D] (3[E,G,D][E,G,D][E,G,D] (3[E,G,D] z z | ([E,,B,,]2 E,2 G,2) | %38
+ (F,2 D,2 A,,2) | [C,,C,]2 [C,E,A,]4 | [E,,,E,,]2 [E,B,]4 | (A,,,2 A,,2 A,,,2 | A,,2 A,,,2 A,,2) | %43
+ [A,,,A,,]2 ([F,A,D]2 [E,A,C]2 | [A,DF]2 [A,CE]2)!ped! !arpeggio![F,A,DF]2 | %45
+!f! [A,,,A,,]6!ped-up! | !arpeggio![A,,E,A,C]6 |] %47
+V:5
+ (.A,,, .C, .=A,,,) | (.B,,, .E, .E,,,) | (.A,,, .C, .=A,,,) | (.B,,, .E, .E,,,) | %4
+ (._C,, .E,) (.A,,, | ._C,) (._F,,, ._F,) | x3 | E,3 | E,3 | .[E,F,A,] .E,, z | .[E,G,B,] .E,, z || %11
+[M:4/4] !arpeggio!.[E,A,] .A,, !arpeggio!.[F,A,] .F,, | %12
+ !arpeggio!.[E,A,B,] .E,, !arpeggio!.[D,E,G,B,] .D,, | x4 | x4 ||[M:3/4] x3 | x3 | x3 | x3 | x3 | %20
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | (E, D,2) | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ F,,3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %47
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 ||[M:4/4] (3z CE (3z CE (3z A,=D (3z A,D | %12
+ (3z E!<(!A (3z EA (3z E[GB] (3z E[GB] | (3z _FA (3z FA (3z EA (3z EA!<)! | %14
+ (3z A!>(!e (3z Ae (3z A=d-!>)! !fermata!d2 ||[M:3/4] x6 | x6 | x6 | x6 | x6 | %20
+ (3[B,E][B,E][B,E] (3[B,E][B,E][B,E] (3[B,=D]!<(![B,D][B,D] | x6!<)! | %22
+ (3[E_A]!>(![EA][EA] (3[EA][EA][EA] (3[EG][EG][EG]!>)! | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %30
+ (3[E_A][EA][EA] (3[EA][EA][EA] (3[EG][EG][EG] | x6 | %32
+ (3[A_d][Ad][Ad] (3[Ad][Ad][Ad] (3[Ac][Ac][Ac] | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %40
+ (3z!>(! (EA (3eDE (3GDE)!>)! | x6 | x6 | x6 | x6 | x6 | x6 |] %47

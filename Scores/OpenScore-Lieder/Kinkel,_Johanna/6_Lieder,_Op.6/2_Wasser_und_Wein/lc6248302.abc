@@ -1,0 +1,58 @@
+X:1
+T:6 Lieder, Op. 6
+T:Wasser und Wein
+C:Johanna Kinkel
+Z:August Kopisch
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/16
+Q:1/4=120
+M:2/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice\nSingstimme"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"^Vivace"!mf! F2 GA B2 A2 | B2 =B2 c2 F2 ||"^Chor."!ff! f4 d4 | c4 B4 ||!mf! F2 GA B2 A2 | %5
+w: Freun- de * sagt, was|wollt ihr trin- ken?|Wein, Wein,|Wein, Wein!|Soll der * Knecht nach|
+ B2 =B2 c2 G2 ||"^Chor." g4 c4 | f4 d4 ||!mf! d3 c B2 A2 | G2 F2 F2 D2 | d3 c B2 A2 | %11
+w: Was- ser hin- ken?|Nein, nein,|nein, nein!|Lass das Was- ser|Was- ser blei- ben,|Lass es gehn und|
+ G2 F2 !>!G2 F2 |!f! _d3 d d2 d2 | _d2 d2 =e4 |!ff! f3 _e _d2 cd | f_e _dc d4 | z8 | z8 | z8 | z8 | %20
+w: Müh- len trei- ben,|lass es in den|Wü- ste- nein|Trost der Ka- ra- *|va- * nen * sein,|||||
+!p! d3 c B2 A2 | G2 F2 F2 D2 | d3 c B2 A2 | G2 F2 !>!G2 F2 |!mf! _d3 d d2 d2 | _d2 d2 =e4 | %26
+w: Lass die Hü- gel|es be- reg- nen,|Dass sie uns mit|Trau- ben seg- nen,|lass es sei- ne|stol- zen Well’n|
+!f! f3 _e _d2 cd | fe _dc d4 | z8 | z8 | z8 | z8 |!mf! d3 c B2 A2 | G2 F2 F2 D2 | d3 c B2 A2 | %35
+w: bis hin- auf zum *|Him- * mel * schnell’n.|||||Lass es gro- sse|Schif- fe schwin- gen,|die den Wein von|
+ G2 F2 !>!G2 F2 |!f! g3 f fe dc | f3 e ed cB | e3 d dc BA | d3 c B2 G2 | c3 =B c2 B2 | %41
+w: fern uns brin- gen,|lass in al- * le *|Land’ es lau- * fen, *|und da- mit * die *|Hei- den tau- fen;|Was- ser soll be-|
+ c2 d2 !fermata!e4 |"^più lento" e2 dc f2 Bc ||!ff!"^Chor." d4 c4 | !fermata!B8 |] %45
+w: lo- bet sein;|doch wir * trin- ken *|Wein, Wein,|Wein.|
+V:2
+"^Vivace"!mf! (F2GA) .B2.A2 | .B2.=B2 .c2.F2 ||!ff! !>![FAcf]4 !>![FBd]4 | !>![EFAc]4 !>![DFB]4 || %4
+!mf! (F2GA) .B2.A2 | .B2.=B2 .c2.G2 ||!ff! !>![F=Bdg]4 !>![EGc]4 | !>![EAcf]4 !>![DF_B]4 || %8
+!mf! (dABF) dABF | e=BcF dA_BF | dABF dABF | e=BcF dA_BF |!f! [FB_d]2>[FBd]2 [FBd]2[FBd]2 | %13
+ [FB_d]2[FBd]2 !>![Gd=e]4 |!ff! [F_A_d]2>[FAd]2 [FAd]2[FAd]2 | [_G_Ac]2[GAc]2 [FA_d]4 | %16
+ [F_Af]2>[FAf]2 [FAf]2[FAf]2 | [F_Af]2[FAf]2 !>![=Bf_a]4 | [=Ac=a]2>[Acg]2 [Acf]2[Ac=e]f | %19
+ [B=ea]g[Bf]e fac'_e' |!p! d'abf d'abf | e'=bc'f d'a_bf | d'abf d'abf | e'=bc'f d'a_bf | %24
+!mf! z _dfb !>![dfb_d']4 | z =eb_d' !>![gd'=e']4 |!f! f'_d'_af d'af_d | [cf]e_dc d4 | %28
+ z _A_df !>![Adf_a]4 | z _cf_a !>![cfa_c']4 | !>!c'=afc !>!afcA | !>!cBG=E FAc_e |!mf! dABF dABF | %33
+ e=BcF dA_BF | dABF dABF | e=BcF dA_BF |!f! =BcdB cGBc | A_BcA BFAB- | BEGB- BAG^F- | ^FDFA- AGFG | %40
+ [CGc]2>[DG=B]2 [CGc]2[DGB]2 | [CGc]2[FGd]2 !fermata![EGce]4 | [CFAc]4 [B,FB]2[B,GB]2 || %43
+!ff! [B,DFB]4 [CEA]4 | !fermata![B,DFB]8 |] %45
+V:3
+ (F,2G,A,) .B,2.A,2 | .B,2.=B,2 .C2.F,2 || [F,,F,]4 [B,,B,]4 | [F,,F,]4 [B,,,B,,]4 || %4
+ (F,2G,A,) .B,2.A,2 | .B,2.=B,2 .C2.G,2 || [G,,G,]4 [C,C]4 | [F,,F,]4 [B,,,B,,]4 || %8
+ B,,F,B,F, B,,F,B,F, | B,,F,A,F, B,,F,B,F, | B,,F,B,F, B,,F,B,F, | B,,F,A,F, B,,F,B,F, | %12
+ [B,,B,]2>[B,,B,]2 [B,,B,]2[B,,B,]2 | [B,,B,]2[B,,B,]2 [B,,B,]4 | %14
+ [_A,,_A,]2>[A,,A,]2 [A,,A,]2[A,,A,]2 | [_A,,_A,]2[A,,A,]2 [_D,A,]4 | %16
+ [_D,_D]2>[D,D]2 [D,D]2[D,D]2 | [_D,_D]2[D,D]2 [D,D]4 | [C,C]2>[C,C]2 [C,C]2[C,C]2 | %19
+ [C,C]2[C,C]2 !arpeggio![F,CA]4 | B,,F,B,F, B,,F,B,F, | B,,F,A,F, B,,F,B,F, | B,,F,B,F, B,,F,B,F, | %23
+ B,,F,A,F, B,,F,B,F, | [B,,B,]2[B,,B,]2 [F,B,_D]4 | [B,,B,]2[B,,B,]2 [B,,B,]4 | %26
+ [_A,,_A,]2[A,_DF]2 [A,DF]2[A,DF]2 |[K:treble] [_A,E_G]2[A,EG]2 [_DF]4 | %28
+[K:bass] [_D,_D]2[D,D]2 [_A,DF]4 | [_D,_D]2[D,D]2 [_A,DF]4 | %30
+ [C,F,=A,C]2[C,F,A,C]2 [C,F,A,C]2[C,F,A,C]2 | [C,G,B,]2[C,G,B,]2 [F,A,]4 | B,,F,B,F, B,,F,B,F, | %33
+ B,,F,A,F, B,,F,B,F, | B,,F,B,F, B,,F,B,F, | B,,F,A,F, B,,F,B,F, | [G,,G,]4 [C,C]4 | %37
+ [F,,F,]4 [B,,B,]4 | [C,C]4 [D,D]4 | [D,,D,]4 [G,,G,]4 | [E,,E,]2>[F,,F,]2 [E,,E,]2[F,,F,]2 | %41
+ [E,,E,]2[=B,,,=B,,]2 !fermata![C,,C,]4 | [E,,E,]4 [D,,D,]2[E,,E,]2 || [F,,F,]4 [F,,F,]4 | %44
+ !fermata![B,,,B,,]8 |] %45

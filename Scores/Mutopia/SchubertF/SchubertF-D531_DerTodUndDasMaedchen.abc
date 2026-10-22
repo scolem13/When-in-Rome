@@ -1,0 +1,53 @@
+% Der Tod und das Mädchen: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1544
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Der Tod und das Mädchen
+C:SchubertF
+%%score 1 2 3
+L:1/4
+Q:1/4=60
+M:2/2
+I:linebreak $
+K:none
+V:1 bass nm="pianoDown" snm="Pno"
+V:2 treble nm="chant" snm="V"
+V:3 treble nm="pianoUp" snm="Pno"
+V:1
+ x2 |[K:Dmin][M:2/2][M:2/2][Q:1/4=108] [D,,D,]2 [D,,D,] [D,,D,] | %2
+[M:2/2] [D,,D,]2 [D,,D,] [D,,A,,] | [A,,,A,,]2 [A,,,A,,] [A,,,A,,] | [D,,A,,]2 [D,,D,] [D,,D,] | %5
+ [D,,D,]2 [D,,D,] [D,,D,] | [D,,D,]2 [D,,D,] [D,,A,,] | [A,,,A,,]2 [A,,,A,,] [A,,,A,,] | %8
+ [D,,A,,]2 x[Q:1/4=120] x | [D,F,] x3/2 [D,F,]/[D,F,]/[D,F,]/ | [D,F,] x3/2 [D,F,]/[D,F,]/[D,F,]/ | %11
+ [E,G,B,] x3/2 [E,G,B,]/[E,G,B,]/[E,G,B,]/ | [F,A,] x3/2 [F,A,]/[F,A,]/[F,A,]/ | %13
+ [_G,A,C] x3/2 [G,A,C]/[G,A,C]/[G,A,C]/ | [=G,B,] x3/2 [G,B,]/[G,B,]/[G,B,]/ | %15
+ [E,G,B,] x3/2 [E,G,B,]/[E,G,B,]/[E,G,B,]/ | [A,C]2 [G,C] [F,C] | [C,C]2 x G, | F,2 E, D, | %19
+ A,,2 x2 | F,,2 G,, _A,, | =A,,2[Q:1/4=70] x2 |[Q:1/4=108] [D,,D,]2 [D,,D,] [D,,D,] | %23
+ [G,,D,]2 [G,,D,] [G,,D,] | [B,,D,]2 [B,,D,] [B,,D,] | D,2 D, D, | G,,2 A,, A,, | %27
+ B,,2 [=B,,,=B,,] [B,,,B,,] | [C,,C,]2 [C,,C,] [C,,C,] | [F,,C,]2 F,, F,, | B,,2 F,, D,, | %31
+ F,,2 F,, B,, | C,2 B,, F,, | B,,2 B,, A,, | _A,,2 =A,, A,, | =B,,2 A,, _A,, | =A,,2 [A,,,A,,]2 | %37
+ [D,,D,]2 [D,,D,] [D,,D,] | [D,,D,]2 [D,,A,,] [D,,A,,] | [A,,,A,,]2 [A,,,A,,]2 | %40
+ [D,,D,]2 [D,,D,] [D,,D,] | [D,,D,]2 [D,,A,,] [D,,A,,] | %42
+[Q:1/4=100] [A,,,A,,]2[Q:1/4=92] [A,,,A,,]2 |[Q:1/4=36] [D,,A,,D,]2 x2 |] %44
+V:2
+ x2 |[K:Dmin][M:2/2][M:2/2][Q:1/4=108] x2 x2 |[M:2/2] x4 | x4 | x4 | x4 | x4 | x4 | %8
+ x3[Q:1/4=120] x/ A/ | B A x A/>A/ | c B x B | _d3/2 d/ d3/2 d/ | =d2- d d | _e2- e A | %14
+ B2 x3/2 d/ | d G x G | c3/2 c/ B A | G2 x B | A3/2 A/ G F | E2 x2 | x4 | x2[Q:1/4=70] x2 | %22
+[Q:1/4=108] D2 D D | D2 x D | D3/2 D/ D D | D2 x D | D2- D D | D3/2 D/ D E/F/ | C2- C2 | A,2- A,2 | %30
+ F2 F F | F2- F F | F2- F F | F2- F D | D2- D D | D3/2 D/ D D | A,2- A,2 | [D,D]2 x2 | x4 | x4 | %40
+ x4 | x4 |[Q:1/4=100] x2[Q:1/4=92] x2 |] %43
+V:3
+ x2 |[K:Dmin][M:2/2][M:2/2][Q:1/4=108] [F,A,D]2 [G,B,D] [E,G,D] |[M:2/2] [F,A,D]2 [G,A,E] [A,F] | %3
+ [G,A,E]2 [F,A,D] [E,A,_D] | [F,A,=D]2 [F,D] [E,G,D] | [F,A,D]2 [G,B,D] [E,G,D] | %6
+ [F,A,D]2 [G,A,E] [A,F] | [G,A,E]2 [F,A,D] [E,A,_D] | [F,A,=D]2 x[Q:1/4=120] x | %9
+ x/ [A,FA]/ [A,FA]/[A,FA]/ [A,FA] x | x/ [B,FB]/ [B,FB]/[B,FB]/ [B,FB] x | %11
+ x/ [_DB_d]/ [DBd]/[DBd]/ [DBd] x | x/ [=DA=d]/ [DAd]/[DAd]/ [DAd] x | %13
+ x/ [_EA_e]/ [EAe]/[EAe]/ [EAe] x | x/ [DBd]/ [DBd]/[DBd]/ [DBd] x | %15
+ x/ [CGc]/ [CGc]/[CGc]/ [CGc] x | [Fc]2 [EB] [FA] | [EG]2 x [_DEB] | [=DFA]2 [_DG] [=DF] | %19
+ [_DE]2 x2 | [A,F]2 [G,E] [F,=D] | [E,_D]2[Q:1/4=70] x2 |[Q:1/4=108] [F,A,=D]2 [F,A,D] [F,A,D] | %23
+ [G,B,D]2 [G,B,D] [G,B,D] | [G,D]2 [G,D] [G,D] | [F,A,D]2 [F,A,D] [F,A,D] | %26
+ [E,B,D]2 [E,A,D] [E,A,D] | [E,G,D]2 [F,G,D] [F,G,D] | [F,G,C]2 [E,G,C] [E,G,C] | %29
+ [F,A,C]2 [F,A,C] [F,A,C] | [F,B,D]2 [F,A,C] [F,B,] | [F,A,C]2 [F,A,C] [F,B,D] | %32
+ [F,A,_E]2 [F,B,D] [F,A,C] | [F,B,D]2 [F,D] [F,D] | [E,=B,D]2 [E,A,D] [E,A,D] | %35
+ [E,_A,D]2 [E,=A,D] [E,=B,D] | [_G,A,D]2 [=G,A,_D]2 | [_G,A,=D]2 [=G,=B,D] [E,G,D] | %38
+ [_G,A,D]2 [E,=G,D] [D,_G,D] | [E,=G,D]2 [E,A,_D]2 | [_G,A,=D]2 [=G,=B,D] [E,G,D] | %41
+ [_G,A,D]2 [E,=G,D] [D,_G,D] |[Q:1/4=100] [E,=G,D]2[Q:1/4=92] [E,A,_D]2 |[Q:1/4=36] [_G,=D]2 x2 |] %44

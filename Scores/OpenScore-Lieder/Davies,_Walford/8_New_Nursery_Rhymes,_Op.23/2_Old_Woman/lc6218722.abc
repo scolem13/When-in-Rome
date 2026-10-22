@@ -1,0 +1,80 @@
+X:1
+T:8 New Nursery Rhymes, Op.23
+T:Old Woman
+C:Walford Davies
+Z:Walford Davies
+Z:OpenScore (CC0)
+%%score [ 1 2 3 4 ] { 5 | ( 6 7 ) }
+L:1/4
+Q:1/4=88
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Soprano"
+L:1/8
+V:2 treble nm="Alto"
+L:1/8
+V:3 treble-8 nm="Tenor"
+V:4 bass nm="Bass"
+V:5 treble nm="Piano"
+V:6 bass 
+V:7 bass 
+V:1
+"^Andante con moto" z6 | !fermata!z6 |: z6 | z6 | z6 | z6 | z6 | z2 z!pp! G G G | B G z G G G | %9
+w: |||||||(A lit- tle|loud- er, a lit- tle|
+ e2 A2 !fermata!z2 :| z6 | z6 | z6 | z2 z2 (A>B) | .c .c z2 z2 |!ppp!"^rit." (c4 B2) | A6 | %17
+w: loud- er,)||||(old _|wo- man,)|(dear- *|ly)|
+"^accel." z6 | z6 | z6 | z!f! G G G c =e | (g4 =B2) |!>(! c6-!>)! | c2 z2 !fermata!z2 |] %24
+w: |||She hears you ve- ry|clear- *|ly!|_|
+V:2
+ z6 | !fermata!z6 |: z6 | z6 | z6 | z6 |!p! .G .G !tenuto!G2 !tenuto!G2 | .G .G G2!f! G2 | %8
+w: ||||||Speak a lit- tle|loud- er, sir, I'm|
+ G G!<(! G G G G!<)! |!>(! !>!B2 A3!>)! !fermata!z :| z6 | z6 | z6 | z6 | z6 | %15
+w: ve- ry, ve- ry thick of|hear- ing;||||||
+!ppp!"^rit." (F4 G2) | E6 |!f!"^accel." .c2 .c2 c2- | c4!f! c2 | c c c c c c | (=e6 | d6) | %22
+w: (dear- *|ly)|Thank you, kind|sir, I|hear, I hear you ve- ry|clear-||
+!>(! c6-!>)! | c2 z2 !fermata!z2 |] %24
+w: ly!|_|
+V:3
+ z3 | !fermata!z3 |: z3 | z3 | z3 | z3 | z3 | z3 | z3 | !fermata!z3 :| z z!ff! (c/>d/) | %11
+w: ||||||||||Old _|
+ e!>(!"^dim." e (c/>d/) | e e (c/>!>)!d/) | e!>(! e2!>)! |!p! A/ c/ (f/e/) (c/A/) | %15
+w: wo- man, old _|wo- man, old _|wo- man,|shall I love * you *|
+"^rit." (e2 _d) | c3- |"^accel." c2 z | z3 | z3 |!f! (g3 | f3) |!>(! =e3-!>)! | e z !fermata!z |] %24
+w: dear- *|ly?|_|||clear-||ly!|_|
+V:4
+ z3 | z z!ff! (!fermata!A,/>B,/) |: C C (A,/>B,/) | C C2 | C,/ C,/ G, (E,/F,/) | G, C z | z3 | z3 | %8
+w: |Old _|wo- man, old _|wo- man,|shall we go a- *|\-shear- ing?|||
+ z3 |"^(louder still)" z z (!fermata!A,/>B,/) :| C C (A,/>B,/) | C!>(!"^dim." C (A,/>B,/) | %12
+w: |Old *|wo- man, Old _|wo- man, old _|
+ C C (A,/>!>)!B,/) | C!>(! C2!>)! | z3 |"^rit." z3 | z3 |"^accel." z3 | z3 | z3 | G, G, z | %21
+w: wo- man, old _|wo- man,|||||||Clear- ly,|
+ G, G, z |"^(deprecatingly.)" z/ G,,/ (3A,,/ G,,/ G,,/ (3G,,/ G,,/ G,,/ | %23
+w: clear- ly,|old wo- man, old wo- man, old|
+!>(! G,!>)! C, !fermata!z |] %24
+w: wo- man!|
+V:5
+"^Andante con moto"!f! z !>![G,CEG] !>![A,CEA] | z !>![G,CEG] !>!!fermata![A,CEA] |: %2
+ z !>![G,CEG] !>![A,CEA] | z !>![G,CEG] !>![A,CEA] | z !>![G,CEG] !>![A,CEA] | %5
+ z !>![G,CEG] !>![A,CEA] | %6
+[I:staff +1] .[GB]/[I:staff -1].[eb]/[I:staff +1].[GB]/[I:staff -1][eb]/[I:staff +1] (!>![ce]/[I:staff -1][gc'e']/) | %7
+[I:staff +1] .[GB]/[I:staff -1].[eb]/[I:staff +1].[GB]/[I:staff -1].[eb]/[I:staff +1] (!>!.[ce]/[I:staff -1][gc'e']/) | %8
+[I:staff +1] .[GB]/[I:staff -1].[eb]/[I:staff +1].[GB]/[I:staff -1].[eb]/[I:staff +1] .[GB]/[I:staff -1].[eb]/ | %9
+[I:staff +1] (6:4:6(C/4E/4c/4[I:staff -1]e/4b/4e'/4 a) !fermata!z :| %10
+!ff! z !>![G,CEG] !arpeggio![EAc] | z"_dim." [G,CEG] !arpeggio![EAc] | z [EGe] !arpeggio![Aea] | %13
+ z [EGe] !arpeggio![Aea] |!p! z [cac'] !arpeggio![fc'f'] | z ([fc'] [gb] | [ea]) z!mf! z | %17
+[I:staff +1] .[ce]/"^accel."[I:staff -1].[ae']/[I:staff +1].[ce]/[I:staff -1].[ae']/[I:staff +1] (!>![fa]/[I:staff -1][c'f'a']/) | %18
+[I:staff +1] .[ce]/[I:staff -1][ae']/[I:staff +1].[ce]/[I:staff -1][ae']/[I:staff +1] (!>![fa]/[I:staff -1][c'f'a']/) | %19
+!<(![I:staff +1] .[G=e]/"_cresc."[I:staff -1].[gc'g']/[I:staff +1].[Ge]/!<)![I:staff -1].[gc'g']/[I:staff +1] .[Ge]/[I:staff -1].[gc'g']/ | %20
+[I:staff +1] .[G=e]/!<(![I:staff -1].[gc'g']/[I:staff +1].[Ge]/[I:staff -1].[gc'g']/[I:staff +1] .[Ge]/!<)![I:staff -1].[gc'g']/ | %21
+ [g=bg'] z z |!p! z [c=egc'] z |!p! z !fermata![=E,C]2 |] %24
+V:6
+ !>![C,,C,]2 !>![A,,,A,,] | !>![C,,C,]2 !>!!fermata![A,,,A,,] |: !>![C,,C,]2 !>![A,,,A,,] | %3
+ !>![C,,C,]2 !>![A,,,A,,] | !>![C,,C,]2 !>![A,,,A,,] | !>![C,,C,]2 !>![A,,,A,,] |[K:treble] x3 | %7
+ x3 | x3 | x a' !fermata!z :|[K:bass] [C,,C,]2 !arpeggio![E,A,C] | [C,,C,]2 !arpeggio![E,A,C] | %12
+ (C,/G,/ C) !arpeggio![CE] | (C,/G,/ C) !arpeggio![CE] | (A,/E/ .A)[K:treble] !arpeggio![Ac] | %15
+!pp! z"^rit." (e _d | c) z z | x3 | x3 | x3 | x3 | [Gf] z z |[K:bass]!ped! ([C,,C,] .[G,C=EG]) z | %23
+ z !fermata![C,,G,,]2!ped-up! |] %24
+V:7
+ x3 | x3 |: x3 | x3 | x3 | x3 |[K:treble] x3 | x3 | x3 | x3 :|[K:bass] x3 | x3 | x3 | x3 | %14
+ x2[K:treble] x | (E3 | A) x2 | x3 | x3 | x3 | x3 | x3 |[K:bass] x3 | x3 |] %24

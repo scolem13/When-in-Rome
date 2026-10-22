@@ -1,0 +1,85 @@
+X:1
+T:4 Songs, Op.46
+T:Je pense à toi!
+C:Laura Netzel (originally published as “Lago”)
+Z:Jules Barbier
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=110
+M:4/4
+I:linebreak $
+K:B
+V:1 treble nm="Chant\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+L:1/16
+V:1
+"^Agitato" z!p! F F F F2 z F- | F F2 F F3 F | F4- F F G A |!>(! B2!>)! D E F2"^dim." F3/2 C/ | %4
+w: Je pense à toi dès|_ que le jour se|lève, _ Dès que la|nuit vient te rendre à mon|
+ D2- D z z D D G | G2 z G =A A A3/2 B/ | =A G G d d2 d ^e |!<(! f2 c3/2!<)! d/ c c c B | %8
+w: rêve, _ Ab- sent de|toi, mais non pas sé- pa-|ré, A mon cer- veau de ta|grâce en- i- vré Mon- te l’a-|
+ ^A!<(! A B c d3/2 d/ ^e!<)! f |!>(! g3/2!>)! f/"^dim." f2- f z z!p! F | F3 F F F2 F | %11
+w: mour, mon- te l’a- mour, ain- si qu’aux|fleurs la sève! _ Le|flot te nomme en mou-|
+ F2 F F G3 d | =d2!<(! d3/2 c/ c3 c!<)! | c2!>(! c2 c3 C | C4!>)! C!p! C C C | C3 C =D2!<(! =d2 | %16
+w: rant sur la grê- ve|Si quel- que joie à|mes en- nuis fait|trê- ve, Si la dou-|leur é- treint mon|
+ =d3 d e2 z ^e!<)! |!f! f4- f F F2 | z4 z!pp! F F3/2 F/ | F2- F z z4 | z4 z!p! F F F | %21
+w: cœur nav- ré, Je|pense _ à toi.|Je pense à|toi. _|Et quand la|
+ (B3 =d c B F =D) | =G4 G z z B | B3 =d (c B2) F | ^E4- E z B2 |!<(! =A A f4 e f | %26
+w: mort du tran- chant de son|glai- ve, Au-|ra tran- ché * ma|vie, _ ou|pleine ou brê- ve Sous|
+ =d3!<)! d c2 B2 | B"^dim." B ^A G F2 z2 | z4 z!p! F F3/2 F/ | F2- F z z2 F2- | F3 F F2 F F | %31
+w: cet- te pierre où|je re- po- se- rai,|En- tends ce|mot _ va-|* gue- ment mur- mu-|
+ F2 z2 z F G A | (B3 D F F F3/2 C/) | D4 D z B2 |!>(! e3 ^^c!>)! d2 (B>G) | F4- F z z F | %36
+w: ré Comme un é-|cho loin- tain que rien n’a-|chè- ve, Comme|un é- cho loin- *|tain _ que|
+ B3 B B2 B z | z2!>(! F2 F3 F!>)! | F2- F z z4 | z4 z!p! F F F | d8- |!pp! d z z2 z4 |] %42
+w: rien n’a- ché- ve:|Je pense à|toi! *|Je pense à|toi!|_|
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 d3/2 D/ B A | A3/2 G/ F2- F z x2 | x8 | x8 | x8 | x8 | %14
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %33
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %42
+V:3
+!p! x8 | x8 | x8 | x8 |!p! x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+[I:staff +1] F,,/^D/[I:staff -1]^F/[B^df]/!<(! [Bdf]/F/ .^D/ [dfb]/[dfb]/B/ .F/ [fbd']/[fbd']/d/ .B/ [bd'f']/!<)! | %18
+ [bd'f']/ z/ z!p! [B,C] z z2 [A,C] z | %19
+ z/ [DF]/[DF]/B,/[I:staff +1] .B,/[I:staff -1] [FB]/[FB]/D/ .D/ [Bd]/[Bd]/F/ .F/ [df]/[df]/B/ | %20
+!p! z2 [B,DF]4 [DF]2 | x8 | x8 | x8 | x8 | x8 | x8 | [B,DF] z z2 z2!p! ([A,^B,]/F/F/C/) | %28
+ ([A,C]/F/F/^^C/) z2 z4 | z8 | z8 | x8 | x8 | x8 | x8 | x8 | x8 | %37
+[I:staff +1] [F,B,][I:staff -1] x x2 x4 | z4 z2"_dim." [B,=DF] z | z2 [B,CF] z z2 [A,CF] z | %40
+!p! z/ [^DF]/[DF]/B,/ [FB]/ z/ [DF]/ z/ .[Bd] z .[df] z |!pp! .[bd'f'] z z2 z4 |] %42
+V:4
+ (B,,F,[I:staff -1]D).F .F(D[I:staff +1]B,F,) (B,,G,[I:staff -1]D).F .F(D[I:staff +1]B,G,) | %1
+ (B,,=A,[I:staff -1]D).F .FE"^*"[I:staff +1](=CA,) (B,,^A,[I:staff -1]E).F .F(E[I:staff +1]^CF,) | %2
+ (B,,F,[I:staff -1]D).F .F(D[I:staff +1]B,F,) (^A,,F,[I:staff -1]D).F .F(D[I:staff +1]A,F,) | %3
+ (G,,F,[I:staff -1]D).F .FD[I:staff +1](B,F,) (A,,F,[I:staff -1]E).F .F(E[I:staff +1]CF,) | %4
+ (B,,F,[I:staff -1]D).F .F(D[I:staff +1]B,F,) (B,,F,G,)[I:staff -1].F .F[I:staff +1](G,F,G,) | %5
+ (^B,,F,G,)[I:staff -1].F .F[I:staff +1](G,F,B,,) (C,F,F,)[I:staff -1].F .F[I:staff +1](F,F,C,) | %6
+"_* E changed from D# in accordance with the manuscript." (^B,,F,G,)[I:staff -1].F .F[I:staff +1](G,F,B,,) (G,,F,G,)[I:staff -1].F .F(^B,[I:staff +1]G,G,,) | %7
+ (C,A,[I:staff -1]C).F .FC[I:staff +1](A,C,) (C,^E,[I:staff -1]=B,).G .G(B,[I:staff +1]E,C,) | %8
+ (C,C[I:staff -1]E).^^F .FE[I:staff +1](A,C,) (C,B,[I:staff -1]D).G[I:staff +1] (C,F,[I:staff -1]D).G | %9
+[I:staff +1] (C,^E,[I:staff -1]B,)C[I:staff +1] (F,,C,[I:staff -1]A,)C C^F[I:staff +1]A,C"^*" =E,F,A,C | %10
+ (=D,F,[I:staff -1]=A,).=D .DA,[I:staff +1](F,D,) (C,F,[I:staff -1]^A,).[EF] .[EF]A,[I:staff +1](F,C,) | %11
+ (^B,,F,[I:staff -1]=A,).[^DF] .[DF]A,[I:staff +1](F,B,,) (B,,F,[I:staff -1]G,).[DF] .[DF]G,[I:staff +1](F,B,,) | %12
+ (=B,,F,[I:staff -1]G,).[=DF] .[DF]G,[I:staff +1](F,B,,) (A,,F,[I:staff -1]C).[Fc] .[Fc]C[I:staff +1](A,F,) | %13
+ (A,,F,[I:staff -1]C).[Fc][I:staff +1] (A,,E,[I:staff -1]C)[=Gc][I:staff +1] (=A,,E,[I:staff -1]C).[=Ac] .[Ac]C[I:staff +1](A,E,) | %14
+"_* Natural entered in accordance with the manuscript." (G,,^E,[I:staff -1]C).[Gc] .[Gc]C[I:staff +1](B,E,) (G,,E,[I:staff -1]C).[^Ec][I:staff +1] (^^F,,=E,[I:staff -1]C).[=Ec] | %15
+[I:staff +1] (G,,^E,[I:staff -1]C).[Gc] .[Gc]C[I:staff +1](B,E,) (G,,E,[I:staff -1]=D).[B=d] .[Bd]D[I:staff +1](B,E,) | %16
+ =G,,=D,[I:staff -1]=D[B=d] [Bd]D[I:staff +1]B,D, G,,C[I:staff -1]E[Bd][I:staff +1] G,,B,[I:staff -1]^E[Bd] | %17
+[I:staff +1] x16 | z4 F,2 z2 z4 [F,,E,]2 z2 | .[B,,D,] x x2 x4 x8 | z8 z4 A,4 | %21
+ (G,B,[I:staff -1]=D).F .F(D[I:staff +1]B,G,) (F,B,[I:staff -1]D).F .F(D[I:staff +1]B,G,) | %22
+ (^E,B,[I:staff -1]=D).=G .G(D[I:staff +1]B,E,) (B,=D[I:staff -1]G).B (DGB).=d | %23
+[I:staff +1] (F,B,[I:staff -1]D).F .[DF]B,[I:staff +1](B,F,) (F,,=D,F,B,) (F,G,B,=D) | %24
+ (G,,=D,^E,).B, .B,(E,D,G,,) (B,,E,[I:staff -1]G,).=D .D(G,[I:staff +1]E,G,,) | %25
+"_* C# changed from B in accordance with the manuscript." (=A,,F,[I:staff -1]=A,).=D .D(A,[I:staff +1]F,A,,) (^A,,=E,[I:staff -1]=G,).C .C(G,[I:staff +1]E,A,,) | %26
+ (B,,=D,[I:staff -1]=G,)!<(!.=D .D(G,[I:staff +1]D,B,,) (=G,B,[I:staff -1]D).E .[D^E]!<)!(B,[I:staff +1]B,G,) | %27
+ F,2 z2 z4 z4 [F,,^D,]2"^*" z2 | [F,,E,]2 z2 z4 z8 | %29
+!pp! (B,,F,[I:staff -1]D).F .F(D[I:staff +1]B,F,) (B,,G,[I:staff -1]D).F .F(D[I:staff +1]B,G,) | %30
+ (B,,=A,[I:staff -1]D).F .FE[I:staff +1](=CA,) (B,,^A,[I:staff -1]E).F .F(E[I:staff +1]^CF,) | %31
+ (B,,F,[I:staff -1]D).F .F(D[I:staff +1]B,F,) (A,,F,[I:staff -1]D).F .F(D[I:staff +1]A,F,) | %32
+ (G,,F,[I:staff -1]D).F .FD[I:staff +1](B,F,) (A,,F,[I:staff -1]E).F .F(E[I:staff +1]CF,) | %33
+ (B,,F,[I:staff -1]D).F .F(D[I:staff +1]F,B,,) (B,,=A,[I:staff -1]B,).[DF] .[DF](B,[I:staff +1]A,B,,) | %34
+ (B,,G,[I:staff -1]B,)E[I:staff +1] (B,,^^F,[I:staff -1]B,)=D[I:staff +1] (B,,^F,[I:staff -1]B,).^D .D(B,[I:staff +1]G,B,,) | %35
+ (B,,^A,[I:staff -1]C).[EF] .[EF]C[I:staff +1](A,F,) (B,,=A,[I:staff -1]=C).[DF] .[DF]C[I:staff +1](A,F,) | %36
+ (B,,G,[I:staff -1]B,).E .E(B,[I:staff +1]^^F,B,,) (B,,^F,[I:staff -1]B,).D .D(B,[I:staff +1]F,G,,) | %37
+ [F,,D,]2 z2 z4 z8 | z8 z4 [F,,F,]2 z2 | z4 [F,,F,]2 z2 z4"^rit." [F,,E,]2 z2 | %40
+ [B,,,B,,F,]8- [B,,,B,,F,]2 z2 z4 | z16 |] %42

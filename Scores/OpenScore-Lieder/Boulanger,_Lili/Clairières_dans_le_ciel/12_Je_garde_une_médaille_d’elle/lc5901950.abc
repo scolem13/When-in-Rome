@@ -1,0 +1,69 @@
+X:1
+T:Clairières dans le ciel
+T:Je garde une médaille d'elle
+C:Lili Boulanger
+Z:Francis Jammes
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 6 ) }
+L:1/4
+Q:1/4=71
+M:4/4
+I:linebreak $
+K:F
+U:s=!stemless!
+V:1 treble nm="Chant\nVoice"
+L:1/16
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:6 bass 
+V:1
+"^Assez lent et bien mesuré" z2!p!"^avec gravité" d2 e2 e z (3f2 f2 !tenuto!f2 e3 e | %1
+w: Je gar- de u- ne mé- dail- le|
+ d8- d2 !tenuto!d2 !tenuto!e2 !tenuto!c2 | %2
+w: d'elle _ où sont gra-|
+ !tenuto!A4-!<(! A z A A !>!c4- c z !tenuto!c !tenuto!c!<)! |!f! !>!f8- f4 z3!p! e | %4
+w: vés _ u- ne da- te et les|mots: _ pri-|
+!<(! d4- d2 z2 e4- e z e d!<)! |!f! g16 | %6
+w: er, _ croi- re, es- pé-|rer.|
+!p! z2"^las" !tenuto!d2-!<(! d z"^poco" !tenuto!e2- e z f2!<)!!>(! g3 g | %7
+w: Mais _ moi, _ je vois sur-|
+ d6!>)! (e2 f2!<(! f2 g3 g!<)! |!>(! !>!=g12!>)! e4) |!p! z2 c c d4 z2 d d e4 | %10
+w: \- tout que la mé- daille est|som- bre:|Son ar- gent a noir- ci|
+"^avec tendresse\n" z4 (f2!<(! !tenuto!d2!<)! =g4!>(! f2 !tenuto!e2!>)! | e12 d4- | d2) z2 z4 z8 | %13
+w: sur son col de co-|\- lom- be|_|
+ z16 | z16 |] %15
+w: ||
+V:2
+ !tenuto![DAd]!<(! !tenuto![EG=Be]!<)! !tenuto![D_Acf]!>(! !tenuto![EGBe]!>)! | %1
+ !tenuto![DF=Ad] !tenuto![EG=Be] !tenuto![D_Acf] !tenuto![EGBe] | %2
+ !tenuto![D=Ad]2 !tenuto![EG=Be]2 | !tenuto![D_Acf]4 | %4
+ z/!mf!!<(! !>![D=Ad]3/2 z/ !>![D_Acd]3/2!<)! | z/!f!!<(! !>!d/4>!>![dgd']/4-!<)! [dgd']3 | %6
+[K:bass]!p! (!tenuto![D,_A,CD]!<(! !tenuto![D,E,^G,=B,E] !tenuto![F,_C_EF]!<)!!>(! !tenuto![F,=G,B,DG])!>)! | %7
+!<(! (!tenuto![D,_A,CD] !tenuto![D,E,^G,=B,E] !tenuto![F,_C_EF] !tenuto![F,=G,B,DG])!<)! | %8
+[K:treble]!f! !>![D^Gd]4- | [D^Gd]4- | [D^Gd]4- | [D^Gd]3 z | %12
+!pp! (!tenuto![dad'] !tenuto![eg=be'] !tenuto![d_ac'f'] !tenuto![egbe']) | %13
+ (!tenuto![d=ad'] !tenuto![eg=be'] !tenuto![d_ac'f'] !tenuto![egbe']) | [dad']/ z/ z z2 |] %15
+V:3
+ !tenuto![D,A,] !tenuto![C,G,=B,] !tenuto![_B,,F,_A,C] !tenuto![C,G,B,] | %1
+ !tenuto![D,=A,] !tenuto![C,G,=B,] !tenuto![_B,,F,_A,C] !tenuto![C,G,B,] | [D,=A,]2 [C,G,=B,]2 | %3
+ !tenuto![_B,,F,_A,C]4 | z/ !>![D,=A,]3/2 z/ !>![D,_A,C]3/2 | z/ !>![D,F,G,=B,]/- [D,F,G,B,]3 | %6
+ (!tenuto![F,,C,] !tenuto![E,,=B,,]"^poco" !tenuto![_A,,_E,] !tenuto![G,,D,]) | %7
+ (!tenuto![F,,C,] !tenuto![E,,=B,,] !tenuto![_A,,_E,] !tenuto![G,,D,])!8vb(!!8vb)! | %8
+ !>![B,,=E,B,]4- | [B,,E,B,]4- | [B,,E,B,]4- | [B,,E,B,]3 z | %12
+ (!tenuto![D,,A,,D,] !tenuto![C,,G,,C,] !tenuto![_B,,,_A,,C,] !tenuto![C,,G,,C,]) | %13
+ (!tenuto![D,,=A,,D,] !tenuto![C,,G,,C,] !tenuto![_B,,,_A,,C,] !tenuto![C,,G,,C,]) | %14
+ [D,,=A,,D,]/ z/ z .D,,,/ z/ z |] %15
+V:4
+ x4 | x4 | x!<(! x x x!<)! | x4 | x4 | z/ [DFG=B]/- [DFGB]3 |[K:bass] x4 | x4 |[K:treble] x4 | x4 | %10
+ x4 | x4 | x4 | x4 | x4 |] %15
+V:5
+ x4 | x4 | x4 | z!mf!!>(! [D,,,D,,]2!>)!!p! [D,,,D,,]/ z/ | x4 | %5
+ z !>![D,,,D,,]/ !>![D,,,D,,] !>![D,,,D,,] !>![D,,,D,,]/ | %6
+ z/ (.[D,,,D,,] .[D,,,D,,] .[D,,,D,,] .[D,,,D,,]/) | %7
+ z/ (.[D,,,D,,] .[D,,,D,,] .[D,,,D,,] .[D,,,D,,]/)!8vb(!!8vb)! | x4 | x4 | x4 | x4 | x4 | x4 | %14
+ x4 |] %15
+V:6
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x31/8!8vb(!{/B,,,,} sB,,,,/8!8vb)! | x4 | x4 | x4 | x4 | x4 | %13
+ x4 | x4 |] %15

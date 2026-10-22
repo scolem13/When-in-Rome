@@ -1,0 +1,31 @@
+X:1
+T:Ach lieben Christen, seid getrost
+T:Ach lieben Christen, seid getrost
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ c | c A/B/ c/d/ e | d/ e/4f/4 d !fermata!c c | B A/B/ c d/c/ | B2 !fermata!A x :: d x3 | %6
+ e e B/c/ d | c c !fermata!B c | d A/B/ c B | A/4B/4c/ A !fermata!G c | B A/B/ c d/c/ | %11
+ B2 !fermata!A x || %12
+V:2
+ E/F/ | G F G G | A G/F/ !fermata!E ^F | G =F E A- | A ^G !fermata!E x :: =G x3 | G G D/E/ F | %7
+ E A !fermata!^G A | A/=G/ ^F E D/G/ | G/E/ ^F !fermata!D E | D/E/ ^F/=F/ E A- | %11
+ A ^G !fermata!E x || %12
+V:3
+ c | c c c c | c B !fermata!G A | d d c/B/ A | f e/d/ !fermata!^c x :: B x3 | c G/A/ B A/B/ | %7
+ c/d/ e !fermata!e e | A d G/A/ B/d/ | e d/c/ !fermata!B G/A/ | B/c/ d c/B/A/c/ | %11
+ f/d/ B/e/ !fermata!^c x || %12
+V:4
+ A,2 | E,2 F,2 E,D, C,2 | F,2 G,2 !fermata!C,2 A,2 | G,2 D2 A,G, F,E, | D,2 E,2 !fermata!A,,2 x2 :: %5
+ G,,2 x6 | C,D, E,F, G,2 F,2 | A,,B,,C,D, !fermata!E,2 A,=G, | ^F,E, D,2 E,F, G,2 | %9
+ C,2 D,2 !fermata!G,,2 E,^F, | G,2 ^F,^G, A,=G,=F,E, | D,B,, E,2 !fermata!A,,2 x2 || %12

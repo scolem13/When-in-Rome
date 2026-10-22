@@ -1,0 +1,34 @@
+% Adeste Fideles (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1220
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Adeste Fideles (hymntune)
+C:John Francis Wade (1711-1786), circa 1743
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:G
+V:1 bass nm="lower"
+V:2 bass 
+L:1/8
+V:3 treble nm="upper"
+V:4 treble 
+V:1
+ x3 [G,B,] | [G,B,]2 B, [G,B,] | [F,A,]2 [F,A,]- [F,A,] | G, [F,A,] G, [C,G,] | %4
+ [D,G,]2 [D,F,] [E,G,] | [E,G,]2 [D,A,] [A,,A,] | [D,A,] [B,,G,] [F,,F,] [G,,E,] | %7
+ [A,,A,]2 [A,,G,]- [A,,G,]/[D,F,]/ | [D,F,]3- [D,F,] | B,2 [A,C] [G,D] | [A,C]2 [G,D]- [G,D] | %11
+ [F,A,] G, [E,B,] [C,C] | D,2 [D,F,] z | z4 | z3 G, | G, F, G, A, | G,2 F, [G,D] | %17
+ [A,C] [G,D] [F,A,] [E,A,] | D, C, [B,,G,] [C,G,] | [D,G,]2 [D,F,]- [D,F,]/[G,,G,]/ | [G,,G,]3 x |] %21
+V:2
+ x2 x6 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | A,3 G, z4 | z8 | z8 | z8 | z8 | %17
+ z8 | A,4 z4 | z8 | z6 x2 |] %21
+V:3
+ x3 [DG] | [DG]2 D [DG] | [DA]2 D- D | [DB] [DA] [DB] [Ec] | [DB]2 [DA] [B,G] | B, ^C [DF] [CE] | %6
+ D2 [DA] [DB] | [DF]2 [^CE]- [CE]/D/ | D3- D | [Dd]2 E/F/ [GB] | G F [GB]- z | %11
+ [GB] [DA] [DB] [EG] | [EA] D2 D | B B A B | c B2 A | [DB] [DB] [DA] [DB] | [Dc] [DB]2 [DA] | %17
+ [GB] E/F/ [GB] [DA] | D/^C/ [DF]2 [DG] | [E=c] [DB]2 [DA]- | [DA]/[B,G]/ [B,G]3 |] %21
+V:4
+ x x3 | z4 | z4 | z4 | z4 | G2 z2 | F G z2 | z4 | z4 | z2 c z | c2 z2 | z4 | z F3/2 E/ z | z4 | %14
+ z4 | z4 | z4 | z c z2 | G z3 | z4 | z4 |] %21

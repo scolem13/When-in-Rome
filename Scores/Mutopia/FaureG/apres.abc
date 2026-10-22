@@ -1,0 +1,61 @@
+% Après un Rêve: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=368
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Après un Rêve
+C:Gabriel Fauré
+%%score 1 2 3
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Cmin
+V:1 treble nm="uniqueContext0"
+V:2 treble 
+V:3 bass 
+L:1/4
+V:1
+ z6 | G2 c2 d2 | (3:2:6e4 dc edc | c4 B2 | _dF d2 c=B | c3 c _B>A | (3:2:6G4 AB ABc | G6 | %8
+ G2 (3:2:4E2 F G2 A | (3:2:6B4 FF F=EF | A4 G2 | c2 c3 =B | _B2 E2 E2 | (3:2:6F4 _GA GAB | B4 E2 | %15
+ z6 | G2 c2 d2 | (3:2:6e4 dc edc | c4 B2 | _dF d2 c=B | c3 c _BA | (3:2:6G4 AB ABc | G6 | %23
+ G2 (3:2:4E2 F G2 A | B3 F (3F=EF | A2 G2 C2 | (3:2:6_D4 EF EFG | G2 C2 =E2 | %28
+ (3:2:5F2 F FGA (3BAB | c2 C2 c2 | f4 F2 | F2 (3FG=A (3Bc_d | (3:2:6_d4 ce dcB | _d4 B>B | e4 _d2 | %35
+ (3:2:6_d4 cB AGF | (3:2:6G4 AG FGA | G4 G2 | c4 c2 | c4 c>d | e6 | d4 d2 | d4 c2 | B3 G EF | %44
+ (3:2:6G4 FE FGA | G6 | C6 |] %47
+V:2
+ [CEG][CEG] [CEG][CEG] [CEG][CEG] | [CEG][CEG] [CEG][CEG] [B,DEG][B,DEG] | %2
+ [=A,CEG][A,CEG] [A,CEG][A,CEG] [A,CEF][A,CEF] | [_A,CDF][A,CDF] [A,CDF][A,CDF] [A,B,DF][A,B,DF] | %4
+ [A,_DF][A,DF] [A,DF][A,DF] [G,D=E][G,DE] | [A,C=E][A,CE] [A,CE][A,CE] [A,CF][A,CF] | %6
+ [F,G,=B,D][F,G,B,D] [F,G,B,D][F,G,B,D] [F,A,CD][F,A,CD] | %7
+ [F,G,=B,D][F,G,B,D] [F,G,B,D][F,G,B,D] [F,G,B,D][F,G,B,D] | %8
+ [G,CE][G,CE] [G,CE][G,CE] [G,CE][G,CE] | [F,B,F][F,B,F] [F,B,F][F,B,F] [F,B,F][F,B,F] | %10
+ [A,_DF][A,DF] [A,DF][A,DF] [G,D=E][G,DE] | [F,CF][F,CF] [F,C_E][F,CE] [F,C=D][F,=B,D] | %12
+ [E,_B,E][E,B,E] [E,B,E][E,B,E] [G,CE][G,CE] | [A,EF][A,EF] [A,EF][A,EF] [A,DF][A,DF] | %14
+ [G,B,EG][G,B,EG] [G,B,EG][G,B,EG] [G,B,EG][G,B,EG] | %15
+ [G,=B,EG][G,B,EG] [G,B,EG][G,B,EG] [F,B,DG][F,B,DG] | [E,CG][CEG] [CEG][CEG] [_B,DEG][B,DEG] | %17
+ [=A,CEG][A,CEG] [A,CEG][A,CEG] [A,CEF][A,CEF] | [_A,CDF][A,CDF] [A,CDF][A,CDF] [A,B,DF][A,B,DF] | %19
+ [A,_DF][A,DF] [A,DF][A,DF] [G,D=E][G,DE] | [A,C=E][A,CE] [A,CE][A,CE] [A,CF][A,CF] | %21
+ [F,G,=B,D][F,G,B,D] [F,G,B,D][F,G,B,D] [F,A,CD][F,A,CD] | %22
+ [F,G,=B,D][F,G,B,D] [F,G,B,D][F,G,B,D] [F,G,B,D][F,G,B,D] | %23
+ [G,CE][G,CE] [G,CE][G,CE] [G,CE][G,CE] | [F,B,F][F,B,F] [F,B,F][F,B,F] [F,B,F][F,B,F] | %25
+ [A,C][A,C] [G,B,C][G,B,C] [G,B,C][G,B,C] | [F,A,_D][F,A,D] [F,A,D][F,A,C] [F,G,C][F,G,=B,] | %27
+ [=E,G,C][E,G,C] [E,G,C][E,G,C] [E,G,C][E,G,C] | [F,C_D][F,CD] [F,CD][F,CD] [A,C=D][A,CD] | %29
+ [G,C=E][G,CE] [G,CE][G,CE] [G,CE][G,CE] | [F,C_EF][F,CEF] [F,CEF][F,CEF] [EFc][EFc] | %31
+ [EFc][EFc] [_DFB][DFB] [CFA][CFA] | [B,_DFG][B,DFG] [B,DFG][B,DFG] [B,DFA][B,DFA] | %33
+ [B,_DEG][B,DEG] [EG][EG] [DEG][DEG] | [CEG][CEG] [B,EG][B,EG] [A,B,_DF][A,B,DF] | %35
+ [G,B,_DF][G,B,DF] [G,B,D=E][G,B,DE] [A,CF][A,CF] | [G,=DF][G,DF] [G,DF][G,DF] [A,DF][A,DF] | %37
+ [G,DF][G,DF] [G,=B,E][G,B,E] [G,B,D][G,B,D] | [G,C][G,C] [F,CD][F,CD] [_B,C=E][B,CE] | %39
+ [A,CF][A,CF] [CG][CG] [C_G=A][CGA] | [B,EB][B,EB] [EFc][EFc] [CEF][CEF] | %41
+ [DFA][DFA] [DFG][DFG] [A,DF][A,DF] | [A,DF][A,DF] [G,DF][G,DF] [G,CE][G,CE] | %43
+ [G,B,E][G,B,E] [G,B,E][G,B,E] [G,B,E][G,B,E] | %44
+ [F,G,=B,E][F,G,B,E] [F,G,B,D][F,G,B,D] [E,G,C][E,G,C] | %45
+ [D,G,C][D,G,C] [D,G,=B,][D,G,B,] [D,F,G,B,][D,F,G,B,] | %46
+ [E,G,C][E,G,C] [E,G,C][E,G,C] [E,G,C][E,G,C] | [E,G,C]4 z2 |] %48
+V:3
+ z3 | z3 | [F,,,F,,]3 | [B,,,B,,]3 | [E,,,E,,]3 | [A,,,A,,]2 [D,,,D,,] | [G,,,G,,]3- | [G,,,G,,]3 | %8
+ [C,,C,]3 | [_D,,_D,]3 | [B,,,B,,]3 | [A,,,A,,]3 | [G,,,G,,]2 [C,,C,] | [=B,,,=B,,] [_B,,,_B,,]2 | %14
+ [E,,,E,,]3 | [G,,,G,,]3 | [C,,C,]3 | [F,,,F,,]3 | [B,,,B,,]3 | [E,,,E,,]3 | [A,,,A,,]2 [D,,,D,,] | %21
+ [G,,,G,,]3- | [G,,,G,,]3 | [C,,C,]3 | [_D,,_D,]3 | =E,,3 | F,,2 G,, | C,,3 | %28
+ [A,,,A,,]2 [F,,,F,,] | [C,,C,]2 [B,,,B,,] | [=A,,,=A,,]3 | [B,,,B,,]3 | [E,,E,]3- | [E,,E,] z2 | %34
+ z3 | z C, F,, | =B,,2 C, | =B,, G,, F,, | E,, A,, G,, | F,, E,, D,, | G,, =A,,2 | B,, =B,,2 | %42
+ C,2 C,, | E,,2 [G,,,G,,]- | [G,,,G,,]3- | [G,,,G,,]3 | [C,,,C,,]2 [C,,,C,,] | [C,,,C,,]2 z |] %48

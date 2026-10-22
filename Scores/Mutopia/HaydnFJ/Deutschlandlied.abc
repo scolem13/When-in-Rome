@@ -1,0 +1,39 @@
+% Das Lied der Deutschen: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=638
+% Licence: Creative Commons Attribution 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Das Lied der Deutschen
+C:Joseph Haydn (1732–1809), 1797
+%%score ( 1 2 ) ( 3 4 5 )
+L:1/8
+Q:1/4=76
+M:4/4
+I:linebreak $
+K:G
+V:1 bass nm="men:Tenor" snm="V"
+L:1/4
+V:2 bass 
+V:3 treble nm="women:Sopran" snm="V"
+V:4 treble 
+V:5 treble 
+L:1/4
+V:1
+ x2 [B,G,]3/2 [DD,]/ | [DG,] [DD,] [DF,] [DG,] | [CD,] [B,G,,] C [DB,] | D [DG,] [EC,] [E^C,] | %4
+ [A,D,]2 [B,G,]3/2 [DD,]/ | [DG,] [DD,] [DF,] [DG,] | [CD,] [B,G,,] C [DB,] | %7
+ D [DG,] [EC,] [E^C,] | [A,D,]2 [F,D,] G, | F,/A,/ [F,D,] [DF,] [DG,] | D/A,/ [F,D,] [B,B,,] A, | %11
+ G,/B,/ B,/[EE,]/ E3/2 A,/ | [A,D,]2 [DB,]3/2 [DB,]/ | C [B,G,] [CC,]3/2 [B,G,]/ | %14
+ [DF,] [DG,] [DD,] [DC,] | [DB,,] E/C/ [B,D,] [CD,] | [B,G,,]2 x2 |] %17
+V:2
+ x4 x4 | z8 | z8 | A,F, z6 | z8 | z8 | z8 | A,F, z6 | z8 | D,2 z6 | D,2 z4 C,D, | E,3 z A,2 A,,2 | %12
+ z8 | z8 | z8 | z2 C,2 z4 | z4 x4 |] %17
+V:3
+ x4 [GD]3 [AF] | [BG]2 [AF]2 [cA]2 [BG]2 | [AF][FD] [GD]2 [eG]2 [dG]2 | c2 [BG]2 A2 [BG]G | %4
+ [dF]4 [GD]3 [AF] | [BG]2 [AF]2 [cA]2 [BG]2 | [AF][FD] [GD]2 [eG]2 [dG]2 | c2 [BG]2 A2 [BG]G | %8
+ [dF]4 [AD]2 [BD]2 | AF D2 [cA]2 [BG]2 | [AF][FD] D2 [dD]2 c2 | [BG]3 [BG] [^cG]2 [cG][dF] | %12
+ [dF]4 [gG]3 [fG] | fe [dG]2 [eG]3 [dG] | dc [BG]2 [AF]3 [BG]/[cA]/ | de c[AE] [GD]2 B/ z/ G | %16
+ [GD]4 x4 |] %17
+V:4
+ x4 x4 | z8 | z8 | FA z6 | z8 | z8 | z8 | FA z6 | z8 | D2 z6 | z6 EF | z8 | z8 | G2 z6 | A2 z6 | %15
+ G3 z3 A z | z4 x4 |] %17
+V:5
+ x2 x2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z3 F | z2 x2 |] %17

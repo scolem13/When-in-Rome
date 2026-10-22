@@ -1,0 +1,28 @@
+% Dymuniad: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1032
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Dymuniad
+C:Robert H. Williams (1805-1876)
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 bass nm="tb" snm="Tba"
+V:2 bass 
+V:3 treble nm="sa"
+V:4 treble 
+V:1
+ x3 [B,G,] | [DG,] [CD,] [B,G,,] [G,B,,] | [DA,,] [DG,,] [DD,] [_G,D,] | =G, [A,F,] B,/A,/ [G,C,] | %4
+ G, _G, [=G,=G,,] [_G,D,] | =G, G, [A,F,] A, | [B,D,] [B,B,,] [A,F,] [A,D,] | %7
+ G, [_G,D,] [=G,E,] [G,C,] | G, _G, [=G,=G,,] [E,C,]- | [E,C,] [D,G,,]2 x |] %10
+V:2
+ x x3 | z4 | z4 | z2 B,, z | D,2 z2 | z3 F,/E,/ | z4 | z4 | D,2 z2 | z3 x |] %10
+V:3
+ x3 [GD] | [BD] [A_G] =G [dG] | [c_G] [B=G] [A_G] [AD] | [BD] [cF] [dF] [cE]/[BD]/ | %4
+ A2 [GB,] [AD] | [BD] [BD] [cF] [cF] | [dF] [dF] [cF] [d_G] | [BD] [AD] [=GB,] c/B/ | %8
+ A2 [GB,] [GC]- | [GC] [G=B,]2 x |] %10
+V:4
+ x x3 | z4 | z4 | z4 | D C z2 | z4 | z4 | z3 E | E D/C/ z2 | z3 x |] %10

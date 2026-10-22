@@ -1,0 +1,50 @@
+% Sinfonia 15: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=145
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sinfonia 15
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=60
+M:9/16
+I:linebreak $
+K:Bmin
+V:1 treble nm="up"
+V:2 treble 
+V:3 bass nm="down"
+V:4 bass 
+V:1
+ BFF GFF BFF | cFF GFF cFF | [dB][df][bf] [df][dB][dB] [FB][FD][FD] | B, z3 Bc dcB | ^A4 Bc BcA | %5
+ [BF][Bd][fd] [Bd][BF][BF] [DF][DB,][DB,] | d8- d- | [d^G-] ^G7- G | c8- c- | [cF-] F7- F | %10
+ [BGd][BG][BG] E3 [eg][ec][ec] | [Ac][AF][AF] D3 [df][dB][dB] | [GB][GE][GE] [CE][CA,][CA,] AFG | %13
+ F3 B,A,A, DA,A, | EA,A, B,A,A, EA,A, | [FD][FA][dB] [^GB][GE][GE] [B,E]B, z | AEE FEE AEE | %17
+ BEE FEE BEE | [cA][ce][af] [^df][dB][d=CB] [FB,B][FC^D][FA,D] | E3 =CB,B, G3- | [G^C-] ^C7- C- | %21
+ [CF-] F7- F- | [FB,-] B,7- B,- | B, E8- E- | ECC DCC FCC | [DB,][DF][DF] [BF][Bd][Bd] g3 | %26
+ [CA,][CE][CE] [AE][Ac][Ac] f3 | [B,G,][B,D][B,D] [GD][GB][GB] e3- | eFF GFF eFF | d8- d- | %30
+ [dG-] G7- G | [^AF]3 [fA]6 | %32
+ (3:2:2[Bd]2[fb]2[fd] (3:2:2z/ [Bd]-(3:2:2[Bd][BF]2 [BF] (3:2:2z/ D-(3:2:1D/ | d8- d- | %34
+ d B8- c c ^g c c d c c B | ecc ^a[c^A][dB] [ec][dB][cA] | fge d3 [c^A]3 | B8- B- | B3 z6 |] %39
+V:2
+ x9 | x9 | x9 | x9 | x9 | x9 | BFF GFF BFF | z BB cBB eBB | AEE FEE AEE | z AA BAA dAA | x9 | x9 | %12
+ x9 | DA,A, z6 | x9 | x9 | x9 | x9 | x9 | z B,B, z3 EB,B, | z EE FEE AEE | z A,A, B,A,A, DA,A, | %22
+ z DD EDD GDD | x10 | x9 | x9 | x9 | x9 | x9 | FB,B, DB,B, FB,B, | z BB =cBB gBB | x9 | %32
+ z3 [fd] z3 [DF] z | B8- B- | x18 | ^A3 z6 | B6 z2 B | x9 | x9 |] %39
+V:3
+ B,,3 z B,C DCB, | ^A,4 B,C B,CA, | B,3 z6 | B,F,F, G,F,F, B,F,F, | CF,F, G,F,F, CF,F, | %5
+ [DB,][DF][BF] [DF][DB,][DB,] [F,B,][F,D,][F,D,] | B,,3 z B,C DCB, | E3 z E,F, ^G,F,E, | %8
+ A,3 z A,,B,, C,B,,A,, | D,3 z D,,E,, F,,E,,D,, | G,,3 [G,B,][G,E,][G,E,] [C,E,][C,A,,][C,A,,] | %11
+ F,,3 [F,A,][F,D,][F,D,] [B,,D,][B,,G,,][B,,G,,] | %12
+ E,,3 [E,G,][E,C,][E,C,] [A,,C,][A,,F,,][A,,F,,] | D,,3 z D,,E,, F,,E,,D,, | %14
+ C,,3 z A,,B,, C,B,,A,, | D,4 E,F, E,[F,^G,][D,B,G,] | [C,E,]3 z A,B, CB,A, | %17
+ [E,^G,]4 A,B, A,B,G, | [A,,A,]4 B, z4 | G,3 z E,F, G,F,E, | A,3 z A,,B,, C,B,,A,, | %21
+ D,3 z D,E, F,E,D, | G,3 z G,F, E,F,G, | C,3 A,[C,^G,][B,,G,] [^A,,C][B,,G,][C,G,] | %24
+ F,,3 z F,E, D,E,F, | B,,3 [D,B,,][D,F,][D,F,] [B,G,][B,E][B,E] | %26
+ A3 [C,A,,][C,E,][C,E,] [A,F,][A,D][A,D] | [GB][GD][GD] [B,D][B,G,][B,G,] [E,G,][E,C,][E,C,] | %28
+ ^A,,4 B,,C, F,,B,,A,, | B,,3 z3 B,,3 | E,8- E,- | E,8- E, | D,2 z7 | %33
+ [B,G,][B,D][GD] [B,D][B,G,][B,G,] [D,G,][D,B,,][D,B,,] | =F,,3 z6 | ^F,,3 z E,^F, G,F,E, | %36
+ D,2E, F,2E, F,2F,, | B,,8- B,,- | B,,3 z6 |] %39
+V:4
+ x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | z3 F,6 | %19
+ x9 | x9 | x9 | x9 | z ^G,G, z6 | ^A,8- A, | B, z8 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | %35
+ x9 | x9 | x9 | x9 |] %39

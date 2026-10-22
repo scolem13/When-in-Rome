@@ -1,0 +1,43 @@
+% Kinderscenen - Wichtige Begebenheit: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=374
+% Licence: Creative Commons Attribution 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Kinderscenen - Wichtige Begebenheit
+C:Robert Alexander Schumann
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:A
+V:1 bass nm="down"
+V:2 treble nm="up"
+L:1/4
+V:3 treble 
+V:1
+ x4 [A,,A,][C,C] | [E,E]>[=C,=C] [^C,^C]2 [A,,A,]2 | [B,,B,]2 [E,,E,]2 [F,,F,][G,,G,] | %3
+ [A,,A,]>[=F,,=F,] [^F,,^F,]2 [D,,D,]2 | [E,,E,]2 [A,,,A,,]2 [A,,,A,,][C,,C,] | %5
+ [E,,E,]>[=C,,=C,] [^C,,^C,]2 [A,,,A,,]2 | [B,,,B,,]2 [E,,,E,,]2 [F,,,F,,][G,,,G,,] | %7
+ [A,,,A,,]>[=F,,,=F,,] [^F,,,^F,,]2 [D,,,D,,]2 | [E,,,E,,]2 [A,,,E,,]2 [A,,,A,,]C, | %9
+ [D,,D,][A,,,A,,] [=G,,,=G,,][F,,,F,,] [F,,,F,,]2 | %10
+ [D,,D,][B,,,B,,] [A,,,A,,][=G,,,=G,,] [G,,,G,,]2 | %11
+ [A,,,A,,][E,,,E,,] [D,,,D,,][C,,,C,,] [C,,,C,,]2 | %12
+ [D,,D,][A,,,A,,] [=G,,,=G,,][F,,,F,,] [F,,,F,,]2 | %13
+ [=G,,,=G,,][A,,,A,,] [B,,,B,,][=C,,=C,] [D,,D,][E,,E,] | [D,,D,]2 [B,,,B,,]2 [A,,,A,,]2 | %15
+ [=G,,,=G,,]>[F,,,F,,] [E,,,E,,]2 [A,,,A,,]2 | [D,,D,]2 x2 [A,,A,][C,C] | %17
+ [E,E]>[=C,=C] [^C,^C]2 [A,,A,]2 | [B,,B,]2 [E,,E,]2 [F,,F,][G,,G,] | %19
+ [A,,A,]>[=F,,=F,] [^F,,^F,]2 [D,,D,]2 | [E,,E,]2 [A,,,A,,]2 [A,,,A,,][C,,C,] | %21
+ [E,,E,]>[=C,,=C,] [^C,,^C,]2 [A,,,A,,]2 | [B,,,B,,]2 [E,,,E,,]2 [F,,,F,,][G,,,G,,] | %23
+ [A,,,A,,]>[=F,,,=F,,] [^F,,,^F,,]2 [D,,,D,,]2 | [E,,,E,,]2 [A,,,E,,]2 x2 |] %25
+V:2
+ x2 [cea] | [Beg]/>[A^df]/ [Gce] [Acf] | [FB^d] [GBe] [B=d] | [EAc]/>[DGB]/ [CFA] [DFB] | %4
+ [B,EG] [CEA] [CEA] | [B,EG]/>[A,^DF]/ [G,CE] [A,CF] | [F,B,^D] [G,B,E] [B,=D] | %7
+ [E,A,C]/>[D,G,B,]/ [C,F,A,] [D,F,B,] | [B,,E,G,] [C,E,A,] [A,CEA] | [A,DFA]2 [A,DFA] | %10
+ [DE=GB]2 [DEGB] | [=G,A,CE] [G,A,CE] [G,A,CE] | [=CDA]2- [CDA] | [=G,=CD] [G,CD] [G,CD] | %14
+ [=G,B,D] [G,D=G] [A,DF] | [B,DE]/>[B,DF]/ [B,D=G] [=G,A,CE] | [F,A,D] z [cea] | %17
+ [Beg]/>[A^df]/ [Gce] [Acf] | [FB^d] [GBe] [B=d] | [EAc]/>[DGB]/ [CFA] [DFB] | [B,EG] [CEA] [CEA] | %21
+ [B,EG]/>[A,^DF]/ [G,CE] [A,CF] | [F,B,^D] [G,B,E] [B,=D] | [E,A,C]/>[D,G,B,]/ [C,F,A,] [D,F,B,] | %24
+ [B,,E,G,] [C,E,A,] x |] %25
+V:3
+ x2 x4 | z6 | z4 FE | z6 | z6 | z6 | z4 F,E, | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %17
+ z6 | z4 FE | z6 | z6 | z6 | z4 F,E, | z6 | z4 x2 |] %25

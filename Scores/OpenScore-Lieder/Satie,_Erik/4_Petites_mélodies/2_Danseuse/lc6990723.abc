@@ -1,0 +1,58 @@
+X:1
+T:4 Petites mélodies
+T:Danseuse
+C:Erik Satie
+Z:Jean Cocteau
+Z:OpenScore (CC0)
+%%score 1 { ( 2 6 7 ) | ( 3 4 5 ) }
+L:1/8
+Q:1/4=50
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:6 treble 
+V:7 treble 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+"^Non Vif" z/ || z4 | z2 z z/!p! (B/ | d B A2 | G B d d) |$ z2 (E D | F E G F | %7
+w: ||Le|cra- be sort|sur ses poin- tes|A- vec|ses bras en cor-|
+!f! Bc .A) !fermata!z | (F!<(! E F E!<)! | F E F F) |$ z4 |!mf! A B!<(! ^G A!<)! | (c A!f! B2) | %13
+w: beil- * le|Il sou- rit jus-|qu’aux o- reil- les||La dan- seu- se|d’O pé- ra|
+!p! (E e E!<(! e |$ E e!<)! E E) | (A =G!mf! A d |!<(! B A!<)!!f! B B) |!p! (d c B!>(! c | %18
+w: Au cra- be tou-|te pa- reil- le|Sort de la cou-|lis- se pein- te|En ar- ron- dis-|
+ d!>)! e d2) |] %19
+w: sant les bras.|
+V:2
+!f! (F/ ||!<(! G2) !>!F2!<)! | E2!ff! !>!D z/!p! B/ | .!tenuto!B2 .!tenuto!c2 | %4
+ .!tenuto!!courtesy!=e2 .!tenuto!d2 |$ !courtesy!=A2 !>!=B,2 | !>!C2 !>!D2 | %7
+ [Dd][Cc] [Dd] !fermata!z | !>!A,2 !>!B,2 | !>!C2 !>!D2 |$!mf! ([^D^d][Ee][Ff][^G^g] | %11
+ [Aa]!<(![!courtesy!=B!courtesy!=b][=d=d'][cc'])!<)! | ([cc']2!f! [Bb]2) | !>!E2 (^A,B,) |$ %14
+!<(! !>!=C2 !>!D2!<)! | E=F !>!^F2 |!f!!<(! .G.A!<)! !>!B z/!p! f/ | %17
+"_suivre" z [!courtesy!^ca] z [ca] | z [ca] [d^a]2 |] %19
+V:3
+ [F,,F,]/ || z A, z A, | z =G, ^A, z | .[=F,,=F,].[E,,E,] .[_E,,_E,] z | [D,,D,] z [_A,,_A,] z |$ %5
+ ([G,,G,][F,,F,]) .[F,,,F,,].[G,,,G,,] | .[^G,,,^G,,].[A,,,A,,].[^A,,,^A,,].[B,,,B,,] | %7
+ B,^A, =A, !fermata![A,,,A,,]/!p! ([C,,,C,,]/ | [D,,,D,,]) z [E,,,E,,] z | %9
+ .[F,,,F,,] z .[G,,,G,,] z |$[K:treble] z (C =D) z | (F2 E) z | =F^D ^G z | %13
+[K:bass] z .[!courtesy!^F,,,!courtesy!^F,,] .[G,,,G,,]2 |$ .[_A,,,_A,,]2 .[G,,,G,,]2 | %15
+ .[=C,,=C,]2!mf! .[^C,,^C,].[D,,D,] | %16
+ .[G,,,G,,].[^C,,^C,] ([=C,,=C,][!courtesy!=B,,,!courtesy!=B,,]/)[K:treble] (F/ | G2) .!tenuto!F2 | %18
+!>(! .!tenuto!E2 !>!D2!>)! |] %19
+V:4
+ x/ || x A, x ^G, | x A, !>!F, x | x4 | x4 |$ x4 | x4 | (F,^E, F,) x | x4 | x4 |$ %10
+[K:treble] x (B, _B,) x | ([A,^D]=B,=DC) | ([CA]2 =D) x |[K:bass] x4 |$ x4 | x4 | %16
+ x7/2[K:treble] x/ | x4 | x4 |] %19
+V:5
+ x/ || [G,,G,]2 [F,,F,]2 | !>![E,,F,]2 [D,,D,] x | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ %10
+[K:treble] x4 | x4 | x2 E x |[K:bass] x4 |$ x4 | x4 | x7/2[K:treble] x/ | x4 | x4 |] %19
+V:6
+ x/ || x4 | x4 | z [GA] z [GA] | z [GB] z [E_B] |$ z [Dd] (A,G,) | (B,A,) (CB,) | ^G=G A x | %8
+ .A,.F,.B,.G, | .C.A,.D.B, |$ c2 =d2 | ^d2 e2 | (=f^d e) z/!p! .E/ | .E.A,.^A,.G, |$ =C=F,DB, | %15
+ E=CFC | [B,D][_E=F] [=D^F] x | g2 !tenuto!f2 | !tenuto!e2 f2 |] %19
+V:7
+ x/ || x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %17
+ x a x ^g | x !courtesy!=g !>!d2 |] %19

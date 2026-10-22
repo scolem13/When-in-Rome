@@ -1,0 +1,71 @@
+% Hilf Gott, dass mir's gelinge: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1133
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Hilf Gott, dass mir's gelinge
+C:Johann Sebastian Bach
+%%score 1 ( 2 3 ) 4 5
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 bass nm="Bassoon" snm="Bsn"
+L:1/8
+V:2 treble nm="right" snm="P Fl"
+V:3 treble 
+V:4 treble nm="left" snm="Rec"
+L:1/16
+V:5 treble nm="Recorder" snm="Rec"
+L:1/16
+V:1
+ x7 G,,- | G,,F,, =E,,A,,, D,,C,, B,,,2- | B,,,C,, B,,,A,,, G,,,G,,- G,,_G,, | %3
+ =G,,A,, B,,3 A,, G,,C, | D, D,,2 C,, =B,,,G,,, C,,_B,,, | A,,,F,, =E,,A,, D,,C,, B,,,2- | %6
+ B,,,C,, B,,,A,,, G,,,G,,- G,,_G,, | =G,,A,, B,,3 A,, G,,C, | D, D,,2 C,, =B,,,G,,, C,,C,- | %9
+ C,_G,, =G,, _B,,2 A,, D,C, | B,,G,, C,B,, A,,F,, B,,B,,,- | %11
+ B,,,A,,,/G,,,/ A,,, F,,2 E,,/D,,/ E,,C,, | D,,G,,, A,,,B,,, C,,B,,,/A,,,/ B,,,E,,- | %13
+ E,, C,2 B,, A,,G,,- G,,_G,, | =G,,A,, B,,3 A,, G,,C, | D, D,,2 C,, =B,,,G,,, E,,2- | %16
+ E,,_G,,, =G,,,4[Q:1/4=30][Q:1/4=18][Q:1/4=5] x2 |] %17
+V:2
+ x3 G | A3/2 G/ [DF] D/[CE]/ | [B,F] G,/A,/ =B, [CA] | _B/c/ [Dd] =E/_G/ [=GB] | [FA] _E D [CG] | %5
+ A3/2 G/ [DF] D/[CE]/ | [B,F] G,/A,/ =B, [CA] | _B/c/ [Dd] =E/_G/ [=GB] | [FA] _E D [CG] | %9
+ A [DB] [=Ec] [FA] | [GB] [=EG] [FA] D | _E C2 [CA] | [FB] [=Ec] _G =G- | G/>G/ [A_G] G _D/ z/ | %14
+ B/c/ [Dd] =E/_G/ [=GB] | [FA] _E D C- |[Q:1/4=30][Q:1/4=18][Q:1/4=5] C3/2 =B,/4A,/4 B, x |] %17
+V:3
+ x x3 | z _D z2 | z G2 z | z2 c z | z G2 z | z _D z2 | z G2 z | z2 c z | z G2 z | z4 | z3 F- | %11
+ F F B z | z2 d- d/c/ | B/A/4 z =G/4 z/ =E/4=D/4 A | z2 c z | z G2- G- | G3 x |] %17
+V:4
+ x8 x4 x [DC][B,A,][G,_D] | %1
+ x [=B,A,][=DC][_B,A,] x [G,F,][=E,D,][E,D,] x [A,G,][F,E,][D,_G,] x [E,D,][=G,F,][_E,D,] | %2
+ x [B,A,][G,F,][E,D,] x [C,_B,,][E,D,][C,F,] x [_A,G,][F,E,][D,E,] x [G,F,][E,D,][C,B,,] | %3
+ x [E,D,][C,B,,][=A,,G,,] x [B,,C,][D,=E,][_G,=G,] x [_G,=G,][A,B,][CD] x [CD][_ED]E | %4
+ x [DC][DE][FG] x [A=B][cd][_ef] x [g_a][ga][fe] x [gf][ef][=d_d] | %5
+ x [=B=A][=dc][_BA] x [GF][=ED][ED] x [AG][FE][D_G] x [ED][=GF][_ED] | %6
+ x [_B,A,][G,F,][_E,D,] x [C,_B,,][E,D,][C,F,] x [_A,G,][F,E,][D,E,] x [G,F,][E,D,][C,B,,] | %7
+ x [E,D,][C,B,,][=A,,G,,] x [B,,C,][D,=E,][_G,=G,] x [_G,=G,][A,B,][CD] x [CD][_ED]E | %8
+ x [DC][DE][FG] x [A=B][cd][_ef] x [g_a][ga][fe] x [dc][_B=A][=G_G] | %9
+ x [ed][cB][A=G] x [FE][DC][DG,] x [A,_B,][CD][=EF,] x [A,G,][A,B,][CD] | %10
+ x [G,A,][B,C][D=E] x [CD][EF][GC] x [D_E][FG][AB] x [AG][FE][DC] | %11
+ x [ED][CD][B,A,] x [B,C][DE][FG] x [AB][cd][_ef] x [gf][ed][cB] | %12
+ x [AG][FE][DC] x [B,A,][=G,_G,][=E,D,] x [G,=G,][A,B,][CD] x [CB,][A,B,][G,C] | %13
+ x [_ED][CB,][A,D] x [=E_G][=GA][Bc] x [_ed][cd][BA] x [Bc][de][cB] | %14
+ x [AG][_G=G][AD] x [=E_G][=GA][Bc] x [BA][_ed][cg] x [fe][ed][cc] | %15
+ x [BA][AG][FB] x [AG][c=B][Ad] x [cB][BA][GG] x [F_E][c_B][_AG] | %16
+ x [FE][ED][CG] x [FE][DE][CD][Q:1/4=30] (3:2:2[GD]2[=B,C]2[Q:1/4=18][DG,][Q:1/4=5] (24:13:1x8 |] %17
+V:5
+ x8 x4 x [d'c'][ba][g_d'] | x [=ba][=d'c'][_ba] x [gf][=ed][ed] x [ag][fe][d_g] x [ed][=gf][_ed] | %2
+ x [ba][gf][ed] x [c_B][ed][cf] x [_ag][fe][de] x [gf][ed][cB] | %3
+ x [ed][cB][=AG] x [Bc][d=e][_g=g] x [_g=g][ab][c'd'] x [c'd'][_e'd']e' | %4
+ x [d'c'][d'e'][f'g'] x [a'=b'][c''d''][_e''f''] x [g''_a''][g''a''][f''e''] x [g''f''][e''f''][=d''_d''] | %5
+ x [=b'=a'][=d''c''][_b'a'] x [g'f'][=e'd'][e'd'] x [a'g'][f'e'][d'_g'] x [e'd'][=g'f'][_e'd'] | %6
+ x [_ba][gf][_ed] x [c_B][ed][cf] x [_ag][fe][de] x [gf][ed][cB] | %7
+ x [ed][cB][=AG] x [Bc][d=e][_g=g] x [_g=g][ab][c'd'] x [c'd'][_e'd']e' | %8
+ x [d'c'][d'e'][f'g'] x [a'=b'][c''d''][_e''f''] x [g''_a''][g''a''][f''e''] x [d''c''][_b'=a'][=g'_g'] | %9
+ x [e''d''][c''b'][a'=g'] x [f'e'][d'c'][d'g] x [a_b][c'd'][=e'f] x [ag][ab][c'd'] | %10
+ x [ga][bc'][d'=e'] x [c'd'][e'f'][g'c'] x [d'_e'][f'g'][a'b'] x [a'g'][f'e'][d'c'] | %11
+ x [e'd'][c'd'][ba] x [bc'][d'e'][f'g'] x [a'b'][c''d''][_e''f''] x [g''f''][e''d''][c''b'] | %12
+ x [a'g'][f'e'][d'c'] x [ba][=g_g][=ed] x [g=g][ab][c'd'] x [c'b][ab][gc'] | %13
+ x [_e'd'][c'b][ad'] x [=e'_g'][=g'a'][b'c''] x [_e''d''][c''d''][b'a'] x [b'c''][d''e''][c''b'] | %14
+ x [a'g'][_g'=g'][a'd'] x [=e'_g'][=g'a'][b'c''] x [b'a'][_e''d''][c''g''] x [f''e''][e''d''][c''c''] | %15
+ x [b'a'][a'g'][f'b'] x [a'g'][c''=b'][a'd''] x [c''b'][b'a'][g'g'] x [f'_e'][c''_b'][_a'g'] | %16
+ x [f'e'][e'd'][c'g'] x [f'e'][d'e'][c'd'][Q:1/4=30] (3:2:2[g'd']2[=bc']2[Q:1/4=18][d'g][Q:1/4=5] (24:13:1x8 |] %17

@@ -1,0 +1,69 @@
+X:1
+T:6 Lieder, Op.25
+T:Im wunderschönen Monat Mai
+C:Robert Franz
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:3 treble 
+L:1/16
+V:4 bass 
+V:5 bass 
+V:1
+"^Andantino con grazia" z2 z2 z3/2!p! c/ | c3/2 B/({/c/} e) d c B | A2 z2 z3/2 A/ | %3
+w: Im|wun- der- schö- nen Mon- at|Mai, als|
+w: ’Twas|in the beau- teous month of|May, each|
+ A3/2 G/ (Fc/) B/ (AB) | c2 z2 z2 |!mf! c2 =d e d c |!>(! f2!>)! c z z (c/=d/) | (e2 =d) c d e | %8
+w: al- le Knos- * pen spran- *|gen,|da ist in mei- nem|Her- zen die *|Lie- * be auf- ge-|
+w: small bud burst * its pri- *|son,|when all my soul de-|light- ing, my *|sun _ of love has|
+!<(! (f4!<)! g2) |!>(! c2!>)! z2 z3/2!p! c/ | c3/2 B/({/c/} e) d c B | A2 z2 z3/2 A/ | %12
+w: gan- *|gen. Im|wun- der- schö- nen Mon- at|Mai, als|
+w: ri- *|sen. ’Twas|in the beau- teous month of|May, and|
+ A3/2 G/ (Fc/) B/ (AB) | c2 z2 z2 |!mf! c2 =d e d c |!>(! f2!>)! c z z (c/=d/) | %16
+w: al- le Vö- * gel san- *|gen,|da hab’ ich ihr ge-|stan- den mein *|
+w: all the birds * were sing- *|ing,|then came I to my|sweet- heart, my *|
+ (e2 =d)!<(! c d e!<)! | (f4 e2) | d2 z2 z2 | z6 | z6 | z6 |] %22
+w: Seh- * nen und Ver-|lan- *|gen.||||
+w: vows _ and long- ings|bring- *|ing.||||
+V:2
+!p! z3!<(! (E Acfe!<)!!>(! cAEc)!>)! |!<(! [=Ac]2>B2!<)!(((!arpeggio![Ace]2[Bd]))) z [Ec]2[DB]2 | %2
+ [C_A]2z!<(!(C FAdc!<)!!>(! AFCA)!>)! | %3
+!<(! [CA]2>[B,G]2!<)!!>(![Ec]2>[DB]2!>)!!<(! [CEA]2[DGB]2!<)! | %4
+ [CAc]2z(E!<(! Ac!<)!!>(!fe cA!>)!!<(!C=D)!<)! | EGcG!<(! EGcG!<)! (AcGc | %6
+!>(! F)cAF!>)! C(F x2!>(! F[Ac] C x!>)! | E)G!<(!cG EGcG!<)! (AcGc | %8
+!<(! FcAG FAFE)!<)!!>(! (=DEGF!>)! |!p! [CE]2)z(E x2!>(! !arpeggio!a2!arpeggio!e2!arpeggio!c2!>)! | %10
+!<(! [=Ac]2>)B2!<)!!>(!(((!arpeggio![Ace]2[Bd])))!>)! z ([Ec]2[DB]2 | %11
+ [C_A]2)z(C x2!>(! !arpeggio!f2!arpeggio!c2!arpeggio!A2)!>)! | %12
+!<(! [CA]2>[B,G]2!<)!!>(![Ec]2>[DB]2!>)!!<(! ([CEA]2[DGB]2!<)! | %13
+!>(! [CAc]2)!>)!z!<(!(E Ac!<)!!>(!fe cA!>)!!<(!C=D!<)! | E)GcG EGcG AcGc | %15
+!>(! FcAF!>)! C(F x2!>(! F[Ac] C!>)! x | E)G!<(!cG EGcG!<)! (AcGc | F)(_dDE!<(! FAA,B,!<)! C4 | %18
+[I:staff +1] F,A,!<(![I:staff -1]DC DF!<)!!>(!BA FD!>)!A,B, | %19
+!p!({/D} [A,C]2))!<(!z(E Ac!<)!!>(!fe cA!>)!CD | %20
+!pp!({/F)} [CE]2) z[K:bass]!<(! (E, A,C!<)!FE!>(! CA,C,-D, |({/F,} E,4))!>)! z4 z4 |] %22
+V:3
+ x10 E2 | (F8 G4) | x10 C2 | (D4 F4) x4 | x12 | x8 A2G2 | (F4 C2) A>G(F2C)=D | x8 A2G2 | %8
+ F4 x4 =B,4 | x4 Acfe cBAG | (F8 G4) | x4 FAdc AGFE | (D4 F4) x4 | x12 | x8 A2G2 | %15
+ (F4 C2) A>G(F2C)=D | x8 A2G2 | x8[I:staff +1] _G,B,A,G, | x10[I:staff -1] A,2- | x10 C2- | %20
+ x3[K:bass] x7 C,2 | C,4 x4 x4 |] %22
+V:4
+!ped! A,,2 [A,,E,C]2 z A,,!ped-up! | (D,4 E,E,,) |!ped! F,,2 [F,,C,A,]2 z F,,!ped-up! | %3
+ (B,,2 D,,2 E,,)E,,, |!ped! A,,,/E,/-C- [E,C]2 z2!ped-up! | [G,,G,]4 ([F,,F,][E,,E,] | %6
+!ped! [=D,,=D,]2-) [D,,D,]!ped-up! z z2 | ([G,,G,]4 [F,,F,][E,,E,] | %8
+ [=D,,=D,]2) [C,C]2!ped! [G,,G,]2!ped-up! |!ped! A,,2 [A,,E,C]2 z A,,!ped-up! | (D,4 E,E,,) | %11
+!ped! F,,2 [F,,C,A,]2 z!ped-up! F,, | (B,,2 D,,2 E,,)E,,, |!ped! A,,,/E,/-C- [E,C]2 z2!ped-up! | %14
+ [G,,G,]4 ([F,,F,][E,,E,] |!ped! [=D,,=D,]2-) [D,,D,]!ped-up! z z2 | ([G,,G,]4 [F,,F,][E,,E,] | %17
+!ped! !arpeggio![_D,,A,]4)!ped-up! [A,,,A,,]2- |!ped! [A,,,A,,]6!ped-up! | %19
+!ped! A,,2 [A,,E,C]2 z!ped-up! A,, |!ped! A,,,/-E,,/-C,- [A,,,E,,C,]2 z!ped-up! [A,,,E,,]- | %21
+ [A,,,E,,]2 z2 z2 |] %22
+V:5
+ (A,,/-E,/-C-) x4 | x6 | (F,,/-C,/-A,-) x4 | x6 | A,,,2- A,,,2 x2 | x6 | x6 | x6 | x6 | %9
+ (A,,/-E,/-C-) x4 | x6 | (F,,/-C,/-A,-) x4 | x6 | A,,,2- A,,,2 x2 | x6 | x6 | x6 | x6 | x6 | %19
+ (A,,/-E,/-C-) x4 | A,,,2 x4 | x6 |] %22

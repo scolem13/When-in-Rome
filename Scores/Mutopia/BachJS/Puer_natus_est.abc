@@ -1,0 +1,42 @@
+% Puer natus in Bethlehem: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=725
+% Licence: Creative Commons Attribution-ShareAlike 2.5. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Puer natus in Bethlehem
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 2 3 ( 4 5 )
+L:1/4
+Q:1/4=85
+M:3/2
+I:linebreak $
+K:F
+V:1 bass nm="Pan Flute" snm="P Fl"
+V:2 treble nm="Pan Flute" snm="P Fl"
+V:3 treble nm="Pan Flute" snm="P Fl"
+L:1/8
+V:4 bass nm="Pan Flute" snm="P Fl"
+L:1/8
+V:5 bass 
+V:1
+ x4 x G, | C, C2 B, A, G, | _G, D2 C B, A, | =G,2 D,2 _E,2 | _E,, F,2 _E, D, C, | %5
+ D, B,2 A, G, _G, | =G, D, _E, C, F, F,, | B,, B,2 A, G, F, | E, C2 B, A, G, | _G, D2 C B, A, | %10
+ =G, D, _E, C, D, D,, | G,, B,,2 A,, G,, F,, | _E,, C,2 B,, A,, G,, | _G,, D,2 C, B,, A,, | %14
+ =G,, _E,2 D, C, D, | _E, B,, C, A,, D, D,, | G,,4- G,,2 |] %17
+V:2
+ x4 G2 | G4 G2 | A4 A2 | B2 A2 G2 | F4- F2 | B4 c2 | B4 A2 | B4 B2 | B4 B2 | A4 G2 | G4 _G2 | %11
+ =G4 G2 | _G4 =G2 | A4 A2 | B4 A2 | G4 _G2 | =G4- G2 |] %17
+V:3
+ x8 GFGF | _E4- E DED EDEF | D3 E _GEGE G=GE_G | G2 G4 F2 _EDED | C4 x F,A,C F_EFE | %5
+ F_EFE DECD E4 | x DF_A GFGF _EDEC | D4- D CDC DC_ED | C3 D EFEG _G=G_G=G | A3 G _GEGD =G4 | %10
+ DCDC _B,2 _E2- EEDC | _B,D,G,B, DCDC B,A,B,G, | A,_E,A,C _EDED C_B,CB, | A,D,_G,A, DCDC DCDC | %14
+ _B,G,B,D GFGF _ED=E_G | GFGF _ED E2 D4 | D8- D4 |] %17
+V:4
+ x8 _B,2 =B,2 | CC,_E,G, C_B,CB, CB,CB, | A,D,_G,A, DCDC DCDC | _B,D,G,B, DCDC B,A,B,G, | %4
+ A,F,,A,,C, F,_E,F,E, F,4- | F,_B,,D,F, _B,A,B,A, B,A,B,A, | _B,4- B, G,B,D CB,CA, | %7
+ F,_B,,D,F, _B,A,B,A, B,A,B,A, | G,C,E,G, C_B,CB, CB,A,G, | DD,_G,A, DCDC DCDC | %10
+ _B,A,B,A, G,_G,=G,A, D,CB,A, | G,2 z3 A,,_B,,C, D,C,D,B,, | C,2 z3 _B,,C,D, _E,D,E,D, | %13
+ _E, z4 A,,D,=E, _G,E,G,D, | G,2 z3 C,_E,G, C_B,CD | _B,G,B,D CB,CB, CB,CA, | %16
+ =B,G,,=B,,D, G,2 G,2- B,4 |] %17
+V:5
+ x2 x4 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %16
+ z2 z/ D,/ z/ A,/ G,2 |] %17

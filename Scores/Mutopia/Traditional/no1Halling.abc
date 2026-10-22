@@ -1,0 +1,63 @@
+% Nº1. Halling.: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1889
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Nº1. Halling.
+C:Norwegian folk music
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:Dmin
+V:1 bass nm="lower" snm="Pno"
+V:2 treble nm="violin" snm="Vln"
+V:3 treble 
+V:4 treble nm="upper" snm="Pno"
+V:5 treble 
+L:1/8
+V:1
+ x2 | [D,,A,,]6- [D,,A,,] x | [A,,D,F,] x [A,,E,]3 x3 | [D,,A,,]6- [D,,A,,] x | %4
+ [A,,F,] x [A,,E,]3 x3 | [D,,A,,]6- [D,,A,,] x | [D,,A,,]6- [D,,A,,] x | [D,,A,,]6- [D,,A,,] x | %8
+ [E,,E,]2>x2[A,,E,]2 x2 | D,4 _D,2-D, x | =D,4 _D,2-D, x | =D,4 _D,2-D, x | =D,4 _D,2-D, x | %13
+ A,2>x2=D2 x2 | D,,A,,D,,A,, D,,A,,D,,A,, | D,,A,,D,,A,, D,,A,,D,,A,, | D,,A,,D,,A,, D,,A,,D,,A,, | %17
+ D,,A,,D,,A,, D,,A,,D,,A,, | D,,A,, D,,A,,D,,2 x2 | [D,,A,,]6- [D,,A,,] x | %20
+ [A,,D,F,] x [A,,E,]3 x3 | [D,,A,,]6- [D,,A,,] x | [A,,F,] x [A,,E,]3 x3 | [D,,A,,]6- [D,,A,,] x | %24
+ [D,,A,,]6- [D,,A,,] x | [D,,A,,]6- [D,,A,,] x | [E,,E,]2>x2[A,,E,]2 x2 | D,4 _D,2-D, x | %28
+ =D,4 _D,2-D, x | =D,4 _D,2-D, x | =D,4 _D,2-D, x | A,2>x2=D2 x2 | D,,A,,D,,A,, D,,A,,D,,A,, | %33
+ D,,A,,D,,A,, D,,A,,D,,A,, | D,,A,,D,,A,, D,,A,,D,,A,, | D,,A,,D,,A,, D,,A,,D,,A,, | %36
+ D,,A,, D,,A,,D,,2 x2 |] %37
+V:2
+ x6 a2 | gefd (3:2:2A2 z2 G | FDE_D A,2_a z | gef=d (3:2:2A2 z2 G | FDE_D A,2a2 | %5
+ gfge (3:2:2A2 z2 G | FDE_D A,2_a z | gfge (3:2:2A2 z2 G | FDE_D A,2A,2 | =DEFG (3:2:2A2 z2 G | %10
+ FDE_D A,2A2 | =defg (3:2:2a2 z2 g | fde_d A2=d_d | _d4 =d2A, z | %14
+ [DA][EA][FA][GA] (3:2:2A2 z2 [GA] | [FA][DA][EA][E_D] [EA,]2A2 | %16
+ [F=d][Ae][Af][Ag] (3:2:2[Aa]2 z2 [Ag] | [Af]d[Ae]_d A2=d_d | _d4 =d2a2 | gefd (3:2:2A2 z2 G | %20
+ FDE_D A,2_a z | gef=d (3:2:2A2 z2 G | FDE_D A,2a2 | gfge (3:2:2A2 z2 G | FDE_D A,2_a z | %25
+ gfge (3:2:2A2 z2 G | FDE_D A,2A,2 | =DEFG (3:2:2A2 z2 G | FDE_D A,2A2 | =defg (3:2:2a2 z2 g | %30
+ fde_d A2=d_d | _d4 =d2A, z | [DA][EA][FA][GA] (3:2:2A2 z2 [GA] | [FA][DA][EA][E_D] [EA,]2A2 | %34
+ [F=d][Ae][Af][Ag] (3:2:2[Aa]2 z2 [Ag] | [Af]d[Ae]_d A2=d_d | _d4 =d2 x2 |] %37
+V:3
+ x2 x6 | z4 z [BA] z2 | z6 =a2 | z4 z [BA] z2 | z8 | z4 z [BA] z2 | z6 =a2 | z4 z [BA] z2 | z8 | %9
+ z4 z [BA] z2 | z8 | z4 z [ba] z2 | z8 | z8 | z4 z [BA] z2 | z8 | z4 z [AbAa] z2 | z8 | z8 | %19
+ z4 z [BA] z2 | z6 =a2 | z4 z [BA] z2 | z8 | z4 z [BA] z2 | z6 =a2 | z4 z [BA] z2 | z8 | %27
+ z4 z [BA] z2 | z8 | z4 z [ba] z2 | z8 | z8 | z4 z [BA] z2 | z8 | z4 z [AbAa] z2 | z8 | z6 x2 |] %37
+V:4
+ x6 fd | eBdA F_DEA, | [=B,_A] z [_D=A]3 z f=d | e_BdA F_DEA, | [=B,_A] z [_D=A]3 z =DF | %5
+ EAFA CA_DA | =DA_A=A GAFA | EAFA CA_DA | =DAD_A _D=A z2 | z2 [A,A]4- E z | z2 [_A,_A]4 [=A,=A] z | %11
+ z2 [A,A]4- E z | z2 [_A,_A]4 [=A,=A] z | (3:2:2[EA]2 z2 G E2 (3:2:2z2 a- | %14
+ (3:2:2a/ z (12:7:1z4 e z3 (3:2:1_d- | (3:2:2_d/ z (12:7:1z4 e z3 (3:2:1e- | %16
+ (3:2:2e/ z (12:7:1z4 e z3 (3:2:1A- | (3:2:2A/ z (12:7:1z4 E z3 (3:2:1A- | %18
+ (3:2:2A/ z (12:7:1z4 A (6:5:1z2 f=d | eBdA F_DEA, | [=B,_A] z [_D=A]3 z f=d | e_BdA F_DEA, | %22
+ [=B,_A] z [_D=A]3 z =DF | EAFA CA_DA | =DA_A=A GAFA | EAFA CA_DA | =DAD_A _D=A z2 | %27
+ z2 [A,A]4- E z | z2 [_A,_A]4 [=A,=A] z | z2 [A,A]4- E z | z2 [_A,_A]4 [=A,=A] z | %31
+ (3:2:2[EA]2 z2 G E2 (3:2:2z2 a- | (3:2:2a/ z (12:7:1z4 e z3 (3:2:1_d- | %33
+ (3:2:2_d/ z (12:7:1z4 e z3 (3:2:1e- | (3:2:2e/ z (12:7:1z4 e z3 (3:2:1A- | %35
+ (3:2:2A/ z (12:7:1z4 E z3 (3:2:1A- | (3:2:2A/ z (12:7:1z4 A (3:2:2z x2 (6:5:1x2 |] %37
+V:5
+ x x3 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z F2 (3:2:2[A,A] z/ | z E2- (3:2:2E z/ | %11
+ z F2 (3:2:2[A,A] z/ | z E2- (3:2:2E z/ | z/ [BA]/ z3 | (3:2:2f z2 (3:2:2_d z2 | %15
+ (3:2:2=d z2 (3:2:2a z2 | (3:2:2f z2 (3:2:2_d z2 | (3:2:2F z2 (3:2:2_D z2 | (3:2:2G z2 F/ z3/2 | %19
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z F2 (3:2:2[A,A] z/ | z E2- (3:2:2E z/ | %29
+ z F2 (3:2:2[A,A] z/ | z E2- (3:2:2E z/ | z/ [BA]/ z3 | (3:2:2f z2 (3:2:2_d z2 | %33
+ (3:2:2=d z2 (3:2:2a z2 | (3:2:2f z2 (3:2:2_d z2 | (3:2:2F z2 (3:2:2_D z2 | (3:2:2G z2 F/ x3/2 |] %37

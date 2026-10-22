@@ -1,0 +1,38 @@
+% 50 Melodische Übungsstücke, No. 5: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2150
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:50 Melodische Übungsstücke, No. 5
+C:CzernyC
+%%score 1 2
+L:1/16
+Q:1/4=85
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Discant"
+V:2 bass nm="Bass:first"
+V:1
+ z2 [cd][ef] g z [ga][bc'] | d' z [d'c'][ba] g z [g'f'][e'd'] | e' z [e'd'][c'b] a z [d'c'][ba] | %3
+ g2[f'g'][f'e'] [d'c'][ba][gf][ed] | c z [cd][ef] g z [ga][bc'] | d' z [d'c'][ba] g z [ba][gf] | %6
+ e z [ag][fe] d z [gf][ed] | [cd][ef][ga][bc'] c z3 | [Bd]2[Bd]2 [Bd]2[Bd]2 | %9
+ [cd]2[cd]2 [cd]2[cd]2 | [^FAd]2[FAd]2 [FAd]2[FAd]2 | [GBd]2[GBd]2 [GBd]2[GBd]2 | %12
+ z2 [d'c'][ba] g z [ba][g^f] | e z [e'd'][c'b] a z [c'b][ag] | %14
+ [^fg][ag][fe][de] [fg][ab][c'd'][e'^f'] | e'd'bg =fefd | c z [cd][ef] g z [ga][bc'] | %17
+ d' z [d'c'][ba] g z [g'f'][e'd'] | e' z [e'd'][c'b] a z [d'c'][ba] | %19
+ [ga][bc'][d'e'][f'e'] [d'c'][ba][gf][ed] | [ce]2[ce]2 [ce]2[ce]2 | [Acd]2[Acd]2 [cda]2[cda]2 | %22
+ [Bc][dc][BA][GA] [Bc][de][fg][ab] | [c'd'][e'f'][g'a'][b'c''] c'2 z2 |[K:Eb] e4 fedc | a4 bagf | %26
+ e2d2 g2d2 | f4 eGcd | e4 fedc | c'4 bagf | b2ge a2fd | eBgB e2 z2 | g2g2 fedc | d4 G4 | %34
+ g2g2 fedc | d6 G2 | e4 fedc | c'4 b=agf | e2gc edf=B | c2 z6 |] %40
+V:2
+ C8 [EG]2 [EG]2 [EG]2 | B,8 [FG]2 [FG]2 [FG]2 | C4 [EG]2 D4 [^Fc]2 | [BG]2 z6 | %4
+ C,8 [E,G,]2 [E,G,]2 [E,G,]2 | B,,8 [F,G,]2 [F,G,]2 [F,G,]2 | C,4 [E,G,]2 G,,4 [B,,D,]2 | %7
+ [E,C,]2 z6 | z2 [G,,A,,][B,,C,] D,2[D,E,][^F,G,] | A, z [A,G,][^F,E,] D,4 | %10
+ z2 [D,E,][^F,G,] A, z [A,B,][CD] | B, z [DC][B,A,] G,4 | B,,8 [D,G,]2 [D,G,]2 [D,G,]2 | %13
+ C,8 [E,A,]2 [E,A,]2 [E,A,]2 | D,8 [A,C]2 [A,C]2 [A,C]2 | [B,G,]2 z6 | C8 [EG]2 [EG]2 [EG]2 | %17
+ B,8 [FG]2 [FG]2 [FG]2 | C4 [EG]2 D4 [^Fc]2 | [BG]2 z6 | C, z [C,D,][E,F,] G, z [G,A,][B,C] | %21
+ F, z [F,G,][A,G,] ^F,4 | G,8 [D=F]2 [DF]2 [DF]2 | [CE]2[CE]2 [CE]2 z2 |[K:Eb] C,G,E,G, C,2 z2 | %25
+ F,CA,C F,2 z2 | G,F=B,F G,FB,F | =B,GDG C z3 | C,G,E,G, C, z3 | A,,F,C,F, A,, z3 | %30
+ B,,G,E,G, B,,A,F,A, | [E,G,]2[E,G,]2 [E,G,]2 z2 | G,=B,DB, G,CEC | G,=B,DB, G,B,DB, | %34
+ G,=B,DB, G,CEC | G,=B,DB, G,F,E,D, | C,G,E,G, C,2 z2 | A,,F,C,F, A,,2 z2 | G,,E,C,E, G,,F,D,F, | %39
+ C,E,G,E, C,2 z2 |] %40

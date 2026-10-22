@@ -1,0 +1,59 @@
+X:1
+T:6 Gesänge, Op.6
+T:"Wie des Mondes Abbild"
+C:Robert Franz
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=50
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble nm="Singstimme\nVoice"
+L:1/4
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Larghetto tranquillo"!p!"^Leise, innig, sanft getragen" d/ e/ | f d e f | (A3/2 B/) A d/ c/ | %3
+w: Wie des|Mon- des Ab- bild|zit- * tert in den|
+w: As the|Moon's re- flec- tion|trem- * bles in the|
+ e c d e |!>(! G2!>)! G c/ B/ | d B c d |!>(! (e d/!>)!c/)"^poco riten." B A/!<(! A/ | %7
+w: wil- den Mee- res-|wo- gen, und er|sel- ber still und|si- * * cher wan- delt|
+w: wild tem- pes- tuous|O- cean whilst her-|self, she glides se-|rene- * * ly thro' the|
+ =G!<)! A!>(! (d c/) B/!>)! | (A B) !fermata!A[Q:1/4=50]"^a tempo"!p! d/ e/ | f d e f | %10
+w: an dem Him- * mels-|bo- * gen. Al- so|wan- delst du, Ge-|
+w: sky in si- * lent|mo- * tion. Thus thou|wan- der'st my be-|
+ (A3/2 B/) A d/ c/ | e c/ z/ d e |!>(! G2!>)! G c/ B/ | d B c d |!>(! (e d/!>)!c/) B!<(! A/ A/ | %15
+w: lieb- * te, still und|si- cher, und es|zit- tert nur dein|Ab- bild mir im|Her- * * zen, weil mein|
+w: lov- * ed still and|safe- ly, and thy|im- age in my|bo- som trem- bles|on- * * ly, whilst my|
+ _G B!<)! (e d/) c/ |!>(! d2!>)! A z | z2 !fermata!z |] %18
+w: eig- nes Herz _ er-|schüt- tert.||
+w: heart's so wild- * ly|beat- ing.||
+V:2
+!p! de | [fb][fb][db][db] [eb][eb][fb][fb] |!>(! a4-!>)! a2 z2 | %3
+ [ea][ea][ca][ca] [da][da][ea][ea] |!>(! g4-!>)! g2 z2 | x8 |!>(! f4-!>)! f2 (.[_Af].[Af] | %7
+!<(! .[=Ge].[Ge].[Ae]!<)!.[Ae])!>(! [Fd]2 [Ec][DB]!>)! | ([CEA]2 [D=GB]2 !fermata![CA]2)!p! de | %9
+"^dolcissimo" [fb][fb][db][db] [eb][eb][fb][fb] |!>(! a4-!>)! a2 z2 | %11
+ [ea][ea][ca][ca] [da][da][ea][ea] |!>(! g4-!>)! g2 z2 | [dg][dg][Bg][Bg] [cg][cg][dg][dg] | %14
+!>(! f4-!>)!!mf! f2 (.[_Af].[Af] | .[_GBe].[GBe].[GBe].[GBe])!>(! [GA]2 [FA]!>)!A | %16
+!p! ([D=G]2 AB [DF]2 _E>D) | D4 !fermata!z2 |] %18
+V:3
+ z2 |[K:treble]!ped! [GB][GB][FA][FA] [EG][EG][DF][DF]!ped-up! | E2 FG F2 z2 | %3
+!ped! [FA][FA][EG][EG] [DF][DF][CE][CE]!ped-up! | D2 EF E2 z2 | %5
+!ped! [EG][EG][DF][DF] [CE][CE][B,D][B,D]!ped-up! | C2 DE D2!ped! .[B,D].[B,D]!ped-up! | %7
+[K:bass]!ped! (.[E,D].[E,D].[E,C].[E,C])!ped-up! (E,4 | ([E,,E,]4) !fermata!E,2) z2 | %9
+[K:treble]!ped! [_GB][GB][FA][FA] [EG][EG][DF][DF]!ped-up! | E2 FG F2 z2 | %11
+!ped! [FA][FA][EG][EG] [DF][DF][CE][CE]!ped-up! | D2 EF E2 z2 | %13
+!ped! [EG][EG][DF][DF] [CE][CE][B,D][B,D]!ped-up! | C2 DE D2 (.[B,D].[B,D]) | %15
+[K:bass] (.[E,D].[E,D].[E,D].[E,D]) A,3 G, | ([=E,__B,]2 [F,A,]_G, A,2) [G,C]2 | F,4 !fermata!z2 |] %18
+V:4
+ x2 | x8 | g2 fe d2 dc | x8 | f2 ed c2 cB | [dg][dg][Bg][Bg] [cg][cg][dg][dg] | e2 dc B2 x2 | %7
+ x4 e4 | x8 | x8 | g2 fe d2 dc | x8 | f2 ed c2 cB | x8 | e2 dc B2 x2 | x4 C2 DE | x2 D2 x4 | x6 |] %18
+V:5
+ x |[K:treble] x4 | (C2 D) x | x4 | (B,2 B,) x | x4 | (=A,2 B,) x |[K:bass] x4 | x2 A,, x | %9
+[K:treble] x4 | (C2 D) x | x4 | (B,2 B,) x | x4 | (=A,2 B,) x |[K:bass] x4 | x3 A,,- | %17
+ [D,,A,,]2 x |] %18

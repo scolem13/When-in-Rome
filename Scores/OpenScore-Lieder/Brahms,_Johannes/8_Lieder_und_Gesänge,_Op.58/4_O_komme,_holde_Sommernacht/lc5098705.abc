@@ -1,0 +1,71 @@
+X:1
+T:8 Lieder und Gesänge, Op.58
+T:O komme, holde Sommernacht
+C:Johannes Brahms
+Z:Melchior Grohe
+Z:OpenScore (CC0)
+Z:
+%%score 1 { ( 2 4 ) | 3 }
+L:1/4
+Q:1/4=135
+M:4/4
+I:linebreak $
+K:F#
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/8
+V:4 treble 
+V:3 bass 
+L:1/8
+V:1
+"^Lebhaft und heimlich" z | z2 z C | F3/2 G/ A C | A3/2 G/ c G | d4 | c2 z A | G3/2 A/ G d | %7
+w: |O|kom- me, hol- de|Som- mer nacht, ver-|schwie-|gen; dich|hat die Lie- be|
+ c3/2 A/ G d | c4 | C2 z C | F3/2 G/ A C | A3/2 G/ c G | d4 | c2 z A | G3/2 A/ G d | c3/2 A/ G d | %16
+w: recht ge- macht zum|Sie-|gen! O|kom- me, hol- de|Som- mer nacht, ver-|schwie-|gen; dich|hat die Lie- be|recht ge- macht zum|
+ c4 | C z z C | B3/2 B/ B =A | c3/2 c/ c B | (=d2- d/c/B/c/) | =d z z =D | =c3/2 c/ c B | %23
+w: Sie-|gen! Da|bre- chen man- che|Knos- pen los, ver-|stoh- * * * *|len, da|öff- nen ih- ren|
+ (=e/=d/) (B/G/) A B | ^c4- | c2 F F | B3/2 c/ d F | d3/2 c/ f c | =e4 | d z =d2 | c3/2 ^A/ G ^B | %31
+w: sü- * ssen * Schoss Vi-|o-|* len, da|neigt ihr Haupt im|Däm- mer- schein die|Ro-|se, da|wird mein Lieb- chen|
+ c3/2 A/ G d | f4 | c z c2 | f4- | f2 F z | z4 | z4 | !fermata!z3 |] %39
+w: auch noch mein, das|lo-|se, das|lo-|* se!||||
+V:2
+!p! (3(ac'a | (3faf(3cfc (3AcA(3GcG) | (3FcF(3CcC (3FcF(3cfc | (3F!5!cF(3CcC (3F!5!cF(3cgc | %4
+ (3B!<(!!5!fB(3FBF!<)!!>(! (3BfB(3fbf!>)! | (3cfc(3FcF (3cfc(3faf | (3d!5!gd(3GdG (3dgd(3gd'g | %7
+ (3c'f'c'(3fc'f (3^BfB(3FBF | (3GcG(3CGC (3GcG(3cgc | (3gc'g(3cgc (3GcG(3CGC | %10
+"^m.v." ([A,F]3 [CG] [FA]2) ([A,C]2 | [FA]3 [CG] [Ac]2) ([CG]2 | [FBd]8 | [FAc]4) z2 [CFA]2 | %14
+ (.[^B,DG]3 .[B,DA] .[B,DG]2) z2 | (.[CG]3 .[CA] .[^B,FG]2) z2 | (.[CFG]3 .[CFA] .[CFG]2) z2 | %17
+ (.[E=Bc]3 .[FBd] .[EBc]2) z2 | (3[GB]B,[GB](3B,[EG]B, (3[GB]B,[GB](3C[F=A]C | %19
+ (3[=Ac]C[Ac](3C[FA]C (3[Ac]C[Ac](3=D[^GB]D | %20
+!<(! (3[FG=d]=D[FGd](3D[F=Ad]D!<)!!>(! (3[FBd]D[FBd](3=E[=Gc]E!>)! | %21
+ (3[=G=A=d]=D[GAd](3D[GA]D (3[FA]D[FA](3D[FA]D | (3[=A=c]=C[Ac](3C[FA]C (3[Ac]C[Ac](3=D[=GB]D | %23
+!<(! (3[=A=c]=D[^GB](3D[^EG]D!<)!!>(! (3[^FA]D[FA](3D[FB]D!>)! | %24
+!p! (3[FGc]C[FGc](3C[FGc]C (3[EGc]C[EGc](3C[EGc]C | (3[Bc]F[Bc](3F[Bc]F (3[A=ef]F[Aef](3F[Aef]F | %26
+ (3BfB(3FBF (3BfB(3fbf | (3B!5!fB(3FBF (3BfB(3fc'f |!<(! (3gc'g(3BgB!<)!!>(! (3gbg(3bg'b!>)! | %29
+ (3f!5!bf(3BfB (3f=af(3af'a | (3f!5!c'f(3cfc (3f^bf(3^BfB | (3cfc(3FcF (3dfd(3FdF | %32
+ (3CAC(3A,CA, (3DBD(3B,DB, |!>(! (.[FGc]3 .[FGd] .[EBc]2) z2!>)! | %34
+!p![I:staff +1] (3B,DB,(3D,B,D, (3A,=EA,(3=E,A,E, | %35
+[I:staff -1] (!1!!2![B,F]3 !3!G)!>(! (!2!B3 !3!c) | (!2!f3 !3!g) (!2!b3 !3!c') | %37
+"_ritard." [ff']6!>)!!pp! [gg']2 | !fermata![fac'f']6 |] %39
+V:3
+ z2 | z4 z2"^s.v." (C,2 |"^leggiero" [A,,F,]3 [C,G,] [F,A,]2) ([A,,C,]2 | %3
+ [F,A,]3 [C,G,] [A,C]2) ([C,G,]2 | [F,B,D]8 | [F,A,C]4) z2 [C,F,A,]2 | %6
+ (.[^B,,F,G,]3 .[C,F,A,] .[B,,F,G,]2) z2 | (.[C,F,G,]3 .[C,F,A,] .[D,F,G,]2) G,,2 | %8
+ (.[C,F,G,]3 .[C,F,A,] .[C,F,G,]2) z2 | (.[E,=B,C]3 .[F,B,D] .[E,B,C]2) C,2 | %10
+ (3F,,C,F,,(3C,,F,,C,, (3F,,C,F,,(3C,!1!F,C, | (3F,,!1!C,F,,(3C,,F,,C,, (3F,,C,F,,(3C,F,C, | %12
+!<(! (3F,CF,(3C,!1!F,C,!<)!!>(! (3F,,C,F,,(3C,F,C,!>)! | (3F,CF,(3C,!1!F,C, (3F,,C,F,,(3C,F,C, | %14
+ (3F,,D,F,,(3D,F,D, (3F,,D,F,,(3D,F,D, | (3C,,C,C,,(3C,E,C, (3G,,D,G,,(3D,G,D, | %16
+ (3C,,G,,C,,(3G,,C,G,, (3C,G,C,(3G,,C,G,, | (3C,G,C,(3G,CG, (3CGC(3G,CG, | %18
+ (.[C,,C,]3 .[=D,,=D,] .[C,,C,]2) [F,=A,]2 | (.[=D,,=D,]3 .[E,,E,] .[D,,D,]2) [^G,B,]2 | %20
+ ([B,,,B,,]2 [=A,,,=A,,]2 [G,,,G,,]2 [A,,,A,,]2) | [=D,,=D,]3 [D,=G,=A,] [D,F,A,]2 z2 | %22
+ (.[=D,,=D,]3 .[=E,,=E,] .[D,,D,]2) [=G,B,]2 | (.[=D,,=D,]3 .[=E,,=E,] .[D,,D,]2) [D,F,B,]2 | %24
+ [^C,,^C,]4 [C,^E,B,]4 | [F,,,F,,]4 [F,A,C=E]4 |!pp! ([D,B,]3 [F,C] [B,D]2) ([D,F,]2 | %27
+ [B,D]3 [F,C] [DF]2) ([F,C]2 |[K:treble] [B,=EG]8 | [B,DF]4) [=C=DF=A]4 | %30
+ (.[^CFG]3 .[CF^A] .[^DFG]2) z2 |[K:bass] (.[C,F,G,]3 .[C,F,A,] .[^B,,F,G,]2) z2 | %32
+ (.[C,,C,]3 .[D,,D,] .[C,,C,]2) z2 | (3G,CG,(3C,!1!G,C, (3G,,!1!C,G,,(3C,,!1!G,,C,, | %34
+ (.[F,,,F,,]3 .[G,,,G,,] .[F,,,F,,]2) z2 | (3D,F,D,(3F,,D,F,, (3D,F,D,(3F,,D,F,, | %36
+ (3B,,D,B,,(3D,,B,,D,, (3B,,D,B,,(3D,,B,,D,, | (3F,,B,,F,,(3B,,,F,,B,,, (3F,,B,,F,,(3B,,,F,,B,,, | %38
+ !fermata![F,,,F,,]6 |] %39
+V:4
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %20
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2 !1!F z | %36
+ !1!B z !1!f z | [bd']4 | x3 |] %39

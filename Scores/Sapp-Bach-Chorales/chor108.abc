@@ -1,0 +1,29 @@
+X:1
+T:Valet will ich dir geben
+T:Valet will ich dir geben
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ E | B B c d | e2 !fermata!e g | f e e d | !fermata!e3 x :: e/f/ x3 | g g f e | %7
+ d/c/ d !fermata!B d | e d c c | !fermata!B3 B | G/A/ B c B | B A !fermata!G B | A G F F | %13
+ !fermata!E3 x || %14
+V:2
+ B, | E G A G | G2 !fermata!G c | c A G F | !fermata!G3 x :: G/A/ x3 | B c c =A | %7
+ B/=A/ B !fermata!F B | B B B =A | !fermata!F3 F | E/F/ G A G | G F !fermata!E E | E E E D | %13
+ !fermata!B,3 x || %14
+V:3
+ G | B e e d | c2 !fermata!c e | c c B B | !fermata!B3 x :: B x3 | e e f f | f/e/ f !fermata!d f | %8
+ e f g f/e/ | !fermata!d3 B | B e e _d | c2 !fermata!c G | A B c B/A/ | !fermata!G3 x || %14
+V:4
+ E, | G, E, A, =B,, | C,2 !fermata!C, C | A, F, B, B,, | !fermata!E,3 x :: E, x3 | %6
+ E/D/ C/B,/ =A, F, | B,2 !fermata!B,, _A, | G, F, E, F, | !fermata!B,,3 D, | E, _D, C,/=D,/ =E, | %11
+ F,2 !fermata!C, _D, | C, B,, A,, B,, | !fermata!E,,3 x || %14

@@ -1,0 +1,72 @@
+% Das Wohltemperierte Clavier II, Praeludium I: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2223
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Das Wohltemperierte Clavier II, Praeludium I
+C:J. S. Bach (1685-1750)
+%%score ( 1 2 3 ) ( 4 5 6 )
+L:1/16
+Q:1/4=70
+M:4/4
+I:linebreak $
+K:none
+V:1 treble nm="right" snm="Hpschd"
+V:2 treble 
+V:3 treble 
+L:1/8
+V:4 bass nm="left" snm="Hpschd"
+V:5 bass 
+V:6 bass 
+L:1/8
+V:1
+ z cde GeFd [Ec][BA]G_B EGCB | [AG][FE]FA DFA,C =B,DEF G,FED | E16- | [E-A,]4 [A,E]4 B,D2<G2 GFE | %4
+ [CF-] F3- F FED [EC]8- | [ECD-] D3- D DEG C4- C [AG]AC | [A,B,-] B,3- B, DEF G7 G | %7
+ [A,=F]6 =F2 E4- E EFG | [CAGFEFA]4 D4- D FED C2>C2 | [AB,]2 B,4 [FD]3 D^C2 A,4- | %10
+ [A,D]AB^c d f4 f^d=d ^dgc=d | [_B^c] ^c5 d3 dc=B cde2- | [eF-] F3- F F_B2 f4- f ef2 | %13
+ [de-] e3- e ea^g a4- a =gaf | [Ad-] d3- d feg =c7 [^dc] | [=d_B]6 B3 G A4 [d=F]2 | %16
+ =Bd2<g2 gfe f4- f df2- | [f^G] ^G2G A4- A c_BA B^F=G2- | %18
+ [G^c=c-]3 =c3- c [c^D] [=B=D]E _B4- B [B^C] | A8 G4- G GA=c | F4- F [dc]dF E4- E GAB | %21
+ c7 c B6 [^cd]e | [GA-] A3- A A_B=c [dc][BA]Bd G4- | [G^c-] ^c3- c A d4 d2 =c2[_BG]2- | %24
+ [_BGA] A2A2 AG^F Gde^f g2<_b2- | [_b^d-] ^d7- d d2<=d2 d2^c | [gd] d6 c _B2g^f g2>a2 | %27
+ _b4- b ab2 a7 ^g | [fg] g6 g ^f4- f eG2- | [GfceBdc-e-]6 [c-e-d]2 [ce] edc dfa[Ac] | %30
+ [=BG]4 c8- c3 B | [Fc] c7 z cde fadf | _B4- B B2G2 EFG A2>=B2 | [CEGc]16 |] %34
+V:2
+ x16 | x16 | z C15 | z4 z D2C G,2>B,2 C4- | z CDA, B,4 z8 | z CB,A, B,4 A,8- | %6
+ z A,G,^F, G,2 z3 EB,D ^CEA,2- | z6 D3 D=CB, C4- | z4 z cBA ^G4- G EA2- | z2 A2 =G2 z2 E3E2 ED^C | %10
+ z6 A=c _B8- | z _B2<A2 A2^G A7 =G | z Ad^c d2>e2 A2>A2 d2>d2- | z d=c=B c4- c ^cde A4- | %14
+ z ^FGA _B2 z4 B3 [AG]A z | z4 z f2e f2>c2 fa z f | %16
+ G2>B2 ^c4 (3:2:1d4 [=c_B] (3:2:2z/ B- (12:7:1B4 A | z =f2<e2 ^d=d^c d7 d | %18
+ z3 _B AG^F z3 =FA GFE z | C6 F3 FED E4 | D8- D DCB, C2 z2 | z AEG ^FA D8 G2- | z G=FE F8 z fed | %23
+ z _BAG F2>F2 E6 z2 | z G^F2 D4- D z4 z d=f | z _b^g=g ^g=c'^f=g f6 g2- | %26
+ z g^fe fg2<a2 d2<c2 _B^d2 | =d2>d2 =g3g2 g=fe f4- | z =fed e4- e ^d=dc d4- | z6 _B2 A7 z | %30
+ z4 G4- G GFE DEF2- | z FED EGCE z8 | z AGF G2E2 C4 z FD2 | x16 |] %34
+V:3
+ x8 | x8 | z B,/A,/ G,6 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ z4 z3/2 A/ z2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z7 f | x8 | x8 | x8 | x8 | %33
+ x8 |] %34
+V:4
+ [C,,C,]16- | [C,,C,]16- | [C,,C,]4 z F,E,D, [C,D,][C,B,,]C,E, G,,_B,,A,,G,, | F,,12 E,,2A,,2 | %4
+ D,,4 G,,4 [C,,C,]G,,A,,B,, C,E,A,,C, | ^F,,2D,,2 G,,4- G,, [A,,B,,][C,D,]E, F,,4 | %6
+ [D,G,,]6 =F,,2 E,,2G,,2 A,,2^C,2 | [E,D,,-] D,,3- D,, F,B,,D, ^G,,2E,,2 A,,2=G,,2 | %8
+ F,,2E,,2 F,,2D,,2 E,,8- | E,,B,,C,D, E,G,B,,D, ^C,E,A,,2 D,4- | [D,F,]2 F,6 G,,8 | %11
+ [G,A,,]3 A,,9 A,,4 | [A,D,-]2 D,6- D,3 C, B,,2>A,,2 | ^G,,2^F,^G, A,4- A, A,=B,^C D4- | %14
+ [D_B,-] _B,7- B, A,=G,B, A,4- | A, [FG,F,A,G,_B,]4 [G,_B,][C,G,]2 F,8- | %16
+ F, [DF,E,D,E,G,]4 [E,G,]2<[A,,A,]2 E,F,A, D2>C2 | [D,B,] B,C,B,, C,2F,2 _B,,7 ^D, | %18
+ [_B,A,,] A,,6 ^F, G,,7 E, | [G,F,,-] F,,3- F,, A,D,F, =B,,2G,,2 C,4- | %20
+ C, [D,E,][F,G,]A, B,,4 C,6 B,,2 | A,,2C,2 D,2^F,2 G,,4- G,, B,E,G, | %22
+ ^C,2A,,2 D,2=C,2 _B,,2A,,2 B,,2G,,2 | A,,8- A,, E,F,G, A,CE,G, | ^F,A,D,2 G,6 D,2 ^D,2G,2 | %25
+ C,8 =D,8- | [D,A,G,]4 D,4 G,8- | [G,_B,CD]3D2 ^CD2 ^C,2=B,C DA,D,F, | %28
+ B,,2A,B, =CG,C,E, A,,4 B,,4 | C,4- C, E,A,,C, F,,C,D,E, F,4- | F, [DA,G,F,E,]4G,C,E, G,,8 | %31
+ [G,C,]8- [C,-G,]8 | [C,G,-G,F,G,F,A,E,G,D,F,]32 F,2 | [E,=G,]16 |] %34
+V:5
+ x16 | x16 | x16 | z C,D,E, F,2E,2 D,4 E,4 | D,8 z8 | z14 D,2- | z8 z2 E,6- | %7
+ z A,,B,,^C, D, z8 z3 | x16 | z8 z3 G,2 G,F,E, | z2 A,,2 _B,,2D,2 G,8- | %11
+ z3 G, ^F,2=F,2 E,2D,2 E,2A,2- | z2 _B,2 A,2G,2 F,G,2<A,2 ^G,A,2 | %13
+ z E, z3 =C,=F,E, F,4- F, E,F,D, | z DE^F G2>=F2 E4- E CF2- | z6 C4- C A, D4- | z8 D,8- | %17
+ z =D, z7 D,E,^F, G,A,_B,2- | z A,E,G, ^F,G,2<A,2 G,D,=F, E,F,G,2- | z C,D,E, F, z8 z3 | %20
+ z6 G,8 z2 | z2 A,7 D,E,^F, G, z3 | x16 | x16 | z3 C2 C_B,A, B,8 | C8- C3 C =B,2_B,2 | %26
+ z4 A,2 D4 ^D2 =D2C2 | z3 F, E,2>D,2 z A, z6 | z G, z8 A,3 G,D,F, | E,F,2<G,2 z8 A,D2- | %30
+ z4 E4- E E,D,C, G,4- | z8 A,8 | z2 E,D, E,4 z6 ^G,2 x18 | x16 |] %34
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 z F,/E,/ D,/E,/F,- | x17 | x8 |] %34

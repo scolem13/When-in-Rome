@@ -1,0 +1,68 @@
+% Prelude Op. 23, No. 10: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2058
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Prelude Op. 23, No. 10
+C:Sergei Rachmaninoff (1873-1943)
+%%score ( 1 2 3 ) ( 4 5 )
+L:1/8
+Q:1/4=50
+M:3/4
+I:linebreak $
+K:Gb
+V:1 treble 
+V:2 treble 
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+ z [DGBd] [EGBd][FBd] [FBd][GBd] | z [DGBd] [EGBd][FBd] [FBd][GBd] | %2
+ z [DGBd] [EGBd][FBd] [FBd][GBd] | z [DFBd] [DFBd][EGBd] [EGBd][FBd] | %4
+ z [DGBd] [DGBd][DAc] [DG][=CE] | z [DFA] [EGA][FAd] [GBd][A_cd] | z [DGBd] [EGBd] [FBd]2 [GBd] | %7
+ z [DFBd] [DFBd] [EGBd]2 [DBd] | z [EBde] [EAde][FAd] [GAd][A=c] | z [GBd] [FAd][EGA] [FA]d | %10
+ z [DFA] [DFA] [EGA]2 [FA] | c4 d2 | B2 =eA =G2- | [=GCECE]2 [CE] [A,E]2 [A,E] | %14
+ z [CE_G] [CEG] [D=EG]2 [_EG] | B4 c2 | A2 =dG F2- | [FB,DB,D]2 [B,D] [G,D]2 [B,D] | %18
+ z [G,D]2 [F,A,=D]2 [B,E] | z [G,=DG]2 [G,A,E] z [E,G,]/ z/ | z [G,B,E]2 [F,B,F]2 [_DG] | %21
+ z [B,GB]2 [B,EG]2 [G,B,] | z [D=Ad]2 [DB]2 [B,F] | z [=DB=d]2 [Dc]2 [CG] | z [Ece]2 [Ec]2 [CG] | %25
+ z [Ece]2 [Ec]2 [CG] | z [Ece]2 [CEc]2 [Ece]- | [Ece] [CEc]2 [EBe]2 [B,EB] | %28
+ z [G=Aeg]2 [=A,EA]2 [GAeg]- | [GAeg] [G_Aeg]2 [AGE_A,]2 [Geg] | z [GBdg]2 [GB,]2 [GBd] | %31
+ z [Gd]2 [GB,]2 [GB]- | [GB] [GBe]2 [GEB,]2 [GBe]- | [GBe] [EGd]2 [GEA,]2 [DFd] | %34
+ z [Bd]2 [Bd]2 [Bd]- | [Bd] [fBd]2 B2 B | [dBGE]2 [BGE] A2 [G=C]- | [G=CA] A2 [FA] d2- | %38
+ [dGB] [Bd]2 [Bd]2 [Bd]- | [Bd] [fBd]2 B2 B | b3 d c2 | [AB] B g3 B | [GA] A G2 e2- | %43
+ [EA]3 e6 B c2 | z2 GA [F=D][G_D] | E4 [DCF,]2 | z D E F2 G | Bc =cd ga | d'4 f'2 | =c'4 e'2 | %50
+ _c'2 =d'2 b2 | _d'4 g2 | [dC]4 [fF]2 | [=c=C]4 [eC]2 | [_c_E_C]2 [=d=DC]2 [=A_DC]2 | %55
+ [_dDB,]2 G [GDB,]2 [GDB,]- | [GDB,] [GDB,]2 [GDB,]2 [GD] | z [DGB]2 [DGB]2 [GB] | %58
+ z [GBd]2 [GBd]2 [GBd] | z [Gd]2 [Gd]2 [Gd]- | [Gd] [Gd]2 z [dFD]2 | [GB,]6 |] %62
+V:2
+ x6 | x6 | x6 | x6 | z4 B2 | x6 | x6 | x6 | x6 | x6 | z4 d2 | z [D=EA] [DEA] [_EGA]2 [=EA] | %12
+ z [D=E]2 [DE]2 [D_E] | z2 A z3 | z4 c2 | z [C=DG] [CDG] [_D=EG]2 [=DG] | z [C=D]2 [CD]2 [C_D] | %17
+ z2 G z3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ z2 g2 f2- | z2 f>e d2- | z2 _c2 B>A | z [DF] [EG] z [GB][Ac] | z2 g2 f2- | z2 f>e d2 | %40
+ z [Be]2 B2 A- | z G z [Gc]2 G- | z F2 E z2 | x12 | z2 E2 z2 | DB, C2 z2 | z B,3 D2 | G4 [Bd]2 | %48
+ [Bdfb][_c_c'] [Fdf][Gg] [f=g]a | [A=cea][=A=a] [E_ce][Ff] [ce_g]=g | %50
+ [=Gce=g][_A_a] [c=df]_g [B_d=e]f | (3[Bdf][_Gg][Aa] [Gg]A =AB | F2 F2 =G_A | E2 E2 _G=G | %54
+ (3=G_AG (3_G=G_G (3F=EF | (3FGA z4 | x6 | x6 | x6 | x6 | x6 | x6 |] %62
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z3 d z2 | x6 | %37
+ x6 | x6 | z3 d z2 | x6 | x6 | x6 | x12 | x6 | x6 | x6 | z2 B2 z2 | x6 | x6 | x6 | x6 | %52
+ Bc (3z _G=G z2 | A=A (3z =EF z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %62
+V:4
+ z6 | z4 D2 | G,4 D2 | B,4 D>F, | E,3 F, G,>A, | [A,D,]4 D2 | G,4 D2 | B,4 F>A, | =G,2 A,7/2 D/ | %9
+ D4 D2 | C4 D2 | [A,D,,]4 DA, | =G,2 A,2 B,2 | [E,B,C]4 C2 | B,4 C2 | [G,C,,]4 CG, | F,2 G,2 A,2 | %17
+ [D,A,B,]4 G,2 | B,,4 G,2 | C,2 =C,2 B,2 | D,4 B,2 | =D,2 E,2 _D2 | =E,2 F,2 D2 | F,2 G,2 =D2 | %24
+ G,4 E2 | =G,2 A,2 =E2 | A,2 F2 =A,2 | F2 B,2 G2 | C4 G2 | =C4 A2 | D4- D G, | =A,B, C=C EC | D6- | %33
+ D2 C3 B, | G,4 D2 | B,4 D>F, | E,3 D2 E- | [A,D,]4 E D2 | G,4 D2 | B,4 G>D | =C2 D3 [F=D] | %41
+ EB, A,2 B,2- | [B,=D]2 [=DE] G, F,2- | C3 F,3 [E=G,_D] [EA,C]2 | z2 [B,E,] A,2 [_G,B,,] | %45
+ [E,A,,]4 [A,,D,,]2 | (3G,,D,F, (3G,A,=A, (3B,D,D- | (3:2:6DD=D E=EF g'2 | %48
+ (3G,,,G,,D,- (3D,CD (3[=GCF]DA | (3_G,,,_G,,E,- (3E,=A,=C (3[_GE]C=G | %50
+ (3[E,_G,,_G,,,]_A,_C (3[=DF]C_G (3[_D=E]_D,[CF] | (3G,,,G,,D, (3B,C=C (3DGD, | %52
+ (3G,,,G,,D, (3A,=A,B, (3_CD,G,,- | (3G,,G,,,E, (3G,=G,_A, (3=A,E,_G,,- | %54
+ (3:2:1G,,2 _G,,, G,, =D, _D, _D | D,2 G,,2 G,2 | D,4 B,>A, | G,4 D2 | B,3 D (3FED | B6- | %60
+ B3 z [CA,D,]2 | [G,D,G,,]6 |] %62
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z4 E,2- | A,,4 z2 | x6 | x6 | %16
+ z4 D,2- | G,,4 z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %33
+ z4 D,, z | z D E F2 G | z D E F2 G | z B, CF, G,>A, | x7 | z D E F2 G | z D EF z2 | z G4 z | %41
+ z3 E2 E- | z2 C z3 | x9 | z3 =C, _C, z | x6 | x6 | z4 (3[G_D]D_D, | x6 | x6 | x6 | x6 | x6 | x6 | %54
+ x19/3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %62

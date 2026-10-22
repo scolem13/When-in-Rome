@@ -1,0 +1,51 @@
+% Sinfonia 9: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=199
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sinfonia 9
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Fmin
+V:1 treble nm="up"
+V:2 treble 
+V:3 bass nm="down"
+V:4 bass 
+V:1
+ z F AG z G B=A | z B =e f2 _e/d/ cB | A2 e=d =B2 f=e | =A2 =b c'2 _b/_a/ g[f=B] | %4
+ eg a[gc] f2- f/ _g/=e/f/ | [B=e]/ =e3/2 =A2 d2- d/ =g/c/B/ | [_AF]2 f2 =e2 _e2 | %7
+ =d2 _d2 [c_A]>_B A[=eG] | [fF] _e2 [dF] d2 =d2 | [Be]e =b[_b_G]/F/ G2 =e_e- | %10
+ [eA]/ A/[cA,] [FC][=d_B,] f/d/[eB,] _D[eC] | =A/G/[_AD] GB/[c_d]/ c>[BF] G2 | AE _GF =D2 A=G | %13
+ C2 =d e2 d/c/ B[A=D] | G_B _dc =A2 e=d | B2 f =e2 [cF] f2 | =e2 g2 f2 a2 | g2 c2 =B2 _B2 | %18
+ =A2 _A2 G c2 [=BF] | c B2 A/G/ A2 =A2 | [B=D][BG] _gf BF =B_B- | [BG] A2 _G/F/ G2 =G2 | %22
+ [AC][AF] =e_e A_E =A_A- | [AF] F d2 c2 =B2 | B2 =A2 [_AF]>_G F[cE] | dA =B_B =G2 dc | %26
+ F2 =g a2 g/f/ e[dG] | c2 _e2 =d2 f2 | e2 _g2 f[BF] _dc | =A2 e=d B2 f=e- | [=ec] c _AG =E2 B=A | %31
+ =D2 =e f2 _e/_d/ c[B=E] | A2 z B/[cd]/ d/=B/c z c'/=a/ | _g/=e/f =E=G/[_A_B]/ A>[GD] [EC]_B, | %34
+ [F=A,]8 |] %35
+V:2
+ x8 | x8 | z c c2 z =d _B2 | z f _A2 G c2 z | c2 z2 dc _B2- | %5
+ z/ c/=A/B/ z/ c'/f/_e/ B/_G/=E/F/ E2 | z3 B/[cd]/ d/=B/c z c/=A/ | _G/=E/F z =G/[AB]/ z f2 z | %8
+ z C _G z/ c/ z F =B_B- | z A2 z2 _B =G2 | z/ B/ z/ A/ z3/2 [ef]/ z7/2 c/ | z3 A2 G/ z/ ED | %12
+ C2 E2 z F _D2 | z A =B,2 _B, E2 z | E2 B2 z c c2 | z =d _d2 c z _AG | z G B=A z A c=B | %17
+ z C _E=D z D F=E | z F =B c2 _B/A/ G z | E2 =E2 F _E2 =D/C/ | z2 =A2 z _A2 =G/F/ | %21
+ z F/E/ =D2 E _D2 C/_B,/ | z2 G2 z _G2 F/E/ | z A z =G/[A_B]/ B/G/A z A/F/ | %24
+ =D/C/_D z E/[F_G]/ z _d2 z | D2 A2 z B _G2 | z d =E2 _E A2 z | AE _GF z F A=G | z =G B =A2 z B2 | %29
+ z c c2 z =d _d2 | z F F2 z G _E2 | z B _D2 C F2 z | F z7 | z3 F2 _E/ z2 F/ | x8 |] %35
+V:3
+ F,,2 F,2 =E,2 _E,2 | =D,2 _D,2 C,B,, C,C,, | F,,2 z F,/[G,A,]/ A,/_G,/=G, z G/=E/ | %3
+ D/=B,/C z =D/[_EF]/ EF GG, | C2 z6 | z8 | z F, A,G, z G, B,=A, | z B, =E F2 _E/D/ CB, | %8
+ A,2 =A,2 B, _A,2 G,/F,/ | G,C =D2 E _D2 C/B,/ | C2 A,2 G,2 _G,2 | F,2 =E,2 _E,D, E,_E,, | %12
+ A,,2 z =A,/[B,C]/ C/A,/B, z B,/G,/ | =E,/=D,/_E, z F,/[G,_A,]/ G,A, B,B,, | E,2 z E, _G,F, z F, | %15
+ A,=G, z G, B,A, z B, | D,C, z C E,=D, z =D | F,E, z F,,/[G,,A,,]/ A,,/_G,,/=G,, z G,/=E,/ | %18
+ D,/=B,,/C, z =D,/[_E,F,]/ E,F, G,G,, | C,C,, _D,C, z C, _G,F,- | F, E,2 D,/C,/ D,2 =D,2 | %21
+ E,B,, =B,_B, z _B,, =E,_E,- | E, D,2 =B,,/_B,,/ =B,,2 C,2 | D,D, F,E, z E, _G,F, | %24
+ z _G, C D2 C/B,/ A,G, | F,2 z =D,/[E,F,]/ F,/D,/E, z E,/C,/ | =A,,/G,,/_A,, z B,/[C_D]/ CD EE, | %27
+ _A,2 z A, =B,_B, z B, | DC z C ED z E | _G,F, z F A,=G, z G | B,A, z B,/[CD]/ D/=B,/C z C/=A,/ | %31
+ _G,/=E,/F, z =G,/[_A,_B,]/ A,B, CC, | F,,2 F,2 =E,2 _E,2 | =D,2 _D,2 C,B,, C,C,, | F,,8 |] %35
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z F, A,G, z G, B,=A, | z B, z6 | %34
+ x8 |] %35

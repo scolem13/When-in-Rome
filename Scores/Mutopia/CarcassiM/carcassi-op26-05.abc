@@ -1,0 +1,56 @@
+% Six Caprices, No. 5: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1840
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Six Caprices, No. 5
+C:Mateo Carcassi
+%%score ( 1 2 3 )
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Guitar" snm="Ac Gtr"
+V:2 treble 
+L:1/16
+V:3 treble 
+V:1
+ [A,DFD,]D, F,A, G,F, E,D, | [A,EC,]A,, C,E, D,C, B,,[A,A,,] | D,2 B,,2 E,2 E,,2 | %3
+ A,,2 E,C, A,,2 z2 | [A,CGA,,]A,, C,E, D,C, B,,A,, | [A,DFD,]D, F,A, G,F, E,D, | G,2 E,2 A,2 A,,2 | %7
+ D,2 A,F, D,2 D,2 | D,2 D,2 D,4 | D,2 D,2 D,4 | A,,4 A,,4 | [A,=DF=D,]A, F,A, D,2 D,2 | %12
+ D,2 D,2 D,4 | D,2 D,2 D,4 | =G,,4 A,,4 | [A,=DF=D,]D, F,A, G,F, E,D, | E,,4 ^GE FE | %17
+ AA,, C,E, D,C, B,,A,, | E,,2 ^A,2 B,2 ^G,2 | =A,2 E,2 C,2 A,,2 | E,,4 ^GE FE | %21
+ AA,, C,E, D,C, B,,A,, | E,,2 ^A,2 B,2 ^G,2 | =A,2 E,2 C,2 A,,2 | A,,4 A,,2 A,,2 | A,,4 A,,2 A,,2 | %26
+ [EGA,,]A,, C,A,, D,A, ^F,D, | A,,2 E,C, A,,2 A,2 | A,,4 A,,2 A,,2 | A,,4 A,,2 A,,2 | %30
+ [EGA,,]A,, C,A,, D,A, ^F,D, | [CEA,,]D CB, A,G, F,E, | [A,DFD,]D, F,A, G,F, E,D, | %33
+ [A,EC,]A,, C,E, D,C, B,,A,, | D,2 B,,2 E,2 E,,2 | A,,2 E,C, A,,2 z2 | %36
+ [A,CGA,,]A,, C,E, D,C, B,,A,, | [A,DFD,]D, F,A, G,F, E,D, | G,2 E,2 A,2 A,,2 | D,2 A,F, D,2 D,2 | %40
+ D,2 D,2 D,4 | D,2 D,2 D,4 | A,,4 A,,4 | [A,=DF=D,]A, F,A, D,2 D,2 | D,2 D,2 D,4 | D,2 D,2 D,4 | %46
+ A,,4 A,,4 | [A,=DF=D,]D, F,A, G,F, E,D, | [A,EC,]A,, C,E, D,C, B,,A,, | D,2 F,,2 G,,2 ^G,,2 | %50
+ A,,2 A,2 A,,2 A,2 | [A,DFD,]D, F,A, G,F, E,D, | [A,EC,]A,, C,E, D,C, B,,A,, | %53
+ D,2 =C,2 B,,2 ^A,,2 | =A,,2 A,2 A,,2 E2 | [DFdD,]3 z/ [DFd]/ [DFdD,]2 [DFdD,]2 | [DFd]4 z4 |] %57
+V:2
+ z3 D z D z D z D z D z D z D | z3 E z E z E z E z E z E z E | z DFD z DFD z D^GD z DGD | %3
+ z CAC z A z A z8 | z3 G z G z G z G z G z G z G | z3 F z F z F z F z F z F z F | %6
+ z DED z DED z DFD z CEC | z DFD z D z D z DFD z FAF | z F^AF z GBG z BdB eBdB | %9
+ z =F^GF z ^F=AF z FAF BFAF | z E=GE AEGE z CEC ^DCEC | z3 D z D z D z DFD z FAF | %12
+ z F^AF z GBG z BdB eBdB | z =F^GF z ^F=AF z FAF BFAF | z EGE AEGE z CEC ^DCEC | %15
+ z3 D z D z D z D z D z D z D | z DE2 F2E2 z D z D z D z D | z C z E z E z E z E z E z E z E | %18
+ z B,EB, z CEC z DED z B,EB, | z CEC z CEC z CEC z CEC | z DE2 F2E2 z D z D z D z D | %21
+ z C z E z E z E z E z E z E z E | z B,EB, z CEC z DED z B,EB, | z CEC z CEC z CEC z CEC | %24
+ z EGE AEGE z =C^DC z ^CEC | z FAF BFAF z C=FC z =D^FD | z3 G z G z G z F z F z F z F | %27
+ z CEC z C z C z CEC z CEC | z EGE AEGE z =C^DC z ^CEC | z FAF BFAF z C=FC z =D^FD | %30
+ z3 G z G z G z F z F z F z F | z3 E z E z E z E z E z E z E | z3 D z D z D z D z D z D z D | %33
+ z3 E z E z E z E z E z E z E | z DFD z DFD z D^GD z DGD | z CAC z C z C z8 | %36
+ z3 G z G z G z G z G z G z G | z3 F z F z F z F z F z F z F | z DED z DED z DFD z CEC | %39
+ z DFD z D z D z DFD z FAF | z FAF z GBG z BdB eBdB | z =F^GF z ^FAF z FAF BFAF | %42
+ z E=GE AEGE z CEC ^DCEC | z3 D z D z D z DFD z FAF | z FAF z GBG z BdB eBdB | %45
+ z =F^GF z ^FAF z FAF BFAF | z E=GE AEGE z CEC ^DCEC | z3 D z D z D z D z D z D z D | %48
+ z3 E z E z E z E z E z E z E | z DFD z DFD z DED z D=FD | z D^FD z DFD z CEC z CEC | %51
+ z3 D z D z D z D z D z D z D | z3 E z E z E z E z E z E z E | z DFD z DFD z DGD z DGD | %54
+ z FAF z FAF z G^cG z GcG | x16 | D,12 z4 |] %57
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ z3/2 D/ z/ D/ z/ D/ z4 | x8 | x8 | x8 | z3/2 D/ z/ D/ z/ D/ z4 | x8 | x8 | x8 | x8 | x8 | x8 | %27
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %46
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %57

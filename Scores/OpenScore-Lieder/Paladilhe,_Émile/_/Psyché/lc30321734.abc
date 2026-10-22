@@ -1,0 +1,67 @@
+X:1
+T:Psyché
+C:Émile Paladilhe
+Z:Pierre Corneille
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 4 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=64
+M:4/4
+I:linebreak $
+K:Gb
+V:1 treble nm="Flute"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+L:1/4
+V:5 bass 
+L:1/4
+V:6 bass 
+L:1/4
+V:1
+"^Andante quasi andantino" z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z4 z B B B | c3 F F4 |$ %10
+w: ||||||||Je suis ja-|loux, Psy- ché,|
+ z2 G2 G G B d | E4 E2 z2 | z2 G G G2 G3/2 e/ | d4- d z B,2 |$ C2 E2 G3 F | G4 z2 G3/2 A/ | %16
+w: de tou- te la na-|tu- re !|Les ray- ons du so-|leil _ vous|bai- sent trop sou-|vent, Vos che-|
+ B2 A B (3G F G (3E =D E |$ =c4 z c f e | d B D E (F3 E) | D4 z2 z B |$ d3 d d d _c3/2 B/ | %21
+w: veux souf- frent trop les ca- res- ses du|vent. Quand il les|flat- te, j’en mur- mu- *|re ! L’air|mê- me que vous res- pi-|
+ c2- c z!<(! c c c d/ e/!<)! | _f3 G A B A G |$ e4 e z e e |[Q:1/4=72]"^Animato" e2 F F G3 d | %25
+w: rez _ A- vec trop de plai-|sir pas- se sur vo- tre|bou- che. Votre ha-|bit de trop près vous|
+ d2 E2 z2 c c |$"^poco rit." c2 D D"^dim." D3 B | B2 =C2 z4 | %28
+w: tou- che ! Votre ha-|bit de trop près vous|tou- che !|
+[Q:1/4=64]"^Tempo I" z2 B B B2 B/ B/ B/ B/ |$ _c4 z c A F |"^cresc." d2 d2 d3 d | e4 e2 z2 |$ %32
+w: Et si- tôt que vous sou- pi-|rez Je ne sais|quoi qui m’ef- fa-|rou- che|
+ e2 z G G2 G3/2 e/ | d4 z2 B, B, | (C2 E2)"^rit." G3 F |$[Q:1/4=64] G2- G z z4 | z8 | z8 | z8 |] %39
+w: Craint, par- mi vos sou-|pirs, des sou-|pirs _ é- ga-|rés ! _||||
+V:2
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 |$ x6 d x | %18
+ x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ g3 x5 | x8 | x8 |$ x8 | %36
+ x8 | x8 | x8 |] %39
+V:3
+!p! (B,B A4 G2) | (EG F6) |"_molto" (Dd c4 B2) | (GB A6) |!ff! (Ba g4 B2) |$ (Bd c2-) c(Bcd | %6
+ [Ee])E"_dim." E2- E(EFG) |!p! ([C-B]4 [CA]2-) [CA] z |!pp! z (B A4 G2) | (EG F6) |$ %10
+"_cresc." z (d c4 B2) | (GB A6) |!f! z (g f4 e2) | z (d"_dim." [G_c]4 B2) |$!p! z (c B4 A2) | %15
+ z (B A4 G2) |!p! z (g f4 e2) |$ z!<(! (E- [E-G]4!>(!!<)! [EF]2) | z!>(! (f d4 =c2)!>)! | %19
+!p! z (d =c4 B2) |$ z (d _c4 B2) | z (c B4 c2) |!f!"_dim." z (_f e4 =d2) |$!p! z (e _d4 c2) | %24
+!f! z (e c'2) z (b d2) | z (d b2) z (a c2) |$ z"_dim.\npoco rit." (c a2) z (g B2) | %27
+!p! z (B g2) z!>(! (GFE)!>)! |!p! z (B A4 G2) |$ (EG F6) |"_cresc." z (d c4 B2) | (GB A6) |$ %32
+!f! z (g f4 e2) | z"_dim." (d _c4 B2) |!p!"_colla voce" z (c B4 A2) |$ %35
+"_a tempo"!p! z (g f2- fefe) | z (g f2- fefe) | [Bb]4 [G,B,G]4 | [G,B,G]8 |] %39
+V:4
+ B,4 | C4 | D4 | E4 | _F4 |$ G3 G | x3 C | x4 | B,4 | C4 |$ D4 | E4 | G4 | D4 |$ [CE]3 C | B,4 | %16
+ B,4 |$ =A,4 | !>!B,3 E | D4 |$ [=G,D]4 | C4 | [B,_F]4 |$ E4 | F2 G2 | [EG]2 E2 |$ F2 G2 | %27
+ [=CG]2 C2 | [B,D]4 |$ _C4 | D4 | E4 |$ G4 | D2- [D_F]2 | [CE]3 C |$ [B,G]2 G2 | [B,G]2 G2 | x4 | %38
+ x4 |] %39
+V:5
+ [G,,D,]4 | [A,,D,]4 | [B,,G,]4 | [C,G,]4 |!ped! [D,G,]4!ped-up! |$ [E,G,]3 [D,G,] | %6
+ [C,G,]3 F,/E,/ | [D,F,]3- [D,F,]/ z/ | [G,,D,]4 | [A,,D,]4 |$ [B,,G,]4 | [C,G,]4 | [=C,A,]4 | %13
+ [D,B,]4 |$ D,4 | [G,,D,]4 |!ped! [G,,E,]4!ped-up! |$ [F,,=C,]4 |!ped! [F,,D,F,]3 [F,=A,]!ped-up! | %19
+ [B,,F,B,]4 |$!ped! [E,,E,]4!ped-up! | [A,,E,]4 |!ped! [G,,G,]4!ped-up! |$ [C,G,]4 | %24
+!ped! C2!ped-up!!ped! B,2!ped-up! |!ped! B,2!ped-up!!ped! C2!ped-up! |$ C2 B,2 | ([E,B,]2 A, G,) | %28
+ [D,,D,]4 |$ [A,,D,]4 | [B,,G,]4 | [C,G,]4 |$ [=C,A,]4 | B,2 =G,2 |({/D,,} D,4) |$ %35
+!ped! [G,,D,-]2 [D,=A,=C]2!ped-up! |!ped! [G,,D,-]2 [D,=A,=C]2!ped-up! | %37
+!ped! !arpeggio![G,,D,B,]2 [G,,D,]2 | [G,,D,]4!ped-up! |] %39
+V:6
+ x4 | x4 | x4 | x4 | x4 |$ x4 | x3 A,, | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | %18
+ x4 | x4 |$ x4 | x4 | x4 |$ x4 | D,4 | D,4 |$ D,4 | x2 A,,2 | x4 |$ x4 | x4 | x4 |$ x4 | D,4 | %34
+ x4 |$ x4 | x4 | x4 | x4 |] %39

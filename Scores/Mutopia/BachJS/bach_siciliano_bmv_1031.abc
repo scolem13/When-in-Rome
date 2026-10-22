@@ -1,0 +1,48 @@
+% Siciliano: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1535
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Siciliano
+C:BachJS
+%%score ( 1 2 ) ( 3 4 5 )
+L:1/16
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble nm="flute" snm="Fl"
+V:2 treble 
+L:1/4
+V:3 treble nm="guitar:guitarUpper" snm="Ac Gtr"
+V:4 treble 
+V:5 treble 
+L:1/4
+V:1
+ d2>e2d2 d2g2e2 | c12 | c2>d2c2 c2a2c2 | cB2AG2 z6 | B2d2 e4 a2e2 | e2d2 z2 f2b2f2- | %6
+ f2g2 f4 e2d2 | cfac'bd' c'bagfe | d2 z8 z2 | f2>g2f2 f2b2g2 | e12 | e2>f2e2 e2c'2e2 | %12
+ dFGABc dfb2d2 | d2 c6 a2c2 | cABdga b2>a2g2 | a2>g2f2 z =egfed | _d4 =d2 =e_a=aefd | %17
+ _d4 =d2 =e_a=aefd | _d=d=e2A2 Bd_d=ded | Ad_d=d=ed GBAGF=E | F2D2 z8 | z12 | d2>e2d2 d2g2e2 | %23
+ c12 | c2>d2c2 c2a2c2 | BGABcd efedcB | A_d=dABG _G4 =G2 | A_d=dABG _G4 =G2 | AGABcd e2d2c2 | %29
+ BdcBAG (3:2:2e2 z B2A2 | G2d2B2 G2g2B2 | z BABgB (3:2:2B2 z A4 | G12 |] %33
+V:2
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z7/4 c/4 z | x3 | z7/4 [cB]/4 z | x3 |] %33
+V:3
+ G,4 _G=G G,4 _G=G | G,4 A,C G,4 A,C | _G,4 =E_G G,4 DA | =G,4 GD G,4 DB, | =G,4 _G=G A,4 Bc | %5
+ B,4 BF B,4 AB | E4 _AB E4 [B=E,]2 | A2F2G,2 A,2F,2A,2 | B,2[AF,]2[BG,]2 [cA,]2[AF,]2[FA,]2 | %9
+ B,4 AB B,4 AB | B,4 CE B,4 CE | A,4 GA A,4 Fc | B2 z FGA BcdBFB- | [BF,] F,3 FG ABcADA- | %14
+ [A=G,] =G,3 Bc ddgf[=eC]2 | ccf_e[dB,]2 BcBAGF | =E_A=AEFD [_DA,]4 =D2 | =E_A=AEFD [_DA,]4 =D2 | %18
+ =E2AGFD G4 z2 | F4 z2 =E2_D2A,2 | =DAdc[dB]G _eg_g=gag | dg_g=gag [cA]2[d_G]2[BD]2 | %22
+ =G,4 _G=G G,4 _G=G | G,4 A,C G,4 A,C | _G,4 =E_G G,4 DA | [=G=G,]4 _ED C4 AG | %26
+ [_GD]4 =G2 A_d=dABG | [_GD]4 =G2 A_d=dABG | _G=EG=GAB c2B2A2 | =G7 [AG] _G4 | G,4 _G=G E4 _G=G | %31
+ _D4 BG (3:2:2G2 z _G4 | [GG,]12 |] %33
+V:4
+ z GBG z3 GBG z2 | z CEC z3 CEC z2 | z DA_G z3 AcA z2 | z AG_G z3 _EDC z2 | z GBG z3 cec z2 | %5
+ z cBA z3 BdB z2 | z B_eB z3 Bc=A z G | F,4 z8 | z F z c z d z B z G z E | z BdB z3 BdB z2 | %10
+ z EGE z3 EGE z2 | z FcA z3 cec z2 | B,4 z2 B,4 z2 | z GA=E z2 _G,4 z2 | z _G=GA z2 G,4 z d | %15
+ F,4 z c G,6 | A,4 z8 | A,4 z8 | z A, z8 z2 | x12 | z6 c4 z2 | B4 z3 e z c z A | z GBG z3 GBG z2 | %23
+ z CEC z3 CEC z2 | z DA_G z3 AcA z2 | z3 F z4 cB z2 | z6 D4 z2 | z6 D4 z2 | D4 z2 _G,4 z2 | %29
+ =G,2A,2B,2 C2D2D2 | z GBG z3 GBG z2 | z =G_G=G z2 =D4 D2 | x12 |] %33
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z7/4 A/4 z | x3 |] %33

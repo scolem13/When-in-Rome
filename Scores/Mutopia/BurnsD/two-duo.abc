@@ -1,0 +1,29 @@
+% Two: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2205
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Two
+C:Dennis Burns
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=52
+M:4/4
+I:linebreak $
+K:D
+V:1 bass nm="dn:2" snm="Pno"
+V:2 treble nm="up:1" snm="Pno"
+V:3 treble 
+V:1
+ x3 | D,F, A,C D-D F2 | GF ED A,E FC | DE FA, B,- B,2 D- | DC A,B, CD EF | GA BF G-G E2 | %6
+ DE FA, B,-B, A,2 | x E, G,A, A,,- A,,3 | D,F, A,C Dx2E, | D, F,A, CD x3 |[K:Gmin] B,4 A,- A,3 | %11
+ G,2 D2 E- E3 | E,4 D,- D,3 | _D,4 =D,- D,3 | B,4 A,- A,3 | _A,4 G,- G,3 | F,4 E,-E, G,2 | %17
+ B,D, F,A, B,-B, D2 | B,,D, F,A, B,-B, D2 | ED CB, F,C DE | B,C DF, G,- G,2 B,- | %21
+ B,A, F,G, A,B, CD | EF GA F-F C2 | B,C DF, G,-G, F,2 | x C, E,F, F,,- F,,3 | x B,,D, F,B, x3 |] %26
+V:2
+ x4 x A dc | d4 z A dc | d2 B2 A-A z G | A4 z G F>G | E4 z A dc | d4 z A B>G | A4 z G F>G | %7
+ E4 z A, C>E | D4 z A dc | D4 z F Ac |[K:Gmin] d G2 G c F2 F | B/A/ G3 A d2 d | D A,2 A, C G,2 G, | %13
+ A, C2 B, A,- F2 F | D F2 F =E F2 E | D F2 F D F2 =E | D A,2 F GA Bd/c/ | d4 z F BA | B4 z F BA | %19
+ B2 G2 F-F z G | F4 z E D>E | C4 z F BA | B4 z F G>E | F4 z E D>E | C4 z F, A,>C | B,4 x4 |] %26
+V:3
+ x3 x5 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |[K:Gmin] z8 | z8 | z8 | z4 z A,3 | z8 | z8 | %16
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 x4 |] %26

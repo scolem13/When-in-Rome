@@ -1,0 +1,61 @@
+X:1
+T:6 Mélodies et une havanaise
+T:La main  (VWV 1103)
+C:Pauline Viardot
+Z:Henri-Charles Read
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Moderato" z8 |!p! E2 F G A A B c | d4 z d d e | c2- c z c2 c d | B4 A2 z2 | G A G2!<(! A B c d | %6
+w: |J’ai- me la blan- cheur de la|main, Le doigt bien|fin, _ l'on- gle bien|ro- se,|La pâ- leur au- près du car-|
+!>(! e4-!<)! e!>)! z c2 | (!>!G4!p! d4) | c4 z4 | z8 | E2!<(! F G A A B c | %11
+w: min _ Re-|po- *|se.||Quand je vois u- ne bel- le|
+!>(! d4-!<)! d!>)! z e2 |!>(! c3 c c!>)!!p! B c d | _B4 _A2 z2 | G G!<(! G2 =A =B c d | %15
+w: main, _ La|nuit je la re- trou- ve en|son- ge|Et sou- vent tout le len- de-|
+!>(! _e4-!<)! e!>)! z c2 |!pp! (G4 A4) | B4 z4 | z8 |"^un peu plus lent." z8 | %20
+w: main _ J'y|son- *|ge !|||
+!<(! E F G ^G!<)!!>(! A2 B c!>)! |!<(! d4-!<)!!>(! d!>)! z e2 |!<(! c2 ^c c (d2!<)! A) =c | %23
+w: Et si quel- que fem- me de-|main _ Me|plaît et m'at- tire au- près|
+!>(! B4 A2!>)! z2 | G2!<(! G G A B c d!<)! |"^cresc" e4- e z e2 |!f! (f4 _A4) | c4 z2 c2 | %28
+w: d'el- le,|On pour- ra di- re que sa|main _ Est|bel- *|le, Est|
+ (^d4 ^F4) | A4 z2 A2 |"^dim." (G8 |!p! d8) | c8 | z8 | z8 |] %35
+w: bel- *|le, Est|bel-||le !|||
+V:2
+!p! (ec GC) (ec GC) | (eG EC) (eA EC) | (dA EB,) (dG EB,) | (cG DA,) (cF DA,) | BF x2 AF x2 | %5
+ GD x2 GC x2 | ^GE x2 AE x2 | GC x2 GB, x2 | [Ec]C x2 [Ec]C x2 |!p! (ec GC) (ec GC) | %10
+ (eG EC) (eA EC) | (dA EB,) (dG EB,) | (c^F _EA,) (cF EA,) | _B_E x2 _AD x2 | GD x2 GD x2 | %15
+ G_E x2 _AE x2 | G_E x2 [^F=A]E x2 | [GB]D x2!<(! [Bd]G x2 | [Bf]G x2!>(! [Bfg]!<)!G x2!>)! | %19
+!pp! (eG EC) (eG EC) | (ec GC) (eA EC) | (def^f [dg]^gab) | [cc']2 [^c^c']2 [dd']2 [Aa]2 | %23
+ [Bb] (GAB cdef) | [Bg]2 [GBg]2 [Gcg]2 [GBg]2 | [Ge][Af][_Bg][ca] [d_b][ec'][fd'][ge'] | %26
+!ff! !arpeggio![f_a_d'f']!mf! (_DF_A _dAFD) | (c_G_EC) (cGEC) | !arpeggio![B^d^fb] (B,^D^F BFDB,) | %29
+!>(! (A^DCA,) (ADC!>)!A,) |"_dim." (GECG,) (AECA,) | (dGFC) (dGFB,) |!pp! [Ec]C x2 (ec) G2- | %33
+ [ec']2 z2 [CE]2 z2 | !fermata![CE]6 z2 |] %35
+V:3
+ x8 | x8 | x8 | x8 | x2 CG, x2 CG, | x2 B,F, x2 A,E, | x2 B,D, x2 CC, | x2 E,G,, x2 F,G,, | %8
+!ped! [C,,G,,]2 G,C, x2 G,!ped-up!!fermata!C, | x8 | x8 | x8 | x8 | %13
+!ped! x2 G,_B,,!ped-up! x2 F,B,, | x2 =B,F, x2 B,F, |!ped! x2 _B,_E,!ped-up!!ped! x2 CF,!ped-up! | %16
+!ped! x2 CG,!ped-up!!ped! x2 CG,!ped-up! |!ped! x2 B,G, x2 DG, | x2 DG, x2 D!fermata!G,!ped-up! | %19
+ x8 | x8 | x8 |!ped! z[I:staff -1] (GDA,)[I:staff +1] z!ped-up![I:staff -1] (^FC[I:staff +1]D,) | %23
+ G,,2 (F2 C2 G,2) | (G,,G,F,G, E,G,D,G,) |!ped! [C,,C,]2 z2 [_B,CEG]2 z2!ped-up! | %26
+!ped! !arpeggio![_A,,_D,F,_A,] (F,A,_D FDA,F,)!ped-up! | (_A,,_E,_G,_A,) (A,,E,G,A,) | %28
+!ped! !arpeggio![^F,,B,,^D,^F,] (D,F,B, ^DB,F,D,)!ped-up! | (^F,,C,^D,^F,) (F,,C,D,F,) | %30
+ (G,,C,E,) z (G,,C,E,G,) | %31
+"^un peu retenu."!ped! !arpeggio![G,,D,F,A,]2 z2!ped-up!!ped! !arpeggio![G,,D,F,B,]2 z2!ped-up! | %32
+!ped! [C,,G,,]2 G,C, x4 | x2!ped-up! z2 [C,G,]2 z2 | !fermata![C,G,]6 z2 |] %35
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | z (AEB,) z ((=GDB,)) | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x6 GC- | %33
+ [CG]2 x6 | x8 |] %35
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | A,, x7 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %35

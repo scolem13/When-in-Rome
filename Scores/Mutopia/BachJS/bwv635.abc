@@ -1,0 +1,51 @@
+% Dies sind die Heilgen zehn Gebot: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1173
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Dies sind die Heilgen zehn Gebot
+C:Johann Sebastian Bach
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/16
+Q:1/4=60
+M:2/2
+I:linebreak $
+K:C
+V:1 bass nm="Pipe Organ" snm="P Org"
+L:1/8
+V:2 treble nm="right" snm="P Org"
+V:3 treble 
+V:4 bass nm="left" snm="P Org"
+V:5 bass 
+L:1/8
+V:1
+ x4 x G,,,G,,,G,,, | G,,,G,,, A,,,B,,, C,,2 x2 | x C,,C,,C,, C,,C,,E,,F,, | %3
+ G,,2 ^F,,2 G,,A,,G,,=F,, | E,,C,,C,,C,, C,,C,,D,,E,, | F,,G,,F,,E,, D,,B,,,B,,,B,,, | %6
+ B,,,B,,,C,,D,, E,,F,,E,,D,, | C,,2 B,,,A,,, G,,,A,,,G,,,F,,, | E,,,F,,,E,,,D,,, C,,,C,,C,,C,, | %9
+ C,,C,,B,,,A,,, G,,,A,,,G,,,F,,, | E,,,C,,,C,,,C,,, C,,,C,,,D,,,E,,, | %11
+ F,,,/F,,/G,,,/F,,/A,,,/F,,/_B,,,/F,,/ C,,/C,/D,,/C,/C,,/C,/B,,,/C,/ | %12
+ A,,,_B,,,B,,,B,,, B,,,B,,,A,,,G,,, | F,,,F,,F,,F,, F,,F,,^D,,=D,, | %14
+ C,,C,,,C,,,C,,, C,,,C,,,E,,,^F,,, | G,,,^F,,,G,,,A,,, _B,,,C,,B,,,A,,, | %16
+ G,,,G,,G,,G,, G,,G,,A,,_B,, | C,F,,F,,F,, F,,F,,^D,,=D,, | %18
+ C,,/D,,/B,,,/D,,/G,,,/D,,/A,,,/D,,/ B,,,/D,,/C,,/^D,,/F,,,/F,,/G,,,/G,,/ | %19
+ C,,,C,,,C,,,C,,, C,,,C,,,^D,,,C,,, | G,,,4- G,,,4 |] %21
+V:2
+ x8 B,4 C4- | C2>B,2CB,CD ECDEFEDF | EDEFEFED [CG]8 | G4 D2D2 D2D2E2F2 | G4- G CF2- c8 | %5
+ AGA_BABAG ^FGFEDFEF | G=FGAGAGF EFEDC=B,CD | [EG]2<G2[^FA]2<A2 GAG=FEFED | C2C2C2C2 C2C2D2E2 | %9
+ d8 d8 | c8 G8 | A8 G8 | F4- F F3 G4- G G3 | A8 B8 | c8- ^D=DE^FGFGA | _B8 G4 A4 | _B8 B2 B6 | %17
+ A8 [GD]4- [GD] =B,CD | G8- F2F2^D2=D2 | ^D z6 =D ^DFD=DC^D=DC | B,8- G8 |] %21
+V:3
+ x8 G8 | G8 G8 | G8 z8 | z2 D2 A4 B8 | c8 FGFEFEFG | d8 d8 | B8 G8 | z2 ^FE z2 GF B8 | c8 c8 | %9
+ z2 D2E2^F2 GABcBcAB | z AG=FEFED E2D2C2_B,2 | A,2F2F2F2 F2F2E2D2 | C^D=DCD z ED CDEDC z FE | %13
+ F2G2F2^D2 =DF^DFG^G=GF | ^D=FD=DC^D=DF c8 | D2D2D2D2 D2D2E2^F2 | GDE^FGFGA z c z AG^G=G=F | %17
+ ^DGFDFGFD z4 G4 | ^D2F2F2F2 G8- | G8- G8- | G8- B,8 |] %21
+V:4
+ x8 G,4 E,4 | D,2G,2G,2G,2 G,2G,2A,2B,2 | C2A,2G,2F,2 E,D,E,F,G,F,G,A, | %3
+ B,G,A,B,CA,B,C B,CDCB,CB,A, | G,E,F,G,2<A,2A, G,2_B,2A,2G,2 | F,2A,2A,2A,2 A,2A,2=B,2C2 | %6
+ D8- D2G,2A,2B,2 | C2D,2D,2D,2 D,2D,2E,2F,2 | G,F,G,A,G,A,G,F, E,D,C,D,E,F,G,A, | %9
+ [^F,A,]2E,F,G,F,G,A, B,2G,2G,2G,2 | G,2G,2A,2B,2 CC,D,E,=F,E,F,G, | C,2C,2C,2C,2 C,2C,2D,2E,2 | %12
+ F,2F,2F,2F,2 E,2G,2A,2_B,2 | C_B,A,B,CD^DF G2G,2G,2G,2 | G,2G,2A,2=B,2 C4 _B,2A,2 | %15
+ G,A,_B,A,G,A,G,^F, G,D,=F,^D,=D,^D,=D,C, | _B,,2D2E2^F2 G2=F2^D2=D2 | C^D=DCD^D=DC =B,CB,A, G,4- | %18
+ G,2G,2G,2G,2 G,2G,2A,2B,2 | C2A,B,C[G,B,][A,C]B, C^G,=G,F,^D,G,F,D, | =D,8- D,8 |] %21
+V:5
+ x4 x4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z/ D,/ z7 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %17
+ z8 | z8 | z/ G,/ z7 | z8 |] %21

@@ -1,0 +1,35 @@
+% Allemande: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=166
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Allemande
+C:Georg Friedrich Händel (1685-1759)
+%%score 1 ( 2 3 )
+L:1/16
+Q:1/4=72
+M:4/4
+I:linebreak $
+K:Amin
+V:1 bass nm="down" snm="Hpschd"
+V:2 treble nm="up" snm="Hpschd"
+V:3 treble 
+L:1/8
+V:1
+ x | A,xE, x A,,4 ^G,x^F,xG,xE, x | A,x=G,x=F,xD,xE,xE,,2 E,2D,-D, | %3
+ ^C,2E,2 A,2A,,xD,F,A,F, D,2=C,-C, | B,,2D,2 G,2G,,xC,E,G,E, C,2->C,2 | %5
+ B,,xB,xA,xG,xF,x^F,xG,xE, x | =F,xD,xG,xG,,xC,G,CB, CB,A,G, | A,2C2 B,xA,2 G,2A,2 B,2B,, x | %8
+ E,,3 B,,E,2B,,2 E,2E,, x4 x | E,2>^F,2 ^G,2E,x2<A,2E, A,,x=G,-G, | %10
+ =F,2D,x^C,xA,,x2<D,2A,, D,,2->D,,2 | D,xE,xF,xD,xG,A,G,F, E,F,E,D, | %12
+ C,2E, F,G,xG,, x C,2>G,2CxC, x | D,2>A,2 DxD,2 E,B,ED EDCB, | A,4 ^G,2E,2 A,2A,,2 G,2E,-E, | %15
+ A,2>=G,2 ^F,2D,2 G,2>=F,2 E,2C,-C, | F,3 E,D,2^D, x E,xC, x ^G,,xA,, x | %17
+ =D,xF,xE,x^G,xA,xD,xE,xE,, x | A,,3 E,,A,,2 E,,2A,,3 E,,A,,,2 x2 |] %19
+V:2
+ x15 A | [CEA]4- [CEA] ABc B4- B ede | z cde f^GAB G6 ed | eA=GA EGFE F4- F ABc | %4
+ dGFG DGED E4- E cde | dgfg cfBe Adcd BGAB | ABcd B2>c2 [EGc]6 cB | %7
+ AG^FE ^DB,^CD EFGF [FG][FG]F[EE] | z B,2<G,2 E^F,^D [G,B,E]4 z3 B | B^G2<E2 =dcB cA2<E2 ed^c | %10
+ dede [fe][fe] z [de] fd2<A2 AB^c | defe d=cBA BcBA G2>F2 | EGcE DcDB cG2<E2 E^FG | %13
+ ^FA2<d2 F^GA G6 ed | c[de]Ac BeEB c[de]Ac BeEB | c[de]2<A2 dAc B[cd]2<G2 cG_B | %16
+ A^G2<A2 c=BA GEAe EcEd | cBA^G Eedc BA[Bc][GA] [GA]G2[AA] | z E2<C2 AB,^G AEC2 x4 |] %19
+V:3
+ x/ x15/2 | z8 | z8 | z8 | z8 | z8 | z8 | z6 ^D->D | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %17
+ z8 | z6 x2 |] %19

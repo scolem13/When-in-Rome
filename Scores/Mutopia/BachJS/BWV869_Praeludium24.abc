@@ -1,0 +1,54 @@
+% Das Wohltemperierte Clavier I, Praeludium 24: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2049
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Das Wohltemperierte Clavier I, Praeludium 24
+C:Johann Sebastian Bach
+%%score ( 1 2 3 ) 4
+L:1/8
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="1:PartPOneVoiceOne"
+V:2 treble 
+V:3 treble 
+V:4 bass nm="2:PartPOneVoiceFive"
+V:1
+ F2 B4 f2- | [f^G]2 e2 d4- | [d=G-]2 =G2- G F Bc | [EF]2 B4 =A2 | [FG]2 G2 F4 | [DB]2 e2 A2 d2- | %6
+ [dE]2 E2 d/c/B/A/ d2- | [dE]2 c2 B2 e2- | [eF]2 d2 c2 f2- | [f^G]2 =f2 ^f2 ^g2 | [Bc]2 f4 =f2 | %11
+ [^fA]2 d4 a2- | [aB]2 g2 f2 b2- | [bc]2 ^a2 b3 =a/g/ | [ef] f2 [gB] [dB]2 [c^A]2 | B2 c2 d3 e- | %16
+ ^a e [bd] [ec] [dB] [c^A]4 | =a4- a f ba | [ge]2 [f^d]2 g4- | [gc] c3 [fd]2 [ec]2 | f4- f f ^ga | %21
+ [db] b a4 =gf | [B=fc]2 ^fe d4- | [d=F^F]2 cB AB c2- | [cD]2 D2 C4 | %25
+ [AB,-]2 B,2- B, [d=F] [c^F][B^G] | A2 ^G2 ^F2 =c2- | ^d2 =c2 [eB] [^fA] [B=G] [=c'd] [be] [af] | %28
+ g2 f2 e2 ^a2- | c2 ^a2 [=a=d] [ge] [fA] [c^A] [d=A] [eG] | A d2 c F B2 A | D G2 F [^GB,]2 ^AB | %32
+ [Ec-] c3- c B cd | [Ge-] e3- e d ef | [Bg] g5 f2- | [fd] d gf g2 ^g2- | [^ge] e ag a2 ^a2- | %37
+ [^af] f ba b3 =a | [fg]2 g2 f4 | [de]2 e2 d4- | [dG-]2 G2- G [g^A] [fB][ec] | d2 c2 B4- | %42
+ [BG-] G3- G G2 F | [eB-] B3- B B2 ^A | [g=d-] =d3- d [e=c] eg | [B=d]2 [^c^A]2 [^d=A]e ^AB | %46
+ [FG] G3 [FB^D]4 |] %47
+V:2
+ z4 c2 A2 | z2 c4 BA | z2 cB ^A2 E2- | z2 D2 C2 F2- | z2 E4 D2- | z2 G4 F2 | z2 c2 F2 z2 | %7
+ z2 A4 G2 | z2 B4 A2 | z2 c4 B2- | z2 A2 ^G4 | z4 e2 c2 | z2 e4 d2 | z2 f3 B e2- | z d/c/ d z4 z | %15
+ z g2 f2 b/^a/ b2 | x9 | z c fe ^d4 | z4 eB e=d | z e ag z4 | dA Bc d4- | z c fe dc B2- | %22
+ z2 A3 A ^G^F | z2 ^G4 FE | z2 B4 A2- | z2 ^GF =F z3 | ^C F2 =F z4 | x10 | B e2 ^d z4 | x10 | %30
+ F2 E2 D2 C2 | B,2 =A,2 z2 E2- | z =G FE D2 G2- | z B AG F2 B2- | z d cB ce dc | z a B3 d cB | %36
+ z b c3 e dc | z =c' d3 e f2- | z2 e4 d2- | z2 c4 BA | z2 cB ^A z3 | F B2 ^A z E2 ^D | %42
+ z B2 ^A e4- | z e2 ^d g4- | z f2 =f b z/ ^d/ B2- | z4 z G2 ^F- | z E C2 z4 |] %47
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x9 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x10 | x8 | x10 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z3 ^A z4 |] %47
+V:4
+ B,,C, D,E, F,^G, A,B, | CB, ^A,F, B,=A, =G,F, | E,C, D,E, F,F,, ^G,,^A,, | %3
+ B,,C, D,E, F,^G, =A,F, | B,B,, C,A,, D,C, B,,A,, | G,,F, E,D, C,A, B,F, | G,E, A,A,, D,E, F,G, | %7
+ A,,B,, C,D, E,F, G,A, | B,,C, D,E, F,^G, A,B, | CB, CA, DC DB, | =F,C DA, B,^G, CC, | %11
+ ^F,E, F,^G, A,B, CD | E,F, =G,A, B,C DE | F,E, F,D, G,F, G,E, | ^A,F, B,E, F,E, F,F,, | %15
+ B,,2 =A,,2 G,,4 | F,,8 | F,G, A,F, B,A, G,F, | E,G,, A,,B,, E,,F,, G,,E,, | %19
+ A,,G,, F,,E,, D,,F,, G,,A,, | D,,E, D,C, B,,A,, ^G,,F,, | =F,,^F, ^G,A, B,C DB, | %22
+ C^F,, ^G,,A,, B,,C, D,B,, | C,^D, =F,C, ^F,^G, A,F, | B,A, ^G,F, =F,C, ^F,E, | %25
+ D,C, D,B,, C,B,, A,,B,, | C,B,, C,C,, F,,C, ^D,E, | F,A, G,F, E,F, G,A, | B,A, B,B,, E,B, CD | %29
+ EG, F,E, D,E, F,G, | A,G, A,A,, B,,D, F,F,, | G,,B,, D,3 D, C,B,, | ^A,,F,, ^G,,A,, B,,F, E,D, | %33
+ C,=A,, B,,C, D,A, =G,F, | E,C, D,E, ^A,,F, ^G,^A, | B,B,, C,D, E,F, E,D, | C,C DE FG FE | %37
+ DD, E,F, G,F, E,^D, | E,=D, C,B,, ^A,,F, B,=A, | ^G,F, G,^A, B,B,, C,D, | E,F, =G,E, F,E, D,E, | %41
+ F,E, F,F,, G,,2 F,,2 | E,,2 D,,2 C,,B, ^A,=A, | ^G,=G, F,B, E,E DC | B,=C ^CD =F,^F, G,E, | %45
+ F,E, F,^F,, B,,4- | B,,8 |] %47

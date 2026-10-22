@@ -1,0 +1,47 @@
+X:1
+T:Chez le docteur
+C:Erik Satie
+Z:Vincent Hyspa
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=124
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Assez vif" z6 | z6 | z6 |: z2 z z z (C | C D E G E G | A d B G2) (G | F A c E G E | D3 C2) (C | %8
+w: |||Le|pe- tit pèr’ Combes s’en va|chez le doc- teur: “Ah!|doc- teur, je suis bien ma-|la- de! J’ai,|
+ C D E G E G | A d B G2) (G | F A c E G E | D3 C2) (c | c2 A A2 c | c2 G G2) (G | F G A D E F | %15
+w: com- ment vous dir’? l’es- to-|mac gaz- ouil- leur Comme|un vieux si- phon d’li- mo-|na- de, En-|\- fin j’ai quel- que|cho- se là Qui|ne pas- se pas... Quéqu’- chos’|
+ E G E C2) (c | c2 A A2 c | c2 E E2) (E | D E F G A B | c3- c) z z | z6 :|11 c3- c z z || z6 |] %23
+w: qui n’pas- se pas, Fait|le doc- teur, mais|di- tes- moi, N’est-|ce pas un pro- jet de|loi?” *||||
+V:2
+!p!!<(! cde geg!<)! |!>(! d6!>)! | c z z!p! [G,CE] z z |: [G,CE] z z [G,CE] z z | %4
+ [G,CE] z z [G,CE] z z | [^F,CD] z z [G,B,D] z z | [A,C=F] z z [G,CE] z z | %7
+[I:staff +1] ([=F,B,D]3 [E,C])[I:staff -1] x x | [G,CE] z z [G,CG] z z | [A,CA] z z [B,DG] z z | %10
+ [A,CF] z z [G,CE] z z |[I:staff +1] ([F,B,D]3 [E,C])[I:staff -1] x x | z6 | z2 z [G,CE] z z | %14
+ [=A,CF] z z [G,DF] z z | [G,CE] z z [G,C] z z | [G,C] z z [A,C] z z | [A,C^D]2 E !>![^G,CE] z z | %18
+ [A,C=D] z z [=G,B,F] z z | [G,CE] z z[I:staff +1] !>![C,-^F,_A,C-]3 | %20
+[I:staff -1] [G,CE]3- [G,CE] z z :| [G,CE] z z x2 x | [CEG]3-!f! [CEG] z z |] %23
+V:3
+ [CEG] z z [B,EG] z z | [^Fc]3 [=FB]3 | [Ec] x x x x x |: x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %11
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 :| x6 | x6 |] %23
+V:4
+ z6 | [A,,A,] z z [G,,G,] z z | [C,,C,] z z [C,,C,] z z |: [C,,C,] z z [C,,C,] z z | %4
+ [C,,C,] z z [B,,,B,,] z z | [A,,,A,,] z z [G,,,G,,] z z | [D,,D,] z z [G,,,G,,] z z | %7
+ ([G,,,G,,]3 [C,,C,]) z z | [C,,C,] z z [E,,E,] z z | [F,,F,] z z .[F,,F,]2 .[E,,E,] | %10
+ [D,,D,] z z [G,,,G,,] z z | ([G,,,G,,]3 [C,,C,]) z z | [G,C] z z [A,C] z z | %13
+ [_A,CD] z z [E,,E,] z z | [=A,,,=A,,] z z [B,,,B,,] z z | [C,,C,] z z [E,,E,] z z | %16
+ [E,,E,] z z [F,,F,] z z | [F,,,F,,] z z !>![E,,,E,,] z z | [F,,,F,,] z z [D,,D,] z z | %19
+ [C,,C,] z z [D,,,D,,]3 | [C,E,G,C] z z [C,,C,] z z :| [C,,C,] z z !>![C,-^F,_A,C-]3 | %22
+ [C,E,G,C] z z[I:staff -1] [cegc'][I:staff +1] x x |] %23
+V:5
+ x6 | x6 | x6 |: x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [E,,E,] x x [F,,F,] x x | %13
+ [F,,F,] x x x2 x | x6 | x6 | x6 | x6 | x6 | x6 | [C,,,C,,] x x x2 x :| x3 [D,,,D,,]3 | %22
+ [C,,,C,,] x x x2 x |] %23

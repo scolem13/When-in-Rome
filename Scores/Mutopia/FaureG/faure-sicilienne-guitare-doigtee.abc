@@ -1,0 +1,33 @@
+% Sicilienne: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=636
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sicilienne
+C:Gabriel Fauré
+%%score ( 1 2 )
+L:1/16
+Q:1/4=100
+M:6/8
+I:linebreak $
+K:Bb
+V:1 bass nm="guitar:first voice" snm="V"
+V:2 bass 
+L:1/8
+V:1
+ x8 x2 D,2 | G,D,G,D,B,G, DF,B,DG2 | BDGAG2 ACDCD2 | D2>C2=E2 D2>C2E2 | D_G,A,G,A,G, D2A,2D,2 | %5
+ =G,D,G,D,B,G, DF,B,DF2 | _A_A,CGF2 GG,=B,G,F2 | =EG,_B,G,_E2 D_G,=A,G,B,2 | =G,2G,D,G,D, G,4 D,2 | %9
+ G,D,G,D,B,G, DF,B,DG2 | BDGAG2 ACDCD2 | D2>C2=E2 D2>C2E2 | D_G,A,G,A,G, D2A,2D,2 | %13
+ =G,D,G,D,B,G, DF,B,DF2 | _A_A,CGF2 GG,=B,G,F2 | =EG,_B,G,_E2 D_G,=A,G,B,2 | =G,2G,D,G,D, G,4 z2 | %17
+ =BG,DGA2 _BG,Cc_d2 | =d_EAEF2 GF,_A,F,D2 | B,B,,D,G,=A,2 B,E,B,C_D2 | %20
+ =D_G,A,=E_G2 [=GDB,=G,,]4 z2 | =BG,DGA2 _BG,Cc_d2 | =d_EAEF2 GF,_A,F,D2 | %23
+ B,B,,D,G,=A,2 B,E,B,C_D2 | =D_G,A,=E_G2 [=GDB,=G,,]4 z2 | GA,_EA,E2 DG,B,G,B,2 | %26
+ BB,_DAG2 AA,CG_G2 | =GA,EA,E2 DG,B,G,B,2 | B,E,A,E,B,2 A,2_G,A,D_G | =GA,EA,E2 DG,B,G,B,2 | %30
+ BB,_DAG2 AA,CG_G2 | =GA,EA,E2 DG,B,G,B,2 | B,E,A,E,B,2 [A,D,A,,D,,]4- z2 | %33
+ [A,D,A,,D,,]2G,D,G,B, DG [gG,,]4- | [gG,,]2 x8 x2 |] %35
+V:2
+ x x5 | G,,3 F,,2- F,, | =E,3 F,2- F, | B,,/F,/ B,2 B,,/F,/B,-B, | D,,4- D,,- D,, | %5
+ G,,3 F,,2- F,, | E,,3 D,,2- D,, | C,3 D,,2- D,, | G,,3 z3 | G,,3 F,,2- F,, | =E,3 F,2- F, | %11
+ B,,/F,/ B,2 B,,/F,/B,-B, | D,,4- D,,- D,, | G,,3 F,,2- F,, | E,,3 D,,2- D,, | C,3 D,,2- D,, | %16
+ G,,3 z3 | =E,3 _E,2- E, | F,3 _B,,2- B,, | E,,3 C,2- C, | D,,3 z3 | =E,3 _E,2- E, | %22
+ F,3 _B,,2- B,, | E,,3 C,2- C, | D,,3 z3 | F,3 G,,2- G,, | E,3 =D,2- D, | F,3 G,,2- G,, | %28
+ C,3 D,2- D, | F,3 G,,2- G,, | E,3 =D,2- D, | F,3 G,,2- G,, | C,3 z3 | z G,,3 z2 | z x4 x |] %35

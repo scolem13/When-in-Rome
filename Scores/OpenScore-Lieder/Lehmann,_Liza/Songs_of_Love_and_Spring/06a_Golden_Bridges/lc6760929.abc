@@ -1,0 +1,64 @@
+X:1
+T:Songs of Love and Spring
+T:Golden Bridges
+C:Liza Lehmann
+Z:Emanuel Geibel
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/4
+M:8/8
+I:linebreak $
+K:Bb
+U:s=!stemless!
+V:1 treble nm="Baritone"
+L:1/8
+V:2 treble 
+V:3 treble nm="Piano"
+L:1/8
+V:4 bass 
+V:5 bass 
+V:1
+ z8 |[M:8/8][K:treble-8][Q:1/4=92]"^Andante legato ma senza lentezza" z8 | z8 |!mf! (F3 D B3 F | %4
+w: |||Brid- ges, gold- en|
+ (G3 A) !breath!G4) |"^." (F3 D B3 F | !breath!G8) |"^."!<(! (F3 D B3 F!<)! | %8
+w: brid- * ges,|All my songs shall|be,|For my love to|
+ (G3{/B} A)!>(! !breath!G4)!>)! |!p! (F3 D (!fermata!d7/2 F/) |"^." !>!!breath!G8) | %11
+w: tra- * vel,|Sweet- est child, to|thee.|
+"^poco cresc." (A3 ^F d3 A |"^." (G3({/B} A)) !breath!G4) |"^più cresc." (A3 ^F d3 A | %14
+w: Dream- wings then shall|waft _ me|Through the star- ry|
+ !breath!G8) |"^."!>(! (=F3!>)! D!pp! (!fermata!f7/2 d/) | (B3({/d} c)) !breath!B4) | %17
+w: night,|To thy faith- ful|bo- * som,|
+"^.""^poco accel."!<(! (=F3 D!<)! F3"^poco rall." (!fermata!D | B,6)) z2 |] %19
+w: Oh, my heart's de-|light!|
+V:2
+ x4 |[M:8/8][K:treble-8] f4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %16
+ x4 | x4 | x4 |] %19
+V:3
+[I:staff +1] !fermata![E,A,]8 | %1
+[M:8/8]!mf!!8va(![I:staff -1] ([d'b'][c'f'][bd'][fc']!8va)! [db][cf][Bd][DB]) | %2
+ ([B,G][DB][Gd][Bg] [db][gd']!8va(![bg']a') | ([d'b'][c'f'][bd'][fc']!8va)! [db][cf][Bd][DB]) | %4
+ ([B,G][DB][Gd][Bg] [db][gd']!8va(![bg']a')!8va)! | %5
+!8va(! ([d'b'][c'f'][bd'][fc']!8va)! [db][cf][Bd][DB]) | %6
+ ([B,G][DB][Gd][Bg] [db][gd']!8va(![bg']a')!8va)! | %7
+!8va(!!<(! ([d'b'][c'f'][bd'][fc']!8va)! [db][cf]!<)![Bd][DB]) | %8
+ ([B,G][DB][Gd][Bg] [db]!>(![gd']!8va(![bg']a')!>)! | %9
+!p! ([d'b'][c'f'][bd'][fc']!8va)! [db][cf][Bd]!fermata![DB]) | %10
+!<(! ([B,G][DB][Gd][Bg] [db][gd']!8va(![bg']!<)!b') | %11
+"_poco cresc." (!arpeggio![^fd'a'][a=e'][fd'][=ea]!8va)! [df][Ae][^F-d][FA]) | %12
+ ([_E-G][EB][Ge][Bg] [eb][ge']!8va(![bg']b') | %13
+"_più cresc." (!arpeggio![^fd'a'][a=e'][fd'][=ea]!8va)! [df][Ae][^F-d][FA]) | %14
+ (!arpeggio![G,B,_EG][EB][Ge][Bg] [eb][ge']!8va(![bg']b')!8va)! | %15
+!>(! !arpeggio![db=f'][fc'][db]!>)![cf]!pp! [Bd][Fc][DB]!fermata![B,F] | %16
+!<(! [B,-D][B,^F][DB][Fd]!<)! [B^f][db][fd']^f' | %17
+ !arpeggio![db=f'][fc'][db][cf] [Bd][Fc][DB]!fermata![CF] | %18
+ [B,D][CF][DB][cf] [dbd']2 !fermata![B,D]2 |] %19
+V:4
+!ped! !fermata![F,,,F,,]4!ped-up! |[M:8/8]!ped! z2 [B,,F,]2!ped-up! | z2 [D,B,]2 | z2 [B,,F,]2 | %4
+ z2 [D,B,]2 | z2 [B,,F,]2 | z2 [D,B,]2 | z2 [B,,F,]2 | z2 [D,B,]2 | z2"^colla voce" [B,,F,]2 | %10
+ z2 [D,B,]2 | z2 [D,A,]2 | [D,B,]2 z2 | z2 [D,A,]2 | z2 [D,B,]2 | z2 [D,B,]2 | z2 [D,B,]2 | %17
+"^poco accel." z2 !fermata![B,,F,]2 |"^poco rall." [B,,F,] z z !fermata![B,,F,] |] %19
+V:5
+ x3{/B,} sB, |[M:8/8] [B,,,F,,]4 | [G,,,G,,]4 | [B,,,F,,]4 | [G,,,G,,]4 | [B,,,F,,]4 | [G,,,G,,]4 | %7
+ [B,,,F,,]4 | [G,,,G,,]4 | [B,,,F,,]4 | [G,,,G,,]4 | [D,,,D,,]4- | [D,,,D,,]2 [D,,,D,,]2 | %13
+ [D,,,D,,]4 | [D,,,D,,]4 | [=F,,,=F,,]4 | [^F,,,^F,,]4 | [B,,,F,,]4- | %18
+ [B,,,F,,] [F,,,F,,] [B,,,,B,,,] x |] %19

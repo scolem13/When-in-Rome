@@ -1,0 +1,29 @@
+% Crusader's Hymn (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1234
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Crusader's Hymn (hymntune)
+C:Traditional; Silesian folk song arr. Richard S. Willis (1819-1900), 1850
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=60
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="upper"
+V:2 treble 
+V:3 bass nm="lower"
+V:4 bass 
+V:1
+ [CF]2 [CF] [CF] | [DG] [CE] [CF]2 | [FA]3/2 [FA]/ [FA] [_GA] | [=GB] [EG] [FA]2 | %4
+ [Fc]2 [Ff] [Fd] | [Fc]2 [GB] [FA] | [EB]2 [FA]2 | [EG]4 | [Fc]2 [Fd] [Fc] | _G2 [=GB]2 | %10
+ [DB]2 [Dc] [DB] | E2 [FA] [FA] | [FA] [FA] [Fc] [FB] | [FA]2 [EG]2 | F4 |] %15
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | c A z2 | x4 | B G z2 | x4 | x4 | x4 |] %15
+V:3
+ [F,A,]2 [F,A,] [F,A,] | [B,,B,] [C,G,] [F,A,]2 | [F,C]3/2 [E,C]/ [D,D] [C,D] | %3
+ [B,,D] [C,C] [F,C]2 | [F,A,]2 [B,,D] [D,B,] | [F,A,]2 E, F, | [G,C]2 [F,C]2 | [C,C]4 | %8
+ [A,,C]2 [B,,B,] [C,A,] | [D,A,]2 G,2 | [G,,G,]2 [A,,_G,] [B,,=G,] | [C,G,]2 F, [F,C] | %12
+ [E,C] [D,D] [A,,_E] [B,,D] | [C,C]2 C,2 | [F,A,]4 |] %15
+V:4
+ x4 | x4 | x4 | x4 | x4 | z2 C2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 C B, | x4 |] %15

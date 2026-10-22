@@ -1,0 +1,59 @@
+% Marche from Deidamia: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1315
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Marche from Deidamia
+C:G. F. Händel (1685-1758)
+%%score ( 1 2 ) 3 4 ( 5 6 ) 7 8 9
+L:1/8
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:C
+V:1 treble transpose=-2 nm="Trumpet" snm="Tpt"
+V:2 treble transpose=-2 
+V:3 treble transpose=-2 nm="Trumpet" snm="Tpt"
+V:4 bass nm="Timpani" snm="Timp"
+V:5 treble nm="Violin" snm="Vln"
+L:1/16
+V:6 treble 
+V:7 treble nm="Violin" snm="Vln"
+V:8 treble nm="Viola" snm="Vla"
+V:9 bass nm="Harpsichord" snm="Hpschd"
+V:1
+[K:D] A2 FE/D/ G2 EA | DE F/E/G/F/ E4 | F2 DA, G2 EA | AG/F/ E>D D4 | z8 | z8 | z8 | z8 | %8
+ A2 BA G3 F | GF/G/ AG F3 E | FE/F/ GF/E/ FE/F/ GF/E/ | (3:2:1F^G/ (3:2:1z/ G/ G>[FG] A4 | z8 | %13
+ z8 | z8 | z8 | A2 dA B2 GF/E/ | AG/F/ ED E3 F | DE/F/ GF EF/G/ AB | AG/F/ E>D D4 |] %20
+V:2
+[K:D] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z (3:2:2F z2 z4 z | x8 | x8 | x8 | %15
+ x8 | x8 | x8 | x8 | x8 |] %20
+V:3
+[K:D] F2 DA, E2 A,2 | F,A, A,D, A,4 | A,2 F,D, E2 A,E | FE/D/ A,A, F,4 | z8 | z8 | z8 | z8 | %8
+ F2 GF E3 D | ED/E/ FE DD, F,A, | z A, EA, z A, EA, | D,A, D>D E4 | z8 | z8 | z8 | z8 | %16
+ F2 AF G2 EA, | FE/D/ GF EA,/A,/ A,D, | D,2 z D, A,D/E/ FG | FE/D/ A,A, F,4 |] %20
+V:4
+ D,2 D,2 A,,2 A,,A,, | D,A,, D,D, A,,A,,/A,,/ A,,A,, | D,2 D,D, A,,2 A,,A,, | D,A,, A,,A,, D,4 | %4
+ z8 | z8 | z8 | z8 | D,2 D,D, A,,3 A,, | A,,A,,/A,,/ A,,A,, D,3 A,, | D,A,, z A,, D,A,, z A,, | %11
+ D,D,/D,/ D,D, A,,4 | z8 | z8 | z8 | z8 | D,2 D,D, D,2 A,,A,, | D,D, A,,D, A,,A,,/A,,/ A,,D, | %18
+ D,2 z D, A,,2 z A,, | D,A,,/A,,/ A,,A,, D,4 |] %20
+V:5
+[K:D] z16 | z16 | z16 | z16 | a4 gfed g4 fedc | d2e2 fegf e8 | f4 edcB g4 fedc | a2gf e2>d2 d8 | %8
+ z16 | z16 | z16 | z16 | a4 b2a2 g6 f2 | e2fg a2g2 f6 e2 | f2ef g2fe f2ef g2fe | %15
+ (3:2:1f2^g (3:2:1z g g2>[fg]2 a4- a abc' | d'4 a2f2 b4 =g2fe | a2gf e2d2 e6 f2 | %18
+ d2ef g2f2 e2fg a2bc' | d'2g2 e2>d2 d8 |] %20
+V:6
+[K:D] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %15
+ z (3:2:2f z2 z4 z | x8 | x8 | x8 | x8 |] %20
+V:7
+[K:D] z8 | z8 | z8 | z8 | f2 e/d/c/B/ e2 A/G/F/E/ | Ac d/c/e/d/ c4 | A2 G/F/E/D/ e2 d/c/d/e/ | %7
+ fe/d/ c>d d4 | z8 | z8 | z8 | z8 | fe dc Bc/d/ ed | cB AB/c/ d3 c | dc/d/ ed/c/ dc/d/ ed/c/ | %15
+ dA dB cd ec | A2 dA gd ed/c/ | dA Bd cB AA | Bc/d/ ed cd/e/ fg | ad dc d4 |] %20
+V:8
+[K:D] z8 | z8 | z8 | z8 | d2 AB c2 B,C | A,A AA AG/F/ E/A/G/A/ | F2 A,B, B2 AA | AB EA F4 | z8 | %9
+ z8 | z8 | z8 | dA FE EE BB | cE FG AA Bc/B/ | AA cA AA cA | Fd DE ED CE | FG Ad d2 Bc | %17
+ AA GG e G2 F | G z/ d/ cA AE dG | FB EA F4 |] %20
+V:9
+[K:D] z8 | z8 | z8 | z8 | D,2 F,G, E,F, G,A, | F,A, DG, A,B, CA, | D,E, F,G, E,G, A,C | %7
+ DG, A,A,, D,4 | z8 | z8 | z8 | z8 | DC B,C/D/ EB, E,F,/G,/ | A,G, F,E, D,F, G,A, | %14
+ DA, z A, DA, z A, | D,D B,E, A,B, CA, | F,E, F,D, G,F, E,A, | F,D, G,B, A,B, CD | %18
+ G,F, E,F,/G,/ A,G, F,E, | F,G, A,A,, D,4 |] %20

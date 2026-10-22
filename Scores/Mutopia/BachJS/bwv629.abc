@@ -1,0 +1,49 @@
+% Erschienen ist der herrliche Tag: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=698
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Erschienen ist der herrliche Tag
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 ) 5 6
+L:1/4
+Q:1/4=60
+M:3/2
+I:linebreak $
+K:Amin
+V:1 treble nm="right" snm="P Org"
+V:2 treble 
+L:1/8
+V:3 bass nm="left" snm="P Org"
+L:1/8
+V:4 bass 
+V:5 bass nm="Pipe Organ" snm="P Org"
+V:6 bass-8 nm="Trombone" snm="Trb"
+V:1
+ D2 D2 D2 | A2 A A B2 | c3 B A2 | [GE] G3 A2 | B4 c2 | d4 A2 | c2 B4 | A4 A2 | c4 E A2 | G2 E4 | %10
+ F2 E2 D2 | C4 C2 | F4 G2 | A4 G2 | F2 c4 | A4 G2 | F2 E4 | D2 z [A^C]/[BD]/ [^cE] [BD]/[cE]/ | %18
+ [d^F]6 |] %19
+V:2
+ x12 | F2 FG z3 G F2 GF | E2 ED C2 E4 E^D | z3 F E2 E=D C2 DC | x12 | x12 | z2 DE F2 D4 EF | %7
+ E2 DE F2 ED E4- | x14 | x12 | x12 | x12 | z8 E2 DE | F2 FE D2 DC z4 | z8 E2 DE | F6 z6 | x12 | %17
+ x12 | x12 |] %19
+V:3
+ z2 D,E, F,2 [F,D,][G,E,] [A,F,]2 [DF,][EG,] | A,2 DE F2 FE D2 ED | C2 CB, A,2 A,G, ^F,4 | %3
+ E,2 ED C2 G,4 ^F,2 | [G,B,]2 G,=F, [E,G,]2 [E,G,][D,F,] [C,E,]2 D,C, | %5
+ [A,B,,]2 [B,,^G,][C,^F,] D,2 C,D, E,2 D,E, | ^F,2 A,2 F, ^G, A,2 B, A, G,4 | %7
+ A,2 B,A, ^G,2 A,B, E,2 A,G, | A,2 A,,B,, C,2 [C,A,][D,B,] E,4- | %9
+ E2 E,2 [E,C] [F,B,] [G,C]2 [A,C] [B,D] [CE]2 [CE] [B,D] | A,2 C,D, E,2 E,F, G,2 F,G, | %11
+ A,2 [A,,F,][=B,,G,] [C,A,]2 [C,A,][D,B,] E,2 [F,A,][E,G,] | %12
+ [D,F,]2 [F,A,][G,_B,] [A,C]2 [G,C][F,D] C4- | C_B,A,G, F,6 [E,C][D,B,] | %14
+ [C,A,]2 [C,A,][D,_B,] [E,C]2 [E,C][F,D] G,2 F,G, | A,2 A,_B, C2 [CE][DF] [EG]2 D2 | %16
+ [^CA]2 D4 E2 C2 =B,C | D2 A2 [D,B,] [E,^C] [F,D]2 E, F, G,2 F, G, | A,12 |] %19
+V:4
+ x6 | x6 | x6 | x6 | z D z3 A,- | z2 ^G,2 A,2- | x7 | x6 | z4 C C/D/ | x7 | C4 _B,2 | z4 C/_B,/ z | %12
+ x6 | z4 _B, z | x6 | z4 z F/G/ | z G/F/ G z/ D/ A2- | x7 | x6 |] %19
+V:5
+ z6 | D,,2 D,,2 D,,2 | A,,4 B,,2 | C,3 B,, A,,2 | G,,4 A,,2 | B,,4 C,2 | D,4 B,,2 | C,2 B,,2 C,2 | %8
+ A,,4 A,,2 | C,4 A,,2- | A,,2 G,,2 E,,2 | F,,2 E,, D,, C,,2 | z4 C,,2 | F,,4 G,,2 | A,,4 G,,2 | %15
+ F,,2 C,4 | A,,4 G,,2 | F,,4 E,,2 | D,,6 |] %19
+V:6
+ z6 | D,,2 D,,2 D,,2 | A,,4 B,,2 | C,3 B,, A,,2 | G,,4 A,,2 | B,,4 C,2 | D,4 B,,2 | C,2 B,,2 C,2 | %8
+ A,,4 A,,2 | C,4 A,,2- | A,,2 G,,2 E,,2 | F,,2 E,, D,, C,,2 | z4 C,,2 | F,,4 G,,2 | A,,4 G,,2 | %15
+ F,,2 C,4 | A,,4 G,,2 | F,,4 E,,2 | D,,6 |] %19

@@ -1,0 +1,68 @@
+% O Mensch, bewein dein' Sünde gross: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1000
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:O Mensch, bewein dein' Sünde gross
+C:Jean-Sebastien Bach (1685-1750)
+%%score 1 ( 2 3 ) 4 5
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Eb
+V:1 bass nm="Pipe Organ" snm="P Org"
+L:1/8
+V:2 treble nm="Reed Organ" snm="R Org"
+V:3 treble 
+V:4 treble nm="Pipe Organ" snm="P Org"
+V:5 bass nm="Pipe Organ" snm="P Org"
+V:1
+ x6 E,,2 | A,,G,, F,,2 =B,,,2 C,,D,, | E,,D,, C,,2 _B,,,2 E,,2 | F,,2 G,,B,,/A,,/ B,,A,, G,,F,, | %4
+ E,,D,, C,,2 B,,,2 F,,E,, | D,,E,, C,,D,, E,,D,, C,,B,,, | A,,,F,,, B,,,2 E,,,2 E,,D,, | %7
+ C,,B,,, A,,,B,,, E,,,F,,, G,,,F,,, | E,,,D,,, C,,,F,,, B,,,2 x2 | x2 C,,B,,, A,,,B,,, G,,,F,,, | %10
+ E,,,D,,, C,,,F,,, B,,,2 F,,E,, | D,,E,, F,,B,,, E,,D,, C,,B,,, | A,,,G,,, F,,,B,,, E,,,2 E,,D,, | %13
+ C,,B,,, =A,,,F,,, B,,,C,, D,,B,,, | E,,=E,, F,,2 F,,,F,, _E,,D,, | C,,D,, E,,F,, G,,=A,, B,,G,, | %16
+ =E,,C,, F,,F,,, B,,,2 _E,,F,, | G,,E,, C,,F,, D,,B,,, E,,_D,, | %18
+ C,,F,,, F,,/=E,,/F,,/=B,,,/ C,,2 _D,,=D,, | _E,,=E,, F,,_G,, =G,,F,, E,,C,, | %20
+ F,,D,, _E,,C,, =A,,,2 _A,,,_A,, | G,,F,,/E,,/ F,,B,,, E,,D,,/C,,/ G,,F,, | %22
+ =E,,C,, F,,F,,, B,,,A,,, _G,,,=G,,, | A,,,=A,,, B,,,=B,,, C,,D,, _E,,B,,, | %24
+ _A,,,F,,, _B,,,2 E,,,2 x2 |] %25
+V:2
+ x12 E4 | (3:2:1E4 [FE] (3:2:2z/ F- (12:7:1F4 [EF] GAG[FE] E2GF | %2
+ (3:2:1G4 [=AG] (3:2:2z/ A- (12:7:1A4 [GA] B4 B2_dc | _A4 G4 F[GA]GF E[F=D](3:2:2E2 z | %4
+ z [AF](3:2:2G2 z =A2>B2 B4 ce_d[cB] | %5
+ (3:2:1B4 [_AG] (3:2:2z/ A- (12:7:1A4 [GAA] G4 A[GF](3:2:2G2 z | %6
+ (3:2:2F2[GA]2[Bc] (3:2:2z/ G-(3:2:1G2F[EF] E4 E4 | E4 z F[AG]A G2>F2 EDE[GF] | %8
+ [GF][ED][EF][G=A] A2>B2 B4 B4 | _AcBA G[AB]AG FAG[AF] [EB,][CD][ED][EF] | %10
+ [GD][EF][GF][G=A] A2>[GA]2 B4 (3:2:2c2[de]2[de] (3:2:1z/ | B2>c2 B2_A[GA] G4 z GA[cB] | %12
+ cdde A2G[FE] E4 e4 | edc[ed] e2>f2 d2>[cB]2 B2>[c_d]2 | %14
+ c4- c [=dc][=Bc][Bc] G4 (3[G=A]2[Bc]2 z/ [ed] | e2>[fgf]2 e2>[de]2 edc_B B4- | %16
+ B[g=A](3:2:2B2 z d2cB B4 [G_A][GA]A[GA] | B2>[c_dd]2 c4 B2>[cA]2 GdcB | %18
+ (3:2:1B4 [AG] (3:2:2z/ A- (12:7:1A4 [GA] A2<G2 F4 | G4 =A4 B4- B_dcB | _A[Gc]BA G2>F2 F4 B4 | %21
+ cdde eddf [fd][Bd][eg][fe] d4- | db[=ab][ab] d2cB B4 E4 | F4 G4 _A4 G2_G2 | %24
+ F=ED_E (3E2[A=G]2 z/ [FE] E4 x4 |] %25
+V:3
+ x4 x12 | z3 F z12 | z3 =A z12 | z15 [FG] | z3 =A z12 | z3 A z8 z3 [AG] | z3 [BA] z12 | z16 | z16 | %9
+ z16 | z15 f | z16 | z16 | z16 | z16 | z16 | z3 e z12 | z16 | z3 A z12 | z16 | z16 | z16 | z16 | %23
+ z16 | z12 x4 |] %25
+V:4
+ x12 _B,2C_D | C4- C D=B,C D4 C4 | _B,2CD _E6 DC _D4 | C2_ED E6 D2 E4 | _B,4 _E6 D=E F4- | %5
+ F2_B,2 _E2 F4 ED E4- | _E6 D2 E_B,C2 x B,CD | _E6 D2 E4 x4 | x _B,CD _EGFE D4 x FE_D | %9
+ C2D2 _EG,_A,_B, C2B,2- B,B,CD | _E4- E EDC_B, x7 | x F_E_D C_B,C=D E4 x EFG | %12
+ _AAA_B x _E2D EDEF GFAG | G4- G _B=AG F4- FFG_A | G4- G GF_E D=B,CD EDEF | %15
+ GF_ED x G=A2 _B2_G2 =G4- | G4 F2_E3 EDC _B,4- | _B,B,_A,G, A,4- A, A,G,F, G,2A,B, | %18
+ C6 D3 _DC_B, _A,2B,C | _D2CD _E2=DE F2=EF GFGE | F4- F _E4 EDC D2EF | G_AA_B BAA2 G2>=A2 B4- | %22
+ _B6 =A2 B4 x _B,C_D | C2D_E D2EF E2_B,2- B,2=B,2 | C4 _B,2>_A,2 G,4 x4 |] %25
+V:5
+ x12 G,,4 | _A,,8 G,,4- G,,4 | G,,6 F,,_E,, F,,4 G,,4 | _A,,4 _B,,8 B,,2A,,2 | %4
+ G,,2F,,2 _E,,2F,,2 G,,2F,,G,, _A,,4- | _A,,2 G,,4 F,,2 _B,,4 A,,2B,,2 | %6
+ C,2_B,,_A,, B,,2A,,2 G,,2>A,,2 G,,4 | x G,,_A,,_B,, C,2B,,3 C,B,,A,, G,,F,,_E,,D,, | %8
+ _E,,4 x4 x C,_B,,_A,, G,,4 | x _A,, G,,F,, _E,,4- E,, E,, D,,C,,_B,,,2 x2 | %10
+ x _A,,G,,F,, _E,,G,,F,,E,, D,,_D,C,_B,, A,,B,,A,,G,, | F,,2G,,2 _A,,2F,,2 x G,,A,,_B,, C,2>_D,2 | %12
+ _E,F,F,G, x C,_B,,_A,, G,,F,,G,,A,, B,,4- | _B,,G,,=A,,B,, C,4- C, C,B,,A,, B,,4- | %14
+ _B,,B,,_A,,G,, A,,_E,D,C, =B,,G,,=A,,B,, C,4- | C,4 C,2>C,2 _B,,2C,2 D,C,D,B,, | %16
+ C,2_B,,3 B,,2_A,, B,,2F,2- F,F,_E,D, | _E,4- E, E,D,C, F,2E,D, E,2F,2- | %18
+ F,=E,F,E, F,2 F,,4 =E,,2 F,,G,,_A,,2 | G,,_A,,_B,,2 =A,,B,,C,2 B,,C,_D,2 C,4- | %20
+ C,_A,,G,,F,, G,,2=A,,_B,, C,4 x B,,C,D, | _E,F,F,G, G,F,F,D, D,2C,2 x D,E,F, | %22
+ G,2F,=E, F,2_E,2 D,F,,G,,_A,, _B,,4 | _A,,=B,,C,2 _B,,C,D,2 C,A,,G,,F,, _E,,D,,E,,2 | %24
+ _A,,4 G,,_E,,D,,2 E,,4 x4 |] %25

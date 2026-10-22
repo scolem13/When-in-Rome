@@ -1,0 +1,106 @@
+% Six sonates faciles pour le Piano Forte (II): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1607
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Six sonates faciles pour le Piano Forte (II) (1)
+C:J. L. Dussek (1760-1812)
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:F
+V:1 bass nm="down"
+V:2 treble nm="up"
+L:1/16
+V:3 treble 
+V:1
+ x6 F,,F, | F,F, F,F, F,F, F,,F, | F,F, F,F, F,F, F,,F, | F,F, F,F, F,F, F,,2 | F,2 F,,2 x2 F,C | %5
+ A,C F,C A,C E,G, | B,C E,G, B,C F,C | A,C F,C A,C [B,G,C,]2- | [B,G,C,]2 x4 F,C | %9
+ A,C F,C A,C E,G, | B,C E,G, B,C [A,F,]2- | [A,F,]2 [B,G,C,]4 [A,F,]2 | %12
+ [DD,]2 [CC,]2 [B,B,,]2 [A,A,,]2 | x2 G,2 C,2 F,2 | [D,D]2 [C,C]2 [B,,B,]2 [A,,A,]2 | %15
+ x2 G,2 C,2 F,2 | [D,D]2 [C,C]2 [B,,B,]2 [A,,A,]2 | [D,D]2 [C,C]2 [B,,B,]2 [A,,A,]2 | %18
+ [G,,G,]2 [A,,A,]2 [=B,,=B,]2 C,C | G,E, C,2 x2 CG | EG CG EG =B,D | FG =B,D FG [EC][EC] | %22
+ [EC]2 [G=B,][GB,] [GB,]2 [GC]2- | [GC]2 [FDG,]4 CG | _EG CG EG =B,D | FG =B,D FG [_EC][EC] | %26
+ [_EC]2 EC EC G,G | D=B, G,2 x2 [C=E]2 | x4 [CE]G, [=B,D]G, | [CE]G, [DF]G, [=B,D]G, [CE]2 | %30
+ x4 [CE]G, [=B,D]G, | [CE]G, [DF]G, [=B,D]G, [CE]2 | x2 [CE,][CE,] [CE,][CE,] [F,C][F,C] | %33
+ [E,C][E,C] [F,C]2 x2 [G,CE]2- | [G,CE]2 [G,DF]4 C2 | C,2 C2 x2 C,C | CC CC CC C,C | CC CC CC C,C | %38
+ CC CC CC C,2 | C2 C,2 x2 CG | EG CG EG =B,D | FG =B,D FG CE | GE CE GE [FDG,]2- | [FDG,]2 x4 CG | %44
+ EG CG EG =B,D | FG =B,D FG x2 | x2 [_B,EG]4 A,G | EG B,G EG A,G | EG B,G EG [A,EG]2- | %49
+ [A,EG]2 x6 | A,2 =B,2 _D2 [=D=D,]2- | [DD,]2 [DD,]2 [CC,]2 [_B,_B,,]2- | %52
+ [B,B,,]2 [B,B,,]2 [A,A,,]2 [_A,DF][A,DF] | [_A,DF][A,DF] [A,DF]4 [=A,DF][A,DF] | %54
+ [A,DF][A,DF] [A,DF]4 [B,DF][B,DF] | [B,DF][B,DF] [B,DF]4 A,/F/D/F/ | %56
+ A,/F/D/F/ A,/E/_D/E/ A,/E/D/E/ =D2- | D2 x6 | x2 [B,G,C,]4 F,F, | F,F, F,F, F,F, F,F, | %60
+ F,F, F,F, F,F, F,F, | F,F, F,F, F,F, F,2 | F,,2 F,2 x2 F,C | A,C F,C A,C E,G, | B,C E,G, B,C F,C | %65
+ A,C F,C A,C [B,G,C,]2- | [B,G,C,]2 x4 F,C | A,C F,C A,C E,G, | B,C E,G, B,C [A,F,]2- | %69
+ [A,F,]2 [B,G,C,]4 [A,F,]2 | [DD,]2 [CC,]2 [B,B,,]2 [A,A,,]2 | x2 G,2 C,2 F,2 | %72
+ [D,D]2 [C,C]2 [B,,B,]2 [A,,A,]2- | [A,,A,]2 G,2 C,2 F,2 | F,/G,/A,/B,/ CA, G,F, C,C | %75
+ G,E, C,2 x2 [F,A,]2- | [F,A,]2 x2 [F,A,]C, [E,G,]C, | [F,A,]C, [G,B,]C, [E,G,]C, [F,A,]2 | %78
+ x4 [F,A,]C, [E,G,]C, | [F,A,]C, [G,B,]C, [E,G,]C, [F,A,]2 | x2 [A,F][A,F] [A,F][A,F] [B,F][B,F] | %81
+ [A,F][A,F] [B,F]2 x2 [CFA]2- | [CFA]2 [CGB]4 [FA]2 | F,2 F,2 x4 |] %84
+V:2
+ x12 [FCA,]4 | FEFG F4 z4 [AFC]4 | AGAB A4 z4 [cA]4 | BAGF [Bd]2[Bd]2 [eG]2[eG]2 [fF]4 | %4
+ [fF]4 [fF]4 z4 c4- | c2A2 F z F2 G2A2 c2B2 | A2G2 G8 c4- | c2A2 F z F2 G2A2 A4- | %8
+ A2G2 F2E2 D2C2 z2 c' z | c'2a2 f z f2 g2a2 c'2b2 | a2g2 g8 a4 | f2g2 f2e2 d2c2 f4 | %12
+ z FfF z EeE z DdD c4 | c'agf bagf edcB A4 | z FfF z EeE z DdD c4 | c'agf bagf edcB AfAf | %16
+ AfAf AfAf AfAf AfAf | AfAf AfAf AfAf AfAf | AfAf AfAf AfAf e4 | [ec']4 [ec']4 z4 c'4 | %20
+ d'c'=ba g2e2 g2e2 g4- | g2f2 d8 c2c2 | d z =Bc d2d2 e z cd e2c2 | g2e2 e2d2 G4 c'4 | %24
+ d'c'b_a g2_e2 g2e2 g4- | g2f2 d8 c2c2 | d z =Bc g2_e2 g2e2 d4 | [=Bdg]4 [Bdg]4 z4 z GAB | %28
+ cdef g2Gg GgGg GgGg | GgGg GgGg GgGg z GA=B | cdef g2Gg GgGg GgGg | GgGg GgGg GgGg g4 | %32
+ fedc c'cc'c bcbc acac | _acac =a4 z4 g2e2 | c2c2 d4 d2e2 c4 | [ec']4 [ec']4 z4 [cGE]4 | %36
+ c=Bcd c4 z4 [Gce]4 | edef e4 z4 [eg]4 | fedc [fa]2[fa]2 [d=b]2[db]2 [ec']4 | %39
+ [ec']4 [ec']4 z4 g4- | g2e2 c z c2 d2e2 g2f2 | e2d2 d8 g4- | g2e2 c z c2 d2e2 e4- | %43
+ e2d2 c2=B2 A2G2 z2 g2 | g2e2 c2c2 d2e2 g2f2 | e2d2 d8 z2 g2 | g2f2 f2e2 e2d2 d4 | %47
+ _d4 z2 d2 e2=d2 d4 | _d4 z2 d2 e2=d2 (3_d2e2=d2 | (3_d2e2=d2 (3_d2e2=d2 (3_d2e2=d2 _d2[gb]2 | %50
+ [gb]4 z2 [gb]2 [fa]2[eg]2 f=d'fd' | fd'fd' fd'fd' fd'fd' fd'fd' | fd'fd' fd'fd' fd'fd' d'2de | %53
+ d2d2 gfed gfed d'2de | d2d2 gfed gfed d'2de | d2d2 gfed gfed a4 | gfed e8 d4- | %57
+ d4 d2d2 e2f2 f2e2 | d2c2 c2B2 A2G2 [FCA,]4 | FEFG F4 z4 [AFC]4 | AGAB A4 z4 [cA]4 | %61
+ BAGF [Bd]2[Bd]2 [eG]2[eG]2 [fF]4 | [fF]4 [fF]4 z4 c4- | c2A2 F z F2 G2A2 c2B2 | A2G2 G8 c4- | %65
+ c2A2 F z F2 G2A2 A4- | A2G2 F2E2 D2C2 z2 c' z | c'2a2 f z f2 g2a2 c'2b2 | a2g2 g8 a4 | %69
+ f2g2 f2e2 d2c2 f4 | z FfF z EeE z DdD c4 | c'agf bagf edcB A4 | z FfF z EeE z DdD c4 | %73
+ c'agf bagf edcB A4 | FGAB c2A2 G2F2 E4 | [Ec]4 [Ec]4 z4 z cde | fgab c'2cc' cc'cc' cc'cc' | %77
+ cc'cc' cc'cc' cc'cc' z cde | fgab c'2cc' cc'cc' cc'cc' | cc'cc' cc'cc' cc'cc' c'4 | %80
+ bagf f'ff'f _e'fe'f d'fd'f | _d'fd'f =d'4 z4 c'2a2 | f2f2 g4 g2a2 f4 | [fA]4 [fA]4 x8 |] %84
+V:3
+ x2 x6 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %19
+ z8 | z8 | z8 | c z3 d z3 | z8 | z8 | z8 | c z7 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %37
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %56
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %75
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 x4 |] %84
+
+X:2
+T:Six sonates faciles pour le Piano Forte (II) (2)
+C:J. L. Dussek (1760-1812)
+%%score 1 2
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="up"
+V:2 treble nm="down"
+L:1/8
+V:1
+ c'ac'a f4 | gfba g4 | c'ege f2f2 | agfg [af]2[ge]2 | babc' b2a2 | gfga g2f2 | c'agf ecfc | %7
+ gcac [af]2[ge]2 | c'ac'a f4 | gfba [ge]4 | c'ege f2f2 | agfg [af]2[ge]2 | babc' b2a z | %13
+ gfga g2f2 | c'agf e z de | c z de f2af | afaf e2de | c2de f4 | a_a=a_a =a2A2 | a2a2 a2f2 | %20
+ dfad' d'2_d'2 | =b2a2 =d'4 | a2_a2 g2G2 | g2g2 g2e2 | cegc' c'2=b2 | a2g2 c'4 | g2g2 =B4 | %27
+ gfed c2e2 | g2c'2 =bc'd'e' | f'd'c'=b c'2g z | g z g z =B4 | gfed c2e2 | g2c'2 =bc'd'e' | %33
+ f'd'c'=b c'4 | [eg]2[eg]2 [fa]4 | [df=b]4 [egc']4 | gedc [fa]2[fa]2 | [df=b]2[dfb]2 [egc']4 | %38
+ c'ac'a f4 | gfba g4 | c'ege f2f2 | agfg [af]2[ge]2 | babc' b2a2 | gfga g2f2 | c'agf ecfc | %45
+ gcac [af]2[ge]2 | c'ac'a f4 | gfba [ge]4 | c'ege f2f2 | agfg [af]2[ge]2 | babc' b2a2 | gfga g2f2 | %52
+ c'agf e2de | c2de f2af | afaf e2de | c2de f4 | cAcA F4 | GFGA F2C2 | cAcA F2F2 | GFGA F4 | %60
+ c'ac'a f2f2 | gfga f4 |] %62
+V:2
+ z2 A/c/A/c/ | A/c/A/c/ B/c/B/c/ | B/c/B/c/ A/c/A/c/ | E/c/E/c/ FC | DF CF | B,D A,C | z2 B,A, | %7
+ G,F, CC, | z2 A,/C/A,/C/ | A,/C/A,/C/ B,/C/B,/C/ | B,/C/B,/C/ A,/C/A,/C/ | E,/C/E,/C/ F,C, | %12
+ D,D C,C | B,,B, A,,A, | z2 [B,G,C,][B,G,C,] | [B,G,C,][B,G,C,] [A,F,]2 | z2 [B,G,C,][B,G,C,] | %17
+ [B,G,C,][B,G,C,] [A,F,]2 | z2 [_DE]A, | [_DE]A, [=DF]A, | [DF]A, [EG]A, | [EG]A, [DF]2 | %22
+ z2 [D=B,]G, | [=B,D]G, [CE]G, | [CE]G, [DF]G, | [DF]G, [CE]2 | z2 [DF]G | [DF]G [CE]G | %28
+ [CE]G [FDG,][FDG,] | [FDG,][FDG,] [EC]2 | z2 [DF]G | [DF]G [CE]G | [CE]G [FDG,][FDG,] | %33
+ [FDG,][FDG,] [EC]2 | z2 F,,/F,/E,/F,/ | G,,/G,/F,/G,/ C,2 | z2 F,,/F,/E,/F,/ | G,,/G,/F,/G,/ C,2 | %38
+ z2 A/c/A/c/ | A/c/A/c/ B/c/B/c/ | B/c/B/c/ A/c/A/c/ | E/c/E/c/ FC | DF CF | B,D A,C | z2 B,A, | %45
+ G,F, CC, | z2 A,/C/A,/C/ | A,/C/A,/C/ B,/C/B,/C/ | B,/C/B,/C/ A,/C/A,/C/ | E,/C/E,/C/ F,C, | %50
+ D,D C,C | B,,B, A,,A, | z2 [B,G,C,][B,G,C,] | [B,G,C,][B,G,C,] [A,F,]2 | z2 [B,G,C,][B,G,C,] | %55
+ [B,G,C,][B,G,C,] [A,F,]2 | z2 [A,F,]C, | [G,B,]C, [F,A,]2 | z2 [F,A,]C, | [G,B,]C, [F,A,]2 | %60
+ z2 [FA][FA] | [BGC][BGC] [AF]2 |] %62

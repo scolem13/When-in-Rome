@@ -1,0 +1,239 @@
+% Suite 4 for Cello Solo: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=518
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Suite 4 for Cello Solo (1)
+C:Johann Sebastian Bach
+%%score ( 1 2 )
+L:1/8
+Q:1/4=110
+M:2/2
+I:linebreak $
+K:Eb
+V:1 bass nm="Violoncello" snm="Vc"
+V:2 bass 
+L:1/4
+V:1
+ x6 E,,E | B,G,B,E, G,B,,E,,E | B,G,B,E, G,B,,E,,_D | B,G,B,E, G,B,,E,,_D | B,G,B,E, G,B,,E,,C | %5
+ A,E,A,C, E,A,,E,,C | A,E,A,C, E,A,,E,,A, | F,D,F,B,, D,A,,E,,A, | F,D,F,B,, D,A,,E,,G, | %9
+ E,B,,E,G,, B,,E,,D,,G, | E,B,,E,G,, B,,D,,C,,E | CG,CE, G,C,B,,E | CG,CE, G,B,,=A,,E | %13
+ CF,=A,C, E,=A,,F,,E | C=A,CF, A,E,B,,D | B,F,B,D, F,B,,_A,,D | B,F,B,D, F,A,,G,,_D | %17
+ B,E,G,B,, E,G,,E,,_D | B,G,B,E, G,_D,A,,C | A,E,A,C, E,A,,G,,C | A,E,A,C, E,G,,F,,A, | %21
+ D,=B,,D,A,, B,,F,,E,,A, | F,C,F,A,, C,E,,D,,A, | F,=B,,F,G,, A,,D,,C,,A, | F,C,F,A,, C,F,,=B,,D | %25
+ A,F,A,D, F,=B,,G,,D | =B,F,A,D, F,=B,,C,,E | CG,CE, G,C,C,,E | CG,CE, G,C,C,,=E | %29
+ CG,C=E, G,C,B,,=E | CG,C=E, G,B,,A,,F | CA,CF, A,=E,F,C | A,=E,F,C, F,A,,=E,,_D | %33
+ B,G,B,=E, G,C,_D,B, | G,=E,G,B,, _D,=E,,F,,A, | F,C,F,A,, C,F,,_E,,A, | F,C,F,A,, C,E,,D,,A, | %37
+ F,D,F,B,, D,F,A,D,, | F,,B,,D,B,, A,F,E,,G, | E,B,,E,G,, B,,E,,G,,B,, | E,B,,G,E, B,G,C=A,, | %41
+ C,_G,=A,G, CA,E=G,, | C,E,G,E, CG,E_G,, | =A,,C,E,C, _G,C,=A,D, | _G,=A,CA, DA,=G,,B, | %45
+ G,D,G,B,, D,G,,F,,B, | G,D,G,B,, D,G,,E,,B, | G,D,G,B,, D,G,,D,,B, | G,D,G,B,, D,G,, _D,,2- | %49
+ D,, z2 _D,/=D,/ =E,/_G,/=G,/=A,/B,/A,/G,/_G,/ | %50
+ =G,/=E,/_D,/=D,/E,/_G,/=G,/=A,/ B,/A,/G,/A,/B,/C/D/C/ | %51
+ _E/D/C/B,/=A,/B,/C/B,/ A,/G,/_G,/=G,/D,,C | =A,_G,A,D, G,=A,,D,,C | =A,_G,A,D, G,=A,,D,,B, | %54
+ =G,D,G,B,, D,G,,D,,B, | G,D,G,B,, D,G,,D,,/_D/B,/=A,/ | %56
+ B,/_D/B,/=A,/B,/D/B,/A,/ B,/D/B,/A,/G,/B,/G,/_G,/ | %57
+ =G,/B,/G,/_G,/=G,/B,/G,/_G,/ =G,/B,/G,/_G,/=E,/=G,/E,/=D,/ | %58
+ _D,/=E,/D,/=B,,/=A,,/D,/A,,/G,,/ _G,,/A,,/G,,/=E,,/ [_E_G,]2 | %59
+ z/ D/C/_B,/=A,/=G,/_G,/=E,/ D,/C,/_B,,/=A,,/[D=G,B,,D,,] z/ C/ | %60
+ B,/=A,/B,/G,/[B,G,_D,] z/ A,/ G,/_G,/=G,/D,/[G,A,=D,] z/ A,/ | G,/_G,/=G,/=E,/ _G,3 =G,G,,B, | %62
+ G,D,G,B,, D,_G,,=G,,B,, | D,G,B,G, DF,G,,_D | B,G,B,=E, G,B,,_D,G,, | B,,=E,G,E, _DE,A,,C | %66
+ A,F,A,C, F,A,,C,F, | A,F,CF, DF,=A,,E | C=A,CE, _G,C,E,=A,, | C,E,_G,=A, CEB,,D | %70
+ =B,/_B,/=A,B,D =B,/_B,/A,B,=B, | _B,/_A,/G,A,=B, _B,/A,/G,A,B, | A,/_G,/F,G,B, A,/G,/F,G,G, | %73
+ =E,/_E,/D,E,_G, =E,/_E,/D,E,=B,, | E,A,=B,A, _EB,A,B, | A,E,=B,,A,, F,A,,C,,=A,, | %76
+ _G,D,E,/G,/E,/D,/ E,/G,/E,/D,/E,/=A,/G,/F,/ | _G,/=A,/G,/F,/G,/C/G,/F,/ G,/E/G,/F,/G,B,, | %78
+ E,_G,B,G, EB,G,E, | B,_G,E,B,, G,E, [=B,A,,=E,]2- | %80
+ [B,A,,E,]/_G,/=E,/G,/A,/=A,/_A,/=A,/ =B,/A,/B,/A,/_A,/G,/A,/G,/ | =E,/_E,/D,/E,/ D,3 E,_E,,_E | %82
+ B,G,B,E, G,B,,E,,E | B,G,B,E, G,B,,E,,_D | B,G,B,E, G,B,,E,,_D | B,G,B,E, G,B,,E,,C | %86
+ A,E,A,C, E,A,,E,,C | A,E,A,C, E,A,, D,2- | D,/C,/B,,/C,/D,/E,/F,/G,/ A,/F,/G,/A,/D,/E,/F,/B,,/ | %89
+ C,/D,/E,/F,/G,/A,/B,/C/ D/C/E/D/ D2- | D/B,/A,/G,/F,/E,/D,/C,/ B,,/A,,/G,,/F,,/ [EE,,G,B,,]2 |] %91
+V:2
+ x x3 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %19
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %38
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %57
+ z4 | z3 [_A,,=D,,]/ z/ | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %73
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z _B,,2 z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |] %91
+
+X:2
+T:Suite 4 for Cello Solo (2)
+C:Johann Sebastian Bach
+%%score ( 1 2 )
+L:1/16
+Q:1/4=90
+M:2/2
+I:linebreak $
+K:Eb
+V:1 bass nm="Violoncello" snm="Vc"
+V:2 bass 
+L:1/8
+V:1
+ B,2E2DCB,A, G,A,B,A,G,F,E,D, | C,B,,C,E,F,G,A,G, F,E,D,E,F,D,B,,2 | %2
+ A,,2G,,B,,C,D,E,2 _D2A,,2C2F,2 | E,2F,,A,,B,,C,=D,2 C2G,,2B,2E,2 | %4
+ D,2E,,G,,A,,B,,C,2 B,2F,,2A,2D,2 | B,A,G,F,E,G,F,E, D,F, [E,E,,B,,]4 z F, | %6
+ D,E,F,E,D,C,B,,C, D,E,F,G,A,F,G,F, | E,F,G,F,E,D,C,D, E,F,G,=A,B,G,A,G, | %8
+ F,G,=A,G,F,E,D,2 C2G,,B,,C,D,E,2 | D2CB,=A,G,F,2 E2B,,D,E,F,G,2 | F2EDCB,=A,2 G2FEDCB,2 | %11
+ _A,2G,F,E,D,C,2 B,,2=A,,E, G,4 | F,E,D,C,B,,D,C,B,, =A,,C,B,,D,C,B,,C,E, | %13
+ D,C,D,E,F,G,_A,2 B,,2E,,2A,2G,F, | E,D,C,D,E,F,G,2 B,2=A,B,CB,A,G, | %15
+ F,E,D,C,B,,D,C,B,, =A,,C, B,,6 | F,2B,2=A,G,F,E, D,E,F,E,D,C,B,,_A,, | %17
+ G,,F,,G,,E,F,G,D,_A, G,F,G,A,B,G,E,2 | D,C,=B,,C,D,E,F,2 A,2DC=B,=A,G,2 | %19
+ F,2C,D,E,F,G,=B, CDEDC_B,_A,G, | F,E,A,G,F,E,D,C, =B,,=A,,F,E,D,C,B,,A,, | %21
+ G,,F,,E,,2C2G,,2 =B,2 C6 | CDEDEDC_B, CB,A,B,A,B,CD | CDEDEDCB, A,G,_G,=G,=A,CD2 | %24
+ C,2B,,2D2E,G, =A,B,C2=A,,2D,_G, | =G,=A,B,A,G,B,A,G, _G,A,=G,2D,2G,,2 | %26
+ B,C_DCDCB,_A, B,A,G,F,G,F,=E,G, | A,B,CB,A,CB,A, G,B,A,2F,2F,,2 | F,G,A,G,F,E,D,E, F,G,A,B,CDED | %29
+ EDEDCB,A,G, F,E,F,E,D,C,B,,2 | F,2B,,C,D,E,F,2 G,2C,2A,2D,2 | A,2E,F,G,A,B,2 C2F,2_D2G,2 | %32
+ _D2CB,A,G,A,2 C2FE=DEFE | DCB,A,G,F,G,2 B,2EDCDED | CB,A,G,F,G,A,G, F,E,D,C,B,,C,D,C, | %35
+ B,,A,,G,,B,,C,D,E,2 _D2A,,2D2CB, | A,G,A,G,F,E,=D,2 C2G,,2C2B,A, | %37
+ G,F,G,F,E,D,C,B,, A,,G,,F,,A,G,F,B,,A, | G,F,E,,G,F,E,=A,,_G, F,E,D,F, C4 | %39
+ B,_A,=G,F,E,F,B,,2 D2 [EE,,G,B,,]6 |] %40
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | z4 z [C,,E,G,,]2 z | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %35
+ x8 | x8 | x8 | x8 | x8 |] %40
+
+X:3
+T:Suite 4 for Cello Solo (3)
+C:Johann Sebastian Bach
+%%score ( 1 2 3 )
+L:1/8
+Q:1/4=96
+M:3/4
+I:linebreak $
+K:Eb
+V:1 bass nm="Violoncello" snm="Vc"
+V:2 bass 
+V:3 bass 
+V:1
+ E,E, B,,C, A,,F,, | (3:2:1D,D,/ (12:11:1z2 E,,/D,/ E,/F,/G,/F,/ | G,/=A,/B, F,G, E,C, | %3
+ (3:2:1=A,A,/ (12:11:1z2 B,, _A,,G,, | E,(3A,, z C, (3:2:1z/ D,/ z/ (3:2:2E, z/ G,/ | %5
+ z/ (3:2:2A, z/ A,,/ z/ (3:2:2B,, z/ C,/ z/ (3:2:2D, z/ F,/ | %6
+ z/ (3:2:2G, z/ G,/ z/ (3:2:2A, z/ F,/ z/ (3:2:2E, z/ E,/ | %7
+ z/ (3:2:2D, z2 z/ E,,/B,,/ C,/D,/E,/D,/ | E,/F,/G, E,G, D,C, | %9
+ (3:2:1B,B,/ (12:11:1z2 E,,/C,/ D,/E,/F,/E,/ | F,/G,/=A, F,A, E,D, | C B,2 D,,/D,/ E,/F,/G,/F,/ | %12
+ G,/=A,/B, G,B, F,E, | DC =A,C G,F, | ED B,D =A,G, | FE CE =A,F, | CD B,D G,E, | %17
+ C (3:2:4=A,4 z G, z/ B,/ | z/ (3:2:2C z2 z =A,/ z/ (3:2:2B, z/ D/ | %19
+ z/ (3:2:2E z2 z C/ z/ (3:2:2D z/ F/ | z/ (3:2:2G z2 z/ F ED | CD B,E, CF, | %22
+ =A, B,2 B,,/B,/ A,/G,/F,/G,/ | F,/E,/(3D, z C, (3:2:1z/ E,/ z/ (3:2:2F, z/ G,/ | %24
+ z/ (3:2:2=A, z D, C,3 | B,, F,, B,,4 z | F,F, D,G, E,=A,, | F, D,2 B,, C,/D,/E,/D,/ | %28
+ E,/F,/G, E,A, F,=B,, | G, E,2 C,,/G,/ =A,/=B,/C/B,/ | C/D/E DE CE | B,E A,E G,F, | ED CD B,D | %33
+ A,D G,D F,E, | DC B,C A,C | G,C F,C E,D, | F,A, G,A, F,A, | E,A, D,A, C,=B,, | D,F, E,F, D,F, | %39
+ C,F, =B,,F, =A,,G,, | =B,C EF, DG, | =B, C2 C,,/G,,/ =A,,/=B,,/C,/B,,/ | %42
+ C,/D,/=E,/D,/ E,/F,/G,/F,/ G,/_A,/_B,/A,/ | B,/G,/(3A, z F, (3:2:1z/ _E,/ z/ (3:2:2D, z/ C,/ | %44
+ z/ (3:2:2B,, z/ C,/ D,/E,/F,/E,/ F,/G,/A,/G,/ | A,/F,/(3G, z E, (3:2:1z/ D,/ z/ (3:2:2C, z/ B,,/ | %46
+ z/ (3:2:2A,, z C/B,/A,/B,/ A,/G,/F,/G,/ | F,/E,/D,/E,/ D,/C,/B,,/C,/ B,,/A,,/G,,/A,,/ | %48
+ G,,/F,,/E,, EB,/A,/ G,/F,/E, | B,,G,, _DB,/A,/ G,/F,/E, | _DA,, DC/B,/ A,/G,/F, | %51
+ CG,, CB,/A,/ G,/F,/=E, | B,F,, B,A,/G,/ F,/_E,/D, | A,E,, A,G,/F,/ E,/D,/E, | G,=A,, C,E, _G,=A, | %55
+ C (3:2:4D,4 z C, z/ E,/ | z/ (3:2:2F, z2 z D,/ z/ (3:2:2E, z/ G,/ | %57
+ z/ (3:2:2A, z2 z F,/ z/ (3:2:2G, z/ B,/ | z/ (3:2:2C z2 z/ B, A,G, | F,G, E,A,, F,B,, | %60
+ D, E,2 E,,/B,,/ C,/D,/E,/D,/ | E,/F,/(3G, z F, (3:2:1z/ A,/ z/ (3:2:2B, z/ C/ | %62
+ z/ (3:2:2D z G, F,3 | E, B,, [E,E,,B,,]4 z |] %64
+V:2
+ x6 | z E,2 z3 | x6 | z B,2 z3 | z3/2 B,,/ z (3:2:2C, z2 (3:2:2F, z/ | %5
+ z (3:2:2G,, z2 (3:2:2B,, z2 (3:2:2E, z/ | z (3:2:2F, z2 (3:2:2G, z2 (3:2:2B,, z/ | z E,2 z3 | x6 | %9
+ z =A,2 z3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z F,2 z/ F,/ z (3:2:2=A, z/ | z (3:2:4C4 z2 C z/ | %19
+ z (3:2:4E4 z2 E z/ | z [G=A,]2 z3 | x6 | x6 | z3/2 B,,/ z (3:2:2D, z2 (3:2:2F, z/ | z B, z F,,3- | %25
+ x7 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %43
+ z3/2 G,/ z (3:2:2F, z2 (3:2:2D, z/ | z B,,/ z4 z/ | z3/2 F,/ z (3:2:2E, z2 (3:2:2C, z/ | %46
+ z A,, z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z B,,2 z/ B,,/ z (3:2:2D, z/ | %56
+ z (3:2:4F,4 z2 F, z/ | z (3:2:4A,4 z2 A, z/ | z [CD,]2 z3 | x6 | x6 | %61
+ z3/2 E,/ z (3:2:2G, z2 (3:2:2B, z/ | z E z B,,3- | x7 |] %64
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %18
+ z E,2 z3 | z [C,=A,]2 z3 | x6 | x6 | x6 | x6 | x6 | x7 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %53
+ x6 | x6 | x6 | z A,,2 z3 | z [F,,D,]2 z3 | x6 | x6 | x6 | x6 | x6 | x7 |] %64
+
+X:4
+T:Suite 4 for Cello Solo (4)
+C:Johann Sebastian Bach
+%%score ( 1 2 )
+L:1/8
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:Eb
+V:1 bass nm="Violoncello" snm="Vc"
+V:2 bass 
+V:1
+ B,2 C2 _D2 | [_DA,,E,] z/ [B,B,]/ C2- C/ B,/A,/G,/ | F,2 G,2 A,2 | [A,E,,B,,] z/ F,/ G,>B, E,2 | %4
+ [E,B,,] z/ C,/ D,>F, A,2 | [A,E,,B,,] z/ F,/ G,>B, _D2 | [_D=E,]2 C>=E G2 | %7
+ [B,F,]2 =A,>G, F,>_E, | [B,D,]2 F>=A, B,2 | [B,E,]2 G>=A, B,2 | [B,F,]=A,/G,/ F,E, E,/ z/ E,/C,/ | %11
+ B,,6 | F,2 G,2 A,2 | [A,=B,,]>[F,G,] G,2- G,/ F,/E,/D,/ | [EC,G,]2 [DA,,F,]2 [C=A,,_G,]2 | %15
+ [CD,=G,,] z/ =A,/ =B,>D G,>F, | [=E,_B,,]2 [F,=A,,]2 [G,G,,]2 | [_A,F,,C,] z/ F,/ D,>=B, C2- | %18
+ [CF,]3/2 F,/ D3 C | C>G, E,>G, C,>B,, | C2 D2 E2 | [EB,,F,] z/ C/ D>F _A,2 | %22
+ [A,E,,B,,]2 G,>B, [E,=A,,]2 | [E,B,,] z/ C,/ D,>F, B,,>_A,, | [E,G,,] z/ G,/ B,>D, E,2 | %25
+ [E,A,,] z/ G,/ C>D, E,2 | [E,B,,] z/ A,/ G,>F, E,F,/D,/ | [E,C,]G,/B,/ EB,/G,/ E,2 | %28
+ [E,=A,,]2 C>F, E2 | [E_A,,F,]D/C/ D>F B,2 | [B,G,,E,]A,/G,/ [F,A,,]E, B,,E,/D,/ | %31
+ E,,/G,,/B,,/D,/ E,/G,/B,/D/ E2 |] %32
+V:2
+ E,6 | x6 | B,,6 | x6 | x6 | x6 | z3/2 B,/ z4 | x6 | z3/2 D/ z4 | z3/2 D/ z4 | z4 D, z | x6 | %12
+ B,,6 | x6 | x6 | x6 | x6 | z4 _E,2 | z3/2 D/ G,4 | x6 | [=A,,F,] z4 z | x6 | z3/2 F,/ z2 C,, z | %23
+ x6 | x6 | x6 | x6 | x6 | z3/2 _G,/ z4 | x6 | x6 | x6 |] %32
+
+X:5
+T:Suite 4 for Cello Solo (5)
+C:Johann Sebastian Bach
+L:1/16
+Q:1/4=120
+M:2/2
+I:linebreak $
+K:Eb
+V:1 bass nm="Violoncello" snm="Vc"
+V:1
+ E,F,G,A, B,4 C2A,2 B,4 | C2G,2 A,4 F,4 F,,4 | D,E,F,G, A,4 B,2G,2 A,4 | B,2F,2 G,4 E,4 E,,4 | %4
+ E,F,G,A, B,4 B,,C,D,E, F,4 | A,4 A,2G,2 F,2E,2 F,4 | E,F,G,A, B,4 B,,C,D,E, F,4 | %7
+ A,4 A,2G,2 F,2E,2 F,4 | F,G,=A,B, C4 A,B,CD E4 | F,G,=A,B, C4 A,B,CD E4 | D2C2D2B,2 G,2B,2E,2C2 | %11
+ F,2=A,2 B,4 F,4 B,,4 | B,,C,D,E, F,4 G,2E,2 F,4 | B,2F,2 G,4 E,4 E,,4 | %14
+ A,G,F,E, D,4 F,E,D,C, =B,,4 | D,C,=B,,=A,,G,,2D,2 F,2=B,2 D4 | G,F,E,D, E,4 C,,D,,E,,F,, G,,4 | %17
+ DC=B,=A, B,4 G,,=A,,=B,,C, D,4 | GFED E4 EDC=B, C4 | C_B,A,G, A,4 A,G,F,E, D,4 | %20
+ C2=B,2C2A,2 F,2A,2D,2C2 | G,2=B,2 C4 G,,4 C,,4 | C,D,=E,F, G,4 A,2F,2 G,4 | %23
+ C2G,2B,2A,2 G,2F,2_E2D2 | C2B,2 E4 E,F,G,A, B,4 | C4 E,2D,2 C,2D,2 B,,4 | %26
+ B,,C,D,E, F,4 D,E,F,G, A,4 | B,,C,D,E, F,4 D,E,F,G, A,4 | E,F,G,A, B,4 G,A,B,C _D4 | %29
+ E,F,G,A, B,4 G,A,B,C _D4 | C2B,2C2B,2 B,2A,2B,2G,2 | G,,2G,A,B,2G,A, B,2A,G,A,2F,2 | %32
+ F,,2A,2G,F,E,D, E,2B,2G,F,E,D, | E,2E2A,G,F,G, A,G,F,G,A,G,F,E, | D,C,B,,A,,G,,2E,2 C2A,2 B,4 | %35
+ C2G,2 A,4 F,4 F,,4 | CB,A,G, F,4 A,G,F,E, D,4 | F,E,D,C,B,,2D,2 F,2A,2 F4 | %38
+ EDCB, E4 E,F,G,A, B,4 | C4 E,2D,2 C,2D,2 B,,4 | EDCB, E4 E,F,G,A, B,4 | C4 _DCB,2 C6 B,A, | %42
+ B,A,G,2A,G,F,2 G,6 F,E, | F,E,D,2E,2B,,2 G,,2B,,2 E,,4 | B,,C,D,E, F,4 D,E,F,G, A,4 | %45
+ B,,C,D,E, F,4 D,E,F,G, A,4 | G,2F,2G,2B,2 E2G,2F,2E,2 | B,,2D2 [EE,,G,B,,]12 |] %48
+
+X:6
+T:Suite 4 for Cello Solo (6)
+C:Johann Sebastian Bach
+%%score ( 1 2 )
+L:1/4
+Q:1/4=130
+M:4/4
+I:linebreak $
+K:Eb
+V:1 bass nm="Violoncello" snm="Vc"
+V:2 bass 
+V:1
+ [E,G,,] [E,A,,] F,2 | D, E,/F,/ G,2 | E, A,, F, B,, | D, E, B,, E,, | [B,E,] [B,A,] C2 | %5
+ B, A,/G,/ A, F, | A, [B,D,] A,2 | G, F,/E,/ D,/C,/ B,,/A,,/ | [E,G,,] [E,A,,] F,2 | %9
+ D, E,/F,/ G,2 | E, A,, F, B,, | D, [E,E,,B,,]3 |] %12
+V:2
+ z3 B,, | z C, z G,, | x4 | x4 | z3 G, | x4 | z3 E, | x4 | z3 B,, | z C, z G,, | x4 | x4 |] %12
+
+X:7
+T:Suite 4 for Cello Solo (7)
+C:Johann Sebastian Bach
+L:1/8
+Q:1/4=180
+M:12/8
+I:linebreak $
+K:Eb
+V:1 bass nm="Violoncello" snm="Vc"
+V:1
+ E,E,D, E,B,,C, D,E,D, E,G,F, | G,E,D, E,B,,C, D, E,,4- E,, | G,F,E, F,B,G, A,G,F, G,E,F, | %3
+ G,F,E, F,B,G, A,G,F, G,E,G, | F,E,D, E,C=A, B,A,G, A,F,A, | F,E,D, E,C=A, B,A,G, A,F,A, | %6
+ E,D,C, D,D=A, B,E,D, E,DA, | B,F,E, F,D=A, B,G,F, G,DA, | B,E,D, E,C,E, B,,=A,,E, G,,A,,E, | %9
+ F,,B,,D, F,B,D, F, B,,4- B,, | B,B,=A, B,F,G, A,B,A, B,DC | DB,=A, B,F,G, A, B,,4- B,, | %12
+ DDC D_A,G, A,F,E, F,=B,,F, | DDC DA,G, A,F,E, F,=B,,D, | F,E,D, E,C,E, _B,,A,,C, F,A,C | %15
+ E,D,C, D,B,,D, A,,G,,B,, E,G,B, | D,C,B,, C,A,,C, G,,F,,A,, D,F,A, | C,=B,,D, G,=B,D F,E,G, CG,C | %18
+ =B,CB, CG,=A, B,CB, CED | EC=B, CE,F, G,C,E, _G,=A,C | =A,_G,A, CED C_B,A, =G,D,G, | %21
+ _G,=G,_G, =G,B,_G, =G,C,B,, C,B,_G, | =G,D,C, D,B,_G, =G,E,D, E,B,_G, | %23
+ =G,=A,C G,_G,C =E,D,C E,G,C | =G,=A,C G,_G,C =E,D,C E,G,C | D,B,=A, =G,D,G, _G,=G,D, B,, G,,2 | %26
+ E,E,D, E,B,,C, D,E,D, E,G,F, | G,E,D, E,B,,C, D, E,,4- E,, | G,F,E, F,B,G, A,G,F, G,E,F, | %29
+ G,F,E, F,B,G, A,G,F, G,E,G, | A,B,A, B,EC _DCB, CA,B, | CB,A, B,EC _DCB, CA,B, | %32
+ C_G,F, G,E,=D, E,C,B,, C,=A,,C, | E,_G,F, G,E,D, E,C,B,, C,=A,,C, | %34
+ E,D,C, D,B,,D, _A,,=G,,B,, E,G,B, | _D,C,B,, C,A,,C, G,,F,,A,, =D,F,A, | %36
+ C,B,,A,, B,,G,,B,, F,,=E,,G,, C,=E,G, | B,,A,,G,, A,,F,,A,, _E,,D,,F,, B,,D,F, | %38
+ A,,G,,F,, G,,G,D, E,A,,G,, A,,G,D, | E,B,,A,, B,,G,D, E,C,B,, C,G,D, | %40
+ E,A,G, A,F,A, E,D,A, C,D,A, | B,,E,G, B,EG,, B,, E,,4- E,, |] %42

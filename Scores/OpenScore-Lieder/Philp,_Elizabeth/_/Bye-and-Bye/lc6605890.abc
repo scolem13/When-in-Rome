@@ -1,0 +1,48 @@
+X:1
+T:Modern Ballads: A Selection of 50 Favourite Songs and Ballads by the Most Eminent Composers
+T:Bye-and-Bye
+C:Elizabeth Philp
+Z:Edward Litt Laman Blanchard
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=114
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+L:1/4
+V:3 bass 
+V:1
+"^Moderato" z8 | z8 | z8 | z8 |: E G c B A G F E | F A d c B A (GF) | E G c d e c G E | %7
+w: ||||1. There’s a lit- tle mis- chief mak- ing|Ur- chin who is e- ver nigh, *|Stop- ping ev'- ry un- der- tak- ing,|
+w: ||||2. Those who heed his treach- 'rous woo- ing,|Will his faith- less gui- dance rue, *|What we al- ways put off do- ing,|
+ D ^C D E G F D2 | E E ^F ^G A B c A | ^G G A B c d (ec) | d c B A d c B A | %11
+w: And his name is "Bye- and- Bye:"|What we ought to do this min- ute,|Will be bet- ter done, he'll cry, *|If to- mor- row you be- gin it,|
+w: Clear- ly we shall ne- ver do.|We shall gain if we en- dea- vour,|And on Fai- ry "Now" re- ly, *|But un- to the realms of "Ne- ver,"|
+ E E c"^rall." B B3/2 A/ A2 |"^accel." G A A G G A (AG) | A _B B A A B (BA) | d c (BA) d c (BA) | %15
+w: "Put it off" says Bye- and- Bye,|"Put it off" says Bye- and- Bye, *|"Put it off" says Bye- and- Bye, *|Bye- and- Bye, * Bye- and- Bye, *|
+w: Lends the Gob- lin Bye- and- Bye.||||
+ G c e c d3/2 c/ c2 | z8 | z8 | z8 | z8 :| %20
+w: "Put it off" says Bye- and- Bye.|||||
+w: |||||
+V:2
+ (egc'b agfe) | (fad'c' bagf) | (egc'd' e'c'ge) | d2 [dfb]2 !arpeggio![cec']2 z2 |: %4
+ z (C[EG]C [EG]C[EG]C) | z (B,[FG]B, [FG]B,[FG]B,) | z (C[EG]C [EG]c[Gc]C) | z (F[DB]) z [DG]F D2 | %8
+ z (B,[DE]B,) z (CEA) | z (B,[D^G]B,) z (CEA) | z (DFA) z (DFA) | %11
+ [CE]2 [DE]2"^rall." [DE^G]2 [CEA]2 |"^accel." z (D[FA]G) z (EcE) | z (E[G_B]A) z (FdF) | %14
+ [Acd]3 z [Acd]3 z | [Gce]4 [FBd]2 [Ec]2 | [dd'][cc'][Bb][Aa] [dd'][cc'][Bb][Aa] | %17
+ [Gg][cc'][ee'][gg']!8va(! [af'a']4- | [af'a'] [dd'][ee'][ff'] [gg']2 [f'g'b']2 | %19
+ !arpeggio![c'e'g'c'']2!8va)! z2 z4 :| %20
+V:3
+ C,G,[CE]G, [CE]G,[CE]G, | G,,G,[B,F]G, [B,F]G,[B,F]G, | C,G,[CE]G, [CE]G, E,[G,C] | %3
+ [F,CD]2 [G,DF]2 !arpeggio![C,G,CE]2 z2 |: C,8 | G,,8 | C,6 E,2 | G,4 G,,4 | ^G,2 E,2 A,,4 | %9
+ E,4 A,4 | F,4 D,4 | [E,A,]2 [E,^G,]2 [E,B,]2 A,2 | [B,,B,]4 [C,C]4 | [^C,^C]4 [D,D]4 | %14
+ [F,,F,]3 z [^F,,^F,]3 z | [G,,G,]4 [G,,G,]2 [C,C]2 | [F,A,CD]3 z [^F,A,CD]3 z | %17
+ [G,CE][G,CE][G,CE][G,CE] [F,CF]4- | [F,CF][G,B,F][G,B,F][G,B,F] [G,B,F]2 [G,DF]2 | %19
+ !arpeggio![C,G,CE]2 z2 z4 :| %20
+V:4
+ x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x2 B,2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ x2!8va(! x2 | x4 | x!8va)! x3 :| %20

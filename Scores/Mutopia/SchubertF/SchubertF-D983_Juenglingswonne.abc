@@ -1,0 +1,66 @@
+% Jünglingswonne: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1562
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Jünglingswonne
+C:SchubertF
+%%score 1 2 3 4
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:none
+V:1 bass nm="bassoII" snm="Bsn"
+V:2 treble nm="tenoreI" snm="Ob"
+V:3 treble nm="tenoreII" snm="Cl"
+V:4 bass nm="bassoI" snm="Hn"
+V:1
+ x2 |[K:C][M:4/4][M:4/4] x4[Q:1/4=120] G,2 C,2- |[M:4/4] C,>G,, C,>G,, C,>G,, D,2- | %3
+ D,2 G,,2 G,,2 C,2- | C,>B,, A,,>C, ^D,>B,, E,2- | E,4 G,2 C,2- | C,>G,, C,>G,, C,>G,, D,2- | %7
+ D,2 A,,2 C,2 F,2- | F,7/2 C,/ D,>C, D,2 | C,2 F,2 x F, B,,2- | B,,7/2 C,/ A,,>C, ^D,2 | %11
+ =D,2[Q:1/4=40] G,,2[Q:1/4=120] G,2 C,2- | C,>C, C,>C, C,>C, B,,2- | B,,D, G,3 G, C,2- | %14
+ C,C, D,>D, D,>D, G,2- | G,2 G,,2 G,2 C,2- | C,>C, C,>C, C,>C, B,,2- | B,,D, G, x C,2 D,2 | %18
+ D,2 G,2 A,,>B,, C,2 | D,2 G,2 x G, C,2- | C,>G,, C,>G,, C,>G,, D,2- | D,2 G,,2 G,,2 C,2- | %22
+ C,>B,, A,,>C, ^D,>B,, E,2- | E,4 G,2 C,2- | C,>G,, C,>G,, C,>G,, D,2- | D,2 A,,2 C,2 F,2- | %26
+ F,7/2 C,/ D,>C, D,2 | C,2 F,2 x F, B,,2- | B,,7/2 C,/ A,,>C, ^D,2 | %29
+ =D,2[Q:1/4=40] G,,2[Q:1/4=120] G,2 C,2- | C,>C, C,>C, C,>C, B,,2- | B,,D, G,3 G, C,2- | %32
+ C,C, D,>D, D,>D, G,2- | G,2 G,,2 G,2 C,2- | C,>C, C,>C, C,>C, B,,2- | B,,D, G, x C,2 D,2 | %36
+ D,2 G,2 A,,>B,, C,2 | D,2 G,2 x G, B,2- | B,>G, C>A, D>B, E,2- | E,2 E, x C,2 C,2- | %40
+ C,>C, G,,>G,, G,,>G,, C,2 | F,4 C,2 C,2- | C,>C, G,,>G,, G,,>G,, C,>C, | %43
+[Q:1/4=100] C4 C,C,[Q:1/4=90] C,2- | C,6 x2 |] %45
+V:2
+ x2 |[K:C][M:4/4][M:4/4] x4[Q:1/4=120] G2 e2- |[M:4/4] e>d e>d e>d f2- | f2 d2 G2 c2- | %4
+ c>B A>c ^d>B e2- | e4 G2 e2- | e>d e>d e>d f2- | f2 e2 c2 a2- | a7/2 g/ f>g f2 | g2 a2 x f B2- | %10
+ B7/2 c/ A>c ^d2 | =d2[Q:1/4=40] g2[Q:1/4=120] G2 e2- | e>e e>e d>e g2- | gf d3 d e2- | %14
+ ed c>c e>d d2- | d2 B2 G2 e2- | e>e e>e d>e a2- | a/g/f/e/ dxe>d c2 | e>d B2 e>d c2 | %19
+ e>d B2 x G e2- | e>d e>d e>d f2- | f2 d2 G2 c2- | c>B A>c ^d>B e2- | e4 G2 e2- | e>d e>d e>d f2- | %25
+ f2 e2 c2 a2- | a7/2 g/ f>g f2 | g2 a2 x f B2- | B7/2 c/ A>c ^d2 | %29
+ =d2[Q:1/4=40] g2[Q:1/4=120] G2 e2- | e>e e>e d>e g2- | gf d3 d e2- | ed c>c e>d d2- | %33
+ d2 B2 G2 e2- | e>e e>e d>e a2- | a/g/f/e/ dxe>d c2 | e>d B2 e>d c2 | e>d B2 x G B2- | %38
+ B>G c>A d>B e2- | ef e x e2 f2- | f>e d>f e>d c2 | a4 g2 f2- | f>e d>f e>d c>c | %43
+[Q:1/4=100] g4 ee[Q:1/4=90] c2- | c6 x2 |] %45
+V:3
+ x2 |[K:C][M:4/4][M:4/4] x4[Q:1/4=120] G2 c2- |[M:4/4] c>B c>B c>B d2- | d2 B2 G2 c2- | %4
+ c>B A>c ^d>B e2- | e4 G2 c2- | c>B c>B c>B d2- | d2 ^c2 =c2 f2- | f7/2 e/ d>e d2 | e2 f2 x f B2- | %10
+ B7/2 c/ A>c ^d2 | =d2[Q:1/4=40] B2[Q:1/4=120] G2 c2- | c>c c>c B>c e2- | ed G3 G c2- | %14
+ cB A>A c>B B2- | B2 G2 G2 c2- | c>c c>c B>c f2- | f/e/d/c/ Bxc>B A2 | c>B G2 c>B A2 | %19
+ c>B G2 x G c2- | c>B c>B c>B d2- | d2 B2 G2 c2- | c>B A>c ^d>B e2- | e4 G2 c2- | c>B c>B c>B d2- | %25
+ d2 ^c2 =c2 f2- | f7/2 e/ d>e d2 | e2 f2 x f B2- | B7/2 c/ A>c ^d2 | %29
+ =d2[Q:1/4=40] B2[Q:1/4=120] G2 c2- | c>c c>c B>c e2- | ed G3 G c2- | cB A>A c>B B2- | %33
+ B2 G2 G2 c2- | c>c c>c B>c f2- | f/e/d/c/ Bxc>B A2 | c>B G2 c>B A2 | c>B G2 x G B2- | %38
+ B>G c>A d>B B2 | c2 B x c2 c2- | c>c c>c B>B c2 | f4 e2 c2- | c>c c>c B>B c>c | %43
+[Q:1/4=100] e4 cc[Q:1/4=90] G2- | G6 x2 |] %45
+V:4
+ x2 |[K:C][M:4/4][M:4/4] x4[Q:1/4=120] G,2 G,2- |[M:4/4] G,>G, G,>G, G,>G, A,2- | %3
+ A,2 G,2 G,2 C,2- | C,>B,, A,,>C, ^D,>B,, E,2- | E,4 G,2 G,2- | G,>G, G,>G, G,>G, A,2- | %7
+ A,2 A,2 C2 C2- | C7/2 C/ A,>C A,2 | C2 C2 x F, B,,2- | B,,7/2 C,/ A,,>C, ^D,2 | %11
+ =D,2[Q:1/4=40] D,2[Q:1/4=120] G,2 G,2- | G,>G, G,>G, G,>G, G,2- | G,2 G,3 G, G,2- | %14
+ G,G, ^F,>F, F,>F, G,2- | G,4 G,2 G,2- | G,>G, G,>G, G,>G, G,2- | G,2 G, x G,2 ^F,2 | %18
+ ^F,2 G,2 E,2 E,2 | ^F,2 G,2 x G, G,2- | G,>G, G,>G, G,>G, A,2- | A,2 G,2 G,2 C,2- | %22
+ C,>B,, A,,>C, ^D,>B,, E,2- | E,4 G,2 G,2- | G,>G, G,>G, G,>G, A,2- | A,2 A,2 C2 C2- | %26
+ C7/2 C/ A,>C A,2 | C2 C2 x F, B,,2- | B,,7/2 C,/ A,,>C, ^D,2 | %29
+ =D,2[Q:1/4=40] D,2[Q:1/4=120] G,2 G,2- | G,>G, G,>G, G,>G, G,2- | G,2 G,3 G, G,2- | %32
+ G,G, ^F,>F, F,>F, G,2- | G,4 G,2 G,2- | G,>G, G,>G, G,>G, G,2- | G,2 G, x G,2 ^F,2 | %36
+ ^F,2 G,2 E,2 E,2 | ^F,2 G,2 x G, B,2- | B,>G, C>A, D>B, ^G,2 | A,2 ^G, x =G,2 A,2- | %40
+ A,>G, F,>A, G,>F, E,2 | C4 C2 A,2- | A,>G, F,>A, G,>F, E,>C |[Q:1/4=100] C4 G,G,[Q:1/4=90] E,2- | %44
+ E,6 x2 |] %45

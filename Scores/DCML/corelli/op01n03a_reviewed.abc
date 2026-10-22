@@ -1,0 +1,37 @@
+X:1
+T:Sonata da chiesa
+T:Grave
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3 4
+L:1/16
+Q:1/4=52
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="StringInstrument" snm="Str"
+V:2 treble nm="StringInstrument" snm="Str"
+V:3 bass nm="StringInstrument" snm="Str"
+L:1/4
+V:4 bass nm="Keyboard" snm="Kb"
+L:1/4
+V:1
+"^Tonart: A-Mixolydisch" e12 e4 | d4 c4 B4 e4 | d8 c4 e4 | f4 b4 a8 |$ ^g4 ^G4 A4 B4 | E4 e4 d8 | %6
+ c4 f4- f2 (e^d) e4- | e2 (dc) d4- d2 (cB) c4- |$ c2F2 B4- B2E2 A4- | %9
+ A2 (BA) ^G4- G2 (AG) F2 (GF) | ^E2F2 F2>E2 F4 a4 |$ ^g6 (fe) f6 (ed) | e4 a4- a2 (^gf) g2 (ag) | %13
+ f6 (ba) ^g2e2 a4- | a4 ^g4 a4 e4- |$ e2 (dc) d8 c4 | B8 A8 || %17
+V:2
+ c12 c4 | B4 A4 ^G4 A4- | A4 ^G4 A4 c4 | ^d4 e8 d4 |$ e4 E4 F4 F4 | ^G4 A8 G4 | A4 z4 ^g6 (fe) | %7
+ f6 (ed) e6 (dc) |$ d6 (cB) c6 (dc) | B6 (cB) A6 (BA) | ^G2A2 G2>G2 F4 f4- |$ %11
+ f2 (ed) e4- e2 (dc) d4- | d2 (cB) c2 (dc) B4 e4- | e2 (dc) d8 c4 | B8 A4 z2 E2 |$ %15
+ F6 (BA) ^G2E2 A4- | A4 ^G4 A8 || %17
+V:3
+ A,3 A,, | B,, C,/D,/ E, C, | B,, E, A,, A,- | A, ^G, F, B, |$ E, E,2 D,- | D, C, B,, E, | %6
+ A,,2 E,2 | B,, B, ^G, A, |$ F, ^G, A, A,, | E, ^E, F,3/2 B,,/ | C,/B,,/ C, F,,2 |$ C,2 D,2 | %12
+ A,,2 E,2 | B,,2 E, F,/E,/ | D, E, A,, C, |$ D,2 E,2 | E,,2 A,,2 || %17
+V:4
+"" A,3 A,, |"m" B,,"" C,/D,/"" E,"" C, |"m" B,,"" E,"" A,,"" A,- |"" A,"" ^G,"m" F,"" B, |$ %4
+"" E,"""m" E,2"m" D,- |"" D,"" C,"m" B,,"" E, |"""m" A,,2"""" E,2 |"m" B,,"m" B,"" ^G,"" A, |$ %8
+"" F,"m" ^G,"" A,"" A,, |"" E,"m" ^E,"m""m" F,3/2"m" B,,/ |"" C,/B,,/"""" C,"m""" F,,2 |$ %11
+"m""m" C,2"""" D,2 |"""" A,,2"""" E,2 |"m""m" B,,2"" E,"m" F,/E,/ |"m" D,"" E,"" A,,"" C, |$ %15
+"""m" D,2"""" E,2 |"""" E,,2"" A,,2 || %17

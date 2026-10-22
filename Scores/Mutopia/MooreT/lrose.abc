@@ -1,0 +1,47 @@
+% The Last Rose of Summer (Martha): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=434
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:The Last Rose of Summer (Martha)
+C:Thomas Moore (1779-1833)
+%%score ( 1 2 ) ( 3 4 ) ( 5 6 )
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:D
+V:1 bass nm="lower"
+V:2 bass 
+L:1/4
+V:3 treble nm="melodystaff" snm="Ch"
+V:4 treble 
+V:5 treble nm="upper"
+V:6 treble 
+V:1
+ x2 | [D,F,A,]4 [D,G,B,]2 | [D,F,A,]4 z2 | [A,,A,]4 [A,,G,]2 | [D,F,]2 D,,2 z2 | %5
+ [D,F,A,]4 [D,G,B,]2 | [D,F,A,]4 z2 | [A,,A,]4 [A,,G,]2 | [D,F,]2 D,, z3 | %9
+ (3D,F,A, (3D,F,A, (3D,G,B, | (3D,F,A, (3D,F,A, (3D,F,A, | (3B,,D,F, B,,E, F,F,, | B,,2 z4 | %13
+ (3D,F,A, (3D,F,A, (3D,G,B, | (3D,F,A, (3DA,F, (3D,G,^A, | (3=A,F,D, (3A,,D,F, [G,C,A,,]2 | %16
+ [F,D,]2 D,,2 z2 | (3D,F,A, (3D,F,A, (3D,F,A, | (3D,F,A, (3D,F,A, (3D,G,B, | %19
+ (3D,F,A, (3DA,F, (3D,G,^A, | (3=A,F,D, (3A,,D,F, [G,A,,]2 | [D,F,]2 A,2 F,2 | D,2 A,,2 F,,2 | %23
+ D,,4- D,,2 |] %24
+V:2
+ x | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %20
+ z2 z3/4 F,/4 | z3 | z3 | z3 |] %24
+V:3
+ x4 D>E | F2 d>c B>A | A2 F z D>E | F A2 F F/ z D/ | D4 D>E | F2 d>c B>A | A2 F z D>E | %7
+ F A2 F F/ z D/ | D2 D z A>F | d3 c B>A | A2 F2 A>F | d3 c B^A | %12
+ (3:2:1B[cB^A]/ (3:2:1z/ c/ d2 D>E | F2 d>[cc] B>=A | A2 F z D>E | F2 A>[FF] E>D | D4 D>E | %17
+ F4 D>E | F2 d>c B>A | A2 F z D>E | F A2 F E>D | D4- D2 |] %22
+V:4
+ x2 x4 | z6 | z6 | z4 E3/2 z/ | z6 | z6 | z6 | z4 E3/2 z/ | z6 | z6 | z6 | z6 | z B/ z4 z/ | z6 | %14
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %22
+V:5
+ x4 D>E | F2 [Fd]>c [GB]>A | [FA]2 F z D>E | F A2 F F/ z D/ | D4 D>E | F2 [Fd]>c [GB]>A | %6
+ [FA]2 F z D>E | F A2 F F/ z D/ | D3 z A>F | [Fd]3 c [GB]>A | [AF]2 F2 A>F | %11
+ [FBd]3 [EGc] [DFB][CF^A] | (3:2:1[DFB][cB^A]/ (3:2:1z/ c/ [dBF]2 D>E | [DF]2 [Fd]>[cc] [BG]>=A | %14
+ [AF]2 F z D>E | [DF]2 [FA]>[FF] E>D | D4 D>E | [DF]4 D>E | [DF]2 [Fd]>c [GB]>A | [FA]2 F z D>E | %20
+ F A2 F E>D | D2 [DF]2 [DFA]2 | [FAd]2 [Adf]2 [dfa]2 | [dfad']4- [dfad']2 |] %24
+V:6
+ x2 x4 | z6 | z6 | D4 [EC]3/2 z/ | z6 | z6 | z6 | D4 [EC]3/2 z/ | z6 | z6 | z6 | z6 | z B/ z4 z/ | %13
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %24

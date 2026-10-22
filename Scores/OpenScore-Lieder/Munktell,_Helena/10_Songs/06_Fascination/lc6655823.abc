@@ -1,0 +1,101 @@
+X:1
+T:10 Songs / 10 Mélodies
+T:Fascination
+C:Helena Munktell
+Z:Original Swedish poem: Emma Sparre (sister of the composer)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 7 ) | ( 3 5 6 ) }
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+L:1/4
+V:2 treble nm="Piano"
+V:4 treble 
+V:7 treble 
+V:3 bass 
+V:5 bass 
+L:1/4
+V:6 bass 
+L:1/4
+V:1
+"^Con passione" z4 | !fermata!z4 |!mf! F E/ F/ (d F) | F E/ F/ d2 |!<(! d ^c/ d/!<)!!f! f2- | %5
+w: ||Voi- le tes yeux, _|tes yeux ar- dents,|croire est un leur-|
+ (f F/) z/ G F3/4 _D/4 | [Cc]2 z2 | z2 z !fermata!z ||[Q:1/4=50]"^Largo"!mp! (F G/ _A/ F c) | %9
+w: * re... Va, lais- se-|– moi!||Cette âme al- tiè- re,|
+ F G/ _A/ F"^cresc." (3:2:2c c/ |!mf! f (3:2:2e e/ _e3/2 e/ |"^dim." d _d c3/2 c/ | %12
+w: tu l'as tra- hi- e; mon|rê- ve est flé- tri, à|pei- ne en fleurs. Ta|
+ G A/ B/ G"^cresc." (3:2:2d e/ | (f (3:2:2d) F/"^dim." (d"^Rall." (3:2:2D) z/ | %14
+w: voix é- tait ten- dre... ta|main _ si dou- ce...|
+[Q:1/4=50]"^A tempo" F!<(! (3:2:2G _A/ F!<)! _d |!<(! F!<)!"^Accel." G/ _A/ (F _d) || %16
+w: Voix de men- son- ge,|main de tor- tu- re!|
+[M:3/4]!mf![Q:1/4=55]"^Più mosso" f2 e/"^crescendo" f/ | _d2 d | f2 e/ f/ | _d3 |!f! ^e2 ^d/ ^c/ | %21
+w: Mais vai- ne-|ment gé-|– mit ma dou-|leur;|car ton re-|
+ ^B!<(! ^c ^d!<)! |!f!"^Rall." ^g2-!>(! (3:2:2g =B/!>)! | =B2 B |!pp! =c2- (3:2:2c c/ | c3- | %26
+w: – gard est vain-|queur _ en-|co- re,|ton _ re-|gard...|
+ !fermata!c2 !fermata!z ||[M:4/4][Q:1/4=120]"^Tempo I"!mp! F E/ F/ (d F) |!<(! F E/ F/ d2!<)! | %29
+w: _|Voi- le tes yeux, _|tes yeax ar- dents.|
+ d ^c/ d/!f! f2- | f2 (3(_e- e _d) | c3/2 _d/ c2 | (3z z [_D_d] !fermata![Cc]3/2 [Ff]/ | [Ff]4- | %34
+w: Croire est un leur-|* re; _ j’ai|peur d’ai- mer,|j’ai peur d’ai-|mer!|
+ [Ff] z z2 | z4 |] %36
+w: _||
+V:2
+"^Con passione"!mf! F4!<(! B_df>g | f2 [Bb][_d_d'][ff']>[gg']!<)!!f! !fermata![ff'] !fermata!z | %2
+ z4!mf!!<(! z2 (3DF_A!<)! | d2 z2!mf!!<(! z2 (3DF_A!<)! | d2 z2!f! z2 (3FG_d | %5
+ f>[Bb] f2 [G_dfg]2 [_A_a]>[Bb] | [cegc']4 [Bfb]2 [_A_a]>[Bb] | [cegc']4 c'2 !fermata!z2 || %8
+!p!"^Largo" (3z [F_cf][Fcf] (3z [Fcf][Fcf] (3z [F=cf][Fcf] (3z [F=Af][FAf] | %9
+ (3z [F_df][Fdf] (3z [Fdf][Fdf] (3z [Fc][Fc] (3z [Fc][Ec] | %10
+!mf! (3F[cf][cf] (3z [Gcg][Aca] (3z [cac'][cac'] (3z [faf'][Af] | %11
+ (3z [FBf][Bfb] (3z [FBf][GBg] (3z [Afa][Afa] (3z [GAg][FAf] | %12
+ (3z [CEc][CEc] (3z [CEc][CEc] (3z [DBd]"_cresc."[DBd] (3z [DBd][EBe] | %13
+ (3z [Fdf][Fdf] (3z [Fd]"_dim."[Fd] (3z [DEd][DEd] (3z [DEd][CEc] | %14
+"^A tempo"!<(! F2 (3:2:2G2 _A F2 _d2!<)! |!<(! F2!<)! (3:2:2G2 _A F2 _d2 || %16
+[M:3/4]!mf!"^Più mosso" [FB_df]4 [ce][df] |"_crescendo" [FB_d]4 [FBd]2 | [F_cf]4 ef | [F_c_d]4 d2 | %20
+!f! [^E=B^e]4 [E^d]^c | [^F^B]2!<(! [F^c]2!<)! [^DF^d]2 | %22
+!f! !arpeggio![^E^e^g-]4!>(! (3g-[^d-g][d^a]!>)! |!p! !arpeggio![^c=b]4 b2 | %24
+!pp! !arpeggio![=c=fg=c']4 c'2 | [c=fc']4 c2 | [CFc] F2 F2 !fermata!F || %27
+[M:4/4] z4!mp!!<(! z2 (3DF_A | d2!<)! z2!<(! z2 (3DF_A!<)! | d2 z2!f! z2 (3FG_d | %30
+ f4 (3[G_eg]2 [_A_a]2 [Bb]2 | !>![c^fc']4 !>![cgc']4 | (3G2 _A2 B2 !fermata![CEc]4 | %33
+!f! (3!>![CFc]2 !>![_d_d']2 !>![_e_e']2 (3!>![ff']2 !>![_Dd]2 !>![_Ee]2 | %34
+ (3!>![Ff]2 _D2 !>![_A,C_E]2 [=A,CF]4 | [faf']4 z4 |] %36
+V:3
+ z8 | [B,_DFG]6 !fermata![=B,=DF_A] !fermata!z | z4 (3=B,,F,_A, z2 | z4 (3=B,,F,_A, z2 | %4
+ z4 (3C,B,-_D- [C,B,D]2- | [C,B,D]4 z4 | (3C,G,C[I:staff -1] (3EGc[I:staff +1] [_D-FG]2 D>G, | %7
+ (3C,G,C[I:staff -1] (3EGc[I:staff +1] z2 !fermata!z2 || %8
+ (3z [F,_D][F,D] (3z [F,D][F,D] (3z [F,C][F,C] (3z [F,C][F,-C] | %9
+ (3z [_C_D][CD] (3z [CD][CD] (3z [=C,=A,=C][C,A,C] (3z [C,_A,=B,][C,G,_B,] | %10
+ (3z !arpeggio![F,,C,A,]!arpeggio![F,,C,A,] !>!E2 !>![_EF]4 | D2 _D2!ped! C2- [F,,-C,C]2!ped-up! | %12
+ (3z [C,B,][C,B,] (3z [C,B,][C,B,] (3z [C,B,][C,B,] (3z !arpeggio![G,,C,B,]!arpeggio![G,,C,B,] | %13
+ (3z [G,,D,B,][G,,D,B,] (3z [G,,D,B,][G,,-D,B,] (3z [C,B,][C,B,]"^Rall." (3z [C,B,][C,,C,] | %14
+ (3z [C,_A,=B,][C,A,B,] (3z [C,A,B,][C,A,B,] (3z [C,G,_B,][C,G,B,] (3z [C,G,B,][C,G,B,] | %15
+ (3z [B,,F,G,B,][B,,F,G,B,]"^Accel." (3z [B,,F,G,B,][B,,F,G,B,] (3z [B,,F,_A,][B,,F,A,] (3z [B,,F,A,][B,,F,A,] || %16
+[M:3/4] (3G,,_D,F, (3B,_DF z2 | (3G,,_D,F, (3B,_DF z2 | %18
+ (3G,,_D,F, (3_C_D[I:staff -1]F-[I:staff +1] z2 | (3G,,_D,F, (3_C_D[I:staff -1]F[I:staff +1] z2 | %20
+ (3^G,,^C,^E, (3=B,^C^E z2 | (3^C,=A,^B, ^A,2 [C,B,]2 | %22
+ (3!arpeggio![^C,=B,]^G,"^Rall."B, (3^C^E[I:staff -1]^G (3=B[I:staff +1] x x | %23
+ !arpeggio![^C,^G,]4 z2 | (3=C,G,-C- [C,G,C]2 [C,_B,]2 | (3C,=B,,C, (3F,A,C [C,-_B,]2 | %26
+ [C,A,] F,2 F,2 !fermata!F, ||[M:4/4] z4 (3=B,,F,_A, z2 | z4 (3=B,,F,_A, z2 | %29
+ z4 (3C,B,-_D- [C,B,D]2- | [C,B,D]8 | !>![C,=A,_E]4 !>![C,_B,=E]4 | %32
+ (3G,2 _A,2 B,2 !fermata![G,,C,B,]4 | %33
+ (3!arpeggio!!>![F,,C,=A,]2 _D2 !>!_E2 (3!>!F2 !>!_D,2 !>!_E,2 | %34
+ (3!>!F,2 B,,2 [_A,,_E,]2 [F,,-C,F,]4 | [C,A,F]4 z4 |] %36
+V:4
+ x8 | x8 | x4 x2 D2 | x4 x2 D2 | x8 | x8 | x2 (3x x c x4 | x2 (3x x c x4 || x8 | x8 | F2 x2 x4 | %11
+ x8 | x8 | x8 | (3FDD (3GDD (3F_DD (3_dDD | (3F_DD (3GDD (3FDD (3_dDD ||[M:3/4] x6 | x6 | %18
+ x4 [F_c]2 | x4 _c2 | x6 | x6 | x6 |[I:staff +1] (3^E[I:staff -1]^G=B (3^c^e^g x2 | %24
+ x2 (3FGc (3^fgc' | x4 (3^FGc | x6 ||[M:4/4] x4 x2 D2 | x4 x2 D2 | x8 | x8 | x8 | x8 | x8 | %34
+ (3x2[I:staff +1] F,2[I:staff -1] x2 x4 | x8 |] %36
+V:5
+ x4 | x4 | x4 | x4 | x2 C,- x | x4 | x4 | x4 || x4 | F,2 x2 | x4 | x4 | F,,3 x | %13
+ x2 (3:2:1G,,3/2 x | x4 | x4 ||[M:3/4] x3 | x3 | x3 | x3 | x3 | ^C,2 x | x3 | x3 | C,- x x | %25
+ !arpeggio![F,,A,]2 x | x3 ||[M:4/4] x4 | x4 | x2 C,- x | x4 | x4 | z2 x2 | x4 | x4 | F,,2 x2 |] %36
+V:6
+ x4 | x4 | x4 | x4 | x2 (3:2:2x/ B, x | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || %16
+[M:3/4] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | (3:2:2x/ G, x x | x3 | x3 ||[M:4/4] x4 | x4 | %29
+ x2 (3:2:2x/ B, x | x4 | x4 | x4 | x4 | x4 | x4 |] %36
+V:7
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 ||[M:3/4] x6 | x6 | %18
+ x6 | x6 | x6 | x6 | x6 | x6 | x2 (3x x c x2 | x6 | x6 ||[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | x8 | %34
+ x8 | x8 |] %36

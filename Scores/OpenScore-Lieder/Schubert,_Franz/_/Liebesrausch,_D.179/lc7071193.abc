@@ -1,0 +1,68 @@
+X:1
+T:Liebesrausch
+C:Franz Schubert
+Z:Theodor Körner
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=75
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+"^Langsam" z4 z2 |: d2 | g3 d B2 B2 | e3 B{A} G2 G G | c3 c (e2 d/c/) B/A/ | G2- (3GB d A2 z A | %6
+w: |Dir,|Mäd- chen, schlägt mit|lei- sem Be- ben mein|Herz voll Treu’ _ _ und *|Lie- * * be zu; in|
+ d3 d d3 A | _B3 F{A} G2 G d | =f3 f f3 c | d6 z2 | z4 z2 z A | B3 B B3 =f | %12
+w: dir, in dir ver-|sinkt mein Stre- ben, mein|schön- stes Ziel bist|du!|Dein|Na- me nur in|
+ e2- (3e=f d{d} c2 c A | A3 A A3 e | d2- (3de c{c} B2 z d | e2- (3ef g g2 d2 | e2- (3ef g g2 d2 | %17
+w: heil’- * * gen Tö- nen hat|mei- ne küh- ne|Brust _ _ ge- füllt; im|Glanz * * des Gu- ten|und _ _ des Schö- nen|
+ d2 ^c d e3 ^d | f4 z2 g2 | g2- (3ge c B2 d2 | G4 z4 | z8 | z4 !fermata!z2 :| %23
+w: strahlt mir dein ho- hes|Bild, strahlt|mir _ _ dein ho- hes|Bild.|||
+V:2
+ !fermata![GBdg]6 |: z2 | %2
+!p! (3[Bd]!<(![Bd][Bd] (3[Bd][Bd][Bd] (3[Bd]"^sim."[Bd][Bd]!<)! (3[AB^d][ABd][ABd] | %3
+!p! (3[GBe]!<(![GBe][GBe] (3[GBe][GBe][GBe] (3[GBe][GBe][GBe] (3[=FGB][FGB][FGB]!<)! | %4
+!p!!<(! (3[EGc][EGc][EGc] (3[E^Gc][EGc][EGc] (3[EAc][EAc][EAc] (3[EAc][EAc][EAc]!<)! | %5
+!p! (3[DGB][DGB][DGB] (3[DGB][DGB][DGB]!<(! (3[DFA](.[Fd][Gd] (3[Ad].[_Bd][=Bd])!<)! | %6
+!>(! (3[Fcd][Fcd][Fcd] (3[Gcd]!>)![Gcd][Gcd] (3[^Gcd][Gcd][Gcd] (3[Acd][Acd][Acd] | %7
+ (3[_Bd]"_cresc."[Bd][Bd] (3[Fcd][Fcd][Fcd] (3[GBd][GBd][GBd] (3[Bd][Bd][Bd] | %8
+ (3[A_e=f][Aef][Aef] (3[_Bef][Bef][Bef] (3[=Bef][Bef][Bef] (3[cef][cef][cef] | %9
+ (3[d=f][df][df]"_cresc." (3[cd^f][cdf][cdf] (3[_Bdg][Bdg][Bdg] (3[G^c][Gc][Gc] | %10
+ (3[Fd][Fd]!<(![Fd] (3[Fd][Fd][Fd]!<)!!>(! (3[G^cd][Gcd][Gcd] (3[A=cd]!>)![Acd][Acd] | %11
+!pp! (3[Bd][Bd][Bd] (3[A^d][Ad][Ad] (3[^Ge][Ge][Ge] (3[G=f][Gf][Gf] | %12
+ (3[Ae][Ae][Ae] (3[^Gd][Gd][Gd] (3[Ac].ce (3a z z | %13
+ (3[Ac][Ac][Ac] (3[G^c][Gc][Gc] (3[^Fd][Fd][Fd] (3[F=e][Fe][Fe] | %14
+ (3[Gd][Gd][Gd] (3[Fc][Fc][Fc] (3[GB].Bd (3g z z | %15
+ (3[GAe][GAe][GAe] (3[GAe][GAd][GA^c] (3[GBd][Bd][Bd] (3[Bd][Ad][Gd] | %16
+ (3[GAe][GAe][GAe] (3[GAe][GAd][GA^c] (3[GBd][Bd][Bd] (3[Bd][Ad][Gd] | %17
+ (3[Gd][Gd][Gd] (3[Fd][Fd][Ed] (3[Fe]!>(![Fe][Fe] (3[Fe][Fe][Fe]!>)! | %18
+ (3[F^d][Fd][Fd] (3[Fd][Fd][Fd]!pp! (3[Fd][Fd][Fd] (3[=F=d][Fd][Fd] | %19
+ (3[Ed][Ed][Ed] (3[Ec][Ec][Ec] (3[DB][DB][DB] (3[CA][CA][CA] | %20
+ (3[B,G][DBd][DBd] (3[Bd]B[Bd] (3[cd][cd][cd] (3[cd][cd][cd] | %21
+ (3[Bd][Bd][Bd] (3[Bd][Bd][Bd] (3[cd][cd][cd] (3[cd][cd][cd] | %22
+!>(! (([D-Fcd-]4 !fermata![DGBd]2))!>)! :| %23
+V:3
+ !fermata!G,6 |: z2 | (G6 F2) | (E6 D2) | (C6 C,2) | D,4- D,2 z2 | D8 | D4 D4 | =F8 | =F2 D4 G,2 | %10
+ (A,2 D2 E2 F2) | (3GGG (3=FFF (3EEE (3DDD | %12
+ (3[CE][CE][CE] (3[B,E][B,E][B,E] (3[A,E][A,CE][A,CE] (3[A,CE][A,CE][A,CE] | %13
+ (3=FFF (3_EEE (3DDD (3CCC | %14
+ (3[B,D][B,D][B,D] (3[A,D][A,D][A,D] (3[G,D][G,B,D][G,B,D] (3[G,B,D][G,B,D][G,B,D] | %15
+ (3[^C,A,][C,A,][C,A,] (3[C,A,][D,A,][E,A,] (3[D,G,B,][D,G,][D,G,] (3[D,G,][D,A,][D,B,] | %16
+ (3[^C,A,][C,A,][C,A,] (3[C,A,][D,A,][E,A,] (3[D,G,B,][D,G,][D,G,] (3[D,G,][D,A,][D,B,] | %17
+ (3[D,A,][D,A,][D,A,] (3[D,A,][D,A,][D,A,] (3[=C,^A,][C,A,][C,A,] (3[C,A,][C,A,][C,A,] | %18
+ (3[B,,B,][B,,B,][B,,B,] (3[B,,B,][B,,B,][B,,B,] (3[B,,B,][B,,B,][B,,B,] (3[B,,G,][B,,G,][B,,G,] | %19
+ (3[C,G,][C,G,][C,G,] (3[C,G,][C,G,][C,G,] (3[D,G,][D,G,][D,G,] (3[D,F,][D,F,][D,F,] | %20
+ [D,G,]2 z2 (D,2- (3D,B,A,) | (3A,G, z z2 (D,2- (3D,B,A,) | ([D,-A,]4 [D,G,]2) :| %23
+V:4
+ x3 |: x | x4 | x4 | x4 | x4 | (D, E, =F, ^F,) | (G, A,) (_B, G,) | (=F, G, ^G, A,) | %9
+ _B, (A, G,) _E, | D,2 z2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | G,,2 G,,2 | G,,2 G,,2 | %22
+ G,,2- !fermata!G,, :| %23
+V:5
+ x6 |: x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x2 (3(DAG) (3(GF)F (3FFF | (3GDD (3(DAG) (3(GF)F (3FFF | x6 :| %23

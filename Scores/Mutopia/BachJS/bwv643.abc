@@ -1,0 +1,46 @@
+% Alle Menschen müssen sterben: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=710
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Alle Menschen müssen sterben
+C:Johann Sebastian Bach
+%%score ( 1 2 ) 3 4
+L:1/16
+Q:1/4=64
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="right:right" snm="P Org"
+L:1/4
+V:2 treble 
+V:3 bass nm="left:left" snm="P Org"
+V:4 bass nm="pedal:pedal" snm="Cb"
+V:1
+ B,/D/ G F D | E F G G | B B c c | [AB]/4 B3/4 B A2 | G G F D | E F G G | B B c c | %7
+ [AB]/4 B3/4 B A2 | B c/[^cG]/4A/4 d G | F E [FD]/4^C/4[EB,]/4C/4 D | B B A A | [B,G]/4 G3/4 G F2 | %12
+ G G A A | B B c2 | B B A =G- | [GE]/4 E/4[GE]/ [FD]- [FD]/4 z7/4 |] %16
+V:2
+ G4 z EDE z8 | z2 C3 DCD z8 | z GFG E2G3 AGA F2A2- | z GFG D2G3 FEF DDCD | B,2D2 z EDE z8 | %5
+ z2 C3 DCD z8 | z GFG E2G3 AGA F2A2- | z GFG D2G3 FEF DDCD | B,2G3 A z2 F2 z2 DEDE | %9
+ z2 D3 ^CB,C z8 | z GFG E2^C3 FEF ^D2B,2- | z E^DF E2E3 DE^C D4 | E z4 z E3 =CB,C =D2F2 | %13
+ GDCD E2^G2 AEDE F2A2 | z GFG E2E3 DCD B,2D2 | z A z A z4 G8 |] %16
+V:3
+ G,2B,2 z ^CB,C D2[D,A,]2 z [G,B,][F,A,][G,B,] | %1
+ [E,G,]2G,E, A,B,A,B, [G,B,][D,B,][=C,A,][D,B,] [B,,G,]2[D,B,]2- | %2
+ G, [D,B,] B, A, B, G,2 E3 C B, C A,2 F2 | DB,A,B, G,2D3 A,G,A, F,F,E,F, | %4
+ G,2B,2 z ^CB,C D2[D,A,]2 z [G,B,][F,A,][G,B,] | %5
+ [E,G,]2G,E, A,B,A,B, [G,B,][D,B,][=C,A,][D,B,] [B,,G,]2[D,B,]2- | %6
+ G, [D,B,] B, A, B, G,2 E3 C B, C A,2 F2 | DB,A,B, G,2D3 A,G,A, F,F,E,F, | %8
+ G,2DB, EFEF D2[F,A,]2 B,^CB,C | D2A,2 B,E,D,E, D,A,G,A, F,2[D,F,]2 | %10
+ G,B,A,B, G,2E,3 A,G,A, F,2^D,2 | E,G,F,A, G,B,^A,^C F,B,^G,A, B,4- | %12
+ B,[=G,B,][F,=A,][G,B,] [E,=C]2C3 A,G,A, F,2D2- | DB,A,B, G,2E3 CB,C A,2F2 | %14
+ GB,A,B, C2G,3 F,E,F, G,2B,2 | A,2C3 B,CA, B,[D,B,][E,C][C,A,] [D,B,]4 |] %16
+V:4
+ z G,,F,,G,, E,,2A,,2 z D,,C,,D,, B,,,2G,,,2 | z C,,B,,,C,, A,,,2D,,2 G,,,4 z G,,,F,,,G,,, | %2
+ E,,,2E,,2 z E,,D,,E,, A,,,2A,,2 z D,,C,,D,, | G,,,2G,,2 z G,,,F,,,G,,, D,,,4 D,,4 | %4
+ z G,,F,,G,, E,,2A,,2 z D,,C,,D,, B,,,2G,,,2 | z C,,B,,,C,, A,,,2D,,2 G,,,4 z G,,,F,,,G,,, | %6
+ E,,,2E,,2 z E,,D,,E,, A,,,2A,,2 z D,,C,,D,, | G,,,2G,,2 z G,,,F,,,G,,, D,,,4 D,,4 | %8
+ z G,,F,,G,, E,,2A,,2 z D,,^C,,D,, B,,,2E,,2 | z D,,^C,,D,, G,,,2A,,,2 D,,,4 z D,,=C,,D,, | %10
+ G,,,2G,,2 z ^C,,B,,,C,, F,,,2F,,2 z B,,,A,,,B,,, | E,,,2E,,3 ^D,,E,,^A,,, B,,,4 z B,,,=A,,,B,,, | %12
+ E,,,2E,,2 z C,,B,,,C,, F,,,2F,,2 z =D,,C,,D,, | G,,,2G,,2 z E,,D,,E,, A,,,2A,,2 z D,,C,,D,, | %14
+ G,,,2G,,2 z C,,B,,,C,, F,,,2F,,2 z G,,F,,G,, | ^C,,2A,,,2 z D,,=C,,D,, G,,,8 |] %16

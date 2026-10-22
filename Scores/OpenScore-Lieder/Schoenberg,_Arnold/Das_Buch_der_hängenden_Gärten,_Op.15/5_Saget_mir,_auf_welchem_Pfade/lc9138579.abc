@@ -1,0 +1,61 @@
+X:1
+T:Das Buch der hängenden Gärten, Op.15
+T:Saget mir, auf welchem Pfade
+C:Arnold Schoenberg
+Z:Stefan Anton George
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 6 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=66
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+V:4 treble 
+V:6 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Etwas langsam"!p! ^F2- | F =F F!<(! (B ^c ^d!<)! |!>(! =E3 =D)!>)! z D- | %3
+w: Sa-|* get mir, auf wel- chem|Pfa- de heu-|
+ D ^c c ^A!<(! (A ^d!<)! |$!>(!"^poco rit." ^d2!>)! ^^c2)!p!!<(! =d2- | %5
+w: * te sie vor- ü- ber|schrei- te, daß|
+"^(warm)" d!<)!!>(! _e!>)! ^F!<(! ^G!<)! =B!>(! =A | ^G2!>)! =G2!pp! (G2- |$ G2 _A2 ^F2- | %8
+w: _ ich aus der reich- sten|La- de zar-|* te Sei-|
+ F2 G2 =A2- |!<(! A!<)! _B!>(! _E!>)! =D) z2 |$ z2 =e3 =f | A3 ^G =G =f | =e3 =f !breath!z2 |$ %13
+w: * den- we-|* ben ho- le,|Ro- se|pflü- cke und Vi-|o- le,|
+[Q:1/4=66]"^a tempo" z!p!!<(! ((^F2 =c) =d!<)! !~(!=e |!>(! !~)!=F3) =E _E2- | %15
+w: daß ich mei- ne|Wan- ge brei-|
+ E!>)! =D z2!pp! =F2- |$!<(! F2!<)!!>(! _E2!>)!!<(! _G2- | G!<)! =F!>(! _E!>)! F!<(! E2- | %18
+w: * te, Sche-|* mel un-|* ter ih- rer Soh-|
+ E2!<)!!>(! =A,2!>)! !fermata!z2 |] %19
+w: * le.|
+V:2
+ z |!p! (.[=G,=C^F] !tenuto![G,=B,=F]2) |!p! (.[=F,=C^F] !tenuto![^F,=B,=F]2) | %3
+ ([^A^c]!>(! [=G=B] [=B,^EA]) |$ (!tenuto!_B!<(! =A3/2) (B/!<)! | %5
+!p!"_mit zartem Ausdruck" [_B,_E=A]!<(! [^G,=D^F]3/2!<)! [=C=EA]/ | %6
+!>(!!<(! !tenuto!^C2!<)!!>)!!<(! =D)!<)! |$!p! ([_B_e=a]!<(! [^Gd^f]3/2!<)! [c=ea]/ | %8
+!<(! !tenuto!^c2!<)! =c) |!pp! (^c!<(! =A!<)! c |$ A!>(! ^G2)!>)! | z!p!"_espress." (=e3/2 =f/ | %12
+!>(! =A3/2!>)!!<(! ^G/"^rit." [^E^e]/!<)!!breath![^F^f]/) |$ %13
+!p! ([_B_e=a] [^G=d^f]3/2"_etwas drängend" [c=ea]/ | (_b2!<(! b/)=b/!<)! | %15
+!>(! !tenuto![^a^c']!>)! [=g=b])!p!"_verlaufend"!p!"_verlaufend" (_b- |$ b =a)"_dim." (_B- | %17
+ B =A) ([_C_G_B] | !fermata![_E=G=B=d]3) |] %19
+V:3
+ z | [=A,,,=A,,] [_D,,_D,]2 | [_A,,,_A,,] ([=C,,=C,] [=B,,,=B,,]) | ([=F,,,=F,,]2 [=D,,=D,]) |$ %4
+ ([=G,,,=G,,] [_A,,,_A,,]2) | ([_B,,,_B,,] [=C,,=C,] [B,,,B,,] | %6
+!<(! [_E,,,_E,,]!<)!!>(! [=A,,,=A,,]2) |$ z/!<(! (_B,!<)!!>(! =C/!>)! B,) | z/ (_E, =A, =A,,/) | %9
+ z/ ([_E,,,_E,,] [=E,,,=E,,] [=F,,,=F,,]/ |$ [^F,,,^F,,]2 [=F,,,=F,,]) | z!<(! [_B,D]2!<)! | %12
+ ^F,, =G,, !breath!^G,, |$ (_B,, =E, =D,) | (=C, ^F, =A,) | [=F,,,=F,,]2 ([=D,,=D,] |$ %16
+ [=G,,,=G,,]2) ([=D,,=D,] | [=G,,,=G,,]2) ([=D,,=D,] | !fermata![=G,,,=G,,]3) |] %19
+V:4
+ x | x3 | x3 | =D2 x |$ [=B,=F]3 | x3 | [^F,=A,] [=E,=G,_B,]2 |$ x3 | [^F=A]!>(! [=E=G_B]2!>)! | %9
+ [=D=G]3 |$ [_B,=D]3 | x3 | [_B,=D]2 =c/=B/ |$ x3 | [_e_g] [^c=g]2 | =d2 ([_c=f-] |$ %16
+ [=Bf]2) ([_C_G] | [=B,F]2) x | x3 |] %19
+V:5
+ x | x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x ^F, =F, | x3 |$ x3 | x3 | x3 |$ x3 | %17
+ x3 | x3 |] %19
+V:6
+ x | x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x (=e _e) | x3 |$ x3 | %17
+ x3 | x3 |] %19

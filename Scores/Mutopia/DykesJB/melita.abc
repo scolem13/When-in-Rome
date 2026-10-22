@@ -1,0 +1,29 @@
+% Melita (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1260
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Melita (hymntune)
+C:John Bacchus Dykes (1823-1876), 1861
+%%score 1 ( 2 3 )
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 bass nm="lower"
+V:2 treble nm="upper"
+V:3 treble 
+L:1/8
+V:1
+ x3 [C,E,] | [C,G,]3/2 [C,G,]/ [C,C] [C,C]/[C,B,]/ | [F,A,]/[G,B,]/ [A,C]/[B,D]/ [CE] [B,D] | %3
+ [A,C] [D,A,] [G,B,] [B,,D]/[C,C]/ | [D,A,] [D,A,] [G,B,] G, | [B,,G,]3/2 [B,,G,]/ [C,G,] [C,G,] | %6
+ [^C,A,]3/2 [C,A,]/ [D,A,] [^D,B,] | [E,B,] [^F,A,] [G,B,] [A,=C] | B, [B,,B,] [E,G,] [E,G,] | %9
+ [C,G,]3/2 [C,G,]/ F, [F,A,] | [D,A,]3/2 [D,A,]/ G, [B,,D] | [C,C] [^F,,C] [G,,C] [G,,G,] | %12
+ [G,,=F,]3/2 [C,E,]/ [C,E,] x |] %13
+V:2
+ x3 C | [CE]3/2 [CE]/ [EG] [EG] | [FA] [FA] [EG] G | G3/2 ^F/ [GB] G | [DG] [D^F] [DG] [B,D] | %5
+ [D=F]3/2 [DF]/ [CE] [CE] | [EG]3/2 [EG]/ [D^F] [FB] | E3/2 [^D^F]/ E- A/[FA]/ | %8
+ [EG] [^D^F] E [B,E] | [_B,E]3/2 [B,E]/ [A,=F] [CF] | [C^F]3/2 [CF]/ [=B,G] [=FG] | %11
+ [EG] [DA] [EG] [CE] | [B,D]3/2 C/ C x |] %13
+V:3
+ x2 x6 | z8 | z8 | c2 d2 z3 E | z8 | z8 | z8 | G2 ^F z3 E z | z8 | z8 | z8 | z8 | z6 x2 |] %13

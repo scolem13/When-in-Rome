@@ -1,0 +1,73 @@
+X:1
+T:Songs
+T:Whenas the rye reach to the chin
+C:Peter Warlock
+Z:George Peele
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 7 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=108
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:6 treble 
+V:7 treble 
+L:1/4
+V:4 bass 
+V:5 bass 
+V:1
+"^Quasi presto (-112)" z4 | z2 z (G/A/) | B d e2 | d B/ A/ G D | E D/ D/ E D/ D/ | %5
+w: |When- *|as the rye|reach to the chin, And|chop cher- ry, chop cher- ry|
+ G3/2 B/ !breath!d2 | B G/ G/ A F | G E F B | e ^c d B | (A/B/) =c !breath!B G | (c2 B) G | %11
+w: ripe with- in,|Straw- ber- ries swim- ming|in the cream And|school- boys play- ing|in _ the stream\_ Then|O, _ then|
+ (_B2 A) =F | _A3/2 A/ (_B/A/) G | _A3 A | (_c2 _B) _G | A3/2 A/ ^G E | =G G (A/G/) F | G2 z C | %18
+w: O, _ then|O, my true _ love|said, Till|that _ time|come a- gain She|could not live _ a|maid. Then|
+ (_B2 A) =F | (_A2 G) _E | _G _e (_d/_B/) _A | _B2 z _G | (^f2 ^e) ^c | =e3/2 e/ =d =c | %24
+w: O, _ then|O, _ then|O, my true _ love|said, Till|that _ time|come a- gain She|
+ B d (c/B/) A |"^non rit." G3 z | z4 | z4 |] %28
+w: could not live _ a|maid.|||
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x3 ^F | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x3 ^F | x4 | x4 | x4 | x4 | x4 | x4 |] %28
+V:3
+!mf! .[B,GB].[DGd].[EGe].[Gcg] | .[Bdgb].[dgd'].[ege'].[gc'g'] | %2
+!8va(! .[bd'g'b'].[d'f'b'd''] !tenuto![e'g'b'e'']2!8va)! |!f! !tenuto![cbd']2 !>![GBdg]2 | %4
+!p! !tenuto!G4 | .d.[Bg]!<(! !tenuto!a2!<)! |!mp! .[fb].[eg] .[ea].[df] | .[dg].[Be] !tenuto!f2 | %8
+ .[Be]"_poco  cresc.".[A^c] .[Ad].[GB] | (!tenuto!A2 [DG])!mf! .[G,B,DG] | ([Cc]2 [B,B]) .[G,CG] | %11
+ (([_B,_B]2 [A,A])) .[A,D=F] |!<(! ([_A,=F_A]3!<)! .[G,_EG]) |!f! .[C_Ac].[_EA_e].[=FA=f].[A_d_a] | %14
+!mf!!>(! (!tenuto!_c'2 .[_d_e=g_b]) .[_A_ce_g]!>)! |!>(! (!tenuto!=a2 .[Bde^g]) .[Bde]!>)! | %16
+ !tenuto!=g2 z .[^Fcd^f] |!<(! .[B,GB].[DGd].[EGe].[Gcg]!<)! |!ppp! (_b2 .[cdfa]) .[G_Bd=f] | %19
+ (_a2 .[_B_d_e=g]) .[Bde] |!<(! z .[_A_c_e_g] z .[=Fc_d=f]!<)! | %21
+!f! .[_B,_G_B].[_DG_d].[_EG_e].[G_c_g] |!mp!!>(! z ([=B=d^f=a].[B^c^e^g])!>)! .[^FAc=e] | %23
+!>(! z ([A=ce=g].[Acdf])!>)!"^staccatissimo ma marcato\n"!ped!!<(! .[DFAd]!ped! | %24
+ .[B,GB].[DGd].[EGe]!ped-up!!<)!!f!!ped! (!>![Gceg]!ped-up!!ped! | %25
+ .[Bdgb]) .[dgd'].[ege']!ped-up! .[gc'e'g'] |!sfz! .[b^d'g'b'] z!p! .[=EG].[FA] | .[GB] z z2 |] %28
+V:4
+ .[G,,D,G,].[B,,G,B,].[C,G,C].[E,CE] | .[G,B,DG][K:treble].[B,GB].[CGc].[Ece] | %2
+ .[GBdg].[Bfa] !tenuto![egbd']2 |[K:bass] [A,CEG]2 [E,B,D]2 | .E,.D,.E,.D, | %5
+[I:staff -1] .[B,G].[G,D] (Ad) | .[^DB].[EB] .[^CA].[=DA] | %7
+ .[B,G].[^CG][I:staff +1] .[^A,E].[=A,^D] | .[^G,E].[A,E] .[F,=D].[=G,D] | (DC [G,B,]) .[=F,,=F,] | %10
+ .[E,,E,].[D,,D,] .[G,,G,].[E,,E,] | .[D,,D,] !tenuto![^C,,^C,]2 .[=C,,=C,] | %12
+ ([_C,,_C,][_B,,,_B,,]) !tenuto![_E,,_E,]2 | .[_A,,_E,_A,].[C,A,C].[_D,A,_D].[=F,A,D=F] | %14
+[K:treble] ([_F_A_c]2 .[_E=G_B]) .[_A,_CE_G] | ([=F=A]2 .[=E^G]2) | [A,CE=G]2[K:bass] z .[A,D] | %17
+ .[G,,D,G,].[B,,G,B,].[C,G,C].[E,CE] |[K:treble] ([_EG_B]2 .[DFA]) .[G,_B,D=F] | %19
+ ([_F_A]2 .[_EG]2) | !tenuto![_A,_C_E_G]2[K:bass] ._D,.[A,_D] | %21
+ .[_G,,_D,_G,].[_B,,G,_B,].[_C,G,_C].[_E,C_E] |[K:treble] (!>![=D^F=A]2 .[^C^E^G]) .[^F,A,C=E] | %23
+ (!>![E=G]2 .[DF])[K:bass] .[D,A,] | .[G,,D,G,].[B,,G,B,].[C,G,C] (!>![A,CE] | %25
+ .[B,DG])[K:treble] .[B,GB].[CGc] .[EAce] | .[^DA^cg] z[K:bass] ._E,.D, | .G,,, z z2 |] %28
+V:5
+ x4 | x[K:treble] x3 | x2 z .E |[K:bass] x4 | G,,4 | x2[I:staff -1] D2 | x4 | x4 | x4 | %9
+[I:staff +1] D,2 x2 | x4 | x4 | x4 | x4 |[K:treble] _D3 x | [=B,=D]4 | x2[K:bass] !tenuto!D,2 | %17
+ x4 |[K:treble] C3 x | [_B,_D]4 | x2[K:bass] x2 | x4 |[K:treble] =B,3 x | [A,=C]3[K:bass] x | %24
+ x3 G,- | G,[K:treble] x3 | x2[K:bass] x2 | x4 |] %28
+V:6
+ x4 | x4 |!8va(! x4!8va)! | !>!f!>!e x2 | .C.B,.C.B, | x2 (gf) | x4 | x2 .^c.B | x4 | GF x2 | %10
+ (G^FG) x | (=F !tenuto!E2) x | (_E=D"^ten." !>!_D2) | x4 | [_d_f_a][dfa] x2 | [=B=d=f][Bdf] x2 | %16
+ [Ace][Ace] x2 | x4 | [c_eg][ceg] x2 | [_B_d_f][Bdf] x2 | x4 | x4 | x4 | x4 | x4 | x4 | x2 .^C.=C | %27
+ .B, x3 |] %28
+V:7
+ x2 | x2 |!8va(! x2!8va)! | x2 | x2 | x2 | x2 | x F | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %17
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %28

@@ -1,0 +1,41 @@
+% Tmeiskin: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1734
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Tmeiskin
+C:Jean Japart (fl. 1474-1507)
+%%score 1 2 3 4
+L:1/4
+Q:1/4=60
+M:2/2
+I:linebreak $
+K:Dmin
+V:1 treble nm="\new:discantusNotes"
+V:2 treble nm="\new:altusNotes"
+V:3 treble nm="\new:tenorNotes"
+V:4 bass nm="\new:bassusNotes"
+L:1/8
+V:1
+ G2 G G | G4 | G4 | B3 A/G/ | F4 | A2 A2 | c3 B | A2 G2 | G2 _G2 | =G4 | z2 G2 | B2 B2 | B2 A2 | %13
+ A2 d2 | d2 _d2 | =d3 c | B2 A2 | B3 A/G/ | F B2 A | B G2 A | A/G/_G/E/ G2 | =G4 | z2 D2 | E2 E2 | %24
+ D3/2 E/ F G | G E2 A | F B2 A | A G/F/ G2 | A2 z A | c3 B | A2 G A | A c3/2 B/ A | A G/F/ E2 | %33
+ D4 | z2 D2 | F3 G | A B c2 | c B B2 | B A/G/ A G/A/ | B4 | z2 F2 | B2 A2 | G2 G2 | c3 B | A B2 A | %45
+ G B3/2 A/ G | G _G/E/ G2 | =G4 |] %48
+V:2
+ z4 | z4 | z4 | D2 D D | D4 | F3 E/D/ | C4 | F2 D2 | D D D2 | B,3 C | D _E2 D/C/ | D2 D2 | D E F2 | %13
+ F2 A2 | A G/F/ E A | F4 | z2 F2 | D2 B,2 | F2 F2 | D E2 C | C D2 D | D _E2 D/C/ | B, C D2 | %23
+ G,2 C2 | F, B,2 G, | G, C2 A, | A, G, D2 | D _E D2 | F2 F2 | F2 F2 | F2 z F | F E2 F | F A A2 | %33
+ F4 | F4 | D2 B,2 | C4 | z4 | F4 | D3 E/F/ | G F D2 | D2 F2 | _E2 E2 | C F D G | F G3/2 F/ F | %45
+ D2 _E2 | D4 | D4 |] %48
+V:3
+ z4 | G,2 G, G, | G,4 | G,4 | B,3 A,/G,/ | F,4 | A,2 A,2 | C3 B, | A,2 A,2 | G,4 | G,4 | z2 G,2 | %12
+ B,2 C2 | D2 F2 | E2 E2 | D4 | D4 | z2 D2 | D2 C C | B,2 C2 | A,2 A,2 | G,4 | G,4 | z2 G,2 | %24
+ B,2 B,2 | C2 C2 | D3 C | B,2 B,2 | A,4 | z2 A,2 | C2 C2 | C2 C C | C2 C2 | D4 | D4 | C2 D2 | %36
+ F3 E | D2 B,2 | C2 C2 | B,4 | B,4 | z2 F,2 | B,2 B,2 | A,2 G,2 | D3 C | B,2 C2 | A,2 A,2 | G,4 |] %48
+V:4
+ G,,6 A,,2 | B,,2 C,4 B,,2 | A,,6 B,,2 | G,,8 | z8 | D,6 C,B,, | A,,4 F,4 | F,2 E,2 G,4 | D,8 | %9
+ _E,6 D,C, | B,,2 C,4 B,,A,, | G,,4 G,4 | G,4 F,4 | D,8 | A,8 | B,6 A,2 | G,4 F,4 | G,6 F,E, | %18
+ D,3 C, F,4 | G,2 E,4 F,2 | F,E,D,C, D,4 | B,,2 C,3 D, _E,2 | _E,2 D,C, B,,4 | C,4 C,4 | %24
+ B,,3 C, D,2 E,2 | E,2 C,4 F,2 | D,2 G,3 D, F,2 | G,2 _E,2 G,4 | D,4 F,4 | F,4 F,4 | F,4 E,2 F,2 | %31
+ F,2 A,3 G, F,2 | F,2 E,D, A,4 | B,8 | B,8 | B,6 A,G, | F,8 | G,8 | F,8 | B,,6 C,D, | %40
+ _E,2 D,3 C,B,,A,, | G,,4 D,4 | _E,8 | F,4 G,4 | D,2 G,3 D, F,2 | G,4 C,4 | D,8 | G,,8 |] %48

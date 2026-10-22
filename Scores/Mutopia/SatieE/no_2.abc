@@ -1,0 +1,56 @@
+% Deuxième Gnossienne: Mutopia Project 
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Deuxième Gnossienne
+C:Érik Satie (1866-1925)
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=60
+M:12/8
+I:linebreak $
+K:Amin
+V:1 treble nm="treble_staff"
+V:2 treble 
+V:3 bass nm="bass_staff"
+L:1/16
+V:1
+ d e4- e cdc dcd | _B c4- c ABA BAB | G =B6 z2 E2- E/ z/ | z6 E4- E z | d e4- e cdc dcd | %5
+ _B c4- c ABA BAB | ^G F6 z2 D2- D/ z/ | z6 D4- D z | z FG ^G_BG =GFG ^GBG | =B B6 z2 E2- E/ z/ | %10
+ z FG ^G_Bc dcB GBG | =B B8- B2 B | A12- | (24:13:1A16 D2- D/ [^CE]4- [CE] z | %14
+ z e^d ^cde ^f^gf edc | _B^c B8- B =B | =c c6 z2 [C=F]2- [CF]/ z/ | z e^d ^cde ^f^gf edc | %18
+ _B^c B8- B =B | =c c8- c2 c | A A6 z2 [DF]2- [DF]/ z/ | z3 [C^D]2- [CD]/ z/ [=DF]4- [DF] z | %22
+ z FG ^G_BG =GFG ^GBG | =B B6 z2 E2- E/ z/ | z FG ^G_Bc dcB GBG | =B B8- B2 B | A12 | %27
+ e7 z2 [=CE]2- [CE]/ z/ | d e4- e cdc dcd | _B c4- c ABA BAB | G =B6 z2 E2- E/ z/ | z6 E6- | E12- | %33
+ (3:2:2E4 z8 z4 |] %34
+V:2
+ z3 [DG]2- [DG]/ z/ (3:2:2[CF]8 z | z3 [DG]2- [DG]/ z/ (3:2:2[CF]8 z | z3 E4- E z4 | x12 | %4
+ z3 [DG]2- [DG]/ z/ (3:2:2[CF]8 z | z3 [DG]2- [DG]/ z/ (3:2:2[CF]8 z | z3 D4- D z4 | x12 | %8
+ z3 (3:2:4D8 z D4 z/ | z3 E4- E z4 | z3 (3:2:4D8 z D4 z/ | z3 E4- E z (3:2:2E4 z/ | %12
+ z3 [^CE]4- [CE] z [CE]2- [CE]/ z/ | x103/6 | z3 (3:2:4[^CE]8 z [CE]4 z/ | %15
+ z3 [^C^F]4- [CF] z (3:2:2[CF]4 z/ | z3 [CF]4- [CF] z4 | z3 (3:2:4[^CE]8 z [CE]4 z/ | %18
+ z3 [^C^F]4- [CF] z (3:2:2[CF]4 z/ | z3 [C=F]4- [CF] z (3:2:2[CF]4 z/ | z3 [DF]4- [DF] z4 | x12 | %22
+ z3 (3:2:4D8 z D4 z/ | z3 E4- E z4 | z3 (3:2:4D8 z D4 z/ | z3 E4- E z (3:2:2E4 z/ | %26
+ z3 [^CE]4- [CE] z [CE]2- [CE]/ z/ | z3 [CE]4- [CE] z4 | z3 [DG]2- [DG]/ z/ (3:2:2[CF]8 z | %29
+ z3 [DG]2- [DG]/ z/ (3:2:2[CF]8 z | z3 E4- E z4 | x12 | x12 | x12 |] %34
+V:3
+ G,,16- _B,4- B, A,8- G,,4- G,, A,2 z2 | G,,16- _B,4- B, A,8- G,,4- G,, A,2 z2 | %2
+ E,,16- [G,=B,]8- [G,B,]2 E,,4- [G,B,]4- E,, [G,B,] z | %3
+ E,,16- [F,A,C]4- [F,A,C] [G,B,]8- E,,4- E,, [G,B,]2 z2 | G,,16- _B,4- B, A,8- G,,4- G,, A,2 z2 | %5
+ G,,16- _B,4- B, A,8- G,,4- G,, A,2 z2 | D,,16- [F,^G,]8- [F,G,]2 D,,4- [F,G,]4- D,, [F,G,] z | %7
+ D,,16- [E,=G,B,]4- [E,G,B,] [F,^G,]8- D,,4- D,, [F,G,]2 z2 | %8
+ D,,16- [F,^G,]8- [F,G,]2 D,,4- [F,G,]4- D,, [F,G,] z | %9
+ E,,16- [=G,B,]8- [G,B,]2 E,,4- [G,B,]4- E,, [G,B,] z | %10
+ D,,16- [F,^G,]8- [F,G,]2 D,,4- [F,G,]4- D,, [F,G,] z | %11
+ E,,16- [=G,B,]8- [G,B,]2 E,,4- [G,B,]4- E,, [G,B,] z | A,,16- A,8- A,2 A,,4- A,4- A,, A, z | %13
+ A,,16- [G,B,]4- [G,B,] A,8- A,,4- A,, A,2 z2 | A,,16- A,8- A,2 A,,4- A,4- A,, A, z | %15
+ ^F,,16- _B,8- B,2 F,,4- B,4- F,, B, z | =F,,16- A,8- A,2 F,,4- A,4- F,, A, z | %17
+ A,,16- A,8- A,2 A,,4- A,4- A,, A, z | ^F,,16- _B,8- B,2 F,,4- B,4- F,, B, z | %19
+ =F,,16- A,8- A,2 F,,4- A,4- F,, A, z | D,,16- A,8- A,2 D,,4- A,4- D,, A, z | %21
+ D,,16- G,4- G, A,8- D,,4- D,, A,2 z2 | D,,16- [F,^G,]8- [F,G,]2 D,,4- [F,G,]4- D,, [F,G,] z | %23
+ E,,16- [=G,B,]8- [G,B,]2 E,,4- [G,B,]4- E,, [G,B,] z | %24
+ D,,16- [F,^G,]8- [F,G,]2 D,,4- [F,G,]4- D,, [F,G,] z | %25
+ E,,16- [=G,B,]8- [G,B,]2 E,,4- [G,B,]4- E,, [G,B,] z | A,,16- A,8- A,2 A,,4- A,4- A,, A, z | %27
+ C,16- G,8- G,2 C,4- G,4- C, G, z | G,,16- _B,4- B, A,8- G,,4- G,, A,2 z2 | %29
+ G,,16- _B,4- B, A,8- G,,4- G,, A,2 z2 | E,,16- [G,=B,]8- [G,B,]2 E,,4- [G,B,]4- E,, [G,B,] z | %31
+ E,,16- [F,A,C]4- [F,A,C] [G,B,]12- E,,4- E,, | [G,B,]24- | (3:2:2[G,B,]8 z16 z8 |] %34

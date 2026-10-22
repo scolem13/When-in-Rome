@@ -1,0 +1,27 @@
+X:1
+T:Was bist du doch, o Seele, so betr&uuml;bet
+T:Was bist du doch, o Seele, so betr&uuml;bet
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+L:1/8
+V:4 bass nm="Voice" snm="V"
+V:1
+ z e c3/2 B/ | !fermata!A e f e/d/ | c d e !fermata!e :| z c d3/2 G/ | !fermata!G2 z d | %5
+ e3/2 c/ !fermata!c2 | z e f e | d c B3/2 A/ | ^G/e/ d/c/ B2 | !fermata!A2 z2 || %10
+V:2
+ z A A ^G | !fermata!E A A ^G | E A ^G !fermata!G :| z A =G F- | F !fermata!E z G | %5
+ G G !fermata!F2 | z G F/A/ ^G | A/D/ E F E | D A- A ^G | !fermata!E2 z2 || %10
+V:3
+ z2 cd e2 e>d | !fermata!c2 c2 B2 B2 | AcBA B2 !fermata!B2 :| z2 e2 d2 d2 | !fermata!c4 z2 d2 | %5
+ c2 c_B !fermata!A4 | z2 ^c2 d2- d=c- | cB- BA- A^G- GA | B2 e2 e2 ed | !fermata!^c4 z4 || %10
+V:4
+ z A,, A, E, | !fermata!A,, A, D, E, | A, F, E, !fermata!E, :| z A,, B,,2 | !fermata!C,2 z B,, | %5
+ C, E, !fermata!F,2 | z E, D, E, | F, E, D, C, | B,, A,, E, E,, | !fermata!A,,2 z2 || %10

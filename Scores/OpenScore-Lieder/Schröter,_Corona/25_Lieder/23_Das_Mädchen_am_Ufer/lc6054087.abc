@@ -1,0 +1,39 @@
+X:1
+T:25 Lieder
+T:Das Mädchen am Ufer
+C:Corona Elisabeth Wilhelmine Schröter
+Z:Johann Gottfried Herder (after Volkslieder)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/4
+Q:1/4=114
+M:2/2
+I:linebreak $
+K:Ab
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+L:1/8
+V:3 bass 
+L:1/8
+V:1
+"^Klagend, doch nicht zu langsam" F | c2 c f |{f} =e e2 z/ e/ | f _e d c | %4
+w: Im|säu- seln- den|Win- de, am|mur- * meln- den|
+ (!turn!=B3/2 c/ =d) z/ =e/ | (f3/2 d/) c3/2 _B/ |{c} B A2 G | F c _B A |{A2} G2 z!p! G | G2 G A | %10
+w: Bach, _ _ sass|Li- * la auf|Blu- men, und|wei- * net, und|sprach, "Was|blüht ihr, ihr|
+{B2} A G z G | (c d) c f |{f2} !fermata!=e2 z z/ c/ | f/g/ a/g/ f/_e/ d/c/ | (B d2) c/ B/ | %15
+w: Blu- men? Was|säu- * selst du|West? Was|mur- * * * melst * du *|Strom * der mich|
+ (A2 c/)B/ A/ G/ | F2 z |] %17
+w: mur- * * melnd ver-|lässt?"|
+V:2
+ F | c2 c f |{f} =e e2 z/ e/ | f _e d c | (!turn!=B3/2 c/ =d) z/ =e/ | (f3/2 d/) [Ac]3/2 [G_B]/ | %6
+{c} [GB] [FA]2 [=EG] | [CF] [CFc] [C=E_B] [CFA] |{[FA]2} [=EG]2 z [EG] | [=EG]2 [EG] [FA] | %10
+{B2} [FA] [=EG] z [EG] | (c d) c [Acf] |{f2} !fermata![B=e]2 z z/ c/ | f/g/a/g/ f/_e/d/c/ | %14
+ (B d2) c/B/ | (A2 [Ac]/)[GB]/[FA]/[=EG]/ | [A,CF]2 z |] %17
+V:3
+ z2 | F,A,G,B, A,CF,A, | G,B,A,C B,DG,B, | A,CG,B, F,A,E,G, | =D,F,E,G, F,A,G,B, | [A,C]4 [=E,C]4 | %6
+ [F,C]4 B,4 | A,2 A,2 G,2 F,2 | z2 C,2 C2 z2 | z2!f! D2!p! C2 =B,2 | C2 D2!p! C2 _B,2 | %11
+ A,2 B,2 A,2 F,2 | !fermata!G,4 z4 | z2 F,2 A,2 F,2 | DCB,A, G,4 | z2 F,2 C2 C,2 | F,4 z2 |] %17
+V:4
+ x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | F6 x2 | x8 | x8 | BAGF =E4 | FCFC x4 | %16
+ x6 |] %17

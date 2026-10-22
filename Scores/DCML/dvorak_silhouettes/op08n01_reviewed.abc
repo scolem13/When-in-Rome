@@ -1,0 +1,64 @@
+X:1
+T:Silhouettes
+T:Allegro feroce
+C:Antonín Dvořák
+%%score { 1 | 2 }
+L:1/8
+M:6/8
+I:linebreak $
+K:E
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!f!"^Allegro feroce" ([G,G] |!<(! [Cc]2 [Dd] [Ee]2 [Ff] | [Gg]2 [Aa] [Bb]2 [Aa])!<)! | %3
+!>(! ([Gg]2 [Ff] [Ee]2 [Dd]!>)! |$!p!!>(! [Cc]2 [Dd] [Ee]2 [^B,^B])!>)! | %5
+ [Cc] z z!ff! !>![cegc'] z !fermata!z ||[K:Db]!pp!"^Allegretto grazioso" ([fa]3- [fa]2 [eg] | %7
+ [df]2 [Ae] [Ae]3) |$ ([Fd]3- [Fd]2 [Fd] | [Ae]2 [df] [Ae]2 [Fd] | %10
+{eA-} [Ae]3- !fermata![Ae]2)!p! a |({[f'a']a-} [af'a']3- [af'a']2!<(! [ge'g'] | %12
+{[d'f']f-} [fd'f']2 [eae'] [eae']3)!<)! |$!>(!({[ad']d-} [dad']3- [dad']2 [dad']!>)! | %14
+{[ae']e-} [eae']2 [faf']{[ae']e-} [eae']2 [dad'] |!>(!{[ae']e-} [eae']6- | [eae']3) z2 a!>)! |$ %17
+!p!({[f'a']a-} [af'a']3- [af'a']2 [ge'g'] |{[d'f']f-} [fd'f']2 [eae'] [eae']3) | %19
+!<(!({[ad']d-} [dad']3- [dad']2 [dad'] | %20
+{[ae']e-} [eae']2!<)!!>(! [faf']{[ae']e-} [eae']2 [Aa]!>)! |$!p!{[ad']d-} [dad']6- | %22
+ [dad']3) z2!f! a |({[c'e']e-} [ec'e']3- [ec'e']2 [dbd'] |{[ac']c-} [cac']2 [Bgb] [Bgb]3) |$ %25
+({[fa]A-} [Afa]3- [Afa]2 [Afa] |{[gb]B-} [Bgb]2 [cac']{[gb]B-} [Bgb]2 [Afa] |!>(!{[ce]E-} [Ece]6- | %28
+ [Ece]3)!>)! z2!p! (a/4b/4c'/4d'/4) |$"_dimin."({[c'e']e-} [ec'e']3- [ec'e']2 [dbd'] | %30
+{[ac']c-} [cac']2 [Bgb] [Bgb]3) |({[fa]A-} [Afa]3- [Afa]2 [Afa] | %32
+{[gb]B-} [Bgb]2 [cac']{[gb]B-} [Bgb]2 [Afa] |${[ce]E-} [Ece]6- | %34
+!<(! [Ece]2) (A/4=G/4A/4B/4 c/4d/4e/4f/4 _g/4a/4b/4c'/4 d'/4e'/4f'/4g'/4)!<)! | %35
+!>(!{[f'a']a-} ([af'a']3- [af'a']2 [ge'g']!>)! |${[d'f']f-} [fd'f']2 [eae'] [eae']3) | %37
+({[ad']d-} [dad']3- [dad']2 [dad'] |{[ae']e-} [eae']2 [faf']{[ae']e-} [eae']2 [dad'] | %39
+{[ae']e-} [eae']6- |$!>(! [eae']3) z2 a!>)! |!pp!({[f'a']a-} [af'a']3- [af'a']2 [ge'g'] | %42
+{[d'f']f-} [fd'f']2 [eae'] [eae']3) |({[ad']d-} [dad']3- [dad']2 [dad'] |$ %44
+{[ae']e-} [eae']2 [faf'] [eae']2 [Aa] |{[ad']d-} [dad']6- | [dad']6) | %47
+{[ad']d-} [dad']3- !fermata![dad']2 ||$[K:E]"^Allegro feroce"!f! ([G,G] | %49
+!<(! [Cc]2 [Dd] [Ee]2 [Ff] | [Gg]2 [Aa] [Bb]2 [Aa])!<)! |$!>(! ([Gg]2 [Ff] [Ee]2 [Dd]!>)! | %52
+!p!!>(! [Cc]2 [Dd] [Ee]2 [^B,^B])!>)! | [Cc] z z!ff! !>![cegc'] z z |] %54
+V:2
+"m" z |!ped! (C,,/G,,/C,/E,/C,/E,/ C,/E,/C,/E,/C,/G,,/)!ped-up! | %2
+ (C,,/G,,/C,/E,/C,/G,,/)"" ([B,,,B,,]/D,/F,/A,/F,/D,/) | %3
+"" (E,,/B,,/E,/G,/E,/B,,/)"m" (F,,/D,/F,/A,/"m"F,/D,/) |$ %4
+"" ([G,,,G,,]/C,/E,/G,/E,/C,/"" G,,/D,/F,/G,/""F,/D,/) |"m" [C,,C,] z z !>![CEG] z !fermata!z || %6
+[K:Db][K:treble]"" ([FA]3- [FA]2 [EG] |"" [DF]2"" [A,E] [A,E]3) |$"" ([F,D]3- [F,D]2 [F,D] | %9
+"" [A,E]2"" [DF]"" [A,E]2"" [F,D] |""{EA,-} [A,E]3- !fermata![A,E]2)"C{" z | %11
+"" [D,,D,]"^secco sempre" .[A,DF].[A,DF] z2"" .[A,CEG] |"" .D,.[A,DF] z"" .D,.[A,CEG] z |$ %13
+"" [D,,D,] [A,DF][A,DF] z2 [A,DF] |"" D,[A,CEG]""[A,CFA]"" z [A,CEG]""[A,DF] | %15
+"" D,[A,CEG] z z2 [A,CEA] | [A,CEG] z [A,CF]"" [A,CF] z"" [A,CE] |$ %17
+"" [D,,D,][A,DF][A,DF] z2"" [A,CEG] |"" D,[A,DF] z"" D,[A,CEG] z |"" D,[A,DF][A,DF] z2 [A,DF] | %20
+"" D,[A,CEG] z z [A,CEG] z |$"" D,[A,DF][A,DF] z2 [A,DF] | D, z [A,DF] z [A,DF]"C{" z | %23
+"" [D,,D,][E,G,A,C][E,G,A,C] z2 [E,G,A,C] | [D,,D,][E,G,A,C][E,G,A,C]"" z2 [E,G,A,C] |$ %25
+"" [D,,D,][E,G,A,C][E,G,A,C] z2 [E,G,A,C] |"" [D,,D,][E,G,A,C][E,G,A,C] z2"" [E,G,A,C] | %27
+"" [D,,D,][E,G,A,C][E,G,A,C] z2 [E,G,A,C] | z2 [E,G,A,C] z2"C{" z |$ %29
+ [D,,D,][E,G,A,C][E,G,A,C] z2 [E,G,A,C] | [D,,D,][E,G,A,C][E,G,A,C]"" z2 [E,G,A,C] | %31
+"" [D,,D,][E,G,A,C][E,G,A,C] z2 [E,G,A,C] |"" [D,,D,][E,G,A,C][E,G,A,C] z2"" [E,G,A,C] |$ %33
+"" [D,,D,][E,G,A,C][E,G,A,C] z2 [E,G,A,C] | D,[E,G,A,C]"C{" z z2 z | %35
+"" [D,,D,][A,DF][A,DF] z2"" [A,CEG] |$"" D,[A,DF] z"" D,[A,CEG] z | %37
+"" [D,,D,] [A,DF][A,DF] z2 [A,DF] |"" D,[A,CEG]""[A,CFA]"" z [A,CEG]""[A,DF] | %39
+"" D,[A,CEG] z z2 [A,CEA] |$ [A,CEG] z [A,CF]"" [A,CF] z"" [A,CE] | %41
+"" [D,,D,] [A,DF][A,DF] z2"" [A,CEG] |"" D,[A,DF] z"" z [A,CEG] z |"" D,[A,DF][A,DF] z2 [A,DF] |$ %44
+"" D,[A,CEG] z z [A,CEG] z |""!ped! D,[A,DF][A,DF] z2 [A,DF] | z2 [A,DF] z2 [A,DF] | %47
+ D, z z !fermata![A,DF]2!ped-up! ||$[K:E]"C{" z | %49
+"m"!ped! (C,,/G,,/C,/E,/C,/E,/ C,/E,/C,/E,/C,/G,,/)!ped-up! | %50
+ (C,,/G,,/C,/E,/C,/G,,/)"" ([B,,,B,,]/D,/F,/A,/F,/D,/) |$ %51
+"" (E,,/B,,/E,/G,/E,/B,,/)"m" (F,,/D,/F,/A,/"m"F,/D,/) | %52
+"" (G,,/C,/E,/G,/E,/C,/"" G,,/D,/F,/G,/F,/D,/) |"m" [C,,C,] z z !>![CEG] z z |] %54

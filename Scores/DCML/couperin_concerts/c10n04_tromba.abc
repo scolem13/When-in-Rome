@@ -1,0 +1,31 @@
+X:1
+T:Nouveau Concert, ou Les Goûts-Réunis no. 10
+T:La tromba. Légèrement
+C:François Couperin
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=144
+M:6/8
+I:linebreak $
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"""^Légérement" A | AEA AEA | MA3 c3 |"" ef""e"" ef""e |"" (Pc3"^)"({B} A2))"C{" a | aba aea | %6
+ Ma3-"^)" a2 e |"" cdc"m" fef |"" (P^d3"^)"({c} B2))"C{" B |$"" BcB BEB |"m" c^dc cFc | %11
+"" ^ded"m" dBd |"m"({d} Me3-)"" (e>fg) |"" eBe"" eBe |"m""^♯" Me3-"" (e>fg) |"m" cAc"" Be""P^d | %16
+"" e3-"^)" e2 ::"C{" B |"" BcB BEB |$ (PG3"^)" E2) e |"" efe eAe | (Pc3"""^)"({B} A2)) A | %22
+"" dAd eAe |"" f3"" (P=g3{f2g2} |"" a)=gf"" Pe2"" d |"" d3-"^)" d2"C{" f |"" fdf fdf | %27
+"" a3"^)" A2 e |$"" de""d"" cdc |"""^)" PB"C{" G/A/B GEB, |"^)" E G/A/B"" GEB, | %31
+ E3-"""^)" E2"C{" e |"" ded"" cdc |"" PB3"^)" E2"" e |"" ded"" cdc |"" PB3"""^)" E"C{" ec |$ %36
+"m" fdB"" ecA |"m" fdB"" ec/B/A |"m" fdB"m" gec |"m" Ma3-"" (ag)"m"f |"" ea""A"""" Pc>BA | %41
+"""^)" A"C{" c/d/e"" cAE |"^)" A c/d/e A""EA |"" A3- A2!fine! :| %44
+V:2
+ z | z2 z z z A, | A,E,A, A,E,A, | C2 A, E2 E, | A,3 A,,2[K:alto] z | z2 z z z A | ABA AEA | %7
+ A3[K:bass] z z F, | B,(CB, B,F,B,) |$ G,A,G, G,E,G, | A,B,A, A,F,A, | B,CB, B,G,B, | C3 G,3 | %13
+ A,3 B,3 | C3 G,3 | A,3 B,2 B,, | (E,G,,/A,,/B,,"^)" E,,2) ::"^Reprise" z | z2 z z z E, |$ %19
+ E,F,E, C,A,,A, | A,3"^)" A,,2 A, | A,B,A, F,D,D | D3 z z A, | DA,D EA,E | FED A,2 A,, | %25
+ D,A,,D, D,A,,D, | D,3 z z D | (CA,C CA,/B,/C) |$ B,2 G, A,2 A,, | E,3 z2 z | E,,3 z G,/A,/B, | %31
+ G,/A,/B,/A,/G,/F,/"^)" E,2 C | B,CB, A,B,A, | G,G,/A,/B, G,"^)"E,C | B,CB, A,B,A, | %35
+ (G,/A,/G,/F,/E,/D,/) C,3 |$ D,3 C,3 | D,3 C,3 | D,3 E,3 | F,E,D, C,2 D, | %40
+ A,,/G,,/A,,/B,,/C,/D,/ E,2 E,, | A,,3 z C/D/E | CA,E, C,/(D,/E,/D,/C,/B,,/) | A,,E,,A,, A,,2 :| %44

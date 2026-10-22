@@ -1,0 +1,67 @@
+X:1
+T:Keyboard Sonata in B-flat major, W.A 1
+T:Allegretto
+C:Johann Christian Bach
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/16
+Q:1/4=92
+M:2/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+L:1/8
+V:1
+ d>e | f4 (bfdf) | g4 (bgeg) | fdTcB ecTBA |{c/} (BA).B.c .d.e.f.g | f4 (bfdf) |$ g4 (bgeg) | %7
+ fdTcB ecTBA | TB2dB fdbf | f4 Te3d/e/ | d2 z B !wedge!d!wedge!f!wedge!b!wedge!d' | f4 Te3d/e/ |$ %12
+ d2 z B !wedge!d!wedge!f!wedge!b!wedge!d' | bg{a/}gf{g/} fe{f/}ed | Td2c2 z4 | %15
+!p! c4{=B/} c2{B/}c2 | Td2>e2 !wedge!f2 z2 | g4{^f/} g2{f/}g2 |$ Ta2>b2 c'2 z2 | c4 c4 | d4 d2zb | %21
+ Ta2c'f Tg3f/g/ | f4 z!p! (cAF) | C4{=B,/} C2{B,/}C2 |$ TD2>=E2 F2 z2 | G4{^F/} G2{F/}G2 | %26
+ A2>B2 c2 z2 |!f! C4 C4 | D4 D2zB | A2cF TG3F/G/ |$ F2 z c' a<c' a<c' | c<f A<c F<A G<=E | %32
+ F2 z c' a<c' a<c' | c<f A<c F<A G<=E | (=E4 F2) :: TA>B |$ c4 (fcAc) | d4 (fdBd) | cATGF BGTF=E | %39
+ (F=E).F.G .A.B.c.d | c4 (fcAc) | d4 fdBd |$ cATGF BGTF=E | TF2AF cAfc | c4 TB3A/B/ | %45
+ A2 z A !wedge!c!wedge!f!wedge!a!wedge!c' | c4 TB3A/B/ | A2 z F Acfc |${B} TA4 z (fcA) | %49
+{c} TB4 z (FBd) |{d} Tc4 z ^faA | (BG)!wedge!d!wedge!d (dB)!wedge!g!wedge!g | %52
+ (g^f)!wedge!a!wedge!e dcBA | (BG)!wedge!d!wedge!d dBgg |$ (=BG)!wedge!d!wedge!d dBgg | cGee ecgg | %56
+ _dBgd bdTcB | A2fA cBdc | edbf{f/} ed{d/}cB | A2fA cBdc |$ edbf{f/} ed{d/}cB | ff=ef cfAc | %62
+ F4 F2 z F | !fermata!F2>=E2 F2 z2 |!p! F4{=E/} F2{E/}F2 | TG2>A2 B2 z2 |$ c4{=B/} c2{B/}c2 | %67
+ Td2>e2 f2 z2 |!f! F4 F4 | G4 G2ze | d2fB Tc3B/c/ | B4 z!p! fdB |$ F4{=E/} F2{E/}F2 | %73
+ TG2>A2 B2 z2 | c4{=B/} c2{B/}c2 | Td2>e2 f2 z2 |!f! F4 F4 | G4 G2ze |$ TdfdB Tc3B/c/ | %79
+ B2 z d' b<d' f<b | d<f B<d F<d c<A | B2 z d' b<d' f<b | d<f B<d F<d c<A | (A4 B2) :| %84
+V:2
+"" z2 | z (B,D[I:staff -1]F)[I:staff +1] z4 |"" z (B,[I:staff -1]EG)[I:staff +1] z4 | %3
+"" z2 D,2"m"E,2""F,2 |"" B,,4 z4 | z (B,D[I:staff -1]F)[I:staff +1] z4 |$ %6
+"" z (B,[I:staff -1]EG)[I:staff +1] z4 |"" z2 D,2"m"E,2""F,2 |"" B,2"C{"B,,2 z2"" D,2 | %9
+"" F,DF,D"" F,CF,C |"" B,2B,,2 z4 |"" F,DF,D"" F,CF,C |$"" B,2B,,2"" z4 |"" E,4 z2 E,2 | %14
+"""" F,2>D2 CB,A,G, |"C{" F,A,F,A, F,A,F,A, |"" F,B,F,B, F,B,F,B, |"" =E,CE,C E,CE,C |$ %18
+"" F,CF,C F,CF,C |""!f! A,[I:staff -1]FCF[I:staff +1] A,[I:staff -1]FCF | %20
+"m"[I:staff +1] B,[I:staff -1]GDG[I:staff +1] B,[I:staff -1]GDG |"" CAFA"" CG=EG | %22
+""[I:staff +1] A,[I:staff -1]FC[I:staff +1]A,"" F,4 |"C{" F,A,F,A, F,A,F,A, |$ %24
+"" F,B,F,B, F,B,F,B, |"" =E,CE,C E,CE,C |"" F,CF,C F,CF,C |"" A,,F,C,F, A,,F,C,F, | %28
+"m" B,,G,D,G, B,,G,D,G, |"" C,A,F,A,"" C,G,=E,G, |$"" F,,2"C{"F,2 z4 | z4 z2"" C,2 |"" F,2F,,2 z4 | %33
+ z4 z2"" C,2 |"""" F,6 ::"C{" z2 |$ z (F,A,C) z4 |"" z (F,B,D) z4 |"" z2 A,,2"m"B,,2""C,2 | %39
+"" F,,4 z4 | z ((F,A,C)) z4 |"" z ((F,B,D)) F,4 |$"" z2 A,,2"m"B,,2""C,2 |"""C{" F,,4 z4 | %44
+"" C,A,C,A,"" C,G,C,G, |"" F,2F,,2 z4 |"" C,A,C,A,"" C,G,C,G, |"" F,2"C{"F,,2 z4 |$ %48
+"" z (E,F,A,) E,4 |"" z (D,F,B,) D,4 |"" z (^F,A,D)"" D,4 |"m" G,2G,,2 z2 G,2 |"" D2D,2 z2"" ^F,2 | %53
+"m" G,2G,,2 z2 G,2 |$"" F,2F,,2 z2 F,2 |"m" E,2E,,2 z2 E,2 |"m" [=E,G,B,]8 |"" F,2""E2"" D2""A,2 | %58
+"" B,2""D,2"" E,2""=E,2 |"" F,2""E2"" D2""A,2 |$"" B,2""D,2"" E,2""=E,2 |"" F,4 z4 | %62
+ z F,=E,F, C,F,A,,C, |"C\\" !fermata!F,,4 z4 |"" B,,D,B,,D, B,,D,B,,D, |"" B,,E,B,,E, B,,E,B,,E, |$ %66
+"" A,,F,A,,F, A,,F,A,,F, |"" B,,F,B,,F, B,,F,B,,F, |"" D,B,F,B, D,B,F,B, |"m" E,CG,C E,CG,C | %70
+"" F,DB,D"" F,CA,C |"" B,,D,F,D, B,,2 z2 |$"C{" B,DB,D B,DB,D |"" B,EB,E B,EB,E |"" A,FA,F A,FA,F | %75
+"" B,FB,F B,FB,F |"" D,B,F,B, D,B,F,B, |"m" E,CG,C E,CG,C |$"" F,DB,D"" F,CA,C |"" B,,2"C{"B,2 z4 | %80
+ z4 z2"" F,2 |"" B,2B,,2 z4 | z4 z2"" F,2 |"""" B,6 :| %84
+V:3
+ x2 | d4 x4 | e4 x4 | x8 | x8 | d4 x4 |$ e4 x4 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | %17
+ x8 |$ x8 | c'2af c'2af | d'2bg x4 | x8 | x8 | x8 |$ x8 | x8 | x8 | c2AF c2AF | d2BG x4 | x8 |$ %30
+ x8 | x8 | x8 | x8 | x6 :: x2 |$ A4 x4 | B4 x4 | x8 | x8 | A4 x4 | B4 x4 |$ x8 | x8 | x8 | x8 | %46
+ x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | %65
+ x8 |$ x8 | x8 | f2dB f2dB | g2ec x4 | x8 | x8 |$ x8 | x8 | x8 | x8 | f2dB f2dB | g2ec x4 |$ x8 | %79
+ x8 | x8 | x8 | x8 | x6 :| %84
+V:4
+ x | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | %19
+ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x3 B, | A,2 x2 | x3 B, | (B,2 A,) :: %35
+ x |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ %54
+ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | %73
+ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x3 E | D2 x2 | x3 E | (E2 D) :| %84

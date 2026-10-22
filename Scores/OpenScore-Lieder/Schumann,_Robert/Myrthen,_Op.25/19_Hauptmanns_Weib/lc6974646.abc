@@ -1,0 +1,66 @@
+X:1
+T:Myrthen, Op.25
+T:Hauptmanns Weib
+C:Robert Schumann
+Z:Wilhelm Gerhard (after Robert Burns)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=120
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+L:1/16
+V:1
+"^Keck" z4 |!f! !>!B7/2 c/ | B4 |!f!!>(! E3/2 F/!>)! G A |!<(! B B B ^c | d4!<)! | !>!f e d ^c | %7
+w: |Hoch zu|Pferd!|Stahl auf zar- tem|Lei- be, Helm und|Schwert|zie- men Haupt- manns|
+ !>!B2 !>!B,2 | z4 | z4 |!mf! !>!B3 F | G (A/B/) F2 | z B2 F | G (A/B/) F2 | E3/2 F/ G A | %15
+w: Wei- be!|||Tö- net|Trom- mel- * schlag|un- ter|Pul- ver- * dampf,|siehst du blut’- gen|
+!<(! B2"^ritard." B c!<)! | d3!>(! c | A4!>)! | z4 | z4 |!p! G G!<(! G (A/B/) | %21
+w: Tag und dein|Lieb im|Kampf.|||Schla- gen wir den *|
+"^ritard." (cd)!<)! e2- | e d c3/2 B/ | (Bc) c2 | E E!<(! E (F/G/)!<)! | (AB)"^ritard." c2- | %26
+w: Feind, * kü-|* ssest du den|Gat- * ten,|wohnst mit ihm ver- *|eint * in|
+ c B A3/2 G/ | (GF) F2 | z4 |!f! !>!d7/2 e/ | d4 |!f! G3/2 A/ B c | d d ^d d |!<(! e2 e f!<)! | %34
+w: _ des Frie- dens|Schat- * ten.||Hoch zu|Pferd!|Stahl auf zar- tem|Lei- be, Helm und|Schwert zie- men|
+ (g>fe) ^d | !>!e2 !>!E2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |] %44
+w: Haupt- * * manns|Wei- be!|||||||||
+V:2
+!f!!>(! [EGB]7/2 [EAc]/!>)! | [EGB]4 |!f!!>(! [G,B,E]>[B,^DF][B,EG][FA]!>)! | [EGB]4 | %4
+!f!!>(! (B3 ^c)!>)! | [FBd]>[^ce] [Fdf]2- | [Fdf].[F^ce].[FBd].[EF^Ac] | [DFB]4 | %8
+!p! !>![^DFB][B,DF][B,DF][B,DF] |[B,EG][B,EG][B,^DF][B,DF] |!>![^DFB][B,DF][B,DF][B,DF] | %11
+[B,EG][B,EG][B,^DF][B,DF] |!>![^DFB][B,DF][B,DF][B,DF] |[B,EG][B,EG][B,^DF][B,DF] | %14
+ [B,E]>[B,^DF][EG][FA] |!<(! [GB]2"^ritard." [EGB][EGc]!<)! | [Gd]3!>(! [EGc] | [DFA]4!>)! | %18
+!p! !>![B,DG][G,B,D][G,B,D][G,B,D] |[G,CE][G,CE][G,B,D][G,B,D] |!p!!>![B,DG][G,B,D][G,B,D][G,B,D] | %21
+"^ritard." ([G,CE][G,D=F] [G,EG]2- | [G,EG]!>(![A,D=F][G,CE]>!>)![G,B,D]) | ([G,B,D][CE]) [CE]2 | %24
+[K:bass]!p! !>![^G,B,E][E,G,B,][E,G,B,][E,G,B,] | ([E,A,C][E,B,D]"^ritard."!<(! [E,CE]2- | %26
+ [E,CE]!<)!!>(![E,B,D][E,A,C]>[E,G,B,])!>)! | ([E,G,B,][F,A,]) [F,A,]2 | %28
+[K:treble]!ff!!>(! [Gdg]7/2 [Geg]/!>)! | [Gdg]4 | [B,G]>!<(![DA][GB][Ac]!<)! | [GBd]4 | %32
+ [GBd]2 [AB^d]2 | [GBe]>!<(![B^df][Beg][Bfa]!<)! |[Bgb]>[Bfa][Beg][B^df] | [GBe]2 z2 |!mf! !>!B4- | %37
+ B2 !>!c2- | c2 !>!B2 | !>!B4 |!f! (!>!B3 ^A/=A/ | GF/E/ !>!c2- | cB/A/ .[^DFB]).[F,B,D] | %43
+ .[G,B,E]2[I:staff +1] !>!E,2 |] %44
+V:3
+ [E,G,B,]7/2 [E,A,C]/ | [E,G,B,]4 | [G,,E,]>[B,,F,][E,G,][F,A,] | [E,G,B,]4 | (B,3 ^C) | %5
+ [F,B,D]>[^CE] [F,DF]2- | [F,DF].[F,^CE].[F,B,D].[F,^A,C] | [B,,F,B,]2 B,,, z | %8
+ (!>!B,,3 ^A,,/=A,,/ | G,,F,,/E,,/ B,,2) |{/B,,,} (!>!B,,3 ^A,,/=A,,/ | G,,F,,/E,,/ B,,2) | %12
+{/B,,,} (!>!B,,3 ^A,,/=A,,/ | G,,F,,/E,,/ B,,2) | [G,,E,]>[B,,F,][E,G,][F,A,] | %15
+ [G,B,]2 [E,G,B,][C,G,C] | [B,,G,D]3 [C,G,C] | [D,F,A,]4 |{/G,,,} (!>!G,,3 F,,/=F,,/ | %19
+ E,,D,,/C,,/ G,,2) |{G,,,} (!>!G,,3 F,,/=F,,/ | E,,D,, C,,2- | C,,=F,,G,,>G,,,) | (G,,,C,,) C,,2 | %24
+({/E,,,} !>!E,,3 ^D,,/=D,,/ | C,,B,,, A,,,2- | A,,,B,,,C,,>^C,,) | (^C,,D,,) D,,2 | %28
+!ped! [G,,D,B,]7/2!ped-up! [E,C]/ | [G,,D,B,]4 | !>![G,,B,,G,]>[D,A,][G,B,][A,C] | [G,B,D]4 | %32
+ !>![G,B,D]2 !>![F,B,^D]2 | [E,B,E]>[K:treble][B,F][B,EG][B,FA] |[B,GB]>[B,FA][B,EG][B,^DF] | %35
+[K:bass] [E,B,E]2 E,, z |{/B,,} (B,3 ^A,/=A,/ | G,F,/E,/ !>!C2- | CB,/A,/ B,B,,) | (E,2 E,,2) | %40
+{/B,,} (!>!B,3 ^A,/=A,/ | G,F,/E,/ C2- | CB,/A,/ B,).[B,,,B,,] | .[E,,E,]2 !>![E,,,E,,]2 |] %44
+V:4
+ x4 | x4 | x4 | x4 | [EG]4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | x4 | x4 | x4 |[K:treble] x4 | x4 | x4 | x4 | x4 | x4 | x4 | %35
+ x4 | [^DF][DF][DF][DF] |[EG][EG][EF][EF] |[EF][EF][^DF][DF] |[EG][EG][EG][EG] |[^DF][DF][DF][DF] | %41
+ EF/E/ [EFA][EFA] | [EFA][EF] x2 | x4 |] %44
+V:5
+ x8 | x8 | x8 | x8 | [E,G,]8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x3[K:treble] x5 | x8 | %35
+[K:bass] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %44

@@ -1,0 +1,68 @@
+X:1
+T:6 Mélodies et une havanaise
+T:Chanson mélancolique  (VWV 1108)
+C:Pauline Viardot
+Z:Armand Silvestre
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+"^Andante" z8 |"^doux" c c e c A2 B c | A4 A2 z2 | A2 A B c B!<(! c d |!>(! e8!<)!!>)! | %5
+w: |Nous a- vons pas- sé, ce me|sem- ble,|L'un près de l'au- tre sans nous|voir, |
+ z e f g d4- | !breath!d d e f c4- | !breath!c c B c A2 !>!B2 | !>!c2 !>!d2!<(! e4-!<)! | %9
+w: In- dif- fé- rents |_ et sans sa- voir |_ Que nos deux cœurs bat-|taient en- sem-|
+!>(! e4!>)! e2 z2 |!>(! c c e c A2 B c!>)! | A4- A2 z2 |"^un peu plus animé" A ^G B A d2 ^c d | %13
+w: * ble;|Nous a- vons pas- sé sans nous|voir!  _|A mon cœur hé- las! comme au|
+ !^!^c4 B2 z2 |"^cresc." B2 ^A B ^c B e d | ^c4- c2 z2 |!mf! ^c d e g f2 e d | ^c4 d2 z2 | %18
+w: vô- tre|Un peu d'a- mour é- tait bien|dû  _|Et cha- cun de nous vole à|l'au- tre|
+"^cresc." ^c d e2 !^!g !^!f !^!e !^!d |"^poco rit." e8 |!f! !^!f2 !^!e !^!f d4- | %21
+w: Un bon- heur à ja- mais per-|du! |Un peu d'a- mour |
+ d2 !^!d2 !^!e2 !^!f2 | d8 | z8 | z8 |"^1er Mouvement" c2 e c A A B c | A4 A2 z A | %27
+w: _ nous é- tait|dû. |||Le temps sé- pa- re no- tre|rou- te; Du|
+ c2 z!<(! c d c d e!<)! | f4 z4 | z e f g d4- | d !^!d !^!e !^!f !breath!c4 | %31
+w: moins, si nous a- vions ai-|mé,|Le ciel sur nous |_ se fût fer- mé, |
+ A2!<(! A B c B c d!<)! |!>(! _e6!>)! e2 | z8 | %34
+w: Nous au- rions bien souf- fert sans|dou- te,||
+!<(! c c!<)!!>(! e2!>)!!p!"^rall." A A !fermata!B c | A8 | z8 |] %37
+w: Mais du moins nous au- rions ai-|mé!||
+V:2
+"^Andante"!p! (CEAE CEAE) | (CEAE CEAE) | (CEAE CEAE) | CFAF CFAF |!<(! A,EAE A,DAD!<)! | %5
+!>(! CGAG!>)! CFAF | B,FGF _B,EGE | A,CFC!<(! [FA]2 [^GB]2 | [Ac]2 [Bd]2!<)! [ce](EGc) | %9
+ !arpeggio![EGce]ege c2 de | !arpeggio![CEAc]EAE CE[D^G]E | CEAE C2 z2 | %12
+ ([^CA][B,^G][DB][CA] [^Fd]2) [E^c][Fd] | (^cD^FD BF^fd) | ([DB]2 [^C^A][DB] [E^c][DB][^Ge][^Fd]) | %15
+ ([E^c]EcA ecae) | (AB^c"_cresc."e) (d2 =c_B) | ([A^c][Bd][ce][eg]) ([df]2 [=ce][_Bd]) | %18
+ ([A^c][Bd] [ce]2) ([e=g][df][ce][Bd]) |!<(! ([A^c][Bd][ce]_b!<)!"^poco rit." agfe) | %20
+ z (FAd) z (FAd) | z (F_Bd) z (EB^c) |"_cresc." z2 z F Adfa | %23
+!f! z ([d'f'][c'e'][bd']) z ([ac'][gb][fa]) | [e^g] (E^DE F^F=G^G) |!p! (CEAE CEAE) | %26
+ (e2 ae c2 de | [CA]2) z (A BABc) | (dF_Ad cB=AG) | e (CEG) z (FG_A) | %30
+ z (_B,_DG) z (F[B,G][=B,^G]) | ([A,CA]CAC) (A,CAC) |"^rit." [_EA_e]6- [EAe] z | %33
+!p! !arpeggio![=EGc=e](ege c2 de) | !arpeggio![CEAc]2 z2!pp!"^suivez" [CEA]2 !fermata![DE^G]2 | %35
+ (CEAE CEAE) | C2 z2 z4 |] %37
+V:3
+ A,,2 z2 z4 | A,8 | G,8 | F,8 | C,4 B,,4 | A,,4 D,4 | G,,4 C,4 | F,,4 F, C2 C- |C C2 C C,2 z2 | %9
+!ped! G,, CEC G,CE!ped-up!C |!ped!({/E,,} E,4)!ped-up! E,4- | [A,,E,]4 z2 E,2- | E,4- E, A,2 A, | %13
+ ^F,4 z4 | ^F,4- F, A,2 A, | [A,,G,A,]8 | (A,,E,A,^C) z[I:staff -1] (_BFD) | %17
+[I:staff +1] (A,,E,A,^C) z[I:staff -1] (_BFD) |[I:staff +1] (G,,E,A,^C) ^G2 z2 | %19
+ (A,,E,A,^C G2) A,2 | !^!D4- !^![CD-]4 | [_B,D-]4 [G,D]4 | D,A,D z z4 | %23
+!ped! (=B,,F,^G,D)!ped-up!!ped! (^D,CFA)!ped-up! |"^poco rall." z2[I:staff -1] (^D=D ^C=CB,_B,) | %25
+[I:staff +1] [A,,A,]4 A,4 | G,8 | (A,CFC) (A,CFC) | (C3 F EDCB,) | C,4 B,4 | C,4 [C,A,]4 | F,8 | %32
+!ped! (F,,C,F,C FCF,) z!ped-up! | (C,CEC) (G,CEC) | E,2 z2 !fermata!E,4 |!ped! [A,,E,]4 [A,,E,]4 | %36
+ [A,,E,]2 z2!ped-up! z4 |] %37
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | A,,4- | A,,2 x2 | A,,4 | x4 | x4 | %17
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | F,2 E,2 | D,2 G,2 | x4 | x4 | x4 | x4 | x4 | %34
+ x4 | x4 | x4 |] %37
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x4 ^c2 z2 | x8 | x8 | x8 | !>!f4 !>!c4 | x8 | x8 | ((CEAE CEAE)) | x8 | x8 | x C3 x4 | x _B,3 x4 | %31
+ x8 | x8 | x8 | x8 | x8 | x8 |] %37

@@ -1,0 +1,29 @@
+X:1
+T:Ihr Gestirn, ihr hohen L&uuml;fte
+T:Ihr Gestirn, ihr hohen L&uuml;fte
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+L:1/8
+V:3 treble-8 nm="Voice" snm="V"
+L:1/8
+V:4 bass nm="Voice" snm="V"
+V:1
+ D2 E | F2 G | A2 d | ^c2 !fermata!c | d2 e | f3 | F G3/2 G/ | !fermata!F3 :| G2 G | A2 c | B2 G | %11
+ A2 !fermata!A | c2 c | d2 f | e d ^c | d2 !fermata!d || %16
+V:2
+ A,4 ^C2 | D4 E2 | F3 G A2 | A4 !fermata!A2 | A4 A2 | A3 GFE | F4 E2 | !fermata!C6 :| E2 F2 G2- | %9
+ G F2 E F2 | F2 ED E2 | F4 !fermata!F2 | A4 AG | FEFG A2 | BG FE EG | ^F4 !fermata!F2 || %16
+V:3
+ FG A2 G2 | A4 B2 | c2 de f2 | e4 !fermata!e2 | f4 e2 | d^cded=c | BA d2 c>B | !fermata!A6 :| %8
+ c4 c2 | c3 B A2 | d4 c2 | c4 !fermata!c2 | f4 f_e | d4 c2 | B2 =B2 A2 | A4 !fermata!A2 || %16
+V:4
+ D,/E,/F,/G,/F,/E,/ | D, =C,/B,,/A,,/G,,/ | F,,/G,,/F,,/E,,/ D,, | A,,2 !fermata!A,, | %4
+ D,/E,/F,/E,/D,/^C,/ | D,3- | D,/C,/ B,, C, | !fermata!F,,3 :| C, D, E, | F, G, A, | G, G,, C, | %11
+ F,2 !fermata!F, | F, F,,/G,,/ A,, | B,, B, A, | G, ^G, A, | D,2 !fermata!D, || %16

@@ -1,0 +1,30 @@
+X:1
+T:O Welt, sieh hier dein Leben
+T:O Welt, sieh hier dein Leben
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ c | A B c/d/ e | d2 !fermata!c c/d/ | e e B c | A2 !fermata!G E | A B c/ d/4e/4 d/c/ | %6
+ !fermata!B3 c | A B c/d/ e | d2 !fermata!c c/d/ | e e B c | A2 !fermata!G E | A B c d | %12
+ c B !fermata!A2 || %13
+V:2
+ G | F =E E E | F E !fermata!E A | A/G/ A G/F/- F/E/ | E ^D !fermata!E E/=D/ | C E E A | %6
+ !fermata!G3 G- | G/ F =E/ E F | F2 !fermata!F E | E/F/ G F E | F2 !fermata!E C | E F/G/ A G/F/ | %12
+ E E/D/ !fermata!C2 || %13
+V:3
+ c | c B A A | A G !fermata!A e | e e e G | F/G/ A !fermata!B G | c B A f | !fermata!B3 G | %7
+ c B A/B/ c | c B !fermata!^A =A | B B B/A/ G | c B !fermata!B G/F/ | E D E/F/ G | %12
+ A G !fermata!E2 || %13
+V:4
+ ^E, | F, G, A, C, | B,, E, !fermata!A,, A, | C, C,/D,/ E, C, | F,2 !fermata!E, E, | F, G, A, D, | %6
+ !fermata!E,3 ^E, | F, G, A, ^A, | B,2 !fermata!F, =A, | G, F,/E,/ ^D, E, | %10
+ E, ^D, !fermata!E, E,/=D,/ | C, B,, A,, B,, | C,/D,/ E, !fermata!A,,2 || %13

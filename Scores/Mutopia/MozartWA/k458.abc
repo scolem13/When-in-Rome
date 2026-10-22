@@ -1,0 +1,191 @@
+% String Quartet KV. 458 (nr. 17) "Hunt": Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=277
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:String Quartet KV. 458 (nr. 17) "Hunt" (1)
+C:W. A. Mozart (1756-1791)
+L:1/8
+Q:1/4=140
+M:6/8
+I:linebreak $
+K:Bb
+V:1 bass nm="Violoncello" snm="Vc"
+V:1
+ x | _B,2 x _B,,2 x | D,2 _B,, F,2 D, | C,2 x _E,C,F, | D,2 _B,, F,2 x | _B,2 x _B,,2 x | %6
+ D,2 _B,, F,2 D, | C,2 x _E,C,F, | _B,,B,,B,, B,,2- B,,- | _B,,4- B,,- B,,- | _B,,4- B,,- B,, | %11
+ F,,4- F,,- F,, | _B,,4 B,,/x/B,,/ x/ | _B,,4- B,,- B,,- | _B,,4- B,,- B,, | F,,4- F,,- F,, | %16
+ _B,, x2 F,2- F, | _B, x2 F,2- F, | _B,B,/x/B,/ x3/2 G,/x/G,/ x/ | x D,/x/D,/ x3/2 =E,/x/E,/ x/ | %20
+ F,4- F,- F,- | F,4- F,- F,- | F,xC, F,xC, | F,xC F,xC | F,F,/x/F,/ x/ F,/x/F,/x/F,/ x/ | F,2 x4 | %26
+ x6 | x6 | D,2 _B,, F,2 x | x6 | F,,2 A,, _B,,2 A,, | G,,3 G,2- G, | =E,3 F,2- F, | D,3 =E,2- E, | %34
+ _D,3 =D,2- D, | _B,,3 G,,/x/A,,/x/B,,/ x/ | C,3 =E,2- E, | F,3 A,,_B,,=B,, | C,3 =E,2- E, | %39
+ F,3 A,2 _B, | C3 =E,2- E, | F,3 D,2- D, | C,3 x3 | x6 | x4 A,,/x/F,,/ x/ | C,/D,/C,/D,/C, x3 | %46
+ x6 | C,3 _D,2- D, | C,3 _D,2- D, | C,3 _D,2- D, | C,3 _B,2- B, | A, x2 _B, x2 | G, x2 =E, x2 | %53
+ F,3 _B,,/x/C,/x/C,/ x/ | F,,2 x4 | =E,2 F, x3 | =E,2 F, x3 | =E,2 F, A,2 _B, | =B,2 C =E2 F | %59
+ _B,2 x C2 x | F,2 x4 | x6 | x6 | x6 | =B,2 C =E2 F | _B,2 x C2 x | F/G/F/G/A D/=E/D/E/F | %67
+ _B,/C/B,/C/D G,/A,/G,/A,/B, | =E,2 F, _B,/x/C/x/C/ x/ | F,/G,/F,/G,/A, D,/=E,/D,/E,/F, | %70
+ _B,,/C,/B,,/C,/D, G,,/A,,/G,,/A,,/B,, | =E,,4- E,,- E,, | _G,,4- G,,- G,, | _A,,4- A,,- A,, | %74
+ A,,3 =B,,2- B,, | C, x4 x | C,,4- C,,- C,, | F,,4- F,,- F,,- | F,,4- F,,- F,,- | F,,4- F,, A,, | %80
+ _B,,3 C,2- C, | F,4- F,- F,- | F,4- F,- F,- | F,2 _E, D,2- D, | G,2 x C,2 x | F,2 x D,2 x | %86
+ _B,,2 x C,2 x | F,2 x D2 x | _B,2 x C2 x | F,2 x F2 x | F2 x4 | F,,4- F,,- F,,- | F,,4- F,,- F,, | %93
+ C,4- C,- C,- | C,3 F,, x2 | F,,4- F,,- F,,- | F,,4- F,,- F,, | C,,4- C,,- C,, | F,,2 x4 | %99
+ F,4- F,- F,- | F,4- F,- F, | C,=E,G, CCC | C3 F, x2 | F,4- F,- F,- | F,4- F,- F, | C,=E,G, CCC | %106
+ F, F,/x/F,/x/F,/ x2 x/ | x F,/x/F,/x/F,/ x2 x/ | x F,/x/F,/x/F,/ x2 x/ | x F,F, x _A,A, | %110
+ x G,G,G, x2 | x G,G,G, x2 | x G,G,G, x2 | x G,G, x G,G, | x C,C,C, x2 | x C,C,C, x2 | %116
+ x C,C,C, x2 | x C,/=B,,/D,/C,/ _E,_B,,/A,,/C,/B,,/ | D, D,/_D,/=E,/=D,/_G, x2 | %119
+ x D/_D/=E/=D/_G x2 | x A,/G,/_B,/A,/C x2 | x D,/_D,/=E,/=D,/_G, x2 | x G,,/_G,,/A,,/=G,,/_B,, x2 | %123
+ x C,/=B,,/D,/C,/=E, x2 | x F,,/=E,,/G,,/F,,/_A,, x2 | x _B,,/A,,/C,/B,,/ D,2- D, | _E,3 D,2- D, | %127
+ _E,3 D,2- D, | _E,2 x4 | C,/D,/C,/D,/C, A,,/_B,,/A,,/B,,/A,, | F,,2 x2 A,,/x/F,,/ x/ | %131
+ F,/G,/F,/G,/F, x _B,,/x/F,,/ x/ | F,/G,/F,/G,/F, x C,/x/F,,/ x/ | F,/G,/F,/G,/F, x F,F,, | %134
+ F, x4 x | x6 | x3 A,CA, | F, x4 x | _B,2 x _B,,2 x | D,2 _B,, F,2 D, | C,2 x _E,C,F, | %141
+ D,2 _B,, F,2 x | _B,2 x _B,,2 x | D,2 _B,, F,2 D, | C,2 x _E,C,F, | _B,,B,,B,, B,,2- B,,- | %146
+ _B,,4- B,,- B,,- | _B,,4- B,,- B,, | F,,4- F,,- F,, | _B,,4 B,,/x/B,,/ x/ | _B,,4- B,,- B,,- | %151
+ _B,,4- B,,- B,, | F,,4- F,,- F,, | _B,, x2 F,2- F, | _B, x2 F,2- F, | %155
+ _B,B,/x/B,/ x3/2 G,/x/G,/ x/ | x D,/x/D,/ x3/2 =E,/x/E,/ x/ | F,4- F,- F,- | F,4- F,- F,- | %159
+ F,xC, F,xC, | F,xC F,xC | F,F,/x/F,/ x/ F,/x/F,/x/F,/ x/ | F,2 x4 | x6 | x6 | D,2 _B,, F,2 x | %166
+ x6 | F,,2 A,, _B,,2 x | _E,2 x4 | G,2 _E, _B,2 x | x6 | _B,,2 D, _E,2 D, | C,3 C2- C | %173
+ A,3 _B,2- B, | G,3 A,2- A, | _G,3 =G,2- G, | _E,x2C,D,E, | F,3 A,,2- A,, | _B,,3 D,_E,=E, | %179
+ F,3 A,,2- A,, | _B,,3 D,2 _E, | F,3 A,2- A, | _B,3 G,2- G, | F,3 x3 | x6 | x4 D,/x/_B,,/ x/ | %186
+ F,,/G,,/F,,/G,,/F,, x3 | x6 | F,,3 _G,,2- G,, | F,,3 _G,,2- G,, | F,,3 _G,2- G, | F,3 _E,2- E, | %192
+ D, x2 _E, x2 | G, x2 A, x2 | _B,3 _E,/x/F,/x/F,/ x/ | _B,,2 x4 | A,2 _B, x3 | A,2 _B, x3 | %198
+ _G,2 =G, =B,2 C | =E,2 F, A,2 _B, | _E,2 x F,2 x | _B,,2 x4 | x6 | x6 | x6 | _G,2 =G, A,2 _B, | %206
+ _E,2 x F,2 x | _B,,2 x4 | _E/F/E/F/G C/D/C/D/E | A,2 _B, _E,/x/F,/x/F,/ x/ | %210
+ _B,/C/B,/C/D G,/A,/G,/A,/B, | _E,/F,/E,/F,/G, C,/D,/C,/D,/E, | A,,4- A,,- A,, | =B,,4- B,,- B,, | %214
+ _D,4- D,- D, | D,3 =E,2- E, | F, x4 x | F,,4- F,,- F,, | _B,,4- B,,- B,,- | _B,,4- B,,- B,,- | %220
+ _B,,4- B,, D, | _E,3 F,2- F, | _B,4- B,- B,- | _B,4- B,- B,- | _B,2 _A, G,2- G, | C2 x F,2 x | %226
+ _B,2 x G,2 x | _E, x2 F, x2 | G, x2 D, x2 | _E, x2 F, x2 | _B,, x2 _B, x2 | _B,2 x3 _B,, | %232
+ x2 _B, x2 B,- | _B,x4D,,- | D,, x D,2 x D,- | D, x4 x | x6 | x6 | x6 | x4 x F,,- | %240
+ F,,4- F,,- F,,- | F,,4- F,,- F,,- | F,,4- F,,- F,,- | F,,4- F,,- F,,- | F,,4- F,,- F,,- | %245
+ F,,4- F,,- F,,- | F,,4- F,,- F,,- | F,,4 F,F, | D,D,/x/D, _B,,B,,/x/B,,- | _B,,_E, E,2 E,E, | %250
+ C,C,/x/C, A,,A,,/x/A,,- | A,,D, D,2 D,D, | _B,,B,,/x/B,, G,,G,,/x/G,,- | G,,C, C,2 C,C, | %254
+ A,,A,,/x/A,, F,,F,,/x/_E,- | _E, x =E,2 x2 | x4 x F,- | F,4- F, _B,,- | _B,, x A,,2 x B,,- | %259
+ _B,, x A,,2 x B,,- | _B,,xA, A,A,_B,- | _B,xA, A,A,B,/C/ | _B,/C/DG,/A,/ G,/A,/B,_E, | %263
+ x2 F, x2 D,- | D,2 _E,3 D,- | D,2 _E,3 D, | D,D,_E, E,E,D, | D,D,_E, E,E,D, | x2 _E, x2 F, | %269
+ x2 F,, x2 D, | D,D,_E, E,E,F, | F,F,F,, F,,F,,_B,,- | _B,,_B,B, G,G,/x/G,- | G,F, _E,2 D,C,- | %274
+ C,x4F, | F,F,F, F,F,_B,, | _B,B,B, x3 | F,F,F, x3 | _B,,B,,B,, x3 | F,,F,,F,, x3 | %280
+ x2 _B,2 x _B,,- | _B,, x4 x |] %282
+
+X:2
+T:String Quartet KV. 458 (nr. 17) "Hunt" (2)
+C:W. A. Mozart (1756-1791)
+L:1/4
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:Bb
+V:1 bass nm="Violoncello" snm="Vc"
+V:1
+ z B,, C, | D, C, B,, | A,, F,, A, | B, D _G, | =G, B, D, | E, C, F, | D, F, F, | B, F, B,, | %8
+ z G, A, | B, A, G, | z =E, B, | A, G, F, | z G, F, | =E,2 F, | B, C C, | F, F,, z | z A, B, | %17
+ F, F,, z | z A,, B,, | F,, F, z | z B,, C, | D, C, B,, | A,, F,, A, | B, D _G, | =G, B, D, | %25
+ E, F, _G, | =G, F, F,, | B,, F, B, | B,, z2 | B,, z2 | E,2 =E, | F, F,, B,, | B,2 A, | G, F, =E, | %34
+ F, z2 | C,, C, D, | B,, G,, C, | F,, z2 | G,,2 z | G,,2 z | _G, F, z | _G, F, z | z3 | z3 | C,3 | %45
+ E, D, A,, | B,, z2 | B,, z2 | _A,2 G, | D, B,, E, | z =B, C/ z/ | z A, _B,/ z/ | z3 | %53
+ F,, E E/ z/ | E D z | F, F, F, | B,, D, G, | E, C, F, | D, B,, G, | E, C, F, | B,, z2 |] %61
+
+X:3
+T:String Quartet KV. 458 (nr. 17) "Hunt" (3)
+C:W. A. Mozart (1756-1791)
+L:1/16
+Q:1/4=40
+M:4/4
+I:linebreak $
+K:Eb
+V:1 bass nm="Violoncello" snm="Vc"
+V:1
+ E,4 D,2 z [E,B,,] z2 E,, z4 z | z8 C,4 D,4 | E,2E,,2 z6 B,,2 A,,4 | z2 A,,2 G,,4 A,,2 z2 B,,2 z2 | %4
+ E,,4 z4 E4 D2 z [EB,] | z2 E, z8 z4 z | C,2 z2 C,2 z2 C,2 z2 F,2 z2 | G,2 z2 G,,2 z2 C,4 F,4 | %8
+ B,,2 z2 B,,2 z2 B,,2 z2 E,4 | F,4 _G,4 =G,4 F,4 | %10
+ =E,2F,2 _G,4 F,2>[G,F,]2 [_E,_D,][C,B,,][=A,,B,,][D,B,,] | %11
+ =A,,4 B,,4 F,2>[=E,F,]2 [_G,F,][_E,_D,][C,B,,][D,B,,] | =A,,4 =G,,4 F,,2 z6 | %13
+ z4 z F,G,=A, B,B,B,B, B,B,B,B, | B,B,B,B, B,B,B,B, =A,A,A,A, _A,A,A,A, | %15
+ A,A,A,A, A,A,A,A, G,2 z6 | B,,2 z2 E, z F, z B,,4 z4 | G6 [F=E][DC] C2F2 z4 | %18
+ F6 [_ED][CB,] B,2E z F,2 z2 | B,,2 z2 E, z F, z G,2 z2 [C,D,][_E,=E,]F, z | %20
+ [D,_E,][F,_G,]=G, z E, z F, z B,B,B,B, G,G,G,G, | E,E,E,E, F,F,F,F, B,,B,,B,,B,, G,,G,,G,,G,, | %22
+ E,,E,,E,,E,, F,,F,,F,,F,, B,, z F,, z B,, z F,, z | B,,2 z2 B,,2 z2 B,,8 | %24
+ E,4 D,2 z [E,B,,] z2 E,, z4 z | z8 C,4 D,4 | E,2E,,2 z2 G,,2 B,,2E,2 G,2B,2 | %27
+ _D z _D, z4 z C, z C,, z4 z | F,2 z2 F,2 z2 F,2 z2 B,,2 z2 | C,2 z2 C,2 z2 F,,4 B,,4 | %30
+ E,,2 z2 E,,2 z2 E,,2 z2 A,4 | B,4 =B,4 C4 _B,4 | %32
+ =A,2B,2 =B,4 _B,2>[=B,_B,]2 [_A,_G,][F,E,][D,E,][G,E,] | %33
+ D,4 E,4 B,2>[=A,B,]2 [=B,_B,][_A,_G,][F,E,][G,E,] | D,4 C,4 _B,,B,,B,,2 z4 | z4 z B,CD EEEE EEEE | %36
+ EEEE EEEE DDDD _DDDD | _DDDD DDDD C2 z2 B,2 z2 | E,2 z2 A, z B, z E,4 z4 | %39
+ C6 [B,=A,][G,F,] F,2B,2 z4 | B,6 [_A,G,][F,E,] E,2A, z B,,2 z2 | %41
+ E,,2 z2 A,, z B,, z C,2 z2 [F,G,][_A,=A,]B, z | [G,_A,][_B,=B,]C z A, z _B, z E,E,E,E, C,C,C,C, | %43
+ A,,A,,A,,A,, _B,,B,,B,,=B,, C,C,C,C, _B,,B,,B,,B,, | %44
+ A,,A,,A,,A,, B,,B,,B,,B,, E,, z B,, z E, z _B, z | E,2 z2 E,2 z2 E,2 z6 | %46
+ z2 B,,2 A,,4 z2 A,,2 G,,4 | A,,2 z2 B,,2 z2 C,4 z4 | z8 z B,=A,_A, G,4 | %49
+ A,2 z2 B,2 z2 E,4 z2 B,2 | E4 z2 B,,2 E,4 z4 | C,,4 D,,4 E,, z E, z4 z | %52
+ B,,2B,,2 B,,2B,,2 E,2 z6 |] %53
+
+X:4
+T:String Quartet KV. 458 (nr. 17) "Hunt" (4)
+C:W. A. Mozart (1756-1791)
+%%score ( 1 2 )
+L:1/8
+Q:1/4=140
+M:2/4
+I:linebreak $
+K:Bb
+V:1 bass nm="Violoncello" snm="Vc"
+V:2 bass 
+V:1
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | A,A, B,B, | DC A, z | z4 | z4 | E,E, F,F, | %15
+ B,,2 z B, | C/ z/ C/ z/ F,/ z/ F,/ z/ | D,2 z B, | C/ z/ C/ z/ F,/ z/ F,/ z/ | D,2 z B, | %20
+ C/ z/ C/ z/ F,/ z/ F,/ z/ | D,3 D,/ z/ | E,/ z/ F,/ z/ G,/ z/ =E,/ z/ | F,2 z2 | z4 | F,D, B,, z | %26
+ z4 | F,D, B, z | z4 | _G,3 =G, | _G,=G, _G,A, | =G,2 z F, | =E,F, E,G, | F,2 z2 | z4 | z4 | z4 | %37
+ z4 | z4 | z4 | z4 | z4 | z4 | z3 G,/ z/ | C/ z/ G,/ z/ C/ z/ G,/ z/ | C2 z2 | z4 | F,3 A, | %48
+ =E,/ z/ E,/ z/ E,/ z/ _G,/ z/ | A,=G, G,/ z3/2 | z4 | G,3 B, | F,/ z/ F,/ z/ F,/ z/ G,/ z/ | %53
+ B,A, A,/ z3/2 | z4 | z4 | z2 D,2 | G,,2 z2 | z2 C,2 | F,,2 z2 | z4 | z2 B,2 | C2 C,2 | F,2 F,,2 | %64
+ G,,2 A,,2 | B,,2 G,,2 | A,,2 B,,2 | C,2 A,,2 | B,,2 C,2 | D,D, D,D, | D,D, D,D, | =E,E, E,E, | %72
+ F,F, F,F, | B,,B,, B,,B,, | C,C, _D,D, | =D,2 z2 | z G, G,G, | C,2 z C, | D,2 z A,, | %79
+ B,,B,,/ z/ C,/ z/ C,/ z/ | F,,2 z2 | F,2 C,2 | G,2 C,2 | A,F, B,G, | C2 B,2 | A,4 | =E,4 | %87
+ F,2 B,,2 | C,2 z2 | F,2 C,2 | G,2 C,2 | A,F, B,G, | C2 B,2 | A,4 | B,2 D2 | C2 C,2 | F,2 z F, | %97
+ G,G,/ z/ C,/ z/ C,/ z/ | A,,2 z F, | G,G,/ z/ C,/ z/ C,/ z/ | A,,2 z F, | G,G,/ z/ C,/ z/ C,/ z/ | %102
+ A,,2 B,,2 | C,4 | F,3 z | z3 C, | F,=E, D,C, | C,3 C, | F,=E, D,C, | C,3 B,, | A,,2 B,,2 | %111
+ C,C B,,B, | A,,A, A,A, | B,,B, B,B, | C,C CC | _D,_D DD | =D,D DD | =B,,=B, B,B, | C,C CC | %119
+ C,,C, C,C, | F,,2 z2 | z4 | C,2 D,2 | B,,B,, C,C, | D,2 z2 | z2 B,,2 | A,,2 z D, | B,,B,, C,C, | %128
+ F,2 z2 | z4 | z3 C,/ z/ | F,/ z/ C,/ z/ F,/ z/ C,/ z/ | F,2 z2 | F,2 G,2 | F,/ z/ D,/C,/ F, z | %135
+ z4 | z3 _A, | G,/ z/ _A,/ z/ G,/ z/ A,/ z/ | G,2 z2 | z4 | z4 | z4 | z4 | F,2 =E, z | z4 | %145
+ _A,2 G, z | z4 | C2 B, z | z4 | z4 | z4 | z4 | G,2 A,2 | G,/ z/ =E,/D,/ G,G, | =E,2 F,2 | %155
+ _E,/ z/ C,/B,,/ E,E, | C,2 D,2 | C,/ z/ A,,/G,,/ C,C, | _B,,/ z/ G,,/F,,/ B,,B,, | %159
+ A,,/ z/ F,,/=E,,/ A,,A,, | D,, z _G, z | =G, z E, z | D,D, D,D, | D,D, D,D, | D,D, DD | DD DD | %166
+ D4- | D4- | DD DD | CC CC | CC B,B, | B,B, _A,A, | _A,A, G,G, | G,G, F,F, | F,F, E, z | z4 | %176
+ E,E, D, z | z B, DB, | B,/ z/ G,/F,/ B, z | B,/ z/ G,/F,/ B, z | B,/ z/ G,/F,/ B,B, | A,B, A,G, | %182
+ F,F, F,F, | F,F, F,F, | F,F, F,F, | F,F, F,F, | F,F, F,F, | F,,F,, F,,F,, | F,,F,, F,,F,, | %189
+ F,,F,, F,,F,, | F,,=E, F,2 | z4 | z _G, F,2 | z4 | z B, A,B, | A,_G, F,G, | F,2 z2 | z4 | z4 | %199
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | A,A, B,B, | DC A, z | z4 | z4 | E,E, F,F, | %213
+ B,,2 z B, | C/ z/ C/ z/ F,/ z/ F,/ z/ | D,2 z B, | C/ z/ C/ z/ F,/ z/ F,/ z/ | D,2 z B, | %218
+ C/ z/ C/ z/ F,/ z/ F,/ z/ | D,3 D, | E,/ z/ F,/ z/ G,/ z/ =E,/ z/ | F,2 z2 | z4 | F,D, B,, z | %224
+ z4 | F,D, B, z | z4 | =B,3 C | =B,C B,G, | _B,4 | A,B, A,F, | _A,4 | _G,2 F,2 | E,4 | =E,4 | %235
+ F,2 z2 | z4 | z3 C/ z/ | F,/ z/ C/ z/ F,/ z/ C/ z/ | F,2 z2 | z4 | B,3 D | %242
+ A,/ z/ A,/ z/ A,/ z/ =B,/ z/ | DC C/ z3/2 | z4 | C3 E | B,/ z/ B,/ z/ B,/ z/ C/ z/ | ED D/ z3/2 | %248
+ z4 | z4 | z2 G,2 | C,2 z2 | z2 F,2 | B,,2 z2 | z4 | z2 E,2 | F,2 F,,2 | B,,2 B,,2 | C,2 D,2 | %259
+ E,2 C,2 | D,2 E,2 | F,2 D,2 | E,2 F,2 | G,G, G,G, | G,G, G,G, | A,A, A,A, | B,B, B,B, | %267
+ E,E, E,E, | F,F, _G,G, | =G,2 z2 | z C, C,C, | F,2 z F, | G,2 z D, | E,E,/ z/ F,/ z/ F,/ z/ | %274
+ B,,2 z2 | B,2 F,2 | C2 F,2 | DB, EC | F2 E2 | D4 | A,4 | B,2 E,2 | F,2 z2 | B,,2 F,,2 | C,2 F,,2 | %285
+ D,B,, E,C, | F,2 E,2 | D,4 | E,2 G,2 | F,2 F,,2 | B,,2 z B,, | C,C,/ z/ F,,/ z/ F,,/ z/ | %292
+ D,,2 z B,, | C,C,/ z/ F,,/ z/ F,,/ z/ | D,,2 z B,, | C,C,/ z/ F,,/ z/ F,,/ z/ | D,,2 E,,2 | F,,4 | %298
+ B,,3 z | z3 A,, | B,,F,,/ z/ B,,/ z/ D,/ z/ | E,2 z A,, | B,,F,,/ z/ B,,/ z/ D,/ z/ | E,2 z A,, | %304
+ B,,3 =B,, | C,3 C, | D,D, D,D, | _A,,A,, A,,A,, | G,,G,, G,,G,, | =E,,E,, E,,E,, | F,,F,, F,,F,, | %311
+ _G,,G,, G,,G,, | =G,,G, G,G, | F,F, F,F, | E,E, E,E, | =E,E, E,E, | F,F, F,F, | F,F, F,F, | %318
+ B,,2 z2 | z4 | F,2 G,2 | E,/ z/ E,/ z/ F,/ z/ F,/ z/ | G,2 z2 | z2 E2 | D2 z G, | %325
+ E,/ z/ E,/ z/ F,/ z/ F,/ z/ | B,2 z2 | z4 | z A, B,2- | B,4- | B,A,, B,,2- | B,,4- | %332
+ B,,2 z F,,/ z/ | B,,/ z/ F,,/ z/ B,,/ z/ F,,/ z/ | B,,2 z2 |] %335
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %57
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %76
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %95
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %114
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %133
+ x4 | =E, z3 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %152
+ x4 | _G, z3 | x4 | D, z3 | x4 | =B,, z3 | A,, z3 | G,, z3 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %167
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | A, z3 | A, z3 | A, z3 | x4 | x4 | x4 | x4 | %185
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %204
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %223
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %242
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %261
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %280
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %299
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %318
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %335

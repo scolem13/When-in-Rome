@@ -1,0 +1,70 @@
+% Wachet auf, ruft uns die Stimme: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=601
+% Licence: Creative Commons Attribution-ShareAlike 2.5. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Wachet auf, ruft uns die Stimme
+C:J.S. Bach
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Eb
+V:1 bass nm="pedal"
+V:2 treble nm="upper"
+L:1/16
+V:3 treble 
+V:4 bass nm="lower"
+V:5 bass 
+V:1
+ x | E,,2 E,,2 E,,2 G,,-G,, | A,,2 B,,2 E,,2 x2 | E,,2 E,,2 E,,2 G,,-G,, | A,,2 B,,2 E,,2 x2 | %5
+ G,,2 C,2 B,,2 A,,-A,, | G,,2 E,,2 B,,2 D,-D, | E,2 D,2 C,2 E,-E, | F,2 G,2 =A,2 F,-F, | %9
+ B,2 =A,2 G,2 F,-F, | E,2 D,2 C,2 E,-E, | D,B,, F,F,, G,,=A,, B,,D,, | E,,C,, F,,2 B,,C, B,,_A,, | %13
+ G,,F,, E,,D,, C,,2 C,-C, | G,,2 B,,2 E,,2 G,,-G,, | A,,2 A,2 D,2 E,-E, | C,2 D,2 E,2 D,-D, | %17
+ C,2 G,,2 C,D, E,-E, | E,D, G,,=A,, B,,D,, E,,F,, | B,,=A,, B,,C, D,B,, E,-E, | %20
+ B,,2 _A,,2 G,,2 E,,-E,, | A,,B,, C,2 F,,2 B,,A,, | G,,2 E,2 D,2 E,-E, | A,,B,, C,2 F,,2 B,,A,, | %24
+ G,,2 C,2 B,,2 A,,-A,, | G,,2 E,,2 B,,2 D,-D, | E,2 D,2 C,2 E,-E, | F,2 G,2 =A,2 F,-F, | %28
+ B,2 =A,2 G,2 F,-F, | E,2 D,2 C,2 E,-E, | D,B,, F,F,, G,,=A,, B,,D,, | E,,C,, F,,2 B,,C, B,,_A,, | %32
+ G,,F,, E,,D,, E,,G,, A,,B,, | C,D, E,2 B,,2 A,,-A,, | G,,2 E,,2 B,,C, D,B,, | %35
+ E,D, C,=B,, C,G, C_B, | A,2 E,2 F,2 G,-G, | A,G, F,=E, F,_E, D,C, | =B,,G,, G,F, E,2 C,-C, | %39
+ G,2 =B,2 C2 _B,-B, | =A,2 C,2 D,2 E,-E, | _G,,2 D,,2 =G,,2 F,,-F,, | E,2 D,2 C,2 B,,-B,, | %43
+ =A,,2 C,2 B,,G,, D,D,, | G,,E,, F,,G,, _A,,G,, A,,B,, | C,B,, C,D, E,2 C,-C, | %46
+ A,,2 B,,2 C,B,, C,D, | E,D, E,F, G,F, G,A, | D,B,, B,A, G,2 E,-E, | B,A, G,2 A,2 G,-G, | %50
+ F,2 E,2 F,2 B,,-B,, | C,2 A,,2 B,,2 G,,-G,, | A,,G,, F,,E,, D,,2 F,,-F,, | %53
+ B,,C, B,,A,, G,,C, A,,B,, | C,D, E,G, A,F, B,B,, | E,7- E, |] %56
+V:2
+ x14 B,2 | EFG2 G2F2 A2G2 B,2A,2 | GEF z A,2G,2 D2E2 z2 B,2 | EFG2 G2F2 A2G2 B,2A,2 | %4
+ GEF z A,2G,2 D2E2 z2 B2 | B4 AGFE FEDC B,2CD | EFGF AGFE G2F2 z2 B,2 | %7
+ G2 =A4 (3:2:1B2F (3:2:1z DE2 z2 C2 | =A2 B4 (3:2:1c2F (3:2:1z DE2 z2 e2 | dcB2 B=A2<B2 AGF EDCB, | %10
+ CD(3:2:1E2F (3:2:1z D2<E2 =ABc BAGF | B2F2 D2CB, B,EDC D2(3:2:2B,2=A,- | %12
+ (3:2:2A,/ z z2 =A, A,2>[G,A,]2 B,4 z2 B,2 | EFG2 G2F2 _A2G2 B,2_A,2 | GEF z A,2G,2 D2E2 z2 B,2 | %15
+ EFG2 G2F2 A2G2 B,2A,2 | GEF z A,2G,2 D2E2 z2 F2 | G2 =A4 (3:2:1B2F (3:2:1z DE2 z2 E2 | %18
+ =A2 B4 (3:2:1c2G (3:2:1z EF2 z4 | z6 B2 B4 _AGFE | FEDC B,2CD EFGF AGFE | G2F2 z8 z2 B,2 | %22
+ EFG2 G2F2 A2G2 B,2A,2 | G2F2 z8 z2 B2 | B4 AGFE FEDC B,2CD | EFGF AGFE G2F2 z2 B,2 | %26
+ G2 =A4 (3:2:1B2F (3:2:1z DE2 z2 C2 | =A2 B4 (3:2:1c2F (3:2:1z DE2 z2 e2 | dcB2 B=A2<B2 AGF EDCB, | %29
+ CD(3:2:1E2F (3:2:1z D2<E2 =ABc BAGF | B2F2 D2CB, B,EDC D2(3:2:2B,2=A,- | %31
+ (3:2:2A,/ z z2 =A, A,2>[G,A,]2 B,4 z2 D2 | E2 F4 G2 B,_A,B,2 z2 B2 | B4 AGFE FEDC B,2CD | %34
+ EFGF AGFE G2F2 z4 | z6 G2 cde2 e2d2 | f2e2 G2F2 ecd z F2E2 | =B2c2 z2 G2 G4 FEDC | %38
+ DC=B,=A, G,2A,B, CDED FEDC | E2D2 z2 G,2 E2 _G4 (3:2:2=G2D- | %40
+ (3:2:2D/ z B,C2 z2 =A,2 _G2 =G4 (3:2:2=A2D- | (3:2:2D/ z B,C2 z2 c2 B=A2<G2 _G=G2- | %42
+ GFED CB,=A,G, A,B,2<C2 B,C2- | C_G=G=A G_G=ED =G2D2 B,2=A,G, | G,4 z8 z2 B,2 | %45
+ EFG2 G2F2 A2G2 B,2A,2 | GEF z A,2G,2 D2E2 z4 | z6 B2 B4 AGFE | FEDC B,2CD EFGF AGFE | %49
+ G2F2 z2 E2 c2 d4 e2 | AGA2 z2 c2 d2 e4 (3:2:2f2B- | (3:2:2B/ z GA2 z2 F2 GF2<E2 DE2- | %52
+ E_dcB AGFE FG2<A2 GA2- | A=DEF EDCB, B2E2 GFED | EAGF G2(3:2:1E2D (3:2:1z4 D D2-DE | E14- E2 |] %56
+V:3
+ x x7 | z8 | z8 | z8 | z8 | z8 | z8 | z4 E/ z7/2 | z4 E/ z7/2 | z8 | z2 E/ z4 z3/2 | z8 | %12
+ G,3/2 z4 z2 z/ | z8 | z8 | z8 | z8 | z4 E/ z7/2 | z4 F/ z7/2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %26
+ z4 E/ z7/2 | z4 E/ z7/2 | z8 | z2 E/ z4 z3/2 | z8 | G,3/2 z4 z2 z/ | z8 | z8 | z8 | z8 | z8 | z8 | %38
+ z8 | z8 | C/ z15/2 | C/ z15/2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | A/ z15/2 | z8 | z8 | %54
+ z4 C3/2 z2 z/ | z8 |] %56
+V:4
+ x | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 E,2 G,-G, | B,2 B,2 B,2 B,-B, | %15
+ C4 B,3- B, | z6 B,-B, | E2 B,2 EF G-G | F3 E D2 C-C/[B,C]/ | B,4 z4 | z2 B,2 E2 B,-B, | %21
+ C2 G,>[A,B,] A,G, F,-F, | E,4 z4 | C2 G,>[A,B,] A,G, F,-F, | E,4 z4 | z8 | z8 | z8 | z8 | z8 | %30
+ z8 | z6 B,-B, | B,2 A,2 G,2 F,-F, | E,4 z4 | z2 B,2 B,2 A,-A, | G,2 F,2 E,3- E, | z8 | %37
+ F,2 G,2 A,3- A, | G,4 z4 | z8 | z8 | z8 | z8 | z8 | z2 B,2 C2 D-D | E4 z4 | z6 EF | G2 F2 E3- E | %48
+ z8 | z2 B,2 E2 B,-B, | C2 G,2 A,G, F,-F, | E,7- E, |] %52
+V:5
+ x | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %20
+ (12:11:1z4 B,/ (24:23:1z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %35
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %52

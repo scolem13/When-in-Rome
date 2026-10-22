@@ -1,0 +1,87 @@
+X:1
+T:Trauer und Trost, Op.3
+T:Trauer
+C:Peter Cornelius
+Z:Peter Cornelius
+Z:OpenScore (CC0)
+Z:
+%%score 1 { ( 2 4 6 ) | ( 3 5 ) }
+L:1/8
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+L:1/4
+V:6 treble 
+L:1/4
+V:3 bass 
+V:5 bass 
+V:1
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 |"^Gesang.\nVoice.\n" z4 | z2 B2 | B3 A | (G3 c) | c2 z2 | %12
+w: ||||||||Ich|wand- le|ein- *|sam,|
+w: ||||||||I|wan- der|lone- *|ly,|
+ z2 c2 | c3 A | ^G3 z | z4 | z B ^A F | B2 ^A A | B3 G | =F3 z | z4 | z4 | z4 | z4 | z2 B2 | B3 A | %26
+w: Mein|Weg ist|lang;||zum Him- mel|schau' ich Hin-|auf so|bang.|||||Kein|Stern von|
+w: My|way is|long;||I gaze a-|bove me Where|storm- clouds|throng.|||||No|stars look|
+ (G3 c) | c2 z2 | z2 c2 | c3 A | ^G4 | z4 | B2 ^A F | B2 ^A z | B2 =G G | =F3 z | z4 | z4 | z4 | %39
+w: O- *|ben|Blickt|nie- der-|wärts,||Glanz- los der|Him- mel,|Dun- kel mein|Herz.||||
+w: down- *|ward|Up|on me|here,||Dark is my|spi- rit,|Hea- ven is|drear.||||
+ z2 z"^Nach und immer bewegter und stärker""^Poco a poco sempre più moto e più forte" B | c2 c c | %41
+w: Mein|Herz und der|
+w: And|like to my|
+ c2 A2 | z A B c | d4- | d3!f! _B | _e4 | _c2 _A2 | (=e3 ^c) | =A2 z2 | z2 c2 | A4- | A2 B2 | G4- | %53
+w: Him- mel|Hat glei- che|Not,|_ Sein|Glanz|ist er-|lo- *|schen,|Mein|Lieb|_ ist|tot.|
+w: spi- rit,|The skies a-|bove,|_ Their|bril-|liance has|fa- *|ded,|And|dead,|_ my|Love.|
+ G4- | G4- | G2 z2 | z4 | z4 | !fermata!z4 |] %59
+w: _||||||
+w: _||||||
+V:2
+!p!"^Nicht zu langsam.""^Andante me non troppo." ([G,B,]2 [B,E])[B,E] | (D>B, D2) | %2
+ ([A,C]2 [G,CG])[G,CG] | (=F>D F2) | (_E>C E2) |!<(! (_E>C E2)!<)! |!>(! (=E2 D)C!>)! | B,2 B,2 | %8
+ (B,2 E)E | (D>B,) D2 | (D2 [G,CG])[G,CG] | (=F>D F2) | ([CE]>[A,C] [CE]2) |"_cresc." (F>^D F2) | %14
+ (^G>E G2-) | G>E ^G2- |!p! (G2 F)^D | ^G^D/>^E/ F2 |!<(! (F2 =G)E!<)! | (c>A ^F2) |!mf! (B2 A)G | %21
+ (G2 F)E |[K:bass] (DC) (G,C) | B,4 |[K:treble]!p! ([G,B,]2 [B,E])[B,E] | (D>B, D2) | %26
+ ([G,D]2 [G,CG])[G,CG] | (=F>D F2) | ([CE]>[A,C] [CE]2) |"_cresc." (F>^D F2) | (^G>E G2-) | %31
+!>(! G>E ^G2-!>)! | (G2 F)^D | ^G^D/>^E/ F2 |"_cresc." (F2 =G)E | (c>A ^F2) |!>(! ([=Fc=f]3 c!>)! | %37
+ AG=F>C | =F4) |!p! BBBB | BBAA | AAAA | AAAA | AAGG | [DG][DG][D=F][DF] | %45
+!f! [G,_B,=F][G,B,F][G,B,_E][G,B,E] | [_B,_C_E][B,CE][_A,CE][A,CE] | %47
+ [=E,^G,^C=E][E,G,CE][E,G,CE][E,G,CE] |!>(! [^F,A,^CE][F,A,CE][F,A,CE][F,A,CE]!>)! | %49
+ [F,A,=CE][F,A,CE][F,A,CE][F,A,CE] | [F,A,CE][F,A,CE][F,A,CE][F,A,CE] | %51
+ [F,A,B,^D][F,A,B,D][F,A,B,D][F,A,B,D] |!<(! [G,B,^D][G,B,D][G,CE][G,CE] | %53
+ [G,C=F]!<)![G,CF][G,B,F][G,B,F] | [G,B,D=F][G,B,DF][G,CE][G,CE] | %55
+!>(! [G,CE][G,CE][G,CE][G,CE]!>)! |!p! [G,B,E]2 z2 |[K:bass] (C2- C>B,) | !fermata![E,G,B,]4 |] %59
+V:3
+ (E,2 [G,,E,])[G,,E,] | [B,,=F,]2 [B,,F,]2 | (E,2 _E,)E, | _A,2 G,2 | G,2 G,2 | G,2 F,2 | %6
+ G,2 E,E, | E,2 ^D,2 | E,2 E,E, | =F,2 F,2 | =F,2 x2 | _A,2 A,2 | =A,2 A,2 | [E,,E,]2 [E,,E,]2 | %14
+ [E,,E,]2 ([E,,E,]2 | E,2) (^C,2 | ([^G,,^G,]2) [^D,F,])[D,F,] | [^G,,^G,]2 [^D,F,]2 | %18
+ ([^D,=A,]2 [E,=G,])[E,G,] | [A,,=F,A,]4 | (G,2 F,)E, | [B,,,B,,]4 | [B,,,B,,]2 [B,,,B,,]2 | %23
+ [B,,,B,,]4 | ([E,,E,]2 [G,,E,])[G,,E,] | [B,,=F,]2 [B,,F,]2 | ([B,,=F,]2 _E,)E, | %27
+ [D,_A,]2 [D,A,]2 | [E,=A,]2 [E,A,]2 | [E,,E,]2 [E,,E,]2 | [E,,E,]2 [E,,E,]2- | [E,,E,]2 ^C,2 | %32
+ (([^G,,^G,]2 [^D,F,]))[D,F,] | [^G,,^G,]2 [^D,F,]2 | (([^D,=A,]2 [E,G,]))[E,G,] | [A,,=F,A,]4 | %36
+ [A,,=F,A,]4- | [A,,=F,A,]4- | [A,,F,A,]4 | G,G,G,G, | G,G,G,G, | G,G,G,G, | G,G,F,F, | F,F,G,G, | %44
+ [_B,,_B,][B,,B,][B,,B,][B,,B,] | [_E,,_E,][E,,E,][E,,E,][E,,E,] | [_A,,_E,][A,,E,][A,,E,][A,,E,] | %47
+ [^C,,^C,][C,,C,][C,,C,][C,,C,] | [^F,,^C,][F,,C,][F,,C,][F,,C,] | [F,,=C,][F,,C,][F,,C,][F,,C,] | %50
+ [B,,,C,][B,,,C,][B,,,C,][B,,,C,] | [B,,,B,,][B,,,B,,][B,,,B,,][B,,,B,,] | %52
+ [G,,B,,][G,,B,,][G,,C,][G,,C,] | [G,,D,][G,,D,][G,,D,][G,,D,] | [C,,C,][C,,C,][C,,C,][C,,C,] | %55
+ [A,,,A,,][A,,,A,,][^A,,,^A,,][A,,,A,,] | [B,,,B,,]2 z2 | [B,,,B,,]4 | !fermata![E,,B,,]4 |] %59
+V:4
+ x2 | A, A, | x2 | C B, | C C | C C | =B, A,/A,/ | G, F, | G, B,/B,/ | A, A, | G, x | C C | x2 | %13
+ [A,C] [A,C] | [^G,B,] [G,B,]- | [G,B,] ([^G,^CE] | [B,^D]) [^A,D]/A,/ | B, ^A, | B, B,/B,/ | C2 | %20
+ [B,E] [CE]/[B,E]/ | [A,C]2 |[K:bass] [E,G,] E, | [^D,F,]2 |[K:treble] x2 | A, A, | x2 | C C | x2 | %29
+ [A,C] [A,C] | [^G,B,] [G,B,]- | [G,B,] [^G,^CE] | [B,^D] [^A,D]/A,/ | B, ^A, | B, B,/B,/ | C2 | %36
+ x2 | x2 | x2 | [B,E]/[B,E]/[B,E]/[B,E]/ | [CE]/[CE]/[CE]/[CE]/ | [CE]/[CE]/[C_E]/[CE]/ | %42
+ [C_E]/[CE]/[CE]/[CE]/ | D/D/D/D/ | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %56
+ x2 |[K:bass] [^D,F,A,]2 | x2 |] %59
+V:5
+ x4 | x4 | x4 | D,2 D,2 | (C,2 _B,,2) | A,,2- A,,2 | (G,,2 A,,)A,, | B,,2 B,,2 | (E,,2 G,,)G,, | %9
+ B,,2 B,,2 | (B,,2 _E,)E, | D,2 D,2 | E,2 E,2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | (B,,2 B,,)B,, | %21
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %39
+ B,,B,,B,,B,, | A,,A,,A,,A,, | D,D,D,D, | C,C,C,C, | B,,B,,B,,B,, | x4 | x4 | x4 | x4 | x4 | x4 | %50
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %59
+V:6
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %19
+ =F x | x2 | x2 |[K:bass] x2 | x2 |[K:treble] x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %34
+ x2 | =F x | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %53
+ x2 | x2 | x2 | x2 |[K:bass] x2 | x2 |] %59

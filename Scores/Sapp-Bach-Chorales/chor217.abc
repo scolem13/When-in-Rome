@@ -1,0 +1,26 @@
+X:1
+T:Ach Gott, wie manches Herzeleid
+T:Ach Gott, wie manches Herzeleid
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ c c c | A B c | d c B | !fermata!A3 | A B c | d2 c | B A2 | !fermata!G3 | e e e | c d e | f e2 | %11
+ !fermata!d3 | c d e | d2 c | c B2 | !fermata!c3 || %16
+V:2
+ E G G | F G G | A2 G | !fermata!^F3 | ^F G G | G2 G | G G ^F | !fermata!G3 | G E ^G | A B ^c | %10
+ d =c2 | !fermata!G3 | G B c | c B E | A G2 | !fermata!G3 || %16
+V:3
+ G c e | c d e | d2 d | !fermata!d3 | d d e | d2 e | d d3/2 c/ | !fermata!B3 | c B e | e f =g | %10
+ f g c | !fermata!B3 | c F G | A B c | d d2 | !fermata!e3 || %16
+V:4
+ C, E, C, | F,2 E, | ^F,2 G, | !fermata!D,3 | D, G, E, | B,,2 C, | G, D,2 | !fermata!G,,3 | %8
+ C ^G, E, | A,2 A,, | D, E, F, | !fermata!G,3 | E, D, C, | F, G, A, | ^F, G, G,, | !fermata!C,3 || %16

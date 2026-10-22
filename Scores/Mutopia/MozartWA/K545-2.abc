@@ -1,0 +1,51 @@
+% Sonata Facile - Second movement: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1007
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonata Facile - Second movement
+C:W. A. Mozart
+%%score 1 2
+L:1/16
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:G
+V:1 treble 
+V:2 bass 
+V:1
+ B8 dcBc | d2>B2 G2 z6 | g6 ag fed^c | d2>B2 G2 z6 | c2>A2 F2A2 B2c2 | d2>B2 g4 z4 | %6
+ agfg fe^de =dcBc | B2>[cB]2 A2d2 ^c2=c2 | B4- B GBd cAce | d2>B2 GGAB cdef | gfgf agfg fed^c | %11
+ dBdB G2 z6 | cAcA FA^GA ^ABc^c | dBdB =g2 z3 bfg | ^decA G2>G2 BAGA | [AF]4 G4 z4 | %16
+ d4- d ^ced gfed | ^c2>d2 e4 z4 | e4- e ^dfe agfe | =d2>e2 f4 z4 | f4- f ege bagf | %21
+ e4- e ^dfe agfe | e=dd2 dAdf [fc]ede | [e^c]4 d^ded fe=d=c | B4- B GBd cAce | d2>B2 GGAB cdef | %26
+ gfgf agfg fed^c | dBdB G2 z6 | cAcA FA^GA ^ABc^c | dBdB =g2 z3 bfg | ^decA G2>G2 BAGA | %31
+ [AF]4 G4 z4 | ^A4- A =Ac^A A=AGF | G2>^A2 d2 z6 | d4- d ^c^d=d d=c^A=A | ^A2>d2 g2 z6 | %36
+ =f4- f =ac'^a =agf^d | =d4- d g^a=a g=f^d=d | Bc^dg ^A2>A2 =dcAc | [c=A]4 ^A=Ac^A dc^d=d | %40
+ =f4- f ^g=gf ^d=dcB | c2>^d2 g4 z4 | g4- g fag ^a^cac | ^c4 d4 z4 | ^d4- d =caf c'a^d'f | %45
+ =d'4- d' a^af g^cd^A | ^A=A=c^d G2>G2 ^A=AGA | [FA]4 GFG^G AGA^A | B8 dcBc | d2>B2 G2 z6 | %50
+ g6 ag fed^c | d2>B2 G2 z6 | c2>A2 F2A2 B2c2 | d2>B2 g4 z4 | agfg fe^de =dcBc | %55
+ B2>[cB]2 A2d2 ^c2=c2 | B4- B GBd cAce | d2>B2 GGAB cdef | gfgf agfg fed^c | dBdB G2 z6 | %60
+ cAcA FA^GA ^ABc^c | dBdB =g2 z3 bfg | ^decA G2>G2 BAGA | GFAG BAcB =dced | =f6 ga gfed | %65
+ ^d4 e4 z g^fe | =dBAe G2>G2 [FB]AGA | GFAG BAcB dced | =f6 ga gfed | e2 z2 ^f2 z2 g2 z2 | %70
+ G6 [AG][FG] [FB]2A2 | GDBB BGdd dBAB | GDBB BGdd dBAB | G2 z2 [GB,]2 z6 |] %74
+V:2
+ G,DB,D G,DB,D A,DCD | G,DB,D G,DB,D G,DB,D | G,ECE G,ECE G,^C^A,C | G,DB,D G,DB,D G,DB,D | %4
+ A,DCD A,DCD A,DCD | G,DB,D E,B,G,B, B,,G,D,G, | [C,E,]4 G,4 E,4 | [D,G,]4 F,4 z4 | %8
+ G,DB,D G,DB,D G,DB,D | G,DB,D G,DB,D G,DB,D | G,ECE G,ECE G,^C^A,C | G,DB,D G,DB,D G,DB,D | %12
+ A,DCD A,DCD A,DCD | G,DB,D E,B,G,B, B,,G,D,G, | C,A,E,A, D,B,G,B, D,CA,C | [CG,]4 B,4 z4 | %16
+ DAFA DAFA DAFA | EAGA EAGA EAGA | ^CAGA CAGA CAGA | DAFA ^CADA B,GDG | A,FDF G,E^CE F,DA,D | %21
+ B,GEG A,F^DF G,EB,E | A,F=DF A,FDF A,GDG | [DG]4 F4 z4 | G,DB,D G,DB,D A,DCD | %25
+ G,DB,D G,DB,D G,DB,D | G,ECE G,ECE G,^C^A,C | G,DB,D G,DB,D G,DB,D | A,DCD A,DCD A,DCD | %29
+ G,DB,D E,B,G,B, B,,G,D,G, | C,A,E,A, D,B,G,B, D,CA,C | [CG,]4 B,4 z4 | G,D^A,D G,DA,D G,^DA,D | %33
+ G,=D^A,D G,DA,D G,DA,D | F,D=A,D F,DA,D F,DA,D | G,D^A,D G,DA,D G,^DA,D | =A,=FCF A,FCF A,FCF | %37
+ ^A,=FDF G,DA,D D,A,=F,A, | ^D,CG,C =F,=D^A,D F,^D=A,D | [^D^A,]4 =D4 z4 | %40
+ ^G,=FCF =G,DB,D =F,DG,D | ^D,CG,C =D,B,=F,B, C,C^D,C | ^C,^A,E,B, =D,B,G,B, ^D,B,G,B, | %43
+ =D,^A,G,A, D,=A,F,A, D,A,F,A, | C,A,F,A, C,A,F,A, C,A,F,A, | ^A,,G,D,G, A,,G,D,G, A,,G,D,G, | %46
+ C,=A,^D,A, =D,A,G,A, D,CF,C | [G,C]4 ^A,4 z4 | G,DB,D G,DB,D =A,DCD | G,DB,D G,DB,D G,DB,D | %50
+ G,ECE G,ECE G,^C^A,C | G,DB,D G,DB,D G,DB,D | A,DCD A,DCD A,DCD | G,DB,D E,B,G,B, B,,G,D,G, | %54
+ [C,E,]4 G,4 E,4 | [D,G,]4 F,4 z4 | G,DB,D G,DB,D G,DB,D | G,DB,D G,DB,D G,DB,D | %58
+ G,ECE G,ECE G,^C^A,C | G,DB,D G,DB,D G,DB,D | A,DCD A,DCD A,DCD | G,DB,D E,B,G,B, B,,G,D,G, | %62
+ C,A,E,A, D,B,G,B, D,CA,C | [B,G,]4 z8 | A,=FCF A,FCF B,GDG | CGEG CGEG CGEG | %66
+ B,DCE D,B,G,B, D,CA,C | [G,B,]4 z8 | A,,=F,C,F, B,,G,D,G, G,,G,B,,G, | %69
+ C,G,E,G, C,G,^D,G, ^C,^A,E,A, | =D,B,G,B, D,B,G,B, D,=C=A,C | [G,B,]4 z6 [CD,]2 | %72
+ [G,B,]4 z6 [CD,]2 | [G,B,]2 z2 G,,2 z6 |] %74

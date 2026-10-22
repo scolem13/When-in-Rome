@@ -1,0 +1,60 @@
+X:1
+T:3 Lieder, Opp.122-124
+T:Ihr Gärtchen, Op.124
+C:Luise Greger
+Z:Frieda Jung
+Z:OpenScore (﻿CC0)
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+L:1/4
+V:2 treble 
+L:1/4
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+V:1
+"^Fröhlich, zierlich" z |: z4 | z2 z A | B3/2 A/ G d | c3/2 B/ A A | F3/2 G/ A f | e3/2 d/ c _e | %7
+w: ||Und|ist ihr Gärt- chen|noch so klein, Platz|hat da- rin der|Son- nen- schein und|
+w: ||Und|ist ihr Gärt- chen|noch so klein, es|zwit- schern doch die|Vö- ge- lein drin|
+w: ||Und|ist ihr Gärt- chen|noch so klein, der|Hans, er fin- det|doch hin- ein zu|
+ d c B d | c2 A A | G3/2 A/ =B [Be] | d2 !fermata!c C | D3/2 F/ E A | F3/2 c/ A F | B3/2 _A/ G G | %14
+w: Platz der Mai- en-|re- gen und|Platz der Mai- en-|re- gen! Ein|Ro- sen- stock, ein|Li- lien- reis und|Tau- send schön- chen|
+w: ih- re Früh- lings-|lie- der, drin|ih- re Früh- lings-|lie- der! Auch|hat es reich- lich|Platz ge- nug für|Bie- nen und für|
+w: sei- ner treu- en|Lie- se, zu|sei- ner treu- en|Lie- se! Und|wenn sie ihm ent-|ge- gen fliegt meint|er, das klei- ne|
+ c3/2 B/ =A A | d3/2 c/ B d | c2 A c | f3/2 A/ G d ||1,2 c2 !fermata!F z :|3 c2 F z |] %20
+w: rot und weiss und|Veil- chen al- ler-|we- gen und|Veil- chen al- ler-|we- gen!||
+w: Fal- ter- flug, *|* * blau- en|Flie- der, *|* * blau- en|Flie- der!||
+w: Gärt- chen liegt *|* * Pa- ra-|die- se, *|* * Pa- ra-|   |die- se!|
+V:2
+ x |: x4 | x4 | x4 | x4 | x3 A | =B3/2 B/ c x | x4 | x4 | x4 | =B2 c x | x4 | x4 | x4 | x3 z | %15
+w: |||||||||||||||
+w: |||||||||||||||
+w: |||||||||||||||
+ d c/ c/ x2 | x3 z | f f/ A/ x2 ||1,2 x4 :|3 x4 |] %20
+w: |||||
+w: rings um den||rings um den|||
+w: mit- ten im||mit- ten im|||
+V:3
+!mp! .A,.B, |: (C.F) (D.G) (E.c) (B.c) | (A.f) (=B.g) (e.c)!p! ([FA]C) | ([FB]B,) .D.A (GD) (Fd) | %4
+ ([Ec]C) .F.[GB] ([FA]C) ([EA]G) |!<(! ([DF]A,) .F.G (AE) (Ff) | (e!<)!F) .G.d (cE) G_e | %7
+ (dD) .^F.c (BD) (Gd) | (cC) .F.[GB] ([FA]C)!<(! ([FA]D) | ([EG]G,) CA ([F=B]=B,) ([Fe]G)!<)! | %10
+!>(! d4!>)! !fermata![Ec]2 (CF,) |!<(! (DF,) .B,.F (EG,) ([EA]A,)!<)! | %12
+!<(! ([DF]A,) .[DF].[Cc] ([FA]C) ([FA]D)!<)! |!<(! ([DB]B,) .[CF].[D_A] ([_EG]B,) ([EG]B,)!<)! | %14
+!<(! ([=Ec]C) .F.[GB] ([F=A]C) (FA) | ([Ad]D) .^F.[Ac] ([GB]D) ([Bd]D)!<)! | c4 ([FA]C) ([Gc]C) | %17
+ ([Af]d)"_rit.".A.F .D.B, ([GB][Fd]) || ([Ec]g) .e.c !fermata![Fcf]2!mp! A,B, :| %19
+ ([Ec]g) .e.c [Fcf]4 |] %20
+V:4
+ .F,.G, |: A,2 B,2 C2 (D.E) | (F.A,) (D.G,) (C.C,) F,2 | D,2 .G,,.A,, B,,2 G,2 | %4
+ C,2 .D,.E, F,2 ^C,2 | D,2 .D,.E, F,2 DA, | G,2 .A,.=B, C2 z _B, | A,2 D,2 .G,.D, .B,,.G,, | %8
+ C,2 .D,.E, F,2 D,2 | G,,2 .E,._E, D,2 G,,G, | .C,.G, .A,.=B, !fermata!C2 z A,, | %11
+ B,,3 G,, C,2 ^C,2 | D,3 E, F,2 D,2 | B,,2 ._A,.F, _E,2 _D,2 | C,2 .D,.E, F,2 (A,F,) | %15
+ ^F,2 .D,.F, G,2 =F,2 | E,2 .D,.E, F,2 E,2 | D,2 C,2 B,,2 (A,,G,,) || %18
+ [C,_B,]2 .C.B, !arpeggio!!fermata![F,,C,A,]2 F,G, :| [C,B,]2 .C.B, [F,,C,A,]4 |] %20
+V:5
+ x2 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | (F.G) (F.G) x4 | x8 | x8 | x8 | x8 | x8 | %16
+ (GC) .F.G x4 | x8 || x8 :| x8 |] %20

@@ -1,0 +1,57 @@
+X:1
+T:Sonata da chiesa
+T:Allegro
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3 4
+L:1/8
+Q:1/4=138
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"m" z"C{" eee"m" ff fg/f/ |"m" ea ab/a/"" ^g"m"a"""" a>g |"m" a"C{"ecA"m" ee e^f/e/ |$ %3
+"" ^d"m"g g(a/g/)"" ^f"m"g"""" f->f |"m" e""eee"m" =ff f(g/f/) |"" e^GGG"m" AA"m" A(B/A/) |$ %6
+"" ^G"m"e e(f/e/)"m" dd"m" d(e/d/) |"m" cc"m" c"m"(B/A/)"" ^G"m"A"""" A>G |"m" A""fff"m" fe"m"ee |$ %9
+"m" eA"m"dd"" dG""cc |"m" cB"" BA/B/"""C{" c3 g |"" aa"" a(g/a/)"" bg z"" c' | %12
+"" a""g""f""e"m""m""""" d4 |$"" c"C{"e e(d/c/)"" dG"m" g2- |"m" gf"m" f(e/d/)"m" eA"m" a2- | %15
+"m" ag"m" g"m"(^f/e/)"" ^dB b2- |$"m" be"m""" a3"m" g"m" g"m"(^f/e/) | %17
+"" ^d"m"e"""" e>d"m" e"C{"bbb |"m" c'c' c'(=d'/c'/)"m" b"m"^ggg |$"m" aa a(b/a/)"" ^geee | %20
+"m" eA"m""" d3"m" c c(B/A/) |"m" B2"m""m" B3 E"m" A2- |$"" A2"m""m" G3 G"m"^FE | %23
+"" ^DB,"""m" E4"" D2 |"m" z"m" eee"" aa a""(g/a/) |"m" ff f(e/f/)"" ggg""f |$"" ee e(d/c/)"" Bcde | %27
+"m" cA"""m" f3 (e/d/)"m" e2- |"m" e(d/c/)"m" d2"" e"C{"^GGG |"m" AA"m"BB"" E2"m" e2 |$ %30
+"m""" d3 (c/B/)"m" c"C{"A"" f2- |"m" fd"""" g3 e"m" a2- |"" a^f"m""" b3 ^g"" c'2- | %33
+"" c'a"m" d'2"" z"C{" eee |$"m" eA"m""" d3"m" (e/d/) c(B/A/) |"m" BE"m""m" e3 A"m" d2- | %36
+"" d2"m" .c2"" .B2"m" .A2 |"" .^G2 z2 !fermata!z4 :| %38
+V:2
+ z8 | z8 | z AAA cc cd/c/ |$ Be e^f/e/ ^de e>d | e^ggg aa a(b/a/) | ^geee eAdd |$ dc c(d/c/) BBBB | %7
+ BE e(d/c/) Bc B>B | Accc BB B(c/B/) |$ Aaaa gg g(a/g/) | ff f(g/f/) eggg | gcff f(g/f/) eG | %12
+ ABcc c3 B |$ c2 z3 dde | A2 z3 eef | Bb b(a/g/) ^f3 (g/f/) |$ e3 ^f/e/ ^db b(a/g/) | %17
+ ^fg f>f e2 z2 | z4 z eee |$ ff f(g/f/) e^GGG | AA A(B/A/) ^Ge e(d/c/) | dd d(e/d/) c3 (d/c/) |$ %22
+ B3 B cB A2- | A2 G2 ^F4 | E2 z3 ^cde | A2 z3 B=cd |$ G2 z3 ^GAB | E3 c B3 (c/B/) | A3 a ^gEEE | %29
+ ^FF FE/F/ ^GE A2- |$ A2 ^G2 z ccc | dd d(c/B/) e3 e | ^ff f(e/f/) ^g3 g | aa a(^g/a/) b^GGG |$ %34
+ AA A(B/A/) ^GE z c | d2 z e A3 f | ^G2 .A2 .G2 .c2 | .B2 z2 !fermata!z4 :| %38
+V:3
+ z8 | z8 | z8 |$ z8 | z8 | z E,E,E, F,F, F,G,/F,/ |$ E,A,,A,A, A,2 ^G,2 | A,A,,C,D, E,D,E,E,, | %8
+ A,,A,A,A, G,G, G,A,/G,/ |$ F,F, F,G,/F,/ E,E, E,F,/E,/ | D,E,/F,/ G,G,, C,C,E,C, | %11
+ F,F,A,F, G,2 z E, | F,G,A,E, F,D,G,G,, |$ C,C CB,/A,/ B,B,B,^C | DD D=C/B,/ CCCD | %15
+ EEEA, B,B,B,B, |$ CC CD/C/ B,E,G,A, | B,A,B,B,, E,2 z2 | z8 |$ z4 z E,E,E, | %20
+ F,F, F,G,/F,/ E,A,,A,A, | A,2 ^G,2 A,A,CA, |$ EE,=G,E, A,,B,,C,A,, | B,,B,CG, A,^F,B,B,, | %24
+ E,EED ^CA,B,C | DD D=C/D/ B,G,A,B, |$ CC CB,/A,/ ^G,E,^F,G, | A,A, A,B,/A,/ =G,G, G,A,/G,/ | %28
+ F,F, F,G,/F,/ E,2 E2- | E2 D4 C2 |$ B,2 E,2 z A,A,A, | B,B, B,A,/G,/ C3 A, | DD DC/B,/ E3 C | %33
+ FFFF EE,E,E, |$ F,F, F,G,/F,/ E,A,, A,2- | A,G, G,F,/E,/ F,F, F,E,/D,/ | E,2 .A,,2 .E,2 .A,,2 | %37
+ .E,2 z2 !fermata!z4 :| %38
+V:4
+ z8 | z8 | z8 |$ z8 | z8 | z E,E,E, F,F, F,G,/F,/ |$ E,A,,A,A, A,2 ^G,2 | A,A,,C,D, E,D,E,E,, | %8
+ A,,A,A,A, G,G, G,A,/G,/ |$ F,F, F,G,/F,/ E,E, E,F,/E,/ | D,E,/F,/ G,G,, C,C,E,C, | %11
+ F,F,A,F, G,2 z E, | F,G,A,E, F,D,G,G,, |$ C,C CB,/A,/ B,B,B,^C | DD D=C/B,/ CCCD | %15
+ EEEA, B,B,B,B, |$ CC CD/C/ B,E,G,A, | B,A,B,B,, E,2 z2 | z8 |$ z4 z E,E,E, | %20
+ F,F, F,G,/F,/ E,A,,A,A, | A,2 ^G,2 A,A,CA, |$ EE,=G,E, A,,3 A,, | B,,B,CG, A,^F,B,B,, | %24
+ E,EED ^CA,B,C | DD D=C/D/ B,G,A,B, |$ CC CB,/A,/ ^G,E,^F,G, | A,A, A,B,/A,/ =G,G, G,A,/G,/ | %28
+ F,F, F,G,/F,/ E,2 E2- | E2 D4 C2 |$ B,2 E,2 z A,A,A, | B,B, B,A,/G,/ C3 A, | DD DC/B,/ E3 C | %33
+ FFFF EE,E,E, |$ F,F, F,G,/F,/ E,A,, A,2- | A,G, G,F,/E,/ F,F, F,E,/D,/ | E,2 .A,,2 .E,2 .A,,2 | %37
+ .E,2 z2 !fermata!z4 :| %38

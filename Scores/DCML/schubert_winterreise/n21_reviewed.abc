@@ -1,0 +1,87 @@
+X:1
+T:Winterreise
+T:Das Wirtshaus
+C:Franz Schubert
+Z:Wilhelm Müller
+%%score 1 { ( 2 6 7 ) | ( 3 4 5 ) }
+L:1/8
+Q:1/4=30
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Singstimme" snm="Sing."
+V:2 treble nm="Pianoforte" snm="Pno."
+V:6 treble 
+V:7 treble 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+ z8 | z8 | z8 |$ z8 | z4 z2 z G | A3/2 A/ B A A2 G G |$ G3/2 G/ A ^F G2 z G | %7
+w: ||||Auf|ei- nen To- dten ac- ker hat|mich mein Weg ge- bracht. All-|
+ =F3/2 F/ F({A/} G) F2 E G | A B c3/2 E/ F2 z2 |$ z8 | z6 z G |$ A3/2 A/ B A A2 G G | %12
+w: hier will ich ein- keh- ren, hab|ich bei mir ge- dacht.||Ihr|grü- nen To- dten- krän- ze, könnt|
+ G3/2 G/ A ^F G2 z G | =F3/2 F/ F (A/G/) F2 E G |$ A B c3/2 E/ F2 z2 | z8 |$ z4 z2 z c | %17
+w: wohl die Zei- chen sein, die|mü- de Wand- rer * la- den ins|küh- le Wirts- haus ein.||Sind|
+ c3/2 c/ A F F2 B d | d3/2 c/ A c G2 z c |$ f3/2 c/ A c F2 B _d | _d3/2 c/ A c G2 z2 |$ z4 z2 z G | %22
+w: denn in die- sem Hau- se die|Kam- mern all be- setzt? bin|matt zum Nie- der- sin- ken, bin|töd- lich schwer ver- letzt.|O|
+ _A3/2 A/ B A A2 G A | B3/2 B/ c G _A2 z c |$ c3/2 c/ c (_e/d/) c2 =B c | =A _B c3/2 E/ F2 z =B |$ %26
+w: un- barm- herz- ge Schen- ke, doch|wei- sest du mich ab? Nun|wei- ter denn, nur _ wei- ter, mein|treu- er Wan- der- stab, nun|
+ c3/2 c/ c (f/d/) c2 =B c | A c({c/} B)({A/} G) F2 z2 | z8 |$ z8 | !fermata!z8 | z8 |] %32
+w: wei- ter denn, nur _ wei- ter, mein|treu- er Wan- der- stab!|||||
+V:2
+!pp! (!>!.[A,CA]2 .[G,CG].[F,CF]) (!>!.[A,CA]2 .[G,CG].[F,CF]) | %1
+ ([E,CE]2 [F,CF][A,CFA]) ([A,CFA]2 [G,CEG]) z | %2
+"_cresc." (!>![CA]2 [G,CG][F,CF]) (!>![C_EA]2 [B,EG][A,EF]) |$ %3
+ ([B,_EF]!<(![DFB]!<)!!>(![CE^FA]!>)![B,DG])!p! (([C=F]2 [B,=E]2)) | (!turn!D>E ^C2)!>(! =C4!>)! | %5
+ ([CFA]2 [DFB][CFA]) ([CFA]2 [CEG][C_EG]) |$ ([B,DG]2 [CDA][A,D^F]) ([B,DG]dB[DG]) | %7
+ [D=F]2 (.[B,_DF].[B,DG]) (([A,CF]2 [G,CE]))[EG] | ([FA][FB][FA]>[EG]) F2 (CF) |$ %9
+ (!>![CA]2 [G,CG][F,CF])"_cresc." (!>![C_EA]2 [B,EG][A,EF]) | %10
+ ([B,_EF]!<(![DFB]!<)!!>(![CE^FA]!>)![B,DG])!p! (([C=F]2 [C=E])) z |$!pp! (A2 BA) (c3 _e) | %12
+ d3 d (dBG[GB]) | (d3 [_DG_d]) c3 [EGc] |$ [FAf][FBf][Fcf]>[Gcg] [Fcf]2 (cf) | %15
+ ([Aa]2 [Gg]!<(!!>(![Ff])!<)!!>)! ([Aa]2 [Gg][Ff]) |$ ([Ff][Bb][Aa][Gg]) (([=F=f]2 [=Ee])) [_Ec] | %17
+ (c2 A)F (F2 B)d | (d>c) Ac G3 [Ac] |$!>(! [Ac]3!>)! [Ac] (cB/A/ B)_d | _d>c Ac G3 G |$ %21
+ (.[FG]!<(!!>(!.[FG]!<)!!>)!.[FG].[F_A]) (([FA]2 [EG]))[CEG] | %22
+ ([CF_A]2 [_DFB][CFA]) (([CFA]2 [CEG]))[CFA] | ([_DGB]2 [_EGc][=B,EG]) [CE_A][CE][CEA][EAc] |$ %24
+ [_EGc]2"_cresc." ([E_Ac][FAd]) ([EGc]2 [DG=B])[Gc] | %25
+!p! [F=A][F_B][FA]>[EG] F[CF_A][CG]!<(![FG=B]!<)! |$ %26
+"_cresc." [_EGc]2 ([E_Ac][FAd]) ([EGc]2 [DG=B])[Gc] | ([F=A][_E^Fc][DGB][B,=EG]) [A,=F]2 (CF) | %28
+ (!>![A,CA]2 [G,CG][F,CF]) (!>![C_EA]2 [B,EG][A,EF]) |$ %29
+ ([B,_EF][DFB][CE^FA][B,DG] [C=F]2 [B,C=E]2) | !fermata![A,CF]8 | z8 |] %32
+V:3
+"" (.[F,,C,]2"" .[F,,B,,C,]"".[F,,A,,C,F,]) (.[F,,C,]2"" .[F,,B,,C,]"".[F,,A,,C,]) | %1
+"" [C,,G,,C,]2"" [C,,A,,C,][C,,F,,C,]"" [C,,C,]3 z | %2
+"" [F,,C,]2"" [F,,B,,C,]""[F,,A,,C,]"" [F,,C,_E,F,]2"" [F,,C,E,F,]""[F,,C,E,F,] |$ %3
+"" (_E,""D,"m"[E,^F,]"m"[D,G,])"" [C,A,]2"m" [^C,G,]2 |"m"!pp! ([D,F,]2"" [A,,E,]2)"" [C,E,G,]4 | %5
+"""" [F,,F,]3"" [F,,F,]"""" [C,,C,]3"m" [C,,C,] |$"""" [D,,D,]3"" [D,,D,]"m" [G,,G,]3 [G,B,] | %7
+"" [B,,B,]2"m" (.B,,"m".B,,)"""" C,3 [C,C] |"" ([_E,C]""[D,B,]""[C,C]>""[C,B,])"" [F,A,]2 z2 |$ %9
+ [F,,C,]2"" [F,,B,,C,]""[F,,A,,C,]"" [F,,C,_E,F,]2"" [F,,C,E,F,]""[F,,C,E,F,] | %10
+"" (_E,""D,"m"[E,^F,]"m"[D,G,])"" (([C,A,]2"" [C,G,])) z |$"" (C2"" D""C)"""" C3"m" C | %12
+"" (B,2"" C""A,)"m" [G,B,]3 [G,B,] |"" B,3"m" [B,,B,]"" (A,2"" G,) [C,C] |$ %14
+"" C""B,""A,>""B,"" A,2 (CF) | [F,C]2"" [F,B,C]""[F,A,C]"" [F,C_E]2"" [F,B,E]""[F,A,E] |$ %16
+"" _E""D"m"[E^F]"m"D"" (C2"" C)"" A, | (A,2 C)A,"""" B,3"m" G, |"""" A,2 F,""A,"" C3"" [F,_E] |$ %19
+"m" _E3"" E"""" D>^C D"m"B, |"""" [F,A,]2 F,""A,"" C3 [C,G,] |$ %21
+"" (.[=B,,G,].[B,,G,].[B,,G,]"m".[B,,_A,])"" (([C,A,]2"" [C,G,])) C, | %22
+"m""m" [F,,F,]3"m" [F,,F,]"""" C,3"m" F, |"""" _E,3"" E,"" _A,3 _A,,/B,,/ |$ %24
+"m" C,2"" _A,"m"F,"""" G,3"" [=E,C] | %25
+"" [F,C]""[D,B,]""[C,C]>""[C,B,]"" [F,A,]"m"[F,_A,]"m"[_E,G,]""[D,G,] |$ %26
+"m" [C,G,]2"" (_A,"m"F,)"""" G,3"" [=E,C] |"" [F,C]"m"(A,,"m"B,,""C,)"" F,,2 z2 | %28
+ ([F,,C,]2"" [F,,B,,C,]""[F,,A,,C,])"" ([F,,C,_E,F,]2"" [F,,C,E,F,]""[F,,C,E,F,]) |$ %29
+"""" =F,2"m" ^F,"m" x"""" x4 |"" !fermata![F,,C,F,]8 | z8 |] %32
+V:4
+ x8 | x8 | x8 |$ B,,4 x4 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | B,,4 x4 |$ F,3 F, C,3 C, | D,3 D, x4 | %13
+ B,,3 x C,3 x |$ _E,D,C,>C, F,2 z2 | x8 |$ B,2 B,B, [C,A,]2 [C,G,]=F, | F,3 F, F,3 F, | %18
+ F,2 x2 x4 |$ F,3 F, F,3 F, | x8 |$ x8 | x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |$ _E,D,E,G, A,2 G,2 | %30
+ x8 | x8 |] %32
+V:5
+ x4 | x4 | x4 |$ F, x x2 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | =F, x x2 |$ x4 | x4 | x4 |$ x4 | x4 |$ %16
+ x4 | x4 | x4 |$ x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 |$ x4 | x4 | x4 |$ B,,3/2 [B,,D,]/ C, C, | x4 | %31
+ x4 |] %32
+V:6
+ x8 | x8 | x8 |$ x8 | A,4 B,4 | x8 |$ x8 | x8 | x8 |$ x8 | x8 |$ F3 F ([FA]2 [EG])[_EG] | %12
+ (G2 A)^F G2 z D | =F3 x (F2 E) x |$ x8 | x8 |$ x8 | _E3 E ED/^C/ D=E | F3 F E3 F |$ F2 _GF F3 =E | %20
+ F2 F2 E3 E |$ x8 | x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |] %32
+V:7
+ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 |$ x8 | D3 D x4 | D3 x C3 x |$ x8 | x8 |$ %16
+ x8 | x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |] %32

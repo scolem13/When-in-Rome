@@ -1,0 +1,34 @@
+% Fuga: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=153
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Fuga
+C:Georg Friedrich Händel (1685-1759)
+%%score ( 1 2 3 ) 4
+L:1/8
+Q:1/4=88
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="up" snm="Hpschd"
+V:2 treble 
+L:1/4
+V:3 treble 
+L:1/4
+V:4 bass nm="down" snm="Hpschd"
+V:1
+ G3 B AD dc | BG g4 f2 | gd eB ^cA dF | GB AG FA d2- | d2 c4 B2 | A4 G2 g2- | g2 =f4 e2 | %7
+ d4 [cE]3 e | dG g=f ed c2- | c2 B2 A2 d2- | d2 c2 B3 e | ^cA d4 c2 | d2 AB =ce dc | Bd gf ed cB | %14
+ A2 d4 c2- | c2 B2 A4 | G2 gf ed cB | Af gB A3 G | [GDB,]8 |] %19
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | A B z2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 D2 | %18
+ x4 |] %19
+V:3
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 G F | %18
+ x4 |] %19
+V:4
+ G,, z G,4 F,2 | G,3 B, A,D, DC | B,2 G,4 F,B, | E,2 ^C2 D3 D, | E,D, E,F, G,D, G,B,, | %5
+ C,A,, D,C, B,,G,, z E, | A,G, A,B, CG, A,E, | =F,D, G,G,, C,2 C2- | C2 B,2 C2 z E, | %9
+ F,D, G,4 F,B, | ^G,E, A,4 =G,2- | G,2 F,2 E,F,/G,/ A,G, | F,D, F,G, A,2 F,2 | G,2 B,2 CB, A,G, | %14
+ F,E, F,D, E,D, E,F, | G,D, E,B,, C,A,, D,C, | B,,A,, G,,2 C,B,, A,,2 | D,C, B,,C, D,2 D,,2 | %18
+ G,,8 |] %19

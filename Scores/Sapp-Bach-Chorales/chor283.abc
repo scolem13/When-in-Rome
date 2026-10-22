@@ -1,0 +1,32 @@
+X:1
+T:Jesu, meine Freude
+T:Jesu, meine Freude
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ B B A G | F2 !fermata!E2 | B ^c d B | e2 !fermata!^d2 | e/f/ g f3/2 f/ | !fermata!e4 :| B B c B | %7
+ A A !fermata!G2 | B ^c d B | e d ^c2 | !fermata!B2 B B | A G F2 | !fermata!E4 || %13
+V:2
+ z GBG G F2 E | E ^D/^C/ D2 !fermata!EDEF | G/F/G z E A3 G/F/ | G A/B/ A2 !fermata!B2 z =c | %4
+ BA GB cA F2 | B^G EA !fermata!G4 :| =GA AG GA AG | G2 F2 !fermata!GDEF | GD G2 z A2 G/F/ | %9
+ E=G FB B2 ^A2 | !fermata!BFB=A G4- | G F2 E E =D/^C/ D2- | D E/D/ =C/B,/C !fermata!B,4 || %13
+V:3
+ z BeB e^deG | c B/A/ BA !fermata!GAGF | EE z2 z FdA | B A/G/ e/^d/e !fermata!f2 z2 | %4
+ z ^d e3 e =d2- | d2 c/B/c !fermata!B4 :| ef fe ed de | e2 dc !fermata!cBcA | GB e A2 G/F/ d2- | %9
+ d^c d e/f/ gcfe | !fermata!^d2 z B e e/d/ e2- | e^deG cA FB | B^G EA- AG !fermata!G2 || %13
+V:4
+ z E,G,E, C z2 B, | A,F, B,B,, !fermata!E,2 z2 | z E,A,G, F,D, G,2- | %3
+ G, F,/E,/ =C2 !fermata!B,CB,A, | G,F, E,G, A,F, B,A, | ^G,E, A,A,, !fermata!E,4 :| %6
+ E,^D, D,E, E,F, =G,E, | C,^C, =D,2 !fermata!G,,4 | z G,2 F,/E,/ F,D,G,F, | %9
+ ^G,^A, B,=G, E,^E, F,2 | !fermata!B,,4 z =E,G,E, | C z z B, A,F, B,A, | %12
+ ^G,E, A,A,, !fermata!E,4 || %13

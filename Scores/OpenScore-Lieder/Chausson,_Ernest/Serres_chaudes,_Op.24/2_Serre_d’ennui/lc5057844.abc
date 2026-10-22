@@ -1,0 +1,74 @@
+X:1
+T:Serres chaudes, Op.24
+T:Serre d'ennui
+C:Ernest Chausson
+Z:Maeterlinck, Maurice
+Z:OpenScore  (CC0)
+%%score 1 { ( 2 5 6 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=114
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:6 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+V:1
+"^Modéré" z4 z2!p! e2- | e4- e d c d | B4 A3 A | G4- G2 z2 | z _B B B =B B B B | ^c3 c =c c d e | %6
+w: O|_ _ cet en- nui|bleu dans le|coeur! _|A- vec la vi- si- on meil-|leu- re, Dans le clair de|
+ e4 d2 c2 | c4 =F2 z2 | A2 A2 _B3 _G | !courtesy!=A4 =G3 F | =F4 z4 | z2 ^E2 F2 ^G2 | ^G4 G2 ^A B | %13
+w: lu- ne qui|pleu- re,|De mes rê- ves|bleus de lan-|gueur!|Cet en- nui|bleu com- me la|
+ ^c2 ^D2 z F ^G A | B3 B z =c2 c | =f2 e d =c2 B A | B3 G G4 | z2 G2 G2 A _B | _B4 A2 G2 | A6 ^D2 | %20
+w: ser- re, Où l'on voit|clo- ses à tra-|\- vers Les vi- tra- ges pro-|fonds et verts,|Cou- ver- tes de|lune et de|ver- re|
+ z2 B2 e3 e | d2 d2 c3 c | B4- B c2 d | c2 B2 A2- (3A G A | B4 F2 z2 | d2 B2 ^G2 F2 | A8 | %27
+w: Les gran- des|vé- gé- ta- ti-|ons _ Dont l'ou-|bli noc- tur- * ne s'al-|\- lon- ge,|Im- mo- bi- le-|ment|
+ z2 c4 E2 | G6 G2 | z4 _B2 D2 | =F3 F (3^F2 ^G2 F2 | ^c8 | e3 e d2 c2 | B4 A2 A2 | G4 G2 z2 | %35
+w: Comme un|son- ge|Sur les|ro- ses des pas- si-|\- ons.|Où de l'eau très|len- te s'é-|\- lè- ve|
+ _B B A B =B2 B B | ^c4 z =c G A | B4 E4- | E2- E z F2 G2 | G4- G2 z2 | z ^d2 ^B2 B2 ^A | ^c8 | %42
+w: En mé- lant la lune et le|ciel En un san-|glot glauque|_ _ é- ter-|\- nel _|Mo- no- to- ne-|ment|
+ z2 e4 ^G2 | B8- | B4 B,4 | z8 |] %46
+w: comme un|rê-|* ve.||
+V:2
+"^Modéré"!p! z (FGG,) z (A_B_B,) | z (FGG,) z (CE_B) | z (^A=BB,) z (BcC) | z (ceE) z (Beb) | %4
+ z (_be_B) z (=be=B) | z (^c'e_B) z (=c'eG) | z (c'eA) z beA | z (_ad=F) z (gd[c=f]) | %8
+ z (ecE) z (=f_G_e) | z (=ecE) z (dD[_Ec]) | z ([=F_Ac]dD)!mf! z ([Ac]dD) | %11
+ z ([^GB][B,^D][GB]-) [GB]([GB][B,D][GB]) | z ([^GB][B,^D][GB]-) [GB]([GB][B,D][GB]) | %13
+!p! z [A^c]F[Ac] ^D[Ac]^C[Ac] | B4 =c4 | B4 =c4 | z ([EGB]^c^C) z ([GB]cC) | %17
+ z ([=G_B][_B,D][GB]-) [GB]([GB][B,D][GB]) | z ([G_B][_B,D][GB]-) [GB]([GB][B,D][GB]) | %19
+ z ([^DF][A,=B,]^A)"_m.g." B ([^df][=AB]^a) | b z z2!mf! [EGe]4 | [D_Bd]4 [CGc]4 |!p! B8 | c8 | %24
+ B8 | [^G,DF]8 |!mf!!<(! [^CA]8!<)! |!p! [F,=CE]8 |!mp!!<(! [B,G]8!<)! |!pp![I:staff +1] [_B,D]8 | %30
+!<(![I:staff -1] [G,_D=F]4 [^G,=D^F]4 | %31
+ [=G,^CF] [G,CF]2!<)!!>(! ([G,-C-F] [G,C=F]) [G,CF]2 [G,CE]!>)! |!mf! z ([B,EF]GG,) z ([EA]_B_B,) | %33
+ z (^A=BB,) z (BcC) |!p! z (ceE) z Beb | z (_be_B) z (=be=B) | z (^c'e_B) z =c'eF | %37
+ z (b[eg]B) z (g[=Ae]E) | z (e[^A^c]E) z (c[GA]C) | z (G,!<(!!<(!=A,=C _E=F^FG)!<)!!<)! | %40
+!mf! [^B,F^A]8 |!mp!!<(! [^E^c]8!<)! |!pp! [^A,=E^G]8 | (B6 ^c2 |!p!!>(! [^GB-f]8!>)! | %45
+!pp! [EBe]8) |] %46
+V:3
+ z4 (_B,2 A,G,) | z4 (_B,2 A,G,) | z4 (D2 _E2) | [=E,,B,,]4 (B,2 C2 | ^C2 =C2 B,2 A,G,) | %5
+ E,,4 [=CE]4 | [A,,,A,,]8 | D,,4 (D2 _E=F) | E,,4[I:staff -1] [C_G_B]4 |[I:staff +1] x4 [_EG]3 ^F | %10
+ z4 G3 =F | ^E6 ^D2 | B,2 ^G,2 F,3 ^E, | z4 A,4 | [^G,D]4 [A,D]4 | [^G,D]4 [D,A,C]4 | ^C,,4 (F3 E | %17
+ E6 D2 | _B,2 G,2 =F,3 E,) | B,,8- | B,, z z2 [C,G,C]4 | [D,F,_B,]4 [_E,A,]4 | [E,^G,]8 | %23
+ [A,,F,]8 | [^G,,F,]8 | [E,,B,,]8 | [A,,=G,]8 | [D,,A,,]8 | [G,,=F,]8 | [C,,G,,E,]8 | %30
+ [_E,,_B,,]4 [B,,,=B,,]4 | [A,,,A,,]4- [A,,,A,,]3 [^A,,,^A,,] | [B,,,B,,]4 (_B,2 A,G,) | %33
+ [E,,B,,]4 D2 _E2 | [E,,B,,]4 (B,2 C2 | ^C2 =C2 B,2 A,G,) | E,,4 [=CE]4 | %37
+ ^C,,4[I:staff -1] [^CE^A]4 |[I:staff +1] [^A,^CG]4 [G,A,E]4 | [=A,,_E,]8 | [^G,,^D,]8 | %41
+ [^C,=B,]8 | [F,,^C,]8 | [B,,=A,]8 | E,,2- [E,,B,,]4- [E,,B,,^G,]2- | ^G,2- [G,^G]6 |] %46
+V:4
+ [E,,B,,]4 [C,E,]4 | [E,,B,,]4 [C,E,]4 | [E,,B,,]4 [=F,A,]4 | x8 | x8 | x8 | x8 | x8 | x8 | %9
+ E,,4 E,4 | D,,8 | ^C,,8- | ^C,,8 | [B,,,F,,]8 | x8 | x8 | x8 | =C,,8 | x8 | x4 z x x2 | x8 | x8 | %22
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 [C,E,]4 | x4 [=F,A,]4 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | [E,,B,,]8 |] %46
+V:5
+ x8 | x8 | x8 | x4 [EG]4- | [EG]8 | x4 A2 =Bc | x4 [Fc-]2 [Gc]2 | x4 _A4 | x8 | x8 | x8 | x8 | x8 | %13
+ x2 (F2 ^D2 ^C2) | (F^EFE) (=F=EFE) | (=FEFE) (FEFE) | x8 | x8 | x8 | x8 | x8 | x8 | %22
+ ([DF]^GDG [DF]GDG) | ([CE]FCF [CE]FCF) | ([DF]^GDG [DF]GB,D) | x8 | (^E2!>(! F4 =E2)!>)! | z8 | %28
+ (^D2!>(! E4 =D2)!>)! | x8 | x8 | x8 | x8 | x8 | x4 [EG]4- | [EG]4 [EG]4 | x4 A2 GA | x8 | x8 | %39
+ x G,- G,2- G,4 | x8 | (A2!>(! ^A4 ^G2)!>)! | x8 | ^^F2 ^G6 | x8 | x8 |] %46
+V:6
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x4 | ^D4 | x4 | x4 |] %46

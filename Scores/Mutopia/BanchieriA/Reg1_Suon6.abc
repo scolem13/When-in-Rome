@@ -1,0 +1,36 @@
+% SUONATA SESTA, FVGA TRIPLICATA From Primo Registro of the Organo Suonarino: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=36
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:SUONATA SESTA, FVGA TRIPLICATA From Primo Registro of the Organo Suonarino
+C:Adriano Banchieri
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=14
+M:4/2
+I:linebreak $
+K:F
+V:1 treble nm="top" snm="P Org"
+L:1/8
+V:2 treble 
+V:3 bass nm="bottom" snm="P Org"
+V:4 bass 
+V:1
+ c8 B4 A4 | G4 z2 F2 AGAB [cF]4 | _E4 A2 B2 [cC]4 c4 | B4 A4 G4 _E4 | dcde f4 DCDE F4 | z16 | z16 | %7
+ z4 C4 DCDE F2 F2 | _E4 D4 C4 AGAB | [c=E]4 A4 G8 | A8 _E4 D4 | AGAB c2 [cC]2 B4 [AF]4 | G4 F4 z8 | %13
+ z4 C4 B4 A4 | G2 G2 AGAB [cG]4 z2 E2 | FEFG A4 B4 [AF]4 | G4 G4 z6 G2 | AGAB [cA]4 G4 F2 F2 | %18
+ AGAB c4 EDEF c4- | [cG]2 G2 A4 G8 | [AF]16 |] %21
+V:2
+ x8 | x8 | z G D2 z3 C | D/C/D/=E/ F4 z c | D2 C C z4 | x8 | x8 | x8 | z4 z F F2 | z2 F4 E2 | %10
+ F2 z F z3 F | C2 z2 D/C/D/=E/ z2 | x8 | z3 c D/C/D/E/ F D | E2 F2 z4 | z3 c D/C/D/E/ z2 | %16
+ E/D/E/F/ z6 | x8 | E2 z C z2 G2 | z B F4 E2 | x8 |] %21
+V:3
+ z8 | z8 | z8 | z6 C2 | B,2 A,2 G,2 z F, | A,/G,/A,/B,/ C2 _E,2 A, B, | [CC,]2 C2 B,2 A,2 | %7
+ [F,G,]2 G,2 F, F, A,/G,/A,/B,/ | C2 B,2 [A,F,]2 D,2 | C,8 | C4 z4 | z7 F, | %12
+ _E,2 D,2 A,/G,/A,/B,/ C2 | B,2 [A,F,]2 G,2 F,2 | E,2 D,2 C,2 C2 | B,2 A,2 G, G, A,/G,/A,/B,/ | %16
+ C2 C,2 B, A, [G,E,]2 | F, F, A,/G,/A,/B,/ [C_E,]2 D,2 | C,4- C, C,3- | %19
+ G, C,8 G, A,/ G,/ A,/ B,/ C4 | [CF,,]8 |] %21
+V:4
+ x8 | x8 | x8 | x8 | x8 | F,4 z G, D,2 | z3 C, D,/C,/D,/=E,/ F,2- | z2 _E,2 D,4 | C, C, D, =E, z4 | %9
+ z G, A,/G,/A,/B,/ C4 | x8 | x8 | z3 F, C,2 z C, | D,/C,/D,/=E,/ z6 | x8 | x8 | z3 C D,2 z2 | %17
+ z3 F, z4 | z6 =E,/D,/E,/F,/ | x16 | x8 |] %21

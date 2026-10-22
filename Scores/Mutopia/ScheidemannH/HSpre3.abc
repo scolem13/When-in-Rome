@@ -1,0 +1,31 @@
+% Praeambulum no.3 in d: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=132
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Praeambulum no.3 in d
+C:Heinrich Scheidemann (ca. 1595-1663)
+%%score ( 1 2 ) 3 4
+L:1/4
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:none
+V:1 treble nm="treble:one" snm="P Org"
+V:2 treble 
+V:3 bass nm="bass:three" snm="P Org"
+V:4 bass nm="pedal:four" snm="P Org"
+V:1
+ D4- | [D_B,] _B,2 [AC] | _B3 A | G2 G2- | [GD] D F G/F/ | [DE] E A2- | [AD] D3 | [BC] C A2- | %8
+ [AE] E2 ^F/^G/ | A4 | =C3/2 B,/ [AA,] G | F3/2 [EG,]/ D2 | _B,2 d c | _B3/2 A/ [GD] [FC] | %14
+ [E_B,] [DA,] D2- | [DA,]/ A,5/2 ^C | D4- | D4 _B, A,/ B,/ A, G, | [DA,]4 |] %19
+V:2
+ A,4 | z E/^F/ G z | D4 | D4 | z G D2- | z D ^C B,/C/ | z G/A/ B2- | z A D2 | z A ^G/A/ D | %9
+ ^C E E D | z A z B,/^C/ | D A,/ z/ F, G,/A,/ | z d A,2 | z D z2 | z2 G,2 | %15
+ z/ ^C/4D/4 E/D/ C/=B,/ A,/G,/ | ^F, A, _B,2- | x8 | x4 |] %19
+V:3
+ ^F,4 | G,2 D,2- | D, E,/^F,/ G, A, | _B,4 | A,4 | A,3 G, | ^F,2 G, =F, | E,2 A, B, | C2 B,2 | %9
+ A,3/2 B,/ C B, | A,3/2 G,/ F, E, | D,/E,/ F,/G,/ A, z | z G, ^F,2 | G,3/2 A,/ _B, A, | %14
+ G, F, E, D, | F,2 E,2 | D, ^F, G,2- | G, ^F,/G,/ F, E, | ^F,4 |] %19
+V:4
+ D,4 | G,,4- | G,,3 ^F,, | G,, A,, _B,, C, | D,4 | A,,4 | D,2 G,,2 | A,,2 F,,2 | E,,4 | A,,4 | z4 | %11
+ z D, D, C, | _B,, A,,/G,,/ D,2 | G,,4 | G,,2 _B,,2 | A,,4 | z D, G,,2 | D,4 | D,,4 |] %19

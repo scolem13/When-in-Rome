@@ -1,0 +1,31 @@
+% I've found a Friend: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1203
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:I've found a Friend
+C:Sir Arthur Sullivan (1842-1900)
+%%score ( 1 2 ) 3
+L:1/4
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:Gmin
+V:1 bass nm="BassStaff:TVoice" snm="V"
+V:2 bass 
+V:3 treble nm="TrebStaff:SVoice" snm="V"
+V:1
+ x2 [CF,] | [CF,] [CF,] [CG,] | [CB,] [CA,]- [CA,]/B,/ | [CA,] [DB,] C | [CC,] [G,C,] [B,C,] | %5
+ [B,C,] [A,F,] z | [CF,] [C=E,] [CE,] | [CF,] C [_DA,]- | [_DA,]/[DA,]/ [=D=D,] [A,D,] | %9
+ [A,=E,] [CE,] [=EE,] | [D=E,] [DE,] [CA,,] | z A, [CD,] | [CD,] [B,G,] D | [DD,] [DD,] [DG,] | %14
+ [EF,] [DB,]- [DB,]/[DB,,]/ | [DB,,] [D=B,,] [CC,] | [CC,] z [C_B,] | [CA,] [B,G,] [A,F,]- | %18
+ [A,F,]/[F,D,]/ [F,C,] [F,B,,] | [F,A,,]3/2 [B,B,,]/ [A,C,] | [A,C,] [CC,]- [CC,]/[B,C,]/ | %21
+ [B,C,] [A,F,] x |] %22
+V:2
+ x x2 | z3 | z3 | z3 | z3 | z3 | z3 | z F,/G,/ z | z3 | z3 | z3 | z3 | z2 B,,/C,/ | z3 | z3 | z3 | %16
+ z3 | z3 | z3 | z3 | z3 | z2 x |] %22
+V:3
+[K:F] x2 [AF] | [AF] [AF] [BE] | [GE] [cF]- [cF]/[dF]/ | [cF] [BF] [AF] | [AF] [BE] [GE] | %5
+ [GE] F x | [AF] [cA] [BG] | [BG] [AF] [AE]- | [AE]/[GE]/ [FD] [FD] | [EC] [AE] [cA] | %10
+ [=B_A] [BA] =A | x A [A_G] | [=GE]/[A_G]/ [B=G] [BG] | [A_G] [=GE]/[A_G]/ [B=G] | %14
+ [cA] [dB]- [dB]/[cA]/ | [BG] [AF] [AF] | [GE] x [cE] | [cF] [cE] [fF]- | [fF]/[AF]/ [AE] [AD] | %19
+ [cC]3/2 [FD]/ [FC] | [FC] [AF]- [AF]/[GE]/ | [GE] F x |] %22

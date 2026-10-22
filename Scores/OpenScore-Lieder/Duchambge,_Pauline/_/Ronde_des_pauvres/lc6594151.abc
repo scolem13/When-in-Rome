@@ -1,0 +1,45 @@
+X:1
+T:Ronde des pauvres
+C:Pauline Duchambge
+Z:Comte Alexandre de la Borde
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=116
+M:6/8
+I:linebreak $
+K:A
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"^Allegretto" z | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z2 z z2"^Refrain" E |:S (CE) A c2 B | %10
+w: ||||||||Aux|cris * de l’in- di-|
+ (EA) f e2 c | B3{c} (BA) B | (c3 A2) E | (CE) A c2 B | (EA) e e2 c | B3{/B} (BA) B | %16
+w: gen- * ce aux ac-|cents du * plai-|sir * Ve-|nez * for- mer la|dan- * se que le|ciel doit * bé-|
+ A3 z2 z!fine! ||1"^1er Couplet / Verse 1" B c B Bc B | B3 G2 z | B c B (Bc) B | B3- B2 z | %21
+w: nir.|Ve- nez de la * fo-|li- e|a- gi- tant les * gre-|lots *|
+ B B B Bc ^d | e3- e E F | G3 (BA) F | E2 z z2"^Au refrain\nTo refrain\n" E :|2 %25
+w: du mal- heu- reux * qui|prie * a- dou-|cir les * san-|glots. Aux|
+[K:C]"^Mineur / Minor" A A A{/B} (A^G) A || =f3- f3 | A A A{/B} (A^G) A | B6 | A A A{/B} (A^G) A | %30
+w: Cet- te ri- * che pa-|ru- re|qui vous i- ra * si|bien|paie- ra la cou- * ver-|
+ f3 A2 B | (cB) A (BE) ^G | A2 z z2 E!D.S.! |] %33
+w: tu- re du|pau- * vre qui * n'a|rien. Aux|
+V:2
+ E | CEA c2 B | EAf e2 c | B2 B{/c} BAB | c3 A2 E | CEA c2 B | EAf e2 c | B2 B{/c} BAB | %8
+ [CEA]3 z2 z |:[I:staff +1] [A,C]E,[I:staff -1]E[I:staff +1] [B,D]E,[I:staff -1]E | %10
+[I:staff +1] [A,C]E,[I:staff -1]E[I:staff +1] [A,C]E,[I:staff -1]E | %11
+[I:staff +1] [B,D]E,[I:staff -1]E[I:staff +1] [B,D]E,[I:staff -1]E | %12
+[I:staff +1] [A,C]E,[I:staff -1]E[I:staff +1] [A,C]E,[I:staff -1]E | %13
+[I:staff +1] [A,C]E,[I:staff -1]E[I:staff +1] [B,D]E,[I:staff -1]E | %14
+[I:staff +1] [A,C]E,[I:staff -1]E[I:staff +1] [A,C]E,[I:staff -1]E | DEG DEG | CEA z2 z || %17
+ [FA]B,[FA] [FA]B,[FA] | [EG]B,[EG] [EG]B,[EG] | [FA]B,[FA] [FA]B,[FA] | [EG]B,[EG] [EG]B,[EG] | %21
+ [FB]B,[FB] [FB]B,[FB] | [EG][I:staff +1]G,[I:staff -1][EG] [EF]^A,[EF] | %23
+ [EG]B,[EG] [^DFA]B,[DFA] | E=dB GFE :|[K:C] CEA CEA | DFA DFA | CEA CEA | z dB ^GBD | CEA CEA | %30
+ DFA DFA | CEA DEB | CEc A2 z |] %33
+V:3
+ z | A,,A,E, B,,G,D, | C,A,E, A,,A,E, | E,DB, E,DB, | A,EC A,E,C, | A,,A,C, B,,G,D, | %6
+ C,A,E, A,,A,E, | E,DB, E,DB, | A,E,C, A,,3 |: [A,,,A,,]3 [B,,,B,,]3 | [C,,C,]3 A,,3 | [E,,E,]6 | %12
+ A,,6 | [A,,,A,,]3 [B,,,B,,]3 | [C,,C,]3 A,,3 | [E,,E,]6 | A,3 A,,3 || ^D,,3 ^D,3 | E,,3 E,3 | %19
+ ^D,,3 ^D,3 | E,,3 E,3 | ^D,6 | C,3 =C,3 | B,,3 B,,3 | E,,6 :|[K:C] [A,,A,]6 | [A,,A,]6 | %27
+ [A,,A,]6 | [E,,E,]6 | [A,,A,]6 | [D,,D,]6 | [E,,E,]3 [E,,E,]3 | [A,,A,]3 [A,,A,]3 |] %33

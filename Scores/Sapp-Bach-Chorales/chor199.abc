@@ -1,0 +1,33 @@
+X:1
+T:Hilf, Gott, la&szlig; mir's gelingen
+T:Hilf, Gott, la&szlig; mir's gelingen
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+L:1/8
+V:3 treble-8 nm="Voice" snm="V"
+L:1/8
+V:4 bass nm="Voice" snm="V"
+V:1
+ G | A2 G | F2 D | F3 | !fermata!G2 A | B2 d | c2 B | A3 | !fermata!G2 x :: c x2 | c2 c | d2 c | %12
+ B A G | !fermata!F2 F | B2 A | B2 c | d2 c | B3/2 A/ G | !fermata!^F2 A | B2 d | c2 B | A3 | %22
+ !fermata!G2 x || %23
+V:2
+ D_E | F4- F=E | D2 A,2 B,2 | C_E DC =B,2 | !fermata!=E4 E^F | G^F G4- | G3 ^F G2 | G4 ^F2 | %8
+ !fermata!D4 x2 :: G2- x4 | GF- FE F2- | FEFG AG | F4- FE | !fermata!C4 D2 | G4 A2- | AD G2 A2 | %16
+ BA G3 ^F | G2 D3 C | !fermata!D4 ^F2 | G4 =F2 | =EDE^F G2 | G4 ^F2 | !fermata!D4 x2 || %23
+V:3
+ B2 | c4- c>B | A2 F3 G | A4 GF | !fermata!c4 c2 | d3 cBA | G^F GA d2 | _e2 dAdc | %8
+ !fermata!B4 x2 :: cB x4 | A2 B2 c2- | c2 B2 c2 | d4 Gc | !fermata!A4 Bc | dB _e3 d | d4 _e2 | %16
+ f2 _ed ec | d_e =fF G2 | !fermata!A4 d2- | dB _e2 dB | G2 cA Bd | _edcBcA | !fermata!=B4 x2 || %23
+V:4
+ G, | F,2 C, | D,2 B,, | A,,2 D, | !fermata!C,2 A,, | G,,2 B,, | _E,2 D, | C, D, D,, | %8
+ !fermata!G,,2 x :: =E, x2 | F, G, A, | B,2 F,/E,/ | D,/C,/ B,, C, | !fermata!F,,2 B,,/A,,/ | %14
+ G,, G, ^F, | G, =F,/_E,/ D,/C,/ | B,, B, A, | G, F, _E, | !fermata!D,2 D, | G,3/2 _E,/ B,- | %20
+ B, A, G, | C, A,, D, | !fermata!G,,2 x || %23

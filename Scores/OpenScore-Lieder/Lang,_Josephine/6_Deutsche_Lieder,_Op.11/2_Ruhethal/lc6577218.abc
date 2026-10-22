@@ -1,0 +1,51 @@
+X:1
+T:6 Deutsche Lieder, Op.11
+T:Ruhethal
+C:Josephine Lang
+Z:Ludwig Uhland
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Andante" z8 | !fermata!z8 | (E2 C) B, A,3 A | (A2 G) A B2 z2 | F3/2 F/ D C B,3 d | %5
+w: ||Wenn * im letz- ten|A- * bend- strahl,|gold- ne Wol- ken- ber- ge|
+ (c3 =A) B2 z2 | B3 _A =G G A A | c4 B2 z2 | A3 G F2 G2 | G2 !>!A2 G2 z2 | A3 A A2 A2 | %11
+w: stei- * gen|und wie Al- pen sich er-|zei- gen,|frag’ ich oft mit|Trä- * nen:|liegt wohl zwi- schen|
+ (A4 d2) z2 | d3 B F2 =G2 | BA GF (F2 E) z | d3 A E E F E | E2 c4 A2 | G3 E (D2{ED} C3/2) B,/ | %17
+w: je- nen|mein er- sehn- tes|Ru- * he- * tal, *|mein er- sehn- tes Ru- he-|tal, mein er-|sehn- tes Ru- * he-|
+ !fermata!A,8 |] %18
+w: tal?|
+V:2
+!pp! [A,C]>[A,C][A,C][A,C] [A,E]2 [A,C]2 |[I:staff +1] [C,A,]2 [D,F,B,]2 !fermata![E,G,]4 | %2
+ [A,C]>[A,C][A,C][A,C][I:staff -1] [A,E]>[A,E][A,E][A,E] | [D_F]>[DF][DF][DF] [DE]>[DE][DE][DE] | %4
+ [B,D]>[B,D][B,D][B,D] [B,F]>[B,F][B,F][B,F] | %5
+ [=A,CE_G]>[A,CEG][A,CEG][A,CEG] [B,DF]>[B,DF][B,DF][B,DF] | B3 A [D_F=G][DFG][DFA][DFA] | c4 B4 | %8
+ A3 G F[A,D] G[G,DF] | G2 [FA]2 [C=EG]4 | A4 A4 | [A,FA]4 [A,DF]4 | %12
+ [DFBd]3 [DFB] [B,DF]2 [B,DE=G]2 | BAGF F2 E2 | d3 A !/![B,DE]4 | %15
+ !arpeggio![A,CE]4 !arpeggio![CEAc]4 | !arpeggio![DGBe]4 [DGBe]4 | %17
+ [CAe]>[I:staff +1][A,C] [A,C][A,C] [A,C]2 !fermata![A,C]2 |] %18
+V:3
+ [A,,E,]>[A,,E,][A,,E,][A,,E,] [A,,C,]2 [A,,E,]2 | F,,2 B,,,2 !fermata![E,,B,,]4 | %2
+ [A,,E,]>[A,,E,][A,,E,][A,,E,] [C,E,]>[C,E,][C,E,][C,E,] | %3
+ B,,>B,,B,,B,, [E,,E,]>[E,,E,][E,,E,][E,,E,] | B,,>B,,B,,B,, D,>D,D,B,, | B,,6 _A,,2 | %6
+ =G,,2 _A,,2 B,,2 A,,2 | G,,4 G,2 =E,2 | F,4 D,2 B,,2 | G,8 | A,4 A,4 | D,,>A,,A,,A,, A,,>D,D,D, | %12
+ E,,>E,E,E, E,,>E,E,E, | E,,>E, E,E, E,>E,,E,,E,, | F,,>F, F,F, =G,G,A,G, | %15
+ A,>E,E,E, E,>E,,E,,E,, | [E,,E,]>B,,B,,G,, E,,>=D,,E,,E,, | %17
+ [A,,,A,,]>[A,,E,] [A,,E,][A,,E,] [A,,E,]2 !fermata![A,,E,]2 |] %18
+V:4
+ x8 | x8 | x8 |[I:staff +1] A,>A, A,A, [G,B,]>[G,B,] [G,B,][G,B,] | %4
+ F,>F, F,F, F,>F, F,[I:staff -1] x | x8 | [D_F]>[DF][DF][DF] x4 | %7
+ [D_F]>[DF][DF][DF] [DF]>[DF][DG][DG] | [C=F]>[CF][CF]G x4 | [C=E]>C [=B,=D][B,D] x4 | %10
+ _E3 F _G2 F=E | x8 | x8 | [CE]2 [_A,_C=D]2 [G,B,_D]4 | [DA]4 x4 | x8 | x8 | x8 |] %18
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | C,3 C, C,>C,,C,,C,, | %10
+ C,,3/2 C,/ C,C, G,,,>G,,G,,G,, | D,,4 D,,4 | x8 | x8 | x8 | x8 | x8 | x8 |] %18

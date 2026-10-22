@@ -1,0 +1,42 @@
+X:1
+T:Sonata
+C:Domenico Scarlatti
+%%score { 1 | 2 }
+L:1/16
+Q:1/4=128
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Harpsichord" snm="Hch."
+V:2 bass 
+V:1
+"^Allegro" c2c2c2c2 cGce c2G2 | e2e2e2e2 eceg e2c2 | g2g2g2g2 c'geg ceGc |$ EG z2 z4 z4 z CEG | %4
+ cGce gceg c'geg c4 | z8 z4 z gfg |$ afef gede fdcd e2c2 | z2 d2B2c2 A2d2 Gede | %8
+ fdcd ecBc dcBA G2c2 |$ A2d2 G2c2 F2d2 G2B2 | edcB A^ceG ^FGAF DAGA | _BG^FG A2(3D^CD BGFG ADCD |$ %12
+ _BG^FG dGFG _ec=Bc dGFG | _ecBc dG^FG eged cec_B | A_ec_B AcAG ^FcAG FAFE |$ D4 z4 z2 d2d2d2 | %16
+ e^fga bgaf g2d2d2d2 | B2G2 A2D2 B2G2 A2D2 | B2G2 A2D2 G4 z4 ::$ g2g2g2g2 gdgb g2d2 | %20
+ B2d2 B2d2 gdBd Gdcd | ecBc dG^FG ecBc gcBc |$ afef gcBc ad^cd eA^GA | fd^cd eA^GA ^fdcd adcd | %24
+ bg^fg ad^cd be^de fB^AB |$ ge^de ^fB^AB ^gede b=dcB | cA^GA BE^DE c2c2c2c2 | %27
+ c2G2 A2F2 c2G2 A2F2 |$ c2G2 d2G2 eceg c'gec | aAgG fFeE dGBd g_efd | _ecBc dG^FG ecBc dGFG |$ %31
+ =eceg c'_a_bg afef gcBc | _afef gcBc ac'gc' fc'_ec' | dgcg BgAg GcFc EcDc |$ CBcd ecdB c2g2g2g2 | %35
+ e2c2 d2G2 e2c2 d2g2 | e2c2 d2G2 c4 z4 :| %37
+V:2
+"" z8 C,2C,2C,2C,2 | C,G,,C,E, C,2G,,2"" E,2E,2E,2E,2 | E,C,E,G, E,C,E,G,"" C,,4 z4 |$ %3
+ z2 CE G,C E,G, C,E, G,,C,"C}{" C,,4 | z8 z4 z C,E,G, | CG,CE G,C,E,G, C,G,,E,,G,,"C}{" C,,2C,,2 |$ %6
+"" F,2F2"" E,2E2"m" D,2D2"" CG,F,G, |"m" A,F,E,F,"" G,E,D,E,"m" F,D,C,D,"" E,2""C,2 | %8
+"m" D,2"m"B,,2"" C,2C,,2"" G,,4"" z E,D,E, |$"m" F,D,C,D,"" E,C,B,,C,"m" D,C,B,,A,,"" G,F,E,D, | %10
+"" C,4"" ^C,4"" D,4 z2"" ^F,2 |"m" G,2G,2"" z2 ^F,2"m" G,2G,2"" z2 F,2 |$ %12
+"m" G,2G,,2"" z2 =B,2"m" C2C2"" z2 B,2 |"m" C2C2"" z2 B,2"m" C4 z4 | %14
+"m" [C,,C,]4 [C,,C,]4"" [D,,D,]4 [D,,D,]4 |$"" z D,E,^F, G,A,B,C DE^FD"" GFED | %16
+"" CB,A,G,"" D2""D,2"" G,GDG,"" D,DA,D, |"" G,,G,D,G,,"" D,,D,A,,D,,"" G,,G,D,G,,"" D,,D,A,,D,, | %18
+"" G,,G,D,G,,"" D,,D,A,,D,,"" G,,4 z4 ::$"C{" z8 G,2G,2G,2G,2 | %20
+ G,D,G,B, G,D,G,B,"C}" G,,4"" z2 B,2 |"" C,2C2"" B,2""G,2"" C,2C2"" z2 E2 |$ %22
+"" F,2F2"" E2""C2"m" F,2F2"" z2 ^C2 |"m" D,2D2"" ^C2""A,2"" D,2D2"" z2 ^F,2 | %24
+"" G,,2G,2"" ^F,2""D,2"m" G,4"m" A,2""B,2 |$"m" E,2E2"" ^D2""B,2"" E,2E2"" z2 ^G,2 | %26
+"m" A,,2A,2"" ^G,2""E,2"m" A,,A,E,A,,"" F,,F,C,F,, | %27
+"" E,,E,C,E,,"" F,,F,C,F,,"" E,,E,C,E,,"" F,,F,C,F,, |$ %28
+"" E,,E,C,E,,"" D,,D,B,,D,,"" C,,2C,2"" z2 E,2 |"" F,2""E,2"m"D,2""C,2"" G,,2G,2 z2"m" B,2 | %30
+"m" C2C2"" z2 B,2"m" C2C2"" z2 B,2 |$"" C2C2 z2"m" E,2"m" F,2F,2"" z2 E,2 | %32
+"m" F,2F2"" E2""C2"m" F2"m"_E2"m" D2"m"C2 |"m" _B,2"m"_A,2""G,2F,2"" =E,2D,2""C,2B,,2 |$ %34
+"m" A,,2""F,2"" G,2""G,,2"" C,,C,G,,C,,"" G,,G,D,G,, | %35
+"" C,CG,C,"" G,,G,D,G,,"" C,,C,G,,C,,"" G,,G,D,G,, |"" C,,C,G,,C,,"" G,,G,D,G,,"" C,,4 z4 :| %37

@@ -1,0 +1,52 @@
+% Préludes opus 16 - 2.: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=760
+% Licence: Creative Commons Attribution-ShareAlike 2.5. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Préludes opus 16 - 2.
+C:A. Scriabin (1872-1915)
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=80
+M:2/4
+I:linebreak $
+K:G#min
+V:1 treble nm="upper"
+V:2 treble 
+L:1/8
+V:3 bass nm="lower"
+V:4 bass 
+L:1/8
+V:1
+ [Bd]4- [Bd] (3[BeBd]2 z/ [Bddg]2 | [Gc]8 | [=GB]4- [GB] (3[GcGB]2 z/ [GBAd]2 | [D^G]8 | %4
+ [DG]4- [DG] (3[DADG]2 z/ [DGDB]2 | [DF]4- [DF] (3[DGDF]2 z/ [DFDA]2 | %6
+ (3[=F^F]2[=FA]2 z/ [G^F] =D4 | D8 | [eg]4- [eg] (3[e=aeg]2 z/ [eggc']2 | [cf]8 | %10
+ [=ce]4- [ce] (3[cfce]2 z/ [cedg]2 | [G^c]8 | [Gc]4- [Gc] (3[GdGc]2 z/ [GcGe]2 | %13
+ [GB]4- [GB] (3[GcGB]2 z/ [GBGd]2 | (3[AB]2[Ad]2 z/ [cB] =G4 | G8 | =A4- A (3[BA]2 z/ [Ac]2 | %17
+ [c=A,E]4 [BA,D]4 | B6 [=A=A,B,=F]2 | [=A,B,=F=A]2 [A,B,^FA]4 [G,B,EG]2 | B4- B (3[cB]2 z/ [B^f]2 | %21
+ [=DGf]4 [DGe]4 | [C=Ace]4 [CGce]4 | [C=Gce]6 [Dd]2 | [DBd]4- [DBd] (3[EBeDBd]2 z/ [DBd^Gd^g]2 | %25
+ [CGc]8 | [B,=GB]4- [B,GB] (3[CFcB,GB]2 z/ [B,GBDAd]2 | [^G,D^G]8 | %28
+ [G,DG]4- [G,DG] (3[A,DAG,DG]2 z/ [G,DGB,DB]2 | [A,EGA]4- [A,EGA] (3[B,EGBA,EGA]2 z/ [A,EGACEGc]2 | %30
+ (3[=CG=c^CG^c]2[=CG=cCGc]2 z/ [DGd^CG^c] z (3[DGdCGc]2 z/ [CGcEGe]2 | [DAd]8 | %32
+ z2 [DGd] z [=Gd=g] z [^Ge^g] z | [Beb]8 | [Begb]8 | [Be=gb]8 | [Bd^gb]8- | [Bdgb]8 |] %38
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | ^D2 z/ (3[GF] z/4 [EF] | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %14
+ ^G2 z/ (3[cB] z/4 [AB] | x4 | [=A,C]4 | x4 | [=A,B,D][A,B,E] [A,B,=F] z | x4 | [G,=DG]4 | x4 | %22
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %38
+V:3
+ G4- G =G^GB, | E8 | D4- D ED=G, | B,8 | B,4- B, A,B,G, | A,4- A, B,A,F, | (3G,2C2B,2 (3A,2G,2A,2 | %7
+ D8 | c4- c =c^cE | =A8 | G4- G =AG=C | E8 | E4- E DEC | D4- D EDB, | (3C2F2E2 (3D2C2D2 | G8 | %16
+ [F,,F,]2[=F,,=F,]2 [^F,,^F,]2[C,,C,]2 | [F,,F,]2[=F,,=F,]2 [^F,,^F,]2[B,,,B,,]2 | %18
+ (3:2:2[B,,,B,,]4 [=C,,=C,]2 [^C,,^C,] z [=D,,=D,]2 | [=D,,=D,]2 [^D,,^D,]4 [E,,E,]2 | %20
+ [E,,E,]2[D,,D,]2 [E,,E,]2[B,,,B,,]2 | [E,,E,]2[D,,D,]2 [E,,E,]2[E,,,E,,]2 | %22
+ [=A,,,=A,,E,]4 [A,,E,=A,C]4 | [D,,,D,,^A,,=G,C]6 z2 | %24
+ [^G,,^G,]4- [G,,G,] (3[=G,,=G,^G,,^G,]2 z/ [G,,G,B,,,B,,]2 | [E,,E,]8 | %26
+ [D,,D,]4- [D,,D,] (3[E,,E,D,,D,]2 z/ [D,,D,=G,,,=G,,]2 | [B,,,B,,]8 | %28
+ [B,,,B,,]4- [B,,,B,,] (3[A,,,A,,B,,,B,,]2 z/ [B,,,B,,G,,,G,,]2 | %29
+ [C,,C,]4- [C,,C,] (3[B,,,B,,C,,C,]2 z/ [C,,C,A,,,A,,]2 | %30
+ (3[D,,D,E,,E,]2[D,,D,D,,D,]2 z/ [F,,F,E,,E,] z (3[F,,F,E,,E,]2 z/ [E,,E,C,,C,]2 | [=G,,=G,]8 | %32
+ z2 [^G,,D,B,] z [A,,D,C] z [B,,E,=D] z | [G,=DEG]8 | [^D,,^D,B,,B,] z7 | [D,,D,B,,B,] z7 | %36
+ [^G,,,^G,,D,D] z7 | [G,B,DG]8 |] %38
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %18
+ z2 [C,,C,] z | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %34
+ [G,CEG]4 | [=G,CE=G]4 | [^G,B,D^G]4- | x4 |] %38

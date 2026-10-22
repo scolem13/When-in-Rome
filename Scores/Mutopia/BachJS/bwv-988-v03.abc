@@ -1,0 +1,39 @@
+% Goldberg Variations - 3: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1384
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Goldberg Variations - 3
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 ) 3
+L:1/16
+Q:1/4=60
+M:12/8
+I:linebreak $
+K:G
+V:1 treble nm="upper" snm="Hpschd"
+V:2 treble 
+V:3 bass nm="lower" snm="Hpschd"
+V:1
+ B7 cdcde A7 BcBcd | [GB]7 cdcde A7 BcBcd | G6 B2cBAB G2[ea]g[df]g [ca]2f2a2 | %3
+ B4 [gB]A g4 [fA]B G2e2[bd]2 a4 [da]2 | B4 [Bg]2 e2B2[df]2 ^c2d2 e4 c2[Ad]2- | %5
+ [Ad] edc[dB]2 G8 [Fd]2G2 E2[A^c]2[FA]2 | D2EF[Gd]2 B2d2^c2 d8 [cA]GFE | d7 A[Gd]2[G^c]2 [Fd]12 | %8
+ z6 a7 b=c'abc' bagfe^d | e2f2 g4 f2e2 ^d8- d2 ed | e2f2 g4 f2e2 ^d8- d2 AB | %11
+ E2FGAB c2E2^D2 E6 GABGAB | e7 f[gE]2[f^D]2 c=decde ABcABc | BcdBcd G8 g6 [fc]Aa2- | %14
+ [aBc]2[gd]B[=fc]d edcedc B4 b2 a4 c'2 | [ab]2 b2 [d'=f]2 [ge]d[ac]e[^fd]c [gB]12 |] %16
+V:2
+ x24 | z6 g8 agfg a2 z4 | z2 dcBA g8 z8 z2 | z2 dc z2 B2cB z8 c2f2 z2 | z ed=c z2 g4 z6 b2 a4 z2 | %5
+ z6 e2B2d2 ^c2 z2 e4 z G z E | z4 z A G8 F2G2 E2 z4 | D2EFGA B2 z F z E z12 | x24 | %9
+ z6 a7 bc'abc' bagf z2 | z6 A8 BAGF GABG z2 | z6 A7 BcAGF z6 | E2FGAB c2 z e z g E6 z6 | %13
+ e7 fgefg cdecde AB z2 Bc | z6 G8 g6 ^f2a2- | z2 g2 z16 z4 |] %16
+V:3
+ G,,2B,,2D,2 G,2B,2E,2 F,,2A,,2D,2 F,2A,2D,2 | E,,2G,,2B,,2 E,2B,,2^C,2 D,,2F,,2A,,2 D,2F,2A,,2 | %2
+ B,,A,,B,,=C,2<D,2 G,,A,,B,,C,D, E,D,C,B,,C,E, F,,A,,G,,F,,E,,D,, | %3
+ G,,F,,G,,A,,B,,C, D,E,A,,B,,C,A,, B,,A,,G,,F,,2<G,,2 F,,E,,D,,E,,F,, | %4
+ G,,F,,G,,A,,G,,F,, E,,F,,G,,E,,F,,G,, A,,G,,A,,B,,A,,G,, F,,F,G,F,E,F, | %5
+ B,,A,,B,,C,D,B,, ^C,D,E,D,C,B,, A,,E,D,C,D,B,, C,A,,B,,C,D,E, | %6
+ F,B,,^C,D,E,F, G,F,E,D,E,^A,, B,,C,D,C,B,,=A,, G,,F,,G,,B,,A,,G,, | %7
+ F,,A,,G,,F,,E,,D,, G,,2E,,2A,,2 D,,F,,A,,D,A,,F,, D,,6 | D,2F,2A,2 D2CB,A,G, F,2A,2D,2 G,2A,2B,2 | %9
+ CDCB,A,G, F,E,F,G,A,F, B,2F,2G,2 A,CB,A,G,F, | G,A,G,F,E,D, C,B,,A,,B,,C,A,, B,,2F,2 B,4 G,2E,2 | %11
+ CDCB,A,G, F,E,F,B,A,B, E,2G,2B,2 E2E,2D,2 | C,2C2B,2 A,8 C2A,2 F,2D,2D2 | %13
+ G,A,G,=F,E,D, C,2E,2C,2 A,,B,,C,A,,B,,C, D,2D,,2^F,2 | G,A,B,G,A,B, C2E2A,2 DCB,DCB, CB,A,G,F,A, | %15
+ G,F,E,D,C,B,, C,2A,,2D,2 G,,B,,D,G,D,B,, G,,6 |] %16

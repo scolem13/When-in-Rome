@@ -1,0 +1,47 @@
+X:1
+T:Nouveau Concert, ou Les Goûts-Réunis no. 5
+T:Muséte
+C:François Couperin
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=120
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+"""^dans le goût de Carillon""^Rondeau" (fPed) | (cde) (fPed) | c2 z"" (dPcB) |"" (ABc)"" (dPcB) | %4
+"" c2"^)" F x3 |S"" (aPgf) |"" Pedc"" (aPgf) |"" Ped"^)"c"" !wedge!c2 z | %8
+"" !wedge!c2 z"" !wedge!c2 z |"" c2 z"" (fPed) |$"" cde"m" f"m"(b/a/""g/a/) | %11
+"" (fPed)"""_doux" c2 z |"" !wedge!c2 z"" !wedge!c2 z |"" !wedge!c2 z"" (fPed) | %14
+"" cde"m" f"m"(b/a/""g/a/) |"" f2 z!fine! ::"" F2 z | F2 z cdB | (c/B/A/G/"^)"F) f2 z |$ %19
+"" e2 z"m" Pd2 z |"" cde"" fgf |"" ef""e"""" (Pd3{c)d} |"" c2 z"" c'2 z |"" b2 z"" aba | %24
+"" gab"" c'd'c' |"" bc'b"" aba |"" Pg2 z"m" (fPed) |"" (cde)"m" (fPed) |$"" c2 z"" (dPcB) | %29
+"" (ABc)"" (d""Pc""B) |"" c2"^)" F!D.S.! ::O"m" a2 z |"" a2 z"m" a2 z |"" a2 z"m" (dP^c=B) | %34
+"" (A=B^c)"m" (dPcB) |"" (A=B^c)"m" (dPcd) |"" (ef/ef/"m" (g2)"m" Pf/>e/) |$"" Pe2 z"m" A2 z | %38
+"" =B2 z"" ^c2 z |"" (dP=cB)"m" A=Bc |"" =B^cd"" cde |"" def"m" gab |"m" ad"m"e"" (f2"" Pe/>)d/ | %43
+"m" d2 z"" (fPed) |"" cfA""({A} MB3){c} |$"" PA fe"""_doux" def |"" cfA""({A} B3){c} | %47
+"" PA"_fort" c'b"" abc' |"" gc'e""({e} f3){g} |"""^)" Pe"_doux" c'b"" abc' |"" gc'e""({e} f3){g} | %51
+"" Pedc"""_fort" f2 z |"" f2 z"m" f2 z |"" f2 z"m" (fPed) |$"" (cde)"m" (fPed) | %55
+"" c2 z"" (d""Pc""B) |"" A""B""c"" (d""Pc""B) |"" c2 F!D.S.! :| %58
+V:2
+ (A,G,B,) | (A,B,G,) (A,G,B,) | (PA,G,F,) (B,PA,G,) | (F,G,A,) (B,PA,G,) | F,2 F,, x3[K:treble] | %5
+"^renvoy" FPED | CDE FPED | C3[K:bass] (A,PG,)F, | PE,D,C, (A,PG,)F, | (PE,D,C,) (A,PG,F,) |$ %10
+ PE,D,C, D,B,,C, | F,,2 z (A,PG,F,) | (PE,D,C,) (A,PG,F,) | PE,D,C, A,PG,F, | (PE,D,C,) D,B,,C, | %15
+ F,,2 z :: (A,B,G,) | (A,B,G,) (A,B,G,) | A,2"^)" A,, (A,PG,F,) |$[K:treble] CDE (FGF) | %20
+ (EFE) DED |[K:bass] (C2 F,) G,2 G,, | C,CB, (A,PG,F,) | (E,D,C,) C2 z | B,2 z (A,B,A,) | %25
+ (G,A,G,) F,2 F | (EFE) DPCB, | A,B,C DPCB, |$ (A,PG,F,) (B,PA,G,) | (F,G,A,) B,PA,G, | F,2 F,, :: %31
+[K:treble] (FPED) | (P^CDE) (FPED) |[K:bass] (P^C=B,A,) (F,PE,D,) | (^C,D,E,) (F,PE,D,) | %35
+ (^C,=B,,A,,) (F,PE,D,) | (P^C,=B,,A,,) D,2 D,, |$ (A,,A,G,) (F,PE,D,) | (G,PF,E,) (A,PG,F,) | %39
+ (B,PA,G,) F,2 z | G,2 z A,2 z | (B,2 A,) G,F,E, | F,2 G, A,2 A,, | D,DC B,2 z | A,2 z G,2 z |$ %45
+ F,2[K:treble] z B2 z | A2 z G2 z | F2[K:bass] z F,2 z | E,2 z D,2 z | C,2[K:treble] z F2 z | %50
+ E2 z D2 z |[K:bass] CB,A, DPCB, | (PA,G,F,) (DPCB,) | (A,G,F,) (D,PC,B,,) |$ %54
+ (A,,B,,C,) (D,PC,B,,) | (PA,,G,,F,,) B,,PA,,G,, | F,,G,,A,, B,,PA,,G,, | F,,2 z :| %58
+V:3
+ F,,2 z | F,,2 z F,,2 z | F,,2 z x3 | x6 | x6[K:treble] | x3 | x6 | x3[K:bass] x3 | x6 | x6 |$ x6 | %11
+ x6 | x6 | x6 | x6 | x3 :: x3 | x6 | x6 |$[K:treble] x6 | x6 |[K:bass] x6 | x6 | x6 | x6 | x6 | %26
+ x6 | x6 |$ x6 | x6 | x3 ::[K:treble] x3 | x6 |[K:bass] x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | %41
+ x6 | x6 | x6 | x6 |$ x2[K:treble] x4 | x6 | x2[K:bass] x4 | x6 | x2[K:treble] x4 | x6 | %51
+[K:bass] x6 | x6 | x6 |$ x6 | x6 | x6 | x3 :| %58

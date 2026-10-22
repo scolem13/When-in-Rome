@@ -1,0 +1,70 @@
+% Les Tendres Plaintes: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=414
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Les Tendres Plaintes
+C:Jean-Philippe Rameau
+%%score ( 1 2 3 ) ( 4 5 6 )
+L:1/4
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="up"
+V:2 treble 
+L:1/8
+V:3 treble 
+V:4 bass nm="down"
+L:1/8
+V:5 bass 
+V:6 bass 
+V:1
+ f2 a | d2 f | e d _d | =d2 g | f e d | e _d =d | e f3/2 g/ | f/4 z2 z3/4 | f2 a | d2 f | e d _d | %11
+ =d2 g | f e d | e _d =d- | d/e/ f/4 z z/4 d/ | d3 | f2 A | e2 A | d c =B | c2 =B/4 z3/4 | c f A | %21
+ _A2 =A | =B c3/2 d/ | c/4 z2 z3/4 | e3/2 f/ d/ z/ | f2 e | a _a =a/>[a=bc']/ | (3:2:2=b4 a/ | %28
+ c'/=b/ a/g/ f/e/ | f e a | c3/2 =B/ A | A3 | f2 a | d2 f | e d _d | =d2 g | f e d | e _d =d | %38
+ e f3/2 g/ | f/4 z2 z3/4 | f2 a | d2 f | e d _d | =d2 g | f e d | e _d =d- | d/e/ f/4 z z/4 d/ | %47
+ d3 | A2 B | G2 F | c c c | d/4 z7/4 B/A/ | d2 e/f/ | [Gc]/ c3/2 e/f/ | [FB]/ B3/2 c/G/ | %55
+ A3/2 B/ c/A/ | d F [GF] [GF] | A/4 z2 z3/4 | [GE]3/2 E3/2 | B/A/ B/d/ B/f/ | B/c/ B/e/ B/g/ | %61
+ A3/2 B/ c | d A/4 z z/4 F/ | F3 | f2 a | d2 f | e d _d | =d2 g | f e d | e _d =d | e f3/2 g/ | %71
+ f/4 z2 z3/4 | f2 a | d2 f | e d _d | =d2 g | f e d | e _d =d- | d/e/ f/4 z z/4 d/ | d3 |] %80
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | e6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 e3 z | z A4- A | x6 | %17
+ x6 | x6 | z4 A2 | x6 | x6 | x6 | =B6 | x6 | x6 | x6 | (3:2:2z8 =b | x6 | x6 | x6 | z E4- E | x6 | %33
+ x6 | x6 | x6 | x6 | x6 | x6 | e6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 e3 z | z A4- A | x6 | x6 | %50
+ x6 | c4 z2 | z B A G3- | z A G F3- | z A GF E2 | F6- | x8 | G6- | z3 A GA | F6 | G6 | F6 | %62
+ z2 G3 z | z C4- C | x6 | x6 | x6 | x6 | x6 | x6 | x6 | e6 | x6 | x6 | x6 | x6 | x6 | x6 | %78
+ z2 e3 z | z A4- A |] %80
+V:3
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z F2 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z _D2 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z F2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x4 | %57
+ F3 | x3 | x3 | x3 | x3 | x3 | z A,2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %76
+ x3 | x3 | x3 | z F2 |] %80
+V:4
+ DA FD A,G | B,F DB, F,A | G,G A,F A,E | [DF]4 B,E | A,F G,G F,A | G,B EG FA | _DE =D4 | %7
+ A,B, A,G, F,E, | D,A, F,D, A,,G, | B,,F, D,B,, F,,A, | G,,G, A,,F, A,,E, | [D,F,]4 B,,E, | %12
+ A,,F, G,,G, F,,A, | G,,B, E,G, F,A, | G,B, A,4 | D,6 | DA FD FD | CA EC EC | =B,A B,A E_A | =A,6 | %20
+ A,=B, CB, CA, | =B,C DB, CA, | A,/ z3/2 [_G,_A,]/ z3/2 =A,,2 | E,2 E2 D2 | CA _A=A =B,_A- | %25
+ D4 _A2 C2 | [cF]e dc =B=A | [_AE]_G ED C=B, | =A,=G, F,E, D,C, | D,2 C,2 F,2 | E,6 | %31
+ A,,2 A,G, F,E, | D,A FD A,G | B,F DB, F,A | G,G A,F A,E | [DF]4 B,E | A,F G,G F,A | G,B EG FA | %38
+ _DE =D4 | A,B, A,G, F,E, | D,A, F,D, A,,G, | B,,F, D,B,, F,,A, | G,,G, A,,F, A,,E, | %43
+ [D,F,]4 B,,E, | A,,F, G,,G, F,,A, | G,,B, E,G, F,A, | G,B, A,4 | D,6 | F,C A,F, B,,G, | %49
+ C,F, E,C, D,F, | E,G, D,F, C,E, | F,6 | B,,4 B,,2 | A,,4 A,,2 | G,,2 C,4 | F,,2 F,2 A,,C, | %56
+ B,,C, D,E, F,G, | =B,,C, B,,D, B,,G, | C,D, C,E, C,C | D,6 | E,6 | [CF,]2 F,2 A,,F,- | %62
+ [F,B,,] B,, C,4 | [F,,F,]G, A,G, F,E, | D,A FD A,G | B,F DB, F,A | G,G A,F A,E | [DF]4 B,E | %68
+ A,F G,G F,A | G,B EG FA | _DE =D4 | A,B, A,G, F,E, | D,A, F,D, A,,G, | B,,F, D,B,, F,,A, | %74
+ G,,G, A,,F, A,,E, | [D,F,]4 B,,E, | A,,F, G,,G, F,,A, | G,,B, E,G, F,A, | G,B, A,4 | D,6 |] %80
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | z2 D, | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z2 A,, | z3/2 A,,3/2 | %16
+ x3 | x3 | x3 | z E,2 | x3 | x3 | _A, =A,2 | x3 | x3 | z =B3/2 c/ x | x3 | x3 | x3 | %29
+ z/ =B, C/ z/ D,/ | z2 E,, | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z2 D, | x3 | x3 | x3 | x3 | x3 | %44
+ x3 | x3 | z2 A,, | z3/2 A,,3/2 | x3 | x3 | x3 | z2 F,, | z B,2 | z A,2 | z2 C,, | x3 | x3 | x3 | %58
+ x3 | z F,2 | z G,2 | z C z | z/ F,3/2 [E,B,] | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z2 D, | x3 | %72
+ x3 | x3 | x3 | x3 | x3 | x3 | z2 A,, | z3/2 A,,3/2 |] %80
+V:6
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z2 D,, | x3 | x3 | x3 | %19
+ z2 A,, | x3 | x3 | x3 | x3 | x3 | x4 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z2 D,, | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %57
+ x3 | x3 | z2 D | z2 C- | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %75
+ x3 | x3 | x3 | x3 | z2 D,, |] %80

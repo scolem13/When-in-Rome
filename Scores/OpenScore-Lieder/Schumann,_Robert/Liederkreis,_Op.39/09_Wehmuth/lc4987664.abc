@@ -1,0 +1,71 @@
+X:1
+T:Liederkreis, Op.39
+T:Wehmuth
+C:Robert Schumann
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 7 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=50
+M:3/4
+I:linebreak $
+K:E
+U:s=!stemless!
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:7 treble 
+V:3 bass 
+V:4 bass 
+V:6 bass 
+V:1
+"^Sehr langsam." !fermata!z4 z!p! G | A G c3 B | (B>A) G2 z G | F B c7/2 B/ | B2 z2 z F | %5
+w: Ich|kann wohl manch- mal|sin- * gen, als|ob ich fröh- lich|sei; doch|
+ G G c3 B | (B>A) G2 z G | F B c7/2 B/ | B2 z2 z F | F3 G A c | (B>A) G2 z2 | (F3 G) A c | %12
+w: heim- lich Trä- nen|drin- * gen, da|wird das Herz mir|frei. Es|las- sen Nach- ti-|gal- * len,|spielt _ drau- ssen|
+ B3/2 A/ G3 =G | =G3!<(! G e3/2 =d/!<)! | =d2 c3 B |"^ritard." (B2 A) ^A B3/2 =G/ | F2 z2 z!p! F | %17
+w: Früh- lings- luft, der|Sehn- sucht Lied er-|schal- len aus|ih- * res Ker- kers|Gruft. Da|
+ ^G G c3 B | (B>A) G2 z G | F B c7/2 B/ | B2 z2 z!p! A | G3 G c3/2 B/ | (B>A) G3 ^^F | %23
+w: lau- schen al- le|Her- * zen, und|Al- les ist er-|freut, doch|kei- ner fühlt die|Schmer- * zen, im|
+"^ritard." G E B3 A | G2 z2 z2 | z6 | z6 | !fermata!z6 |] %28
+w: Lied das tie- fe|Leid.||||
+V:2
+{sG,/-} !fermata![G,G]4"^sehr gebunden" z ([G,G] |!<(! [A,A][G,G]!<)! [Cc]3 [B,-B] | %2
+ B>A G3) ([G,G] |!<(! [F,F][B,B]!<)! [Cc]2- [Cc]>B | B3) (=AE[DF] | %5
+!<(! [G,EG])([G,G]!<)! [Cc]3 [B,-B]) | (B>A [G,G]3) ([^A,EG] | F[DB] [Cc-]2 c!>(!d/e/ | %8
+ d[Ec][DB][C=A][B,G]!>)![B,-DF]) | ([DF]3 [EG][FA][Gc]) | ([FB]>[DA] [EG]3) [DF] | %11
+ ([DF]3!<(! [EG][FA][Gc])!<)! | ([FB]>[DA] [EG]3) [E=G] | =G3!<(! (Ge>!<)!=d) | =d2 c7/2 B/ | %15
+"^ritard." B2 A!<(! (^AB!<)!=G |!<(! F3)!<)!!>(! ^^F^G>!>)!^F | [G,EG]!<(!([G,G] [Cc]3!<)! [B,B]) | %18
+ (B>A) [G,G]3 ([G,G] | [F,F][B,B] c7/2 B/) | (B3 =AE[DF] | [EG]3!<(! [G,G] c>!<)!B) | %22
+ (B>A [G,G]3) [^^F,E-^^F] |"^ritard." ([G,EG][^CE-] B3!>(! =A)!>)! | ([EG]3 [C^^F][^A,^F][CE]- | %25
+ [CE]E- F4) |!>(!{E/} E6!>)! | !fermata![B,E]6 |] %28
+V:3
+!p!{E,,-B,,-[I:staff -1]G,}[I:staff +1] !fermata![E,,B,,]4 z B,,- | %1
+ B,, B,,2!>(! E,[I:staff -1]C!>)![I:staff +1]E,- | E,D, E,B,,[I:staff -1]G,[I:staff +1]B,,- | %3
+ B,, B,,2 B,2 ^A, | z B,2 B,,3- | B,, B,,2!>(! E,[I:staff -1]C!>)![I:staff +1][C,^E,]- | %6
+ [C,E,]F, z =E,2 E, | D,2 z B,2 ^A, | B,2 B,, B,,2 [=A,,B,,-] | B,, B,,- B,,4- | %10
+ B,,2- (B,, B,,3-) | B,, (B,,- B,,4-) | B,,3 (B,,2 E,-) | E, E,2 E,2 F,- | F, =G,2 G,3- | %15
+ G, =G,2 F,E,B,- | B,[F,-^A,] F,2 B,,2- | B,, B,,2 E,2 E,- | E,D, E, B,,2 B,,- | B,, B,,2 B,2 ^A, | %20
+ z B,2 B,,3- | B,, B,,2 E,2 E,- | E,D, E,2 x!p! ^A,, | ([B,,,B,,][=A,,,=A,,] z G,,2 F,, | %24
+ z)!>(! (E,,2!>)! D,,G,,,C,, | =G,,,F,,, B,,,) B,,2 B,,- | B,, B,,- B,,4- | !fermata!G,6 |] %28
+V:4
+ x4 x (E,, | F,,E,, A,,3 G,, | F,,B,,, E,,3) ((E,, | D,,)G,, E,,3 F,, | B,,3) B,,2 B,,, | %5
+ E,,2 A,,3 G,, | F,,2 C,,3 (C,, | D,,G,, E,,3 F,, | B,,2-) x4 | (A,,3 G,,F,,E,,) | %10
+ (D,,B,,, E,,3) A,, | (A,,3 G,,F,,E,,) | (D,,B,,, E,,3) A,, | A,,6 | A,,2- A,, A,,2 B,, | C,6 | %16
+ (C,3- [F,,C,]B,,B,,, | E,,) (E,, A,,3 G,,) | (F,,B,,, E,,3) ((E,, | D,,)G,, E,,3 F,,) | %20
+ B,,3 B,,2 (B,,, | E,,3 E,,A,,G,,) | (F,,B,,, E,,3 =C,,) | x2 G,,,3 F,,, | E,,, x5 | x2 B,,,4 | %26
+ E,,6- | [E,,B,,]6 |] %28
+V:5
+ x6 | x4 x2 | B,A, G,2 x2 | x4 G[EF]- | [EF]2!>(! [EF]DC!>)!A, | x6 | B,A, x2!<(! C2 | %7
+ B,2 x2!<)! GF- | F3 E2 z | B,2 B,4- | B, B,3 B,2- | B,2 B,4- | B, B,3 B,C | C z [CE]2 x F- | %14
+ F2 E2 x x | D^D E3 E- | x3 ^A,B,=A, | x4 E2- | [B,E][A,B,] x2 E2 | x2 C2!>(! G!>)![EF]- | %20
+ [EF]2!>(! [EF]DCA,!>)! | G,2 G, x CB,- | B,[A,B,] x[I:staff +1] B,,[I:staff -1]E x | x2 B,4 | %24
+ z2 G,4 | =B,^A, =A,4- | A,2 x2 B,2- | x6 |] %28
+V:6
+ x6 | x6 | x2 E,2 x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x4 E,2- | %16
+ E,3 x3 | x6 | x6 | x6 | x6 | x6 | x3 B,,2 x | x6 | x6 | x6 | x3 E,2 G, | x6 |] %28
+V:7
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 =G2 x | %14
+ x3[I:staff +1] (=G,[I:staff -1]E=D-) | x6 | E2 [CE]2 D2 | x6 | x6 | x6 | x6 | x6 | x6 | %23
+ x2 E2 D C/D/ | x6 | x2 E2 D2 | %26
+ x[I:staff +1] B,,[I:staff -1]^G,[I:staff +1] E,[I:staff -1]B,[I:staff +1] G,- | x6 |] %28

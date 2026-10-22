@@ -1,0 +1,52 @@
+X:1
+T:Zwölf Gesänge
+T:Der Sänger geht
+C:Louise Reichardt
+Z:Novalis (Georg Friedrich Freiherr von Hardenberg)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 6 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+V:5 treble 
+V:6 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Langsam und getragen" z4 |:S z4 | z4 z2 B2 | B3 G B A G F | F2 E2 z E D E | F2 B,2 E2 G2 | %6
+w: ||1.~Der|Sän- ger geht auf rau- hen|Pfa- den, zer- reisst in|Dor- nen sein Ge-|
+ F4 z2 B2 | B3 G B A G F | F2 E E c3 B | B2 G2 F2 A2 | G2 z2 z4 | z8 | B2 B B A =G F E | %13
+w: wand; er|muss durch Fluss und Süm- pfe|ba- den und keins reicht|hülf- reich ihm die|Hand,||Ein- sam und pfad- los fliesst in|
+ ED D2 z B =c B | B3/2 B/ A/=G/ F/E/ B3 B | (ef/^g/f/e/d/) c/ B B c d | (e>G) G2 F2 c B | %17
+w: Kla- * gen jetzt ü- ber|sein er- mat- * tet * Herz, er|kann * * * * * die Lau- te kaum noch|tra- * gen, ihn ü- ber-|
+ B3 G (B2 A) F | E4!D.S.! :| !fermata!z4 |] %20
+w: mannt ein tie- * fer|Schmerz.||
+V:2
+ [EG]2 |: A/>B/ [EGB]/4e/4^d/4e/4 | f- f/4e/4d/4c/4 (!wedge!B/!wedge!B/!wedge![FAB]/!wedge!B/) | %3
+ [EG] [EG] [DF] [DF] | E E E E | [DF] [DF] E [EG] | [DF] (!wedge!B !wedge!B !wedge!B) | %7
+ [EG] [EG] [DF] [DF] | E E E E | [EG] [EG] [DF] [DFA] | [EG]2 [DFA]/>B/ [EGB]/4e/4^d/4e/4 | %11
+ f- f/4e/4d/4c/4 (!wedge!B/!wedge!B/!wedge![FAB]/!wedge!B/) | [E=GB] [EGB] [EGB] [EGB] | %13
+ [DFAB] [DFAB] [DFAB] [DFAB] | [E=GB] [EGB] [DFB] [B,DFA] | [E^GB] [DFAB] [DFAB] [DFAB] | %16
+ [EGB] [EGB] [CFA] [CFA] | [EG] [EG] [DF] [DF] | [EG]2 :|"^Schluss." !fermata!E2 |] %20
+V:3
+ E, E, |: E, E, | [B,,D,] [B,,D,F,] [B,,D,F,] [B,,D,F,] | [E,,E,] [E,,E,] [B,,,B,,] [B,,,B,,] | %4
+ [E,,E,] [E,,E,] [E,,E,] [E,,E,] | [B,,,B,,] [B,,,B,,] [E,,E,] [E,,E,] | [B,,,B,,]2 z2 | %7
+ [E,,E,] [E,,E,] [B,,,B,,] [B,,,B,,] | [E,,E,] [E,,E,] [A,,,A,,] [A,,,A,,] | %9
+ [B,,,B,,] [B,,,B,,] [B,,,B,,] [B,,,B,,] | E, E, E, E, | [B,,D,] [B,,D,F,] [B,,D,F,] [B,,D,F,] | %12
+ E, E, E, E, | B,, B,, B,, B,, | E, E, [B,,,B,,] [B,,,B,,] | E, [E,B,] [E,B,] [E,B,] | %16
+ [E,B,] [E,B,] [A,,A,] [A,,A,] | B,, B,, B,, B,, | E, E, :| [E,,E,]2 |] %20
+V:4
+ B,2 |: x2 | x4 | B, B, [A,B,] [A,B,] | [G,B,] [G,B,] [G,B,] [G,B,] | [A,B,] [A,B,] [G,B,] B, | %6
+ B, x x2 | B, B, [A,B,] [A,B,] | [G,B,] [G,B,] [A,C] [A,C] | B, B, B, B, | B,2 x2 | x4 | x4 | x4 | %14
+ x4 | x4 | x4 | B, B, [A,B,] [A,B,] | [G,B,]2 :| [G,B,]2 |] %20
+V:5
+ x2 |: [DF] x | B x x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | B x x2 | x4 | x4 | x4 | x4 | x4 | %17
+ x4 | x2 :| x2 |] %20
+V:6
+ x2 |: x2 | A x x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | A x x2 | x4 | x4 | x4 | x4 | x4 | x4 | %18
+ x2 :| x2 |] %20

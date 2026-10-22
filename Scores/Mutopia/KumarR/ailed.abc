@@ -1,0 +1,66 @@
+% Prelude: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=657
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Prelude
+C:Ramana Kumar
+%%score ( 1 2 3 ) ( 4 5 6 )
+L:1/4
+Q:1/4=60
+M:6/4
+I:linebreak $
+K:none
+V:1 treble nm="right"
+V:2 treble 
+V:3 treble 
+V:4 bass nm="left"
+V:5 bass 
+V:6 bass 
+V:1
+ [D^F_B] [DFB] [DFB] [DFB]3 | [=B,^F^G] [B,FG] [B,FG] [B,G]3 | %2
+ [B,E^G] [B,EG] [B,EG] [_B,^DG]2 [B,D^F] | [=B,^D^F] [B,DF] [B,DF] [A,DF] [A,D^G] [A,DF] | %4
+ [A,=D^F] [A,DF] [A,DF] [^G,^CF]2 [G,CE] | [=G,B,^C] [G,B,C] [G,B,C] [^F,_B,C]2 [F,B,^D] | %6
+ [G,=B,^D] [G,B,D] [G,B,D] [G,B,D]3 | [E,^G,^C] [E,G,C] [E,G,C] [E,=G,C]2 [^D,G,C] | %8
+ [^D,^F,=C] [D,F,C] [D,F,C] [D,F,B,]2 [D,F,B,] | [C,^F,A,] [C,E,] [C,F,] [^D,G,]2 [D,A,] | %10
+ [B,^G] [^G,E] B, z3 | ^G ^F ^C E2 ^D | E B, ^C [^F,=D]2 [^G,E] | [A,^C]2 [B,E] [=G,C]2 [G,^D] | %14
+ [G,B,^D] [G,B,D] [G,B,D] [^G,B,D]2 [G,B,F] | [B,=G]2 ^D F2 [_B,^CG] | ^G G ^D _B G D | %17
+ _B B F [Fc] [^G^c] [=B^d] | [^F_B=f] [=FBf] [FBf] [FBf]3 | %19
+ [^D=B^d] [D^GBd] [DGBd] [D^FBd]2 [=F^c] | [EAe] [EAe] [E^Ge] [^F_B^d^f]2 [EGd] | %21
+ [E^G^c] [^DG=B] [=FGB] [=D^F_B]2 [DG] | [=B,^D^G] [B,DG] [B,DG] [B,DG]2 [B,D_B] | %23
+ [C^D^G] [CDG] [CDG] [CEG]2 [CF_B] | [^CFA] [CFA] [CFA] [CFA]3 | %25
+ [^C^F_B] [^DFB] [DF^c] [CF=c]2 [=CFB] | [^G^D] D2 ^F2 G | F ^C ^D E2 ^F | %28
+ [B,^D] [_B,_B] [=C=c] [^C^c]2 [D^d] | [=C=c] [^G,^G] [_B,_B] [=B,=B]2 [^C^c] | %30
+ [_B,_B] [F,F] [=G,=G] [^G,^G]2 [B,B] | [=G,=G]6 | G F C ^D2 [_B,=D] | %33
+ [G,^D] [G,_B,] [G,C] [^G,^C]2 [G,D] | =C2 [CF,] [^F,^C]2 [^G,^D] | %35
+ [=F,A,^D] [^C^c] ^G [DA^d]2 [FGcf] | ^f f [^G^c] [A^d^g]2 [Bdg] | [=ce^g] [ceg] [ceg] [ceg]3 | %38
+ [E_B^c] [EB^d] [EBe] [EBd]2 [^DAc] | [^D=B] [E^F] [=F^G] [^FA]2 [=GB] | ^G _B =B [_B^c]2 [^FB^d] | %41
+ [=G=B^d] [GBd] [GBd] [GBd]3 |] %42
+V:2
+ x6 | z3 ^F2 =F | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | ^D2 z4 | x6 | x6 | x6 | ^D D z4 | %16
+ [=B,^D]2 z [B,D]2 z | ^D2 z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | =B,3 [A,^C]3 | _B,3 =B,3 | %28
+ G,3 ^F3 | =F3 E3 | ^D3 ^C3 | ^D D4- D | [=B,^D]2 z4 | x6 | =G, z4 z | x6 | [^F^c]2 z4 | x6 | x6 | %39
+ x6 | x6 | x6 |] %42
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 =F z3 | x6 | x6 | x6 | x6 | =B,2 _B,4 | x6 | x6 | x6 | x6 | %36
+ x6 | x6 | x6 | x6 | x6 | x6 |] %42
+V:4
+ _B, ^F, ^C, ^F,,3 | _B, ^G, ^D, ^C,,3 | ^F, ^C, ^D, E,2 E, | B,,,/4 z3/4 =F, F, ^F, F, F, | %4
+ E, B,, ^C, D,2 D, | E, E, E, E,,2 E,, | ^D, B,, ^F,, B,,,3 | ^d ^c ^G B2 _B | A E ^F =G2 A | %9
+ ^F ^F,, F,, B,,2 B,, | E,2 E, [E,E,,]3 | A,, A, E, B,, B, A, | ^G, E, B,, E,,3 | %13
+ ^G, ^F, ^C, E,2 ^D, | z ^D, _B,, =F,2 =G, | ^G,2 _B, =B,3 | F,2 ^F, ^G,2 _B, | =B,3 ^C3 | %18
+ _B, ^F, ^C, ^F,,3 | _B, ^G, ^D, ^C,,3 | ^F, ^C, ^D, E,2 F, | B,,, [=F,B,] [F,B,] _B,2 F, | %22
+ ^F, B,, ^F,, B,,,2 ^C | _B, ^F, ^D, ^G,,3 | =F, ^C, ^G,, ^C,,3 | F, ^D, _B,, ^G,,,3 | F,3 ^D,3 | %27
+ [^F,,^C,^F,]3 [A,,E,G,]3 | [_B,,^D,]3 [G,,E,A,]3 | [^C,,^G,,^C,]3 [=G,,=D,=G,]3 | %30
+ [=C,^F,=C]3 [E,,_B,,E,]3 | ^D, D,2 [D,^D,,]3 | G,2 F, _B,,2 z | ^D,, D,, D,, [_B,,F,]2 [B,,F,] | %34
+ [^G,,=D,]3 [^F,,^D,]2 [F,,D,] | [^C,,^G,,] z ^G, [^F,^C]2 [G,^D] | [A,^DA]2 [B,EB] [^C^F]2 D | %37
+ ^G, E, B,, E,,3 | ^G, ^F, ^C, B,,,3 | B, B, B, B,2 B, | ^G E B, E,2 E, | ^D B, ^F, B,,3 |] %42
+V:5
+ x6 | z4 z =F, | x6 | =F, z4 z | x6 | x6 | x6 | x6 | x6 | x6 | E,,3 z3 | x6 | z4 B,,2 | x6 | x6 | %15
+ z4 ^C,2 | ^C,3 C,3 | z2 ^C,4 | x6 | z4 ^C2 | z4 ^F,,2 | z4 =B,,2 | x6 | z4 z ^F, | x6 | x6 | x6 | %27
+ x6 | x6 | x6 | x6 | =B,,2 _B,,4 | [^G,,^D,]3 z ^G, z | x6 | z ^D, z4 | x6 | z4 B,,2 | x6 | x6 | %39
+ x6 | x6 | x6 |] %42
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | ^D,,3 z3 | x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | x6 | x6 | x6 |] %42

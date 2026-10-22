@@ -1,0 +1,74 @@
+X:1
+T:Chanson de Barberine
+C:Clémence de Grandval
+Z:Alfred de Musset
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=144
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Chant\nVoice"
+L:1/16
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+"^Allegro" z8 |: z8 | z8 | z8 |"^Chant / Voice" z8 | z8 | z8 | A4 d3 c | A7 B | c3 d c3 B | %10
+w: |||||||1. Beau che- va-|lier qui|par- tez pour la|
+ (A4 E2) z E | A4 B4 | ^G4 A2 z B | c4 d4 | B8 | c4 f3 e | c7 ^c |({^ce/} d3) c d3 e | d4 =c4 | %19
+w: guer- re, Qu’al-|lez vous|fai- re si|loin d’i-|ci?|Voy- ez- vous|pas que|la nuit est pro-|fon- de?|
+ d4 A3 B | A6 A2 | d4 A3 B | A8 | z2!<(! A2 B2"^rit:" c2 | (d2!<)!e2) f4- | %25
+w: Et que le|mon- de|N’est que sou-|ci,|Et que le|mon- * de|
+!>(! f2"^a Tempo\n" B2({B/d/} c3)!>)! B | A4- A2 z2 :| z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %35
+w: _ N’est que sou-|ci! *|||||||||
+[M:2/4] A4 d3 c | A7 B | c3 d c3 B | (A4 E2) z E | A4 B4 | ^G4 A2 z B | c4 d4 | B8 | c4 f3 e | %44
+w: 1. Beau che- va-|lier qui|par- tez pour la|guer- re, Qu’al-|lez vous|fai- re si|loin d’i-|ci?|Voy- ez- vous|
+ c7 ^c |({^ce/} d3) c d3 e | d4 =c4 | d4 A3 B | A6 A2 | d4 A3 B | A8 | z2!<(! A2 B2"^rit:" c2 | %52
+w: pas que|la nuit est pro-|fon- de?|Et que le|mon- de|n’est que sou-|ci,|Et que le|
+ (d2!<)!e2) f4- | f2!>(! B2"^a tempo"({B/d/} c3)!>)! B | A4- A2 z2 |][M:2/4] A4 d3 c | A7 B | %57
+w: mon- * de|_ n’est que sou-|ci. *|2. Vous qui croy-|ez qu’une|
+ c3 d c3 B | A4 E2 z E | A4 B4 | ^G4 A3 B | c4 d4 | B8 | c4 f3 e | c7 ^c |{^ce/} d3 c d3 e | %66
+w: a- mour  dé- lais-|sé- e De|la pen-|sé- e s’en-|vole ain-|si.|Hé- las! hé-|las! cher-|cheurs de re- nom-|
+ d4 =c4 | d4 A3 B | A8 | d4 A3 B | A8 | z2!<(! A2 B2"^rit:" c2 | (d2!<)!e2 f4-) | %73
+w: mé- e|Vo- tre fu-|mée|S’en vole aus-|si!|Vo- tre fu-|mé- * e|
+ f2 B2"^a tempo"!>(!{B/d/} c3!>)! B | A4- A2 z2 |][M:2/4] A4 d3 c | A7 B | c3 d c3 B | %78
+w: _ S’en- vole aus-|si! *|3. Beau che- va-|lier qui|par- tez pour la|
+ (A4 E2) z E | A4 B4 | ^G4 A2 z B | c4 d4 | B8 | c4 f3 e | c7 ^c |{^ce/} d3 c d3 e | d4 =c4 | %87
+w: guer- re, Qu’al-|lez- vous|fai- re si|loin de|nous|J’en vais pleu-|rer moi|qui me lais- sais|di- re|
+ d4 A3 B | A8 | d4 A3 B | A8 | z2 A2!<(! B2"^rit:" c2 | (d2e2!<)! f4-) | %93
+w: Que mon sou-|rire|E- tait si|doux!|Que mon sou-|ri- * re|
+ f2!>(! B2!>)!"^a tempo"({A/B/d/} !fermata!c3) B | A4- A2 z2 |] %95
+w: _ E- tait si|doux! *|
+V:2
+ z2 !>!e2 |:(({de} d/)^c/d/e/ fd | e2) (!>!c2 |({Bc} B/)^A/B/c/ d2) | (!>![CA]2 [D^F]/^G/F/G/) | %5
+ (!>![CA]2 [D^F]/^G/F/G/ | [CA]4) | [CEA] z [FAd]>[EAc] | [CEA]7/2 [DAB]/ | %9
+ [EAc]>[FAd] [Ec]>[DEB] | ([CEA]2 [B,DE]) z/ E/ | ([CA]E[B,A]F) | ([B,D^G]E[CA]E/[B,G]/) | %13
+ ([CA]E[B,A]F) | ([B,^G]E[B,=G]=F) | [EGc]2 [Acf]>[Gce] | [EGc]7/2 [EG^c]/ | %17
+ [FGd]>[EG^c] [FGd]>[GBe] | [FGd]2 [EG=c]2 | ([DF]AdA) | ([^CE]A^cA) | ([DF]AdA) | ([^CE]A^cA) | %23
+ ([=C=F]A"^suivez la voix"cA) | ([B,F]ABA-) | [B,FA] z [D^G]2 | [CEA] z"^dolce e leggiero" !>!e2 :| %27
+(({de} d/)^c/d/e/ fd | e2) (!>!c2 |({Bc} B/)^A/B/c/ d2) | (!>![CA]2 [D^F]/^G/F/G/) | %31
+ (!>![CA]2 [D^F]/^G/F/G/) | !>![CA] z[K:bass]!pp! (=F,/E,/C,/D,/ | %33
+ !wedge!E,)!wedge!C,!wedge!D,!wedge!E, | A,,2 !fermata!z2 |][M:2/4] z4 | z4 | z4 | z4 | z4 | z4 | %41
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |][M:2/4] z4 | z4 | z4 | z4 | %59
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |][M:2/4] z4 | z4 | %77
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |] %95
+V:3
+ [A,,,A,,] z[K:treble] (cA) |: (BAdB) | (=cAEA) | (F=ADA) |[K:bass] z E, !>!B,2- | (B,E,) (!>!B,2 | %6
+ ([A,,A,])E,C,B,,) | (A,,E,A,E,) | (A,,E,A,E,) | (A,,E,^G,E,) | (A,,E,^G,E,) | (A,2 D,2) | %12
+ (E,2 A,,2) | (A,2 D,2) | (E,2 D,2) | (C,G,CG,) | (C,G,CG,) | (G,,G,B,G,) | (B,G,CG,) | A,4 | %20
+ [A,,E,A,]4 | A,4 | [E,A,]4 | [=F,A,]4 | D,4 | [D,,D,] z [E,,E,]2 | [A,,,A,,] z[K:treble] (cA) :| %27
+ (BAdB) | (=cAEA) | (F=ADA) |[K:bass] z E, !>!B,2- | (B,E,) !>!B,2 | [A,,A,] z (=F,,/E,,/C,,/D,,/ | %33
+ !wedge!E,,)!wedge!C,,!wedge!D,,!wedge!E,, | A,,,2 !fermata!z2 |][M:2/4] z4 | z4 | z4 | z4 | z4 | %40
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |][M:2/4] z4 | z4 | z4 | %58
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |][M:2/4] z4 | %76
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |] %95
+V:4
+ x[K:treble] x |: x2 | x2 | x2 |[K:bass] A,,2 | A,,2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %15
+ x2 | x2 | x2 | =C,2 | (F, D,) | x2 | (F, D, | A,,2) | x2 | x2 | x2 | x[K:treble] x :| x2 | x2 | %29
+ x2 |[K:bass] A,,2 | A,,2 | x2 | x2 | x2 |][M:2/4] x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %44
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |][M:2/4] x2 | x2 | x2 | x2 | x2 | x2 | x2 | %62
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |][M:2/4] x2 | x2 | x2 | x2 | x2 | %80
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %95

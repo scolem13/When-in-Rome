@@ -1,0 +1,54 @@
+% Gigue in G Major: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=239
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Gigue in G Major
+C:W. A. Mozart (1756­1791)
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=140
+M:6/8
+I:linebreak $
+K:G
+V:1 bass nm="Down"
+V:2 bass 
+L:1/8
+V:3 treble nm="Up"
+V:4 treble 
+L:1/8
+V:1
+ x2 | z12 | z12 | z12 | z8 z2 D z | B, z G, z G2 F2^C z D z | =F2E2^G, z A, z =C z B, z | %7
+ C z C, z A,, z D, z D z B, z | E z E, z C, z F, z F z D z | G z G,6 A,2-^C2 | F4 D2 G4 E2 | %11
+ [DF]2 z2 [B,^G]2 [A,A]2 z2 A2 | z8 z2 A, z | =F, z D, z D2 ^C2^G, z A, z | %14
+ =C z ^F, z A, z ^A,, z ^A, z =G, z | ^D, z G, z =D, z ^C, z =A,, z B,, z | %16
+ G,, z E,, z A,, z D,, z3 A, z | F, z D, z D2 ^C2^G, z A, z | z4 ^A,,2 B,,4 B, z | %19
+ G, z E, z E2 ^D2^A, z B, z | z8 C z ^C z | G,2F,2^A, z B, z =F,2E,2 | %22
+ ^A,, z =A,, z ^D,2 =D,2^G, z =G, z | B,2C2D z E4 D2 | C4 ^C2 D4 z2 | [D,G,^A,]4 z2 [D,F,=A,]4 z2 | %26
+ [D,^G,B,]4 z2 [D,A,C]4 z2 | [D,F,A,C]4 z2 [D,=G,^A,]4 z2 | [D,G,=A,^C]4 z2 [D,F,A,D]2 z4 | %29
+ z8 z2 D z | ^A, z G, z G2 F2^C z D z | =F z B, z D z ^D, z ^D z =C z | %32
+ ^G, z C z =G, z ^F,2=D,2E, z | C, z A,, z D, z [G,,G,]4- [G,,G,]2 | [G,,G,]6 [G,,G,]4- [G,,G,]2 | %35
+ [G,,G,]6 [G,,G,]4- [G,,G,]2 | [G,,G,]2 z2 [^D,,^D,]2 [E,,E,]2G, z [=D,,=D,]2 | %37
+ [^C,,^C,]2 z2 [=C,,=C,]2 [B,,,B,,]2[G,,G,]2[E,,E,]2 | %38
+ [C,,C,]2[A,,,A,,]2 [D,,D,] z [G,,,G,,]4 x2 |] %39
+V:2
+ x | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z2 B, E2 A,- | A, B,3 ^C-C | z6 | z6 | z6 | z6 | z6 | %16
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %35
+ z6 | z6 | z6 | z4 z x |] %39
+V:3
+ x8 x2 d2 | B z G z g2 f2^c z d z | =f2e2^G z A z =c z [B=G]2 | %3
+ [A^F] z D2[^fd]2 [e^c]2[d'^G] z [^c'A] z | [e=c]2[^dB]2[a^D] z [=gE] z [^cG] z [=dF] z | %5
+ z4 [^cA]2 d2g z f z | B4 [dE]3 z [F^D] z G2- | =G2 A6 B2-B2- | B2 c6 d2-^A2 | B2B2e2 b z ^c2f2 | %10
+ ^c' z d2g2 d' z e z a z | f z d z d'2 ^c'2^g z a z | a6 a4- A z | [daA]6 [eaA]4- [eaA]2 | %14
+ [^daA]6 [=d=a^A]4- [daA]2 | [^dg^A]6 [eg]4 [f=d]2 | B2e2[^cE]2 [dF]2 z4 | z8 z2 A z | %18
+ c z e z E2 ^D2G z F z | z8 z2 B z | d z f z F2 =F2A z ^G z | B2^A2e z ^d z =a2^g2 | %22
+ =d' z ^c' z =g2 f2=c' z b z | =f2e2d z c z g z B z | A z e z G z ^F2A2d z | %25
+ ^A z G z g2 f2^c z d z | =f2e2^G z =A z =c z A z | e2d2^F z =G z d z ^A z | %28
+ ^a2=a2^c z d z d' z [d'd]2 | d'6 d'4- d z | [gd'd]6 [ad'd]4- [ad'd]2 | %31
+ [^gd'd]6 [=g=d'^d]4- [gd'd]2 | [^gc'^d]6 [ac']4 [b=g] z | e z a z [fA]2 [gB]2b z [g^ce]2 | %34
+ [fd]2d' z [=fBd]2 [e=c]2c' z [c^d^F]2 | [B=dG]2b z [^Gd=F]2 [A^cE]2a z [^F=c^D]2 | %36
+ [=GB=D]2g z ^D2 E2G z =D2 | ^C2A z =C2 B,2G z E z | C z A, z [Adf] z [Bdg]4 x2 |] %39
+V:4
+ x x5 | z6 | z6 | z6 | z6 | z3 A2- A- | A^G z =c/ z3/2 =D/ z/ | E2 =F ^F2- F | G2 ^G =A2 d- | %9
+ d z4 z | z6 | z6 | F/ z/ D/ z/ d ^c^G/ z/ a | z6 | z6 | z3 =A^c z | z6 | z6 | z6 | z6 | z6 | z6 | %22
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | B/ z/ G/ z/ g f^c/ z/ d' | z6 | z6 | z3 =df z | z6 | z6 | z6 | %36
+ z6 | z6 | z4 z x |] %39

@@ -1,0 +1,31 @@
+X:1
+T:Weg, mein Herz, mit den Gedanken
+T:Weg, mein Herz, mit den Gedanken
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ c2 d | e2 d | c2 B | A3 | !fermata!G3 | c2 d | e2 f | e d2 | !fermata!c3 :| e2 f | g2 f | e d2 | %12
+ !fermata!e3 | g g2 | a2 g | f e2 | !fermata!d3 | e2 g | f2 e | c d2 | e3 | !fermata!c3 | e2 g | %23
+ f2 e | d2 e | d3 | !fermata!c3 || %27
+V:2
+ G2 G | G2 ^F | G A G | E ^F2 | !fermata!D3 | C2 G | G2 A | E A G | !fermata!E3 :| G2 A | _B2 A | %11
+ E A G | !fermata!G3 | c _B2 | A =B c | c G2 | !fermata!G3 | G2 G | A2 G | F D G | G3 | %21
+ !fermata!F3 | G2 G | G2 G | F D G | G3 | !fermata!G3 || %27
+V:3
+ e2 B | c B A | e d d | c A2 | !fermata!B3 | G2 B | c2 c | c2 B | !fermata!G3 :| c2 c | c2 c | %11
+ c2 B | !fermata!c3 | e e2 | c d e | c2 c | !fermata!B3 | c2 c | c2 B | c B2 | c2 _B | %21
+ !fermata!A3 | c2 e | d2 c | A B c- | c B/d/ f | !fermata!e3 || %27
+V:4
+ C2 G, | C,2 D, | E, ^F, G, | C, D,2 | !fermata!G,,3 | E,2 G, | C B, A, | G, F, G, | %8
+ !fermata!C,3 :| C2 A, | E,2 F, | G, F, G, | !fermata!C,3 | C, C/_B,/A,/G,/ | F,2 E, | %15
+ A,/B,/ C C, | !fermata!G,3 | C2 E, | F,2 G, | A, B, G, | C2 C, | !fermata!F,3 | C,2 C | C B, C | %24
+ F, G, C, | G,,3 | !fermata!C,3 || %27

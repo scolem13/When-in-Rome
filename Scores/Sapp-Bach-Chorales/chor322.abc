@@ -1,0 +1,32 @@
+X:1
+T:Wenn mein St&uuml;ndlein vorhanden ist
+T:Wenn mein St&uuml;ndlein vorhanden ist
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ G | D E F G | A B !fermata!G B/c/ | d d B/c/ d | c2 !fermata!B B | c B A G/A/ | %6
+ B B/A/ !fermata!G B/c/ | d d B d | c2 !fermata!B B | c B A G/A/ | B B !fermata!G A | B B E F | %12
+ G/F/ E !fermata!D D | G A B A/B/ | c B A2 | !fermata!G3 x || %16
+V:2
+ D | D C C D | D D !fermata!E D | D/E/ F G =F | E ^F !fermata!D D | D3/2 E/ F G/F/ | %6
+ E ^D !fermata!E E | =D A G B- | B A !fermata!G G | G G F/E/ D | D D !fermata!E E/F/- | %11
+ F/ E/4F/4 G/F/ E- E/D/ | D- D/^C/ !fermata!A, D | D D G G | F/A/- A/G/ G F | !fermata!D3 x || %16
+V:3
+ B/A/ | G G A B | c B !fermata!c B | A A G/A/ B- | B A !fermata!G B | A B B B | B B !fermata!B G | %7
+ A/B/ c/d/ d/e/ =f | e ^f !fermata!d d | c d d d/c/ | B/A/ G !fermata!c c | B B- B/A/ A/ B/4c/4 | %12
+ B/A/ G !fermata!F F/A/ | B A G e/d/ | c/d/ d e d/c/ | !fermata!B3 x || %16
+V:4
+ G,,/A,,/ | B,, _B,, A,, G,, | F,, G,, !fermata!C, G, | F,/E,/ D, E, B,, | C, D, !fermata!G,, G, | %5
+ F, G, ^D, E,/F,/ | G,/A,/ B, !fermata!E, E, | =F, ^F, G, ^G, | A, D, !fermata!=G, G,/F,/ | %9
+ E, D, C, B,,/A,,/ | G,,/A,,/ B,, !fermata!C, A, | G,/F,/ E,/D,/ ^C, D, | %12
+ G,, A,, !fermata!D, D,/=C,/ | B,,/A,,/ G,,/F,,/ E,,/D,/ C,/B,,/ | %14
+ A,,/F,,/ G,,/B,,/ C,/A,,/ D,/D,,/ | !fermata!G,,3 x || %16

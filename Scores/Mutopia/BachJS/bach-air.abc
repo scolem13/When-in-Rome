@@ -1,0 +1,46 @@
+% Air: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=242
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Air
+C:J. S. Bach (1685-1750)
+%%score ( 1 2 ) 3 4 5
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble 
+L:1/4
+V:3 treble nm="Violin" snm="Vln"
+V:4 treble nm="Viola" snm="Vla"
+L:1/8
+V:5 bass nm="Violoncello" snm="Vc"
+L:1/8
+V:1
+ f16- | f2b[gf] edcd c4 B z3 | a8- a f=cB e^dag | g8- g eBA =d^cgf | f6 ^ga d2[de]f2 eed | %5
+ cB[Bc]2<d2 cB A8 | cB[Bc]2<d2 cB A8 | c4- c [dc][Bc]A a6 =c2 | B2b3 agf g4 (3[fe]2[d^c]2 z/ B | %9
+ ^AB2<c2 d2<e2 f g4 f2 | edcB c[de]d2 B8 | d4- d fed b6 a[^gf] | eaA2 B2>[cd]2 c2>B2 A4 | %13
+ d6 fe e6 gf | f6 ag g8 | A4- A ceg ge f4- f [ga] | d4- d fa=c' b6 d2 | ^ce g4 B2 A2ef z f2e | %18
+ [dc]B2c d2cd d8 |] %19
+V:2
+ x4 | z3 A | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ z2 z3/4 g/4 z | x4 |] %19
+V:3
+ d16- | d4 B4 A8- | A2=cB c2ac B2 z6 | B2ed efge A2 z6 | A8- A2 ^GA B2G2 | A2A2 A2^G2 E8 | %6
+ A2A2 A2^G2 E8 | A8- A B2<=c2 BA=G | F6 ^d2 e8- | e8- e =dcB ^ABc2 | B2B2 B2^A2 F8 | %11
+ E4 F4 B,2EF ^G=AB2- | B2 A4 ^G2 A8- | A2B=c B^c d4 cB c^de2- | e2^dc de2<f2 deB E4- | %15
+ ECEA c2 A4 c=d D4- | D2E2 F4 G8- | G2B2 e4- e dcB A2B2 | A4 GFG2 F8 |] %19
+V:4
+ A4 B4 | B,2 E2 E4- | E^D DE F z3 | EB, B,E E z3 | D3 E FD B,E- | EF B,E C4 | EF B,E C4 | %7
+ E4- E ^D/E/ F2- | F/G/A/F/ ^DB B2 B,2 | C/=D/E/F/ G/F/G/E/ FE/D/ CF | FE/D/ GF/E/ D4 | %11
+ B,B A/^G/A G>F E2- | EE FE E>D C/D/E/C/ | A, D2 B,2 E2 C- | C F2 ^D B,2- B,/ B/G/E/ | %15
+ AG FE =D2 A2- | AG A2 D4 | E/B,/E/G/ B/A/G/F/ E A2 G | F2 EA, A,4 |] %19
+V:5
+ D,D CC, B,,B, A,A,, | G,,G, ^G,^G,, A,,A, =G,=G,, | F,,F, E,E,, ^D,,^D, B,,B, | %3
+ E,,E, =D,D,, C,,C, A,,A, | D,D CC, B,,B, ^G,E, | A,D, E,E,, A,,/B,,/C,/D,/ E,/=G,/F,/E,/ | %6
+ A,D, E,E,, A,,4 | A,,A, G,G,, F,,F, E,E,, | ^D,,^D, F,B,, E,E =D=D, | C,C B,B,, ^A,,B,, C,A,, | %10
+ B,,G, E,F, B,,B, =A,A,, | ^G,,^G, F,F,, E,,E, D,D,, | C,,C, D,E, A,,A, =G,G,, | %13
+ F,,F, G,G,, ^G,,^G, A,A,, | ^A,,^A, B,B,, E,E DD, | C,C =A,C DD, =C,=C | B,B,, A,,A, G,G,, F,,F, | %17
+ E,E,, D,,D, C,A,, D,G, | A,G, A,A,, D,,4 |] %19

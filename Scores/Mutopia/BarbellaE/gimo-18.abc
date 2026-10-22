@@ -1,0 +1,58 @@
+% Sonata a Due Mandolini e Basso (Gimo 18): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=321
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonata a Due Mandolini e Basso (Gimo 18) (1)
+C:Emmanuele Barbella (1718-1777)
+L:1/16
+Q:1/4=90
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="I"
+V:1
+ x6 d2 | [gBDG,]4 bagf | g2G2 B2d2 | [gBDG,]4 bagf | g2G2 B2d2 | g2fg a2c2 | BAG2x2d2 | egfg egfg | %8
+ dgfg dgfg | gfed c2[BG]2 | [BG]2[AF]2x2A2 | ^A2d2 A2F2 | GFGF G2=A2 | ^A2d2 A2F2 | G2G,2x2d2 | %15
+ gfed gfed | ^cAaA gAfA | eAgA fAeA | fAaA gAfA | eAgA fAeA | fefg a2g2 | fefg a2g2 | f2ed e2d^c | %23
+ d2DD FFAA | d2[dF][dF] [dF][dF][dF][dF] | [dF]4 x2 A2 | d4 fed^c | d2D2 F2A2 | d4 fed^c | %29
+ d2D2 F2A2 | d2^cd e2G2 | FED2x2d2 | D2FA c2c2 | Bfgf g2d2 | D2FA c2c2 | Bfgf g2g2 | gfed c2[BG]2 | %37
+ [BG]2[AF]2x2d2 | ^d2g2 d2c2 | f2a2 f2=d2 | g2d2 B2G2 | cBAG cBAG | FDdD cDBD | ADcD BDAD | %44
+ BDdD cDBD | ADcD BDAD | BABc d2c2 | BABc d2c2 | B2AG A2GF | G2GG BBdd | g2BB BBBB | [gBDG,]4 x4 |] %52
+
+X:2
+T:Sonata a Due Mandolini e Basso (Gimo 18) (2)
+C:Emmanuele Barbella (1718-1777)
+%%score ( 1 2 )
+L:1/8
+Q:1/4=90
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="I"
+V:2 treble 
+L:1/4
+V:1
+ (3:2:6g4 dc BAG | e2 d2 z2 | (3cBc (3agf (3edc | (3BAG G2 z2 | [ga]/ z3/2 ag fe | %5
+ [fg]/ z3/2 gf ed | (3bge (3afd (3ge^c | d2 D2 z2 | (3dcB (3Bcd (3de=f | (3edc (3dcB c2 | %10
+ (3ed^c (3cde (3efg | (3fed (3ed^c d2 | (3^A=A^A (3d=cA (3A=AG | (3FED D2 z2 | (3cBc (3agf (3edc | %15
+ (3BAB (3gfe (3dcB | (3ABc (3Bcd (3FGA | G2 G,2 z2 |] %18
+V:2
+ [BDG,] z2 | x3 | x3 | x3 | b z2 | a z2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %17
+ x3 |] %18
+
+X:3
+T:Sonata a Due Mandolini e Basso (Gimo 18) (3)
+C:Emmanuele Barbella (1718-1777)
+L:1/16
+Q:1/4=90
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="I"
+V:1
+ D2G3 BA2- | AcB2 gfgd | BGA2 BcB2 | A2B2 gfgd | BGA2 BcB2 | A2G2 DB,G,2- | G,2BG Bdg2 | %7
+ d2^cA cea2 | e2 [dF]4 [gBDG,]2- | [gBDG,]2fa fdeg | e^c2<d2 a^gb | e=g2<f2 ABd | ^ce2<d2 a^gb | %13
+ e=g2<f2 ABd | ^ced2 cBAG | FED2 FGA2 | A,2 [fAD]4 z2 | A2d3 fe2- | egf2 afd2 | d2e2 fgf2 | %20
+ e2f2 afd2 | d2e2 fgf2 | e2 d4 z2 | D2G3 BA2- | AcB2 gfgd | BGA2 BcB2 | A2B2 gfgd | BGA2 BcB2 | %28
+ A2G2 dBG2 | =F2E2 e^cA2 | G2^F3 d^ce | A=c2<B2 DEG | FA2<G2 d^ce | A^c2<B2 DEG | FAG2 FED=C | %35
+ B,A,G,2 B,CD2 | D2[gBDG,]2 b2[gBDG,]2 | b2[fAD]2 a2[fAD]2 | a2 [gBDG,]4 z2 |] %39

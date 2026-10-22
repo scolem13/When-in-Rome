@@ -1,0 +1,108 @@
+X:1
+T:Cinq Mélodies, Op.58
+T:Mandoline
+C:Gabriel Fauré
+Z:Paul Verlaine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/16
+Q:1/4=84
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Allegretto moderato" z8 | z8 |"^dolce" G A B2- B B (3(cB) c | d4 d2- d z | G A B2- B c (3(dc) B | %5
+w: ||Les don- neurs _ de sé- * ré-|na- des _|Et les bel- * les é- * cou-|
+ e4 B2 z B | e B (3B A B c2 A c | (3(BA) B G2- (GB) A G | %8
+w: teu- ses É-|chan- gent des pro- pos fa- des, Sous|les * ra- mu- * * res chan-|
+ (F/!<(!^G/^A- A/B/!<)!^c-!>(! c/^d/c/B/ A/B/A/G/ | ^A/!>)!^G/F-) F2- F2- F z | %10
+w: \- teu- * * * * * * * * * * * * *|* * ses _ _ _|
+ G A B2- B B (3(cB) c | d4- (dc) B2 | z2 B d c G A c | B2 G3 A B G |!<(! A2 B G A2 B!<)! ^c | %15
+w: C'est Tir- cis _ et c'est * A-|min- * * te|Et~ c'est~ l'é- ter- nel Cli-|tan- dre Et c'est Da-|\- mis qui, pour main- te cru-|
+!mf! d2 ^A3!>(! B ^c =A!>)! | (F/!<(!G/A- A/B/!<)!^c-!>(! c/d/c/B/ c/B/A/G/!>)! | %17
+w: el- le, Fit maint vers|ten- * * * * * * * * * * * * *|
+ A/G/F-) F2- F2- F z |!mf! d2 e d (3=c B A c2 | B2 A G (3F E F D2 | d2 c d (3_B A G A2- | %21
+w: * * dre _ _ _|Leurs cour- tes ves- tes de soie,|Leurs lon- gues ro- bes à queues,~|Leur é- lé- gan- ce, leur joie|
+ A z"^dim." A _B =F3 F |!p! =F3 F F4- | F z!p! d3/2 d/ c c _B B | A3/2 A/ _B B A3/2 A/ G3/2 G/ | %25
+w: _ Et leurs mol- les|om- bres bleues|_ Tour- bil- lon- nent dans l'ex-|\- ta- se D’u- ne lu- ne rose et|
+ =F4 F4 | z2!p! _A A G G =F3/2 F/ | E3/2 E/ =F F E E _E3/2 E/ | D4 D2 z2 |!mf! G A B3 B (3(cB) c | %30
+w: gri- se,|Et la man- do- li- ne|ja- se Par- mi les fris- sons de|bri- se.|Les don- neurs de sé- * ré-|
+ d4 d2- d z | G A B2- B c (3(dc) B | e2 B2- B z z G |"^dim." B2 G2- G B A G | F2 F2 z!pp! ^E ^G B | %35
+w: \- na- des _|Et les bel- * les é- * cou-|\- teu- ses _ É-|chan- gent _ des pro- pos|fa- des Sous les ra-|
+"^poco rit." F4 F3 F |"^a tempo" B8 | B4- B2 z2 | z8 |] %39
+w: mu- res chan-|\- teu-|ses. _||
+V:2
+!p![I:staff +1] .G,2"^leggiero"[I:staff -1].[B,DA]2[I:staff +1] .F,.G,[I:staff -1].B,.[DB][I:staff +1] .[E,G,A,]2[I:staff -1].[CDc]2[I:staff +1] .[D,F,].B,[I:staff -1].D.d | %1
+[I:staff +1] .G,2[I:staff -1].[B,DA]2[I:staff +1] .F,.G,[I:staff -1].B,.[DB][I:staff +1] .[E,G,A,]2[I:staff -1].[CDc]2[I:staff +1] .[D,F,].B,[I:staff -1].D.d | %2
+[I:staff +1] .G,2[I:staff -1].[B,D]2[I:staff +1] .F,.G,[I:staff -1].B,.D[I:staff +1] .[E,G,]2[I:staff -1].[B,D]2[I:staff +1] .[D,G,].A,[I:staff -1].C.D | %3
+[I:staff +1] .G,2[I:staff -1].[B,DA]2[I:staff +1] .F,.G,[I:staff -1].B,.[DB][I:staff +1] .[E,G,A,]2[I:staff -1].[CDc]2[I:staff +1] .[D,F,].B,[I:staff -1].D.d | %4
+[I:staff +1] .G,2[I:staff -1].[B,D]2[I:staff +1] .F,.G,[I:staff -1].B,.D[I:staff +1] .[E,G,A,]2[I:staff -1].[CD]2[I:staff +1] .[D,F,].B,[I:staff -1].D.d | %5
+[I:staff +1] .[C,G,B,]2[I:staff -1].[EGe]2[I:staff +1] .D,.G,[I:staff -1].B,.E[I:staff +1] .[C,G,B,]2[I:staff -1].[EGe]2[I:staff +1] .D,.G,[I:staff -1].B,.E | %6
+[I:staff +1] .[C,G,B,]2[I:staff -1].[EGe]2[I:staff +1] .G,.B,[I:staff -1].D.[^FB][I:staff +1] .[A,,E,G,]2[I:staff -1].[CEc]2[I:staff +1] .D,.=F,[I:staff -1].C.[=FA] | %7
+[I:staff +1] .[G,,D,^F,]2[I:staff -1].[B,DB]2[I:staff +1] .A,,.E,[I:staff -1].G,.[CG][I:staff +1] .[G,,D,F,]2[I:staff -1].[B,DB]2[I:staff +1] .A,,.E,[I:staff -1].G,.[^CG] | %8
+ z2[I:staff +1] (F,[I:staff -1][B,^DF]) z2 (B,[DF]) z2 (B,[D^E]) z2 (B,[D^G]) | %9
+!<(! F^G^A2- A^B!<)!^^c2-!>(! c^d^ef ^g^ab!>)!^c' | %10
+[I:staff +1] .G,,2[I:staff -1].[B,=D]2[I:staff +1] .F,.G,[I:staff -1].B,.D[I:staff +1] .[E,G,]2[I:staff -1].[B,D]2[I:staff +1] .[D,G,].A,[I:staff -1].C.D | %11
+[I:staff +1] .G,2[I:staff -1].[B,D]2[I:staff +1] .F,.G,[I:staff -1].B,.D[I:staff +1] .[E,G,A,]2[I:staff -1].[CD]2[I:staff +1] .[D,F,].B,[I:staff -1].D.F | %12
+ (e4 B4) x8 | %13
+[I:staff +1] !arpeggio!.[=F,,E,G,]2[I:staff -1].[EGB]2[I:staff +1] .=F,.G,[I:staff -1].B,.[DG][I:staff +1] .[E,G,]2[I:staff -1].[CGA]2[I:staff +1] .D,.^F,[I:staff -1].B,.[GB] | %14
+!<(![I:staff +1] .[^C,E,]2[I:staff -1].[A,GA]2[I:staff +1] .F,.G,[I:staff -1].B,.[DGB][I:staff +1] .[E,G,]2[I:staff -1].[A,^CA]2[I:staff +1] .G,.A,!<)![I:staff -1].C.[EA^c] | %15
+!>(![I:staff +1] .[F,^A,]2[I:staff -1].[DF^Ad]2[I:staff +1] .[F,,D,].F,[I:staff -1].^A,.[DFA][I:staff +1] .^G,,2[I:staff -1].[B,DFB]2[I:staff +1] .[=A,,F,].=A,[I:staff -1].^C!>)!.[F=A^c] | %16
+ z2[I:staff +1] (F,[I:staff -1][A,DF]) z2[I:staff +1] (F,[I:staff -1][A,^CF]) z2[I:staff +1] (F,[I:staff -1][B,DF]) z2[I:staff +1] (G,[I:staff -1][A,CG]) | %17
+!<(! (AB^c2- cde2- e^efg ^gab!<)!^c' | %18
+ d'2) z2 x4[I:staff +1] .[A,,=F,A,]2[I:staff -1].[=C=F=c]2[I:staff +1] .[=F,,E,].A,[I:staff -1].C.[Ec] | %19
+ x4 x4[I:staff +1] .[G,,E,G,]2[I:staff -1].[CEc]2[I:staff +1] .[A,,=D,].^F,[I:staff -1].C.[=Dc] | %20
+ x4 CD=Fd[I:staff +1] .[_E,G,]2[I:staff -1].[_B,D_B]2[I:staff +1] .=E,.G,[I:staff -1].A,.[^CA] | %21
+!>(![I:staff +1] .[=F,,D,=F,]2[I:staff -1].[A,DA]2[I:staff +1] .[G,,D,].F,[I:staff -1]._B,.[D_B][I:staff +1] .^G,,2[I:staff -1].[=B,D=F]2[I:staff +1] .A,,.F,[I:staff -1].=C!>)!.[_EF] | %22
+!pp! z4 z =f3 z _e3 z d3 | z c3 z d3 z c3 z _B3 | z (A=FD) z (_BFD) z (AFD) z (GD_B,) | %25
+ (=FG_A2- A_Bc2- cd_e=f edcB |!pp! _AG=F_E D)(AD_B,) z (GDB,) z (FDB,) | %27
+ z (ED_B,) z (=FDB,) z (EDB,) z (_EB,G,) |!<(! (D=E^F2- FG!<)!A2-!>(! ABcd cBA!>)!G | %29
+ (F)ED2)[I:staff +1] .F,.G,[I:staff -1].B.[B,D][I:staff +1] .[E,G,]2[I:staff -1].[B,D]2[I:staff +1] .[D,G,].A,[I:staff -1].C.G | %30
+!<(! (DEF2- FG!<)!A2-!>(! ABcd cBA!>)!G | %31
+ (F)ED2)[I:staff +1] .F,.G,[I:staff -1].B.[B,D][I:staff +1] .[E,G,A,]2[I:staff -1].[CDc]2[I:staff +1] .[D,F,].B,[I:staff -1].D.d | %32
+[I:staff +1] .[C,G,B,]2[I:staff -1].[EGe]2[I:staff +1] .[D,G,].B,[I:staff -1].D.[FB][I:staff +1] .[G,,D,F,]2[I:staff -1].[B,DB]2[I:staff +1] .A,,.E,[I:staff -1].G,.[CG] | %33
+[I:staff +1] .[G,,D,F,]2[I:staff -1].[B,DB]2[I:staff +1] .A,,.E,[I:staff -1].G,.[CG][I:staff +1] .[G,,D,F,]2[I:staff -1].[B,DB]2[I:staff +1] .A,,.E,[I:staff -1].G,.[^CG] | %34
+ z2[I:staff +1] (F,[I:staff -1][B,^DF]) z2[I:staff +1] (F,[I:staff -1][B,DF]) z2 (B,[D^E]) z2 (B,[D^G]) | %35
+!pp! F^G^A2- A^B^^c2- c^d^ef ^g^a=b^c' | %36
+"^a tempo"[I:staff +1] .G,,2[I:staff -1].[B,=D=A]2[I:staff +1] .F,.G,[I:staff -1].B,.[DB][I:staff +1] .[E,G,]2[I:staff -1].[B,D]2[I:staff +1] .[D,F,].B,[I:staff -1].D.d | %37
+[I:staff +1] .G,,2[I:staff -1].[B,DA]2[I:staff +1] .F,.G,[I:staff -1].B,.[DB][I:staff +1] .[E,G,]2[I:staff -1].[B,D]2[I:staff +1] .[D,F,].B,[I:staff -1].D.d | %38
+ z4 .D2 z2 !arpeggio!.[Gdg]2 z2 z4 |] %39
+V:3
+ x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | B,,4 ^D,4 ^G,4 ^E,4 | %9
+!ped! (F,2^DF)!ped-up!!ped! (^A,2F^A)!ped-up!!ped! (^D,2F,A,)!ped-up!!ped! (B,,2D,F,)!ped-up! | %10
+ x16 | x16 | x16 | x16 | x16 | x16 | D,,4 F,,4 ^G,,4 A,,4 | %17
+!ped! (D,2A,F)!ped-up!!ped! (F,2A,E)!ped-up!!ped! (A,,2F,D)!ped-up!!ped! (D,2F,^C)!ped-up! | %18
+!ped! (^G,,E,B,[I:staff -1] D EdED)!ped-up![I:staff +1] x8 | %19
+!ped! (^F,,B,,A,[I:staff -1] B, ^DABB,)!ped-up![I:staff +1] x8 | %20
+!ped! _B,,G,_B,D!ped-up!!ped! _A,4!ped-up! x8 | x16 | %22
+!ped! (_B,,=F,_B,D!ped-up!!ped! =F4!ped-up!!ped! _E4!ped-up!!ped! D4!ped-up! | %23
+!ped! C4!ped-up!!ped! D4!ped-up!!ped! C4!ped-up!!ped! _B,4!ped-up! | %24
+!ped! A,4!ped-up!!ped! _B,4!ped-up!!ped! A,4!ped-up!!ped! G,4)!ped-up! | %25
+!ped! (_B,,2=F,D)!ped-up!!ped! (F,2_A,D)!ped-up!!ped! (A,2_B,D)!ped-up!!ped! (F,2A,D)!ped-up! | %26
+!ped! _B,,2 z2!ped-up!!ped! (_A,4!ped-up!!ped! G,4!ped-up!!ped! =F,4!ped-up! | %27
+!ped! E,4!ped-up!!ped! =F,4!ped-up!!ped! E,4!ped-up!!ped! _E,4)!ped-up! | %28
+!ped! (G,,2D,=B,)!ped-up!!ped! (D,2G,B,)!ped-up!!ped! ([D,E,]2G,C)!ped-up!!ped! ([D,F,]2CD)!ped-up! | %29
+ G,,B, z2 x12 | %30
+!ped! (G,,2D,B,)!ped-up!!ped! (D,2G,B,)!ped-up!!ped! ([D,E,]2G,C)!ped-up!!ped! ([D,F,]2CD)!ped-up! | %31
+ G,,B, z2 x12 | x16 | x16 | B,,4 ^D,4 ^G,4 ^E,4 | %35
+!ped! (F,2^DF)!ped-up!!ped! (^A,2F^A)!ped-up!!ped! (^D,2F,A,)!ped-up!!ped! (B,,2D,F,)!ped-up! | %36
+ x16 |!ppp! x16 |!ped! .G,,2 z2 z4 !arpeggio!.[G,,D,B,]2 z2!ped-up! z4 |] %39
+V:4
+ x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | [b=d']2 z2 x12 | %11
+ (G2A2 B4- B2c2 (3d2c2B2) | %12
+[I:staff +1] .[C,G,B,]2[I:staff -1].[EG]2[I:staff +1] .G,.B,[I:staff -1].D.F[I:staff +1] .[A,,E,G,]2[I:staff -1].[CEc]2[I:staff +1] .D,.=F,[I:staff -1].C.[=FA] | %13
+ x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x4 x (=f_B=F) x (_eBF) x (dBF) | %23
+ x (c_B=F) x (dBF) x (cFD) x (BFD) | x A3 x _B3 x A3 x G3 | x16 | x9 G3 x =F3 | %27
+ x E3 x =F3 x E3 x _E3 | x16 | G2A2 z2 x10 | x16 | G2A2 z2 x10 | x16 | x16 | x16 | x16 | %36
+ [b=d']2 z2 x12 | x16 | x16 |] %39
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ D, F, A,, D, | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %34
+ x4 | x4 | x4 | x4 | x4 |] %39

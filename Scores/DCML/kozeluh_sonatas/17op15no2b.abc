@@ -1,0 +1,65 @@
+X:1
+T:Keyboard Sonata No. 2 in C Major
+T:Poco adagio
+C:Leopold Koželuch
+Z:© 2005 Daniel Bernhardsson
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/4
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+L:1/16
+V:3 treble 
+V:2 bass 
+L:1/8
+V:4 bass 
+V:1
+"^dolce" [Ac]2>[Ac]2 | c2>f2 [Ac]2{A}[FAc]2 [GB]2[FA][GB] | [Ac]2>[FA]2 [Ac]2 z2 [Ac][Bd][Ge][Af] | %3
+ f4 e2d2c2c2 |{c} B2AB [FA]2 z2 (FAcA) |$ AGBG F2 z f/a/ (.g.f.e.d) | %6
+ c>dB>c A/c/B/A/ B/c/d/e/ f/g/a/b/c' z/ [Ac]/ | %7
+ ([Bd][ce][df][ce] [Bd][Ac][GB][^FA]) ([GB][Ac].[Bd]) z/ [GB]/ | ([FA]4 .[EG]) .C.D.E .F.G.A.B |$ %9
+ c2>f2 [Ac]2{A/}[FAc]2 [GB]2[FA][GB] | [Ac]2>[FA]2 [Ac]2 z f/a/ (.g.f.e.d) | %11
+ ^c3"^"d/e/ d2 z (3(d/e/f/) (.e.d.=c.B) | A3"^"B/c/ .B2 [Bd]2[Ac]2[FAf]2 |$ %13
+ [FAf]2[FA]>[GB] [Ac]2F2{/A} G>^FG>A | =F([ac'][gb][fa] [eg][df][ce][Bd]) ([Ac][^G=B][Ac][=G^c]) | %15
+ d3"^"e/f/ F2>F2{/A} G>^FG>A | [B,EG]4 [A,F]2 z2 :: [Aa]2>[Aa]2 |$ %18
+ ^c3"^"d/e/ d(.A.=B.c .d.e.f.^f) | (ag)gg g"^"c'(.e'.d' .c'.=b.a.g) | %20
+({/=b} ag)gg g(3(g/a/b/).c'.b{/b} ag{/g}fe |$ (ed) z"^cresc."!<(! f (ed) z a/f/ (ed) z a/!<)!c/ | %22
+!f! (=Bgf).f (fd').=b"^"b!p! (d'c'b){/d'}c' | =b/a/^g/a/ g/a/b/c'/ c2>c2{/e} d>^cd>e |$ %24
+ =c2!f! e3/2f/4g/4 f3/2g/4a/4 g3/2a/4b/4 a3/2=b/4c'/4 b3/2c'/4d'/4 | %25
+ c'/d'/e'/d'/c'/=b/a/g/ f/e/d/c/=B/c/d/c/!p! B/c/d/c/B/c/e/c/ |$ %26
+ =B/A/^G/A<fd/4a/4 c2>c2{/e} d>^cd>e | ([F=Bd]4 [Ec]2) [^F_e]2[Gd]2[Ac]2 | %28
+ [GB]2[^FA]2G2[_EAc]2[DGB]2[CDFA]2 | ([CD^FA]4 .[B,DG]2) [GB]2[GB]2[GBg]2 |$ %30
+ (f4 e2)!p! z2 z/ d/=e/^f/ g/a/b/g/ | fed'c' (.b.a.g.f .e.d._d.c) | %32
+ c2>f2 [Ac]2{A/}[FAc]2 [GB]2[FA][GB] | [Ac]2>[FA]2 [Ac]2 z f/a/ (.g.f.e.d) |$ %34
+ ^c3"^"d/e/ d2 z (3(d/e/f/) (.e.d.=c.B) | A3"^"B/c/ B2 [Bd]2!f![Ac]2[GBe]2 | %36
+ [FAf]2!p![FBd]2 F2>F2{/A} G>^FG>A | =F([ac'][gb][fa] [eg][df][ce][Bd]) ([Ac][^G=B][Ac][=G^c]) |$ %38
+ d3"^"e/f/ F2>F2{/A} G>^FG>A | [A,F]4 A2>c2 BGD=E | [A,F]2>[CG]2 ABcA BGD=E | %41
+ [G,B,E]4 [A,F]2 z2 :| %42
+V:2
+"" z2 |"" [F,,F,]4"m" [F,,F,]2 |"" [F,,F,]3 z"""""m""" z2 | %3
+"""" [C,,C,]3"" [D,,D,]""[E,,E,]""[F,,F,] |"" [C,C]2"" [F,C] z"" z"" [A,C] |$ %5
+"" [B,CE]2"" [A,C]"" z z2 |"""" [G,CE]2"" [F,CF] z"" z2 |"""m" [B,,B,]4 [B,,B,]2 | %8
+"""""" [C,C]3 z z2 |$"" [F,,F,]4"m" [F,,F,]2 |"" [F,,F,]3 z z2 |"" [A,G]2"" [B,F] z z2 | %12
+"m" [^F,_E]2"m" [G,D]"m" E,""=F,"m"[=B,,=B,] |$"" [C,C]3 [C,A,]"" [C,B,]2 | %14
+"""" [F,A,] z"""" z2"""m" z2 |"" [B,,B,]2"" [C,A,]2"" [C,B,]2 |"""" [F,,F,]3 z ::"" z2 |$ %18
+"" [A,G]2"m" [DF] z z2 |"m""" [=B,DF]2"" [CE] z z2 |"m""" [F,=B,D]2"" [E,C] z z2 |$ %21
+"m" A,""C"m" A,""C"" A,""D |"""" [G,D]2 [G,DF]2"m" [A,CE]2 |"" [F,CF]2"" [G,CE]2"" [G,=B,F]2 |$ %24
+"m" [A,C]"m" [_B,,_B,]""[A,,A,]"m"[E,,E,]""[F,,F,]"m"[D,,D,] |"" [E,,E,]4 [E,C]2 |$ %26
+"" C"m"D"" [G,E]2"" [G,F]2 |"""" [C,C]3"m" [A,C]"m"[B,D]"m"[^F,_E] | %28
+"m" [G,D]""[D,C]""[_E,B,]"m"C,""D,""D,, |"m""m" [G,,,G,,]3"m" z z2 |$ %30
+"""" [C,,C,]3[K:treble]"m" [GB][GB][GB] |"" [CGB]4 z2 |"" [F,,F,]4"m" [F,,F,]2 | %33
+"" [F,,F,]3"" z z2 |$"" [A,G]2"" [B,F] z z2 |"m" [^F,_E]2"m" [G,D]"m" E,""=F,"m"[^C,^C] | %36
+"m" [D,D]""[B,,B,]"" [C,A,]2"" [C,B,]2 |"""" [F,A,] z"""" z2"""m" z2 |$ %38
+"" [B,,B,]2"" [C,A,]2"" [C,B,]2 |"" z/ F,/F,/F,/"" F,/F,/F,/F,/"m" F,/F,/""F,/"m"F,/ | %40
+"" F,/F,/F,/""F,/"" F,/F,/""F,/F,/"m" F,/F,/""F,/"m"F,/ |"""" [F,,C,F,]3 z :| %42
+V:3
+ x | A x2 | x3 | [GB]3/2 [FB]/[GB]/[FA]/ | [EG] x x |$ x3 | x3 | x3 | x3 |$ A x x | x3 | x3 | x3 |$ %13
+ x2 E | x3 | F C E | x2 :: x |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 |$ x =G =B | x3 | x3 | %29
+ x3 |$ [GB]3/2 x/ x | x3 | A x x | x3 |$ x3 | x3 | x C E | x3 |$ F C E | x _E D/B,/ | %40
+ x F/_E/ D/B,/ | x2 :| %42
+V:4
+ x | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x2 :: x |$ x3 | %19
+ x3 | x3 |$ F, F, ^F, | x3 | x3 |$ x3 | x3 |$ F, x x | x3 | x3 | x3 |$ x[K:treble] x2 | x3 | x3 | %33
+ x3 |$ x3 | x3 | x3 | x3 |$ x3 | F,,3/2 F,,3/2 | F,,3/2 F,,3/2 | x2 :| %42

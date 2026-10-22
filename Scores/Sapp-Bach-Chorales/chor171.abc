@@ -1,0 +1,30 @@
+X:1
+T:Schaut, ihr S&uuml;nder
+T:Schaut, ihr S&uuml;nder
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ G A B !fermata!G | z d c B | A G !fermata!A2 | B c d !fermata!B | z d _e d | c c !fermata!B2 | %6
+ d c B !fermata!G | z c c B | A G !fermata!F2 | B c d !fermata!B | z d c G/=A/ | B A !fermata!G2 || %12
+V:2
+ D D D !fermata!D | z G3/2 ^F/ G- | G/^F/ G/G,/ !fermata!D2 | =F F F !fermata!F | z B- B/=A/ B | %5
+ B A !fermata!F2 | F3/2 ^F/ G !fermata!D | z G3/2 =F/4=E/4 F- | F E !fermata!C2 | %9
+ G A B/_A/ !fermata!G | z G G G- | G ^F !fermata!D2 || %12
+V:3
+ B A G !fermata!B | z B c d | d3/2 c/ !fermata!^F2 | d c B !fermata!d | z f _e f | %5
+ g f/_e/ !fermata!d2 | B c d !fermata!B | z c/B/ A3/2 G/ | A/B/ c/B/ !fermata!A2 | %9
+ d f f !fermata!_e | z f _e B/c/ | d3/2 c/ !fermata!=B2 || %12
+V:4
+ G,3/2 ^F,/ G, !fermata!G,, | z G,, A,, B,,/C,/ | D, _E, !fermata!D,2 | %3
+ D,/ B,, A,,/ B,, !fermata!B, | z B,/_A,/ G, F, | =E, F, !fermata!B,,2 | %6
+ B,,/ B, A,/ G, !fermata!G,, | z =E, F, D, | C, C, !fermata!F,,2 | G, F,/_E,/ D,/B,,/ !fermata!E, | %10
+ z =B,, C,/D,/ _E, | D, D,, !fermata!G,,2 || %12

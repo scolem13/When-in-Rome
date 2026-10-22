@@ -1,0 +1,70 @@
+% Etüde f-moll: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=484
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Etüde f-moll
+C:ChopinFF
+%%score ( 1 2 ) 3
+L:1/16
+Q:1/4=144
+M:6/8
+I:linebreak $
+K:Fmin
+V:1 treble nm="up"
+V:2 treble 
+L:1/8
+V:3 bass nm="down"
+V:1
+ z2 F z G z3 A z B z | z2 c z d z c z a z g z | f z c z d z c z A z F z | C12 | %4
+ z2 F z G z3 A z B z | z2 c z d z c z c' z a z | g z c z d z c z G z C z | FG A8 z2 | %8
+ z2 F z G z3 A z B z | z2 c z d z c z a z g z | f z c z d z c z A z F z | C12 | %12
+ z2 F z G z3 A z B z | z2 c z d z c z c' z a z | g z c z d z c z G z C z | F12 | %16
+ (3:2:1A8 B (6:5:1z2 G2>A2 | B6 c6 | d z A z B z A z F z D z | A,4 z6 E2 | %20
+ (3:2:1e8 [ef] (6:5:1z2 =d2e2 | f6 _g6- | g2d z e z d z B z _G z | D z d z e z d z A z =E z | %24
+ D z [Dd] z [_E_e] z3 [=E=e] z [_G_g] z | z2 [=G=g] z [=A=a] z3 [Bb] z [cc'] z | %26
+ [dd']2[ee']2[=e=e']2 [_g_g']2[=g=g']2[=a=a']2 | [bb'][c'c''] [d'd'']4 z6 | %28
+ [dd'] z [dd'] z [dd'] z [dd']4 [cc']2 | d z d z d z d4 c2 | [Bb] z [Aa] z [Bb] z [cc']6 | %31
+ B2A2B2 c6 | (3[d'd'']2[d'd'']2[d'd'']2[d'd''][dd'] [dd']4 [cc']2 | (3d'2d'2d'2d'd d4 c2 | %34
+ (3:2:5[Bb]2[cc']2[Bb]2[Aa]2 z [cc']6 | (3:2:5B2c2B2A2 z c6 | z2 F z G z3 A z B z | %37
+ z2 c z d2 c z a z g z | f z c z d2 c z A z F z | C12 | z2 F z G z3 A z B z | %41
+ z2 c z d z c z c' z a z | g z c z d z c z G z C z | FG A8 z2 | z2 [Ff] z [Gg] z3 [Aa] z [Bb] z | %45
+ z2 [cc'] z [dd'] z [cc'] z [aa'] z [gg'] z | [ff'] z [cc'] z [dd'] z [cc'] z [Aa] z [Ff] z | %47
+ [Cc]12 | z2 [Ff] z [Gg] z3 [=A=a] z [Bb] z | z2 [cc']2[dd']2 [ee']6 | %50
+ z2 [=B=b] z [cc'] z3 [=d=d'] z [=e=e'] z | z2 [ff']2[gg']2 [aa']6 | %52
+ z2 [=E=e]2[Ff]2 [Aa]2[Gg]2[Aa]2 | [cc']2[Bb]2[cc']2 [_e_e']2[dd']2[ee']2 | %54
+ [ff']2[=e=e']2[ff']2 [aa']2[gg']2[aa']2 | [=a=a'][bb'] [d'd'']8 [=E=e]2 | %56
+ [Gg] z [Gg] z [Gg] z [Gg]4 [Ff]2 | G z G z G z G4 F2 | [=E=e] z [_E_e] z [=E=e] z [Ff]6 | %59
+ =E2_E2=E2 F6 | (3:2:4[gg'gg']2[gg'gg']2 z/ [gg'gg']2 z [Gg] (12:11:1z4 [Ff]2 | %61
+ (3:2:4[gg]2[gg]2 z/ [gg]2 z G (12:11:1z4 F2 | [=E=e][Ff][Gg][Aa][Bb][Aa] [Ff]6 | =EFGABA F6 | %64
+ b'c'a'c'b'c' a'c'b'c'a'c' | g'af'ag'a f'ag'af'a | f'' z8 z3 |] %67
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z3 A z2 | x6 | %18
+ x6 | x6 | z3 e z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ z2 z/ (3:2:2[Bb] z2 z3/2 | z2 z/ (3:2:2B z2 z3/2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %45
+ x6 | x6 | x6 | x6 | x6 | x6 | z4 F/ z/ F/ z/ | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %60
+ z3 [Gg]2 z | z3 G2 z | x6 | x6 | x6 | x6 | x6 |] %67
+V:3
+ F,,C,A,C,B,C, F,,C,CC,DC, | F,,C,CC,B,C, F,,C,A,C,B,C, | F,,C,A,C,B,C, F,,C,A,C,CC, | %3
+ F,,C,G,C,A,C, F,,C,B,C,G,C, | F,,C,A,C,B,C, F,,C,CC,DC, | F,,C,CC,B,C, F,,C,A,C,CC, | %6
+ F,,C,B,C,G,C, F,,C,B,C,G,C, | F,,=B,,A,B,,DB,, F,,B,,A,B,,DB,, | F,,C,A,C,_B,C, F,,C,CC,DC, | %9
+ F,,C,CC,B,C, F,,C,A,C,B,C, | F,,C,A,C,B,C, F,,C,A,C,CC, | F,,C,G,C,A,C, F,,C,B,C,G,C, | %12
+ F,,C,A,C,B,C, F,,C,CC,DC, | F,,C,CC,B,C, F,,C,A,C,CC, | F,,C,B,C,G,C, F,,C,B,C,G,C, | %15
+ F,,C,A,C,CC, F,,C,A,C,CC, | F,,=D,A,D,B,D, F,,B,,A,B,,B,B,, | E,,B,,_G,B,,B,B,, E,,A,,G,A,,A,A,, | %18
+ D,,A,,F,A,,A,A,, D,,A,,F,A,,A,A,, | C,,A,,E,A,,A,A,, C,,A,,E,A,,A,A,, | %20
+ =B,,,_G,,E,G,,_G,G,, B,,,G,,E,G,,G,G,, | =B,,,A,,D,A,,A,A,, _B,,,_G,,D,G,,_G,G,, | %22
+ B,,,_G,,D,G,,_G,G,, B,,,G,,D,G,,G,G,, | A,,,F,,D,F,,F,F,, A,,,=E,,D,E,,=E,E,, | %24
+ G,,,=E,,D,E,,=E,E,, B,,,G,,E,G,,G,G,, | =B,,,G,,=E,G,,G,G,, C,,G,,E,G,,G,G,, | %26
+ =E,,D,_B,D,G,,=E, DE,_B,,G,=EG, | D,B,GB,=E,D BDBDBD | C,A,FA,AA, C,G,=EG,GG, | %29
+ C,A,FA,AA, C,G,=EG,GG, | C,F,DF,FF, C,G,=EG,GG, | C,F,DF,FF, C,G,=EG,GG, | %32
+ C,A,FA,AA, C,G,=EG,GG, | C,A,FA,AA, C,G,=EG,GG, | C,F,DF,FF, C,G,=EG,GG, | %35
+ C,F,DF,FF, C,G,=EG,GG, | F,,C,A,C,B,C, F,,C,CC,DC, | F,,C,CC,B,C, F,,C,A,C,B,C, | %38
+ F,,C,A,C,B,C, F,,C,A,C,CC, | F,,C,G,C,A,C, F,,C,B,C,G,C, | F,,C,A,C,B,C, F,,C,CC,DC, | %41
+ F,,C,CC,B,C, F,,C,A,C,CC, | F,,C,B,C,G,C, F,,C,B,C,G,C, | F,,=B,,A,B,,DB,, F,,B,,A,B,,DB,, | %44
+ F,,C,A,C,_B,C, F,,C,CC,DC, | F,,C,CC,B,C, F,,C,A,C,B,C, | F,,C,A,C,B,C, F,,C,A,C,CC, | %47
+ F,,C,G,C,A,C, F,,C,B,C,G,C, | F,,C,=A,C,B,C, F,,C,CC,DC, | F,,_G,EG,FG, F,,G,_GG,GG, | %50
+ F,,=D,A,D,=A,D, F,,D,=B,D,_DD, | F,,=D,=DD,=ED, F,,D, z D, z D, | F,,_D,B,D,_DD, F,,D,B,D,DD, | %53
+ F,,D,B,D,DD, F,,D,B,D,DD, | F,,D,B,D,DD, F,,D,B,D,DD, | F,,D,B,D,DD, F,,D,B,D,DD, | %56
+ F,,D,B,D,DD, F,,C,A,C,CC, | F,,D,B,D,DD, F,,C,A,C,CC, | F,,D,B,D,DD, F,,C,A,C,CC, | %59
+ F,,D,B,D,DD, F,,C,A,C,CC, | F,,D,B,D,DD, F,,C,A,C,CC, | F,,D,B,D,DD, F,,C,A,C,CC, | %62
+ F,,D,B,D,DD, F,,C,A,C,CC, | F,,D,B,D,DD, F,,C,A,C,CC, | F,,2 z2 d'f d'fd'fd'f | bfbfbf bfbfbf | %66
+ F z8 z3 |] %67

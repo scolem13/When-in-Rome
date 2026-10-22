@@ -1,0 +1,39 @@
+% Gute Nacht!: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=585
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Gute Nacht!
+C:Robert Franz (1815–1862)
+%%score 1 2 3
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:Dmin
+V:1 treble nm="melStaff:mel"
+V:2 treble nm="rightHand:rh"
+V:3 bass nm="leftHand:lh"
+V:1
+ z6 | z4 z A | A2 A A>AA | BB z3 B/B/ | A>EE EFG | F2 z3 A | A2 A A>AA | cc/ z7/2 A/=B/ | %8
+ c2 c =B2 c | d4- d A/=B/ | c2 c =B2 c | A2 z3 A | G>GG G>GG | BB z3 B | B>BB B2 B | _d4- d d | %16
+ =d>dd d2 d | e2 B B2 B/B/ | A3 A2 A | A3 A3 | A4- A z |] %21
+V:2
+ [A,DF]2 [A,DF] [A,DF]2 [A,DF] | [A,DF]2 [A,DF] [A,DF]2 [A,DF] | [A,DF]2 [A,DF] [A,DF]2 [A,DF] | %3
+ [B,EG]2 [B,EG] [B,EG]2 [B,EG] | [A,EG]2 [A,EG] [A,EG]2 [A,EG] | [A,DF]2 [A,DF] [A,DF]2 [A,DF] | %6
+ [A,DF]2 [A,DF] [A,DF]2 [A,DF] | [C_GA]2 [CGA] [CGA]2 [CGA] | [EA]2 [EA] [E_A]2 [EA] | %9
+ [D=A]2 [DA] [DA]2 [_EA] | [=EA]2 [EA] [DE_A]2 [DEA] | [CE=A]2 [CEA] [CEA]2 [CEA] | %12
+ [B,EG]2 [B,EG] [B,EG]2 [B,EG] | [B,EG]2 [B,EG] [B,EG]2 [B,EG] | [B,DG]2 [B,DG] [B,DG]2 [B,DG] | %15
+ [B,_DG]2 [B,DG] [B,DG]2 [B,DG] | [B,=DG]2 [B,DG] [B,DG]2 [B,DG] | [B,EG]2 [B,EG] [B,EG]2 [B,EG] | %18
+ [A,EG]2 [A,EG] [A,E_G]2 [A,DG] | [A,DF]2 [A,DF] [=G,DE]2 [G,_DE] | [_G,=D]4- [G,D] z |] %21
+V:3
+ [D,,D,]2 [D,,D,] [D,,D,]2 [D,,D,] | [D,,D,]2 [D,,D,] [D,,D,]2 [D,,D,] | %2
+ [D,,D,]2 [D,,D,] [D,,D,]2 [D,,D,] | [D,,D,]2 [D,,D,] [D,,D,]2 [D,,D,] | %4
+ [_D,,_D,]2 [D,,D,] [D,,D,]2 [D,,D,] | [=D,,=D,]2 [D,,D,] [D,,D,]2 [D,,D,] | %6
+ [D,,D,]2 [D,,D,] [D,,D,]2 [D,,D,] | [_E,,_E,]2 [E,,E,] [E,,E,]2 [E,,E,] | %8
+ [=E,,=E,]2 [E,,E,] [E,,E,]2 [E,,E,] | [F,,F,]2 [F,,F,] [F,,F,]2 [F,,F,] | %10
+ [E,,E,]2 [E,,E,] [E,,,E,,]2 [E,,,E,,] | [A,,,A,,]2 [A,,,A,,] [A,,,A,,]2 [A,,,A,,] | %12
+ [C,,C,]2 [C,,C,] [C,,C,]2 [C,,C,] | [_D,,_D,]2 [D,,D,] [D,,D,]2 [D,,D,] | %14
+ [=D,,=D,]2 [D,,D,] [D,,D,]2 [D,,D,] | [_E,,_E,]2 [E,,E,] [E,,E,]2 [E,,E,] | %16
+ [D,,D,]2 [D,,D,] [D,,D,]2 [D,,D,] | [C,,C,]2 [C,,C,] [C,,C,]2 [C,,C,] | %18
+ [_D,,_D,]2 [D,,D,] [=D,,=D,]2 [D,,D,] | [A,,,A,,]2 [A,,,A,,] [A,,,A,,]2 [A,,,A,,] | %20
+ [D,,A,,]4- [D,,A,,] z |] %21

@@ -1,0 +1,69 @@
+X:1
+T:I know a lovely garden
+C:Guy d’ Hardelot
+Z:Edward Teschemacher
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 4 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+V:6 bass 
+V:1
+"^Andante" z8 | z8 |!mf! A2 ^G A c3 F | F4 E4 |!<(! F2 A c!<)! e3 d |!>(! d4!>)! c2 z c | %6
+w: ||I know a love- ly|gar- den,|Where bloom the sweet- est|flow- ers, And|
+ d3 d _e3 d | c4 B2 z2 | z!p! G A G B3 A |!>(! (A4!>)! G2) z2 | z8 | z4 z2 z!<(! A!<)! | %12
+w: there from morn to|e- ven,|I pass a- way the|hours. _||For|
+ c4- c!p! (d c e | d4 A2) z A |!<(! c4-!<)! c!f! c c3/2 c/ | f4- f2 z e |!>(! e3 d (c2 B) A | %17
+w: love _ is that sweet|gar- den, Be-|– neath _ God’s bound- less|blue, _ And|He looks down _ and|
+ c4!>)! B2 z F |!f! (f2 c) A !fermata!G3!mf! F |!>(! c8- | c8- | c4!>)! z4 | z8 |] %23
+w: bless- es My|life, _ my love, and|you!|_|||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 x e a3/2 g/ | x8 | x8 | %17
+ x8 | x8 | x8 | x8 | x8 | x8 |] %23
+V:3
+!mf! z [FAc]2 [Ac] z [Ac]2 [Ac] | z [EBc]2 [EBc] z [EBc]2 [EBc] | z [FAc]2 [Ac] z [Ac]2 [Ac] | %3
+ z [FBc]2 [FBc] z [EBc]2 [EBc] |!<(! [CF] [CF]2 [CAc] [F=Be]!<)! [FBe]2 [FBd] | %5
+!>(! [EG_Bd] [EGBd]2 [EGBd] [EGBc]!>)! [EGBc]2 [EGBc] | %6
+ [DAcd] [DAcd]2 [DAcd] [_EA_e] [EAe]2 [EAd] | [D^Fc] [DFc]2 [DFc] [DGB] [DGB]2 [DGB] | %8
+ z!p! [DFG]A[DFG] z [DFB]2 [DFA] | [B,EA] [B,EA]2 [B,EA] [B,EG] [B,EG]2 [B,EG] | %10
+ z [ebc']2 [bc'] z [bc']2 [bc'] |!>(! z [fac']2 [fac'] z [fac']2 [fac']!>)! | %12
+!<(! z [EBc]2 [Bc]!<)!!>(! z [Bc]2 [Bc]!>)! | z [FAc]2 [FAc] z [FAc]2 [FAc] | %14
+!<(! z [EBc]2 [EBc]!<)! z!f! [EBe][Bea][Beg] | ([Acf] [Acf]2 [Acf]) ([G^cf]!f! [Gcf]2 [Gce]) | %16
+ ([FBe] [FBe]2 [FBd]) ([DAcd] [DAcd]2 [D^Fcd]) | %17
+!>(! ([DGc] [DGc]2 [DGc]) ([_DFB]!>)! [DFB]2 [DFB]) | %18
+!f! [CFA][FA=df][FAcf][DFA] [CFGc] !fermata![CEGc]2 z | z [FAc]2 [Ac] z [Ac]2 [Ac] | %20
+ z [EBc]2 [EBc] z [EBc]2 [EBc] | !arpeggio![Fca]8- | [Fca]4 z4 |] %23
+V:4
+ C2 (DF) (EDCE) | D4 C4 | C2 (DF) (EDCF) | D4 C4 | x8 | x8 | x8 | x8 | x8 | x8 | c2 (df) (edce) | %11
+ d4 c4 | C2 (DF) EDCE | D4 C4 | C4 x4 | x8 | x8 | x8 | x8 | C2 (DF) (EDCE) | D4 C4 | x8 | x8 |] %23
+V:5
+!ped! !arpeggio![F,,C,A,]4 [A,,F,A,]4!ped-up! | %1
+!ped! !arpeggio![G,,E,B,]4!ped-up!!ped! [C,,C,]4!ped-up! | %2
+!ped! !arpeggio![F,,C,A,]4 [A,,F,A,]4!ped-up! |!ped! (!arpeggio![G,,F,B,]4 [G,,E,]4)!ped-up! | %4
+!ped! [A,,F,A,] [A,,F,A,]2 [A,,F,A,]!ped-up!!ped! [F,_A,=B,E] [F,A,B,E]2 [F,A,B,E]!ped-up! | %5
+!ped! [E,G,_B,D] [E,G,B,D]2 [E,G,B,D]!ped-up!!ped! [E,G,B,C] [E,G,B,C]2 [E,G,B,C]!ped-up! | %6
+!ped! [^F,C] [F,C]2 [F,C]!ped-up!!ped! [D,C] [D,C]2 [D,C]!ped-up! | %7
+!ped! [G,A,] [G,A,]2 [G,A,]!ped-up!!ped! [G,B,] [G,B,]2 [G,B,]!ped-up! | %8
+!ped! x [B,,G,]2 [B,,G,] x [G,,F,]2!ped-up! [G,,F,] |!ped! C,,4!ped-up! C,4 | %10
+[K:treble]"^dolce legato""^col due pedale" ([CEG] [B,CEG]2 [B,CEG] [B,CEG] [B,CEG]2 [B,CEG]) | %11
+ ([CFA] [A,CFA]2 [A,CFA] [A,CFA] [A,CFA]2 [A,CFA]) | %12
+[K:bass]!ped! G,4-"^colla voce" (G,F,E,C,)!ped-up! | !arpeggio![F,,C,A,]4- [F,,C,A,]2 C,,2 | %14
+!ped! !arpeggio![G,,E,B,]4!ped-up!!ped! z [G,B,C][B,CEA][B,CEG] | %15
+ [A,CF]!ped-up! [A,CF]2!ped! [A,CF] z [A,^CF]2 [A,CE]!ped-up! | %16
+!ped! z [G,B,D]2 [A,B,D]!ped-up!!ped! z [^F,C]2 [A,C]!ped-up! | %17
+!ped! !arpeggio![G,,D,B,]4!ped-up!!ped! [G,,G,] [G,,G,]2 [G,,G,]!ped-up! | %18
+!ped! z [C,A,C][C,A,C][C,A,C]!ped-up!!ped! z !fermata![C,B,]2 z!ped-up! | %19
+"^dolce legato"!ped! !arpeggio![F,,C,A,]4 [A,,F,A,]4!ped-up! | %20
+!ped! !arpeggio![G,,E,B,]4!ped-up!!ped! [C,,C,]4!ped-up! |!ped! !arpeggio![F,,C,A,]8- | %22
+ [F,,C,A,]4 x4!ped-up! |] %23
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | [B,,,B,,]4 [G,,,G,,]4 | x8 |[K:treble] !>!B, x x2 x4 | %11
+ !>!A, x x2 x4 |[K:bass] x8 | x8 | x4 [C,,C,]4- | [C,,C,]4 [A,,,A,,]4 | [B,,,B,,]4 [^F,,,^F,,]4 | %17
+ x8 | [C,,,C,,]4 [C,,,C,,]4 | x8 | x8 | x8 | x8 |] %23

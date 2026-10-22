@@ -1,0 +1,71 @@
+% BWV 1001 Fuga: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1438
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:BWV 1001 Fuga
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:F
+V:1 treble 
+V:2 treble 
+L:1/8
+V:1
+ z2 d2 d2d2 d2cB c2A2 | B2G2 [_eG]2G2 [AG]2F_E [dF]2D2 | [d_E]2g2 [gcE]2g2 [gBD]2f_e [fAD]2d2 | %3
+ _e4 CBA[Bc] [_GC]2d2 [d=GB,]2d2 | [d=EA,]2cB [c_GD]2A2 B4 b4 | [bc_E]2ag a_g=g2 [_gcD]_edc B=gAG | %6
+ DA_d=e fa=dc =Bdf_a gf_ed | _eGcd egc_B =Aceg fedc | dAB_G =GBdF =EGBd cABG | %9
+ _GAc_e dcBA B=GdF _Edgc | [_gd]2D2 [bd=G]2[bdG]2 [bc_E]2a=g [acF]2[acF]2 | %11
+ [_aBD]2a_g [=gB_E]2[f=BD]2 [_eGC]2[dF]E [cE]D[_BD]C | [_AC]2_G=G G_B,=A,G, A,Gc_e DG=A_G | %13
+ [=G=G,]2d'2 d'2d'2 d'2c'b c'2a2 | b2g2 [_e'g]2g2 [ag]2f_e d'4- | %15
+ _e2 d'2 [c'e] d [c'e]2 [c'f] e [c'd]2 b a [bg]2 g2 | [ag]2f2 [d'f]2f2 [gf]2_ed c'4- | %17
+ d2 c'2 [bd] c [bd]2 [b_e] d [bc]2 a g [af]2 b a | [gf]2_ed [c'e]2fe [c'd]2ba [bg]2c'b | %19
+ [ag]2f=e [d'f]2gf [d'e]2A2 [c'eA]2A2 | [fdA]2GF [b_dG]2E2 [a=dF]2[fdD]2 [gdE]2[adF]2 | %21
+ [bdG]2[adF]2 [gdE]2_d=B [gdA,E]2fe [f=d=D]2[fAD]2 | [f_BG,D]2ed e2[_dAA,]2 [=dA_B,]2GF G2[dEG,]2 | %23
+ [dFA,]2DF [_dE]2>[=d=D]2 [dD]2D2 D2D2 | [ED]2CB, C2[_GA,]2 [=GB,]2G2 [GG,]2G2 | %25
+ [GA,]2F_E F2[D=B,]2 [EC]2c2 [c=EA,]2c2 | [c_GD]2_BA [B=G]2cB [AGD]2FE [dF]2GF | %27
+ [dE_A,]2ef ed_d=d [_dEG,]2=a2 [a=dF]2a2 | [adB]2gf g2[gdE]2 [g_dA]2fe f2[f=d=D]2 | %29
+ [bdG]2a2 [adF]2_a2 [adE]2=a2 [a_dA,E]2_g2 | [_gc=D]2=g2 [g=BD]2e2 [e_B_DG]2f2 [fA=DF]2d2 | %31
+ [dA_B,]2_e2 [eGB,]2_d2 [dGA,]2_b_a =a2[dGA,]2 | [=dFA,]2b_a =a2[_d'gA]2 [=d'fB]2c'2 [c'_gA]2b2 | %33
+ [b=g=G]2[af]2 [af]2[_d'e]2 [d'e]2[=d'f]2 [d'f]2[g_d]2 | [g_d]2A2 [f=d]2[eGd]2 [ed]8 | %35
+ [e_d]8 [aF]2[gE]2 [aF]2[f=D]2 | [gE]8 g2f2 g2e2 | %37
+ [f=d]2[e_d]2 [f=d]2[ge]2 [af]2[_bg]2 [af]2[ge]2 | [fd]2[e_d]2 [f=d]2[ge]2 [af]2[ge]2 [af]2[=bd]2 | %39
+ [_d'e]2[=b=d]2 [d'e]2[=d'f]2 [e'g]2[f'a]2 [e'g]2[d'f]2 | %40
+ [_d'e]2[=b=d]2 [d'e]2[=d'f]2 [e'g]2[d'f]2 [e'g]2[_d'e]2 | Ddfa d'afd Ad'c'_b c'a_gd | %42
+ =G,GBd gdBG Dgf_e fd=BG | Cc_eg c'gec Gc'_ba bg=ec | Fcfg _afdB _EB_ef gec=A | %45
+ fd=BG _ec_AF _d_BG_E cAF=D | G,DF=B dBFD G,DFB dBFD | G,C_EG cGEC G,CEG cGEC | %48
+ _A,C_EG cGEC A,CEG cGEC | =A,D_GA cAGD A,DGA cAGD | =G,C_EG c_e_d=B c_b_a_g =gf=ef | %51
+ [f=BG,=D]2G2 [c'_eG]2G2 [c'dG,G]2F_E [=bdE]2[d'fD]2 | [_EG,]2g=B c2[gcE]2 [gcG,D]2f_e [fBG]2d2 | %53
+ [_eGC]2dc [_dF_A,]2=B2 [c_G=A,]2 z =d [BD=G,]2 z c | [c_EC]2C2 C2C2 [DC]2_B,A, B,2[=EG,]2 | %55
+ [FA,]2F2 [AF]2F2 [BF]2_ED [cE]2C2 | [cD]2[fB]A [fGBG,]2f2 [fGBC]2_ed e2[cFD]2 | %57
+ [dB]2[bdB,F]2 [bdB,F]2[bdB,F]2 [bdF]2[ac][gB] [ac]2[=bd]2 | %58
+ [c'_e]2[c'eCG]2 [c'eCG]2[c'eCG]2 [c'eG]2[_bd][ac] [bd]2[c'e]2 | %59
+ [a_eF]2[bd]2 [gd_E]2[ac]2 [fc=E]2[gB]2 ecAF | %60
+ B,2[dFB,]2 [dFB,]2[dFA,]2 [dFG,]2[_eG][dF] [c_EA,]2[BDB,]2 | %61
+ [A_EC]2[fBD]2 [fBD]2[fBD]2 [fBG,D]2gf [_eFA,]2[dFB,]2 | [gd_E]2ab [bc]2gf b2[fBD]2 [_eF]2cB | %63
+ B,dcd BdAd GdFd _EdDd | _Edgf _edcB AcGc _Gc=Ec | Dcac BAB=G ADf_A GFG_E | %66
+ FB,dF _EDEC DG,BD ECc=E | _GDAG cA_ec _gcag ecAG | Dc_gc gcac Dcgc gcac | DBdB dB=gB DBdB dBgB | %70
+ DA_gd gdc'd Ddgd gdc'd | Dd=gd gdbd Ddgd gdbd | D_ded edbd =Dded edbg | %73
+ g_ge=d d'2[d'dB]2 [d'_e=G]2c'b c'2[c'A]2 | [c'd_G]2ba b2[bd=G]2 [bd_E]2a2 [a_d=E]2g2 | %75
+ [_gc=D]2=g2 [gB]2e2 [eBCG]2f2 [fA]2d2 | [dAB,]2_ed [eG]gbd [_dGA,]=ead [=dF]fac | %77
+ [=BFG,]_agf gd_eB [c_E_E,]agf gdec | [_G=A,]Ac_e dcac deA_B cG=GA | %79
+ B,2d2 [dF=B,]2d2 [d_EC]2[cE][=BD] [c=E]2a2 | [c_GD]2[cA][_B=G] [cA]2a2 [BAD]2[BG][A_G] [B=G]2g2 | %81
+ [b_dE]2>a2 g_g=ga [_gc=D]2[=gBD]2 [gBD]2[gBD]2 | [gAD]2CB, [_gACD]2A,2 [fd=B,=G]2CB, [_eGC]2G,2 | %83
+ [_eFA,]2_B,A, [dFB,]2[_bdD]2 [gd_E]2[_ac][g=B] [ac]2[gcE]2 | %84
+ [_gcD]2_ec d2[g=AD]2 [=g=BD]2[ae]c [_bd]2[_gAD]2 | %85
+ [_gA_E]2[=g_BD]2 [gBD]2[gA_D]2 [gB=D]2 z [ac] [_gA]2>=g2 | G,GBd gdBG Agf_e fd=BG | %87
+ G,Gcd _ec_AG _Gedc d_B=GF | G,_EG=B c_e_AG =A,C_G=A ce_ga | _B,D=G_B d_g=g_b C_EGc _egac' | %90
+ Dc'bd _dbac =B_ag_B =Agf_A | Gf_eG _Ge=dF =Edc=B c_EDC | %92
+ [_gcD]6 [=ga_g=g][acd_e] (3:2:1[cdeA]2[_BcAB] (3:2:1z [_G=GA] D2[g_d]2 | %93
+ [gA=D]2 (3:2:1z [_g=g_e] (3:2:2z/ f- (12:7:1f4 g [gBG,D]8 |] %94
+V:2
+ x8 | x8 | x8 | GG, z6 | z4 [=G=G,]F/_E/ [dF]D | x8 | x8 | x8 | x8 | x8 | x8 | z/ g/ z7/2 F/ z3 | %12
+ z/ _G/ z7 | x8 | z6 fd | x9 | z6 _ec | x9 | x8 | x8 | x8 | x8 | x8 | z/ E/ z7 | x8 | x8 | x8 | %27
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | z3/2 a/ z2 AG AF | GF GE =d4 | d_d =d=B [_dA]4 | D4 D4 | %38
+ D4 D4 | D4 D4 | =D4 D4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z/ d/ z7 | x8 | %54
+ x8 | x8 | z15/2 [d_e]/ | x8 | z15/2 g/ | z3/2 f/ z3/2 g/ z3/2 d/ z2 | x8 | x8 | %62
+ z2 z/ a/ z7/2 d/ z | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %78
+ x8 | x8 | x8 | x8 | x8 | z4 z2 z/ _g/ z | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %92
+ z4 z [c_G=GA]/ z2 z/ | (3z [ag] z/4 f/ z6 |] %94

@@ -1,0 +1,34 @@
+X:1
+T:Sonata
+C:Domenico Scarlatti
+%%score { 1 | 2 }
+L:1/16
+M:12/8
+I:linebreak $
+K:C
+V:1 treble nm="Harpsichord" snm="Hch."
+V:2 treble 
+L:1/8
+V:1
+ G2 z2 z2 | c6[K:bass] G,6 C,6[K:treble] c4 Bc | d6[K:bass] G,6 G,,6[K:treble] d4 cd |$ %3
+ e6[K:bass] C,6 C,,6[K:treble] e6 | Te6 d6[K:bass] G,,6 ::[K:treble] G6 | %6
+({A_B)} c6 B6[K:bass] C,6[K:treble]({GA)} PB6 |$ A6[K:bass] C,6 F,,6[K:treble] A6 | %8
+({Bc)} d6 c6[K:bass] D,6[K:treble]({AB)} Pc6 | B6[K:bass] D,6 G,,6[K:treble] d6 |$ %10
+ [eg]6[K:bass] G,,6[K:treble] [df]6[K:bass] G,,6 | %11
+[K:treble] [ce]6[K:bass] G,,6[K:treble] [Bd]6[K:bass] G,,6 | %12
+[K:treble] [ce]6[K:bass] G,,6[K:treble] [df]6[K:bass] G,,6 |$ %13
+[K:treble] [ce]6[K:bass] G,,6 G,,6[K:treble] G6 |({A_B)} c6 B6[K:bass] C,6[K:treble] PB6 | %15
+ A6[K:bass] C,6 F,,6[K:treble] A6 |$({Bc)} d6 c6[K:bass] D,6[K:treble]({AB)} c6 | %17
+ B6[K:bass] D,6 G,,6[K:treble] d6 |({ef)} g6 f6[K:bass] G,6[K:treble] Pf6 |$ %19
+ e6[K:bass] G,6 C,6[K:treble] Pg4 fg | a6[K:bass] C6 F,6[K:treble] Pa4 gf | %21
+ g6[K:bass] C6 E,6[K:treble]({ef)} Pg4 fe |$ f6[K:bass] C6 D,6[K:treble] Pf4 ed | %23
+ e6 c6[K:bass] D,6[K:treble] PB4 AB | c6[K:bass] C,,6 C,,6 :| %25
+V:2
+"" CEG | CEG CEG CEG CEG |"" B,DG"" B,DG B,DG B,DG |$"" CEG CEG CEG CEG |"" G,CE"" G,B,D G,B,D :: %5
+[K:bass]"" E,G,C |"" E,G,C"" E,G,C"" E,G,C E,G,C |$"" F,A,C F,A,C F,A,C F,A,C | %8
+"" ^F,A,D"" F,A,D"" F,A,D F,A,D |"" G,B,D G,B,D G,B,D"C{" G,B,D |$"" G,CE G,CE"" G,B,D G,B,D | %11
+"" G,CE G,CE"" G,B,D G,B,D |"" G,CE G,CE"" G,B,D G,B,D |$"" G,CE G,CE"" [G,B,D]3"" E,G,C | %14
+"" E,G,C"" E,G,C"" E,G,C E,G,C |"" F,A,C F,A,C F,A,C F,A,C |$"" ^F,A,D"" F,A,D"" F,A,D F,A,D | %17
+"" G,B,D G,B,D G,B,D"C{" G,B,D |[K:treble]"" B,DG"" B,DG"" B,DG B,DG |$"" CEG CEG CEG"C{" CEG | %20
+"" FAc FAc FAc FAc |"" EGc EGc EGc EGc |$"m" DFB DFB DFB DFB | %23
+"" CEG[K:bass]"" E,G,C"m" F,A,D"" G,B,D |[K:treble]"" CEG CEG CEG :| %25

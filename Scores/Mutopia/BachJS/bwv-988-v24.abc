@@ -1,0 +1,53 @@
+% Goldberg Variations - 24: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1404
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Goldberg Variations - 24
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 3 ) ( 4 5 )
+L:1/8
+Q:1/4=60
+M:9/8
+I:linebreak $
+K:G
+V:1 treble nm="upper" snm="Hpschd"
+V:2 treble 
+L:1/16
+V:3 treble 
+V:4 bass nm="lower" snm="Hpschd"
+V:5 bass 
+V:1
+ G2 F G2 A Bd^c | d2 A d2 e e/g/f/e/d | gba bgf g3 | gfe fg[aE] E/G/F/E/D | %4
+ [dG][gB][fA] [gB][bG][aF] bd'/c'/b/a/ | [bG][c'F][aE] [aF][bG][gA] ga/g/f/e/ | %6
+ d D G F [gG] B A [fB] d/ c/ B/ A/ | [gB]c/B/A/G/ [cA]B/A/G/F/ [BG]A/G/F/E/ | %8
+ DBA GAF E/D/^C(3:2:2DD/- | ^C3 (3:2:1D/4 C D E z3 | z b[aF] ga[fA] e/d/^c(3:2:2dd/- | %11
+ ^c4 (3:2:1d/4 d e A B c | d2 [f^C] g2 [aE] B3- | [BF][AG]/F/[GE]/D/ A6- | %14
+ A d^c [dD]fe [f^C]a/g/f/e/ | [fD]g/f/e/d/ [eG]f/e/d/^c/ [dF]3 | A8- A- | AGF GBA B2 ^D | a8- a- | %19
+ [aF,] F, [fE] [g^D][bE][aF] b2 ^d | e[g^D]e/=d/ ce/d/c/B/ Ac/B/A/G/ | F2 e ^def B3- | %22
+ B^de3/2 =d/c/B<c B/A/G/A- | AFG B4 cd | e^GB A4 Bc | dFA D2 F B3- | E B2 ^D E F G F G A | %27
+ =D3 D3 D3- | DGF GAB cd/c/B/A/ | Bc/B/A/G/ AB/A/G/F/ GB/A/G/F/ | G z2 D z2 F z2 | G z2 C z2 B,3 |] %32
+V:2
+ x18 | z12 f z4 z | x18 | z12 d6 | z12 G6 | z3 b z g z3 a z f D6- | x20 | x18 | x18 | x55/3 | %10
+ z6 G4 z8 | x55/3 | z2 D2 z2 DEF2 z2 F2GFED | z6 E2FED^C D2EDC z | z7 e z8 z2 | x18 | x18 | x18 | %18
+ E2GFE=D C2EDCB, A,2CB,A,G, | z2 g2 z14 | z3 f2<E2 =D z8 z2 | x18 | x18 | x18 | x18 | %25
+ z6 B,6 B,2C2D2 | x20 | x18 | x18 | x18 | x18 | x18 |] %32
+V:3
+ x9 | x9 | x9 | z6 F/ z2 z/ | x9 | x9 | x10 | x9 | x9 | x55/6 | x9 | x55/6 | x9 | x9 | x9 | x9 | %16
+ x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x10 | x9 | x9 | x9 | x9 | x9 |] %32
+V:4
+ G,3 z2 F, G,2 E, | F,3 z2 A, D,2 F, | E,6 E,2 [A,^C] | D,3 D2 z3 =C | B,3 z2 D G,2 B, | %5
+ E2 z3 A, B,A,B, | CB,A, B,DC D2 D, | G,2 G,, G,,2 G, G,F,/E,/D,/C,/ | B,,G,,A,, B,,C,D, G,,2 G, | %9
+ G,F,E, A,2 G, [F,A,][G,B,][A,^C] | B,4- B, A, G,2 E, | [B,A,,] A,, ^G, A,6- | %12
+ F,2 A, A, B,2 ^C D2 D, | G,2 B,, ^C,D,E, F,E,F, | [G,A,]F,E, F,A,G, A,2 A,, | %15
+ D,2 D,, D,,2 D, D,3 | D,F,A, DE/D/C/B,/ CD/C/B,/A,/ | B,3 B,CD G,A,B, | C z2 A, z2 F, z2 | %19
+ ^D,2 F, B,3 B,3- | G, B, z2 E, C/ B,/ C [C,C]/ B,/ A,/ G,/ A,- | %21
+ [A,A,,] A,, [^A,,G,] B,,C/B,/=A,/G,/ A,B,/A,/G,/F,/ | G,A,/G,/F,/E,/ C^D,E, B,,E,D, | %23
+ E,4 G,B, E2 =D | C4 B,C F,G,A, | B,D,F, B,,C,D, G,,A,,B,, | C,3 C,3 C,3- | %27
+ C, [D,F,][B,,A,] B,,C,[D,F,] =G,,A,,B,, | E,, B,2 ^D, E, F, G, [A,,F,] G, A, | %29
+ G,,A,,B,, C,B,,A,, B,,G,,A,, | [D,B,,] B,,3 [A,,A,][G,,B,] D,2 [D,,B,]/A,/ | %31
+ G,,2 [G,,,A,]/G,/ G,,,2 [G,,G,]/F,/ [G,,G,]3 |] %32
+V:5
+ x9 | x9 | G,2 F, G,2 A, B,D z | D2 A, z6 | x9 | x9 | x9 | x9 | x9 | x9 | D2 z4 B,3- | %11
+ z A, z3 =G, F,2 E, | x10 | z8 z/ B,/ | x9 | x9 | x9 | x9 | x9 | z7 G,A, | x10 | z F, z7 | x9 | %23
+ x9 | x9 | x9 | z ^G,B, A,4 B,C | z3/2 C,/ z/ A,,/ D,2 z B,3- | x10 | =D,3 D,3 D,3- | %30
+ z G,F, G, z2 CD/C/ z | B,C/B,/ z A,B,/A,/ z4 |] %32

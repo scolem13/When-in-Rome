@@ -1,0 +1,54 @@
+% Kyrie, Gott heiliger Geist: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1281
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Kyrie, Gott heiliger Geist
+C:Johann Sebastian Bach
+%%score ( 1 2 3 ) ( 4 5 6 )
+L:1/8
+Q:1/4=60
+M:9/8
+I:linebreak $
+K:Amin
+V:1 treble nm="right" snm="P Org"
+V:2 treble 
+V:3 treble 
+V:4 bass nm="left" snm="P Org"
+V:5 bass 
+V:6 bass 
+V:1
+ z3 BAB cBc | d8- d- | [dA-] A7- A- | [AB] B2 e6- | [e^F] ^F2 Bcd ede | [GA] A2 A3 _B3 | %6
+ =f3 e4 [^cE][AF] | [dB]8- [dB] | [cA]6 B3- | B [EA^GA-]6 A2- | A [=F^GE][^F^D] GAB cBc | F8- F- | %12
+ [=FC] C5 ^F2 d | [DG] G ^F G6- | G^FE F2 d ^G2 e | A3 ede =fef | g8- g- | [gd-] d7- d- | %18
+ [de] e2 a6- | [a_B-] _B3- B B A3 | [fG] G [dF] ef[gD] aga | d8- d- | %22
+ [d^G] ^G B c[dB,][eC] [=fD][eC][fD] | B4 cd ede | [EA]3 d6- | [dBEDE^F^G]6 c3- | cBA Bcd ede | %27
+ A8- A- | [AD-]3 D- D F E2 D- | [DA] A [^GB,] [AC][BD][cE] [dF][cE]d | [F^G] ^G [AF] B6- | %31
+ [BC]3 C DE F[BE]c- |[Q:1/4=124] [cE] E5[Q:1/4=120][Q:1/4=102][Q:1/4=90][Q:1/4=65] ^F^GF | %33
+[Q:1/4=30] [^GE]3 z6 |] %34
+V:2
+ x9 | z3 ^FEF GFG | z cB cde =fef | z G^F GAB cBc | z dc G6- | z ^FG z2 a3 g | A2 ^G A4- A z | x9 | %8
+ z6 E3- | z6 F3- | z3 E6 | C6 B,3 | z ED E2 c D3- | z E z7 | x9 | x9 | z3 BAB ^cBc | %17
+ z fe fga _bab | z c_B cde fef | z gf g4- g f- | z e z E2 z ^C3 | DA =c2 BA ^GA^F | z c z7 | %23
+ E8- E- | z3 D2 A ^GBA | z6 A^GA | x9 | z4 z E D2 C | z3 ^G6 | z C z6 F- | z E z EDC B,CB, | %31
+ z3 A4 z ^D | z Bc BA^G ^D3 | x9 |] %34
+V:3
+ x9 | x9 | x9 | x9 | x9 | x9 | z4 DE F z2 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | %18
+ x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 |] %34
+V:4
+ z9 | z9 | z9 | z9 | z3 B,A,B, CB,C | D8- D- | [DA,-] A,7- A,- | [A,B,] B,2 ^G,A,B, =CB,C | %8
+ [E^F,] ^F,3 ^G,A, G,A,B, | [DC,] C,3 B,,C, D,C,D, | E,8- E,- | [E,A,] A,5 =G,2 G,- | %12
+ [G,C,-]4 C,4- C, | B,6 ^C,B,,C, | [A,D,-]4 D,4- D,- | [D,E,] E,5 D,C,D, | E,8- E, | D,3 DEF GFG | %18
+ A4- A G F2 E | D6 F,E,F, | G,8- G,- | G, A,4 ^F, E, F, [^G,=B,] [A,C] [B,D] [A,C] [B,D] | %22
+ E,^F,^G, A,6- | A,=G,^F, G,A,B, CB,C | =F,8- F, | E,8- E,- | [E,F,A,]3 [F,A,]3 E,3- | %27
+ [E,A,]3 [D,C,]D,[E,C] F,E,F,- | [F,B,-] B,7- B, | A,,8- A,,- | B,2 A,,8- A, ^G,6 A,,- | %31
+ A, A,,8- E, D, E, ^F, ^G, A, G, A,- A,, | %32
+[Q:1/4=124] [A,E,-] E,7-[Q:1/4=120][Q:1/4=102][Q:1/4=90][Q:1/4=65] E,- |[Q:1/4=30] B,3 E,3 z6 |] %34
+V:5
+ x9 | x9 | x9 | x9 | x9 | z3 ^F,E,F, G,F,G, | z ^CB, C z4 z | z ^G,^F, E6- | z DC D6- | z CB, C6 | %10
+ B,4- B, ^G, A,B,G, | z D,C, D,E,F, z F, z | z4 ^F,G, A,G,A, | z3 B,,A,,B,, A,3- | %14
+ z4 ^G,A, B,A,B, | z C,B,, C,B,,C, z3 | z B,A, B,^CD EDE | A,B,^C z6 | x9 | z3 E,D,E, C3 | %20
+ _B,6 A,3- | x13 | B,2 z7 | x9 | z A,^G, A,B,C DCD | ^G,4 A,B, CB,C | z3 D,6- | z C,B,, z3 B,2 A, | %28
+ z B,,A,, B,,C,D, E,D,E, | A,3 z3 A,3 | x18 | x18 | z ^G,^F, G,A,B, CB,C | x12 |] %34
+V:6
+ x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | %19
+ x9 | x9 | x13 | x9 | x9 | x9 | x9 | z6 ^G,3 | x9 | x9 | x9 | x18 | x18 | x9 | x12 |] %34

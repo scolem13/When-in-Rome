@@ -1,0 +1,42 @@
+% Air: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=165
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Air
+C:Georg Friedrich Händel (1685-1759)
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:F
+V:1 bass nm="down" snm="Hpschd"
+V:2 treble nm="up" snm="Hpschd"
+V:3 treble 
+L:1/4
+V:1
+ x4 F, x F,, | C, x A,, x B,, x C, x | F, x B, A, G,2 F, x | B, x A, x G, x F, x | %4
+ C x C, x E, x C, x | F, x A, x B, x G, x | C x A, x D x G, x | A, x F, x G, x A, x | %8
+ D, x D x B, x G, x | C x A, x B, x E x | F x E x D x C x | B, x A,3/2 B,/CxC, x | F,4 F,2 A,2 | %13
+ C2 D2 B,2 C2 | F,2 E2 D2 C2 | B,2 A,2 G,2 F,2 | C2 E,2 C,2 E,2 | F,2 A,2 B,2 =B,2 | %18
+ C2 _D2 =D2 G,2 | A,2 B,2 A,2 A,,2 | D,2 D2 B,2 G,2 | C2 A,2 E,2 C,2 | F,2 E,2 D,2 C,2 | %23
+ B,,2 A,,2 B,,2 C,2 | [F,,F,]4 F,G, A,B, | CB, A,F, B,G, CC, | F,A, B,A, G,E FA, | %27
+ B,C DB, CG, A,F, | CE,/x/F,/x/G,/x/E,D, E,C, | F,G, A,F, B,A, B,G, | CC, F,E, D,F, G,B, | %31
+ A,G, F,D, G,E, A,G, | F,E,/x/D,/x/C,/x/B,,A,, B,,G,, | C,D, E,F, E,D, E,C, | F,F EC DD, CC, | %35
+ B,B,, A,A,, B,,G,, C,C,, | F,,/x/A,,/x/C,/x/F,/ x/ F,4 |] %37
+V:2
+ x4 c z f z | e/f/e/d/ [cA]2 g z [ec]2 | [aA]2 [fd]2 [be]2 ab | g z f z [eB]2 (3[gf][gf][ef] | %4
+ [gce]4 c z [gc'] z | a2 f2 d z g z | e/f/e/d/ [cA]2 f z ed | %7
+ [_dA]2 [=dA]2 E z (3[d_d][=d_d][=Bd] | [=dF]4 d z g z | e/f/e/d/ [cA]2 g z [ac]2 | %10
+ a/b/a/b/ [gc]2 g/a/b [gf]2 | [gd]2 [fc]2 G z e z | [fA]4 cA Ff | ec fA Gg (3[ef][ed] z/4 c/ | %14
+ af ca bf ea | gd cf eB Af | g/ z/ e/ z/ f/ z/ g/ z/ ce gc' | af cf dB Gg | ec Ae fd bd | %19
+ _dA =dG Fd E_d | =dD/ z/ F/ z/ A/ z/ d/ z/ g fg | ec fc gc' bc' | ac gc fb ea | dg cf Gf ce | %24
+ fF/ z/ A/ z/ B/ z/ c z f z | e2 f2 [gd]2 e2 | a2 f2 b2 a z | g2 f2 [eG]2 (3[gf][gf][ef] | %28
+ [gce]4 c z c' z | a/b/a/b/ f2 d z g z | e/f/e/d/ [cA]2 f z ed | _d z =d z E z _d z | %32
+ [=dFA]4 d z g z | e/f/e/d/ c2 g z c' z | a/b/a/b/ g2 [bf]2 a z | g z f z [GD] z e z | %36
+ [Acf]4 [Acf]4 |] %37
+V:3
+ x2 A A | G z d z | z3 c | d c z3/4 f/4 A | z4 | c2 G B | G z F B | z7/4 e/4 z E | z2 G _B | %9
+ G z d z3/4 b/4 | f z f z3/4 b/4 | z7/4 g/4 E G | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %22
+ z4 | z4 | z2 A F | c2 z c- | c d- d c | d2 z c | z2 G c | c2 G d | G z A B | E A B, [EA] | %32
+ z2 G d | G2 c g | c2 z e | d c z [Gc] | z4 |] %37

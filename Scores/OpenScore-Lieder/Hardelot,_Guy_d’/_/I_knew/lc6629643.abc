@@ -1,0 +1,100 @@
+X:1
+T:I knew
+C:Guy d’ Hardelot
+Z:Eileen Fitzgerald
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 7 8 ) | ( 4 5 6 ) }
+L:1/8
+Q:1/4=54
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:7 treble 
+L:1/4
+V:8 treble 
+L:1/4
+V:4 bass 
+V:5 bass 
+L:1/4
+V:6 bass 
+V:1
+"^Andante" z8 | !fermata!z8 |!p! (B2 c3/2 B/ A3 G | F2- F3/2 C/ F4) | %4
+w: ||Cold is the world, e’er|yet _ the dawn|
+ z!<(! (C D E!<)!!>(! G3 B!>)! | B4 A2) z2 |!mf! (c2 B3/2 G/ B4- | B A A3/2 E/ G4) | %8
+w: A- wakes in splen- dour|bright, _|Dark is the earth|_ at ear- ly morn|
+ z"^poco rall."!<(! C D E !tenuto!F2!<)! !tenuto!d2 | !>!d4- d2 z2 | z4 z2 z!p! (F | A3 G G3 F | %12
+w: Be- fore the sun gives|light. _|And|so my life was|
+ !>!A3 G G3) F |!<(! A,4- A, B, D3/2!<)! F/ | (c4 B2) z B |!f! B3 =B c3/2!<(! _B/ A B!<)! | %16
+w: dull and grey Be-|fore _ Love came to|me, _ But|now ’tis chang’d to bright- est|
+!ff! (_d4 _A2) z F | _D3 F!>(! c3 A!>)! | F2 z2 z4 | z8 |!p! (B2 c3/2 B/ A3 G | F3 C F4) | %22
+w: day, _ And|filled with mel- o-|dy.||I did not deem this|world could hold|
+ z!<(! (C D3/2 E/!<)! G3 B | (B4) A2) z2 |!f! d2 c3/2 G/ B4- | B A A3/2 =E/!>(! (G2 F2)!>)! | %26
+w: A joy so deep, so|true, _|Till thy dear arms|_ did me en- fold _|
+ z!<(! C D3/2 _E/!<)! !breath!!fermata!e3!ff! d | d4- d2 z2 | z8 | z8 |] %30
+w: And then I knew, I|knew. _|||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | F4- F x3 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %30
+V:3
+!f! ([Bdfb]2 [Adfa]>[FBdf] [GBdg]3 [DGBd] | [FBef]3 [CEBc]!>(! [FBef]3)!>)! !fermata![FAdf] | %2
+!p! ([DF][DF][DF][DF]) [B,DF] [B,DF]2 [B,DF] | [G,EF] [G,EF]2 [G,EF] [G,EF] [^G,EF]2 [A,EF] | %4
+ z!<(! [A,C][A,D][A,E]!<)!!>(! [G,A,EG] [G,A,EG]2 [B,CEG]!>)! | %5
+ [B,EF] [B,EF]2 [B,EF] z [A,EF]2 [A,EF] |!mf! ([EG][EG][EG][EG]) [CEG] [CEG]2 [CEG] | %7
+ ([CEG][CEF][CEF][CEF]) [B,EF] [B,EF]2 [B,EF] | %8
+ z"^poco rall."!<(! [A,C][A,D][G,A,E] [F,A,EF][F,A,EF][DFAd][DFAd]!<)! | %9
+!f!"^a tempo" [DFBd][DFBd][DFAd][DFAd] [DGBd] [DGBd]2 [DGBd] | %10
+ [CFBc][CEBc][CEBc][CEBc] [CEAc] [CEAc]2 [CEAc] | %11
+!p! [B,^C=EA] [B,CEA]2 [B,CEG] [A,=CG] [A,CG]2 [A,CF] | %12
+ [B,=EA] [B,EA]2 [B,EG] [A,_EG] [A,EG]2 [A,EF] |!<(! A, A,2 A,- A,B,[B,D][B,DF]!<)! | %14
+ [^FAc] [EAc]2 [DAc] [B,AB][B,GB][DBd][B,=FB] | %15
+!f! [B,=EB]3 [=B,E=B] [CEc]!<(![_B,E_B][A,EA][B,EB]!<)! | %16
+!ff! [_DFB_d] [DFBd]2 [DFBd]!>(! [DF_Ad] [DFAd]2 [B,DF]!>)! | %17
+!p!!<(! [B,_D] B,2!<)! B,!>(! [A,C] [B,=EA]2 [CEA]!>)! | (F[Be]!p! [Bd][Bd] [GAc][GAc] [FGB][FGB] | %19
+ [EGA] [EGA]2 [EGA] [EFA][EFA][EFA][EFA]) | %20
+!pp! ([Bdfb][Bdfb] [cdfc']>[Bdfb] [Adfa] [Adfa]2 [GBdg]) | %21
+ ([FBf] [FBf]2 [FBf] [FAf] [FAf]2 [FAf]) | %22
+!<(! z [A,C][A,D]>[G,A,E]!<)! [G,A,EG] [G,A,EG]2 [B,CEB] | %23
+ [CEFB] [CEFB]2 [B,EFB] [A,EFA] [A,EFA]2 [A,EFA] | %24
+!f! [EGBd][EGBd] [EGBc][EGBc] [CEGB] [CEGB]2 [CEGB] | %25
+ z [^CFGA][C=EG][B,EGA]!>(! [B,CG][B,EG] [A,F]2!>)! | %26
+ z [G,B,=C][G,B,D]>[G,B,_E] !fermata![EGBe]3"^allarg." [FAd] | %27
+!ff! [Bdfb]2 [Adfa]>[FBdf] [GBdg]3 [DGBd] | [FBef]3 [CEBc] [FBef]3 [dfad'] | d'4- d'2 z2 |] %30
+V:4
+!ped! z [D,F,G,B,]2 [F,G,B,D] z [D,F,G,B,]2 [F,G,B,]!ped-up! | %1
+!ped! z [C,E,G,B,] [C,G,B,]2!ped-up! z [E,F,B,C]2 !fermata![E,F,A,D] | %2
+!ped! (B,2 C>B, A,3 G,!ped-up! |!ped! F,2- F,>C,!ped-up!!ped! F,4)!ped-up! | %4
+!ped! [F,,,F,,]8!ped-up! |!ped! (G,2- G,>C,!ped-up!!ped! F,4)!ped-up! | %6
+!ped! (C2 B,>G, B,4-!ped-up! |!ped! B,A,A,>E, G,4)!ped-up! |!ped! [F,,,F,,]8!ped-up! | %9
+!ped!({/[B,,,,B,,,]} (B,2) A,>F, G,3 D,!ped-up! |!ped! F,2- F,>C,!ped-up!!ped! F,4)!ped-up! | %11
+!ped! (=E,4!ped-up!!ped! _E,4!ped-up! |!ped! ^C,4!ped-up!!ped! =C,4)!ped-up! | %13
+!ped! [D,,,D,,]8!ped-up! |!ped! [G,,,G,,]4!ped-up!!ped! [G,,D,G,]4!ped-up! | %15
+!ped! z2 [B,,C,=E,G,]2 z2 [B,,C,E,]2!ped-up! |!ped! [_A,,,_A,,]4 [A,,F,_A,]4!ped-up! | %17
+!ped! [_D,F,] [D,F,]2 [D,F,]!ped-up!!ped! [B,,=E,] z z2!ped-up! |!ped! A,2"^L.H." F>C E>B, D>A, | %19
+ (C4 G,2 F,2)!ped-up! |!ped! ([B,DF][B,DF] [CDF]>[B,DF] [A,DF] [A,DF]2 [G,B,D])!ped-up! | %21
+!ped! ([F,G,B,C] [F,G,B,C]2 [F,G,B,C] [E,F,A,C] [E,F,A,C]2 [E,F,A,C])!ped-up! | %22
+!ped! [F,,,F,,]8!ped-up! |!mf!!ped! G,2- G,>C, F,4!ped-up! |!ped! (D2 C>G, B,4)!ped-up! | %25
+!ped! z A,A,>=E,!ped-up!!ped! (E,2 D,2)!ped-up! | %26
+!ped! x4 z !fermata![C,E,G,B,]2 [E,F,A,D]!ped-up! | %27
+!ped! z [D,F,G,B,]2 [F,G,B,D]!ped-up!!ped! z [D,F,G,B,]2 [F,G,B,]!ped-up! | %28
+!ped! z [C,E,G,B,]2 [C,G,B,]!ped-up!!ped! z [C,E,F,B,]2 [E,F,A,D]!ped-up! | %29
+!ped! z [F,G,B,D]3- [F,G,B,D]2 z2!ped-up! |] %30
+V:5
+ [B,,,,B,,,]2 [D,,,D,,]2 | [C,,,C,,]2 !fermata![F,,,F,,]2 | x4 | x4 | x4 | x4 | x4 | [F,,,F,,]4 | %8
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | [C,,,C,,]2- [C,,,C,,]2 | x4 | [G,,,G,,]2 [C,,,C,,]2 | %18
+ [F,,,F,,]4- | [F,,,F,,]4 | x4 | x4 | x4 | x4 | x4 | [^C,,,^C,,]2 D,,2 | %26
+ [_E,,,_E,,]- [E,,,E,,]/>[D,,,D,,]/ [C,,,C,,] !fermata![F,,,F,,] | [B,,,,B,,,]2 [D,,,D,,]2 | %28
+ [C,,,C,,]2 [F,,,F,,]2 | [B,,,,B,,,]2- [B,,,,B,,,]2 |] %30
+V:6
+ x8 | x8 | x8 | x8 | x ([C,E,][D,E,][E,G,]) x4 | x8 | x8 | x8 | x [C,E,][D,E,]E, x4 | x8 | x8 | %11
+ x8 | x8 | [A,,D,F,] [A,,D,F,]2 [A,,D,F,]- [A,,D,F,][B,,D,F,][D,F,]F, | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x [C,E,][D,E,]>E, x4 | x8 | x8 | x8 | x =C,D,>E, x4 | x8 | x8 | %29
+[I:staff -1] b4- b2 x2 |] %30
+V:7
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | f2- f x |] %30
+V:8
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | d2- d x |] %30

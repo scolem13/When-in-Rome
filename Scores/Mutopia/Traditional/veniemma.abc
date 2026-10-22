@@ -1,0 +1,32 @@
+% Veni Emmanuel (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1300
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Veni Emmanuel (hymntune)
+C:Traditional; 15th century French, arr. Thomas Helmore, 1856
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:G
+V:1 bass nm="lower"
+V:2 bass 
+L:1/4
+V:3 treble nm="upper"
+V:4 treble 
+V:1
+ x7 [E,G,] | [E,B,][D,F,] [C,G,][G,,D] C,A,, [B,,D][D,C] | %2
+ [G,B,]3 [D,F,] [G,,G,][B,,G,] [C,G,][B,,B,] | C,A,, [B,,G,][B,,F,] [E,G,]3 [C,A,] | %4
+ [A,,A,][A,C] [G,B,][F,A,] E,B,, [A,,A,][A,,G,] | [D,F,]3 [E,G,] [D,F,][B,,F,] [G,,G,][B,,D] | %6
+ C,A,, [B,,D][D,C] [G,,B,]3 [G,B,] | [D,A,]3 [E,E] [B,,D]3 [G,,D] | %8
+ C,A,, [B,,D][D,C] [E,B,][D,D] [G,,D][B,,G,] | [C,G,] [B,,B,]C, A,,B,, [B,,F,][E,G,] x |] %10
+V:2
+ x/ x7/2 | z2 E z | z4 | A, z2 z3/4 B,,/4 | z2 G, z | z4 | E z3 | z4 | E z3 | z A, z3/2 x/ |] %10
+V:3
+ x7 E | [EG][B,B] [DB][GB] G3 [FA] | [DG]3 [DA] [DB][DG] [CE][DG] | %3
+ [EA][CF] [B,E][B,D] [B,E]3 [EA] | [CA][A,E] E[^DF] E=D [DF][^CE] | D3 [B,G] [DA][DB] [DB][GB] | %6
+ G3 [FA] G3 [Gd] | [Fd]3 [GB] [FB]3 [GB] | G3 [FA] G[FA] [GB][DG] | %9
+ [CE] [DG][EA] [CF][B,E] [B,D][B,E] x |] %10
+V:4
+ x x7 | z4 Ac B z | z8 | z15/2 D/ | z4 G2 z2 | z8 | Ac B z4 z | z8 | Ac B z4 z | z7 x |] %10

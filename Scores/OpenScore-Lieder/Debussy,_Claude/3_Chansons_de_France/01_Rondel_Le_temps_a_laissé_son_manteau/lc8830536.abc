@@ -1,0 +1,96 @@
+X:1
+T:3 Chansons de France
+T:Rondel: Le temps a laissé son manteau
+C:Claude Debussy
+Z:Charles d' Orléans
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 6 8 ) | ( 4 5 7 9 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:B
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:6 treble 
+L:1/4
+V:8 treble 
+L:1/4
+V:4 treble 
+L:1/4
+V:5 treble 
+V:7 treble 
+V:9 treble 
+L:1/4
+V:1
+"^Joyeux et animé" z8 | z8 |$ z2 E2 E2 F G | G2 E G G3 A | A2 A c cA F A |$ A2 F2 z E F G | %6
+w: ||Le vent a lais-|sié son man- teau De|vent, de froi- dure * et de|pluy- e, Et s'est vest-|
+ B G A B c2- c d | d B2 G G2 G B |$ G6 z2 | z8 | z4 z2 B,2 |$ C2 F2 =D2- D z | E G G4 F2- | %13
+w: tu de bro- de- ry- e, De|so- leil rai- ant, cler et|beau.||Il|n'y a bes- te|ne oi- seau Qui|
+ F2 B2 =A2 G2 |$ G F G =A c2 B2 | z2 E2 E2 F G |"^Cédez" G4 E2 G2 |$[Q:1/4=120]"^1° Tempo" G8 | %18
+w: _ en son jar-|–gon ne chante ou cry- e|Le temps a lais-|sié son man-|–teau.|
+ z8 | z4 E4 |$ G4 F2 z G | D4 E2 G2 | B8 |$ (3B2 =A2 =G2 (3=F2 G2 B2 | _B4 =G4 | %25
+w: |Ri-|–viè- re, fon-|taine et ruis-|seau|Por- tent en li- vrée jo-|ly- e|
+ =F2 =G =A B G A B |$ c6- c2 | z2 c2 d2 A2 | c d A c f4 |$"^Retenu" z2 E2 E2 F G | G2 E G G4 | %31
+w: Goul- tes d'ar- gent d'or- fa- ve-|–ri- e|Chas- cun s'a-|bil- le de nou- veau,|Le temps a lais-|sié son man- teau.|
+ z8 |] %32
+w: |
+V:2
+"^Joyeux et animé"!mf! (a3 b g3 a | fg"_dim."df- (3f2 B2 c2) |$ !arpeggio![=A,^B,G]8 | %3
+ !arpeggio![G,CG]8 | !arpeggio![A,CFA]8 |$!p!"_cresc." (a3 b g3 a | b3 c' a4) | %7
+!f! (!arpeggio![Bdgb]2 !arpeggio![^EGc^e]2 !arpeggio![B,DGB]2 !arpeggio![CE]2) |$ %8
+ (!arpeggio![B,DGB]2 !arpeggio![^EGc^e]2 !arpeggio![Bdgb]2 !arpeggio![c-eg-c'-]2) | %9
+!p!"_délicatement" ([cc']4"_soutenu" [Ff]4 |!<(! [Cc]4 [Ff]4)!<)! |$!p! ([cc']4 [Ff]4 | %12
+ [Cc]4 [F,F]4) | ([F,F]4 [=A,=A]2 [B,B]2) |$ ([Cc]4 [Ee]2 [Ff]2) |!p! !tenuto![Gg]4 !tenuto!g4 | %16
+"^Cédez"!<(! !tenuto![Gg]4 !tenuto!g4!<)! |$!f!"^1° Tempo" (.[Gg]2 .[=Ag]2 .[Bb]2 .[cg]2) | %18
+!p! (.[Gg]2 .[=Ag]2 .[Bb]2 .[cg]2) |!p! !tenuto![^Ag]8 |$ z2"^m.g." (.f2 .B2) x2 | !tenuto![^Ag]8 | %22
+ z2 (.f2 .B2) x2 |$ (=a=gab agab) |!<(! (=a=ga_b!<)!!>(! agab)!>)! | (=a=gab agab) |$ %26
+!<(! (=a=ga_b!<)!!>(! aga!>)!b) | %27
+!mf!"_e cresc. molto" ([^A^a][dd'][cc'][dd']) ([Aa][dd'][cc'][dd']) | %28
+ ([Aa][dd'][cc'][dd'])!<(! ([Aa][cc'][dd'][df'])!<)! |$ %29
+!f!!<(!"^Retenu" ([gg'][ff'][ee'][dd'] [gc']4)!<)! | %30
+!f! !arpeggio!!tenuto![=B,=DFB]2 !arpeggio!!tenuto![G,CEG]2!<(! !arpeggio!!tenuto![B,DFB]2 !arpeggio!!tenuto![C^EGc]2!<)! | %31
+!ff! [c^egc']8 |] %32
+V:3
+ fedf edce | dcBA- (3A2 G2 F2 |$ x8 | x8 | x8 |$ fedf edce | gfeg fedf | x8 |$ x8 | gfed cB=AG- | %10
+ GFG=A Bcdf |$ gfed cB=AG- | GFE^D CB,CD | CB,"_crescendo"C=D EDEF |$ GFG=A BABc | (dcde) dc de | %16
+ (dcde) dc de |$ (dcde) (dcde) | (dcde) (dcde) | (dcde dcde) |$ (dcde dcde) | (dcde dcde) | %22
+ (dcde dcde) |$ (=f4- f3 e) | (_e4- e3 =e) | (=f4- f3 e) |$ (_e4- e3 =e) | (^g3 =g f2 a2) | %28
+ (^g3 =g f2 [fa]2) |$ [^bd']2 [gb]2 [ce]4 | x8 | x8 |] %32
+V:4
+ A3/2 B/ G3/2 A/ | F/G/D/F/- (3F[K:bass] B, C |$ !arpeggio![=D,,=A,,E,]4 | !arpeggio![C,,G,,E,]4 | %4
+ !arpeggio![F,,C,F,]4 |$[K:treble] (A3/2 B/ G3/2 A/ | B3/2 c/ A2) | %7
+ !arpeggio![G,DG][K:bass] !arpeggio![C,G,C] !arpeggio![G,,D,G,] !arpeggio![^E,G,] |$ %8
+ (!arpeggio![G,,D,G,] !arpeggio![C,G,C][K:treble] !arpeggio![G,DG] !arpeggio![C^EG-]) | %9
+ =A2[K:bass] =D2 | =A,2 ^D2 |$[K:treble] =A2[K:bass] =D2 | =A,2 D,2 | =D,2 [=A,,F,] [B,,G,] |$ %14
+ [C,=A,]2 [E,C] [F,^D] | !tenuto![G,E]2 ([CE] [DG]) | !tenuto![G,E]2 ([CE] [DG]) |$ %17
+ (.[C,G,E] .[F,CF] .[G,DG] .[=A,E=A]) | (.[C,G,E] .[F,CF] .[G,DG] .[=A,E=A]) | C2- C3/2 =C/ |$ %20
+ (B,2- B,3/2 ^B,/) | [F,E]4 | (B,2- B,3/2 =C/) |$[K:treble] z (._d .=G) x | z (._d .=G) x | %25
+ z (._d .=G) x |$ z (._d .=G) x | (^G3/2 =G/ F A) | (^G3/2 =G/) ([EF] [FA]) |$ [^Bd] [GB] [EG]2 | %30
+[K:bass] !arpeggio![E,,=B,,G,] !arpeggio![=A,,E,] !arpeggio![E,,B,,G,] !arpeggio![C,G,]- | %31
+ [G,CG]4 |] %32
+V:5
+ (FEDF EDCE | DCB,A,- (3A,2[K:bass] G,2 F,2) |$ x8 | x8 | x8 |$[K:treble] (FEDF EDCE | GFEG FEDF) | %7
+ x6[K:bass] !arpeggio![C,,G,,C,]2 |$ x4[K:treble] x4 | (GFED[K:bass] CB,=A,G,- | %10
+ G,F,G,=A, B,CDF) |$[K:treble] (GFED[K:bass] CB,=A,G,- | G,F,E,^D, C,B,,C,D,) | %13
+ ([B,,,F,,]4 =D,,2 E,,2) |$ (F,,4 =A,,2 B,,2) | C,4 (F,2 G,2) | C,4 (F,2 G,2) |$ x8 | x8 | %19
+ z2 (.C,2 .F,,2) z2 |$ [F,D]8 | C4- C3 =C | [F,D]8 |$[K:treble] (=F4- F3 E) | [_E,_D]8 | %25
+ (=F4- F3 E) |$ [_E,_D]8 | =E4 E4 | E4 x4 |$ (GFED C2 DE) |[K:bass] x6 !arpeggio![C,,G,,]2- | %31
+ [C,,G,,C,]8 |] %32
+V:6
+ x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | z2 (=A B) | %16
+ z2 (=A B) |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |] %32
+V:7
+ x8 | x16/3[K:bass] x8/3 |$ x8 | x8 | x8 |$[K:treble] x8 | x8 | x2[K:bass] x6 |$ x4[K:treble] x4 | %9
+ x4[K:bass] x4 | x8 |$[K:treble] x4[K:bass] x4 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | [F,E]8 |$ %20
+ x8 | x8 | x8 |$[K:treble] [=G,_D]8 | (_E4- E3 =E) | [=G,_D]8 |$ (_E4- E3 =E) | x8 | x8 |$ x8 | %30
+[K:bass] x8 | x8 |] %32
+V:8
+ x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | %18
+ x4 | x4 |$ !tenuto![=Ag]4 | x4 | !tenuto![=Ag]4 |$ B4 | _B4 | =B4 |$ _B4 | x4 | x4 |$ x4 | x4 | %31
+ x4 |] %32
+V:9
+ x4 | x8/3[K:bass] x4/3 |$ x4 | x4 | x4 |$[K:treble] x4 | x4 | x[K:bass] x3 |$ x2[K:treble] x2 | %9
+ x2[K:bass] x2 | x4 |$[K:treble] x2[K:bass] x2 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | %21
+ z (.C, .F,,) x | x4 |$[K:treble] x4 | x4 | x4 |$ x4 | (^D C A, C) | (D C) (A,/C/D/F/) |$ x4 | %30
+[K:bass] x4 | x4 |] %32

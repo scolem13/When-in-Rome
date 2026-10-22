@@ -1,0 +1,27 @@
+X:1
+T:Uns ist ein Kindlein heut geborn
+T:Uns ist ein Kindlein heut geborn
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ B | B/c/ d B G | A B !fermata!c B | A G G3/2 A/ | B B A/G/ A | !fermata!G3 x :: B x3 | A B G E | %8
+ F G !fermata!A B | G G G3/2 A/ | B B A/G/ A | !fermata!G3 x || %12
+V:2
+ G | G A G G | =F/E/ D !fermata!E D- | D/C/ B, E2 | D D D- D/C/ | !fermata!B,3 x :: G x3 | %7
+ F F E/=D/ ^C | D3/2 ^C/ !fermata!D ^D | B, E =D E/F/ | G D D3/2 C/ | !fermata!B,3 x || %12
+V:3
+ d | d d d d/c/ | c G !fermata!G G | F G c2 | B/A/ G G F | !fermata!D3 x :: d x3 | d/c/ B B A | %8
+ A G !fermata!F F | G c B/c/B/A/ | G G2 F | !fermata!D3 x || %12
+V:4
+ G,, | G, F, G, E, | =F, G, !fermata!C, G,, | D, E,/D,/ C,/D,/E,/^F,/ | G, B,,/C,/ D, D, | %5
+ !fermata!G,,3 x :: G,, x3 | D, ^D, E, A,/G,/ | F, E, !fermata!=D, B,, | %9
+ E,/=D,/E,/F,/ G,/A,/G,/F,/ | E,/B,,/ C, D,2 | !fermata!G,,3 x || %12

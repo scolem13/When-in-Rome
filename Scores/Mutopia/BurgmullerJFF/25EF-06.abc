@@ -1,0 +1,25 @@
+% Progrès: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=215
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Progrès
+C:Johann Friedrich Franz Burgmüller (1806-1874)
+%%score 1 2
+L:1/16
+Q:1/4=132
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="up" snm="Pno"
+V:2 bass nm="down" snm="Pno"
+V:1
+ E2FG ABcd e2B2 c2A2 | G2AB cdef g2^f2 g2e2 | =f z d' z d z b z B z g2 f2d2 | [ce]16 | %4
+ E2FG ABcd e2B2 c2A2 | G2AB cdef g2^f2 g2e2 | =f z d' z d z b z B z g2 f2d2 | c2de fgab c'4 z4 | %8
+ z2 c'2 e' z a2 c' z e2 a z c2 | [df]16 | z2 b2 d' z g2 b z d2 g z B2 | [ce]16 | %12
+ z2 E2 F z E2 ^F z E2 ^G z E2 | A z E2 B z E2 c z E2 A z E2 | ^G z e2 B z e2 c z e2 A z e2 | %15
+ z2 e4 e4 e4 e2 |] %16
+V:2
+ C,2D,E, F,G,A,B, C2^G,2 A,2F,2 | E,2F,=G, A,B,CD E2^D2 E2C2 | [G,=D]16 | %3
+ C z E z A, z C z G, z C z E, z C z | C,2D,E, F,G,A,B, C2^G,2 A,2F,2 | E,2F,=G, A,B,CD E2^D2 E2C2 | %6
+ [G,=D]12 [G,B,]4 | C2B,A, G,F,E,D, C,4 z4 | [A,C]16 | z2 D2 F z A,2 D z F,2 A, z D,2 | [G,B,]16 | %11
+ z2 C2 E z G,2 C z E,2 G, z C,2 | E,8 z4 D4 | C4 ^G,4 A,4 C4 | B,4 ^G,4 A,4 C4 | E4 E4 E4 E4 |] %16

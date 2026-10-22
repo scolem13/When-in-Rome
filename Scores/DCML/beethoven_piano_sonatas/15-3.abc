@@ -1,0 +1,73 @@
+X:1
+T:Sonata no. 15 ('Pastoral')
+T:Scherzo: Allegro vivace
+C:Ludwig van Beethoven
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="piano"
+V:2 treble 
+V:3 bass nm="piano"
+L:1/8
+V:4 bass 
+V:1
+ f3 | f3 | z3 | z3 | A/F/ D z | B/G/ E z | G/E/ C z | D D z | a3 |$ a3 | z3 | z3 | e/c/ A z | %13
+w: |||||||||||||
+ f/d/ B z | d/B/ ^G z | A A z | [df]3 | [DF]3 | z3 |$ z3 | A/F/ D z | B/G/ E z | G/E/ C z | %23
+w: |||f|f||||||
+ [F,D] [F,D] z | [ca]3 | [CA]3 | z3 | z3 |$ e/c/ A z | f/d/ B z | d/B/ ^G z | [CA] [CA] z |: %32
+w: |f|f|||||||
+ z .[A=cd] .[Acd] | z .[A=cd] .[Acd] | z .[^Ad] .[Ad] |$ z .[Bd] .[Bd] | z .[Bde] .[Bde] | %37
+w: pp *|||||
+ z .[Bde] .[Bde] | z .[^Be] .[Be] | z .[ce] .[ce] | z .[cef] .[cef] | z .[cef] .[cef] | %42
+w: |< *||||
+ z .[cf] .[cf] |$ z .[df] .[df] | z .[dg] .[dg] | z .[^dg] .[dg] | z [Aeg]2- | !fermata![Aeg]3 | %48
+w: |||> *|||
+ [df]3 | [DF]3 | z3 | z3 |$ A/F/ D z | B/G/ E z | G/E/ C z | D D z | [fad']3 | [FAd]3 | z3 | z3 | %60
+w: p||||||||ff|ff|||
+ a/f/ ^d z |$ b/g/ e z | a/e/ c z | =d/A/ F z | A/E/ C z | D/A,/ F, z | x3 | x3 |$ [dd'] z z | %69
+w: p * *|||< * *|||||f|
+ z3 :|[M:3/4] !>!f3 |{/e} d3/2 .c/ .B | B B ^A | B3 |$ !>!f3 |{/e} d3/2 .c/ .B | .B B c | !>!d3 :| %78
+w: |p||||||||
+ !>!f3 |{/e} d3/2 .c/ .B |$ .B B c | d3 | !>!f3 |{/e} d3/2 .c/ .B | .B B ^A | B3 |$ !>!f3 | %87
+w: <||> * *||||||<|
+{/e} d3/2 .c/ .B | .B B c | d3 | f3 |{/e} d3/2 .c/ .B |$ .B B ^A | B3 |] %94
+w: |||sf~>||p * *||
+V:2
+ f3- | F3 | x3 | x3 | x3 | x3 | x3 | x3 | a3- |$ A3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ %19
+w: p|||||||||||||||||||
+ x3 | A, A, z | B, B, z | G, G, z | x3 | x3 | x3 | x3 | x3 |$ E E z | F F z | D D z | x3 |: x3 | %33
+w: |p *||||||||p *|||||
+ x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ %52
+w: |||||||||||||||||||
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 :| %70
+w: ||||||||||||||||||
+[M:3/4] x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 :| x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | %87
+w: |||||||||||||||||
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 |] %94
+w: |||||||
+V:3
+ z6 | z6 | F,6 | F,6 | [D,F,]2 [D,F,]2 z2 | [G,,B,,E,]2 [G,,B,,E,]2 z2 | [A,,E,G,]2 [A,,E,G,]2 z2 | %7
+ [D,F,]2 [D,F,]2 z2 | z6 |$ z6 | A,6- | A,6 | [C,E,A,]2 [C,E,A,]2 z2 | [D,F,B,]2 [D,F,B,]2 z2 | %14
+ [E,B,D]2 [E,B,D]2 z2 | [A,C]2 [A,C]2 z2 | z6 | z6 | [D,F,]6 |$ [D,,F,,]6 | [D,F,]2 [D,F,]2 z2 | %21
+ [G,,E,]2 [G,,E,]2 z2 | [A,,E,]2 [A,,E,]2 z2 | [D,,D,]2 [D,,D,]2 z2 | z6 | z6 | [C,A,]6 | %27
+ [C,,A,,]6 |$ [C,E,A,]2 [C,E,A,]2 z2 | [D,F,B,]2 [D,F,B,]2 z2 | [E,B,]2 [E,B,]2 z2 | %31
+ [A,,A,]2 [A,,A,]2 z2 |: F6 | F,6 | F,,6 |$ G,,6 | ^G6 | ^G,6 | ^G,,6 | A,,6 | ^A6 | ^A,6 | %42
+ ^A,,6 |$ B,,6 | B,6 | =C6 | ^C6- | !fermata!C6 | z6 | z6 | [D,F,]6 | [D,,F,,]6 |$ %52
+ [D,F,]2 [D,F,]2 z2 | [G,,B,,E,]2 [G,,B,,E,]2 z2 | [A,,E,G,]2 [A,,E,G,]2 z2 | [D,F,]2 [D,F,]2 z2 | %56
+ z6 | [F,A,D]6 | [F,,A,,D,]6 | [F,,,A,,,D,,]6 | [F,A,=C^D]2 [F,A,CD]2 z2 |$ [G,B,E]2 [G,B,E]2 z2 | %62
+ [A,EG]2 [A,EG]2 z2 | [DF]2 D2 z2 | [A,,E,G,]2 [A,,E,G,]2 z2 | F,2 x4 | A,E, C,2 z2 | D,2 D,2 z2 |$ %68
+ [D,,D,]2 z2 z2 | z6 :|[M:3/4] F,,F,^G,,^G,^A,,^A, | B,,B,C,CD,D | E,EC,CF,F | D,DC,CB,,B, |$ %74
+ ^A,,^A,B,,B,C,C | D,DE,EF,F | G,GE,EA,A | F,FE,ED,D :| D,DF,DA,E | D,DG,DB,D |$ D,DG,D_B,D | %81
+ D,DF,DA,D | C,^A,E,A,F,A, | B,,B, D,,D,E,,E, | F,,F,E,,E,F,,F, | B,,,B,, B,,B,C,C |$ D,DE,EF,F | %87
+ G,GDGG,G | ^G,^EDEG,E | A,FDFA,F | [^A,C]F[B,D]F[CE]F | [B,D]FD,DE,E |$ F,FE,EF,F | %93
+ B,,B,F,D, B,,2 |] %94
+V:4
+ x3 | x3 | F,3- | F,,3 | x3 | x3 | x3 | x3 | x3 |$ x3 | A,3 | A,,3 | x3 | x3 | x3 | x3 | x3 | x3 | %18
+ x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |: x3 | x3 | x3 |$ x3 | x3 | %37
+ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | %56
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | D, D, z | [A,,,G,,] [A,,,G,,] z | %67
+ [D,,F,,] [D,,F,,] z |$ x3 | x3 :|[M:3/4] x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 :| x3 | x3 |$ x3 | %81
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 |] %94

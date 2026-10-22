@@ -1,0 +1,66 @@
+X:1
+T:Peterisms, Set 1
+T:A Sad Song
+C:Peter Warlock
+Z:John Fletcher
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 7 ) | ( 4 5 6 ) }
+L:1/8
+Q:1/4=64
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:7 treble 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+L:1/4
+V:1
+"^With a gentle lilt" z6 | z6 | z6 | z6 | (f>e) d (e>d) c | (d>c) B c2 F/ F/ | f3- f3/2 (e/d) | %7
+w: ||||Lay _ a gar- * land|on _ my hearse Of the|dis- * mal *|
+ B3- B2 z | ^A2 B d c2 | c2 B F3 | ^G3/2 (A/B) f3 | ^d3- d z B | =d2 d d3/2 (c/B) | f2 c e3- | %14
+w: yew; _|Mai- dens, wil- low|bran- ches bear,|Say I _ died|true _ My|love was false, but *|I was firm|
+ e B d B2 A | B3- B2 ^E | F2 F ^G3/2 (!courtesy!=A/B) | ^A c F d2 B | f2 =G z2 z | z6 | %20
+w: _ From my hour of|birth: _ Up-|on my bur- ied _|bod- y lie Light- ly,|light- ly,||
+"^ritenuto  molto" f3- f2 d | z2 z (!courtesy!=G>A) G | %22
+w: light- * ly,|gen- * tle|
+[Q:1/4=100]"^Quasi a tempo, ma più" B3- B2 z |"^lento che Tempo I" z6 | z6 | z6 | z6 | z6 |] %28
+w: earth! _||||||
+V:2
+!mp! (f>ed) B3 | (f>ed) B3 | (f>ed) (B>A-A) | [FB-]3 B3- |!p! [EB]2 [=DF] [F!courtesy!=G]2 [EA] | %5
+ (B>cd) (F2 c) | B2 [FA] (^G>^AB) | d3 B3 | F3 (B2 A) | (A>BG) F3 | z6 | x3 B2 z | %12
+!<(! [=DF]2!<)! [DF] [DF]2 [DF] | [CA]3 [B,DG]2 [GB] | [GB]2 !tenuto![GB-] ([FB]2 [FA]) | %15
+ B3({AB} A>)B!courtesy!=G |!p! !tenuto!F6- | F2 [^A,CF]!<(! [=DFB]2 [=FAd]!<)! | %18
+ f2!>(! (d c>B^A!>)! | B2) F =A>^GF/E/ | %20
+"^(detached but not staccato)""^ritenuto  molto" [B,^D]2 [B,D]!<(! [B,=DF]2 [B,DF]!<)! | %21
+ ^GAG d2 ^E |"^chiaro" f>ed!>(! B3!>)! | (f>ed)"^tenuto." !tenuto!B3- | B6- | B6- | .B6- | B6 |] %28
+V:3
+ F3 (^G>FE) | F3 ^E2 F | =G3 [DF]2 [CE-] | E>^DD/C/ E3- | x6 | G2 A ^A>^GF | F2 x [^G,F]2 E | %7
+ [E=G]2 [EG] [=CE]2 [^C^E] | (C2 B,) F E2 | D3 (C>B,{^A,B,}A,) | x6 | x6 | x6 | (F2 E) x3 | %14
+ x3 E>_ED | [B,F]2 [B,F] ^E2 E | [F,B,^D]2 [F,B,D] [^G,E]2 [G,D] | [^A,C]2 x4 | ^G2 =G- G3 | %19
+ F2 C E2 C | x6 | [DF]2 [DF] ^E2 B, | [DF]2 [DF] =G2 G | F3 ^G>F.!tenuto!E | A2 z [E^G]2 z | %25
+ E>^DD/C/ E3 | [B,F]6- | [B,F]6 |] %28
+V:4
+ [F,D]3 (B,>A,^G,) | [B,D]3 (^D>CB,) | (=D>CB,) A,2 F,- | F,3 (B,>A,^G,) | %4
+ F,2 [B,,F,] [E,B,]2 [F,C] | A,2 B, (C>B,^A,) | B,2 [B,D] [E,,B,,]2 ^G, | B,2 E, =G,2 G,, | %8
+ F,3 G,2 =F,- | F,2 !courtesy!^C, ^F,2 [F,,C,] | (^G,>=A,[F,B,]) (B,>C[E,^A,]) | %11
+ (B,>C[I:staff -1]^D/E/ F>E{DE}D/C/ |[I:staff +1] [A,B,]2) [A,B,] [^G,^A,]2 [G,B,] | %13
+ =G,3 E,2 [DE] | [^CE]2 [=CE] ^C3 | D,2 D, [!courtesy!^C,B,]2 B, | %16
+ [F,,B,,]2 [F,,B,,] [E,,B,,]2 [E,,B,,] | [F,,C,]2 [F,,C,] [B,,F,]2 B, | D2 ^A, B,>CD | %19
+ C>B,^A, B,2 !courtesy!A, | [B,,F,]2 [B,,F,] [B,,F,^G,]2 [B,,F,G,] | %21
+ [C,^G,]2 [C,G,] [C,B,]2 [C,=G,] | [^A,,^G,]2 [A,,G,] E>=DC | [=D,B,]2 [D,B,] B,>A,^G, | %24
+ [=F,B,]2 z [C,B,]2 z | [B,,F,]3!pp! B,,>A,,^G,, | F,,6- | F,,6 |] %28
+V:5
+ B,,2 B,, E,2 E, | A,2 A, ^G,2 =G, | E,2 E,- E,3/2 (E,/E,) | B,,3 E,3 | B,,2 x4 | =F,3 E,3 | %6
+ D,2 x4 | x6 | D,2 D, x3 | x6 | E,,2 D,, C,,2 C, | [B,,F,]2 [B,,F,] B,2 [B,,F,] | x6 | %13
+ A,,2 A,,- A,,2 x | x3 D,2 D, | G,,3- G,,2 C, | x6 | x6 | E,6 | ^D,2 =D, C,2 F, | x6 | x6 | %22
+ x3 ^D,2 D, | x3 E,2 E, | x6 | x3 E,,3 | B,,,6- | B,,,6 |] %28
+V:6
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | B,, x/ E, x/ | x3 | x3 | x3 | x3 | x3 | x3 | %17
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %28
+V:7
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | F3 E3 | x6 | x6 |] %28

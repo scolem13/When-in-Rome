@@ -1,0 +1,86 @@
+X:1
+T:(from:) "Evenings in Greece"
+T:Sappho at her Loom
+C:Henry Rowley Bishop
+Z:Thomas Moore
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/4
+Q:1/4=100
+M:6/8
+I:linebreak $
+K:E
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+L:1/16
+V:3 bass 
+V:4 bass 
+V:1
+"^With expression" z6 | z2 z z z/ G/ G/ G/ | G2 z/ G/ (G>B) B | B3- B2 (B/>A/) | A2 A (G>E) E | %5
+w: |As o’er her|loom the Les- * bian|Maid, _ In *|love- sick lan- * gour|
+ (E3 G2) z/ z/4 F/4 | F3- F2 z | z z/ G/ G/ G/ G2 G | (G>B) B B2 z/ B/ | A2 A (G>E) E | %10
+w: hung _ her|head, _|Un- know- ing where her|fin- * gers stray’d, She|weep- ing turn’d * a-|
+ (E3 =G2) z/ z/4 F/4 | F3- !fermata!F3 ||[M:2/4][Q:1/4=84]"^Andante espressivo" G3/2 A/ (A>B) | %13
+w: way _ and|said _|Oh! my sweet *|
+ B/ e3/2-e z | (G>F) (F>E) | E2- E z/ E/ | (E>F) (F>E) | E3 E | (E>F) (F>G) | G2- G z/ z/4 G/4 | %20
+w: mo- ther, _|’tis * in *|vain, _ I|can- * not *|weave as|once * I *|wove; * So|
+ (G>A) (A>B) | (B2 e) e | (e>d) (d>c) | c3 c | c e d c | B G A F | (E>F) (F>E) | E2- E z | %28
+w: wil- * der’d *|is _ my|heart * and *|brain, With|think- ing of that|youth I love, that|youth * I *|love! *|
+ e3/2 e/ c2 | B/ G3/2-G z | A2 F2 | G3 B | e2 c2 | B3 G | A2 !trill(!TF2!trill)! | G2- G B | %36
+w: Oh, my sweet|mo- ther, _|’tis in|vain\_\_ So|wil- der’d|is my|heart and|brain, _ With|
+ c e d c | B G A F | E2 !trill(!!fermata!TF>!trill)!E | E2- E z | z4 | z4 | z4 || %43
+w: think- ing of that|youth I love, that|youth I _|love. _||||
+[M:6/8] z2 z z z/ G/ G/ G/ | G2 z/ G/ (G>B) B | B3- B2 (B/>A/) | A2 A (G>E) E | %47
+w: A- gain the|web she tried * to|trace, _ But *|tears fell o’er * each|
+ (E3 G2) z/ z/4 F/4 | F3- F2 z | z z/ G/ G/ G/ G2 z/ G/ | G/ B3/2-B B2 (B/>A/) | A2 A G E2 | %52
+w: tan- * gled|thread, _|While look- ing in her|mo- ther’s * face Who, *|o’er her watch- ful|
+ (E3 =G2) z/ z/4 F/4 | F3- !fermata!F3 ||[M:2/4][Q:1/4=80]"^Andante espressivo" G3/2 A/ (A>B) | %55
+w: lean’d _ she|said, _|Oh! my sweet *|
+ B/ e3/2-e z | (G>F) (F>E) | E2- E z/ E/ | (E>F) (F>E) | E3 E | (E>F) (F>G) | G2- G z/ z/4 G/4 | %62
+w: mo- ther, _|’tis * in *|vain, * I|can- * not *|weave as|once * I *|wove; * So|
+!>(! e2!>)! c2 | B3 G | A2 !trill(!TF2!trill)! | G2- G B | c e d c | B G A F | %68
+w: wil- der’d|is my|heart and|brain, _ With|think- ing of that|youth I love, that|
+ E2({G/} (!trill(!!fermata!TF>!trill)!)E) | E2- E z |] %70
+w: youth I _|love! _|
+V:2
+ (BGEB,EG) (BGEB,EG) | (BGEB,EG) (BGEB,EG) | (BGEB,EG) (BGEB,EG) | (BGEB,EG) (BGEB,EG) | %4
+ (=cAE=CEA) (BGEB,EG) | (BGEB,EG) (BGEB,EG) | (BFDB,[I:staff +1]F,D,) (F,B,[I:staff -1]DFBA) | %7
+ (GEB,G,B,E) (GEB,G,B,E) | (GEB,G,B,E) (GEB,G,B,E) | (AEA,EAE) (GEB,G,B,E) | %10
+ (=GEB,=G,B,E) (GEB,G,B,E) | %11
+ (FD[I:staff +1]B,F,B,[I:staff -1]D)[I:staff +1]{F,/B,/D/}[I:staff -1] !fermata!F6 || %12
+[M:2/4] ([E^G]B,[EG]B,) ([FA]B,[FA]B,) | ([GB]B,[GB]B,) ([EG]B,[EG]B,) | %14
+ [EG]B,[EG]B, [DF]B,[DF]B, | [EG]B,[EG]B, [EG]B,[EG]B, | [EG]B,[EG]B, [FA]B,[FA]B, | %17
+ [EG]B,[EG]B, [EG]B,[EG]B, | [EG]B,[EG]B, [DF]B,[DF]B, | [EG]B,[EG]B, [EG]B,[EG]B, | %20
+ [EG]B,[EG]B, [FA]B,[FA]B, | [GB]B,[GB]B, [EG]B,[EG]B, | [EG]C[EG]C [F^B]D[FB]D | %23
+ [Ec]C[Ec]C [Ec]C[Ec]C | ([Ac]E[ce]E [Bd]E[Ac]E) | ([GB]B,[EG]B,) ([FA]C[FA]C) | %26
+ [EG]B,[EG]B, [DA]B,[DA]B, | [EG]B,[EG]B, [EG]2 z2 |"^dol:" ([Ge]E[Ge]E) ([Ac]E[Ac]E) | %29
+ ([GB]B,[GB]B,) ([EG]B,[EG]B,) | ([FA]B,[FA]B,) ([DF]B,[DF]B,) | [EG]B,[EG]B, [GB]B,[GB]B, | %32
+!>(! [ce]E[ce]E [Ac]E[Ac]E!>)! | [GB]B,[GB]B, [EG]B,[EG]B, | [FA]B,[FA]B, [DF]B,[DF]B, | %35
+ [EG]B,[EG]B, [GB]E[GB]E | ([Ac]E[ce]E [Bd]E[Ac]E) | ([GB]B,[GB]B,) ([FA]C[FA]C) | %38
+ [EG]B,[EG]B, !fermata![B,DA]4 |!f! (6:4:6(GEB,[I:staff +1]G,E,G,) (6:4:6(B,G,[I:staff -1]EB,GE) | %40
+ (6:4:6(BGEB,BG) (6:4:6(AF^B,CAF) |"_dim." (6:4:6(GEB,GEB,) (6:4:6(FDA,FDA,) | %42
+!p! (6:4:6(EB,[I:staff +1]G,E,[I:staff -1]EB,) (6:4:6(G,B,EB,GE) || %43
+[M:6/8] ((BGEB,EG)) ((BGEB,EG)) | ((BGEB,EG)) ((BGEB,EG)) | ((BGEB,EG)) ((BGEB,EG)) | %46
+ ((=cAE=CEA)) ((BGEB,EG)) | ((BGEB,EG)) ((BGEB,EG)) | %48
+ (BFDB,[I:staff +1]F,D,) (F,B,[I:staff -1]DFBA) | (GEB,G,B,E) (GEB,G,B,E) | %50
+ (GEB,G,B,E) (GEB,G,B,E) | (AEA,EAE) (GEB,G,B,E) | (=GEB,=G,B,E) (GEB,G,B,E) | %53
+ (FD[I:staff +1]B,F,B,[I:staff -1]D)[I:staff +1]{F,/B,/D/}[I:staff -1] !fermata!F6 || %54
+[M:2/4] (GEB,B) (AFB,B) | (GEB,B) (GEB,B) | (GEB,B) (AFB,B) | (GEB,B) (GEB,B) | (GEB,B) (AFB,B) | %59
+ (GEB,B) (GEB,B) | (GEB,B) (AFB,B) | (GEB,B) (GEB,B) |!>(! (GEB,B)!>)! (AECc) | z (EB,B GEB,G) | %64
+ (FDB,B) (AFB,B) | (GEB,B) (GEB,B) | (AE)!>(! (ce BdAc)!>)! | GBEA FACA | GEB,G !fermata![B,DA]4 | %69
+!ff! !arpeggio![B,EG]2!arpeggio![B,EGB]2 [G,B,E]4 |] %70
+V:3
+"^SOAVE" E,3 | E,3 | E,3 | E,3 | A,,3/2 E,3/2 | E,3 | B,,3/2 z z/ | E,3 | E,3 | C,3/2 E,3/2 | E,3 | %11
+ B,,3/2 !fermata!B,,3/2 ||[M:2/4] E, z | E, z | B,, z | E, z | (E, (D,) | E,) z | E, B,, | %19
+ E,, E,,/ z/ | E, z | E, z | G, z | C, z | A,, z | E, A,, | B,, z | E,- E,/ z/ | ([G,B,] [A,C]) | %29
+ E,2 | B,,2 | E, z | E, z | E,2 | B,,2 | E,2 | A,,2 | E, A,, | B,, !fermata!B,, | E,/ z/ z | %40
+ E, A,, | B,,2 | E,, z ||[M:6/8] E,3 | E,3 | E,3 | A,,3/2 E,3/2- | E,3 | B,, z/ z z/ | E,3 | E,3 | %51
+ C,3/2 E,3/2 | E,3 | B,,3/2 !fermata!B,,3/2 ||[M:2/4] E, z | E, z | B,, z | E, z | (E, D, | E,) z | %60
+ E, D, | E,- E,/ z/ | E,2 | G, G,/4 z/4 z/ | z D, | E,2 | A,,2 | E, A,, | B,,/ z/ !fermata!B,, | %69
+ E,/E,,/ z |] %70
+V:4
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 ||[M:2/4] x2 | x2 | x2 | x2 | x2 | x2 | %18
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | E,2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %37
+ x2 | x2 | x2 | x2 | x2 | x2 ||[M:6/8] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 || %54
+[M:2/4] x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | E,2 | B,,2 | x2 | x2 | x2 | x2 | x2 |] %70

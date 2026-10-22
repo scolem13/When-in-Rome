@@ -1,0 +1,25 @@
+% Etude 8: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=15
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Etude 8
+C:Matteo Carcassi
+%%score ( 1 2 )
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:E
+V:1 bass nm="guitar:melody" snm="Ac Gtr"
+V:2 bass 
+V:1
+ E,4 E,4 | F,4 F,4 | G,4 G,4 | A,CGF A,4 | ^A,CGF A,4 | B,DGF B,4 | CEB^A CEBA | DFcB B,2 z2 | %8
+ D,F,CB, [D,B,]2CB, | E,=G,=D=C E,G,DC | F,A,E^D F,A,ED | =G,B,FE G,B,FE | A,=C=GF A,CGF | %13
+ ^A,^C^GF A,CGF | F,B,ED F,^A,DC | B,,D,CB, B,,2 z2 | E,G,CB, E,G,CB, | D,A,CB, B,,2FA, | %18
+ D,A,CB, D,A,CB, | E,G,CB, E,,B,GB, | E,G,FE =D,G,FE | C,A,EA, =C,^A,EA, | B,,G,^CB, B,,=A,DB, | %23
+ E,G,FE E,,2 z2 | =C,4 z4 | B,,4 B,,4 | z4 E,4 | z4 E,,2 z2 |] %28
+V:2
+ z G,CB, z G,CB, | z A,ED z A,ED | z B,FE z B,FE | z4 z CGF | =A,4 z CGF | ^A,4 z DGF | B,4 z4 | %7
+ C4 C4 | D4 z F, z2 | ^D,4 D,4 | E,4 E,4 | z4 F,4 | F,4 =G,4 | =G,4 =A,4 | =A,4 z4 | ^A,4 A,4 | %16
+ F,4 F,4 | B,,4 z A, z2 | E,4 E,4 | D,4 B,,4 | ^D,4 D,4 | E,4 E,,4 | z4 E,4 | =D,4 C,4 | x8 | x8 | %26
+ x8 | x8 |] %28

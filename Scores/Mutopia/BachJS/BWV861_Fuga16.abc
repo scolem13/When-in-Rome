@@ -1,0 +1,57 @@
+% Das Wohltemperierte Clavier I, Fuga XVI: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=805
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Das Wohltemperierte Clavier I, Fuga XVI
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm="up"
+V:2 treble 
+V:3 bass nm="down"
+V:4 bass 
+L:1/8
+V:1
+ z16 | z8 z2 G2 B2D2 | _D4 =D4 z2 =EF G2FE | F2GA B2[A=E]2 [AF]2[BE]2 [dF]2[cG]2 | %4
+ c4 B4 [AD]2dc B2[cG][d_G] | e2c2 [A_G]2[_gA]2 [=g=d]4 z4 | z2 =E2 A2F2 D4 _D2E2- | %7
+ E2=D2 G4- G _G=GA B4- | C12 B4 G4- | =G2_G=G A2G_G =G6 c2 | F2GA B8 A4 | B4 G2B,2 A,4 B,4 | %12
+ z2 CD E2DC D=EDE F2ED | G6 F=E F4 E2B2- | B2c2 d2[FG]A _E4 F4 | %15
+ A2 G[AF] [B=E]2AG A2[BD][c_E] [dF]2>[BG]2 | c2dc B2cd _e2[fc]2 d2[eF]2 | g2e2 c2a2 b2FG _A2GF | %18
+ G2g_a b2ag a2[af][ge] [fd]2[ge][af] | [d=B]2 g4 [fd]e d6 [cF][BG] | c4 [=BD]2[dB]2 G2g2 _a2[cE]2 | %21
+ =B4 c4 c2[dB][ec] [fd]2ed | [Ged]2[ec][fd] [ge]2G2 _G4 _B2cd | %23
+ [Ged]2[cA]B [Ac]2[_gB]A [=gB]D=E_G =G4- | [GA-] A3- A Bcd G4- G B_AG | %25
+ [EF-] F3- F G_AB E4- E GFE | [CD-] D3- D D=E_G =G4- G _B[A_D]2 | _G2=d2 _e2=G2 _G4 =G4 | %28
+ e2[Ad]2 c2[Be]2 [dA]2 z6 | z2 _G=G A2G_G =G8- | [Ge-edcB]8 A4 e2[eG]2 | %31
+ c2de d2=e_g =g2[_gA][=gB] a4- | [aB]2 B4 [fG=B]2 [_eAc]2d2 [cDG]2_B2 | A8 [GD]8 |] %34
+V:2
+ x16 | x16 | x16 | D6 z G z3 c z3 B | A2=G_G =G2_D2 z2 A4 z2 | =G4 z12 | x16 | x16 | %8
+ z4 A4- A D=E_G B,2_E2 x4 | x16 | x16 | z2 F2 z12 | x16 | x16 | z2 A4 z2 B2AG A4- | z6 C4 z4 c z | %16
+ A4 G4 z3 e z3 f | E4 F4 z8 | x16 | z2 ed c2 z2 F2GF E2 z2 | _A2F2 z4 c4 z4 | D2EF G2=A=B z6 G2- | %22
+ z8 z2 dc =G4- | z8 z4 z dcB | z GF_E D4- D B,CD E4- | z EDC B,4- B, G,=A,=B, C4- | %26
+ z C_B,A, G,4- G, G,A,B, C2 z G | D4 z6 dc B2cd | z3 B z3 A z8 | z8 z2 de f2ed | z8 z2 d2 z3 d | %31
+ _G4 =G4 z4 c2BA | z2 d2 g2 z8 z2 | [EG]4 [D_G]4 z8 |] %34
+V:3
+ z2 D2 E2G,2 _G,4 =G,4 | z2 A,B, C2B,A, B,4 G,4 | z2 A,G, F,2G,A, B,2G,2 =E,2_D2 | z16 | %4
+ z2 D,2 E,2G,,2 _G,,4 =G,,4 | z2 A,,B,, C,2B,,A,, B,,4 B,2D,2 | %6
+ _D,4 =D,4 B,,2[=E,G,,]2 [G,=E,,]2[F,_D,]2 | F,2G,A, B,2A,G, A,2B,C =D2CB, | %8
+ =E,2A,G, _G,2=G,A, B,,2C,D, _E,2D,C, | A,B,A,B, C2B,A, B,2CD _E4- | [EB,,F,]4 D4 C8 | %11
+ [DB,,]4 z6 F,E, D,2E,F, | G,2E,2 C,2A,2 B,8- | %13
+ [B,=E,,]2 =E,,2 A,2B,C D2[B,G,,]A,, [G,B,,]2[=EA,,]G,, | [FA,,]4 [DB,,]4 C6 [DB,,][CC,] | %15
+ B,8 A,4 z B,CD | [F,_E]2[FF,]2 [DG,]2 G,4 F,2 B,2_A,2 | G,4 [A,E,]2[CD,]C, [F,D,]2C,B,, C,2D,2 | %18
+ E,2D,C, D,2=E,2 F,2F,,G,, _A,,2G,,F,, | G,,2G,2 _A,2C,2 =B,,4 C,4 | %20
+ z2 D,E, F,2E,D, E,2=E,2 F,2_G,2 | =G,_A,G,F, _E,2F,G, A,2F,2 D,2=B,2 | %22
+ C4- C DC_B, =A,D,C,D, E,D,C,_B,, | A,,2C,2 D,2D,,2 G,,2G,A, B,2A,G, | %24
+ D2D,E, F,2E,D, E,,2E,F, G,2F,E, | B,2B,,C, D,2C,B,, C,,2C,D, E,2D,C, | G,2G,,A,, B,,2A,,G,, E,8 | %27
+ D,4 z6 D2 E2G,2 | _G,4 =G,4 _G,,4 C2B,A, | B,8- B,2 =B,A, G,2A,B, | %30
+ [E,C]2 C2 C,2D,E, _G,,2A,,=G,, _G,,2=G,,A,, | D,,2D,C, B,,2C,D, E,2C,2 A,,2_G,2 | %32
+ =G,2[DF,]2 [EE,]2[G,D,]2 _G,4 =G,4 | C,2[A,A,,]2 [CD,]2[B,D,,]2 [=B,G,,]8 |] %34
+V:4
+ x8 | x8 | x8 | x8 | x8 | z4 z G, G,,2 | z A,,/G,,/ F,,G,,/A,,/ z3/2 F,/ z3/2 =E,/ | D,8 | x8 | %9
+ D,4 G,,3 A,, | z2 G,D, E,D,/E,/ F,F,, | x8 | z4 z B,, D,F,, | z C/B,/ F,,2 z4 | %14
+ z3/2 _E/ z3 C,/B,,/ A,, z | D,B,, G,,=E, F,4- | z3/2 E/ z B,, =A,,2 B,,2 | z C,/D,/ z6 | x8 | x8 | %20
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z D, E,=G,, z A,/B,/ A,,2 | D,,D,/C,/ _B,,C,/D,/ E,4- | %30
+ z E,/D,/ z6 | x8 | z4 C,B,, A,,G,, | z3/2 _B,/ z3/2 A,/ z4 |] %34

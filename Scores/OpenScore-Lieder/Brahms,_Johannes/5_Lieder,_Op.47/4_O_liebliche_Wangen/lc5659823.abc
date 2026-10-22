@@ -1,0 +1,103 @@
+X:1
+T:5 Lieder, Op.47
+T:O liebliche Wangen
+C:Johannes Brahms
+Z:Paul Flemming
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 7 ) }
+L:1/8
+Q:1/4=128
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:4 bass 
+L:1/16
+V:5 bass 
+V:7 bass 
+V:1
+"^Lebhaft" A | d3 A2 A | F3 A2 A | d3 e2 e | f3 d2 A | G3 F2 F | B3 A2 A | c3 d2 d | e3 A2 A | %9
+w: 1. O|lieb- li- che|Wan- gen, ihr|macht mir Ver-|lan- gen, dies|ro- te, dies|wei- sse, zu|schau- en mit|Flei- sse. Und|
+w: 2. O|Son- ne der|Won- ne! O|Won- ne der|Son- ne! O|Au- gen, so|sau- gen das|Licht mei- ner|Au- gen. O|
+ d3 c2 c | B3 F2 F | e3 d2 d | c3 F2 F | A G z z2 A | c B z z2 c | e d d f e e | %16
+w: dies nur al-|lei- ne ists|nicht, was ich|mei- ne; zu|* * zu|grü- ssen zu|rüh- ren, zu küs- sen, ihr|
+w: eng- li- sche|Sin- nen! O|himm- lisch Be-|gin- nen! O||* * magst|du mir nicht wer- den, o|
+ g f e[Q:1/4=122]"^rit. poco a poco"[Q:1/4=130]"_rit. poco a poco" d c B | (B2 A) A2 B | %18
+w: macht mir Ver- lan- gen, o|lieb- * li- che|
+w: Him- mel auf Er- den, magst|du _ mir nicht|
+ B3 !fermata!A2 A |[Q:1/4=128]"^in tempo" A B c c d e | %20
+w: Wan- gen, ihr|macht mir Ver- lan- gen, o|
+w: wer- den, o|Won- ne der Son- ne, o|
+ (=f2 d)[Q:1/4=120]"^rit."[Q:1/4=130]"_rit." f2 d | ^f6 | A3- A2 :| A | d3 A2 A | F3 A2 A | %26
+w: lieb- * li- che|Wan-|gen! _|3. O|Schön- ste der|Schö- nen! be-|
+w: Son- * ne der|Won-|ne! _|_|||
+ d3 e2 e | f3 d2 A | G3 F2 F | B3 A2 A | c3 d2 d | e3 A2 A | d3 c2 c | B3 F2 F | e3 d2 d | %35
+w: nimm mir dies|Seh- nen. Komm,|ei- le, komm,|kom- me, du|sü- sse, du|from- me; ach|Schwe- ster, ich|ster- be, ich|sterb, ich ver-|
+w: |||||||||
+ c3 F2 F | A G z z2 A | c B z z2 c | e d d f e e | g f e"^rit. poco a poco" d c B | (B2 A) A2 B | %41
+w: der- be, komm,|kom- me, komm|ei- le, komm|kom- me, komm ei- le, be-|nimm mir dies Seh- nen, o|Schön- * ste der|
+w: ||||||
+ B3 !fermata!A2[Q:1/4=128]"^in tempo" A | A B c c d e | (=f2 d) f2 d | ^f3 e2 e | (a3- a2 c) | %46
+w: Schö- nen, be-|nimm mir dies Seh- nen, o|Schön- * ste der|Schö- nen, der|Schö- * *|
+w: |||||
+ d2 z z2 z | z2 z z2 |] %48
+w: nen!||
+w: ||
+V:2
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | A G G B A z | z2 x4 | x6 | x6 | %17
+w: |||||||||||||schau- en * * *||||
+w: |||||||||||||Him- mel auf Er- den!||||
+ x6 | x6 | x6 | x6 | x6 | x5 :| x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %36
+w: |||||||||||||||||||
+w: |||||||||||||||||||
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x5 |] %48
+w: ||||||||||||
+w: ||||||||||||
+V:3
+ z |!mf! z [FAd]D z [EA]A, | z [DF]F, z [CEA]A, | z [FAd]D z [Ace]E | z [Adf]F z [FAd]D | %5
+ z [DG]G, z [DF]F, | z [DB]B, z [DA]A, | z [GAc]C z [FAe]D | z [Ace]E z [CEA]A, | %9
+ z [FBd]D z [E^Ac]C | z [DFB]B, z [DF]B, | z [Fce]E z [FBd]D | z [F^Ac]C z FF, | %13
+ [F,A,][E,G,]"_cresc."[E,G,] [G,B,][F,A,]!<(![F,A,] | [A,C][G,B,][G,B,] [B,D][A,C][A,C] | %15
+ [Ece][DBd][DBd] [Fdf][Ece][Ece]!<)! |!f! [Bdg][Acf][GBe] [FAd][EGc][DGB] | %17
+ [^DFB]2 ([DFA]/A,/) [EGA]2 ([EGB]/B,/) |!>(! B3!>)!!p! !fermata!A2 z | %19
+!<(! .A.[AB].[Ac] .[Ac].[Ad].[Ace]!<)! |!f! ([Ad=f]2 [=FAd]) ([Adf]2 [FAd]) |!>(! [Ad^f]6!>)! | %22
+!p! [DFA]3- [DFA]2 :| z |!mf! z [FAd]D z [EA]A, | z [DF]F, z [CEA]A, | z [FAd]D z [Ace]E | %27
+ z [Adf]F z [FAd]D | z [DG]G, z [DF]F, | z [DB]B, z [DA]A, | z [GAc]C z [FAd]D | %31
+ z [Ace]E z [CEA]A, | z [FBd]D z [E^Ac]C | z [DFB]B, z [DF]B, | z [Fce]E z [FBd]D | %35
+ z [F^Ac]C z FF, | [F,A,][E,G,]"_cresc."[E,G,] [G,B,][F,A,][F,A,] | %37
+ [A,C][G,B,]!<(![G,B,] [B,D][A,C][A,C] | [Ece][DBd][DBd] [Fdf][Ece][Ece]!<)! | %39
+!f! [Bdg][Acf][GBe] [FAd][EGc][DGB] | [^DFB]2 ([DFA]/A,/) [EGA]2 ([EGB]/B,/) | %41
+!>(! B3!>)!!p! !fermata!A2 z |!<(! .A.[AB].[Ac] .[Ac].[Ad].[Ace]!<)! | %43
+!f! ([Ad=f]2 [=FAd]) ([Adf]2 [FAd]) | [Ad^f]3 [GBe]3 | [Adfa]3 [EGAc]3 | %46
+ [DFAd] A,/D/F/A/ [dfa] D/F/A/d/ | [dfad']2 z z2 |] %48
+V:4
+ z2 | (D,6 C,6 | B,,6 A,,6) | (F,,6 A,,6 | D,6 F,6) | ([B,,D,B,]6 [A,,D,A,]6 | %6
+ [G,,D,G,]6 [F,,D,F,]6) | ([E,,A,,E,]6 [D,,A,,D,]6) | (A,,,6 A,,6) | F,12 | F,12 | F,12 | F,12 | %13
+ A,,,A,, z2 z2 z4 z2 | A,,,A,, z2 z2 z4 z2 | A,,A, z2 z2 A,,A, z2 z2 | %16
+ A,,,A,,A,,,A,,A,,,A,, A,,,A,,A,,,A,,B,,,B,, | (^B,,,^B,,^D,F,) z2 (C,,C,E,G,) z2 | %18
+ (^D,,^D,F,A,) z2 !fermata![E,,A,,E,]4 z2 | A,,A,^G,,^G,=G,,=G, G,,G,F,,F,E,,E, | %20
+ [D,,A,,]D,=F,A, z2 ([D,,A,,]D,F,A,) z2 | .D,,,2D,,2A,,2-D,2-^F,2-A,2 | %22
+ [A,,D,F,A,]6- [A,,D,F,A,]4 :| z2 | (D,6 C,6 | B,,6 A,,6) | (F,,6 A,,6 | D,6 F,6) | %28
+ ([B,,D,B,]6 [A,,D,A,]6 | [G,,D,G,]6 [F,,D,F,]6) | ([E,,A,,E,]6 [D,,A,,D,]6) | (A,,,6 A,,6) | %32
+ F,12 | F,12 | F,12 | F,12 | A,,,A,, z2 z2 z4 z2 | (A,,,A,,) z2 z2 z4 z2 | %38
+ (A,,A,) z2 z2 (A,,A,) z2 z2 | A,,,A,,A,,,A,,A,,,A,,"^rit. poco a poco" A,,,A,,A,,,A,,B,,,B,, | %40
+ (^B,,,^B,,^D,F,) z2 (C,,C,E,G,) z2 | ^D,,^D,F,A, z2 !fermata![E,,A,,E,]4 z2 | %42
+ A,,A,^G,,^G,=G,,=G, G,,G,F,,F,E,,E, | ([D,,A,,]D,=F,A,) z2 ([D,,A,,]D,F,A,) z2 | %44
+ ([D,,A,,]D,^F,A,) z2 ([G,,E,]G,B,E) z2 | ([A,,F,]A,DF) z2 (A,,,A,,C,E,) z2 | %46
+ (D,,A,,D,) z z2 ([D,,A,,]D,F,) z z2 | [D,,,D,,]4 z2 z4 |] %48
+V:5
+ x | D,,6 | D,,6 | D,,6 | D,,3 D,3 | x6 | x6 | x6 | x6 | (B,,3 C,3 | D,3 B,,3) | (^A,,3 B,,3 | %12
+ F,3 F,,3) | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x2 A,,2 F,2 | x5 :| x | D,,6 | D,,6 | D,,6 | %27
+ D,,3 D,3 | x6 | x6 | x6 | x6 | (B,,3 C,3 | D,3 B,,3) | (^A,,3 B,,3 | F,3 F,,3) | x6 | x6 | x6 | %39
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x5 |] %48
+V:6
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %18
+ [=CF]2 C/F/ [^CG]2 x | x6 | x6 | x6 | x5 :| x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | [=CF]2 C/F/ [^CG]2 x | x6 | x6 | x6 | x6 | x6 | x5 |] %48
+V:7
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %20
+ x6 | x3 D,2 x | x5 :| x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x5 |] %48

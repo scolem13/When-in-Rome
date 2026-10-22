@@ -1,0 +1,32 @@
+X:1
+T:Concert Royal no. 1
+T:Menuet en Trio
+C:François Couperin
+Z:© Les Éditions Outremontaises, 2006
+%%score { ( 1 2 ) | 3 }
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:Gmin
+V:1 treble nm="Clavecin"
+V:2 treble 
+V:3 bass 
+V:1
+"m" GABcde | (Md4"m" P!turn!c2) |"m" (d2"m" Pc2)"m" B2 |"m" PA2"m" G2"m" e2 |"m" (d2"" Pc2)"m" B2 | %5
+"" c2""({B} A2)"m" d2 |$"" c2"m""m" PB4{A} |1"" !fermata!PA4 z2 :|2"" !fermata!PA4 z2 || %9
+"m""_Reprise" dcBAG^F |"" gfedc=B |"" gf=edc_B |$"" PA4 z2 |"m"({d} Me4) z2 | %14
+"m"({a} Mb2) B2"" Me2 |"" Pdc"""" Pc3 B |"" MBcdefg |"m" d2"m" Me2"" f2 |$"m" edcBAG | %19
+"" P^F2"m" d2"" c2 |"m" (PB4"" A2) |"m" GABcde |"m" Md6 |"" Pc"m"B"""" PA3 G |1$ %24
+"m" !fermata!G4 z2 :|2"m""_Fin" !fermata!G6 |] %26
+V:2
+ G^FGABc | (B4 A2) | (B2 A2) G2 | ^F2 G2 A2 | (B2 ^F2) G2 | A2({G} ^F2) B2 |$ A2 G4{^F} |1 %7
+ ^F4 z2 :|2 ^F4 z2 || x6 |({^F} MG4) z2 |({=B} Mc4) z2 |$ FGABcd | cdefga | d2 G2 c2 | B2 A3 B | %16
+ B4 z2 | P=B2 c2 d2 |$ G2 edcB | A2 B2 A2 | (G4 ^F2) | G^FGABc | B6 | AG ^F3 G |1$ %24
+ !fermata!G4 z2 :|2 !fermata!G6 |] %26
+V:3
+ G,2 z2 z2 | G,A,B,CDE | D2 E2 D2 | C2 B,2 C2 | B,2 A,2 G,2 | ^F,=E,D,C, B,,A,, |$ %6
+ G,,^F,,G,,A,,B,,C, |1 !fermata!D,C,D,=E,^F,D, :|2 !fermata!D,2 DEDC || B,4 z2 | E4 z2 | =E4 z2 |$ %12
+ F4 z2 | C=B,CDEF | G2 G,2 A,2 | B,2 F,2 F,,2 | B,,4 z2 | GFEDC=B, |$ C4 z2 | DCB,A,G,^F, | %20
+ G,4 D,2 | G,4 z2 | G,,A,,B,,C,D,=E, | ^F,G, D,2 D,,2 |1$ !fermata!G,, D,=E,^F,G,A, :|2 %25
+ !fermata!G,,6 |] %26

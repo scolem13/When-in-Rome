@@ -1,0 +1,38 @@
+% Prelude: Op. 28, No. 6: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=469
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Prelude: Op. 28, No. 6
+C:Frederic Chopin (1810-1849)
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=45
+M:3/4
+I:linebreak $
+K:Bmin
+V:1 treble nm="rh:1" snm="Pno"
+V:2 treble 
+L:1/4
+V:3 bass nm="lh" snm="Pno"
+L:1/16
+V:4 bass 
+V:1
+ BB BB BB | BB BB BB | BB dd dd | dd dd dd | dd dd dd | dd cc [c^A][dB] | e3 [fFc] [eFB][cF] | %7
+ [^AGC][B^GD] [dBD][cAC] z2 | BB BB BB | BB BB BB | BB BB BB | =cc cc cc | =cc cc cc | =cc cc BB | %14
+ ^AA AA BB | BB ^AA BB | BB BB ^AA | ^AA BB BB | BB ^AA BB | BB ^AA BB | BB BB ^AA | BB BB =AA | %22
+ FF FF FF | FF FF FF | FF z2 FF | FF z4 |] %26
+V:2
+ [FD] F F | [FD] [FD] [FD] | [FD] B B | [BF] [BF] [BF] | [BG] B B | [B^G] [BG] =G | %6
+ [G^A]/[GB]/ [GA]/ z3/4 [dd]/4 z/4 B/4 | x3 | [FD] F F | [FD] [FD] [FD] | [GD] G G | G [GE] [GE] | %12
+ [GE] G [GE] | G G G | [G^C] [FC] [FD] | [GC] [GC] [GD] | [GD] [FC] [EC] | [EC] [DB,] [GD] | %18
+ [GC] [GC] [FD] | [GC] [GC] [GD] | [GD] [FC] [FC] | [FD] [FD] [FD] | D z2 | D D D | D z D | D z2 |] %26
+V:3
+ B,,D,F,B, D4 C2>D2 | B,6 F,2 D,2C,2 | B,,F,B,D F4 E2>F2 | D6 B,2 F,2D,2 | G,,D,B,D G4 F4 | %5
+ F4 =F4 E2D2 | (3:2:1C2E (6:5:1z2 C2^A,2 B,2D,2 | E,2=F,2 ^F,4 D,2C,2 | B,,D,F,B, D4 C2>D2 | %9
+ B,6 F,2 D,2B,,2 | G,,D,G,B, D4 E2=F2 | E6 =C2 G,2=C,2 | =C,,G,,E,G, E4 C,,G,,E,G, | E8 z4 | %14
+ E,6 F,2 E,D,C,B,, | E,6 F,2 E,D,C,B,, | A,,G,,D,,E,, F,,8 | G,,8 G,4 | E,6 F,2 E,D,C,B,, | %19
+ E,6 F,2 E,D,C,B,, | A,,G,,D,,E,, F,,8 | B,,,12- | B,,,B,,F,B, D4 C2>D2 | B,6 F,2 D,2C,2 | B,,12- | %25
+ B,,4 z8 |] %26
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | z D z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %26

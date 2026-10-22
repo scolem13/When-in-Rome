@@ -1,0 +1,22 @@
+X:1
+T:Sonata da camera
+T:Adagio
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3
+L:1/4
+M:3/2
+I:linebreak $
+K:A
+V:1 treble nm="Violin" snm="Vln."
+V:2 treble nm="Violin" snm="Vln."
+V:3 bass nm="Piano" snm="Pno."
+V:1
+"^Adagio" z2 f4- | f2 e2 =g2 | =c6- | c2 B2 A2 | =G2 A2 B2- | B2 A2 (=G F) | =G2 F4 | E4 B2- | %8
+ B2 A4 | !fermata!B6 || %10
+V:2
+ z6 | z2 B4- | B2 A2 =c2 | ^D2 E2 F2- | F2 E2 D2 | C2 ^D2 E2- | E2 E3 ^D | E4 F2- | F2 E4 | %9
+ !fermata!^D6 || %10
+V:3
+"m" B,4"m" A,2 |"m""m" =G,4 G,2 |"m""m" A,4 A,2 |"""" B,4"m" ^D,2 |"m""m" E,4"m" ^G,,2 | %5
+"" A,,2"" B,,2"" =C,2 |"m" A,,2"""" B,,4 |"m" E,4"m" D,2- | D,2"m" =C,4 |"" !fermata!B,,6 || %10

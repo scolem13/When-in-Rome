@@ -1,0 +1,32 @@
+X:1
+T:Dir, dir, Jehova will ich singen
+T:Dir, dir, Jehova will ich singen
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+L:1/4
+V:3 treble-8 nm="Voice" snm="V"
+L:1/4
+V:4 bass nm="Voice" snm="V"
+V:1
+ F2 | B2 dc dB | g2 e4 | f2 B2 e2 | c4 !fermata!B2 | c2 ce d2 | c2 dc dB | AB B3 c | %8
+ !fermata!c4 x2 :: A2 x4 | B2 c2 d2 | G2 ge c=B | cd d3 e | !fermata!e4 c2 | B=A BA GF | f3 B g2- | %16
+ gf ed cB | !fermata!B4 x2 || %18
+V:2
+ D | F B/A/ B | B G2 | F G/A/ B | B A !fermata!F | F F3/2 G/ | A B/A/ B | E F/E/ F/=E/ | %8
+ !fermata!F2 x :: F x2 | F2 F | E3/2 G/ E/D/ | E _A F | !fermata!G2 G | F G A | B3/2 B/ B- | %16
+ B/B/ B A | !fermata!F2 x || %18
+V:3
+ B | B f/e/ f | e B/A/ B/c/ | d2 g | f3/2 e/ !fermata!d | c/B/ c/A/ B | c F F | c B F/G/ | %8
+ !fermata!A2 x :: c x2 | F A B | B3/2 B/ c- | c/c/ c =B | !fermata!c2 c | c2 c | d3/2 d/ e | %16
+ B f e/d/ | !fermata!d2 x || %18
+V:4
+ B,2 | D,2 C,2 B,,2 | E,2 G,F, G,E, | B,A, G,2 E,2 | F,4 !fermata!B,,2 | A,G, A,F, B,2 | %6
+ F,2 E,2 D,2 | C,2 D,C, D,B,, | !fermata!F,,4 x2 :: F,E, x4 | D,2 E,D, C,B,, | E,3 E, _A,2- | %12
+ A,G, F,2 G,2 | !fermata!C,4 E,2 | F,4 E,2 | D,2 G,F, E,D, | E,2 F,2 F,,2 | !fermata!B,,4 x2 || %18

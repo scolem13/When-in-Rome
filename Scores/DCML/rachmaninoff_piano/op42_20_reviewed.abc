@@ -1,0 +1,117 @@
+X:1
+T:Variations on a Theme of Corelli
+T:Variation 20
+C:Sergei Rachmaninoff
+%%score { ( 1 3 5 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=144
+M:9/8
+I:linebreak $
+K:F
+U:s=!stemless!
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:5 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Piu mosso" !>![D,D]>(A,F) !>![Aa]>(fc') !>![^G,^G]>(F^c) | %1
+!8va(! !>![aa']>(e'^c'')!8va)! !>![Aa]>(e^c') !>![A,A]>(E^c) | %2
+ !>![D,D]>(A,F) !>![Aa]>(fc') !>![=B,=B]>(Gd) |$ %3
+!8va(! !>![c'c'']>(g'e'')!8va)! !>![cc']>(_af') !>![Cc]>(Ge) | %4
+ !>![F,F]>(CA) !>![ff']>(c'a') !>![=B,=B]>(^F^d) | %5
+ !>![E,E]>(=B,^G) !>![ee']>(=b=g') !>![_B,_B]>(Fd) |$ %6
+ !>![D,D]>(A,F) !>![dd']>(af') !>![_A,_A]>(_Ec) | %7
+ !>![=A,=A]>(E^c) !>![Aa]>(e^c')!8va(! !>![aa']>(e'!ff!^c'')!8va)! | %8
+ !>![D,D]>(A,F) !>![Aa]>(fc') !>![^G,^G]>(F^c) |$ %9
+!8va(! !>![aa']>(e'^c'') !>![bb']>(f'_d'') !>![Aa]>(e^c')!8va)! | %10
+ !>![D,D]>(A,F) !>![_A_a]>(fc') !>![=B,=B]>(Gd) | %11
+!8va(! !>![c'c'']>(g'e'')!8va)! !>![_d_d']>(_a=e') !>![Cc]>(Ge) |$ %12
+!8va(! !>![f'f'']>[ad'a'][ad'a'] !>![^g^g']>[=b^d'=b'][bd'b'] [_b_b']>[=f=d'][fd']!8va)! | %13
+ !>![^c^c']>[e^ge'][ege'] !>![=f=f']>[=c_a][ca] [=G=g]>[_B_e_b][Beb] |$ %14
+ !>![=Bd=b]>(_B-!>![DFBd]) [F=Bf]>(_G-[B,_EG_B]) !>![DAd]>^G,-[E,G,D=E] | %15
+[M:6/8] !>![B,B]D!>![G,G] B,!>![F,F]!>!A, |[M:9/8]!8va(! [ad'f'a']6!8va)! x2 x |$ %17
+!8va(! !>![a_e'f'a']6!8va)! x2 x |!8va(! !>![a=e'f'a']6!8va)! x2 x |$ %19
+!8va(! !>![bf'b']6!8va)! x2 x | %20
+ !>![F,D]>!8va(![^c'e'^g'^c''][c'e'g'c''] [d'f'a'd'']z/[^gc'e'g']/[gc'e'g'] [ad'f'a']!8va)!z/[=f_a=c'=f']/[fac'f'] |$ %21
+ [dfad']z/[B_dfb]/[Bdfb] [EGce]z/[_A_c_e_a]/[Acea] [=DFB=d]z/[^F=A^c^f]/[FAcf] | %22
+[K:bass] !>![=F,A,D]z/(E/!>![E,^G,^C]) [F,A,D]z/(E/!>![E,G,C]) [F,A,D]z/(E/!>![E,^A,C]) |$ %23
+ ([F,=A,D]/E/!>![_E,A,^C])([F,A,D]/E/ !>![^F,^A,C])([=F,=A,D]/E/[G,A,C]) !>![G,A,D] !>!!tenuto![F,A,D]2 | %24
+!ff! z9 |[M:6/8]"^rit.- - - - - - - - - - - -" z6 |$ z6 ||$ %27
+[M:4/4][K:treble]"_Coda\n""^Andante" (D3 F A^cde | %28
+ ^c3) (^C (3EGB !tenuto!c/!tenuto!e/!tenuto!g/!tenuto!a/ |$ %29
+ ^f3) (^F (3Ac_e !tenuto!f/!tenuto!a/!tenuto!c'/!tenuto!d'/ | %30
+ =b2-) b/(!tenuto!d'/!tenuto!f'/!tenuto!a'/ !tenuto!_e'2-) e'/!8va(!(!tenuto!g'/!tenuto!_b'/!tenuto!=c''/!8va)! |$ %31
+!mf! !tenuto!a2!<(! !tenuto!d'4)!<)! (3:2:2(^c'2 d' | a4-) a(^g (3:2:2a2 f) | %33
+[M:2/4] (3(d'e'g' (3f'^c'd' |$[M:4/4] _b6) (3:2:2(c'2 d' |[M:3/4] g2-) g(^f (3:2:2=f2 ^c) | %36
+!>(! (!tenuto![=Ge]2!>)! [Fd]3) !tenuto!^c |$!>(! !arpeggio![Ff]6!>)! | %38
+!>(! [Dd]4!>)! (3(=D!tenuto!_E=F) |!p! !tenuto![^F,A,^F]6 | !tenuto!=F2 !tenuto!F3 (G | %41
+[K:bass] [G,C]4) [^F,^A,]2 |$!p! [=F,=A,]2 [=E,B,]2 [G,A,]2- | %43
+ [G,A,] z (3:2:2!tenuto![F,A,D] (((!tenuto!!fermata![F,A,D]2 x2))) |] %44
+V:2
+"m"!ff! !>![D,,,D,,]>(A,,F,) !>![A,,A,]>(F,C)"m" !>![^G,,,^G,,]>(F,,^C,) | %1
+[K:treble]"" !>![A,A]>(E^c)[K:bass] !>![A,,A,]>(E,^C) !>![A,,,A,,]>(E,,^C,) | %2
+"m" !>![D,,,D,,]>(A,,F,) !>![A,,A,]>(F,C)"" !>![=B,,,=B,,]>(G,,D,) |$ %3
+[K:treble]"" !>![Cc]>(Ge)[K:bass]"" !>![C,C]>(_A,F)"" !>![C,,C,]>(G,,E,) | %4
+"" !>![F,,,F,,]>(C,A,) !>![F,F]>(CA)"" !>![=B,,,=B,,]>(^F,,^D,) | %5
+"" !>![E,,,E,,]>(=B,,^G,)"m" !>![E,E]>(=B,=G)"" !>![_B,,,_B,,]>(F,,D,) |$ %6
+"m" !>![D,,,D,,]>(A,,F,) !>![D,D]>(A,F)"" !>![_A,,,_A,,]>(_E,,C,) | %7
+"" !>![=A,,,=A,,]>(=E,,^C,) !>![A,,A,]>(E,^C)[K:treble] !>![A,A]>(E^c) | %8
+[K:bass]"m" !>![D,,,D,,]>(A,,F,) !>![A,,A,]>(F,C)"m" !>![^G,,,^G,,]>(F,,^C,) |$ %9
+[K:treble]"" !>![A,A]>(E^c)[K:bass]"m" !>![B,,B,]>(F,_D)"" !>![A,,,A,,]>(E,,^C,) | %10
+"m" !>![D,,,D,,]>(A,,F,)"m" !>![_A,,_A,]>(F,C)"" !>![=B,,,=B,,]>(G,,D,) | %11
+[K:treble]"" !>![Cc]>(Ge)[K:bass]"" !>![_D,_D]>(_A,=E)"" !>![C,,C,]>(G,,E,) |$ %12
+[K:treble]"m" !>![Ff]>[Ad][Ad]"m" !>![^G,^G]>[^DG=B][DGB]"" !>![B,_B]>[=FB=d][FBd] | %13
+[K:bass]"m" !>![^C,^C]>[^G,CE][G,CE]"m" !>![=F,=F]>[=CF_A][CFA]"" !>![=G,,=G,]>[_E,_B,][E,B,] |$ %14
+"m" !>![D,^F,=B,]>""(_B,,-!>![=F,,B,,D,])"" !>![G,,=B,,=F,]>"m"(_G,,-!>![_E,,G,,_B,,])"m" !>![F,,A,,D,]>""(=E,,!>![=B,,,=B,,]) | %15
+[M:6/8]"" !>![_B,,,_B,,][D,,D,]"m"!>![G,,,G,,] [B,,,B,,]""!>![F,,,F,,]!>![A,,,A,,] | %16
+[M:9/8]""!ff! [F,B,DF]6[K:treble][K:bass] x2 x |$"" !>![F,=B,_EF]6[K:treble][K:bass] x2 x | %18
+"" !>![F,C=EF]6[K:treble][K:bass] x2 x |$"" !>![F,^CEF]6[K:treble][K:bass] x2 x | %20
+"m" !>![D,,A,,]>[K:treble]"m"!ff![^CE^G^c][CEGc]"m" [DFAd]z/"m"[^G,CEG]/[G,CEG]"m" [A,DFA]z/[K:bass]"m"[F,_A,=CF]/[F,A,CF] |$ %21
+"m" [D,F,A,D]z/"m"[B,,_D,F,B,]/[B,,D,F,B,]"" [C,E,G,C]z/"m"[_A,,_C,_E,_A,]/[A,,C,E,A,]"" [B,,=D,F,B,]z/"m"[^F,,=A,,^C,^F,]/[F,,A,,C,F,] | %22
+"m""^sempre fortissimo" [D,,D,]z"m"!>![B,,,B,,]"m" [D,,D,]z"m"!>![^G,,,^G,,]"m" [D,,D,]z"m"!>![^F,,,^F,,] |$ %23
+"m" [D,,D,]""!>![=F,,,=F,,]"m"[D,,D,]"" !>![=E,,,=E,,]"m"[D,,D,]"m"!>![_E,,,_E,,]"" !>![A,,,A,,]"m" !>!!tenuto![D,,,D,,]2 | %24
+ [D,,,D,,]>[D,,,D,,][D,,,D,,] [D,,,D,,]>[D,,,D,,][D,,,D,,] [D,,,D,,]>[D,,,D,,][D,,,D,,] | %25
+[M:6/8]"^dim." !tenuto![D,,,D,,] !tenuto![D,,,D,,]2 !tenuto![D,,,D,,]2 !tenuto![D,,,D,,]- |$ %26
+ [D,,,D,,]2 [D,,,D,,]4- ||$[M:4/4]"m"!mf! (3[D,,,D,,](A,,F, (3A,,A,A,,- (3A,,F,^G,, (3F,A,,)D,,- | %28
+"" (3D,,(A,,G, (3E,B,A,,- (3A,,_E,A,, (3=E,A,,)D,,- |$ %29
+"" (3D,,(A,,^F, (3_E,CA,,- (3A,,F,A,, (3E,A,,)D,,- |"m" (3D,,^G,,=B, (3F,FB,"" (3D,,A,,^C (3G,BC |$ %31
+"" (3!arpeggio![D,,A,,^F,](A,,F, (3D[K:treble]Ad (3adA- (3A^F[K:bass]F,) | %32
+"m" (3!arpeggio![D,,A,,=F,](A,,=C (3F,FC[K:treble] (3cFC- (3C[K:bass]F,A,,-) | %33
+[M:2/4]"" (3(A,,F,=B,- (3B,F,A,,) |$ %34
+[M:4/4]"""^dim." (3!arpeggio![D,,_B,,F,](B,,_A, (3F,_AB,-)"m" (3B,(G,G (3B,A,^F) | %35
+[M:3/4]""!p! (3[D,,=B,,F,]G,-E!<(! G,2!<)!"" _A,2 |"m" (3z (D,,A,,"m" (3E,F,A,!<(! [DA]2)!<)! |$ %37
+"" (3z (D,,B,,"" (3E,F,_G,) D2 |"" (3z (D,,B,,"" (3D,G,) z"" [_G,,_D,]2 |"" z (D,, A,,D,"C}" D2) | %40
+""!mf! [F,,C,]6 |"""^dim." C,,4"" ^C,,2 |$"m" (3(D,,A,,_E,)"m" (G,,2"""^dim." A,,2-) | %43
+ A,,!pp! z"m" (3:2:2!tenuto![D,,,D,,]"C}" ((!tenuto!!fermata![D,,,D,,]2 x2)) |] %44
+V:3
+ x9 |!8va(! x3!8va)! x6 | x9 |$!8va(! x3!8va)! x6 | x9 | x9 |$ x9 | x6!8va(! x3!8va)! | x9 |$ %9
+!8va(! x9!8va)! | x9 |!8va(! x3!8va)! x6 |$!8va(! x9!8va)! | x9 |$ x9 |[M:6/8] x6 | %16
+[M:9/8]!8va(! z3/2 [d'd'']/[d'd''] [aa']>!8va)!BB D>A,!>!A, |$ %17
+!8va(! z3/2 [_e'_e'']/[e'e''] [aa']>!8va)!=BB _E>A,!>!A, | %18
+!8va(! z3/2 [e'e'']/[e'e''] [aa']>!8va)!cc F>A,!>!A, |$ %19
+!8va(! z3/2 [f'f'']/[f'f''] [bb']>!8va)!^cc F>A,A, | x3/2!8va(! x11/2!8va)! x2 |$ x9 | %22
+[K:bass] x9 |$ x9 | x9 |[M:6/8] x6 |$ x6 ||$[M:4/4][K:treble] x8 | x8 |$ x8 | %30
+ x13/2!8va(! x3/2!8va)! |$ x8 | x8 |[M:2/4] x4 |$[M:4/4] x8 |[M:3/4] x6 | x6 |$ x6 | x6 | x6 | x6 | %41
+[K:bass] x6 |$ x6 | x6 |] %44
+V:4
+ x9 |[K:treble] x3[K:bass] x6 | x9 |$[K:treble] x3[K:bass] x6 | x9 | x9 |$ x9 | x6[K:treble] x3 | %8
+[K:bass] x9 |$[K:treble] x3[K:bass] x6 | x9 |[K:treble] x3[K:bass] x6 |$[K:treble] x9 | %13
+[K:bass] x9 |$ x9 |[M:6/8] x6 | %16
+[M:9/8] z3/2[K:treble] d/d A>[K:bass][B,,B,][B,,B,] [D,,D,]>[A,,,A,,]!>![A,,,A,,] |$ %17
+ z3/2[K:treble] _e/e A>[K:bass][=B,,=B,][B,,B,] [_E,,_E,]>[A,,,A,,]!>![A,,,A,,] | %18
+ z3/2[K:treble] e/e A>[K:bass][C,C][C,C] [F,,F,]>[A,,,A,,]!>![A,,,A,,] |$ %19
+ z3/2[K:treble] f/f B>[K:bass][^C,^C][C,C] [F,,F,]>[A,,,A,,][A,,,A,,] | %20
+ x3/2[K:treble] x6[K:bass] x3/2 |$ x9 | x9 |$ x9 | x9 |[M:6/8] x6 |$ x6 ||$[M:4/4] x8 | x8 |$ x8 | %30
+ x8 |$ x8/3[K:treble] x14/3[K:bass] x2/3 | x4[K:treble] x8/3[K:bass] x4/3 |[M:2/4] x4 |$ %34
+[M:4/4] x2 x2 (3:2:2x G,2 (3:2:2x _A,2 |[M:3/4] x2 !slide![=B,F]2 (3:2:2C2 ^C | x6 |$ x6 | x6 | %39
+ x6 | x6 | z (G,, E,[I:staff -1]=B,)[I:staff +1] E,2 |$ x6 | x6 |] %44
+V:5
+ x9 |!8va(! x3!8va)! x6 | x9 |$!8va(! x3!8va)! x6 | x9 | x9 |$ x9 | x6!8va(! x3!8va)! | x9 |$ %9
+!8va(! x9!8va)! | x9 |!8va(! x3!8va)! x6 |$!8va(! x9!8va)! | x9 |$ x9 |[M:6/8] x6 | %16
+[M:9/8]!8va(! x9/2!8va)! x9/2 |$!8va(! x9/2!8va)! x9/2 |!8va(! x9/2!8va)! x9/2 |$ %19
+!8va(! x9/2!8va)! x9/2 | x3/2!8va(! x11/2!8va)! x2 |$ x9 |[K:bass] x9 |$ x9 | x9 |[M:6/8] x6 |$ %26
+ x6 ||$[M:4/4][K:treble] x8 | x8 |$ x8 | x13/2!8va(! x3/2!8va)! |$ x8 | x8 |[M:2/4] x4 |$ %34
+[M:4/4] x8 |[M:3/4] x2 x2 _G2 | A6 |$ ([E=c]2 [DB]2-)!<(! [DB]!<)!!tenuto![^C^F] | %38
+ (!arpeggio![=CA]2 (3:2:2[=B,G]2)!>(!!<(! ^C!>)!!<)! _B,2 | x6 | (A,4 _A,2) | %41
+[K:bass] E4 !tenuto!E2 |$ D2 (3:2:2(!tenuto!D2 =E ^C2-) | sC x x4 |] %44

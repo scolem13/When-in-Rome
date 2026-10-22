@@ -1,0 +1,32 @@
+% 50 Melodische Übungsstücke, No. 8: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2153
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:50 Melodische Übungsstücke, No. 8
+C:CzernyC
+%%score 1 2
+L:1/16
+Q:1/4=121
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Discant"
+V:2 bass nm="Bass" snm="B"
+V:1
+ z [CE][DF][EG] [FA][GB][Ac][Bd] | [ce][df][eg][fa] [gb][ac'][bd'][c'e'] | %2
+ [d'f'] z [d'f'] z [c'e'] z [c'e'] z | [bd']4 z4 | z [DF][EG][FA] [GB][Ac][Bd][ce] | %5
+ [df][eg][fa][gb] [ac'][bd'][c'e'][d'f'] | [c'e'] z [gc'e'] z [fbd'] z [fbd'] z | [ec']4 z4 | %8
+ z [e'g'][d'f'][c'e'] [bd'][ac'][gb][fa] | [eg][df][ce][Bd] [Ac][GB][FA][EG] | %10
+ [EA]2[EA] z [EG] z [EG] z | [DF]4 z4 | z [DB][Ec][Fd] [Ge][Af][Bg][ca] | %13
+ [db][ec'][fd'][ge'] [af'][bg'][c'a'][d'b'] | [e'c''] z [c'g'] z [gc'e'] z [fgbd'] z | [egc'] z7 | %16
+[K:Eb] e4 c4 | g6 f2 | e z e z c z c z | [=Bd]8 | a z a z a z a z | g6 fe | d z d2 f2=B2 | c4 z4 | %24
+ d2g2 e2c2 | d4 G4 | d2g2 e2c2 | d8 | =b z b z b z b z | c'6 ge | d2a2 g2=B2 | c4 z4 |] %32
+V:2
+ [C,G,]4 z4 | z8 | [B,,G,] z [B,,G,] z [C,G,]2[C,G,]2 | G,,G,D,B,, G,,2 z2 | [B,,G,]4 z4 | z8 | %6
+ C, z G, z G,, z G, z | C,CG,E, C,2 z2 | [C,G,]4 z4 | z8 | [^C,A,] z [C,A,] z [C,A,] z [C,A,] z | %11
+ D,F,A,F, D,2 z2 | [G,,B,,F,]4 z4 | z8 | C, z E, z G, z G,, z | C,,C,G,,E,, C,,2 z2 | %16
+[K:Eb] C,4 G, E, G, C,4 G, E, G, | =B,,4 G, D, G, B,,4 G, D, G, | C,4 G, E, G, E,4 C G, C | %19
+ G,4 D =B, D G,4 D B, D | F,4 D =B, D F,4 D B, D | E,4 C G, C E,4 C G, C | F,4 D A, D G,4 F D F | %23
+ CEGE C2 z2 | G,4 D =B, D G,4 E C E | G,4 D =B, D G,4 D B, D | G,4 D =B, D G,4 E C E | %27
+ G,4 D =B, D G,4 D B, D | F,4 D A, D F,4 D A, D | E,4 C G, C E,4 C G, C | F,4 D A, D G,4 F D F | %31
+ CEGE C2 z2 |] %32

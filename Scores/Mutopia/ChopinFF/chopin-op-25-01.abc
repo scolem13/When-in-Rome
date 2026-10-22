@@ -1,0 +1,112 @@
+% Etüde As-Dur: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=489
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Etüde As-Dur
+C:Frédéric Chopin (1810 - 1849)
+%%score 1 2
+L:1/8
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Ab
+V:1 bass nm="down"
+V:2 treble nm="up"
+V:1
+ x2 | (3[A,,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] | %2
+ (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] | %3
+ (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] | %4
+ (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,=E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] | %5
+ (3[D,,A,][DF][DA,] (3[D,A,][DF][DA,] (3[D,A,][DF][DA,] (3[D,G,][DF][DG,] | %6
+ (3[C,G,][CF][CG,] (3[C,G,][C=E][CG,] (3[F,A,][CF][CA,] (3[=B,,F,][A,_E][A,F,] | %7
+ (3[_B,,F,][A,E][A,F,] (3[B,,F,][A,E][A,F,] (3[B,,F,][A,=D][A,F,] (3[B,,F,][A,D][A,F,] | %8
+ (3[E,,B,,][E,_D][E,B,,] (3[E,,B,,][E,A,][E,B,,] (3[E,,B,,][E,G,][E,B,,] (3[E,,B,,][E,G,][E,B,,] | %9
+ (3[A,,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] | %10
+ (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] | %11
+ (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] | %12
+ (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,=E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] | %13
+ (3[D,,A,][DF][DA,] (3[D,A,][DF][DA,] (3[D,A,][DF][DA,] (3[D,G,][DF][DG,] | %14
+ (3[C,G,][CF][CG,] (3[C,G,][CF][CG,] (3[C,G,][C=E][CG,] (3[C,G,][CE][CG,] | %15
+ (3[G,,=D,][G,=B,][G,D,] (3[G,,D,][G,B,][G,D,] (3[G,,D,][G,=D][G,D,] (3[G,,D,][G,D][G,D,] | %16
+ (3[C,,G,,][C,G,][C,G,,] (3[C,,G,,][C,G,][C,G,,] (3[C,,G,,][C,G,][C,G,,] (3:2:2[C,,G,,][C,G,](3:2:1x/4C,/ | %17
+ =E,,/C,/B,/C,/ E,,/C,/B,/C,/ E,,/C,/B,/C,/ E,,/C,/B,/C,/ | %18
+ F,,/C,/B,/C,/ F,,/C,/A,/C,/ F,,/C,/G,/C,/ F,,/C,/F,/C,/ | %19
+ G,,/E,/D/E,/ G,,/E,/D/E,/ G,,/E,/D/E,/ G,,/E,/D/E,/ | %20
+ A,,/E,/D/E,/ A,,/E,/C/E,/ A,,/E,/B,/E,/ A,,/E,/A,/E,/ | %21
+ E,,/G,/C/G,/ C,/G,/C/G,/ F,,/=D,/C/D,/ G,,/D,/[=B,G,]/[D,C,]/ | %22
+ x/ [=E,G,]/[CG,]/[E,C,]/ x/ [F,A,]/[=B,A,]/[F,C,]/ x/ [F,A,]/[=DA,]/[F,C,]/ x/ [E,A,]/[DA,]/[E,C,]/ | %23
+ x/ [=E,G,]/[CG,]/[E,=B,,]/ x/ [F,A,]/[=B,A,]/[F,B,,]/ x/ [F,A,]/[=DA,]/[F,B,,]/ x/ [E,A,]/[DA,]/[E,=A,,]/ | %24
+ x/ [=E,=A,]/[_DA,]/[E,=A,,]/ x/ [_G,A,]/[=B,A,]/[G,A,,]/ x/ [G,A,]/[=DA,]/[G,A,,]/ x/ [E,_A,]/[DA,]/[E,A,,]/ | %25
+ x/ [=E,=A,]/[_DA,]/[E,=A,,]/ x/ [E,A,]/[DA,]/[E,A,,]/ x/ [_E,_G,]/[CG,]/[E,_A,,]/ x/ [E,G,]/[CG,]/[E,_D,,]/ | %26
+ x/ [_A,B,]/[DB,]/[A,D,]/ x/ [A,B,]/[DB,]/[A,D,,]/ x/ [A,B,]/[DB,]/[A,D,]/ x/ [A,B,]/[DB,]/[A,_E,,]/ | %27
+ x/ [E,A,]/[CA,]/[E,C,]/ x/ [E,A,]/[CA,]/[E,E,,]/ x/ [E,A,]/[CA,]/[E,C,]/ x/ [E,A,]/[CA,]/[E,E,,]/ | %28
+ x/ [E,G,]/[EG,]/[E,B,,]/ x/ [E,G,]/[EG,]/[E,E,,]/ x/ [E,G,]/[EG,]/[E,B,,]/ x/ [E,G,]/[EG,]/[E,F,,]/ | %29
+ x/ F,/A,/F,/ C,/F,/[A,F,]/[C,F,,]/ x/ F,/=A,/F,/ C,/F,/[A,F,]/[C,B,,,]/ | %30
+ x/ [F,B,]/[DB,]/[F,B,,]/ x/ [F,B,]/[DB,]/[F,B,,,]/ x/ [=E,_A,]/[DA,]/[E,B,,]/ x/ [E,A,]/[DA,]/[E,_E,,]/ | %31
+ x/ [_E,A,]/[CA,]/[E,C,]/ x/ [E,A,]/[CA,]/[E,E,,]/ x/ [E,A,]/[CA,]/[E,C,]/ x/ [E,A,]/[CA,]/[E,E,,]/ | %32
+ x/ =A,/C/A,/ E,/A,/[CA,]/[E,E,,]/ x/ A,/C/A,/ E,/A,/[FA,]/[E,E,,]/ | %33
+ x/ B,/F/B,/ E,/B,/[DB,]/[E,E,,]/ x/ =B,/=D/B,/ E,/B,/[GB,]/[E,E,,]/ | %34
+ x/ C/G/C/ E,/C/[EC]/[E,E,,]/ x/ C/_G/C/ (3[E,C][E=A][EC] | %35
+ (3[E,B,][=D_A][DB,] (3[E,B,][DA][DB,] (3[E,B,][_DA][DB,] (3[E,B,][DE][DB,] | %36
+ (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] | %37
+ (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] | %38
+ (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] | %39
+ (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] (3[A,,E,][G,D][G,E,] | %40
+ (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] (3[A,,E,][A,C][A,E,] | %41
+ (3[E,,A,,][E,A,][E,A,,] (3[E,,A,,][E,A,][E,A,,] (3[E,,A,,][E,A,][E,A,,] (3[E,,A,,][E,A,][E,A,,] | %42
+ (3[A,,,E,,][A,,E,][A,,E,,] (3[A,,,E,,][A,,E,][A,,E,,] (3[A,,,E,,][A,,E,][A,,E,,] (3[A,,,E,,][A,,E,][A,,E,,] | %43
+ (3[A,,,E,,][A,,E,][A,,E,,] (3[A,,,E,,][A,,E,][A,,E,,] (3[A,,,E,,][A,,E,][A,,E,,] (3[A,,,E,,][A,,E,][A,,E,,] | %44
+ (3[A,,,E,,C,][A,,E,C,A,][E,A,] (3[CE][Ac][ea] (3[c'a][ec][AE] (3[A,E][Ac][ea] | %45
+ (3[c'a][ec][AE] (3[A,E][Ac][ea] (3[c'a][ec][AE] (3[A,E][Ac][ea] | %46
+ (3[c'a][ec][AE] (3[A,E][Ae][AE] (3[A,E][Ae][AE] (3[A,E][Ae][AE] | %47
+ (3[A,E][Ae][AE] (3[A,E][Ae][AE] (3[A,E][Ae][AE] (3[A,E][Ae][AE] | %48
+ A,x[A,,E,C]x2x/[=D,,E,,F,,]/ (3:2:2E,,2 [D,,E,,] | [A,,,A,,E,]2 x6 |] %50
+V:2
+ x6 e2 | (3[eA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] | %2
+ (3[fA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] | %3
+ (3[eB][dE][Bd] (3[eB][dE][Bd] (3[fB][dE][Bd] (3[eB][dE][Bd] | %4
+ (3[bc][eE][ce] (3[ac][eE][ce] (3[ac][=e=E][ce] (3[ac][eE][ce] | %5
+ (3[ad][fA][df] (3[ad][fA][df] (3[ad][fA][df] (3[bd][fG][df] | %6
+ (3[c'c][fG][cf] (3[bc][=eG][ce] (3[ac][fA][cf] (3[f=B][_eF][Be] | %7
+ (3[f_B][eF][Be] (3[gB][eF][Be] (3[aB][=dF][AB] (3[BF][A_B,][FA] | %8
+ (3[BE][AB,][EA] (3[cE][AB,][EA] (3[_dE][GB,][_DE] (3[EB,][DE,][B,D] | %9
+ (3[eA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] | %10
+ (3[fA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] | %11
+ (3[eB][dE][Bd] (3[bB][dE][Bd] (3[c'B][dE][Bd] (3[gB][dE][Bd] | %12
+ (3[bc][eE][ce] (3[ac][eE][ce] (3[ac][=e=E][ce] (3[ac][eE][ce] | %13
+ (3[ad][fA][df] (3[ad][fA][df] (3[ad][fA][df] (3[bd][fG][df] | %14
+ (3[c'c][fG][cf] (3[gc][fG][cf] (3[gc][=eG][ce] (3[gc][eG][ce] | %15
+ (3[g=B][=eF][Be] (3[gB][=dF][Bd] (3[gB][fF][Bf] (3[gB][eF][Be] | %16
+ (3[=dF][GC][FG] (3[c=E][GC][EG] (3[c=D][GC][DG] (3[cE][GC][EG] | %17
+ (3[cG][BC][GB] (3[cG][BC][GB] (3[_dG][BC][GB] (3[cG][BC][GB] | %18
+ (3[cF][BC][FB] (3[=dF][AC][FA] (3[=eG][cC][Gc] (3[fA][cC][Ac] | %19
+ (3[_eB][_d_E][Bd] (3[eB][dE][Bd] (3[fB][dE][Bd] (3[eB][dE][Bd] | %20
+ (3[eA][dE][Ad] (3[fA][cE][Ac] (3[gA][cE][Ac] (3[aA][cE][Ac] | %21
+ (3[gc][eG][ce] (3[gc][eG][ce] (3[ac][=dA][cd] (3[f=B][dF][Bd] | %22
+ (3[=eG][c=E][Gc] (3[=dA][=B=D][AB] (3[fA][BF][AB] (3[eA][BE][AB] | %23
+ (3[=eG][c=E][Gc] (3[=dA][=B=D][AB] (3[fA][BF][AB] (3[eA][BE][AB] | %24
+ (3[=e=A][_d=E][Ad] (3[=dA][=B=D][AB] (3[_gA][B_G][AB] (3[e_A][dE][Ad] | %25
+ (3[=e=A][_d=E][Ad] (3[=ad][eA][de] (3[=b_e][_gA][eg] (3[c'e][g_A][eg] | %26
+ (3[c'd][fF][df] (3[_bd][fF][df] (3[d'_B][dF][Bd] (3[fB][dF][Bd] | %27
+ (3[bc][eE][ce] (3[ac][eE][ce] (3[c'A][cE][Ac] (3[eA][cE][Ac] | %28
+ (3[eG][BD][GB] (3[=eG][BD][GB] (3[fG][BD][GB] (3[_eG][BD][GB] | %29
+ (3[dF][AD][FA] (3[cF][AC][FA] (3[c_E][FC][EF] (3[c'e][fc][ef] | %30
+ (3[c'd][fF][df] (3[bd][fF][df] (3[d'B][d=E][Bd] (3[=eB][dE][Bd] | %31
+ (3[bc][_e_E][ce] (3[ac][eE][ce] (3[c'A][cE][Ac] (3[eA][cE][Ac] | %32
+ (3[e=A][cE][Ac] (3[fA][cE][Ac] (3[_gA][cE][Ac] (3[fA][cE][Ac] | %33
+ (3[fB][dD][Bd] (3[=gB][dF][Bd] (3[_a=B][=dF][Bd] (3[gB][dF][Bd] | %34
+ (3[gc][eE][ce] (3[ac][eA][ce] (3[=ac][e=A][ce] (3[_g'a][c'e][ac'] | %35
+ (3[f'f][_aB][fa] (3[bf][aB][fa] (3[d'=e][aB][ea] (3[=gd][_eG][de] | %36
+ (3[aA][c_E][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] | %37
+ (3[fB][dE][Bd] (3[eB][dE][Bd] (3[c'B][dE][Bd] (3[gB][dE][Bd] | %38
+ (3[aA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] (3[eA][cE][Ac] | %39
+ (3[fB][dE][Bd] (3[eB][dE][Bd] (3[f'B][dE][Bd] (3[gB][dE][Bd] | %40
+ (3[aA][cE][Ac] (3[eA][cE][Ac] (3[fA][cE][Ac] (3[eA][cE][Ac] | %41
+ (3[dE][AD][EA] (3[cE][AC][EA] (3[dE][AD][EA] (3[cE][AC][EA] | %42
+ (3[BC][EB,][CE] (3[AC][EA,][CE] (3[BC][EB,][CE] (3[AC][EA,][CE] | %43
+ (3[BC][EB,][CE] (3[AC][EA,][CE] (3[BC][EB,][CE] (3:2:2[AC][EA,][CE]/ (3:2:1x/4 | %44
+ (3:2:11x2 (1:1:3[CE] [Ac][ea](1:1:3[c'e'] [a'e'][c'a](1:1:3[ec] [Ac][ea](1:1:1[c'e'] | %45
+ (3[a'e'][c'a][ec] (3[Ac][ea][c'e'] (3[a'e'][c'a][ec] (3[Ac][ea][c'e'] | %46
+ (3[a'e'][c'a][ec] (3[Ac][ac'][ac] (3[Ac][ac'][ac] (3[Ac][ac'][ac] | %47
+ (3[Ac][ac'][ac] (3[Ac][ac'][ac] (3[Ac][ac'][ac] (3[Ac][ac'][ac] | Ax[aa'] x3 [Ec]2 | %49
+ [CA]6- [CA]2 |] %50

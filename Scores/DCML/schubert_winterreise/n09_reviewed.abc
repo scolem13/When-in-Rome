@@ -1,0 +1,92 @@
+X:1
+T:Winterreise
+T:Irrlicht
+C:Franz Schubert
+Z:Wilhelm Müller
+%%score 1 { ( 2 4 6 7 ) | ( 3 5 8 9 ) }
+L:1/8
+Q:1/4=30
+M:3/8
+I:linebreak $
+K:D
+V:1 treble nm="Singstimme" snm="Sing."
+L:1/16
+V:2 treble nm="Pianoforte" snm="Pno."
+L:1/16
+V:4 treble 
+V:6 treble 
+V:7 treble 
+V:3 bass 
+L:1/16
+V:5 bass 
+V:8 bass 
+V:9 bass 
+V:1
+ z6 | z6 | z6 | z6 | B3/2 B/ F3 F | E3/2 G/ B,3 B, |$ F3/2 F/ F3/2 F/ (3F^G ^A | B4 z2 | %8
+w: ||||In die tief- sten|Fel- sen- grün- de|lock- te mich ein Irr- * licht|hin|
+ d3 ^A A A | B d{c/} B2 B2 | B3/2 G/ E3/2 C/ e3/2 c/ |$ d4 z2 | F/B/ B/c/ c/d/ c/B/ (3^Af A | %13
+w: Wie ich ei- nen|Aus- gang fin- de,|liegt nicht schwer mir in dem|Sinn|liegt _ nicht _ schwer _ mir _ in _ dem|
+ B4 z2 | z6 | z6 | B/c/ d/e/ f3 F |$ E/F/ G/A/ B2 B, z | F3/2 F/ d3/2 d/ (3cB ^A | B4 d3/2 d/ | %20
+w: Sinn.|||Bin _ ge _ wohnt das|ir _ re _ Ge- hen,|'sführt ja je- der Weg _ zum|Ziel: un- sre|
+ d3 ^A A3/2 A/ | B2 d2 z2 |$ B3/2 G/ E3/2 C/ e3/2 c/ | d4 z2 | F/B/ B/c/ c/d/ c/B/ (3^A fA | %25
+w: Freu- den, un- sre|We- hen-|al- les ei- nes Irr- lichts|Spiel,|al- * les _ ei- * nes _ Irr- lichts _|
+ B4 z2 | z6 | z2 z2 B B |$ =c3 c B A | G>F E2 E F | G3 G F3/2 ^D/ | B,4 B, B, | %32
+w: Spiel,||Durch des|Berg- stroms trock- ne|Rin- * nen wind ich|ru- hig mich hin-|ab; je- der|
+ =C2-C/E/ G/=c/ B/g/ =f/d/ |${d} =c2 c2 (3ce c | B2-B/d/ ^c/B/ (3^A^f A | B4 B, B, | %36
+w: Strom _ _ wird's _ Meer _ ge _|win- nen, je _ des|Lei- * * den _ auch _ sein|Grab, je- der|
+ =C2-C/E/ G/=c/ B/g/ =f/d/ |{d} =c2 c2 (3ce c |$ B2-B/d/ ^c/B/ !fermata!^A/g/ f/A/ | B4 z2 | z6 | %41
+w: Strom _ _ wird's _ Meer _ ge _|win- nen, je _ des|Lei- * * den _ auch _ sein _|Grab.||
+ z6 | !fermata!z6 |] %43
+w: ||
+V:2
+ (!>!B2 F4) | (!>!E2 B,4) | (3(.F.F.F) (3(.F.F.F) (3(.F.^G.^A) | [B,B]>(F B4) | (B2 F4) | %5
+ (!>![B,-EG]2 [B,DF]4) |$ (3(f.ff) (3(f.ff) (3(f.^g^a) | [Bb]>(f b4) | z3/2 d/ ^A4 | z3/2 (d/ B4) | %10
+ z2 [cec']>[cec'][cec']>[cec'] |$ [dfd']4 z2 | ([FBf][FBf][FBf][FBf]) [^Acf^a]>[Acfa] | %13
+ [Bdfb]4 z2 |!<(!!<(! (F/d/)(d/e/) (e/!>(!f/e/d/) [^Acf^a]>[Acfa]!<)!!<)!!>)! | [Bdfb]4 z2 | %16
+ (!>!B2 F4) |$ !>![B,EG]2 [B,DF]4 | (3(f.ff) (3(f.ff) (3(f.^g^a) | [Bb]>(f b4) | z3/2 (d/ !>!^A4) | %21
+ z3/2 (d/ !>!B4) |$ z2 [cec']>[cec'][cec']>[cec'] | [dfd']4 z2 | %24
+ ([FBf][FBf][FBf][FBf]) [^Acf^a]>[Acfa] | [Bdfb]4 z2 | %26
+!<(! (F/d/)(d/e/) (e/!>(!f/e/d/) [^Acf^a]>[Acfa]!<)!!>)! | [Bdfb]4 z2 |$ B,>[^DF]- !>![DF=c]4 | %29
+ B,>[EG]- !>![EGB]4 | B,>([CG] G2)F2 |!p! [^DFB]4 [=DGBd]2 | [=CEG=c]4!>(! [DGBd]2!>)! |$ %33
+ [=CG=c]4!pp! ([EGc]2 | [DFB]4) [^Acf^a]>[Acfa] | [Bdfb]4!mf! [B,DGB]2 | %36
+ [=CEG=c]4!>(! [DGBd]2!>)! | [=CG=c]4!pp! ([EGc]2 |$ [DFB]4) !fermata![^Acf^a]2 | [Bdfb]>(B F4) | %40
+ [B,EG]>([B,-EG] [B,DF]4) | (3(F.FF) (3(F.FF) (3(F.^G^A) | B>(F !fermata!B4) |] %43
+V:3
+"m"!p! (B,2"" F,4) |"m" (E,2"m" B,,4) |"" [F,,C,]2""[F,,D,]2""[F,,E,]2 |"m" [B,,D,]>F, B,4 | %4
+ (!>!B,2"" F,4) |"m" (E,2"m" B,,4) |$"" [F,C]2""[F,D]2""[F,E]2 |[K:treble]"m" [B,D]>(F B4) | %8
+"" z3/2 b/"" ^f4 |[K:bass]"" z3/2 (D/ !>!B,4) | z2"" [A,,G,A,]>[A,,G,A,][A,,G,A,]>[A,,G,A,] |$ %11
+"" [D,F,A,]4 z2 |"" [F,D][F,D][F,D][F,D]"" [F,CE]>[F,CE] |"m" [B,D]4 z2 | %14
+"" ([F,B,D][F,B,D][F,B,D][F,B,D])"" [F,CE]>[F,CE] |"m" [B,D]4 z2 | (B,2"" F,4) |$"m" E,2"m" B,,4 | %18
+"" [F,C]2""[F,D]2""[F,E]2 |[K:treble]"m" [B,D]>(F B4) |[K:bass]"" z3/2 (D/"" ^A,4) | %21
+"" z3/2 (D/ B,4) |$ z2"" [A,,G,A,]>[A,,G,A,][A,,G,A,]>[A,,G,A,] |"" [D,F,A,]4 z2 | %24
+"" ([F,D][F,D][F,D][F,D])"" [F,CE]>[F,CE] |"m" [B,D]4 z2 | %26
+"" ([F,B,D][F,B,D][F,B,D][F,B,D])""[F,CE]>[F,CE] |"m" [B,D]4 z2 |$""!f! B,,>[^D,F,]- !>![D,F,=C]4 | %29
+"m" B,,>[E,G,]- !>![E,G,B,]4 |"m" B,,>([C,G,] G,2)""F,2 |"" [B,,^D,F,B,]4"" [G,,=F,G,]2 | %32
+"" [G,,E,G,]4"" [G,,=F,G,]2 |$"" [=C,E,G,]4"" (E,2 |"" F,4)"" [F,CE]>[F,CE] | %35
+"m" [B,D]4"" [G,,=F,G,]2 |"" [G,,E,G,]4"" [G,,=F,G,]2 |"" [=C,E,G,]4"" (E,2 |$ %38
+"" F,4)"" !fermata![F,CE]2 |"m" [B,D]>(B,"" F,4) |"m" E,>(E,"m" B,,4) | %41
+"" [F,,C,]2""[F,,D,]2""[F,,E,]2 |"m" [B,,D,]>(F, !fermata!B,4) |] %43
+V:4
+ x3 | x3 | ^A,B,C | x3 | x3 | x3 |$ ^ABc | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | %18
+ ^ABc | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ B,3 | B,3 | x !>!^A2 | x3 | x3 |$ x3 | x3 | %35
+ x3 | x3 | x3 |$ x3 | x3 | x3 | ^A,B,C | B, x2 |] %43
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 |[K:treble] x3 | d3 |[K:bass] G,3 | x3 |$ x3 | x3 | x3 | x3 | %15
+ x3 | x3 |$ x3 | x3 |[K:treble] x3 |[K:bass] F,3 | G,3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ B,,3 | %29
+ B,,3 | x ^A,2 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |] %43
+V:6
+ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | %19
+ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | B,3 | x3 | x3 |$ x3 | x3 | x3 | x3 | %37
+ x3 |$ x3 | x3 | x3 | x3 | x3 |] %43
+V:7
+ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | %19
+ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | z C2 | x3 | x3 |$ x3 | x3 | x3 | x3 | %37
+ x3 |$ x3 | x3 | x3 | x3 | x3 |] %43
+V:8
+ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 |[K:treble] x3 | x3 |[K:bass] x3 | x3 |$ x3 | x3 | x3 | x3 | %15
+ x3 | x3 |$ x3 | x3 |[K:treble] x3 |[K:bass] x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | %30
+ B,,3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |] %43
+V:9
+ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 |[K:treble] x3 | x3 |[K:bass] x3 | x3 |$ x3 | x3 | x3 | x3 | %15
+ x3 | x3 |$ x3 | x3 |[K:treble] x3 |[K:bass] x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | %30
+ z C,2 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |] %43

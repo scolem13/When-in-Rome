@@ -1,0 +1,28 @@
+X:1
+T:Nouveau Concert, ou Les Goûts-Réunis no. 13
+T:Air. Agréablement
+C:François Couperin
+%%score { 1 | 2 }
+L:1/8
+M:6/8
+I:linebreak $
+K:F
+V:1 bass3 nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Agréablement" D, G,A,B, | A,DC (B,PA,)G, | P^F,2 D (FP_E)D |({D} M_E2) C (EPD)C | D F,B, G,B,_E | %5
+ PA,F,MB,3/2 C<PCB,/ | B, D_E (DPC)B, | A,B,C (B,PA,)G, |$ P^F, A,B, C(D/C/)(B,/A,/) | %9
+({A,} MB,)CD _E/D/C/B,/PA,/G,/ | D2 :: D, A,=B,C | P=B,G,MC3/2 D<PB,C/ | %13
+ C G,A,({A,} MB,)(C/B,/)(A,/G,/) | A,B,C D/C/B,/A,/G,/F,/ |$ PE, C({B,}A,)({G,} F,)D({C}B,) | %16
+ (PG,2{F,2G,2} A,3/2) B,<PG,F,/ | F, F({_E}D) P=B,G({F}=E) | ^CD/=C/B,/A,/ G,/F,<PE,D,/ | %19
+ D, A,B, C(D/C/)(B,/A,/) |$({A,} MB,)CD _E/D/C/B,/PA,/G,/ | D3 (GP!turn!^F)G | D3 (GP!turn!^F)G | %23
+ D3 _E/D/C/B,/PA,/G,/ | A,P^F,MD3/2 _E<PA,G,/ | G,2 :| %26
+V:2
+ z4 | z z D, G,A,B, | A,DC P=B,A,G, | C_B,C PA,G,A, | B,D,B,, _E,2 C, | F,D,G, _E,F,F,, | %6
+ B,, B,C (B,PA,)G, | P^F, D_E (DPC)B, |$ PA,^F,G, A,(B,/A,/)(G,/F,/) | %9
+({^F,} MG,)A,B, C/B,/A,/G,/PF,/E,/ | D,2 ::"^Reprise" z z z D, | G,_E,_A, P!turn!F,G,G,, | %13
+ C, =E,F,({F,} MG,)(A,/G,/)(F,/E,/) | F,G,A, B,/A,/G,/F,/E,/D,/ |$ %15
+ C, A,({G,}F,)({E,} D,)B,({A,}G,) | PE,C,F, B,, C,2 | F,/E,/D,/E,/F,/D,/ G,/F,/E,/F,/G,/E,/ | %18
+ A, F,,G,, D,, A,,2 | D,, ^F,G, A,(B,/A,/)(G,/F,/) |$({F,} G,)A,B, C/B,/A,/G,/F,/E,/ | %21
+ P^F,/D,/E,/F,/G,/A,/ (B,PA,)G, | P^F,/G,/F,/E,/D,/C,/ (B,,PA,,)G,, | %23
+ P^F,,G,,/A,,/B,,/G,,/ C,/B,,/A,,/G,,/F,,/E,,/ | D,,D,/C,/B,, C,D,D,, | G,,2 :| %26

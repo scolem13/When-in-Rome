@@ -1,0 +1,71 @@
+X:1
+T:2 Romances
+T:Les cloches
+C:Claude Debussy
+Z:Paul Bourget
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="Chant\nVoice"
+V:2 treble 
+L:1/8
+V:3 treble nm="Piano"
+L:1/8
+V:6 treble 
+V:4 treble 
+L:1/8
+V:5 treble 
+V:1
+"^Andantino quasi Allegretto" z4 | z4 | z!p! (A G E/ G/ | A A) (3!tenuto!G !tenuto!B !tenuto!G | %4
+w: ||Les feuil- les s’ou-|\- vraient sur le bord des|
+ c- c/ z/ B/ A/ G/ E/ | A4 | z"^poco  cresc." c d (c/ A/) | c c (3(A B) c | %8
+w: bran- ches, Dé- li- ca- te-|ment,|Les clo- ches tin-|taient, lé- gè- res et|
+ e- e/ z/!>(! d/ c/ ^A/ F/!>)! |!p! F3 z | z2!p! (D2 | F2 G G | A) A (3B B B | (c2 G) G | %14
+w: fran- ches, Dans le ciel clé-|ment.|Ryth-|mique et fer-|vent comme une an- ti-|‒ en- ne, Ce|
+ (3A E E F2 | A A B B | (c c (3d f e | c2 A2) |"^Rit."!>(!"^dim." (G E F G!>)! | G4) | %20
+w: loin- tain ap- pel|Me re- mé- mo-|‒ rait la blancheur * chré-|tien- ne|Des fleurs de l'au-|tel.|
+[Q:1/4=92]"^Un peu plus lent" z4 | z4 | z4 | z2 z A |!p! (^A2- A A | c c (3c c e | d2 c2- | %27
+w: |||Ces|clo- ches par-|laient d’heu- reu- ses an-|né- *|
+ c2 =A2) | (G E F G |!<(! B2) (B2!<)! |!mf! g2 f e | e B (3G E F | =G4 | =G) z !tenuto!G2 | %34
+w: * es,|Et dans le grand|bois Sem-|blaient re- ver-|‒ dir les feuil- les fa-|né-|es Des|
+ !tenuto!=G2 !tenuto!G !tenuto!G | !tenuto!^G4 | z4 | z4 | z4 | z4 | z4 |] %41
+w: jour d'au- tre-|fois.||||||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x6 cA | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | x8 |] %41
+V:3
+"^Andantino quasi Allegretto"!p! z (fe[FA]) z (ge[GB]) | z (fe[FA]) z (ge[GB]) | %2
+ z (fe[FA]) z (ge[GB]) | z (fe[FA]) z (ge[GB]) | z (fe[FA]) z (ge[GB]) | z (fe[FA]) z (fe[FA]) | %6
+ z"_poco  cresc." (ge[Gc]) z (dAe) | z (ge[Gc]) z (dAe) | z (ge[Gc]) z (d^Ae) | %9
+!p! z (fcF) z"^Rit." (fBF) |"^a Tempo" z!p! (fcF) z (g^BG) | z (acA) z (c'gc) | z (fcF) z (gBG) | %13
+ z (acA) z (c'gc) | CcFC DBGE | CcFC DBGE | CcFC DBGE | CcAC DcAE | %18
+"^Rit.""_dim.""_dim." CcGC DcGE | z (cGE Gceg) |!p! (c'8 |!<(! d'4 e'4!<)! |!>(! c'8-)!>)! | c'8 | %24
+ (c'8 | d'4 e'4 | c'8-) | c'8 | (c'8 |"_cresc." d'4 e'4 | (c'8) | d'4 e'4 | c'8-) |!p! c'2 z2 z4 | %34
+ z8 |"^Tempo I" x8 |!<(! ([Cc]2!<)!!>(! [Dd]4 [Ee]2)!>)! | x8 |!>(! ([Cc]2 [Dd]4 [Ee]2)!>)! | %39
+!ppp! [ge'g']8- | [ge'g']2 z2 z4 |] %41
+V:4
+ (C4 D3 E) | (C4 D3 E) | (C4 D3 E) | (C4 D3 E) | (C4 D3 E) |[K:bass] C8 | (C4 D3 E) | (C4 D3 E) | %8
+ (C4 D3 E) | (C4 ^D3 E) | (C4 D3 E) | (C4 D3 E) | (C4 D3 E) | (C4 D3 E) | (E,2 A,2 F,2 B,2) | %15
+ (E,2 A,2 F,2 B,2) | (E,2 A,2 F,2 B,2) | (E,2 A,2) (C,2 A,2) | z2 (G,,2 E,2 G,2 | C8) | %20
+[K:treble] z (CEG cGEC) | (cGEC) (cGEC) | z (CDF cFDC) | (cFDC) (cFDC) | z (CEG cGEC) | %25
+ (cGEC) (cGEC) | z (CDF cFDC) | (cFDC) (cFDC) | z (B,CE BECB,) | z (B,CE AECB,) | %30
+[K:bass] z!<(! (E,,B,,E, G,B,EG)!<)! | B8 | z (A,,E,=G, B,CE=G |[K:treble] B2 =G4 E2-) | %34
+"^dim." (E2 C4 =C2) |[K:bass]!pp! z"^m.d." (B,,E,G, B,[K:treble]"^m.g."EGB-) | B8 | %37
+[K:bass] z (B,,E,G, B,[K:treble]EGB-) | B8 |[K:bass] [G,,D,G,]8- | [G,,D,G,]2 z2 z4 |] %41
+V:5
+ x4 | x4 | x4 | x4 | x4 |[K:bass] z2 F,2 | ([E,G,]2 [F,A,]2) | ([E,G,]2 [F,A,]2) | %8
+ ([E,G,]2 [F,^A,]2) | [B,,F,]2 B,2 | (A,2 [G,^B,]2 | [F,A,]2 [E,G,]2) | (A,2 [G,=B,]2 | %13
+ [F,A,]2 [E,G,]2) | A,,4 | A,,4 | A,,4 | (A,,2 F,,2) | C,,4 | x4 |[K:treble] ^A,4- | A,4 | =A,4- | %23
+ A,4 | ^A,4- | A,4 | =A,4- | A,4 | G,4 | F,4 |[K:bass] E,,,4 | x4 | A,,,4 |[K:treble] x4 | x4 | %35
+[K:bass] E,,4[K:treble] | x4 |[K:bass] E,,4[K:treble] | x4 |[K:bass] x4 | x4 |] %41
+V:6
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | (C2 D3/2 E/) | %15
+ (C2 D3/2 E/) | (C2 D3/2 E/) | (C2 D3/2 E/) | (C2 D3/2 E/) | x4 | z [eg]2 [eg]- | [eg] [eg]2 [eg] | %22
+ z [df]2 [df]- | [df] [df]2 [df] | z [eg]2 [eg]- | [eg] [eg]2 [eg] | z [df]2 [df]- | %27
+ [df] [df]2 [df] | z [eg]2 [eg] | z [ea]2 [ea] | z [egb]3- | [egb] [egb]3 | z"_dim." [e=gb]3- | %33
+ [egb] x3 | x4 | x4 | G4 | x4 | G4 | x4 | x4 |] %41

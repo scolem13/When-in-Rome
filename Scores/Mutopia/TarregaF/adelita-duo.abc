@@ -1,0 +1,27 @@
+% Adelita: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2102
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Adelita
+C:Francisco Tárrega
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Emin
+V:1 treble nm="up:1" snm="Pno"
+V:2 treble 
+V:3 bass nm="dn:3" snm="Pno"
+L:1/4
+V:1
+ e^d B4 | =dc F4 | cB ^D2 G2 | [FG]/ z/ E B,E GB | e/ z/ ^d B4 | =dc F4 | cB ^D2 G2 | E/ z4 z3/2 | %8
+[K:E] G3 B [EC]F | G3 B [EC]F | [GEB,]B e/ z/ d [de]/ z/ c | [cd]/ z/ B AF DB, | G,3 B, E,F, | %13
+ G,B, G/ z/ D [EF]/ z ^A,/ | B,>C B,2 [D=A,]2 | [EB,G,]4 z2 |] %16
+V:2
+ x6 | x6 | x6 | F z4 z | e z4 z | x6 | x6 | E4 z2 |[K:E] x6 | x6 | z2 e z d z | c z4 z | x6 | %13
+ z2 G z E3/2 z/ | x6 | x6 |] %16
+V:3
+ E,,3 [GE] | A,,3 [EC] | B,,3 [^DA,] | E,,3 | E,,3 [GE] | A,,3 [EC] | B,,2 [^DA,] | [B,G,]2 E,, z | %8
+[K:E] E,,2 [EB,G,] A,, | E,,2 [EB,G,] A,, | E,,2 [EF,] | [DA,B,,]2 z | E,,2 [EB,] [ECA,,] | %13
+ E,,2 [^A,=C,] | B,,/>=A,/ G, [F,B,,] | E, E,, z |] %16

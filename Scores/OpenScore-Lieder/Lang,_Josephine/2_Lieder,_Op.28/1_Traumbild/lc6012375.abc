@@ -1,0 +1,137 @@
+X:1
+T:2 Lieder, Op.28
+T:Traumbild
+C:Josephine Lang
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 2 { ( 3 4 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:F
+U:s=!stemless!
+V:1 bass nm="Violoncello" snm="Vc."
+V:2 treble nm="Singstimme\nVoice" snm="S."
+V:3 treble nm="Pianoforte" snm="Pno."
+V:4 treble 
+V:5 bass 
+V:6 bass 
+L:1/4
+V:1
+"^Andante""_con espressione""^*)" (3(.A,.C,.C, (3.C,.C,.C, (3.C,.D,.^D,) | E,4 (3E,F,^F, | %2
+ G,4[K:tenor]!<(!"_cresc." (3G,_A,=A, | (3B,=B,C D2!<)! E2 |!ff! (F2!>(! (3F)(.ED (3C.B,A,)!>)! | %5
+"^con espressione" TG,2{^F,2G,2} D2 C2 | A,6 |!pp! (3(.A,.B,.=B,) (C2 ^C2) | D4 (3(.D.D.D) | %9
+ (D=C !courtesy!_B,3 A,) |!>(! G,4!>)! ^G,2 | (3(.A,.B,.=B,) (C2 ^C2) |!<(! (D4!<)! F2) | %13
+!ff! (3(F.ED (3C.B,A,) G,2 | A,2 z2"^Solo" (3(A,.B,=B,) | (C2 F2) (3(F,.G,^G,) | %16
+ (A,2 D2) (3(F,.=G,A,) | B,2- B,=B,CG, | A,4 z2 |[K:bass]!p! D,4 G,,2 | G,2 D,2 G,2- | %21
+ G,2 G,2 A,2 | A,2 F,2 z2 | z2 z2[K:tenor] =B,2 | (=B,2 A,2) (A,B,) | (C2 G,CD^D) |!pp! E4- E2 | %27
+ z2"^dol." (E2 D2) |!<(! (^C2!<)!!>(! E2!>)! D2) |!<(! (F2!<)! C2"_cresc." ^F2) | %30
+ (3(G.CC (3C.CC) C2 |!f! (3(B"^ritard.".AG) (3(FEF)!>(! (G^G)!>)! | (AC)!>(! (C2!>)! ^C2) | %33
+ D4 (3(D.DD) | (D=C) B,2 (B,A,) | G,4 ^G,2 | (3(A,.B,=B,) (C2 ^C2) | (D4 F2) | %38
+ (3(F.ED (3=C.B,A,) G,2- | G,2 (^C2 D2) | (^D2 E4) | (^D2 E4) | (^F2"_cresc." G2 ^G2) | %43
+!ff! (A2"_dim." (3A)(.=GF (3E.DC) |!<(! (3(=B,.B,B, (3B,!<)!!>(!.B,B, (3B,.B,!>)!B,) | %45
+"^ritard." (3(_B,.B,B,)!>(! !fermata!B,4!>)! | %46
+!f! (3(A,[K:bass]"^a tempo".C,C,) (3C,.C,C, (3(C,.D,^D,) |!>(! E,4!>)! (3(E,F,^F,) | %48
+!<(!"_cresc." G,4[K:tenor] (3(G,_A,=A,)!<)! |"^string." (3(!courtesy!_B,=B,C) D2 E2 | %50
+ (F2 (3F)(.ED (3C.!courtesy!_B,A,) |!<(! TG,2{^F,G,}!<)!!>(! (D3!>)! C) |!f! !fermata!A,6 |] %53
+V:2
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 |!p! (3(FG) ^G A2 A2 | (3(AB) A c2- (3c B A | %9
+w: |||||||Wenn * ich auf dem|La- * ger lie- * ge In|
+ (3:2:2G2 ^F G2- (3G A =F | c4 z2 | z F F F (3(AG) F |"^dol." (f4 F) G | %13
+w: Nacht und Kis- * sen ge-|hüllt,|So schwebt mir vor * ein|sü- * sses,|
+!<(! A2-({/B} (3A) G!<)! A!>(! d3/2 c/!>)! | F2 z2 z2 | z6 | z6 | z6 | z6 | z!p! G f2- f e | %20
+w: An- * mu- tig lie- bes|Bild!|||||Wenn mir _ der|
+ e d =B2 G G |!<(! G4 A!<)! A |!>(! A F D2!>)! z2 | z G f2- f e | e3/2 d/ (c2 =B) A | %25
+w: stil- le Schlum- mer ge-|schlos- sen die|Au- gen kaum,|So schleicht _ das|lie- be Bild _ hin-|
+ G2- G ^F =F D | C4 z2 | z ^F (G2 (3:2:2G2) F | G ^G (A2 =F) =G | A2- A A d3/2 c/ | c6 | z6 | %32
+w: ein _ in mei- nen|Traum!|so schleicht _ das|Bild sich lei- se hin-|ein _ in mein- en|Traum!||
+"^a tempo" z A A2 A2 | (3(AB) A c2- (3c B A | G ^F (G2- (3GA) =F | c4 z2 | z F F F (3(AG) F | %37
+w: und mit dem|Traum * des Mor- * gens zer-|rinnt es nim- * * mer-|mehr;|dann trag' ich es * im|
+ f4 F3/2 G/ | ((A2 (3A)G) A d3/2 c/ | A4 z A | A2 B2 A3/2 B/ | (c4 (3e) d c | %42
+w: Her- zen den|gan- * * zen Tag um-|her. dann|trag' ich es im|Her- * zen den|
+"^stringendo" (_e2 d2) f2 |!ff! (f4 A) z/ A/ | G4 ^F3/2 G/ | %45
+w: gan- * zen|Tag _ im|Her- zen, im|
+!f!"^ad libitum" ((!fermata!e2 (3:2:2e2) c (3B) D (E | F4) z2 | z6 | z6 | z6 | z6 | z6 | z6 |] %53
+w: Her- * * * zen um-|her!|||||||
+V:3
+!pp! A2 x2 x2 | E4!<(! (3EF^F!<)! | G4"_cresc." (3[EG][=F_A][^F=A] | %3
+!<(! (3[GB][^G=B][Ac] (3[_Bd]CC (3[Gce]CC!<)! |!f! (f2!>(! (3f)ed (3cBA!>)! |"_dim." G2 F2 E2 | %6
+ F6 |!p! (3([FA][GB][^G=B] (3[Ac]FF (3[A^c]FF | (3:2:1d3!<(! ([cd]2) (3[cd])[cd][cd]!<)! | %9
+!>(! [Bd]=c B2- BA!>)! | (G4 ^G2) | (3[FA][GB][^G=B] c2 ^c2 |!<(! d4!<)!!>(! f2!>)! | %13
+!f! (3[FAf][FAe][FAd] (3[FAc]!>(![CFB][CFA] [EG]2!>)! | F2 z2!<(! (3[FA][GB][^G=B]!<)! | %15
+!<(! c2!<)! f2!<(! (3F[EG][F^G]!<)! | A2 d2 (3FGA |!<(! B2- B=B!<)!!>(! cG!>)! | [FA]6 | %19
+ (3z"_cresc." [=B,FG][B,FG] (3[B,FG][B,FG][B,FG] (3[B,FG][B,FG][B,FG] | %20
+ (3z [=B,FG][B,FG] (3z [B,FG][B,FG] (3z [B,DG][B,DG] | G4 E2 |!>(! F2 A4!>)! | %23
+!p! (3z [=B,FG][B,FG]!>(! (3[B,FG][B,FG][B,FG] =B2!>)! | (3=B[DF][DF] (3A[CE][CE] c2 | %25
+ c2 (3:2:2G2 c (3:2:2sd2 ^d | e6 | z2 e2 d2 | ^c2 e2 d2 | x2 c2 ^f2 | x2 x2 [Bc]2 | %31
+ (3[Bcb]!^![Aca]!ff![Gcg] (3[Fcf][Ece][FAcf]"^dim." (3:2:2g2 ^g |!p!"^a tempo" a2 c2 ^c2 | %33
+ d2 d2- (3[D^Fcd][DFcd][FAcd] | dc B2- BA | G4 ^G2 |!pp! (3[FA][GB][^G=B] c2 ^c2 | d4 f2 | %38
+!>(! (3[FAf][FAe][FAd] (3[FAc][CFB][CFA] [EG]2!>)! | [EG]2 ^c2 d2 |!<(! (^d2!<)!!f! e4) | %41
+!<(! (^d2!<)!!f! e4) | !^!^f2 !^!g2 !^!^g2 | %43
+!ff! (3[Aca][Aca][Aca] (3[Aca][Ac=g][Ac=f] (3[FAe][FAd][FAc] | %44
+!f! (3[DFG=B][DFGB][DFGB] (3[DFGB][DFGB][DFGB] (3[DFGB][DFGB][DFGB] | %45
+!f! (3[DFG_B]!^![DFGB][DFGB] !fermata![CGB]4 | %46
+!f!"^a tempo" (3[FA][A,C][A,C] (3[A,C][A,C][A,C] (3[A,C][=B,D][A,C^D] | E4!<(! (3EF[D^F]!<)! | %48
+ G4!<(! (3[EG][=F_A][^F=A]!<)! | (3[GB]"_cresc."[^G=B][Ac] d2 !arpeggio![ce]2 | %50
+!ff! (f2 (3f)!>(!ed (3cBA!>)! |!<(! G2 F2!<)! E2 |!f! [F,A,F-]2!f! !arpeggio![Fcfa] z z2 |] %53
+V:4
+ (3F[A,C][A,C] (3[A,C][A,C][A,C] (3[A,C][A,=B,D][A,C^D] | %1
+ (3[A,=B,][A,B,][A,B,] (3[^G,B,][G,B,][G,B,] (3:2:2[A,C]2 [CD] | %2
+ (3[CD][CD][CD] (3[=B,D][B,D][B,D] C2 | C2 x4 | (3[FAc][FAc][FAc] (3[FA][FA][FA] (3[CF][CE][CF] | %5
+ (3G[=B,F][B,F] (3F[G,_B,][G,B,] (3E[G,B,][G,B,] | %6
+ (3z [A,C][A,C] (3[A,C][A,C][A,C] (3[A,C][A,C][A,C] | x6 | (3ADD (3z [D^F][DF] (3[DF][EG][FA] | %9
+ (3GD^F (3GDD (3GD=F | (3FCC (3ECC (3ECC | x2 (3AFF (3AFF | %12
+ (3[FG][FG][FG]!ff! (3[FG][FG][FG] (3[FG][FG][FG] | x4 (3[B,C][B,C][B,C] | %14
+ (3z [A,C][A,C] (3[A,C][A,C][A,C] x2 | (3c[E=G][EG] (3f[FA][FA] (3DxD | %16
+ (3A[CE][CE] (3d[DF][DF] C2 | (3[DF][DF][DF] (3[DF][DF][DF] (3[_B,E][B,E][B,E] | %18
+ (3z [A,C][A,C] (3[A,C][A,C][A,C] (3[A,C][A,C][A,C] | x6 | x6 | (3CG,G,!<(! (3CG,G, (3^CA,A,!<)! | %22
+ (3DA,A, (3DA,A, (3[DF]A,A, | x4 (3z [DF][DF] | x4 (3c[C_E][CE] | %25
+ (3[C=E][CE][CE] (3[CE][CE][CE] (3[FGd][FG][FG^d] | (3z [EG][EG] (3[EG][EG][EG] (3[EG][EG][EG] | %27
+ (3z [EG][EG] (3e[EG][EG] (3d[DG][DG] | (3^c[EG][EG] (3e[GA][GA] (3d[FA][FA] | %29
+ (3f[FA][FA] (3c[FA][FA] (3^F[Ac][Ac] | (3[Gg][Bc][Bc] (3[CEGBc][DFBc][^D^FBc] (3[EG][EG][EG] | %31
+ x4 (3[Gc][Gc][^Gc] | (3[Acf][GB][^G=B] (3AFF (3AFF | (3ADD (3=c[D^F][DF] x2 | %34
+ (3[GB]D^F (3GDD (3GD=F | (3FCC (3ECC (3ECC | x2 (3AFF (3AFF | %37
+ (3z [F^G][FG] (3[FG][FG][FG] (3[FG][FG][FG] | x4 (3[B,C][B,C][B,C] | %39
+ (3^CA,A, (3C[EG][EG] (3D[FA][FA] | (3^D[Ac][Ac] (3E[Gc]!>(![Gc] (3E[Gc]!>)![Gc] | %41
+ (3^D[Ac][Ac] (3E!>(![Gc][Gc] (3E[Gc]!>)![Gc] | (3^F[Ac][Ac] (3G[Bd][Bd] (3^G[d^f][df] | x6 | x6 | %45
+ x2 F2!p! E2 | x6 | (3[A,=B,][A,B,][A,B,] (3[^G,B,][G,B,][G,B,] (3:2:2[A,C]2 C | %48
+ (3[CD][CD][CD] (3[=B,D][B,D][B,D] C2 | C2 (3_BCC (3^GCC | %50
+ (3[FAc][FAc][FAc] (3[FA][FA][FA] (3[CF][CE][CF] | %51
+ (3[=B,F][B,F][B,F] (3[G,_B,]!>(![G,B,][G,B,] (3[G,B,][G,B,][G,B,]!>)! | x6 |] %53
+V:5
+ F,,2 C,2 F,2 | E,2 E,,2 (3[A,,C,E,]F,^F, | G,2 G,,2 (3[E,G,][=F,_A,][^F,=A,] | %3
+ (3[G,B,][^G,=B,][A,C] [C,_B,D]2 [C,G,B,C]2 | %4
+ (3[C,F,A,C][C,F,A,C][C,F,A,C] (3[C,F,A,C][C,F,A,C][C,F,A,C] (3[C,A,][C,G,][C,F,] | D,A,, C,4 | %6
+ (3z [C,F,][C,F,] (3[C,F,][C,F,][C,F,] (3[C,F,][C,F,][C,F,] | %7
+ (3[F,A,][G,B,][^G,=B,] [F,A,C]2 [F,A,^C]2 | [^F,A,=CD]2 D,4 | (3:2:2G,,2 A,, B,,2- B,,=B,, | %10
+ C,2 C,,2 C,2 | [F,,F,]2 [F,-A,-C]2 [F,A,^C]2 | %12
+ (3B,,[B,D][B,D] (3[B,D][B,D][B,D] (3=B,,[=B,D][B,D] | %13
+ (3[C,F,A,C][C,F,A,C][C,F,A,C] (3[C,F,A,][C,F,A,][C,F,A,] C,2 | %14
+ (3z [C,F,][C,F,] (3[C,F,][C,F,][C,F,] (3A,B,=B, | (3E,[G,C][G,C] (3D,[A,D][A,D] (3F,G,^G, | %16
+ (3C,[E,A,][E,A,] (3B,,[F,B,][F,B,] (3A,,[C,F,][C,F,] | [G,,G,]2 [G,,,G,,]2 [C,,C,]2 | %18
+ (3z [C,F,][C,F,] (3[C,F,][C,F,][C,F,] (3[C,F,][C,F,][C,F,] | D,4 G,,2 | G,2 D,2 F,2 | %21
+ E,2 G,,2 G,2 | [G,,F,]2 F,2 D,2 | z2 D,2 G,2 | ^G,2 A,2 ^F,2 | =G,2 G,,2 [G,=B,]2 | %26
+ (3z [G,C][G,C] (3[G,C][G,C][G,C] (3[G,C][G,C][G,C] | %27
+ (3C,[G,C][G,C] (3C,[G,C][G,C] (3B,,[G,B,][G,B,] | %28
+ (3A,,[E,A,][E,A,] (3^C,[A,E][A,E] (3D,[A,D][A,D] | %29
+ (3z [A,=C][A,C] (3F,[A,C][A,C] (3C,[^F,A,D][F,A,D] | (3C,[G,B,E][G,B,E] C,4 | %31
+ (3[G,C][F,C][B,C] (3[A,C][G,C][A,C] (3:2:2[E,C]2 C, | %32
+ (3[F,,F,][G,B,][^G,=B,] [F,-A,-C]2 [F,A,^C]2 | [F,=C]2 D,2- [D,,D,]2 | %34
+ (3:2:2G,,2 A,, B,,2- B,,=B,, | C,6 | (3F,[F,G,][F,^G,] [F,A,]2 F,2 | %37
+ (3B,,[B,D][B,D] (3[B,D][B,D][B,D] (3=B,,[=B,D][B,D] | %38
+ (3[C,F,A,C][C,F,A,C][C,F,A,C] (3[C,F,A,][C,F,A,][C,F,A,] [C,,C,]2 | [A,,,A,,]2 [A,,A,]2 [D,A,]2 | %40
+ (3[^F,,^F,][F,A,][F,A,] (3z [B,C][B,C] (3[B,C][B,C][B,C] | %41
+ (3[^F,,^F,][F,A,C][F,A,C] (3[G,,G,][G,B,C][G,B,C] (3[G,B,C][G,B,C][G,B,C] | %42
+"^stringendo" (3A,,[A,C][A,C] (3[B,,B,][B,D][B,D] (3=B,,[=B,D][B,D] | %43
+ (3[C,F,A,C][C,F,A,C][C,F,A,C] (3[C,F,A,C][C,F,A,C][C,F,A,C] (3[C,F,A,][C,F,A,][C,F,A,] | %44
+ (3[C,F,G,=B,][C,F,G,B,][C,F,G,B,] (3[C,F,G,B,][C,F,G,B,][C,F,G,B,] (3[C,F,G,B,][C,F,G,B,][C,F,G,B,] | %45
+ (3[C,F,G,_B,][C,F,G,B,]"^ad lib."[C,F,G,B,] F,2 E,2 | (3F,,[C,F,][C,F,] (3[C,F,][C,F,][C,F,] F,2 | %47
+ E,2 E,,2 (3E,F,^F, | [G,,G,]2 G,,2 C,2 | C,2 [_B,D]2 [C,C]2 | %50
+ (3[C,F,A,C][C,F,A,C][C,F,A,C] (3[C,F,A,C][C,F,A,C][C,F,A,C]"^dim." (3[C,A,][C,G,][C,F,] | %51
+ D,G,, C,2 C,,2 | F,,2-!ped! !arpeggio![F,,C,A,]!ped-up! z z2 |] %53
+V:6
+ x3 | x3 | x2 C, | C, x2 | x3 | x3 | F,,3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | F,,2 F, | x2 D, | %16
+ x3 | x3 | F,,3 | x3 | x3 | x G,,2- | x3 | G,,3 | x3 | x3 | C,3 | x3 | x3 | =C, F, C, | x3 | x3 | %32
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x G,2 | x3 | x3 | x3 | x3 | x !fermata![C,G,]2 | x3 | %47
+ x x A,, | x2 (3[E,G,]/[F,_A,]/[^F,=A,]/ | (3[G,B,]/[^G,=B,]/[A,C]/ x2 | x3 | x3 | x3 |] %53

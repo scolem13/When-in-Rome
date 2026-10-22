@@ -1,0 +1,90 @@
+% Sonatina: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=804
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonatina (1)
+C:ClementiM
+%%score 1 2
+L:1/8
+Q:1/4=156
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="upper"
+V:2 bass nm="lower"
+L:1/4
+V:1
+ c2 ec G2 G2 | c2 ec G2 g2 | fedc BcBc | dcBA G2 z2 | c2 ec G2 G2 | e2 ge c2 ec | dBcA BGA^F | %7
+ GABc de^fg | A2 a2 a2 a2 | Bcde ^fgab | c2 c'2 c'2 c'2 | dgbd' c'bag | ^fegf agfe | edcB dcBA | %14
+ G4 z4 | B2 dB G2 G2 | c2 ^dc G2 g2 | f2 =d2 ^d2 c2 | Bc=dB G2 G2 | gGgG gGgG | gGgG gGgG | %21
+ d^df=d f^d=dc | [Bg]2 z6 | C2 EC G,2 G,2 | C2 EC G,2 G2 | FEDC B,CB,C | DCB,A, G,2 z2 | %27
+ C2 G,C E2 E2 | E2 CE G2 c2 | [EG]2 [DF]2 [CE]2 [B,D]2 | CDEF GABc | D2 d2 d2 d2 | EFGA Bcde | %33
+ F2 f2 f2 f2 | Gceg fedc | agfe dcBA | GAFG EFDE | C2 z6 |] %38
+V:2
+ C, z3 | C, z3 | C, z C, z | G,, z G,/F,/E,/D,/ | C, z3 | C z2 ^F, | G, C, D, D,, | G,, z3 | %8
+ ^F,/D/A,/D/ F,/D/A,/D/ | G, z3 | A,/D/C/D/ A,/D/C/D/ | B, z3 | C z C, z | D, z D,, z | %14
+ G,,/B,,/D,/G,/ G,, z | F4 | ^D4 | B,2 C2 | G,2 z2 | F G, D G, | ^D G, C G, | B, z C z | %22
+ G, G,, G,/F,/E,/D,/ | C, z3 | C, z3 | C, z C, z | G,, z G,,/F,,/E,,/D,,/ | C,, z3 | C, z3 | %29
+ G, z G,, z | C, z3 | B,,/G,/D,/G,/ B,,/G,/D,/G,/ | C, z3 | D,/G,/F,/G,/ D,/G,/F,/G,/ | E, z3 | %35
+ F, z F, z | G, z G,, z | C,,/E,,/G,,/C,/ C,, z |] %38
+
+X:2
+T:Sonatina (2)
+C:ClementiM
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="upper"
+V:2 treble 
+L:1/4
+V:3 bass nm="lower"
+V:1
+ c4 f2 | A4 c2 | F4 G2 | [FG]/ z3/2 (3:2:6FAc fff | d2 (3FBd (3fff | c2 (3agf (3edc | %6
+ (3cEG (3cFA (3cFA | c>A G2 z2 | (3[df][df][df] (3[ce][ce][ce] (3[=Bd][Bd][Bd] | g2 (3GA=B (3cde | %10
+ (3Afd (3[Ec][Ec][Ec] (3[D=B][DB][DB] | [Fd]4 [Ec]2 | (3ccc (3_edc (3BAG | (3_GAD (3=GBD (3AcD | %14
+ (3BBB (3dcB (3AGF | (3EGC (3FAc (3[Ac][GB][FA] | [FA]2 (3[EG][Ac][Ac] (3[Ac][GB][FA] | %17
+ [FA]2 [EG]2 z2 | c4 f2 | A4 c2 | _E4 E2 | (3:2:6[D_E]FB ddd d2 | %22
+ (3[GB][GB][GB] (3[FA][FA][FA] (3[=EG][EG][EG] | c>F (3fed (3cBA | (3GBd F2 G2 | [FG]/ z4 z3/2 |] %26
+V:2
+ x3 | x3 | x3 | A z2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | (3:2:2D/ z z2 | x3 | x3 | x3 | F3 |] %26
+V:3
+ (3F,A,C (3F,A,C (3F,A,C | (3F,A,C (3F,A,C (3F,A,C | (3C,F,A, (3C,F,A, (3C,E,G, | (3F,A,C z4 | %4
+ (3F,B,D z4 | (3F,A,C (3F,A,C (3F,A,C | B,2 A,2 F,2 | (3C,F,A, (3C,E,G, (3C,E,G, | G,,4 F,2 | %9
+ (3E,G,C E,4 | F,2 G,2 G,,2 | C,,2 G,,2 C,2 | z6 | C2 B,2 _G,2 | =G,2 z4 | B,2 A,2 F,2 | %16
+ (3C,CC C2 z2 | (3C,CC (3CDC (3B,A,G, | (3F,A,C (3F,A,C (3F,A,C | (3F,A,C (3F,A,C (3F,A,C | %20
+ (3F,A,C (3F,A,C (3F,A,C | B,4 z2 | C,,4 B,,2 | (3A,,C,F, (3A,,C,F, (3A,,C,F, | %24
+ (3B,,D,G, (3C,F,A, (3C,E,G, | (3F,,A,,C, (3F,C,A,, F,,2 |] %26
+
+X:3
+T:Sonatina (3)
+C:ClementiM
+%%score 1 2
+L:1/16
+Q:1/4=80
+M:3/8
+I:linebreak $
+K:C
+V:1 treble nm="upper"
+V:2 bass nm="lower"
+L:1/8
+V:1
+ edc2c2 | g4 fe | d2f2B2 | c2G2G2 | edc2c2 | g4 fe | defefd | c2 z4 | edc2c2 | g4 fe | d2f2B2 | %11
+ c2G2G2 | edc2c2 | g4 fe | defefd | c2 z4 | GFE2E2 | AGF2F2 | DFBFBF | E2G2c2 | GFE2E2 | edc2c2 | %22
+ ^FGABcA | G2 z2 bc' | d'c'bag^f | edcBAG | ^FGABcA | G2 z2 bc' | d'c'bag^f | =f2f2d'b | f2f2d'b | %31
+ f2 z4 | d2 z4 | BGABcd | edc2c2 | g4 fe | d2f2B2 | c2G2G2 | edc2c2 | g4 fe | defefd | c2 z4 | %42
+ edc2c2 | g4 fe | d2f2B2 | c2G2G2 | edc2c2 | g4 fe | defefd | c2 z4 | GFE2E2 | AGF2F2 | DFBFBF | %53
+ E2 z2 ef | gfedcB | AGFEDC | B,CDEFD | C4 z2 | GFE2E2 | AGF2F2 | DFBFBF | E2 z2 ef | gfedcB | %63
+ AGFEDC | B,CDEFD | C2 z4 | [EG]2 z4 | [EGc]2 z4 | [eg]2 z4 | [egc']4 z2 |] %70
+V:2
+ C,E,G, | C,E,G, | C,D,F, | C,E,G, | C,E,G, | C,E,G, | G,,D,G, | C,E,G, | C,E,G, | C,E,G, | %10
+ C,D,F, | C,E,G, | C,E,G, | C,E,G, | G,,D,G, | C,E,G, | C2 z | C2 z | CCC | CCC | C2 z | [A,C]2 z | %22
+ [D,A,][D,A,][D,A,] | [G,B,][G,B,][G,B,] | [G,B,][G,B,][G,B,] | [G,C][G,C][G,C] | [G,C][G,C][G,C] | %27
+ [G,B,][G,B,][G,B,] | [G,B,][G,B,][G,B,] | [G,B,] z2 | [G,B,] z2 | G,B,D | G,B,D | G,2 z | C,E,G, | %35
+ C,E,G, | C,D,F, | C,E,G, | C,E,G, | C,E,G, | G,,D,G, | C,E,G, | C,E,G, | C,E,G, | C,D,F, | %45
+ C,E,G, | C,E,G, | C,E,G, | G,,D,G, | C,E,G, | C2 z | C2 z | CCC | CG,E, | C,D,E, | F,2 z | %56
+ G,,2 z | C,E,G, | C2 z | C2 z | CCC | CG,E, | C,D,E, | F,F,F, | G,,G,,G,, | C,E,G, | C,E,G, | %67
+ C,E,G, | C,E,G, | C,2 z |] %70

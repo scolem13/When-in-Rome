@@ -1,0 +1,42 @@
+% Meine Seele erhebt den Herren: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=742
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Meine Seele erhebt den Herren
+C:Johann Sebastian Bach
+%%score 1 2 ( 3 4 ) 5
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:Dmin
+V:1 treble nm="Flute" snm="Fl"
+V:2 treble nm="Pan Flute" snm="P Fl"
+V:3 treble nm="Pan Flute" snm="P Fl"
+V:4 treble 
+V:5 bass nm="Pan Flute" snm="P Fl"
+V:1
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | A3 c3 | A3 A3 | B3 A3 | G3 G3 | F6 | z6 | z6 | z6 | z6 | %17
+ z6 | z6 | z6 | z6 | A3 c3 | G3 G3 | G3 G3 | G3 D3 | F3 E3 | D6- | D6 |] %28
+V:2
+ z6 | z6 | z6 | z6 | z6 | z2 A A_AD | _DEG G_GC | =B,_D=D DE_D | =D2 z4 | z4 z A | AGD _D=D_G | %11
+ =GAB BA/G/F/E/ | F2 c cBF | EFD E2 F | F2 c c=BF | EG_B BA_E | DF_A AG_D | CF_E =DGF | %18
+ =E_G=G G>A_G | =G2 F EAG | _G_A=A A>=B_A | =A2 z4 | z6 | z Gc c=BF | EG_B BA_E | D_D=D _DBA | %26
+ FA=d d_dG | _GAc c=BF | E=G_B A3- | AGF FGE | D3 z3 |] %31
+V:3
+ z6 | z6 | z6 | z6 | z2 D D_DG, | _G,A,C C=B,F, | E,=G,_B, B,A,D- | DG,F, E,A,G, | F,2 z4 | %9
+ z2 G G_GC | B,D=G EDD | D2 D DCG, | C2 A, F,G,_A, | G,CB, _A,B,G, | F,2 z4 | z2 G G_GC | %16
+ =B,DF FE_B, | A,=B,C C>DB, | C2 _B, A,DC | =B,_D=D D>E_D | =D2 C =B,ED | CEG G_GC | %22
+ =B,DE FE/ z/ C/ z/ | CDE DG,D | E2 G GFC | B,A,=B, E,D_D | =D2 z4 | z DA AGD | _DEG G_GC | %29
+ =B,_D=D DE_D | =D3 z3 |] %31
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | z4 D=B, | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %31
+V:5
+ z2 D D_D/ z/ G, | _G,A,C C=B,/ z/ F, | E,=G,_B, B,A,/ z/ B, | G,F,E, A,2 A,, | D,2 z A,,2 z | %5
+ D,2 _E, =E,2 _A,, | =A,,2 _D, =D,2 _G,, | =G,,2 _A,, =A,,2 A,, | D,,2 F, F,E,G,, | %9
+ F,,C,_E, D,2 _G, | =G,,2 G, G,_G,C, | =B,,D,F, F,E,_B,, | A,,C,_E, E,_D,C, | B,,_A,,B,, C,2 C,, | %14
+ F,,2 z D,,2 z | C,,2 _D, =D,2 _G, | =G,2 =B,, C,2 E, | F,2 _G, =G,2 G,, | C,2 _D, =D,2 D,, | %19
+ G,,2 _A, =A,2 A,, | D,2 _E, =E,2 E,, | A,,2 z A,2 z | z G,C C=B,F, | E,2 C, G,2 =B,, | %24
+ C,2 E,, F,,2 _G,, | =G,,2 _A,, =A,,G,,A,, | D,,D,F, G,A,B, | C_G,D, =G,2 _A, | =A,2 _D, =D,2 _G, | %29
+ =G,2 _A, =A,2 A,, | D,,2 D D_DG, | _G,A,C C=B,F, | E,=G,_B, B,A,B, | G,F,E, A,2 A,, | D,3 z3 |] %35

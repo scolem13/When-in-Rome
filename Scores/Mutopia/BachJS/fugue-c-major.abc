@@ -1,0 +1,55 @@
+% Fugue in C major: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=254
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Fugue in C major
+C:J.S. Bach
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="up"
+V:2 treble 
+V:3 bass nm="down"
+V:4 bass 
+L:1/8
+V:1
+ z GAB cGFG EAGA FGEF | DGFG EFDE C2[ce]f [Bg]d[Ac]d | %2
+ [GB]e[Fd]e [Ec]d[GB]c [FA]d[Ec]d [DB]c[FA]B | E2F2 E2D2 C8- | [CFAG]4>[=B,F]4 [CE]GAB c4- | %5
+ [cD] D3 B4- B E^FG A4- | [AB,] B,3 G4- G G^FE F4 | [B,G]4 z4 z DE^F GDCD | %8
+ B,EDE CDB,C A,DCD B,CA,B, | G,GFG EFDE Cc_Bc ABGA | Ffef decd =B2[Aa]b G4- | %11
+ [Gea]2[Eg]a [Af]g[Ge]f [Fd]g[Df]g G4- | [G^c-] ^c3- c A2<d2 dcB cAde | [Ef-] f3- f Adf e4- e efg | %14
+ [^Caf]2[A,e]f D6 [^G,=c]d =C4- | F =C2 d c d B c A B ^G2 E2 z E ^F G | A8- A2 [^GB,]2 A2B2 | %17
+ [Ec-]2 c6- c2 [BD]2 c2d2 | [Ge-]2 e6- e2 [^d^F]2 e2^f2 | [Bg-] g7- g [ec][^dB][ec] [c'A]B[bG]A | %20
+ [a^F]B[^fA]B [bG]A[aF]G [gE]2[^dG]2 [=cA]2[BG]2 | [A^F]2[cA]2 [BG]2[AF]2 Ge^de AeGe | %22
+ [E^FGAcBA]4>[G^D]4 [GE]4 z2 [GE]2 | [GE]2[_BG]2 ^C4 [=F=D]4 z2 [FD]2 | %24
+ [FD]2[AF]2 =B,4 [E=C]4 z2 [GE]2 | [_BG]2[dB]2 E4 [AF]2de fcBc | Adcd _BcAB GcBc ABGA | %27
+ F4 z4 z FEF DECD | B,2D2 G2F2 E4 E4- | [Ec-]2 c6- c2 [BD]2 [cE]2[dF]2 | %30
+ edef g[ec][dB][ec] g^cde f4- | [fG] G3 e4- e AB=c d4- | [dE] E3 c4- c cBA B4 | [cE]16 |] %34
+V:2
+ x16 | z8 z c z6 | x16 | G8- G2 _B2 A2G2 | z8 z4 z G^FE | z ^FGA z EDE C4 z DCD | %6
+ z DE^F z CB,C A,4 z DCD | x16 | x16 | x16 | z8 z g z2 c'gfg | z12 efde | z GFE F2>D2 E8- | %13
+ z ED^C D4- D DCB, C4- | z4 dbab ^gB z2 eA=GA | x18 | z2 C2 =F2E2 D2 z2 E4- | %17
+ z2 E2 A2=G2 F2 z2 G4- | z2 G2 c2B2 A2 z2 B4- | z B^c^d eBAB G z7 | z8 z e z e z e z e | %21
+ z e z e z e z e E8- | z7 ^F z8 | z4 z _BAG z8 | z4 z AGF z8 | z4 z dc_B z c z6 | x16 | x16 | %28
+ z8 z4 z GAB | z2 E2 A2G2 F2 z6 | G4 z4 A4 z BAB | z Bcd z AGA F4 z GFG | z GAB z AGA D4 z GFG | %33
+ x16 |] %34
+V:3
+ z16 | z16 | z16 | z G,A,B, CG,F,G, E,A,G,A, F,G,E,F, | D,G,F,G, E,F,D,E, C,2B,2 A,2G,2 | %5
+ ^F,2D,2 G,2F,2 E,2G,2 F,2D,2 | G,2^F,2 E,2D,2 C,2A,,2 D,2D,,2 | %7
+ G,,D,E,^F, G,D,C,D, B,,2C,2 B,,2A,,2 | G,,2B,,2 E,2D,2 C,2A,,2 D,2C,2 | %9
+ B,,2D,2 G,2F,2 E,2G,2 C2_B,2 | A,2C2 F2E2 D4 E2D2 | C12 _B,4 | A,16- | A,8 ^G,4 A,2=G,2 | %14
+ F,6 F,2 E,6 C,2 | D,4 ^G,2A,2 B,4 A,E,D,E, | C,=F,E,F, D,E,C,D, B,,E,D,E, C,D,B,,C, | %17
+ A,,A,G,A, F,G,E,F, D,G,F,G, E,F,D,E, | C,CB,C A,B,G,A, ^F,B,A,B, G,A,F,G, | E,4 z4 E8- | %20
+ E4 ^D4 E8- | E8- E2 G,2 C2B,2 | A,2^F,2 B,4 E,F,G,A, B,G,E,G, | %23
+ ^C,A,E,C, A,,G,=F,E, D,E,F,G, A,F,D,F, | B,,G,D,B,, G,,F,E,D, =C,D,E,F, G,E,C,E, | %25
+ G,,C,G,,E,, C,,_B,,A,,G,, F,,4 z C,D,E, | F,2D,2 G,2F,2 E,2C,2 F,2E,2 | %27
+ D,2[C,A,][B,,B,] [A,,C]G,[B,,F,]G, C,8- | [C,D,G,F,G,]4 B,,4 C,[G,,B,][A,,C][B,,D] C,G,,F,,G,, | %29
+ E,,A,,G,,A,, F,,G,,E,,F,, D,,G,,F,,G,, E,,F,,D,,E,, | C,,4 z2 E,2 ^C,2A,,2 D,2=C,2 | %31
+ B,,2G,,2 C,2B,,2 A,,2D,2 B,,2G,,2 | C,2B,,2 A,,2E,,2 F,,2D,,2 G,,2G,,2 | C,16 |] %34
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %15
+ z ^F, z2 z/ E,/F,/^G,/ z2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %27
+ z/ G,/ z3 E,/A,/G,/A,/ F,/G,/E,/F,/ | z2 E,/F,/D,/E,/ z4 | x8 | x8 | x8 | x8 | x8 |] %34

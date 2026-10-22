@@ -1,0 +1,30 @@
+% Goldberg Variations - 5: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1406
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Goldberg Variations - 5
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 2
+L:1/16
+Q:1/4=130
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="upper" snm="Hpschd"
+V:2 treble nm="lower" snm="Hpschd"
+V:1
+ z DEF GFGA BAGB | AGFE DEFG AFED | GFED ^CDEF GBAG | FED^C DA,DE FDFA | dBAB GBAB DGFG | %5
+ EGDG CGB,G A,GB,G | CGB,G CFEF DFCF | B,GFE DCB,A, G,2 z2 | b2 z2 G2 z2 b4 | a2 z2 F2 z2 a4 | %10
+ gfe^d eg=dg ^cgBg | ^cgeg A2g2 f2g2 | a2E2 F2f2 g2a2 | b2F2 E2g2 a2b2 | e2G2 A,2E2 ^C2A,2 | %15
+ F,2D2 F2A2 d4 | f2 z2 D2 z2 f4 | g2dg a2da b2g2 | e2c2 A2g2 [fe]^de2- | e2^d2 z2 A,2 G,2F,2 | %20
+ E,2 z2 e2 z2 =D,4 | C,2 z2 e2 z2 A,,4 | B,,2 z2 g2f2 e2^d2 | e2 z2 E,4- E, =D,C,B,, | %24
+ C,E,D,E, G,E,D,E, CA,G,A, | F z3 GDCD BGFG | edcd fdcd gdcd | adcB cBAG Fagf | %28
+ g2B2 z2 =F,2 E,2D,2 | C,CB,C DCEC ^FCGC | ACB,A, B,2d2 D,2c2 | BGDG BGdB g4 |] %32
+V:2
+ G,2 z2 B2 z2 G,4 | F,2 z2 A2 z2 F,4 | E,2 z2 G2 z2 E,4 | D,2 z2 F2 z2 D,2C,2 | %4
+ B,,2 z2 d2 z2 B,,4 | C,2 z2 e2 z2 C,4 | D,2 z2 A2 z2 D,4 | G,,2 z2 B4- B AGF | GB^cd efed cBAG | %9
+ FAB^c dedc BAGF | E2F2 G2B2 e4- | e2d2 ^ceBe AeGe | Fed^c dADd EdFd | Ged^c dBEd FdGd | %14
+ Ad^cB ceAc EGFE | FADF A,DF,A, D,4 | z dcB AGFE DcBA | BGFE DCB,A, G,GAB | cded cBAG ABcA | %19
+ BABF B,^C^DE FGAF | GBGE GBGE GBGE | AcAE GcGE FcFE | GBGE B,BAB GBFB | GEGB eBGB E2 z2 | %24
+ E2 z2 C,2 z2 E4 | D2 A, G, A, B,,2 z2 D4 | C2B,2 A,2G,2 F,2E,2 | F,2G,A, D,4- D, CB,A, | %28
+ B,G,F,G, A,G,B,G, CG,DG, | E2G,2 z2 B,2 A,2G,2 | F,DEF GDB,G, A,CGF | G2G,2 D,2B,,2 G,,4 |] %32

@@ -1,0 +1,47 @@
+X:1
+T:Lyric Pieces
+T:Folkevise
+C:Edvard Grieg
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/4
+Q:1/4=160
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Midi_1"
+L:1/8
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Allegro con moto" z6 | z6 | ([GB]>[Ec][GB]>[Ec][FA]>[^DB] | .[EG]2) !tenuto![EG]4 |$ %4
+ ([EG]>[^CA][EG]>[CA][^DF]>[B,G] | .[G,E]2) !tenuto![G,E]4 |"_cresc." .[F,B,F]2 !tenuto![F,B,F]4 | %7
+ .[G,EG]2 !tenuto![G,EG]4 | .[A,EA]2 !tenuto![A,EA]3 [F,EF] |$ .[B,^DB]2 !tenuto![B,DB]4 | %10
+!pp! ([B,G]>[EA][B,G]>[EA][B,G]>[EA] | .[^A,F]2) !tenuto![A,EF]4 | %12
+ ([!courtesy!=A,F]>[^DG][A,F]>[DG][A,F]>[DG] | .[G,E]2) !tenuto![G,E]4 |:$!mf! (d>e dGBd) | %15
+ (de)(ed) d2 | (3(def (3dGB (3def) | (3(dfe (3def d2) |$ ([DB]>[G^c][DB]>[Gc][DB]>[Gc] | %19
+ .[^CA]2) !tenuto![CGA]4 | ([!courtesy!=CA]>[FB][CA]>[FB][CA]>[FB] |!f! .[B,G]2) !tenuto![B,G]4 |$ %22
+ .B2"_dim. poco a poco" !tenuto!B3 G | .B2 !tenuto!B4 | B>GB>GB>G | .B2 !tenuto!B4 | z6 |$ %27
+"_rit." .[A,^DB]2 !tenuto![A,DB]4 | z6 |!p! ([GB]>[Ec][GB]>[Ec][FA]>[^DB] | .[EG]2) !tenuto![EG]4 | %31
+ ([EG]>[^CA][EG]>[CA][^DF]>[B,G] |$ .[G,E]2) !tenuto![G,E]4 | .[F,B,F]2"_cresc." !tenuto![F,B,F]4 | %34
+ .[G,EG]2 !tenuto![G,EG]4 | .[A,EA]2 [A,EA]3 [F,EF] |!f! .[B,^DB]2 !tenuto![B,DB]4 |$ %37
+!p! ([B,G]>[EA][B,G]>[EA][B,G]>[EA] | .[^A,F]2) !tenuto![A,EF]4 | %39
+ ([!courtesy!=A,F]>[^DG][A,F]>[DG][A,F]>[DG] |!pp! .[G,E]2) !tenuto![G,E]4 :| %41
+V:2
+""!p! B,,3 | B,,3 |"" B,,3 |"m" B,,3 |$"" B,,3 |"m" B,,3 |"m" B,,3 |"m" B,,3 |"m""m" B,,3 |$ %9
+"" B,,3 |"" (!>!C,2 C,,) |"""" (!>!F,,2 F,,,) |"" (!>!B,,2 B,,,) |"m" (!>!E,,2 E,,,) |:$"" [B,D]3 | %15
+"" [A,D]2"" [D,D] |"""^cresc." [B,D]3 |"" [A,D]2"" [D,D] |$"m""^sempre cresc." (!>!E,2 E,,) | %19
+"""" (!>!A,,2 A,,,) |"" (!>!D,2 D,,) |"" (!>!G,,2 G,,,) |$"" (!>!G,,2 G,,,) |"" (!>!G,,2 G,,,) | %24
+"" (!>!G,,2 G,,,) |"" (!>!G,,2 G,,,) | (!>!G,,2 G,,,) |$"m" (!>!B,,2 B,,,) | (!>!B,,2 B,,,) | %29
+"m""""^a tempo" B,,3 |"m" B,,3 |"" B,,3 |$"m" B,,3 |"m" B,,3 |"m" B,,3 |"m""m" B,,3 |"" B,,3 |$ %37
+"" (!>!C,2 C,,) |"""" (F,,2 F,,,) |"""^dimin.   e    rit." (!>!B,,2 B,,,) |"m" (!>!E,,2 E,,,) :| %41
+V:3
+ (E,,2 B,,,) | (E,,2 B,,,) | (E,,2 B,,,) | (E,,2 B,,,) |$ (E,,2 B,,,) | (E,,2 B,,,) | (D,,2 B,,,) | %7
+ (^C,,2 B,,,) | (!courtesy!=C,,2 B,,,) |$ (B,,2 B,,,) | x3 | x3 | x3 | x3 |:$ x3 | x3 | x3 | x3 |$ %18
+ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | (E,,2 B,,,) | (E,,2 B,,,) | %31
+ (E,,2 B,,,) |$ (E,,2 B,,,) | (D,,2 B,,,) | (^C,,2 B,,,) | (!courtesy!=C,,2 B,,,) | (B,,2 B,,,) |$ %37
+ x3 | x3 | x3 | x3 :| %41
+V:4
+ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |:$ G3 | [Gc] [Gc] [Fc] | %16
+ G3 | [Gc] [Gc] [Fc] |$ x3 | x3 | x3 | x3 |$ [CE] [CE]2 | [B,D] [B,D]2 | [CE] [CE] [CE] | %25
+ [B,D] [B,D]2 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 :| %41

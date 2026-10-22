@@ -1,0 +1,72 @@
+X:1
+T:String Quartet in G minor
+T:Grazioso
+C:Ignaz Pleyel
+Z:YDME2015012 (v. 1.0)
+%%score [ 1 | 2 | 3 | 4 ]
+L:1/8
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Violino primo" snm="Vln. pr."
+V:2 treble nm="Violino secondo" snm="Vln. sec."
+V:3 alto nm="Viola" snm="Vla."
+V:4 bass nm="Violoncelle" snm="Vc."
+V:1
+"^Grazioso"!p!"^con sordini" d2 (cBcd) |{f} e2 (e3 d) | (dcBAdc) |{c2} B4 A2 |$ %4
+!f! G3 ^F/G/ A/G/F/G/ | e4 ^F2 |!p! G (.d2 .c2 B) | (B3 c .A2) | B3 (ABd) |$ (cA).F(ABc) | %10
+ d3 (cdf) | (ec).A(cde) |"^cresc." f6- | f6- |$ f6- | f3 (fga) | %16
+!f! (b/a/b/a/ b/)c'/d'/c'/ b/a/g/f/ | (^f2 .g) z/ g/{=f/} ed/c/ |$ .fz/b/ d2 Tc2 | B4 z2 :: %20
+!p! f2"^dolce" (edgf) | (fe) e2 z2 |{f} e2 dcfe |$ (ed) d2 z2 | (f3 g/f/) ed | (dc) (cde=e) | %26
+ f3 g/f/ (b/f/e/d/) |$ (dc) .c(cde) |!f! f6 | ^f6 | g4{agf} g>a | (b4 ^c2) |$ (dD)d.d{c/} BA/G/ | %33
+ (^FD)d.d{c/} BA/G/ | (^FD)d.d{c/} BA/G/ | ^F{^c/}d D2 z2 |$!p! d2 (cBcd) |{f} e2 (e3 d) | %38
+ (dcBA dc) |{c2} TB4 A2 |$!f! G3 ^F/G/ A/G/F/G/ | _e4 ^F2 |!p! G d2 c2 B | B3{d/} c .A2 | %44
+ G3 (^FGB) |$ (A^F).D(FGA) | B3 (ABd) | (cA).^F(ABc) | d6- | d6- |$ d6- | d3 d=e^f | %52
+ (g/^f/g/f/) (g/a/b/a/) (g/=f/_e/d/) | (d2 .e) z/ e/{d} cB/A/ |$ (d>g) B2 TA2 | G2 z2 z2 :: %56
+[K:G]"^Maggiore""_sempre"!p! B4{d/} cB/c/ | (ed) d3 (c/B/) | (Aagfed) |${c} TB4 A2 |{A} G2 G2 G2 | %61
+ (FGAB^cd) | (F3 G E>)F | D4 z2 ::${e} d2 d2 d2 | (d2 c2){BA^G} A>B |{d} c2 c2 c2 | %67
+ (c2 B2)!pp!{G} g>f | (f2 e2){E} (e>d) |$ (d2 .c2) (c>B) | A2 A2 (A3/2B/4c/4) | d(d'c'bag) | %72
+!f!{f/} ed/c/ B2 TA2 | G4 z2"^Grazioso D.C. ma senza replica" :| %74
+V:2
+"^con sordini" z!p! (DCB,CD) | z EEE(ED) | z (CB,A,DC) | (C2 B,2 A,2) |$ z!f! DDDDD | %5
+ z [CE][CE][CE][CE][CE] |!p! D2 ^F2 G2 | (G3 A .^F2) | z6 |$ z6 | B3 (ABd) | (cA).F(ABc) | %12
+"^cresc." (d3 cdf) | (ec).A(cde) |$ f F2 F2 F- | F F2 F2 F |!f! F2 z2 B2 | (B4 A2) |$ (B4 A2) | %19
+ B4 z2 :: z!p! (FEDGF) | z (EGFED) | z (EDCFE) |$ z (DFGFE) | z (DFDFD) | z (CFCFC) | z (DFDFD) |$ %27
+ z (CFCFC) | z!f! FFFFF | z [A,^F][A,F][A,F][A,F][A,F] | z [G,G][G,G][G,G][G,G][G,G] | z GGGGG |$ %32
+ (^FD)d.d{c/} BA/G/ | (^FD)d.d{c/} BA/G/ | (^FD)d.d{c/} BA/G/ | ^F{^c/}d D2 z2 |$ z!p! (DCB,CD) | %37
+ z EEE(ED) | z (CB,A,DC) | (C2 B,2 A,2) |$ z!f! DDDDD | z [CE][CE][CE][CE][CE] |!p! D2 ^F2 G2 | %43
+ (G4 ^F2) | z6 |$ z6 | G3 (^FGB) | (A^F).D(FGA) | B3 (ABd) | (cA).^F(ABc) |$ d D2 D2 D | %51
+ D D2 D2 D- | D2 z2 G2 | (G2 G) z ^F2 |$ G2 G2 ^F2 | G2 z2 z2 ::[K:G] z2"_sempre"!p! (G2 F2) | %57
+ z2 G2 G2 | A2 c2 D2 |$ z2 (D2 C2) | (B,2 _B,2 A,2) | A,2 z2 z2 | D4 ^C2 | D4 z2 ::$ z2 =F2 F2 | %65
+ (E2 .E) z z2 | z2 E2 _E2 | (D2 .D) z!pp! G2 | (G2 .G) z z2 |$ (A2 .A) z z2 | F2 F2 F2 | G4!f! G2 | %72
+ A2 G2 F2 | G4 z2 :| %74
+V:3
+"^con sordini" z!p! (B,A,G,A,B,) | z CCC(CB,) | z (A,G,^F,B,A,) | (A,2 G,2 ^F,2) |$ %4
+ z!f! G,G,G,G,G, | z ^F,F,F,A,A, |!p! G,2 D2 D2 | (D4 .D2) | z6 |$ z6 | z6 | z6 | z6 | z6 |$ %14
+ B,3"^cresc." (A,B,D) | (CA,).F,(A,B,C) |!f! D2 z2 D2 | (E4 F2) |$ F>G F2 E2 | D4 z2 :: %20
+ z!p! (DCB,ED) | z (CEDCB,) | z (CB,A,DC) |$ z (B,DEDC) | (B,DB,DB,D) | (A,CA,CA,C) | %26
+ (B,DB,DB,D) |$ (A,CA,CA,C) | z!f! B,B,B,B,B, | z [CD][CD][CD][CD][CD] | z B,B,B,B,B, | z ^CCCGG |$ %32
+ (AD)d.d{c/} BA/G/ | (^FD)d.d{c/} BA/G/ | (^FD)d.d{c/} BA/G/ | ^F{^c/}d D2 z2 |$ %36
+ z!p! (B,A,G,A,B,) | z CCC(CB,) | z (A,G,^F,B,A,) | (A,2 G,2 ^F,2) |$ z!f! G,G,G,G,G, | %41
+ z ^F,F,F,F,A, |!p! G,2 D2 D2 | (D4 D2) | z6 |$ z6 | z6 | z6 | z6 | z6 |$ G,3 (^F,G,B,) | %51
+ (A,^F,).D,(F,G,A,) | B,2 z2 B,2 | (C2 C) z D2 |$ (D>E) D2 C2 | B,2 z2 z2 :: %56
+[K:G] z2"_sempre"!p! D2 D2 | z2 D2 D2 | D4 z2 |$ z2 z2 F,2 | E,4 E,2 | D,2 z2 z2 | A,4 G,2 | %63
+ ^F,4 z2 ::$ z2 (B,2 D2) | (B2 .A) z z2 | z2 (A,2 C2) | (A2 .G) z!pp! B,2 | (C2 .C) z z2 |$ %69
+ (E2 .E) z z2 | D2 D2 D2 | D4!f! D2 | E2 D2 C2 | B,4 z2 :| %74
+V:4
+"m"!p! G,4 z2 |"m" C,4 z2 |"" D,4"" z2 |"m" (G,,A,,"m"B,,C,""D,C,) |$"m" z!f! B,,B,,B,,B,,B,, | %5
+"m" z A,,A,,A,,A,,A,, |"m"!p! B,,2"" A,,2"m""m" G,,2 |"" D,2 D,,2"" D,2 |"" z6 |$"" z6 |"" z6 | %11
+"" z6 |"" B,,3"^cresc." (A,,B,,D,) |"" (C,A,,).F,,(A,,B,,C,) |$"" D,3 (C,D,F,) |"" E,6 | %16
+""!f! D,2 z2 D,2 |"""" E,4"" E,2 |$"" D,>""E,"" F,2"" F,,2 |"" B,,2 F,2 B,2 ::"C{"!p! B,,4 z2 | %21
+"m""m" C,4 z2 |"" F,,4 z2 |$"""" B,,4 z2 |"" (D,6 |"""" E,6 |"" D,6 |$"""" E,6) | %28
+""!f! D,D,D,D,D,D, |"m" z D,D,D,D,D, |"" z E,E,E,E,E, |"CGer6" z E,E,E,""E,E, |$ %32
+"" (D,D,)D.D"m"{C/} B,A,/G,/ |"" (^F,D,)D.D"m"{C/} B,A,/G,/ |"" (^F,D,)D.D"m"{C/} B,A,/G,/ | %35
+"" ^F,D"" D,2 z2 |$"m"!p! G,4 z2 |"m" C,4 z2 |"" D,4"" z2 |"m" (G,,A,,"m"B,,C,""D,C,) |$ %40
+"m" z!f! B,,B,,B,,B,,B,, |"m" z A,,A,,A,,A,,A,, |"m"!p! B,,2"" A,,2"m""m" G,,2 |"" D,2 D,,2"" D,2 | %44
+"m" z6 |$"" z6 |"m" z6 |"" z6 |"m" G,3 (^F,G,B,) |"" (A,^F,).D,(F,G,A,) |$"m" B,3 (A,B,D) |"" C6 | %52
+"m" B,2 z2 B,2 |"m" (C2"m" C) z"" C,2 |$"m" (B,,>"m"C,)"" D,2"" D,,2 |"m" G,,2 D,2 G,2 :: %56
+[K:G]"" z2"_sempre"!p! (G,2"" A,2) | z2"" (B,2"" G,2) |"" F,2"" D,2"" F,2 |$"" z2 G,2"m" ^D,2 | %60
+"m" E,2"m" =D,2"" ^C,2 |"" D,2 z2 z2 |"" z2 A,2"" A,,2 |"" D,2 A,,2 D,,2 ::$"C{" z2"m" (D2 B,2) | %65
+"" (^G,2"m" .A,2) z2 | z2 (C2"m" A,2) |"" (F,2"" .=G,2)""!pp! B,2 |"" (C2"" C) z z2 |$ %69
+"m" (C2"m" C) z z2 |"" C2 C2 C2 |"" B,4!f! B,2 |"m" C2"" D2"" D,2 |"" G,2 D,2 G,,2 :| %74

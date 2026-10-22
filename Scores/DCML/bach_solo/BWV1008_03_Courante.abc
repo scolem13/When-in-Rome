@@ -1,0 +1,37 @@
+X:1
+T:Suite No. 2 in D minor
+T:Courante
+C:Johann Sebastian Bach
+%%score ( 1 2 3 )
+L:1/4
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:F
+V:1 bass nm="Piano" snm="Pno."
+L:1/16
+V:2 bass 
+V:3 bass 
+V:1
+"m" D | DA,F,A, D,F,G,A,"m" B,A,B,G, |"" ^C,4- C,D,E,F, G,F,G,E, | %3
+"m" F,D,"m"E,=C,"m" (B,,A,,B,,)A,"m" G,F,E,D, |$[K:F]"" ^C,E,(A,,=B,, C,D,E,F, G,)_B,A,E, | %5
+"m" F,A,(D,E, F,G,A,B, C)B,DC |"" C4- CB,A,G, (F,_E,)(D,E,) | %7
+"" D,(B,,A,,B,,) D,B,,=E,B,, F,B,,G,B,, |$"" (E,,G,,C,)D, E,F,G,A, B,A,B,G, | %9
+"" A,(F,E,F,) A,F,B,F, CF,DF, |"" (^C,E,A,)=B, ^CDEF (GF)(GE) |$"m" (D,A,F)E D=CDC"m" =B,A,B,A, | %12
+"" (^G,A,=B,)E,"m" F,E,F,D,"m" E,C,"m"D,=B,, |"m" C,(A,=B,C B,A,^G,A,) D,A,E,A, |$ %14
+"" F,(A,=B,C B,A,^G,A,) F,A,E,A, |"m" ^D,(A,=B,C B,A,^G,A,)"" E,A,""E,G, | %16
+"" A,E,^C,E, A,,C,E,^G, A,3 ::"m" E |$ E^CA,C"m" E,F,=G,A, (_B,G,)(CG,) |"m" D4- DA,DE FDA,=C | %20
+"" =B,F,D,F, G,,(D,F,G,) B,F,DF, |"" E,G,(C,D, E,F,G,A,"" _B,)DCG, |$ %22
+"" A,(CB,A, G,F,_E,D,)"" E,CF,E, |"" D,4- D,=E,F,G, A,B,CD | %24
+"m" E,(B,,A,,G,,)"" A,,F,G,,F,,"" (C,,G,,""F,)E, |"" F,(A,B,A, G,F,E,F,) G,E,F,D, |$ %26
+"m" ^C,G,=B,,G, A,,G,B,,G, C,G,A,,G, |"m" F,D,F,A, DA,DE FA,F,D, |"m" G,,(D,G,A,) B,GA,F G,EF,D | %29
+"" (^CDE)C A,CB,C A,CG,C |$"m" F,(DEF ED^CD) G,DA,D |"" B,(DEF ED^CD) B,DA,D | %32
+"m" ^G,(DEF ED^CD)"" A,D""A,C |$"m" DA,F,A, D,F,A,,D, D,,3 :| %34
+V:2
+ x/4 | x3 | A, x2 | x3 |$[K:F] x3 | x3 | F, x2 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | %16
+ x11/4 :: x/4 |$ x3 | F, x2 | x3 | x3 |$ x3 | B,, x2 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | %32
+ x3 |$ x11/4 :| %34
+V:3
+ x/4 | x3 | G, x2 | x3 |$[K:F] x3 | x3 | A,, x2 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | %16
+ x11/4 :: x/4 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 |$ %33
+ x11/4 :| %34

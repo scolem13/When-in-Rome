@@ -1,0 +1,98 @@
+X:1
+T:Songs of Love and Spring
+T:The Sapphire
+C:Liza Lehmann
+Z:Emanuel Geibel
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 7 ) | ( 4 6 ) } { ( 8 10 ) | ( 9 11 ) }
+L:1/8
+M:none
+I:linebreak $
+K:C
+V:1 treble nm="Contralto"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:7 treble 
+L:1/4
+V:4 bass 
+V:6 bass 
+V:8 treble stafflines=5 nm="Piano" snm="Pno."
+V:10 treble stafflines=5 
+L:1/4
+V:9 bass stafflines=5 
+L:1/4
+V:11 bass stafflines=5 
+L:1/4
+V:1
+ z8 ||[K:Ab][Q:1/4=104]"^Moderato un poco mosso" z8 |"^." z8 | %3
+w: |||
+"^Quite softly throughout" c3/2 d/ B c A F z F | G3/2 A/ F D !breath!E4 | c3/2 d/ B c A F z F | %6
+w: Di- a- monds for rich- es, By|dan- ger fol- lowed fast,|Em- e- ralds for ar- dour By|
+"^." E3/2 C/ D D C4- | C8- |"^." !breath!!fermata!C8 | c3/2 d/ B c A F z2 | G3/2 A/ F D E4 | %11
+w: jea- lous doubt o’er- cast,|_||Ru- by, fic- kle pas- sion,|Pearl, too cold- ly white,|
+ c3/2 d/ B c A F z2 |"^." E3/2 C/ D3/2 D/ C4- | C8- |"^." !fermata!C6"^poco cresc." z C | %15
+w: Am- e- thyst for sor- row,|O- pal, bane- ful light;|_|* But|
+ !>!D3/2 D/ F A B B z"^poco rall." c | d3/2 F/ F/ c3/2 !breath!!fermata!B3"^a tempo" E | %17
+w: one of all the jew- els Speaks|love for ev- er true, And|
+!pp! c3/2 d/ B c A F z E |"^." !>!D B,3 A,4- | A,8- |"^." !fermata!A,8 || %21
+w: on my ring it spar- kles, The|sap- phire blue!|_||
+[K:D][Q:1/4=72]"^Lento" z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z2 |] %29
+w: ||||||||
+V:2
+ x8 ||[K:Ab] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x5/2 F3/2 E3 x | x8 | x8 | x8 | x8 ||[K:D] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x6 |] %29
+V:3
+[I:staff +1] !fermata![=D,_A,_C]8 ||[K:Ab]!p![I:staff -1] [ac']>[ad'][fb][gc'] [ea] [cf]2 [Be] | %2
+ [Ad] [FB]3 [CEAc]4 |!p! [C_EAc]>[Ad][FB][Gc] [EA] [CF]2 [CF] |"^." [DG]>[EA][CF][A,D] [B,E]2 z2 | %5
+ c>[Ad][FB][Gc] [EA] [CF]2 [CF] |"^." [B,E]>[G,C][A,D][F,G,-B,] [=E,G,C]2 z2 | c'>d'c'b c'3 b | %8
+"^." c'>d'c'd' !fermata!c'4 |!p! [C_EAc]>[Ad][FB][Gc] [EA] [CF]3 | %10
+"^." [DG]>[EA][CF][A,D] [B,E]2 z2 | c>[Ad][FB][Gc] [EA] [CF]3 | %12
+"^." [B,E]>[G,C][A,D]>[F,G,B,] [=E,G,C]2 z2 | c'>d'c'b c'3 b | %14
+"^." c'>d'c'd' !fermata!c'3"_poco cresc." c | d>ecd [FB] E2 c | %16
+"^.""^poco rall." defa"^colla voce" !fermata!b3"^a tempo" =b | %17
+!pp! !arpeggio![ceac']>[ad'][fb][gc'] [ea][cf] z [Be] |"^." [Ad] [FB]3 [CEAc]3!pp! [e'a'] | %19
+"^leggiero" [c'f']>[d'g'][be'][e'a'] [c'f']>[d'g'][be'][be'] | %20
+"^." [ad'][fb] z [ceac'] !fermata![Acea]4 ||[K:D] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z2 |] %29
+V:4
+ !fermata![_F,,,_F,,]8 ||[K:Ab]"^L.H."({/[E,,,E,,]}[I:staff -1] e>)fde c A2 G | %2
+ F D2[I:staff +1] [A,,E,]- ([A,,E,]2 A,,,2) | [A,,E,A,]>"^L.H."[I:staff -1]FDE C A,2 A, | %4
+"^." B,>CA,F, G,2[I:staff +1] ([A,,,E,,]2 |"^L.H."[I:staff -1] [EA]>)FDE C A,2 A, | %6
+"^." G,>[I:staff +1]E,F,G,,- ([C,,G,,]2[K:treble] !>!c2-) | c4- c>dcG |"^." c>=BcB !fermata!c4 | %9
+[K:bass] [A,,_E,A,]>"^L.H."[I:staff -1]FDE C A,3 |"^." B,>CA,F, G,2[I:staff +1] ([A,,,E,,]2 | %11
+"^L.H."[I:staff -1] [EA]>)FDE C A,3 |"^." G,>[I:staff +1]E,F,>G,,- ([C,,G,,]2[K:treble] !>!c2-) | %13
+ c4- c>dcG |"^." c>=BcB !fermata!c3 z |[K:bass]({/B,,,} [B,,F,A,]4) A, G,2 z | %16
+"^." [B,,F,A,]2 [A,B,D]2[K:treble] A2 G2 | %17
+ !arpeggio![A,EA]>"^L.H."[I:staff -1]fde cA[I:staff +1] z[I:staff -1] G | %18
+"^." F D2[I:staff +1][K:bass] [A,,E,]- [A,,E,]2 (E,,-"^L.H."[I:staff -1] c') | %19
+[I:staff +1] [A,,,E,,]8- |"^." x2 [A,E]2 !>!!fermata![E,C]4 ||[K:D] z8 | z8 | z8 | z8 | z8 | z8 | %27
+ z8 | z4 z2 |] %29
+V:5
+ x8 ||[K:Ab] x8 | x8 | x8 | x8 | x8 | x8 | [=eg]3 [df] [eg]3 [df] | [=eg]>[fa][eg][fa] [eg]4 | x8 | %10
+ x8 | x8 | x8 | [=eg]3 [df] [eg]3 [df] | [=eg]>[fa][eg][fa] [eg]3 x | [DFA]4 D3 z | %16
+ [DFA]2 [FBd]2 d4 | x8 | x8 | a>bgc' a>bgg | fd x6 ||[K:D] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x6 |] %29
+V:6
+ x8 ||[K:Ab] x8 | x8 | x8 | x8 | x8 | x6[K:treble] x2 | x8 | x8 |[K:bass] x8 | x8 | x8 | %12
+ x6[K:treble] x2 | x8 | x8 |[K:bass] x4 E,3 x | x4[K:treble]({/[E,,E,]} E4) | x8 | %18
+ x3[K:bass] x3 A,,,2- | x8 | [A,,,E,,]4({/[A,,,E,,]-} !fermata![A,,,E,,]4) ||[K:D] z8 | x8 | x8 | %24
+ x8 | x8 | x8 | x8 | x6 |] %29
+V:7
+ x4 ||[K:Ab] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2 (f e) | %17
+ x4 | x4 | x4 | x4 ||[K:D] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x3 |] %29
+V:8
+ z8 ||[K:Ab][M:4/4] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %17
+ z8 | z8 | z8 | z8 ||[K:D]!mf! F3 G E2 F2 | G6 FE |!<(! A3 B ^G2 A2!<)! | %24
+ !arpeggio!!fermata![^Gd]8 | ^f3 g e2 f2 |!<(! g4- (3g2 f2 e2 | a3 b ^g2 a2!<)! | %28
+ !arpeggio!!^!!fermata![d=f^ge']6 |] %29
+V:9
+ z4 ||[K:Ab][M:4/4] z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %17
+ z4 | z4 | z4 | z4 ||[K:D]{/[A,,,A,,]-} A,,4 | B,,2 A,,2 | [A,,F,]4 | %24
+ !arpeggio!!fermata![A,,=F,B,]4 | [A,D^F]4 | [B,D]2 C2 | [A,DF]4 | !arpeggio!^G,3 |] %29
+V:10
+ x4 ||[K:Ab][M:4/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ x4 | x4 | x4 | x4 ||[K:D] [F,D]4 | [G,D]2 C2 | [A,D]4 | !arpeggio![D=F]4 | [Ad]4 | [Gd]2 [GA]2 | %27
+ [Adf]4 | !arpeggio![D=FB]3 |] %29
+V:11
+ x4 ||[K:Ab][M:4/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ x4 | x4 | x4 | x4 ||[K:D] A,,,4- | A,,,4- | A,,,4- | A,,,4 |({/[A,,,A,,]-} [A,,,A,,]4-) | %26
+ [A,,,A,,A,]4 |{/[A,,,A,,]-} (([A,,,A,,]4 | !fermata![A,,,A,,]3)) |] %29

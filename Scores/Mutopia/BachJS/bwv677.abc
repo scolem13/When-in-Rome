@@ -1,0 +1,43 @@
+% Allein Gott in der Höh' sei Ehr': Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1372
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Allein Gott in der Höh' sei Ehr'
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="right:right" snm="P Org"
+V:2 treble 
+V:3 bass nm="left:left" snm="P Org"
+V:4 bass 
+L:1/8
+V:1
+ z6 A z c z A z F z d z | e z B z c z [GE] z [AF] z [BD]c d4- | %2
+ [dA]c[dE]e [dF]c[BC]A [GE]2[AF][BG] cdef | [AB] B2B e4- e cBA B[cE][dF][eG] | %4
+ [fA]2[gB]2 a4- a gab agfe | d7 c dcde dcBA- | [ABdef]4 edcB c4 z4 | z14 G2- | %8
+ G2 F3 EFG A2[G^D]E [FD]CB2 | E2AG A4- A GAB AGFE | F2B^A B6 AG Ac=c^d | %11
+ [F^cG]2cB =A4 [BG]2[AF]2 [cE]2c2- | [c^D]2B3 ABc =d2[cG]A [BG]F[eE]=D | %13
+ [AC]2dc d4- d cde dc[BD][AC] | [BD]2ef edcB c[e=G][dF][cE] [dF][e^G][fA][^gB] | %15
+ [ac]AGF ED z3 E^DC DEFG | AGFE e2 c4 [B=D]2 z A[BG]2 | [dA]2[cE]2 [B=F]2[eC]2 A2[dE][c^F] d4- | %18
+ d[Q:1/4=72][Q:1/4=68][Q:1/4=50] cBA Bcde ^f2[dG]A [BG]F[gE]D |[Q:1/4=30] [aC]4 z12 |] %20
+V:2
+ x16 | z12 B, z G z | z12 A4- | z GA z AGFE F4- F z3 | z4 c2f2 d4 B4 | z AGF GA B6 A3 z | %6
+ z4 G4 z AE z4 z | z14 E2 | z2 =DC D4- D C z6 | x16 | z14 F2- | z2 E3 ^DEF z3 B z2 A2 | %12
+ z2 GF G2=G3 F z6 | z2 A3 cBA ^G2 E4 z2 | z d B,4 E3 z7 | x16 | z6 E2 F2 z4 z c | z8 z D z2 ED z2 | %18
+ z8 z F z6 | x16 |] %20
+V:3
+ z16 | z16 | z6 A, z C z A, z F, z D z | E z B, z C z G, z A,2B,C D4- | DCDE DCB,A, B,2CD E2E,2 | %5
+ F,2D,2 B,,2G,2 A,2E,2 F,2C,2 | D,2B,,2 E,2E,,2 A,,4 A,2F,G, | %7
+ [CA,]2 A,2 G,4 D2[G,C]2 [G,B,]2E,D, | C,4 B,,4 A,,4 B,,4 | C,^D,2<E,2 D,C,D, E,4 z2 E,2- | %10
+ E,2^D,3 C,D,=F, ^F,2E,2 D,2G,2 | C,4 F,4- F, =F,^F,G, A,B,CA, | F,2B,2 E,2A,2 D,2^D,2 E,4- | %13
+ E,E,F,=G, F,E,=D,C, B,,2^G,2 A,4- | A,4 G,4 A,4 z4 | z6 [A,,C]B, [C,A,]2A,,2 F,,2^D,2 | %16
+ E,2B,,2 C,A,,B,,C, =D,E,F,A, [G,B,]2E,G, | F,G,A,A,, G,A,,=G,A,, F,2B,2 ^G,2[E,C]B, | %18
+[Q:1/4=72][Q:1/4=68][Q:1/4=50] A,8- A, z B,,2 E,4 |[Q:1/4=30] A,4 z12 |] %20
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | z4 z3/2 C/ z/ E,/C- | z B,3/2 A,/B,/C/ z/ F,/ z/ A,/ z/ F,/ z | %8
+ A, z6 B,/A,/ | G,2 F,2 z E,, z2 | x8 | x8 | x8 | x8 | x8 | x8 | z4 z2 z/ F,/ z | x8 | %18
+ z E, F,C, D, z3 | x8 |] %20

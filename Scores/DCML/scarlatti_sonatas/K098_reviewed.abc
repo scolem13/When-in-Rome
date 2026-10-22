@@ -1,0 +1,81 @@
+X:1
+T:Sonata
+C:Domenico Scarlatti
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/16
+Q:1/4=120
+M:3/8
+I:linebreak $
+K:G
+V:1 treble nm="Clavicémbalo" snm="Clavm."
+V:3 treble 
+L:1/8
+V:2 treble 
+V:4 treble 
+L:1/8
+V:1
+"^Allegrisimo" e6 | g^deBc^A | ^A2 B4 | g^deBc^A | ^A2 B4 |$ bfg^deB | cABGAF | GEBEF^D | %8
+({^D/4} E6) | bfg^deB |$ cABGAF | GEBEF^D |({^D/4} E6) | z GFGAG | cGFGAG |$ BGFGAG | ^dGFGAG | %17
+ eGFGAG | cGFGAG | BGFGAG |$ ^dGFGAG | eGFGAG | fGFGAG | gfe=dcB | cBAGFE |$ ^D2TE3D/E/ | %26
+({E/4} F6) | z FGABA | AGABcB | BABcdc- |$ c2TBAG2 | z BABcB | eBABcB | gBABcB | aBABcB |$ bBABcB | %36
+ eBABcB | gBABcB | aBABcB | bagfed |$ edcBAG | FEDFGe | dcBAGF | x2 g4- | g2a2=c2 |$ (B2b2g2) | %46
+({f/4} e)d/c/ B2A2 | x2 g4- | g2a2=c2 | (B2b2g2) |({f/4} e)d/c/ B2A2 |$ BAGFED | %52
+ (ED/C/)[I:staff +1] [G,B,]2[F,A,]2 | G,6 ::[I:staff -1] d6 | aef^cdA | d6 | aef^cdA |$ d6 | %59
+ gdeB^c^A | T^c6 | bef^cdB | T^c6 |$ bef^cdB | T^g6 | ae=fcdB | T^g6 | ae=fcdB |$ T^a6 | bfgde^c | %70
+ T^a6 | bfgef^d | bgafge |$ c'gafge | ^d2Te3d/e/ | fBcABF | BGAFGE | cGAFGE |$ ^D2TE3D/E/ | %79
+({E/4} TF6) | z GFGAG | cGFGAG | BGFGAG |$ ^dGFGAG | eGFGAG | eGFGAG | eGFGAG | eGFGAG |$ eGFGAG | %89
+ e=dcBAG | F/G/A GFE^D | eGFGAG | cGFGAG |$ BGFGAG | ^dGFGAG | eGFGAG | eGFGAG | eGFGAG |$ eGFGAG | %99
+ eGFGAG | e=dcBAG | A/G/F [EG]2[^DF]2 | x2 g4- |$ g2 f4- | f2e2E2 | A/G/F [EG]2[^DF]2 | x2 g4- | %107
+ g2 f4- |$ f2g2e2 | ag/f/ g2f2 | e=dcBAG | AG/F/ [EG]2[^DF]2 | TE6 :| %113
+V:2
+"m" [EG]2[EG]2[EG]2 | [EG]2[EG]2E2 |"" [^DF]2""[DF]2[DF]2 |"m" [EG]2[EG]2E2 | %4
+"" [^DF]2""[DF]2[DF]2 |$"m" [EG]2[EG]2[EG]2 |"m" [A,E]2[A,E]2[A,E]2 |[K:bass]"" B,4"" B,,2 | %8
+"m" [C,E,]6 |"m" [E,B,E]6 |$"m" [A,,E,A,]6 |"" [B,,E,B,]4"" [B,,E,B,]2 |"m" [E,,E,]6 | %13
+"m" E,[I:staff -1]E^DEFE |"m"[I:staff +1] A,[I:staff -1]E^DEFE |$ %15
+"m"[I:staff +1] G,[I:staff -1]E^DEFE |"m"[I:staff +1] F,[I:staff -1]E^DEFE | %17
+"m"[I:staff +1] E,[I:staff -1]E^DEFE |"m"[I:staff +1] A,[I:staff -1]E^DEFE | %19
+"m"[I:staff +1] G,[I:staff -1]E^DEFE |$"m"[I:staff +1] F,[I:staff -1]E^DEFE | %21
+"m"[I:staff +1] E,[I:staff -1]E^DEFE |"m"[I:staff +1] ^D,[I:staff -1]E^DEFE | %23
+"m"[I:staff +1] E,2F,2G,2 |"m" A,2B,2C2 |$"" B,2"m"G,2"m"E,2 |"" B,,6 |"" B,[I:staff -1]^DEFGF | %28
+"m"[I:staff +1] E,[I:staff -1]EFGAG |""[I:staff +1] D,[I:staff -1]FGABA |$ %30
+"""""C|PAC"[I:staff +1] G,,6 |"" G,[I:staff -1]GFGAG |""[I:staff +1] C[I:staff -1]GFGAG | %33
+""[I:staff +1] B,[I:staff -1]GFGAG |"m"[I:staff +1] A,[I:staff -1]GFGAG |$ %35
+""[I:staff +1] G,[I:staff -1]GFGAG |""[I:staff +1] C[I:staff -1]GFGAG | %37
+""[I:staff +1] B,[I:staff -1]GFGAG |"m"[I:staff +1] A,[I:staff -1]GFGAG | %39
+""[I:staff +1] G,2A,2B,2 |$"" C2D2E2 |"" D2C2""B,2 |"" C2""D2""D,2 |"""C{" G,4"m" G2 | %44
+"""" F4"" D2 |$"" G4"" B,2 |"" C2""D2""D,2 |"""C{" G,4"m" G2 |"""" F4"" D2 |"" G4"" B,2 | %50
+"" C2""D2""D,2 |$"" G,,2A,,2B,,2 |"" C,2""D,2""D,,2 |"" G,,6 ::[K:treble]"" [GB]2[GB]2[GB]2 | %55
+"" [FA]2[FA]2F2 |"" [GB]2[GB]2[GB]2 |"" [FA]2[FA]2F2 |$"m" [FB]2[FB]2[FB]2 |"m" [EB]2[EB]2E2 | %60
+"" [EF^A]2[EFA]2[EFA]2 |"m" [DFB]2[DF]2[DF]2 |"" [EF^A]2[EFA]2[EFA]2 |$"m" [DFB]2[DF]2[DF]2 | %64
+"" [DE^GB]2[DEGB]2[DEGB]2 |"m" [CEA]2[CEA]2[CE]2 |"" [DE^GB]2[DEGB]2[DEGB]2 | %67
+"m" [CEA]2[CEA]2[CE]2 |$"m" [E^A^c]2[EAc]2[EAc]2 |"m" [DFB]2[DFB]2[DF]2 |"m" [E^A^c]2[EAc]2[EAc]2 | %71
+"m" [^DAB]2[DAB]2[DAB]2 |"m" [EGB]2[FA]2[GB]2 |$"m" A2B2c2 |"" B2"m"G2"m"E2 |"" B,2[B,^D]2[B,D]2 | %76
+"m" E4 B,2 |"m" C2 x4 |$"" B,2"m"G,2"m"E,2 |"" B,,2B,A,G,F, |"m" E,[I:staff -1]E^DEFE | %81
+"m"[I:staff +1] A,[I:staff -1]E^DEFE |"m"[I:staff +1] G,[I:staff -1]E^DEFE |$ %83
+"m"[I:staff +1] F,[I:staff -1]E^DEFE |"m"[I:staff +1] E,[I:staff -1]E^DEFE | %85
+"m"[I:staff +1] =D,[I:staff -1]E^DEFE |""[I:staff +1] C,[I:staff -1]E^DEFE | %87
+""[I:staff +1] B,,[I:staff -1]E^DEFE |$"m"[I:staff +1] A,,[I:staff -1]E^DEFE | %89
+"m"[I:staff +1] G,,6 |"m" A,2""B,2""B,,2 |"m" E,[I:staff -1]E^DEFE | %92
+"m"[I:staff +1] A,[I:staff -1]E^DEFE |$"m"[I:staff +1] G,[I:staff -1]E^DEFE | %94
+"m"[I:staff +1] F,[I:staff -1]E^DEFE |"m"[I:staff +1] E,[I:staff -1]E^DEFE | %96
+"m"[I:staff +1] =D,[I:staff -1]E^DEFE |""[I:staff +1] C,[I:staff -1]E^DEFE |$ %98
+""[I:staff +1] B,,[I:staff -1]E^DEFE |"m"[I:staff +1] A,[I:staff -1]E^DEFE |"m"[I:staff +1] G,,6 | %101
+"m" A,2""B,2""B,,2 |"m""" E,4"m" E2 |$"""" ^D4"" B,2 |"m""m" E4"m" G,2 |"m" A,2""B,2""B,,2 | %106
+"m""" E,4"m" E2 |"""" ^D4"" B,2 |$"m""m" E4"m" G,2 |"m" A,2""B,2""B,,2 |"m" E,2F,2G,2 | %111
+"m" A,2""B,2""B,,2 |"m" E,,6 :| %113
+V:3
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | %19
+ x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %38
+ x3 | x3 |$ x3 | x3 | x3 | Gg^c | d2 x |$ x3 | x GF | Gg^c | d2 x | x3 | x GF |$ x3 | x3 | x3 :: %54
+ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ %73
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | %92
+ x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | Ec^A |$ B=AF | G2 x | x3 | Ec^A | B=AF |$ G3 | %109
+ c e^d | x3 | x3 | x3 :| %113
+V:4
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 |[K:bass] x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | %17
+ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | %36
+ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 :: %54
+[K:treble] x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %71
+ x3 | x3 |$ x3 | x3 | x3 | E,F,G, | A,B,C |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ %88
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | %107
+ x3 |$ x3 | x3 | x3 | x3 | x3 :| %113

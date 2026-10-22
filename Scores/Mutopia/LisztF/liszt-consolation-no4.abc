@@ -1,0 +1,55 @@
+% Consolation, S.172 No.4: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1650
+% Licence: Creative Commons Attribution 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Consolation, S.172 No.4
+C:F. Liszt
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Db
+V:1 bass nm="down:1"
+V:2 bass 
+L:1/8
+V:3 treble nm="up:1"
+V:4 treble 
+L:1/8
+V:1
+ x2 D, [D,B,,] | [D,G,,] [D,D,,] [B,,E,,] [A,,A,,,] | [D,,A,,]2- [D,,A,,]2 | z/ B, A,/ G, D, | %4
+ E, B,, =G,,2 | A,, z D, [D,B,,] | [D,G,,] [D,D,,] [B,,E,,] [A,,A,,,] | [D,,A,,]2- [D,,A,,]2 | %8
+ z/ B, F,/ G, E, | F, [F,F,,] [B,,F,]2 | z2 A, A, | =A,3/2 _A,/ A,/=E/ _E/D/ | [DG,=A,] C/ z2 z/ | %13
+ z4 | z2 z/ =A,/4 z3/4 _A,/4 z/4 | z/ G,/4 z3/4 =B,,/4 z3/4 D,/4 z3/4 [D,,D,]/4 z/4 | %16
+ [G,,D,]2 [G,,,G,,] [G,,,G,,] | %17
+ [=A,,,=A,,]/[=G,,,=G,,]/ [_G,,,_G,,] [=E,,,=E,,]/>[G,,E,,_E,,=E,,]/ [=B,,,=B,,]/>[A,,,A,,]/ | %18
+ [=A,,,=A,,]2 [F,,,F,,] [F,,,F,,] | %19
+ [_A,,,_A,,]/[G,,,G,,]/ [F,,,F,,] [E,,,E,,] [F,,E,,=D,,E,,]/4 z/ [A,,,A,,]/4 | %20
+ [A,,,A,,]2 [=A,,,F,,=A,,] [B,,,F,,B,,] | [C,,_A,,C,] [D,,A,,D,] [C,,A,,C,] [D,,A,,D,] | %22
+ [E,,=B,,E,] [=E,,B,,=E,] [_E,,B,,G,] [=E,,B,,=G,] | [_G,,=D,=A,]2 [=G,,D,_B,] z | z4 | %25
+ z [=DE=G,B,] [FD] [DF=B,] | A/_G/ [FA,_D] [E=G,_B,D] [FE=DE]/4 z/ A/4 | %27
+ [AF,=B,_D]2 [_D,,_D,]3/2 [=B,,,=B,,]/ | %28
+ [=B,,,=B,,]/ [=A,,,=A,,] [_A,,,_A,,]/ [A,,,A,,]/ [G,,,G,,] [E,,,E,,]/ | %29
+ [D,,,D,,]2 [D,,D,]3/2 [=B,,,=B,,]/ | %30
+ [=B,,,=B,,]/ [=A,,,=A,,] [_A,,,_A,,]/ [A,,,A,,]/ [G,,,G,,] [E,,,E,,]/ | [D,,,D,,]2 [_B,,,D,,]2 | %32
+ [G,,,D,,B,,]2- [G,,,D,,B,,]2 | [D,,A,,]2 [D,,F,,A,,D,]2 | [D,,F,,A,,D,]2- [D,,F,,A,,D,]2 |] %35
+V:2
+ x4 x4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z [C,E,] z [D,=E,] | %11
+ z [_E,G,] z4 [=E,A,]2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z6 [B,,,B,,]3/2 z/ | z8 | z8 | z8 | %23
+ z8 | z8 | z8 | [B,E]2 z4 [_B_G,CE]2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %35
+V:3
+ x2 [A,DF] [B,DF] | A/G/ [FA,D] [EG,B,] [BG,CE] | A2- A F | z/ [dDF] c/- [DG] [DF] | %4
+ [B,E] [B,D] [FB,D]2 | [EC]3/2 =E/ [FA,D] [FB,D] | A/G/ [FA,D] [_EG,B,] [BG,CE] | A2- A F | %8
+ z/ [dDF] [cE=A]/- [cEA]/ B =B/- | =B/ _B =A/ [BD]2 | z4 | z4 | z2 A A | =A3/2 _A/ A/=e/ _e/d/ | %14
+ d3/2 c/ d3/4 z/4 =B3/4 z/4 | =B/[=ADG]/ A/[=G=B,=D]/ G/[_G=A,_D]/ G/[F_A,B,]/ | [G=A,]2 [A,=DG]2 | %17
+ [=B,=D=E]2 [B,D=G]2 | [=G,=E]2 [A,_DF]2 | [B,D_E]2 [B,D_G]2 | [G,E]2 [F,CF] [F,DF] | %21
+ A/G/ [FA,D] [AA,E] [AA,=E] | =B/=A/ [_A=B,=E] [BB,G] [BB,=G] | =d3/2 c/ c/ _B =A/ | %24
+ =A/ _G F/ F2- | F z _A,2 | A,,2 A,,,2 | D,,2 z [F,A,D] | [=E,=A,D] [E,A,D] [G,B,D] [G,B,_E] | %29
+ [F,DF]2 z [F,_A,D] | [=E,=A,D] [E,A,D] [G,B,D] [G,B,_E] | [F,DF]2 [F,DF]2 | [A,A]2- z [A,A] | %33
+ [G,G] [F,DF]2 [F,A,DF]- | [F,A,DF] [F,A,DF]2- [F,A,DF]- | [F,A,DF] x3 |] %36
+V:4
+ x4 x4 | [B,D]2 z4 z3/2 A/ | [F,D]4- [F,D]4 | z3 [DF] c B2 A- | A G2 F z4 | z8 | %6
+ [B,D]2 z4 z3/2 A/ | [F,D]4- [F,D]4 | z4 z D [EG]2 | [DF]2 [CE]2 z4 | z8 | z8 | z4 z [CE] z [D=E] | %13
+ z [_EG] z4 [=EA]2 | [_EG=A]4 z [D=E] z [DF] | z8 | z8 | z8 | =D3 _D z4 | z8 | D3 C z4 | %21
+ [A,_E]2 z6 | [=B,_G]2 z6 | [=D=A]4 [D=G]2 z2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %32
+ D4- z2 D2- | D3/2 z4 z2 z/ | z8 | z2 x6 |] %36

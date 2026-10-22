@@ -1,0 +1,50 @@
+% 50 Melodische Übungsstücke, No. 7: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2152
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:50 Melodische Übungsstücke, No. 7
+C:CzernyC
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=140
+M:2/4
+I:linebreak $
+K:G
+V:1 bass nm="Bass" snm="B"
+V:2 bass 
+V:3 treble nm="Discant"
+V:4 treble 
+L:1/16
+V:1
+ x | [B,G]2 z [B,G] | [DA]2 z [DA] | [GB]2 z [GB] | [DA]3- [DA] | [F,A,D]2 z [F,A,D] | %6
+ [G,B,D]2 z2 | [E,C,]3- [E,C,] | B,2 A, z | [B,G]2 z [B,G] | [DA]2 z [DA] | [GB]2 z [GB] | %12
+ [DA]3- [DA] | [F,A,D]3 [F,A,D] | [G,B,D] z [CEA] z | [DGB]2 [DFc]-[DFc] | Bd B z | G,3- [B,D] | %18
+ F,3- [A,D] | E,3- [A,^C] | D,[A,D] [A,D][A,D] | F,3- [A,D] | G,3- [B,E] | A,2 A,-[^CG] | %24
+ [DF]2 z2 | [B,G]2 z [B,G] | [DA]2 z [DA] | [GB]2 z [GB] | [DA]3- [DA] | [F,A,D]3- [F,A,D] | %30
+ [G,B,D]2 z2 | [C,E,A,]2 [D,A,C]-[D,A,C] | [G,B,]D, G,, z | G,,2 C,-C, | D,2 C,-C, | _B,,2 _G,-G, | %36
+ =G,2 D,-D, | [_B,,G,]2 [C,G,]-[C,G,] | [_B,,G,]2 [_E,G,]-[E,G,] | [_E,C,]2 [=E,_D,]-[E,D,] | %40
+ G,2 _G, z | _B,3- =F | A,3- =F | A,3- =F | _B,3- =F | A,3- [C_G] | =G,3- [_B,D] | _E,3- [G,_D] | %48
+ [=D,_G,]D CA, | =G,,2 C,-C, | D,2 C,-C, | _B,,2 _G,,-G,, | =G,,2 D,-C | _E, z [C,G,]-[C,G,] | %54
+ [_G,A,]2 [=G,D]-[G,D] | [C,_E,]2 [D,A,C]-[D,A,C] | C2 _B, x |] %57
+V:2
+ x | z4 | z4 | z4 | z4 | z4 | z4 | z2 A,-A, | D,3 z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | G3 z | %17
+ z [B,D] [B,D]G, | z [A,D] [A,D]F, | z [A,^C] [A,C]E, | z4 | z [A,D] [A,D]F, | z [B,E] [B,E]G, | %23
+ z [DF] z A, | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %40
+ =D,3 z | z =F F_B, | z =F FA, | z =F FA, | z =F F_B, | z [C_G] [CG]A, | z [_B,D] [B,D]G, | %47
+ z [G,_D] [G,D]_E, | z4 | z4 | z4 | z4 | z3 D, | z4 | z4 | z4 | G,3 x |] %57
+V:3
+ x3 e | gd bg | fa df | ga/f/ gb | d'/ z/ d'/ z/ d'/ z/ d'/ z/ | c'd'/e'/ d'c' | bg' d'b | %7
+ ae' d'/c'/b/a/ | g/f/a/g/ f/ z/ d | gd bg | fa df | ga/f/ gb | d'/ z/ d'/ z/ d'/ z/ d'/ z/ | %13
+ d'/f'/a'/g'/ f'/e'/d'/c'/ | bg'/ z/ ae'/ z/ | g/ z/ (3:2:1gb/ (3:2:1z/ f/a/b/ | gb gd'/^c'/ | %17
+ e'/ z/ d'/ z/ ^c'/ z/ b/ z/ | a2 d'/^c'/b/a/ | ga/b/ a/ z/ g/ z/ | =f^f f-f | z d'/^c'/ b/a/g/f/ | %22
+ ^de gb | =d[ed]/[^cd]/ fe | dd' =c'a | gd bg | fa df | ga/f/ gb | d'd' d'd' | %29
+ c'a'/g'/ f'/e'/d'/c'/ | b/a/g/f/ e/d/c/B/ | A/ z/ e d/ z/ F | G z2 D- | D/ z/ [D_B] z [C_EA]/ z/ | %34
+ z [_B,DG] z [A,D_G]/ z/ | z [=Gd]/ z3/2 [DAc]/ z/ | z [DAc]/ z3/2 [D_GA]/ z/ | =Gg =f_e | %38
+ _ed c_B | _BA BG | _B2 Ad | d>[_e=f] ed | c3 d | _e>[=fg] fe | d3 d' | _e'd' d'd' | %46
+ d'2 c'/_b/a/g/ | _g=g _g=g | a2 z D- | D/ z/ [D_B]/ z3/2 [C_EA]/ z/ | z [_B,DG] z [A,D_G] | %51
+ z [=Gd] z [DAc] | z [DG_B] z [_GA] | =Gg =f_e | _ed c_B | _BA c_G | A2 =G x |] %57
+V:4
+ x2 x6 | z8 | z8 | z2 g z4 z | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z2 g z4 z | z8 | z8 | z8 | %15
+ z4 a z3 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z2 g z4 z | z8 | z8 | z8 | z8 | %32
+ z8 | _B z7 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | _B z7 | %50
+ z8 | z8 | z8 | z8 | z8 | z8 | z6 x2 |] %57

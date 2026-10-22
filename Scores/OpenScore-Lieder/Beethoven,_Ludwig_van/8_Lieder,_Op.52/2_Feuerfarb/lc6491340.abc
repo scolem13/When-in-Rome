@@ -1,0 +1,69 @@
+X:1
+T:8 Lieder, Op.52
+T:Feuerfarb
+C:Ludwig van Beethoven
+Z:Sophie Mereau
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=75
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Andante con moto" z | z6 | z6 | z5 |:!p! D | G B d d3/2 c/ B |({d/} c) c B A2 A | %7
+w: ||||1. Ich|weiss ei- ne Far- be, der|bin ich so hold, die|
+w: ||||3. Die|Bläu- e des Him- mels strahlt|herr- lich und mild, drum|
+w: ||||5. War-|um ich, so fragt ihr, der|Far- be, so hold, den|
+ A A A d d (e/d/) |({d/} c) (c/B/) (c/d/) B2({B/} A) | G (G/F/) (E/D/) D G B | %10
+w: ach- te ich hö- her als *|1. Sil- ber * und * Gold; die|trag ich _ so _ ger- ne um|
+w: gab man der Treu- e dies *|3. freund- li- * che * Bild. Doch|trü- bet _ manch * Wölk- chen den|
+w: hei- li- gen Na- men der *|5. Wahr- heit * ge- * zollt? Weil|flam- men- * der _ Schim- mer von|
+ B A G({G} F2) (G/A/) | B3/2 A/ G G3/2 F/ E | D D({F/} E) D2 z | z2 z z2 G | %14
+w: Stirn und Ge- wand, und _|1. ha- be sie Far- be der|Wahr- heit ge- nannt.|2. Wohl|
+w: Ä- ther so rein! so _|3. schlei- chen beim Treu- en oft|Sor- gen sich ein.|4. Die|
+w: ihr sich er- giesst, und _|5. ru- hi- ge Dau- er sie|schü- tzend um- schliesst.|6. Ihr|
+ A A A B (c/B/) (A/B/) | c c d (cB) (c/d/) | e e3/2 e/ d c B | %17
+w: 2. blü- het in lieb- li- * cher, *|sanf- ter Ge- stalt _ die _|glü- hen- de Ro- se, doch|
+w: 4. Far- be des Schne- es, _ so _|strah- lend und licht, * heisst *|Far- be der Un- schuld, doch|
+w: 6. scha- det der näs- sen- * de _|Re- gen- guss nicht, * noch *|bleicht sie der Son- ne ver-|
+"^calando" _B A B !fermata!A2[Q:1/4=75]"^a tempo" =B | c B c d3/2 c/ B |({B/} A) G A B2 (B/c/) | %20
+w: 2. blei- chet sie bald. Drum|weih- te zur Blu- me der|Lie- be man sie; ihr _|
+w: 4. dau- ert sie nicht. Bald|ist es ver- dun- kelt das|blen- den- de Kleid: so _|
+w: 6. zeh- ren- des Licht, drum|trag ich so gern sie um|Stirn und Ge- wand und _|
+ d d d e3/2 d/ c | B B A G2 z | z6 | z6 | z6 | z4 z :| %26
+w: 2. Reiz ist un- end- lich, doch|wel- ket er früh.|||||
+w: 4. trü- ben auch Un- schuld Ver-|läum- dung und Neid.|||||
+w: 6. ha- be sie Far- be der|Wahr- heit ge- nannt.|||||
+V:2
+ D2 |!p! (.G2.G2) (BD) (A2d2D2) | (.A2.A2) (AD) (B2dBGD) | (D2>E2[A,C]2) B,4 |: D2 | %5
+ G2B2d2 d2>c2B2 | (dc) [Ac]2[GB]2 [FA]4 A2 | A2[FA]2[FA]2 d2d2 (ed) | (dc)(cBcd) B4 (BA) | %9
+ (A2GFED) (D2G2B2) | B2A2G2 (G2F2) (GA) | B2>A2[B,G]2 G2>F2E2 | D2D2({F/}[^CE]2)!p! D2(DEFG) | %13
+ A2(^GABA) (dcBAB=G) | A2A2A2 B2(cBAB) | c2c2d2 (c2B2) (cd) | e4 eE dEcEBE | %17
+"_calando" _BEAEBG !arpeggio!!fermata![DFAd]4"^a tempo" [G=B]2 | [Gc]2[GB]2[Gc]2 d2>c2B2 | %19
+ ([GB][FA]) ([EG]2[FA]2) [GB]4({/c} (B/)A/B/c/) | %20
+!<(! .[Gd]2!<)!!>(!.[Gd]2.[Gd]2!>)! [Gce]2 z2!p! [EAc]2 | [DGB]2 z2 [C^FA]2 [B,G]2 z (d^cd) | %22
+ (e>d=c2) .F2 (G>A) .B(d^cd) | (_e>d=c2) .F2 (G>A).B2 .B2 | (c>d=e2) .^f2 (g>ab2) G2 | %25
+ (G2{AGF}GBAF G4) :| %26
+V:3
+ z | [G,B,]2 z [F,C]2 z | [F,C]2 z [G,B,]2 z | z [D,F,][D,F,] G,G,, |:!p! z | %5
+ z [G,B,D][G,B,D] z [G,B,D][G,B,D] | z [F,D][G,D] D,F,A, | C[CD][CD] z [B,D][B,D] | %8
+ z [F,D][F,D] z [G,D] z | (F,,A,,D,) (G,,B,,D,) | [A,,^C,]>[B,,D,][C,E,] D,2 (E,/F,/) | %11
+ G,2 [G,,E,] E,>F,G, | F,[D,F,][A,,G,] [D,F,]2 z | =C/D/C/D/C/D/ B,/D/B,/D/B,/D/ | %14
+ F,/D/C/D/F,/D/ G,/D/B,/D/G,/D/ | [D,F,]/D/[E,G,]/D/[F,A,]/D/ G,/D/B,/D/G,/D/ | %16
+ z/ C,/E,/G,/ C z [C,G,][C,G,] | z [^C,G,][C,E,] !arpeggio!!fermata![D,F,A,]2 D | EDC B,>A,G, | %19
+ D2 D, G,B,D | .[B,=F].[B,F].[B,F] [CE] z C, | D, z D,, G,,2 z | z z [CD] ([B,D]/>[A,C]/[G,B,]) z | %23
+ z z [C_E] ([B,D]/>[A,C]/[G,B,])[K:treble] G | %24
+ ([=EG]/>[D=F]/ [CE])[K:bass] [C_E] ([B,D]/>[A,C]/[G,B,]) [^C,_B,] | [D,=B,]2 [D,=C] [G,B,]2 :| %26
+V:4
+ x | x6 | x6 | x5 |: x | x6 | x6 | x6 | x6 | x6 | x6 | x3 ^C2 C | x6 | x6 | x6 | x6 | x6 | x6 | %18
+ x3 G2 G | x6 | x6 | x6 | x6 | x6 | x6 | x5 :| %26
+V:5
+ x | x6 | x6 | x5 |: x | x6 | x6 | x6 | x6 | x6 | x6 | x3 A,,2 A,, | x6 | x6 | x6 | x6 | x6 | x6 | %18
+ x6 | x6 | x6 | x6 | x6 | x5[K:treble] =F | x2[K:bass] x4 | x5 :| %26

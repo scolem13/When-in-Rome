@@ -1,0 +1,28 @@
+% Les Graces: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=680
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Les Graces
+C:Anon
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=86
+M:6/8
+I:linebreak $
+K:G
+V:1 bass nm="lower"
+V:2 treble nm="upper"
+V:3 treble 
+V:1
+ x3 | G,B,D G,B,D | G,B,D B,,D,G, | C,E,A, C,E,A, | D,F,A, D,A,C | G,B,D G,B,D | G,B,D B,,D,G, | %7
+ C,E,A, [D,G,B,]2 [D,A,C] | [G,B,]3 x3 | D,,2 D, D,2 D, | G,,2 G, G,2 G, | A,3 A,,3 | %12
+ A,2 A,, A,2 x | A,,2 A, A,^CE | A,^CE A,CE | A,^CE A,EG | A,DF A,EG | A,^CE A,CE | %18
+ D2 [EG] [DF]2 [D^G] | [DA]3 x3 | [DAc]3 x3 |] %21
+V:2
+ x3 d^cd | g2 g =c/ z/ AB | d2 d gd^d | eAB cEA | G2 F d^cd | g2 g =c/ z/ AB | d2 d gd^d | %7
+ ecA G2 F | G3 [FA]2 [FA] | [FA][EG][DF] [Bd]2 [Bd] | [Bd][A^c][GB] [eg]2 [eg] | %11
+ [eg][df][^ce] [Ge][Fd][Ec] | [E^c][DB][^CA] [EG]2 [EG] | [EG][DF][^CE] ^c2 c | ^cBA g2 g | %15
+ gfe ed^c | d3- de^c | a3- age | de^c deB | =c3 d/e/f/g/a/b/ | c'3 x3 |] %21
+V:3
+ x3 x3 | z3 B z2 | z6 | z6 | z6 | z3 B z2 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %17
+ z6 | z6 | z6 | z3 x3 |] %21

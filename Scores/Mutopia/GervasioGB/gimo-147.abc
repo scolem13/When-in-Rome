@@ -1,0 +1,72 @@
+% Duetto à Due Mandolini (Gimo 147): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=330
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Duetto à Due Mandolini (Gimo 147) (1)
+C:Giovanni Battista Gervasio (c.1725-c.1785)
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:Cmin
+V:1 treble nm="I"
+V:2 treble 
+V:3 treble nm="II"
+V:4 treble 
+L:1/4
+V:1
+ [bBEG,]4 [aB]2 | ag fe de | [BG]4 A2 | AG FE DE | F2 FF FF | [GB,]3 A [BG]2 | D2 DD DD | %7
+ [EG,]3 F [GB,]2 | e>d d2 c2 | c/ z2 z/ A G2 | (3GF[Ec] (3dd[cc] (3BAG | A/G/F/G/ [FB,]4 | %12
+ [fBD]4 [fg]/ z3/2 | a/ z3/2 fe de | [FB,]4 A2 | A/ z3/2 FE DE | e_d dc c=B | c=d e=e fg | %18
+ b/ z/ g/f/ _e2 d2 | e2 BG E2 | DB, DF DB, | EB, EG EB, | BG cA FD | [EG,]4 [BE]2 | %24
+ [BE]2 [cE]2 [AB,]2 | [AB,]2 [BG]2 [eG]2 | (3dB[AA] (3GFE (3DE[FF] | [EG,]4 [BE]2 | %28
+ [BE]2 [cE]2 [AB,]2 | [AB,]2 [BG]2 [eG]2 | (3dB[AA] (3GFE (3DEF | E>B, G,4 |] %32
+V:2
+ x6 | x6 | x6 | x6 | B,6 | x6 | B,6 | x6 | x6 | [BG]3 z3 | z2 (3:2:2e z2 z2 | x6 | z4 a2 | g2 z4 | %14
+ x6 | G2 z4 | x6 | x6 | a z4 z | x6 | x6 | x6 | x6 | x6 | x6 | x6 | (3:2:2c z2 z4 | x6 | x6 | x6 | %30
+ (3:2:2c z2 z4 | x6 |] %32
+V:3
+ [gBGB,]4 [fFB,]2 | AG FE DE | [GB,]4 [FB,]2 | AG FE DE | D2 DD DD | [EG,]3 F [GB,]2 | F2 FF FF | %7
+ [GB,]3 A [BG]2 | c>B B2 A2 | A/ z2 z/ F E2 | (3GF[EA] (3BB[AA] (3GFE | F/E/D/E/ [DB,]4 | %12
+ Bc dc dB | a/ z3/2 fe de | B,C DC DB, | A/ z3/2 FE DE | z6 | z6 | G2 A2 B2 | EB, [EG,]4 | %20
+ D/B,/D/F/ D/B,/D/F/ D/B,/D/F/ | E/B,/E/G/ E/B,/E/G/ E/B,/E/G/ | %22
+ G,/A,/B,/G,/ A,/B,/C/A,/ D/E/F/D/ | [EG,]4 [GB,]2 | G2 A2 F2 | [FB,]2 [GB,]2 E2 | %26
+ (3dB[AA] (3GFE (3DE[FF] | [EG,]4 [GB,]2 | G2 A2 F2 | F2 G2 [eE]2 | (3DB[AA] (3GFE (3DEF | %31
+ E>B, E4 |] %32
+V:4
+ x3 | x3 | x3 | x3 | B,3 | x3 | B,3 | x3 | x3 | G3/2 z3/2 | z (3:2:2c/ z z | x3 | x3 | g z2 | x3 | %15
+ G z2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | B,3 | x3 | (3:2:2c/ z z2 | x3 | B,3 | B,3 | %30
+ (3:2:2c/ z z2 | x3 |] %32
+
+X:2
+T:Duetto à Due Mandolini (Gimo 147) (2)
+C:Giovanni Battista Gervasio (c.1725-c.1785)
+%%score 1 ( 2 3 )
+L:1/16
+Q:1/4=120
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="I"
+V:2 treble nm="II"
+V:3 treble 
+V:1
+ EEEE GGGG | EEEE GGGG | FFFF AAAA | FFFF AAAA | DDDD FFFF | DDDD FFFF | EEEE GGGG | EEEE GGGG | %8
+ FFFF AAAA | FFFF AAAA | DDDD FFFF | DDDD FFFF | [EG,]8 | B2G2 E2B2 | c2A2 E2c2 | B2G2 E2B2 | %16
+ A2F2 D2F2 | B2G2 E2B2 | c2A2 E2c2 | B2G2 E2B2 | A2F2 D2B,2 | [EG,]8 | D2B,2 D2F2 | E2B,2 G2B2 | %24
+ A2F2 D2B,2 | E2B,2 E2G2 | F2B,2 F2B2 | G2B,2 G2B2 | A2F2 D2B,2 | [EG,]4 eeee | cccc AAAA | %31
+ GGGG BBBB | DDDD FFFF | EEEE E2>E2 | E2E2 E2E2 | [EG,]4 eeee | cccc AAAA | GGGG BBBB | DDDD FFFF | %39
+ EEEE E2>E2 | E2E2 E2E2 | [EG,]8 |] %42
+V:2
+ G,G,G,G, B,B,B,B, | G,G,G,G, B,B,B,B, | A,A,A,A, B,B,B,B, | A,A,A,A, B,B,B,B, | B,B,B,B, DDDD | %5
+ B,B,B,B, DDDD | G,G,G,G, B,B,B,B, | G,G,G,G, B,B,B,B, | A,A,A,A, B,B,B,B, | A,A,A,A, B,B,B,B, | %10
+ B,B,B,B, DDDD | B,B,B,B, DDDD | [EG,]8 | G,B,G,B, G,B,G,B, | A,CA,C A,CA,C | G,B,G,B, G,B,G,B, | %16
+ DFDF DFDF | G,B,G,B, G,B,G,B, | A,CA,C A,CA,C | G,B,G,B, G,B,G,B, | G,A,B,G, DEFD | [EG,]8 | %22
+ B,DB,D B,DB,D | EGEG EGEG | AFDB, DB,DB, | G,B,G,B, G,B,G,B, | DFDF DFDF | EGEG EGEG | %28
+ B,DFA FDFD | [EB,]4 eeee | cccc AAAA | GGGG EEEE | B,B,B,B, DDDD | E4 [GB,]4 | G2G2 G2G2 | %35
+ [EG,]4 eeee | cccc AAAA | GGGG EEEE | B,B,B,B, DDDD | EEEE [GB,]4 | G2G2 G2G2 | [EG,]8 |] %42
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z7 G | B,8 | x8 | x8 | x8 | %38
+ x8 | z7 G | B,8 | x8 |] %42

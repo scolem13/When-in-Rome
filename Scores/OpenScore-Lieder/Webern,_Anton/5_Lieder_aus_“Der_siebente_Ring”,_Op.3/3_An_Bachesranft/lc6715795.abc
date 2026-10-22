@@ -1,0 +1,63 @@
+X:1
+T:5 Lieder aus “Der siebente Ring”, Op.3
+T:An Bachesranft
+C:Anton Webern
+Z:Stefan Anton George
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=90
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Ziemlich rasch" z!pp! (=F |"^(Zarteste Bewegung)" _B3/2 ^F/ =D) z/ ^G/ | %2
+w: An|Ba- ches- ranft die|
+!<(! (3^c3/2 .=d/!<)! .=c!>(! (3(=B ^C)!>)! (=A | %3
+w: ein- zi- gen Frü- hen die|
+[M:3/4]!<(! (3:2:2=c2!<)! ^c!>(! (3=B _B)!>)! z z!pp! (=C | %4
+w: Ha- sel blü- hen. Ein|
+"^a tempo"!>(! =F3 ^C)!>)!!ppp!!<(! (=D/ C/ =G/!<)! F/ |[M:2/4] ^F) z/!pp!!<(! (^G/ =d!<)! ^D) | %6
+w: Vo- gel pfeift in küh- ler|Au. Ein Leuch- ten|
+ (3!tenuto!=e z!p! (^F!<(! =f2-!<)! | (3:2:2f2 =A) (3:2:4z!pp!!<(! !tenuto!=B z/!<)! =c/ | %8
+w: streift er- wärmt|_ uns sanft und|
+ .^c z/!ppp! =B/"^rit."!<(! (_d!<)!!>(!=c)!>)! | z!ppp! (.=D!>(! .=G .^F!>)! | ^G2) (3z z _E | %11
+w: zuckt und bleicht. _|Das Feld ist|brach, der|
+!>(! .!tenuto!=F .!tenuto!=E!>)! (3:2:2z !tenuto!_E2 | z4 | %13
+w: Baum noch grau...||
+!ppp!"^äusserst zart zögernd"[Q:1/4=50]"^Langsam"!<(!!<(! (_e _d!<)!!<)! =D/ ^C/ =G/ =A/ | %14
+w: Blu- men streut viel- leicht der|
+!>(! (3:2:4=c2!>)! =B2 z ^F) | z4 |] %16
+w: Lenz uns nach.||
+V:2
+"^" (3z2!<(! (.[^c=f=b]2.[=B_e_b]2)!<)! | %1
+ z!pp!!>(! (=a'=f'=b!>)!!>(![I:staff +1] ^g)[I:staff -1]z!pp!(^d=E | %2
+ =G2!>)! =B4)"^" (3z!<(! (^d!<)!=E |[M:3/4]!>(! (3:2:2=G2!>)!=B)!<(!z(G!<)! ^d=EG2-) G4 | %4
+ z!ppp!!>(! (=B3 ^f3)!>)! z z!ppp!!<(! (=F^F,!<)!^C) | %5
+[M:2/4] z2!pp!!<(! (([^d-=a^c']4 [d=g=b])!<)! z |!p! ^c2!>(!=B2=d2!>)!_B2) | %7
+ (3z2!pp! (=B2!<(!=d2!<)! ^d'2)(=e2 |!>(! (3:2:2^d2!>)! =e4-)!pp!"^rit."!<(! (3e2(d2e2-!<)! | %9
+ (3:2:2e4!>(! _e2- (3:2:2e4 =c2- | c2)!>)! z2[I:staff +1] =G,,^F,[I:staff -1]_B=f' | %11
+!8va(! (3.=e''2._e'2._a2!8va)!!>(! .=d2.=c2!>)! | x4 z2!ppp! (_B2 |!<(! =c6!<)! ^c2 | %14
+ z [_A_e^f]3-!>(! [Aef]4-!ppp! | [Aef]6)!>)! z2 |] %16
+V:3
+ (3z (.[^G,=E].[=B,=G]) |[K:treble]!ped! z2 x2!ped-up! | %2
+[K:bass] z/ [_A,,=F,]3/2- [A,,F,]"^rit." z | %3
+[M:3/4] z/ .[=A,,^F,]/ z z2[K:treble] (3z .[_B,=E].[=A,_E] | %4
+[K:bass] z/ [_B,,=E,=A,]3/2- [B,,E,A,]3/2 z/ z2 |[M:2/4][K:treble] z [=C^G=B]2- [CGB]/ z/ | %6
+ z[K:bass] (^A,2 =B,) | z (^A,2 =B,) | (3:2:2(^A, =B,2) (([E,A,]2 | %9
+ (3:2:2[D,=B,]2)) ([=E,^A,]- (3[E,A,]_E,,,[=D,B,]- | (3[D,B,]) z!ppp!!ped! ^C,,,!<(! x2!<)! | z4 | %12
+[I:staff -1] (3._A._D[I:staff +1].=A,,- (A,,2-!ped-up! | [^F,=B,]3 [=E,_B,] | %14
+ z/ [=F,=A,=E]3/2- [F,A,E]2- | [F,A,E]3) z |] %16
+V:4
+ x2 | x4 | z/ _B,3/2- B, x |[M:3/4] z/ ._B,/ z z2 (3z!>(! .[=A,=C]!>)!.[B,_D] | %4
+ z/ =C3/2- C3/2 z/ x2 |[M:2/4] x4 | z (^C2 _E) | z (^C2 _E) | (3:2:2(=F _E2-) (3E(FE-) | %9
+ (3:2:2E2 (F- (3:2:2F2 _E-) | E x x2 |!8va(! x2!8va)! x2 | x4 | ([_D_A]3 [_E=G]) | x4 | x4 |] %16
+V:5
+ x2 |[K:treble] x4 |[K:bass] x4 |[M:3/4] x4[K:treble] x2 |[K:bass] x6 |[M:2/4][K:treble] x4 | %6
+ x[K:bass] =D,3 | x D,3 | (3:2:2(=E, D,2) x2 | x4 | x4 | x4 | x4 | A,,3 =B,, | x4 | x4 |] %16

@@ -1,0 +1,70 @@
+X:1
+T:8 Lieder and Romances, Op.14
+T:Ein Sonett
+C:Johannes Brahms
+Z:Original French by Thibaut IV, Graf von Champagne und König von Navarra (1201 - 1253)  :  German translation by Johann Gottfried Herder (1744–1803)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=110
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Langsam, sehr innig" E | A2 A | A3/2 G/ B | d2 B | G2 E | A2 G/ z/ |!<(! c2 B/ z/ | %7
+w: Ach|könnt ich,|könn- te ver-|ges- sen|sie, ihr|schö- nes,|lie- bes,|
+ e3/2 =d/!<)! e |!>(! _d2!>)! B | z z E | A2 A | A3/2 G/ B | d2 B | G2 =A |!<(! B2 B | %15
+w: lieb- li- ches|We- sen,|den|Blick, die|freund- li- che|Lip- pe|die! Viel-|leicht ich|
+ B3/2 A/ e!<)! | e2 =d | z3 |[Q:1/4=130]"^Poco più animato" z z"^cresc." B | _d2 d | (d _c) c | %21
+w: möch- te ge-|ne- sen!||Doch|ach, mein|Herz, * mein|
+ _f f f | e2 e | e2 e | e =d d | a2 a | g2 z | z3 | z z!p! B | (G A) F | E B A | (G A) F | %32
+w: Herz kann es|nie! Und|doch ists|Wahn- sinn, zu|hof- fen|sie!||und|um _ sie|schwe- ben, gibt|Mut _ und|
+!<(! E d c | (B c)!<)! A | (f3- |!>(! f!>)! e) z | z3 |"^rit.  -   -   -   -   -" z3 | z z!p! c | %39
+w: Le- ben, zu|wei- * chen|nie.|_ _|||Und|
+[Q:1/4=110]"^Tempo I" A2 A | A3/2 G/ B | d2 B | G2 E |!<(! A2 G/ z/ | c2 B/ z/ | e3/2 =d/ e!<)! | %46
+w: denn, wie|kann ich ver-|ges- sen|sie, ihr|schö- nes,|lie- bes,|lieb- li- ches|
+ _d2 B | z z E | A2 A | A3/2 G/ B | d2 B | G z!f! a | a2 d | f3/2 e/ d | (c2 e- |!>(! e2 G)!>)! | %56
+w: We- sen,|den|Blick, die|freund- li- che|Lip- pe|die? Viel|lie- ber|nim- mer  ge-|ne- *||
+ A2 z | z3 ||[M:2/2] z4 | !fermata!z4 |] %60
+w: sen!||||
+V:2
+ E | [CA]3 | A3/2 G/ B | d2 B | G2 E- | (!>!A2 G) | (!>!c2 B) | !>!e3/2 =d/ e | (_d2 B) | E2 D | %10
+ A2 A | A3/2 G/ B | d2 B | G2 =A | B2 B | B3/2 A/ e | (e2 =d) | z3 | _C B, A, | E2 E | E2 E | %21
+ _G2 G | _G2 G | ([=A,=F] [B,=G] [=C=A] | [=DFB] [E=Ac] [FB=d]) | ([FB=d] [GBe] [Adf]) | %26
+ ([Beg] [cea] [_dfb] | [Bdg] [Acf] [GBe] | [FAd] [EGc] [DFB]) | ([B,DG] [CEA] [A,CF] | %30
+ [G,B,E] [DFB] [CEA]) | [B,DG] [CEA] [A,CF] | [G,B,E] [FAd] [EGc] | [DFB] [EGc] [CEA] | %34
+ [B,DG] [dfb] [cea] | [Bdg] [cea] [Acf] | [Bdg] [GBe] [Acf] | %37
+"^rit.  -   -   -   -   -" [FAd] [GBe] [EGc] | [FAd] [DFB] [EGc] | [CA]3 | (A3/2 G/ B) | d2 B | %42
+ G2 E- | (A2 G) | (c2 B) | e3/2 =d/ e | _d2 B | E2 D | A2 A | A3/2 G/ B | d2 B | G2 [Ae_ga] | %52
+ ([Afa] [e_g] [df]) | ([Af] [_Ge] [Fd]) | ([Ec] [DB] [CA-]) | A =G B | A3 | A3 || %58
+[M:2/2]!>(! A4!>)! | !fermata![CEA]4 |] %60
+V:3
+!p! z |"^legato" A,,3 | B,,3 | E,,3- | F, E, D, | C, E, B,, |!<(! A,, E, G,, | F,, E,!<)! E,,- | %8
+!ped! (E, G, B,!ped-up! |[I:staff -1] E F G) |[I:staff +1] A,,3 | C B, A, | G, F, [E,G,] | F, E,2 | %14
+!<(! F, =G,2 | A, E,2!<)! | (B,, F, A, | _C B, A,-) | A, G, F, |"_cresc." ([E,G,] [F,A,] [G,B,] | %20
+ [A,_C] [B,D] [CE]) | ([_G,B,] [A,_C] [B,D] |[I:staff -1] [_CE] [D_F] E) | %23
+[I:staff +1] [F,,,F,,]2 [F,,,F,,] | [B,,,B,,]2 [B,,,B,,] |!f! [B,,B,]2 [B,,B,] |!>(! E,,2 E, | %27
+ E,,2 E,!>)! | E,,2 E, |!p! E,,2 E, | E,,2 E, |"^legato" E,,2 E, |!<(! E,,2 E, | E,,2!<)! E, | %34
+ E,,2 E, |"_dim." E,,2 E, | E,,2 E, | E,,2 E, | E,,2 E, |!p! A,,3 | B,,3 | E,,3- | E,, E, D, | %43
+!<(! C, E, B,, | A,, E, G,, | F,, E, E,,-!<)! | (E, G, B, |[I:staff -1] E F G) | %48
+"^legato"[I:staff +1] A,,3 | B,,3 | G,!<(! [F,A,] [E,G,] | F, E,-!<)!!f! [C,E,A,] | [D,A,]3 | %53
+"_dim." [D,,D,]3 | [E,,E,]2 ([E,-A,] | [E,B,]3) |!p! [A,,A,]3 | [A,,A,]3 || %58
+[M:2/2] [A,,A,]2 [D,,D,]2 | !fermata![A,,,A,,]4 |] %60
+V:4
+ x | A G F | E D C | B,[I:staff +1] A, G, | x3 |[I:staff -1] E3 | E3 | [EA]3 | [EG]3 | x3 | %10
+ [CA] [EG] [DF] | E D C | B, A, x | G2 _G | F _F2 | E3 | [FA]3 | x3 | x3 | x3 | x3 | x3 | x3 | %23
+ E2 E | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | (A G F | %40
+ E D C) | (B,[I:staff +1] A, G, | F, E, D,) |[I:staff -1] E3 | E3 | [EA]3 | [EG]3 | x3 | %48
+ [CA] [EG] [DF] | [CE] [B,D] C | B, x2 | x3 | x3 | x3 | x3 | D3 | ([CA] [E_G] [DF]) | %57
+ ([CA] [E_G] [DF]) ||[M:2/2] ([CA] [E_G]2 [DF]) | x4 |] %60
+V:5
+ x | x3 | x3 | x3 | E,,2 D, | C,2 B,, | A,,2 G,, | F,,2 x | E,,2 z | z3 | x3 | B,,3 | E,,3 | %13
+ D, C,2 | D,3 | C,2 _C, | B,,3 | z3 | z3 | E,,2 E,, | [A,,,A,,]2 [A,,,A,,] | [_G,,,_G,,]2 G,, | %22
+ [_C,,_C,]2 [C,,C,] | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | C,2 B,, | A,,2 G,, | F,,2 x | E,,3- | E,, z z | x3 | x2 A, | E,,3 | %51
+ D, C,- A,, | x3 | x3 | x3 | x3 | x3 | x3 ||[M:2/2] x4 | x4 |] %60

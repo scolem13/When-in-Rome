@@ -1,0 +1,50 @@
+% Ich liebe dich: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=586
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Ich liebe dich
+C:Edvard Grieg (1843–1907)
+%%score ( 1 2 ) 3 ( 4 5 6 )
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Bb
+V:1 bass nm="leftHand:lhA"
+V:2 bass 
+V:3 treble nm="melStaff:mel"
+V:4 treble nm="rightHand:rhA"
+V:5 treble 
+V:6 treble 
+V:1
+ x4 x [F,,E,] | [G,,D,] z =E,-E, E,F, | _G, =G,2 _A, [=A,F,,]2 | [B,,F,]2 z F, _G,A, | %4
+ A,=G, D,=E, F,=B,, | C,3- C,3 | G,,3- G,,3 | G,,3- G,,3 | %8
+ C,,[C,B,D] [C,B,D][C,B,D] [C,A,C][C,G,B,] | [F,,,F,,][B,F,] _G,=G, _A,[=A,F,] | %10
+ [B,,,F,,]2 z F, _G,A, | A,=G, D,=E, F,=B,, | C,3- C,3 | G,,3- G,,3 | G,,3- G,,3 | %15
+ C,,[C,B,D] [C,B,D][C,B,D] [C,A,C][C,G,B,] | F,,[C,G,B,] [C,G,B,][C,G,B,] [C,G,B,][C,G,B,] | %17
+ [F,,,F,,][C,_G,B,] [C,G,B,][C,G,B,] [C,F,A,]2 | [B,,,F,,]F, F,F, _G,A, | A,=G, D,=E, F,=B,, | %20
+ C,2 z2 [F,,C,]2 | [B,,,F,,B,,] z2 F, _G,=G, | [B,,,F,,B,,]3 x3 |] %23
+V:2
+ x3 x3 | z4 _E,2 | D,2 C,-C, z2 | z6 | z6 | z6 | z6 | z6 | z6 | z C,2- C,2 z | z6 | z6 | z6 | z6 | %14
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z3 x3 |] %23
+V:3
+ x3 | x6 | x6 | x3 F _GA | A=G D=E FG | F2 _E-E x2 | x2 D-D EF | GD B- B2 G | d>G G-G x2 | x6 | %10
+ x3 F _GA | A=G D=E FG | F2 _E-ExE | G>D D-DxG | B>G G-GxB | d>G GG AB | d>c c-cxc | e>_G GF Ad | %18
+ c>B B-B x2 | x6 | x6 | x3 F _GA |] %22
+V:4
+ x3 F, [=E,G,][A,D] | B,D AG =EF | _G =G2 _A =A2 | [D_B][_B,D] [B,D][B,D] [B,D][B,D] | %4
+ [B,D][B,D] [B,D][B,D] [A,C][_A,D] | [G,CF][G,CF] [G,CE][G,CE] [_G,=A,E][G,A,E] | %6
+ [F,=B,E][F,B,E] [F,B,D][F,B,D] [F,B,D][F,B,D] | [=E,_B,D][E,B,D] [E,B,D][E,B,D] [E,B,D][E,B,D] | %8
+ z [FBg] [FBg][FB] [Fc][Fd] | d>c [Ec]- z2 G | _G[FE] z [B,D] [B,D][FB,D] | %11
+ [_GB,D][AB,D] [B,DA][B,D=G] [B,D][B,D=E] | [B,CF][_A,DG] [G,CF][G,CF] [G,C_E][G,CE] | %13
+ [_G,=A,E][G,A,E] [F,=B,E][F,B,E] [F,B,D][F,B,D] | %14
+ [F,=B,D][F,B,D] [=E,_B,D][E,B,D] [E,B,D][E,B,D] | [=E,B,D][E,B,D] z [F_Bg] [FBg][FB] | %16
+ [Fc][Fd] z [_EG_e] [EGe][EGe] | [EGe][EGe] z [E_GBe] [EGBe][EFBe] | %18
+ [EFAe]2 z [B,DF] [B,DF][B,DF] | [B,D_G][B,DA] [B,DA][B,D=G] [B,D][B,D=E] | %20
+ [A,CF][_A,DG] [G,CF]2 z2 | [E,=A,E]2 [D,F,B,D][B,D] [B,D][B,D] | [B,D] [B,D] [D,F,B,D]3 x |] %23
+V:5
+ x3 x3 | z2 [B,_D]-[B,D] [A,C]2 | [=B,F]2 _E- E3 | z6 | z6 | z6 | z6 | z6 | z6 | z E _A z2 [Ec]- | %10
+ [Ec] z4 z | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z4 z x |] %23
+V:6
+ x3 x3 | z6 | z2 _e- e2 =d | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %17
+ z6 | z6 | z6 | z6 | z6 | z4 z x |] %23

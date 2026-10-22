@@ -1,0 +1,92 @@
+X:1
+T:Bird Songs
+T:The Yellowhammer
+C:Liza Lehmann
+Z:A. S.
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+L:1/8
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Tempo commodo" z2 | z8 | z4 z2!mp! (3z d c | (3:2:2B2 B (3:2:2A2 A (3:2:2G2 G (3:2:2D2 D | %4
+w: ||On a|sul- try Sum- mer morn- ing Down the|
+ (3:2:2F2 F (3:2:2G2 G A2- !breath!A F | (3:2:2G2 G (3:2:2A2 A (3:2:2B2 B z G | %6
+w: dust- y road we stray’d, * And|plucked the way- side flow- ers, And|
+ (3:2:2A2 A (3:2:2G2 F f4- |!<(! f8- | f6!<)! (3z ^c d | %9
+w: ran and laughed and played!|_|* There was|
+ (3:2:2=e2 e (3:2:2B2 B A2- (3!breath!A ^c d | %10
+w: not the slight- est breeze, _ And we|
+ (3:2:2!tenuto!=e2 !tenuto!e (3:2:2!tenuto!B2 !tenuto!B !tenuto!A2- !breath!A F | %11
+w: wear- ied of our play, _ And|
+ .G .=E .F .D .G .E .F .D | A4- !fermata!A z z ^E | ^F/ F/ F/ F/ F F !>!^f4 | !>!^d8- | d z z2 z4 | %16
+w: then we heard the yel- low- ham- mer|say: _ “A|lit- tle bit of bread and no|cheese!”|_|
+ z8 | z8 | z4 z2!mf! (3z d c | (3:2:2B2 B (3:2:2A2 A (3:2:2G2 G (3:2:2D2 D | %20
+w: ||Once a-|gain we roamed the wood- land, When the|
+ (3:2:2F2 F (3:2:2G2 G A2- !breath!!fermata!A F | %21
+w: years had fleet- ed by, _ And,|
+ (3:2:2G2 G (3:2:2A2"^poco rall." A !tenuto!B !tenuto!B !tenuto!G2 | %22
+w: poor as mice, we pledged Our vows,|
+"^a tempo" z A({GA} (3:2:2G2) F!p! f4- |!<(! f8- | f6!<)! (3z ^c d | %25
+w: my love and I.|_|* We had|
+"^poco rit." (3:2:2=e2 e (3:2:2B2 B A2- !breath!A"^a tempo" A | %26
+w: kiss’d be- neath the trees, _ And|
+ (3:2:2=e2 e (3:2:2B2 B A2- !breath!A F | G =E F D !breath!G2 !>!E2 | !>!A4- !fermata!A z z!p! ^E | %29
+w: then we heard a- gain _ The|yel- low- ham- mer say, quite|plain: _ “A|
+ ^F/ F/ F/ F/ F F !>!^f4 | !>!^d8- | d z z2 z4 | z4 z2 |] %33
+w: lit- tle bit of bread and no|cheese!”|_||
+V:2
+ (3z!mf! dc | (3:2:2(!>!B2 [dfb]) (3:2:2(!>!A2 [dfa]) (3:2:2(!>!G2 [Bdg]) (3:2:2(!>!D2 [Bd]) | %2
+ (3:2:2(!>!F2 [Bdf]) (3:2:2(!>!G2 [Bdg]) (3:2:2(!>!A2 [dfa]-)!mp! (3([dfa] DC) | %3
+[I:staff +1] (3:2:2(!>!B,2[I:staff -1] [DFB])[I:staff +1] (3:2:2(!>!A,2[I:staff -1] [DFA])[I:staff +1] (3:2:2(!>!G,2[I:staff -1] [B,DG])[I:staff +1] (3:2:2(!>!D,2[I:staff -1] [B,D]) | %4
+[I:staff +1] (3:2:2(!>!F,2[I:staff -1] [B,DF])[I:staff +1] (3:2:2(!>!G,2[I:staff -1] [B,DG])[I:staff +1] (3:2:2(!>!A,2[I:staff -1] [DFA]-) [DFA][DF] | %5
+[I:staff +1] (3:2:2(!>!G,2[I:staff -1] [EG])[I:staff +1] (3:2:2(!>!A,2[I:staff -1] [EGA])[I:staff +1] (3:2:2(!>!B,2[I:staff -1] [EGB]-) [EGB][EG] | %6
+ [A,EA]2 (3:2:2[CEG]2 [CEF] !arpeggio![FAcf]2 (3z dc | %7
+ (3:2:2(!>!B2 [dfb]) (3:2:2(!>!A2 [dfa]) (3:2:2(!>!G2 [Bdg]) (3:2:2(!>!D2 [Bd]) | %8
+ (3:2:2(!>!F2 [Bdf]) (3:2:2(!>!G2 [Bdg]) (3:2:2(!>!A2 [dfa]-) (3([dfa] =EF) | %9
+ (3:2:2G2 G (3:2:2z2 [B,D=EB] (3:2:2z2 [A,DFA] (3z =ef | %10
+ (3:2:2g2 g (3:2:2z2 [Bd=eb] (3:2:2z2 [Adfa] z2 | .G.=E.F.D .G.E.F.D | %12
+ ([^CFA]2 !fermata![^cfa]4)!p! [^G,D^E]2 | [^F,A,D^F]6 [^A,^C]2 | [=B,^D]8 | %15
+({=d'/^d'/=e'/} d') z z2 z4 | [=B,^D]6 (3z =D=C | %17
+!<(![I:staff +1] (3:2:2(!>!_B,2[I:staff -1] [=D=F_B])[I:staff +1] (3:2:2(!>!A,2[I:staff -1] [DFA])[I:staff +1] (3:2:2(!>!G,2[I:staff -1] [B,DG])[I:staff +1] (3:2:2(!>!D,2[I:staff -1] [B,D]) | %18
+[I:staff +1] (3:2:2(!>!F,2[I:staff -1] [B,DF])!<)![I:staff +1] (3:2:2(!>!G,2[I:staff -1] [B,DG])[I:staff +1] (3:2:2(!>!A,2[I:staff -1] [DFA]-) (3[DFA] dc | %19
+ (3:2:2(!>!B2 [dfb]) (3:2:2(!>!A2 [dfa]) (3:2:2(!>!G2 [Bdg]) (3:2:2(!>!D2 [Bd]) | %20
+ (3:2:2(!>!F2 [Bdf]) (3:2:2(!>!G2 [Bdg]) (3:2:2(!>!A2 [dfa]-) !fermata![dfa][df] | %21
+ (3:2:2(!>!G2 [eg]) (3:2:2(!>!A2 [ega]) [Begb][cegb] [Bceg]2 | %22
+ [A,EA]2 (3:2:2[CEG]2 [CEF] !arpeggio![FAcf]2 (3z DC | %23
+[I:staff +1] (3:2:2(!>!B,2[I:staff -1] [DFB])"^cresc."[I:staff +1] (3:2:2(!>!A,2[I:staff -1] [DFA])[I:staff +1] (3:2:2(!>!G,2[I:staff -1] [B,DG])[I:staff +1] (3:2:2(!>!D,2[I:staff -1] [B,D]) | %24
+[I:staff +1] (3:2:2(!>!F,2[I:staff -1] [B,DF])[I:staff +1] (3:2:2(!>!G,2[I:staff -1] [B,DG])[I:staff +1] (3:2:2(!>!A,2[I:staff -1] [DFA]-) (3[DFA] =EF | %25
+ (3:2:2G2 G (3:2:2z2 [B,D=EB] (3:2:2z2 [A,DFA] z"^a tempo" =e/f/ | %26
+ (3:2:2g2 g (3:2:2z2 [Bd=eb] (3:2:2z2 [Adfa] z2 | .g.=e.f.d g2({!>!ef} !>!e2) | %28
+ !>![^cfa]2!8va(! !arpeggio!!fermata![^c'f'a']4!8va)!!p! [^G,D^E]2 | [^F,A,D^F]6 [^A,^C]2 | %30
+ [=B,^D]8 |({=d'/^d'/=e'/} d') z z2 z4 | !fermata![=B,^D]6 |] %33
+V:3
+ z |!ped! F,,4!ped-up! | F,,4 | F,,4 | F,,4 | F,,4 | [F,,C,F,] (3:2:2B, A,/ !arpeggio!E F,, | %7
+ F,,4 | (F,, B,,) (A,, F,) | z G, z F, | z G z F | .B,/.G,/.A,/.F,/ .B,/.G,/.A,/.F,/ | %12
+ ([^C,F,A,][I:staff -1] !fermata![^CFA]2)[I:staff +1] [_B,,,_B,,] | [A,,,A,,]3 [^F,,,^F,,] | %14
+ [=B,,^D,^F,]4 |[I:staff -1] [=B,^F^d]2[I:staff +1] ^D,,2 | [=B,,,^F,,]3 =F,, | F,,4 | F,,4 | %19
+ F,,4 | F,,4 | [C,,F,,]2"^poco rall. colla voce" [F,,,F,,]2 | %22
+"^a tempo" [F,,C,F,] (3:2:2B, A,/ !arpeggio!E F,, | F,,4 | (F,, B,,) (A,, F,) | %25
+"^colla voce" z G, z F, | z G z F |[K:treble] .B/.G/.A/.F/ B G | %28
+ !>![^CFA] !arpeggio!!>!!fermata![^cfa]2[K:bass] [_B,,,_B,,] | [A,,,A,,]3 [^F,,,^F,,] | %30
+ [=B,,^D,^F,]4 |[I:staff -1] [=B,^F^d]2[I:staff +1] ^F,,2 | !fermata![=B,,,^F,,]3 |] %33
+V:4
+ x | (B,,,2 F,,,2) | (B,,,2 F,,,2) | (B,,,2 F,,,2) | (B,,,2 F,,,2) | (C,,2 F,,,2) | x4 | %7
+ (B,,,2 F,,,2) | B,,,2 D,,2 | [D,,A,,]2 [D,,A,,]2 | [D,,A,,]2 [D,,A,,]2 | D,4 | x4 | x4 | %14
+ [=B,,,^F,,]4 | x4 | x4 | (_B,,,2 F,,,2) | (B,,,2 F,,,2) | (B,,,2 F,,,2) | (B,,,2 F,,,2) | x4 | %22
+ x4 | (B,,,2 F,,,2) | B,,,2 D,,2 | [D,,A,,]2 [D,,A,,]2 | [D,,A,,]2 [D,,A,,]2 |[K:treble] D4 | %28
+ x3[K:bass] x | x4 | [=B,,,^F,,]4 | x4 | x3 |] %33
+V:5
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | (3:2:2z [B,D=E]/ x3 | (3:2:2z [Bd=e]/ x3 | x4 | x4 | %13
+ x3[I:staff +1] =E, | x4 | x4 | [^D,^F,]3[I:staff -1] z | x4 | x4 | x4 | x4 | %21
+ x2 z/ [CEGB]/ [B,CEG] | x4 | x4 | x4 | (3:2:2z [B,D=E]/ x3 | (3:2:2z [Bd=e]/ x3 | x4 | %28
+ x!8va(! x2!8va)! x | x3[I:staff +1] =E, | x4 | x4 | [^D,^F,]3 |] %33

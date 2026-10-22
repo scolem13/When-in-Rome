@@ -1,0 +1,59 @@
+% Das Wohltemperierte Clavier I, Praeludium VI: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=538
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Das Wohltemperierte Clavier I, Praeludium VI
+C:Johann Sebastian Bach (1685–1750)
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=66
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="one"
+V:2 treble 
+V:3 bass nm="two"
+V:4 bass 
+V:1
+ z3/2 A/ (3[FD][AF][Dd] (3[BG][BG][EG] (3[E_D][GE][DA] | %1
+ (3[F=D][AF][Da] (3[fd][fd][Ad] (3[BG][dB][Gg] (3[ec][ec][Gc] | %2
+ (3[AF][cA][Ff] (3[dB][dB][Gg] (3[ec][ec][Aa] (3[fd][fd][Bb] | %3
+ (3[ge][ge][cc'] (3[af][af][ca] (3[fd][fd][Af] (3[dB][dB][Fd] | %4
+ (3[BG][BG][DB] (3[GC][BG][EB] (3[AF][AF][CF] (3[DB,][FC][B,E] | %5
+ (3[CA,][FC][A,C] (3[A,F,][CA,][F,C] (3[A,_G,][CA,][G,_E] (3[A,G,][DA,][G,C] | %6
+ (3[B,=G,][DB,][G,D] (3[B,G,][=EB,][G,_G] (3[B,G,][=GD][B,G] (3[_EA,][GD][A,_G] | %7
+ (3[DB,][=GD][B,D] (3[B,G,][DB,][G,D] (3[=B,_A,][DB,][A,F] (3[B,A,][=EB,][A,D] | %8
+ (3[C=A,][EC][A,E] (3[CA,][_GC][A,_A] (3[CA,][=AE][CA] (3[F=B,][AE][B,_A] | %9
+ (3[EC][=AE][Cc] (3[FD][_B=G][EB] (3[AF][AC][A,A] (3[D=B,][GE][_DG] | %10
+ (3[F=D][dA][Ff] (3[_BG][_ec][Ae] (3[dB][dF][Dd] (3[G=E][cA][_Gc] | %11
+ (3[B=G][dB][Gg] (3[_eG][gd][Gg] (3[_dA][g=e][db] (3[ed][ae][dg] | %12
+ (3[f=d][AF][DA] (3[FD][=BF][=D_d] (3[FD][=dF][DA] (3[FD][_BE][_DA] | %13
+ (3[E_D][G=D][A,F] (3[D_B,]E z z4 | z2 (3:2:1[_EC]E/ (12:11:1z2 [DB,]/[DG]/ z/ [DG]/B- | %15
+ B/[=G=e]/[BG]/[gB]/ z/ [Ge]/[BG]/[_dB]/ z/ [Ge]/[BG]/[gB]/ z/ [Ge]/[BG]/[dA]/ | %16
+ z/ [_G=d]/[AG]/[_eA]/ z/ [Gd]/[AG]/[cA]/ z/ [Gd]/[AG]/[eA]/ z/ [Gd]/[AG]/[c=G]/ | %17
+ z/ [DG]/[BG]/[Bd]/ z/ [Bd]/[gd]/[gb]/ z/ [ag]/[f=e]/[=d_d]/ z/ [Ad]/[ed]/[eg]/ | %18
+ z/ [e=d]/[_d=B]/[AG]/ z/ [EG]/[_BG]/[Bd]/ z/ [Ge]/[dB]/[ed]/ z/ [Ae]/[dG]/[ec]/ | %19
+ z/ [A=d]/[BG]/[_eA]/ z/ [_Gd]/[AG]/[c=G]/ z/ [DB]/[GF]/[BG]/ z/ [_EB]/[GD]/[BG]/ | %20
+ z/ [_DB]/[=ED]/[BE]/ z/ [DA]/[ED]/[G=D]/ z/ [=B,F]/[D_D]/[F=D]/ z/ [B,F]/[DA,]/[F_D]/ | %21
+ z/ [G,E]/[_D_B,]/[ED]/ z/ [A,E]/[DG,]/[E=B,]/ z/ [_A,=D]/[_DA,]/[E=D]/ z/ [A,F]/G,- | %22
+ G,/[E,G,]/[_DG,]/[DE]/ z/ [DE]/G (3:2:1[F=D][F=A]/ (3:2:1z/ [Ad]/ (3:2:1[FA]d/ (3z/4 [DF]/-[DF]/ | %23
+ (3[_A=B][df][df] (3[_af][a=b][af] (3[_bg][e=a][_g_e] (3[_af][d=g][=e_d] | %24
+ (3:2:6[_g_e][cf][=d=B] [=e_d][_B_e][c=A] =d4- | [=d=A]2 =A2 [dAD_G]4 |] %26
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z3 _G z4 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | z4 z [DF]/ z3/2 [fA] | x8 | z6 [=B_ADF]2 | [DF]2 [_d=E=G]2 z4 |] %26
+V:3
+ D,D, D,D, D,D, D,D, | D,D, DD G,G, CC | F,F, B,G, CA, DD, | E,C, F,E, D,C, B,,A,, | %4
+ G,,F,, E,,C,, F,,A,, B,,C, | F,,2 z _E, D,C, B,,A,, | G,,B,, C,D, _E,B,, C,D, | %7
+ G,,2 z F, =E,D, C,=B,, | A,,C, D,E, F,C, D,E, | A,,A, A,G, F,F,, F,,E,, | D,,D, D,C, B,,B, B,A, | %11
+ G,2 z B, A,G, F,E, | D,F, G,A, B,F, G,A, | %13
+ B,,F,, G,,[A,,F,]/[_EB,]/ (3:2:1[B,,F,][DA,]/ (3:2:1z/ [DB,]/ (3:2:1[G,,=E,][DA,]/ (3:2:1z/ [_DA,]/ | %14
+ (6:5:2=D,,4 [_G,,A,,] (6:5:2D,4 [=G,B,] | _D=D, DD, DD, DD, | CD, CD, CD, CD, | %17
+ B,D, B,D, G,D, G,D, | E,D, E,D, E,D, E,D, | _G,D, G,D, =G,A, G,F, | [D,E,G,F,E,]4 D,E, F,2 | %21
+ E,G, F,E, F,E, (3:2:2F,2 z/4 D,/ | _D,E, G,[_B,D,]/E,/ A,7/2 z/ | z8 | z6 [=B,,_A,F,D,]2 | %25
+ [F,D,]2 E,2 [D,D,,]4 |] %26
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %13
+ z3 [CF,]/ z3/2 [F,,F,]/ z3/2 [A,,E,]/ z/ | z/ [_G,A,]/[CA,]/(3:2:2C z2 z/ (3[B,=G,]B, z z2 | x8 | %16
+ x8 | x8 | x8 | z4 D,4- | z4 _A,,3 =A,, | B,,4 =B,,3 [_B,,E,]/ z/ | (6:5:2A,,4 z8 | x8 | x8 | %25
+ [=A,=A,,]4 z4 |] %26

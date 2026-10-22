@@ -1,0 +1,69 @@
+X:1
+T:English Suite No. 1
+T:Prelude
+C:Johann Sebastian Bach
+%%score { ( 1 2 5 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=120
+M:12/8
+I:linebreak $
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:5 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+V:6 bass 
+L:1/4
+V:1
+ x3/2 x3/2 x3/2 x3/2 x3/2 A/G/F/ x3/2 d/c/B/ | x x e/f/ g/a/b/g/e/g/ a3- a3- |$ agf efd c3- c2 d | %3
+ edc BcA G3- G2 A | Bcd cdB c3 c2 d |$ ef=g fge f2 e d2 e | fga bga g3- g2 a | bag fge ^def- f3- |$ %8
+ fBe- ee^d edc BcA | G2 A G2 F E6- |$ E^DC B,=DC DEF EFD | AGF E=GF GAB ABG | FGA B3- BAG AFG |$ %13
+ ^E6- EFG CFE | FGA B3- Bcd cdB | ABG TG2 F fed cdB |$ ^A2 B A2 G F6- | FG^A BAc d6- | %18
+ dcB e3- edc dfe |$ f6- f=ga b=c'a | =gfe dec f2 g Pc2 B | bag fge ^def Bcd |$ eBe- eed- ddc- cBA | %23
+ G6- GAB cBd | c6- cde fe=g |$ f6 fga bfa | gfe a3- agf gef | =g6 f6 |$ e6 d3- dcB | c6- cdc BcA | %30
+ PG3- GAB EDC B,CA, |$ edc Bdc d6- | d3 c3- cdc B=cA | G3- GBG EeA- ABG |$ agf efd c2 d c2 B | %35
+ ABc dfe fde fag | a12 :| %37
+V:2
+ x9 E/G/B/ x3/2 | A/B/c/d/ x4 ag/f/e/d/ z/ B/A/G/A/E/- |$ E2 z z3 AGF EFD | C3- C2 D E6- | %4
+ E2 B, x3 A6- |$ A4- x2 A6 | z6 e6- | e3 z3 z3 BcA |$ G3 F3 E6- | E[I:staff +1]^DC B,CA, x6 |$ %10
+ x12 |[I:staff -1] C6 D3 E3- | E3 D3 C3- C2 B, |$ x12 | x12 | x6 F6- |$ FED CDB, z ED CDB, | %17
+ ^A,2 z z3 B,CD EDF | =G3- GFE B6 |$ ^ABc deA B4- x2 | B6- B3 ^A2 B | B6- B3 B2 A |$ G3 F3 E3 F3 | %23
+ B,C^D EDF E6- | EFG AGB A6- |$ ABc dce d6- | d3 cBA B3- Bcd | edf e3- eAc d3- |$ dGB c3- cBA B3- | %29
+ BA=G FGE F6 | EDC x9 |$ G,2 A, B,EF (G3 G2 A) | B3- BA=G F3 =F3- | %33
+ =FED[I:staff +1] CDB,[I:staff -1] E3 D3 |$ A6- A[I:staff +1]GF EFD | %35
+[I:staff -1] A3- A3- A d2- d3- | d3- dcB c6 :| %37
+V:3
+"" x3/2 A,/G,/F,/"" x3/2 D/C/B,/"" x3/2 x3/2"" x3/2 x3/2 |"""" x4"" x4[I:staff -1] e-"" e3- |$ %2
+"" e2[I:staff +1] z z3"" z6 |"""" z6"" EDC B,C""A, |"" G,3- G,2"" E,"" A,G,F, E,F,""D, |$ %5
+"" z z E,"" A,3-"" A,A,=G,"" F,G,E, |"" ^D,2 F,"" D,2"" B,,"" E,D,C, B,,C,""A,, | %7
+"" z B,,E,"m" z C,F,"" B,,B,C"" ^DC""B, |$"" E""G,""A,"" B,A,""B,"" z z F,"" G,2"" A, | %9
+"" B,2"" x"" x"m" x2"" G,2"" A,"" G,2"m" F, |$"""""""" E,6"""" z6 | %11
+"" A,,2 B,,"" C,B,,A,,"" B,,C,D,"" C,D,E, |"" D,E,F,"m" G,,A,,B,,"m" ^E,,3"m" F,,=E,,"m"D,, |$ %13
+"" CB,A, G,B,A, B,6 |"" A,3-"" A,G,F,"" G,3-"" G,G,C | %15
+"m""m" F,3-"" F,F,""^E,"m" F,2 G,"" ^A,2"m" B, |$"" C2"m" z"" x"m" x2"" ^A,2"m" B,"" A,2"m" G, | %17
+"" F,2"m" E,"m" D,2"m" C,"m" B,,2 z"m" z3 |"""m""m" z12 |$"" F,G,^A,"m" B,""A,C"m" D3- D2"" ^D | %20
+"m" EF"m"=G"m" F"m"GE"m" DF"m"E"" FCE |"" ^D3- D2"" E"" FB,""A,"" G,A,"m"F, |$ %22
+"" E,F,""G,"m" A,F,"m"B,"" G,E,""A,"" z F,[I:staff -1]B,- | %23
+""""[I:staff +1] E,6-"" E,F,""G,"" A,""G,B, |"""" A,6-"" A,B,""C"" D""CE |$"""" D6"" z3"m" z3 | %26
+"""" E,6-"" E,3-"" E,""E""D |"m" CDB,"" CB,A,"" D3-"" D"m"B,D |$ %28
+"" G,B,E,"" A,""C,E,"" F,,3"m" TG,,3 |"" A,,C,E,"" A,A,,C,"" D,,3"" T^D,,3 | %30
+"" E,,2 z B,""CA,"" G,2"" A,"m" G,2"m" F, |$"" E,2"m" F,"" G,2"m" A,"" B,2 z z3 | %32
+"m" G,,F,,""E,,"" A,,B,,"m"C,"" D,C,E,"m" D,E,=F, |"" x4"" x2"" C3"""" B,3 |$ %34
+"" C2"" D"" C2"m" B,"""""""m" A,6 |"" CDE"" FD""C"" DFE D""F""E |"" F[I:staff -1]AG A3-"" A6 :| %37
+V:4
+ A,,/C,/E,/ x3/2 E,/G,/B,/ x3/2 A,/C/E/ x9/2 | x4 x4 x[I:staff -1] c3- |$ c2[I:staff +1] x x3 x6 | %3
+ x12 | x12 |$ C,3- C,2 A,, D,3 z3 | x12 | G,,3 A,,3 B,,2 z z3 |$ x6 E,6- | E,6- E,^D,C, B,,C,A,, |$ %10
+ G,,2 A,, G,,F,,E,, F,,G,,A,, G,,A,,B,, | x12 | x12 |$ C,,6- C,,3 C,,2 C, | D,3 ^D,3 E,3 ^E,3 | %15
+ F,2 B,, C,3 F,3- F,3- |$ F,6- F,6- | F,2 x6 x x3 | x12 |$ x12 | x12 | x12 |$ x9 ^D,3 | %23
+ x z x4 E,,2 z z3 | z z E, C,D,E, A,,2 z z3 |$ z z A, F,=G,A, D,F,D, B,,D,B,, | x12 | x12 |$ x12 | %29
+ x12 | x3 z3 z6 |$ z6 E,D,C, B,,C,A,, | x12 | E,6- E,6 |$ A,6- A,6- | A,6- A,6- | A,6 A,,6 :| %37
+V:5
+ x6 | x11/2 A/- |$ A z/ x9/2 | x6 | x3/2 E3/2- E z/ z3/2 |$ x6 | x6 | x6 |$ x6 | x6 |$ x6 | x6 | %12
+ x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | %30
+ x6 |$ x6 | x6 | x6 |$ x6 | x9/2 f3/2- | f3/2- f/e/d/ e3 :| %37
+V:6
+ x6 | x6 |$ A, x5 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x3 F,, x2 |$ %16
+ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | z/ x/ B,,/ G,,/A,,/B,,/ x3 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | %30
+ x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 :| %37

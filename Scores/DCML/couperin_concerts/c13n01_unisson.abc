@@ -1,0 +1,29 @@
+X:1
+T:Nouveau Concert, ou Les Goûts-Réunis no. 13
+T:Prélude. Vivement
+C:François Couperin
+%%score { 1 | 2 }
+L:1/16
+M:4/4
+I:linebreak $
+K:G
+V:1 bass3 nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Vivement" z2 D,2G,2D,2 B,2G,2 DEDC | PB,2G,2 DEDC B,2D2 (G,2F,)G, | PF,2A,2 DECD PB,2B,2 E2>F2 |$ %3
+ P^C2 A,2D2A,2 F,G,F,E, D,E,F,G, | A,2 A,2D2A,2 F,G,F,E, D,E,F,G, | A,D^CD B,EDE CA,DF, PE,2>D,2 | %6
+ D,2 A,2D2A,2 PF,2A,2 DECD |$ PB,2G,2 B,2D2 C2B,2 PA,2>G,2 | %8
+ PF,2({E,}^D,2) B,2>^C2 (^DB,)E2 PF,2>E,2 | E,2 B,A, ^G,A,G,F, E,2B,A, G,2E2 | %10
+ P^C2 ED CDCB, A,2ED CB,A,G, |$ PF,2D,2 DEDC (B,CB,C PC2>)B,2 | %12
+ PA,2 D,E, F,G,F,G, A,2 D,E, F,G,F,G, | A,2PF,2 D2({C}B,2)({A,} G,2)C2({B,} A,2)D2 | %14
+ PB,2G,2 E2({D}C2) PA,2({G,}F,2) D2({C}B,2) |$ PG,2({F,}E,2) C2({B,}A,2) PF,G,F,G, A,B,A,B, | %16
+ PB,2A,2 D2>F,2({F,} MG,2>)A,2 PA,2>G,2 | G,16 |] %18
+V:2
+ z4 z2 E,2 G,2D,2 B,2G,2 | DEDC B,CB,A, G,A,G,F, E,2A,,2 | D,4 z2 D,2 G,A,F,G, E,2E,2 |$ %3
+ A,B,G,A, F,G,F,E, D,2 A,2D2A,2 | F,G,F,E, D,2 A,2D2A,2 PF,2D,2 | %5
+ z D,E,F, G,E,F,G, A,G,F,D, A,,2A,2 | D2A,2 PF,2A,2 D2A,2 PF,2D,2 |$ %7
+ G,A,F,G, E,F,^G,E, A,B,=G,A, PF,2E,2 | P^D,^C,B,,A,, G,,2G,A, PF,2E,2 B,,2B,A, | %9
+ ^G,A,G,F, E,2B,A, G,A,G,F, E,D,^C,B,, | A,,2 z2 z2 ED ^CDCB, A,G,F,E, |$ %11
+ D,2DC B,CB,A, G,2F,2 E,2C,2 | D,4 z2 D,E, F,G,F,G, A,2 D,E, | %13
+ F,E,D,C, B,,A,,G,,F,, E,,D,,E,,C,, D,,2D,2 | G,=F,E,D, C,D,E,C, F,E,D,C, B,,C,D,B,, |$ %15
+ E,D,C,B,, A,,B,,C,A,, D,E,D,E, F,2D,2 | G,2D,C, B,,C,D,B,, E,2P!turn!C,2 D,2D,,2 | G,,16 |] %18

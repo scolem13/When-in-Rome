@@ -1,0 +1,33 @@
+% Mit Freuden Zart (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1262
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Mit Freuden Zart (hymntune)
+C:Anonymous, 1556
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=60
+M:3/2
+I:linebreak $
+K:D
+V:1 bass nm="lower"
+V:2 bass 
+V:3 treble nm="upper"
+V:4 treble 
+V:1
+ x4 [D,F,]2 | [D,A,] [E,A,] F,2 [F,,A,]2 | [G,,A,] [B,,G,] D, =C, B,,2 | %3
+ [E,B,] F,/G,/ A,2 [F,A,] [E,B,] | A,3/2 G,/ [D,F,]2 [D,F,]2 | [D,A,] [E,A,] F,2 [F,,A,]2 | %6
+ [G,,A,] [B,,G,] D, =C, B,,2 | [E,B,] F,/G,/ A,2 [F,A,] [E,B,] | A,3/2 G,/ [D,F,]2 [B,,B,]2 | %9
+ [C,A,] [C,^G,] F,2 [B,,F,]2 | [C,A,] [E,^G,] [A,C]2 A,2 | [F,A,] [E,G,] [D,A,]2 D, C, | %12
+ [B,,B,] [E,B,] A,2 F,2 | G, F, A,2 [F,A,] [E,B,] | A,3/2 G,/ [D,F,]2 x2 |] %15
+V:2
+ x2 x4 | z6 | z2 F,2 F, B, | z A, z G, z2 | z A,, z4 | z6 | z2 G,2 F, B, | z A, z G, z2 | %8
+ z A,, z4 | z6 | z4 z =G, | z4 F,2 | z3 G, D =C | B,2 z G, z2 | z A,, z2 x2 |] %15
+V:3
+ x4 [A,D]2 | [DF] [CG] [DA]2 [Dd]2 | [Dc] [DB] [DA]2 ^D2 | [EG] [=DF] [CE]2 D2 | D C D2 [A,D]2 | %5
+ [DF] [CG] [DA]2 [Dd]2 | [Dc] [DB] [DA]2 ^D2 | [EG] [=DF] [CE]2 D2 | D C D2 [Fd]2 | %9
+ [Fc] [=FB] [CA]2 [Dd]2 | [Ec] [EB] [EA]2 [CA]2 | D [CE] [DF]2 [A,D]2 | [DF] [D^G] [CA]2 [DA]2 | %13
+ [DB] [D=G] [CE]2 D2 | D C D2 x2 |] %15
+V:4
+ x2 x4 | z6 | z4 B3/2 A/ | z4 F G | E2 z4 | z6 | z4 B3/2 A/ | z4 F G | E2 z4 | z6 | z6 | z6 | z6 | %13
+ z4 F G | E2 z2 x2 |] %15

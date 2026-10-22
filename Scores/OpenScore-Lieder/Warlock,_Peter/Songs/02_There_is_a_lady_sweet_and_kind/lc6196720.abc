@@ -1,0 +1,64 @@
+X:1
+T:Songs
+T:There is a lady sweet and kind
+C:Peter Warlock
+Z:The Poem from Thomas Ford's
+Z:"Musicke of Sundrie Kindes" (1607)
+Z:
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=116
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:6 treble 
+L:1/4
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Quasi Allegretto" z d c B G A | B d f4 | z d c B A G | D =E F4 | z G c B d c |[M:2/4] B c G2 | %6
+w: There is a la- dy|sweet and kind,|Was nev- er face so|pleased my mind,|I did but see her|pass- ing by,|
+[M:3/4] z B A G B, C | D B, F4 | z d c B G A | (3z B d f4 | z d c B A G | d3/2 c/ F4 | %12
+w: And yet I love her|till I die.|Her ges- ture, mo- tion|and her smiles,|Her wit, her voice my|heart be- guiles;|
+ z3/2 G/ c B d c |[M:2/4] B c G2 |[M:3/4] z B A G B, C | (3z D B, F4 | z2 (3d c B G A | B d f4 | %18
+w: Be- guiles my heart, I|know not why,|And yet I love her|till I die.|Cu- pid is wing- èd,|and doth range,|
+ z d c B A G | D =E F4 | z d c B G A |[M:4/4] B3/2 A/"^ten." c6- |[M:3/4] c B A G B, C | %23
+w: Her coun- try so my|love doth change:|But change she earth or|change she sky,|_ Yet will I love her|
+ (3z D B, F4- | F2 z2 z2 | z6 |] %26
+w: till I die.|_||
+V:2
+!mp! [B,D]4 B2- | B6- | B4 (FD) | (AG) ([A,F]!<(![CG][FA]) [_EGc]!<)! | %4
+ (!tenuto![FGd]2 cB) ([_B,G][A,F]) |[M:2/4]"^rit."!>(! GF- (3FE!>)!D |[M:3/4] !arpeggio![ege']6 | %7
+!p! (D4 C=A, |!mp! CB,- B,2) B2- | B2 (cB- B2) | f ([Bd][Fc][DB] FD) | %11
+ (AG) ([A,F][CG]!<(![FA]) [_EGc]!<)! | (!tenuto![FGd]2 cB) ([_B,G][A,F]) | %13
+[M:2/4]"^rit."!>(! (GF- (3FE!>)!D |[M:3/4] !arpeggio![eb]6) |!p! (D4 C=A, |!mp! CB,- B,2) (B2- | %17
+ B3 d cB | f) ([Bd][Fc][DB] FD) | (A[Gc])!<(! ([A,F][CG][FA]) [_EGc]!<)! | %20
+!f! (dA [=Gc][DB]) [FG][=EA] | %21
+[M:4/4]"^ritenuto" (!tenuto!d2!>(! !tenuto!c!tenuto!B!tenuto!G!tenuto!A!>)! !tenuto!B2) | %22
+[M:3/4] !arpeggio![GBg]6 |!p! (!>!D4 =A,2 | [D,B,])!<(! !tenuto!d- d4!<)! |!pp![I:staff +1] D,6 |] %26
+V:3
+[I:staff +1] D,4[I:staff -1] (EC | D2 E2 FE | D4) B,2- | [B,=E]2 x4 | x2 !tenuto!E4 | %5
+[M:2/4] [_A,D]2 G,2 |[M:3/4] !arpeggio![GB]6 | A,_A, G,3 =A, | D,4 (EC | D2 E2 FE | D) x3 B,2 | %11
+ [B,=E]2 x4 | x2 E2 E2 |[M:2/4] [_A,D]2 G,2 |[M:3/4] !arpeggio![GB]6 | A,_A, G,3 =A, | D,4 (EC | %17
+ D2 E2 FE | D) x3 B,2 | [B,=E]2 x4 | [A,_G]2 B,2 ^C2 |[M:4/4] _E4- EC- (3C^CD | %22
+[M:3/4] !arpeggio!!>![B,E]6 | A,_A, G,4 | x ([DB] [Ec]!>(![D-A] !tenuto!cB)!>)! | x6 |] %26
+V:4
+ [B,,,F,,]4 G,E, | F,2 G,2 A,G, | F,4 D,F, | C,2 F,,3 [_E,G,C] | [D,G,=B,]G,, C,G, F,,C, | %5
+[M:2/4] B,,2 E,,=E,, |[M:3/4] !arpeggio!!tenuto![E,G,C]6 | F,=E, _E,4 | B,,,4 G,E, | F,2 G,2 A,G, | %10
+ F,4 D,F, | C,2 F,,3 [_E,G,C] | [D,G,=B,]G,, C,G, F,,C, |[M:2/4] B,,2 E,,=E,, | %14
+[M:3/4] !arpeggio!!tenuto![E,G,C]6 | F,=E, _E,4 | B,,,4 G,E, | F,2 G,2 A,G, | F,4 D,F, | %19
+ C,2 F,,3 [_E,G,C] | [F,,E,]2 [^F,,=E,]2 [A,,G,]2 | %21
+[M:4/4] (!tenuto!B,!tenuto!^F, !tenuto!G,2) (!tenuto!B,!tenuto!F, !tenuto!G,2) | %22
+[M:3/4] !arpeggio!G,6 | F,=E, _E,4 | B,,, F, G,=E,!ped! F,2 | [B,,,F,,]6!ped-up! |] %26
+V:5
+ x2 B,,- | B,,3- | B,,2 G,, | x3 | x2 F,, |[M:2/4] x2 |[M:3/4] [F,,B,,]3 | F,,3 | x2 B,,- | B,,3- | %10
+ B,,2 G,, | x3 | x2 F,, |[M:2/4] x2 |[M:3/4] [F,,B,,]3 | F,,3 | x2 B,,- | B,,3- | B,,2 G,, | x3 | %20
+ x3 |[M:4/4] C,2- C,/ (D,/E,/=E,/ |[M:3/4] =F,3) | F,,3 | x/ B,,/- B,,2 | x3 |] %26
+V:6
+ x3 | x3 | x3 | x3 | x3 |[M:2/4] x2 |[M:3/4] x3 | x3 | x3 | x3 | x3 | x3 | x3 |[M:2/4] x2 | %14
+[M:3/4] x3 | z !tenuto!F2- | F2 x | x3 | x3 | x3 | x3 |[M:4/4] x4 |[M:3/4] x3 | x3 | x2 D | x3 |] %26

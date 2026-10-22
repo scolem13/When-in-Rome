@@ -1,0 +1,49 @@
+X:1
+T:Suite No. 5 in C minor
+T:Allemande
+C:Johann Sebastian Bach
+%%score ( 1 2 3 4 )
+L:1/4
+Q:1/4=80
+M:2/2
+I:linebreak $
+K:Eb
+V:1 bass nm="Violoncello" snm="Vc."
+L:1/16
+V:2 bass 
+V:3 bass 
+V:4 bass 
+V:1
+"m""^ALLEMANDE" C | C4- CB,A,A,"m" A,2>F,2"" G,2>D,2 | %2
+"m" C,4- C,_B,,A,,G,,"m" A,,2>F,,2"" G,,2>D,2 | %3
+"m" D,3C,/=B,,/"m" C,2>G,2"m" A,,2>G,2"m" (F,E,D,C,) |$ %4
+"" =B,,2>=A,,2 G,,B,,D,F, A,2>G,2 (F,E,F,D,) |"m" E,2>D,2 C,=B,,C,D, E,D,E,F, G,F,G,A, | %6
+"" B,4- B,A,G,F, G,3F,/E,/"" _D2>B,2 |$"" C4- CB,A,G, A,2>C2"" T=E,2>F,2 | %8
+ G,4- G,F,(=E,F,/G,/)"" C,2>B,2 A,3B,/G,/ |"m" A,4- A,2(CB,) (A,G,F,E,)"m" (D,E,F,D,) |$ %10
+"m" A,,4- A,,(F,E,D,) (C,B,,A,,G,,)"m" (F,,G,,A,,F,,) |"" A,4- A,G,A,F,({E/} D4-) DCDB, | %12
+"" F4- FEDC B,2>G,2 _A,2>F2 |$"" (G,2G,/)(_A,/G,/F,/) G,2>A,2"" (G,4"m" TF,3)E,/D,/ | %14
+"m" E,4 C,,2>"m"B,2 (=A,4 G,)^F,G,2 |"" D4- D(E,D,C,)"m" TB,,2>C,2 (D,=E,^F,G,) |$ %16
+"m" (=A,G,^F,G, A,B,CD) E3D/C/"" D2>F,2 |"m" G,4"m" C,(=A,G,A,)"" TA,6 G,2 | %18
+"" G,2>D,2=B,,2>D,2 G,,6 z"C{" D |$ D4- DCDE T=B,2>_A,2G,2>F,2 | %20
+"m" E,2>G,2 CD,E,F,"" T=B,,2>G,2 (D3E/F/) |"m" E4 C,,2>"m"D2 C3B,/=A,/ B,2>C2 |$ %22
+"" =A,4- A,A,B,C F,3G,/A,/ TA,3G,/A,/ |"" B,4 D,,B,_A,G, F,2>E,2F,2>G,2 | %24
+"" C,4- C,C,D,E,"m" D,2>D,2E,2>F,2 |$"" D,3(E,/D,/) C,2D,B,,"" G,2-G,/(F,/E,/D,/) E,2>G,2 | %26
+"m" _D,,2-D,,/(G,,/A,,/B,,/ C,B,,)_A,2 (G,4 TF,)=E,F,2 | %27
+"" B,,4- B,,B,,A,,G,,"m" A,,2>F,2G,2>_A,2 |$"m" =E,2>B,2 A,3B,/A,/"" TG,6 F,2 | %29
+"" F,4- F,F,E,D,"" E,2>C2 (B,=A,G,F,) |"" B,3_A,/G,/ F,2>G,2 A,2>G,2 (F,E,D,E,/F,/) |$ %31
+"" T=B,,2>A,2 D2(E/D/C/D/)"m" E2>C,2"m" (G,,3A,,/_B,,/) | %32
+"m" A,,2>G,2"m"F,2>E2"m" TD2>C2 (D=B,"m"C2) |"" F,2>G,2 (_A,G,F,E,) D,C,=B,,C, D,E,F,D, |$ %34
+"" A,,2>=B,2"" (CB,=A,G,)"m" C6"m" ^F,2 |"" G,2>E2 DEFD"m" T=B,6 C2 |"m" C2>G,2E,2>C,2 C6 z |] %37
+V:2
+ x/4 | G,, x2 =B,,/ x/ | E, x3 | E,,/ x7/2 |$ x4 | C,,/ x7/2 | G,, x3 |$ A,, x3 | =E,, x3 | %9
+ C, x3 |$ x4 | B,, x3 | x4 |$ E, x =B,, x | C, x3 | A,, x3 |$ x4 | B,, x D,2 | x4 |$ G,, x3 | x4 | %21
+ x4 |$ E, x3 | D, x3 | A, x A, x |$ G,, x E,/ x3/2 | x4 | C,, x3 |$ x2 C,3/2 x/ | =A,, x3 | %30
+ D, x3 |$ x4 | x4 | G,,3/4 x13/4 |$ x7/2 =A,,/ | G,,3/4 x5/4 D,2 | x2 G,,3/2 x/4 |] %37
+V:3
+ x/4 | E, x3 | x4 | G,,/ x7/2 |$ x4 | G,,/ x7/2 | E, x3 |$ E, x3 | C, x3 | F, x3 |$ x4 | F, x3 | %12
+ _A, x3 |$ x4 | x4 | ^F, x3 |$ x4 | D, x3 | x4 |$ =A, x3 | x4 | x4 |$ x4 | x4 | E, x3 |$ A, x3 | %26
+ x4 | =E, x3 |$ x4 | x4 | x4 |$ x4 | x4 | =B,3/4 x13/4 |$ x4 | x4 | x2 E,3/2 x/4 |] %37
+V:4
+ x/4 | C,, x3 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | F,, x3 |$ x4 | D,, x3 | x4 |$ x4 | x4 | %15
+ C,, x3 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | %32
+ x4 | x4 |$ x4 | x4 | x2 C,,3/2 x/4 |] %37

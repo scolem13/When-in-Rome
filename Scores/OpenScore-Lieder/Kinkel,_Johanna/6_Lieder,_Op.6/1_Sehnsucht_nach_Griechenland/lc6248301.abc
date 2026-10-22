@@ -1,0 +1,80 @@
+X:1
+T:6 Lieder, Op.6
+T:Sehnsucht nach Griechenland
+C:Johanna Kinkel
+Z:Emanuel Geibel
+Z:OpenScore (CC0)
+%%score { 1 | 2 | 3 } { ( 4 6 ) | 5 }
+L:1/8
+Q:1/4=64
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Voice\nSingstimme"
+V:2 treble 
+V:3 treble 
+V:4 treble nm="Piano"
+V:6 treble 
+V:5 bass 
+V:1
+!p!"^Lento  ad libitum" A | A2 A A2 B | c2 z c2 c | c2!<(! c d2 e!<)! |!f! f3 z!p! A A | A3 A2 B | %6
+w: 1. Ich|bli- cke in mein|Herz und ich|bli- cke in die|Welt, bis vom|1. schwim- men- den|
+ d3 c2 c | c3 B2 A | ^G3 z2 z | z6 | z6 | z6 | ^c3 c B A | (d2 ^d) e2 e | (!>!=d3 d) ^c B | %15
+w: Au- ge die|Trä- ne mir|fällt!||||1. Wohl leuch- tet die|Fer- * ne mit|gol- * de- nem|
+ (^B3 ^c2) A | _B3 A2 G | F3 z F F | c3-!>(! c d c!>)! | (c F2) z2 z |!p! A2 A B B B | c3 c2 _B | %22
+w: Licht, _ doch|1. hält  mich der|Nord, ich er-|rei- * che sie|nicht. _|1. O, die Schran- ken so|eng, und die|
+!<(! A3!<)! c3 |!f! !fermata!f3 z!p! A B | c3 B2 B | A3 z2 z | z6 | z6 | z6 | z2 z z2 :| %30
+w: Welt so|weit, und so|1. flüch- tig die|Zeit.|||||
+V:2
+ z | z2 A A2 B | c3 c2 c | c3 d2 e | f3 A2 A | A3 A2 B | d3 c2 c | (c3 B2) A | ^G3 z2 z | z6 | z6 | %11
+w: |Ich weiss ein|Land, wo aus|son- ni- gem|Grün um ver-|2. sun- ke- ne|Tem- pel die|Ro- * sen|glühn;|||
+ z6 | ^c2 c c B A | (d2 ^d) e2 e | (!>!=d3 d) ^c B | (^B3 ^c) A A | _B3 A2 G | G3 F2 F | c3- cd c | %19
+w: |2. Wo die pur- pur- ne|Wo- * ge das|U- * fer be-|schäumt, _ und von|2. kom- men- den|Sän- gern der|Lor- * * beer|
+ (c F2) z2 z | A3 B B B | c3 c2 _B | A3 c2 c | !fermata!f3 z A B | c3 B3 | A3 z2 z | z6 | z6 | z6 | %29
+w: träumt. _|2. Wohl lockt es und|winkt dem ver-|lan- gen- den|Sinn, und ich|2. kann nicht|hin.||||
+ z2 z z2 :| %30
+w: |
+V:3
+ z | A3 A2 B | d3 c !fermata!z c | (c3 d2) e | f3 z2 z | A3 A2 B | d3 c2 c | (c3 B2) A | ^G3 z2 z | %9
+w: |O hätt’ ich|Flü- gel! durchs|Blau _ der|Luft|3. wie wollt’ ich|ba- den im|Son- * nen|duft!|
+ z6 | z6 | z2 z z"^a Tempo" E E | ^c2 z z B A | (d2 ^d) e2 e | (!>!=d3 d) ^c B | (^B3 ^c2) A | %16
+w: ||Doch um-|3. sonst, ach, und|Stun- * de auf|Stun- * de ent-|flieht, _ ver-|
+ _B3 A2 G | G3 F2 F | c3- c d c | (c F2) z2 z | A2 A B B B | c3 c2 _B | A3 c3 | !fermata!f3 z A B | %24
+w: 3. träu- me die|Ju- gend, be-|gra- * be das|Lied. _|3. O, die Schran- ken so|eng, und die|Welt so|weit, und so|
+ c3 B2 B | A3 z2 z | z6 | z6 | z6 | z2 z z2 :| %30
+w: 3. flüch- tig die|Zeit.|||||
+V:4
+"^Lento" z |!p! !arpeggio![CEA]6 |!<(! !arpeggio![CEAc]6!<)! |!mf! !arpeggio![CE_Bc]6 | %4
+!f! !arpeggio![CFAcf]6 |!p! [C^DA]3 [B,DA]2 [B,DA] | [B,=D^G]3 [CEA] z z | [B,^D^FA]6 | %8
+ [B,E^G]3 z2 z |[I:staff +1]{B,/[I:staff -1]^F/B/^d/^f/a/} !>!c'3 b2 a | !arpeggio![^GBe^g]6 | %11
+[I:staff +1]{E,/B,/E/[I:staff -1]^G/B/d/} !>!^f3"^a Tempo" e2 d | %12
+!mf! !arpeggio![^CEA^c]!arpeggio![CEAc]!arpeggio![CEAc] !arpeggio![CEAc]!arpeggio![DF^GB]!arpeggio![CEA] | %13
+"^sempre arpeggiando" [DAd][DAd][^DA^d] [^CAe][CAe][CAe] | [D^Ge][=DG^d][DG=d] [DGd][EA^c][EGB] | %15
+ [^D^F^B][DFB][DFB] [^CE^c][CEc][CEc] |"_cresc." [^CG^c][CGd][CG^d] [CGe][CGe][CGe] | %17
+ [DFd][FAe][FAf] [FBf][FBg][FB_a] | [Fc=a][Fcg][Fcf] [E_Be][EBd][EBc] | %19
+ [CFc]!>(![A,CF][A,CF] [A,CF][A,CF]!>)![A,CF] | %20
+!p! !wedge![C_EA]!wedge![B,EA] z !wedge![B,=EA]!wedge![B,E^G] z | %21
+ !wedge![CEA]!wedge![CEA] z !wedge![CE_B]!wedge![CEB] z | %22
+!<(! !wedge![CFA]!wedge![CFA]!<)! z !wedge![CFA]!wedge![CFA] z | %23
+!f! !arpeggio!!fermata![F_Bdf]2 z!p! [C^FA][CFA] z | [CEA] z z [B,E^G] z z | %25
+ [A,EA]3"^più moto"!sfz! f2 d/B/ | [EA] z z [E^G] z z | [EAe]3!sfz! g>fd/_B/ | %28
+ [EA] z z!ff! [B,^G]3 | [A,CEA] z z z2 :| %30
+V:5
+ z | !arpeggio![A,,E,A,]6 | !arpeggio![A,,E,A,]6 | !arpeggio![G,,C,G,]6 | %4
+!ped! !arpeggio![F,,C,F,A,]6!ped-up! | [F,,F,]3 [F,,F,]2 [F,,F,] | [E,,E,]3 [A,,E,] z z | %7
+ [B,,,B,,]6 | [E,,E,]3 z2!ped! z | z6!ped-up! | !arpeggio![E,B,E]6 | z6 | %12
+ !arpeggio![A,,E,A,]!arpeggio![A,,E,A,]!arpeggio![A,,E,A,] !arpeggio![A,,E,A,]!arpeggio![A,,F,^G,]!arpeggio![A,,E,A,] | %13
+ [A,,^F,A,][A,,F,A,][A,,=F,A,] [A,,E,A,][A,,E,A,][A,,E,A,] | %14
+ [E,,E,][E,B,][E,B,] [E,B,][E,^C][E,D] | [A,,A,][A,,A,][A,,A,] [A,,E,A,][A,,E,A,][A,,E,A,] | %16
+ [A,,E,A,][A,,E,A,][A,,E,A,] [A,,E,A,][A,,E,A,][A,,E,A,] | %17
+ [D,A,][D,A,][D,A,] [D,_A,][_D,A,][D,A,] | [C,F,C][C,A,C][C,A,C] [C,G,C][C,G,C][C,G,C] | %19
+ [F,A,][F,,C,F,][F,,C,F,] [F,,C,F,][F,,C,F,][F,,C,F,] | %20
+ !wedge![F,,F,]!wedge![F,,F,] z !wedge![=E,,=E,]!wedge![E,,E,] z | %21
+ !wedge![A,,A,]!wedge![A,,A,] z !wedge![G,,G,]!wedge![G,,G,] z | %22
+ !wedge![F,,F,]!wedge![F,,F,] z !wedge![_E,,_E,]!wedge![E,,E,] z | %23
+!ped!{/D,,} !arpeggio!!fermata![D,F,_B,D]2!ped-up! z [^D,,^D,][D,,D,] z | [E,,E,] z z [D,,D,] z z | %25
+ [C,,C,]3 [D,B,]3 | [E,C] z z [D,B,] z z | [C,A,C]3 [D,F,_B,D]3 | [E,A,C] z z [E,,E,]3 | %29
+ [A,,,A,,] z z z2 :| %30
+V:6
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %20
+ x6 | x6 | x6 | x6 | x6 | x3 F3 | x6 | x3 F3 | x3 F2 E/D/ | x5 :| %30

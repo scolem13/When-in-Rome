@@ -1,0 +1,74 @@
+X:1
+T:6 Lieder, Op.5
+T:Zum Ossa sprach der Pelion
+C:Peter Cornelius
+Z:Annette von Droste-Hülshoff
+Z:OpenScore (CC0)
+Z:
+%%score 1 { ( 2 4 6 ) | ( 3 5 7 ) }
+L:1/8
+Q:1/4=61
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:6 treble 
+V:3 bass 
+V:5 bass 
+V:7 bass 
+V:1
+"^Mässig" z4 | z8 | z8 | z4 z2 z E | A2 A2 A3 A | c3 _A F4 | z2 G2 G2 _E F | G6 =E C | F4 E2 z2 | %9
+w: |||Zum|Os- sa sprach der|Pe- li- on:|„Was ist für ein|Klang in den|Lüf- ten?|
+ z8 | z8 | z8 | !fermata!z8 | ^G2 G A B2 B B | d3 B ^G2 z2 | A ^G (3A A _B c2 c c | %16
+w: ||||Singt wohl die ster- ben- de|Nach- ti- gall?|o- der ei- ne ver- sto- sse- ne|
+ _e4 d2 !fermata!z2 | G2 G G G2 G2 | G2 G ^G A3 A | A3 A A3 A | _B4 C2 z2 | F2 F2 _A A F A | %22
+w: Hou- ri?|Sechs- tau- send Jah- re|mach- ten mich grau, und|sech- zig- tau- send|Stun- den:|zehn- mal fie- len mei- ne|
+ _d3 F =E2 z2 | z E E E A2 A A | c4 B2 z B | ^c3 c =c3 c | c3 B A2 z A | _B4 F F E F | A4 ^G2 z2 | %29
+w: Ce- dern hin,|und mei- ne Fel- sen ver-|wit- tern, doch|nie drang solch ein|Ton zu mir vom|Tal o- der aus der|Hö- he“!|
+ z8 | z8 | z4 z2!pp! E E | c2 c c c3 _A | G4 z2 _e2 |!<(! (d4 c4- | c2)!<)!!>(! (=BA) G2 F2!>)! | %36
+w: ||Ei ne|Mut- ter am Han- ge|steht, die|weint _|_ ihr * ein- zig|
+ F4 E2 z2 |] %37
+w: Söhn- lein!|
+V:2
+!p! (E2 ^GB | f3 e ^d4) | (!>!g2 fe ^d4- | d2 !fermata!e4) z2 | A2 A2 A4 | _A4 A4 | %6
+ (([G,-DFG-]4 [G,C_EG]2)) z2 | z2 [G,DF] z [G,C=E] z z2 | z2 [A,DF] z z2 [^G,B,F] z | %9
+ z4!p!!<(! (^G2 Bd | f3!<)! e ^d4) |!>(! (!>!g2 fe ^d4-!>)! | d2 e4) !fermata!z2 | B2 B2 B4 | %14
+ [^E^GB]6 z2 | c2 c2 c4 | [^FAc]6 !fermata!z2 | x4 G4 | G2 G^G A4 | A3 A [FA]3 [FA] | _B4 B3 B | %21
+ _AGAG F=EF_E | _DCDF [C=E][CE][CE][CE] | [CE][CE][CE][CE] [CFA][CFA][CFA][CFA] | %24
+ [CFA][CFA][CFA][CFA] [B,EA][B,EA][B,E^G][B,EG] | ^G^^FGA =G^E=FG | %26
+ [A,C=F][A,C^D][^G,CF][G,B,E][I:staff +1] [A,=D][A,B,][A,C][A,CF] | [F,_B,F]2[I:staff -1] z2 z4 | %28
+ z4!<(! (E2 ^GB | f3 e!<)! ^d4) |!sfz!!>(! (!>!g2 fe!>)! ^d4- | d2 e4) z2 | z4!pp! (([_A,C-F]4 | %33
+ [G,C_E]6)) z2 | z8 | z4 ((([B,D^G]4 | [A,CA]4))) z4 |] %37
+V:3
+ z4 | z8 | z8 | z8 | A,2 A,2 A,4 | _A,4 A,4 | (=B,,4 C,2) z2 | z2 [B,,,B,,] z [C,,C,] z z2 | %8
+ z2 [D,,D,] z z2 [E,,E,] z | z8 | z8 | x8 | z8 | B,2 B,2 B,4 | [^E,^G,B,]6 z2 | C2 C2 C4 | %16
+ [^F,A,C]6 !fermata!z2 | x4 G,4 | G,2 G,^G, A,4 | A,3 A, [F,A,]3 [F,A,] | _B,4 E,^D,E,C, | %21
+ [_A,C] G, [A,C] G, [F,A,] =E, [F,A,] [_E,A,] | [_D,F,] [C,F,] [D,F,] [G,_B,] G, G, G, G, | %23
+ [A,,A,][^G,,^G,][A,,A,][=G,,=G,] [F,,F,][E,,E,][F,,F,][E,,E,] | %24
+ [D,,D,][C,,C,][D,,D,][^D,,^D,] [E,,E,]2 [^F,,^F,][^E,,^G,] | %25
+ [A,,E,][A,,E,][A,,E,][A,,E,] [^D,,^D,][D,,D,][D,,D,][D,,D,] | %26
+ [E,,E,][E,,E,][E,,E,][E,,E,] [F,,F,]2 [F,,F,][_E,,_E,] | [D,,D,]2 z2 z4 | z8 | z8 | z8 | %31
+[I:staff -1] [E^GB]6[I:staff +1] z2 | z4 (([F,,F,]4 | [C,,C,]6)) z2 | z8 | z4 (([=E,,=E,]4 | %36
+ [A,,E,]4)) z4 |] %37
+V:4
+ x4 | x8 | !>![EAc]8 | !fermata![E^GB]6 x2 | A^GA=G FEF_E | FE F2- FE F2 | x8 | x8 | x8 | x8 | x8 | %11
+ [EAc]8 | [E^GB]6 x2 | B^AB=A ^G^^FG=F | x8 | cBc_B A^GA=G | x8 | G^FGF =FEFE | _EDED ^CD=E=G | %19
+ FEFE _EDED | F4 x4 | x8 | x8 | x8 | x8 | ^CCCC [A,=C][A,C][A,C][A,C] | x8 | x8 | x8 | x8 | %30
+ !>![EAc]8 | x8 | x8 | x8 | x8 | x8 | x8 |] %37
+V:5
+ x4 | x8 | x8 | x8 | A,^G,A,=G, F,E,F,_E, | F,E, F,2- F,E, F,2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %13
+ B,^A,B,=A, ^G,^^F,G,=F, | x8 | CB,C_B, A,^G,A,=G, | x8 | G,^F,G,F, =F,E,F,E, | %18
+ _E,D,E,D, ^C,D,=E,=G, | F,E,F,E, _E,D,E,D, | _D,C,D,F, x4 | %21
+ [F,,F,][E,,E,][F,,F,][_E,,_E,] [_D,,_D,][C,,C,][D,,D,][C,,C,] | %22
+ [_B,,,_B,,][A,,,A,,][B,,,B,,][_D,,_D,] [C,,C,][=B,,,=B,,][C,,C,][E,,E,] | x8 | x8 | x8 | x8 | x8 | %28
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %37
+V:6
+ x4 | x8 | x8 | x8 | x8 | D3 _D C3 C | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | _DCD_B, G^FG[CE] | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %35
+ x8 | x8 |] %37
+V:7
+ x4 | x8 | x8 | x8 | x8 | D,3 _D, C,3 C, | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ x8 |] %37

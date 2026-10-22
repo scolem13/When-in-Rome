@@ -1,0 +1,36 @@
+% To God Be the Glory (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1298
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:To God Be the Glory (hymntune)
+C:William Howard Doane (1832-1915), 1875
+%%score ( 1 2 ) 3
+L:1/4
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:G
+V:1 bass nm="lower"
+V:2 bass 
+V:3 treble nm="upper"
+V:1
+ x2 [G,,G,] | G,, B,, [D,A,]/>[D,A,]/ | [G,,G,] [G,,B,] [B,,G,] | [D,F,] [D,F,] [D,F,] | %4
+ [G,,G,]2 [G,,G,] | [E,G,] [E,G,] [E,G,] | [G,,G,] [B,,G,] [G,,G,] | [A,,G,] [A,,E,] A,, | %8
+ [D,F,]2 [D,F,] | G,, B,, [D,A,]/>[D,A,]/ | [G,,G,] [G,,B,] [B,,G,] | [D,F,] [D,F,] [D,F,] | %12
+ [G,,G,]2 [G,,G,] | [C,G,] [C,A,] [C,C] | [D,B,] [D,A,] [D,B,] | [D,G,] [D,G,] [D,F,] | %16
+ [G,,G,]2 G,/>[G,A,]/ | [G,B,]2 G,/>[G,A,]/ | [G,B,]2 [G,B,]/>[G,,G,]/ | [B,,G,] [A,,F,] [G,,G,] | %20
+ [D,F,]2 [D,F,]/>[D,G,]/ | [D,A,]2 [D,F,]/>[D,G,]/ | [D,A,]2 [D,A,]/[C,F,]/ | %23
+ [B,,G,] [B,,G,] [A,,F,] | [G,,G,]2 [D,F,] | G,, B,, [D,A,]/>[D,A,]/ | [G,,G,] [G,,B,] [B,,G,] | %27
+ [D,F,] [D,F,] [D,F,] | [G,,G,]2 [G,,G,] | [C,G,] [C,A,] [C,C] | [D,B,] [D,A,] [D,B,] | %31
+ [D,G,] [D,G,] [D,F,] | [G,,G,]2 x |] %33
+V:2
+ x x2 | G,2 z | z3 | z3 | z3 | z3 | z3 | z2 A,/G,/ | z3 | G,2 z | z3 | z3 | z3 | z3 | z3 | z3 | %16
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | G,2 z | z3 | z3 | z3 | z3 | z3 | z3 | z2 x |] %33
+V:3
+ x2 [B,D] | [B,D] D [CE]/>[CF]/ | [B,G] [B,D] [DG] | [DA] D [DA] | [DB]2 [DB] | [Ec] [CE] [Ec] | %6
+ [DB] [DG] [DB] | [^CB] [ECA] C | [DA]2 [=CD] | [B,D] D [CE]/>[CF]/ | [B,G] [B,D] [DG] | %11
+ [DA] D [DA] | [DB]2 [=FB] | [Ed] [Ec] [EA] | [DG] [DF] [DG] | [DB] [DB] [CA] | %16
+ [B,G]2 [DB]/>[Dc]/ | [Dd]2 [GB]/>[Fc]/ | [Gd]2 [Dd]/>[DB]/ | [DG] [CA] [B,B] | [DA]2 [DA]/>[DB]/ | %21
+ [Cc]2 [DA]/>[DB]/ | [Dc]2 [Dc]/[DA]/ | [Dd] [Dd] [Dc] | [DB]2 [CD] | [B,D] D [CE]/>[CF]/ | %26
+ [B,G] [B,D] [DG] | [DA] D [DA] | [DB]2 [=FB] | [Ed] [Ec] [EA] | [DG] [DF] [DG] | [DB] [DB] [CA] | %32
+ [B,G]2 x |] %33

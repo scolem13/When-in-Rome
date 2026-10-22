@@ -1,0 +1,57 @@
+X:1
+T:Variations on a Theme of Corelli
+T:Variation 18
+C:Sergei Rachmaninoff
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=144
+M:9/8
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+L:1/16
+V:2 bass 
+V:4 bass 
+V:1
+!f!"^Allegro con brio" .[F,A,]z/([G,D]/[A,F]) .[DF]z/([EA]/[Fd]) .[Adf].[F^G=B].[EA^c] | %1
+ .[EA^c]z/[^CA]/[CA] .[CA]z/[K:bass][A,C]/[A,C] .[A,C]z/[^C,A,]/[C,A,] |$ %2
+ .[D,F,A,]z/[K:treble]([G,D]/[A,F]) .[DF]z/([EA]/[Fd]) .[Adf].[FAd].[G=Be] | %3
+ .[Gce]z/[Ec]/[Ec] .[Ec]z/[CE]/[CE] .[CE]z/[E,C]/[E,C] |$ %4
+ .[F,A,C]z/([_DE]/[FA]) .[FA]z/([Gc]/[Af]) !tenuto![cg]2 .[=Bg] |$ %5
+ .[G,_B,]z/([_CD]/[_EG]) .[EG]z/([FB]/[G_e]) !tenuto![Bf]2 .[Af] | %6
+ .[F,A,]z/([G,D]/[A,F]) .[DF]z/([EA]/[Fd]) (!tenuto![Adf][^FBd]).[FBd] |$ %7
+ (!tenuto![Bdf][G=Bd]).[GBd] (!tenuto![Bdfa][cdf]).[cdf] (!tenuto![cdfa][A^cf]).[Acf] | %8
+!f! .[F,A,DF]z/([FAd]/[Adf]) .[FAdf]z/([dfa]/[fad']) .[fad'f'].[=Bf^g=b].[^cea^c'] |$ %9
+ .[^cea^c']z/[Aca]/[Aca] .[Aca]z/[K:bass][A,^C]/[A,C] .[A,C]z/[^C,G,A,]/[C,G,A,] | %10
+ .[D,F,A,]z/[K:treble]([FAd]/[Adf]) .[FAdf]z/([dfa]/[fad']) .[fad'f'].[dfad'].[eg=be'] |$ %11
+ .[egc'e']z/[cec']/[cec'] .[cec']z/[CE]/[CE] .[CE]z/[E,C]/[E,C] | %12
+ .[F,A,C]z/([Acf]/[cfa]) .[Acfa]z/([fac']/[ac'f'])!8va(! !tenuto![gc'g']2 .[g=bg']!8va)! |$ %13
+ .[_B,DG_B]z/([Bdg]/[dgb]) .[Bdgb]z/!8va(!([gbd']/[bd'g']) !tenuto![ad'a']2 .[ac'a']!8va)! | %14
+ .[_DFB_d]z/([Bdf]/[dfb]) .[Bdfb]z/!8va(!([fb_d']/[bd'f']) .[a^c'f'a']z/([fac']/[ac'f']) |$ %15
+ .[d'a'd'']z/([^g^g']/[aa']) .[dd']!8va)!z/([^Gg]/[Aa]) .[Dd] z z || %16
+V:2
+"m" .[D,,A,,D,]z/([A,,E,]/[D,F,]) .[D,F,A,]z/([G,B,]/[A,D]) .[A,DF]"m".[F,^G,=B,]"".[E,A,^C] | %1
+ .[E,A,^C]z/[A,,E,A,]/[A,,E,A,] .[A,,E,A,]z/[E,,A,,E,]/[E,,A,,E,] .[E,,A,,E,]z/[A,,,E,,A,,]/[A,,,E,,A,,] |$ %2
+"m" .[D,,A,,]z/([A,,E,]/[D,F,]) .[D,F,A,]z/([G,B,]/[A,D]) .[A,DF].[F,A,D]"m".[G,=B,E] | %3
+"" .[G,CE]z/[C,G,C]/[C,G,C] .[C,G,C]z/[G,,C,G,]/[G,,C,G,] .[G,,C,G,]z/[C,,G,,C,]/[C,,G,,C,] |$ %4
+"" .[F,,C,]z/"m"([G,B,]/""[A,C])"" .[F,A,C]z/"m"([B,=D]/""[CF])[K:treble]"""" !tenuto![CG]2"" .[=B,G] |$ %5
+[K:bass]"" .[_E,,_B,,_E,]z/""([B,,_A,]/""[E,B,]) .[E,G,B,]z/""([A,C]/""[B,_E])"""" !tenuto![B,F]2"" .[=A,F] | %6
+"m" .[D,,A,,D,]z/([A,,E,]/[D,F,]) .[D,F,A,]z/([G,B,]/[A,D]) (!tenuto![A,DF]""[^F,B,D]).[F,B,D] |$ %7
+"" (!tenuto![B,DF]""[G,=B,D]).[G,B,D][K:treble]"m" (!tenuto![B,DFA]"m"[^G,CF]).[G,CF]"m" (!tenuto![CDFA]""[A,^CF]).[A,CF] | %8
+[K:bass]"m" .[D,,A,,D,]z/([A,,D,F,]/[D,F,A,]) .[A,,D,F,A,]z/([F,A,D]/[A,DF]) .[F,A,DF]"m".[F,^G,=B,]"".[E,A,^C] |$ %9
+ .[E,A,^C]z/[A,,E,A,]/[A,,E,A,] .[A,,E,A,]z/[E,,A,,E,]/[E,,A,,E,] .[E,,A,,E,]z/""[A,,,E,,A,,]/[A,,,E,,A,,] | %10
+"m" .[D,,A,,]z/([A,,D,F,]/[D,F,A,]) .[A,,D,F,A,]z/([F,A,D]/[A,DF]) .[F,A,DF][K:treble].[A,DFA]"m".[=B,EG=B] |$ %11
+"" .[CEGc]z/[G,CEG]/[G,CEG] .[G,CEG]z/[K:bass][G,,C,G,]/[G,,C,G,] .[G,,C,G,]z/[C,,G,,C,]/[C,,G,,C,] | %12
+"" .[F,,C,]z/([C,F,A,]/[F,A,C]) .[C,F,A,C]z/[K:treble]([A,CF]/[CFA])"""" !tenuto![CGc]2"" .[=B,G=B] |$ %13
+[K:bass]"m" .[G,,D,G,]z/([D,G,_B,]/[G,B,D]) .[D,G,B,D]z/[K:treble]([B,DG]/[DGB])"""" !tenuto![DAd]2"" .[^CA^c] | %14
+[K:bass]"m" .[B,,F,B,]z/([F,B,_D]/[B,DF]) .[F,B,DF]z/[K:treble]([DFB]/[FB_d])"" .[A,^CFA]z/([CFA]/[FA^c]) |$ %15
+"m" .[DAd]z/([^G,^G]/[A,A])[K:bass] .[D,D]z/([^G,,G,]/[A,,A,])"C}" .[D,,D,] z z || %16
+V:3
+ x18 | x9[K:bass] x9 |$ x3[K:treble] x15 | x18 |$ x6 x6 (f2e2_e2) |$ x6 x6 (_e2d2^c2) | x18 |$ %7
+ x18 | x18 |$ x9[K:bass] x9 | x3[K:treble] x15 |$ x18 | x6 x6!8va(! (f'2e'2_e'2)!8va)! |$ %13
+ x6 x6!8va(! (g'2^f'2=f'2)!8va)! | x9!8va(! x9 |$ x8!8va)! x10 || %16
+V:4
+ x9 | x9 |$ x9 | x9 |$ x3 x3[K:treble] (FE_E) |$[K:bass] x3 x3 (_ED^C) | x9 |$ x3[K:treble] x6 | %8
+[K:bass] x9 |$ x9 | x7[K:treble] x2 |$ x9/2[K:bass] x9/2 | x3 x3[K:treble] (FE_E) |$ %13
+[K:bass] x3 x3[K:treble] (G^F=F) |[K:bass] x9/2[K:treble] x9/2 |$ x3[K:bass] x6 || %16

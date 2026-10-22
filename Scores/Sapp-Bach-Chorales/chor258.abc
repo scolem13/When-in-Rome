@@ -1,0 +1,35 @@
+X:1
+T:Mein' Augen schlie&szlig; ich jetzt
+T:Mein' Augen schlie&szlig; ich jetzt
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ G | G D G A | !fermata!B2 z d | e d c3/2 d/ | !fermata!B2 z d | c B A G | !fermata!A2 z B | %7
+ G c B A | !fermata!G2 z B/c/ | d d c B | !fermata!A2 z B | G G A B | c2 !fermata!B d | c A B c | %14
+ !fermata!d2 z G | A B c B | A2 !fermata!G x || %17
+V:2
+ D | D A, D E/F/ | !fermata!G2 z G- | G/F/ G- G/ F/4E/4 F | !fermata!G2 z G- | G/F/ G- G/F/ G/G,/ | %6
+ !fermata!D2 z F | F/ E/4F/4 G/A/- A/G/ G/F/ | !fermata!D2 z G | G G G/F/ G | G !fermata!F z F | %11
+ E D E E | E2 !fermata!E D/=F/ | E/ G ^F/ G G | !fermata!G2 z E- | E/F/ G- G/F/ G | %16
+ G/ F/4E/4 F !fermata!D x || %17
+V:3
+ B/A/ | G F G c | !fermata!d2 z d | c d e/ d/4c/4 d | !fermata!d2 z B | c d d3/2 ^c/ | %6
+ !fermata!f2 z B | B e/=d/ d d/>c/ | !fermata!B2 z d | d/c/ B c d | !fermata!d2 z B | B/c/ d c B- | %12
+ B/ A/4^G/4 A A/!fermata!G/ =G | G d d e | !fermata!d2 z B | c/d/ d/ e/4d/4 c d | %16
+ e d/>c/ !fermata!B x || %17
+V:4
+ G,,A,, | B,,C, D,C, B,,2 A,,2 | !fermata!G,,4 z2 B,,2 | C,3 B,, A,,2 D,,2 | %4
+ !fermata!G,,4 z2 G,,2 | A,,2 B,,C, D,2 E,2 | !fermata!D,4 z2 ^D,2 | E,3 F, G,2 =D,2 | %8
+ !fermata!G,,4 z2 G,,A,, | B,,3 E, A,,2 B,,C, | !fermata!D,4 z2 ^D,2 | E,=D, C,B,, C,B,,A,,^G,, | %12
+ A,,B,,C,D, !fermata!E,2 B,,2 | C,2 D,2 G,F, E,2 | !fermata!B,,4 z2 E,D, | C,2 B,,E, A,,2 B,,G,, | %16
+ C,2 D,2 !fermata!G,,2 x2 || %17

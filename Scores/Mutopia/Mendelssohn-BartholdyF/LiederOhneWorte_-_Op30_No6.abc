@@ -1,0 +1,47 @@
+% Lieder ohne Worte: Venetianisches Gondellied, Op.30 No.6: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1741
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Lieder ohne Worte: Venetianisches Gondellied, Op.30 No.6
+C:Felix Mendelssohn Bartholdy
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:F#min
+V:1 bass nm="two"
+V:2 treble nm="one:1"
+V:3 treble 
+V:1
+ x4 x C, | F,,C,[F,A,] C,[F,A,]C | F,,C,[F,A,] C,[F,A,]C | F,,C,[=F,G,] C,[F,G,]C | %4
+ ^F,,C,[=F,G,] C,[F,G,]C | ^F,,C,[G,B,] [B,D]C,[A,C] | [G,B,]C,[F,A,] [=F,G,][^F,A,][G,B,] | %7
+ ^F,,C,[F,A,] C,[F,A,]C | F,,C,[=F,G,] C,[F,G,]C | ^F,,C,[^F,A,] C,[F,A,]C | %10
+ F,,C,[F,A,] C,[F,A,]C | F,,C,[F,A,] C,[F,A,]C | A,,,C,[F,A,] C,[F,A,]C | %13
+ C,,C,[G,B,] [B,D]C,[A,C] | [G,B,]C,[F,A,] [=F,G,][^F,A,][G,B,] | ^F,,C,[F,A,] C,[F,A,]C | %16
+ F,,C,[=F,G,] C,[F,G,]C | ^F,,C,[^F,A,] C,[F,A,]C | F,,C,[F,A,] C,[F,A,]C | %19
+ A,,,C,[F,A,] C,[F,A,]C | C,,C,[G,B,] C,[G,B,]C | F,,C,[F,A,] C,[F,A,]C | C,[F,A,]C C,[F,A,]C | %23
+ C,,C,[G,B,] C,[G,B,]C | F,,C,[F,A,] C,[F,A,]C | E,,E,[B,D] E,[B,D]E | A,,E,[A,C] E,[A,C]E | %27
+ A,,E,[A,C] E,[A,C]E | F,,A,[^DF] A,[DF]A | C,,=F,[G,C] F,[G,C]=F | C,,=F,[G,C] F,[G,C]=F | %31
+ C,,C,[G,B,] [B,D]C,[A,C] | [G,B,]C,[F,A,] [=F,G,][^F,A,][G,B,] | ^A,,E,[=G,C] E,[G,C]E | %34
+ ^A,,E,[=G,C] E,[G,C]E | B,,F,[B,DF] x3 | x3 D,,2- D,, | C,,C,[F,A,] C,[F,A,]C | %38
+ C,,C,[=F,G,] C,[F,G,]C | ^F,,C,[^F,A,] C,[F,A,]C | F,,C,[F,A,] C,[F,A,]C | %41
+ A,,,C,[F,A,] C,[F,A,]C | C,,C,[G,B,] C,[G,B,]C | F,,C,[F,A,] F,,F,-F, | F,, F,2 F,,F, x | %45
+ E,, E,2 D,,D,[F,B,] | C,,C,[G,B,] C,[G,B,]C | F,,C,[F,A,] F,,F,-F, | F,,F,xF,,F,-F, | %49
+ E,, E,2 D,,D,[F,B,] | C,,C,[G,B,] C,[G,B,]C | F,,C,[F,A,] C,[F,A,]C | F,,C,[F,A,] C,[F,A,]C | %53
+ F,,C,[F,A,] C,[F,A,]C | x2 C, [F,A,C]xC, | F,, x4 x |] %56
+V:2
+ x | z6 | z6 | =F4- F- F | ^G4- G- G | z6 | z4 AB | ^c3 c2- c | ^c4- c c | ^ca^g ^fed | %10
+ ^c2 z ^F2- F | A4- A B | ^c3 ^f2- f | =f4- f- f- | f4 AB | ^c3 c2- c | ^c4- c c | ^ca^g ^fed | %18
+ ^c^fe dc=c | ^cAc ^F2- F- | ^F2 ^G =F2 G | ^F4- F z | z4 =F^F | [=F^G]3 [FG]2- [FG] | %24
+ [^FA]4 [=F^G][^FA] | [^GB]3 [GB]2- [GB] | [A^c]4 [^FA][^GB] | [A^c]3 [Ac]2- [Ac] | %28
+ [=c^d]3 [cd]2- [cd] | [^c=f]4- [cf]- [cf] | [=f^g]4- [fg]- [fg] | z6 | z4 z ^c'- | ^c'4- c'- c'- | %34
+ ^c'4 z2 | e'd'^c' b=g^f | ed^c BAB | ^c3 c2- c | ^c4- c c | ^ca^g ^fed | ^c^fe dc=c | %41
+ ^cAc ^F2- F- | ^F2 ^G =F2 G | ^F3 z2 [A,^CF]- | [A,^C^F]2 [A,CE]3 [A,D]- | [A,D]2 [^F,A,^C]3 =f- | %46
+ (24:13:2f8 [^d=f] z | ^c'2 a ^f2 [A,^C^F]- | [A,^C^F]2 [A,CE]3 [A,D]- | [A,D]2 [^F,A,^C]3 =f- | %50
+ f z7/2 [^d=f]/ z | ^c'2 a ^f2 ^c | ^c'2 a ^f2 ^c | ^c'4- c' a | ^f4- f- f- | ^f4- f- f |] %56
+V:3
+ x | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z3 ^g2- g- | ^g4 z2 | z6 | z6 | %17
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %36
+ z6 | z6 | z6 | ^c'4- c'- c'- | ^c'2 z4 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %52
+ z6 | z6 | z6 | z6 |] %56

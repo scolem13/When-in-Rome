@@ -1,0 +1,67 @@
+% 24 Caprices for Solo Violin: 01: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=995
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:24 Caprices for Solo Violin: 01
+C:Niccolò Paganini
+%%score ( 1 2 )
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:E
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble 
+V:1
+ x4 [EG][Be][eB][GE] | [DF][Bf][fB][FD] [EG][Be][eB][GE] | [B,F][db][bd][FB,] [EG][Be][eB][GE] | %3
+ [DF][Bf][fB][FD] [EG][Be][eB][GE] | [B,F][db][bd][FB,] [G,E][Bg][gB][EG,] | %5
+ [A,E][ca]c'e' [^A,F][c^a][ac][FA,] | [B,F][db]d'f' [DB][fd'][d'f][BD] | %7
+ [EB][ge'][e'g][BE] [Fd][bf'][f'b][dF] | [Ge][bg'][g'b][eG] [Ae][c'a'][a'c'][eA] | %9
+ [^A=g][e'c''][c''e'][gA] [c^a][=g'e''][e''g'][ac] | %10
+ [^A=g][e'c''][c''e'][gA] [=Ge][c'^a'][a'c'][eG] | [Ec][^a=g'][g'a][cE] [C^A][=ge'][e'g][AC] | %12
+ [B,F][db]d'f' [=A,D][Bf][fB][DA,] | [G,E][Bg]be' [A,D][Bf][fB][DA,] | %14
+ [G,E][Bg]be' A,[Eca]B,[Gec'] | C[Aec']=C[^Ae=c'] B,[Geb]B,[Fdb] | E2[Bge']2 [E=G][Be][eB][GE] | %17
+ [DF][Bf][fB][FD] [E=G][Be][eB][GE] | [B,F][db][bd][FB,] [E=G][Be][eB][GE] | %19
+ [DF][Bf][fB][FD] [E=G][Be][eB][GE] | [B,F][db][bd][FB,] [B,F][=db][bd][FB,] | %21
+ [A,F][=d=c'][c'd][FA,] [A,F][da][ad][FA,] | [=G,=D][B=d'][d'B][DG,] [G,D][=d=g'][g'd][DG,] | %23
+ [=G,=D][=gb'][b'g][DG,] [G,D][b=d''][d''b][DG,] | [=C=G][e=c']^C[A=ge'] [=DA][f=d']^D[Baf'] | %25
+ [EB][=ge']F[=daf'] =G[db=g']A[f=d'a'] | B[=g=d'b']=c[ge'=c''] [^c^a][=g'e'']=g''^C | %27
+ (3[=Db=d']2[=a=c'=gb]2[faeg]2 (3[=df=ce]2[BdAc]2[=GBFA]2 | %28
+ [=G,=D][B=g][gB][DG,] [G,^D][=cf][fc][DG,] | %29
+ (3[=G,=Db=d']2[a=c'=gb]2[faeg]2 (3[=df=ce]2[BdAc]2[=GBFA]2 | %30
+ [=G,=D][B=g][gB][DG,] [G,^D][=cf][fc][DG,] | %31
+ (3[=G,=Db=d']2[a=c'=gb]2[faeg]2 (3[=df=ce]2[BdAc]2[=GBFA]2 | %32
+ [=G,=D][B=g][gB][DG,] [G,D][^Ag][gA][DG,] | %33
+ (3[=G,^D^ac']2[^g=c'=ga]2[ga=f^g]2 (3[^d=g^cf]2[=cd^A^c]2[^G=c=GA]2 | %34
+ [^G,D][=c^g][gc][DG,] [G,D][Bg][gB][DG,] | %35
+ (3[G,Eb=d']2[a^c'gb]2[gbfa]2 (3[eg=df]2[^ceBd]2[AcGB]2 | [A,E][ca][ac][EA,] [A,E][=ca][ac][EA,] | %37
+ (3[A,=F=c'd']2[^a=d'=ac']2[ac'=g^a]2 (3[=f=a^dg]2[=df=c^d]2[^A=d=Ac]2 | %38
+ [^A,=F][=d^a][ad][FA,] [A,F][^ca][ac][FA,] | [^A,^F][c^a][ac][FA,] [A,F][ec'][c'e][FA,] | %40
+ [B,F][db][bd][FB,] [B,F][=db][bd][FB,] | [B,=G][=db][bd][GB,] [B,G][=f=d'][d'f][GB,] | %42
+ [=C=G][e=c'][c'e][GC] [CG][^dc'][c'd][GC] | [=C^G][d=c'][c'd][GC] [CG][fd'][d'f][GC] | %44
+ z4 [^C=F][^c=f][fc][FC] | [=CD][d^f][fd][DC] [^C=F][^c=f][fc][FC] | %46
+ [G,D][=cg][gc][DG,] [^CE][^ce][ec][EC] | [=CD][df][fd][DC] [^CE][^ce][ec][EC] | %48
+ [G,D][=cg][gc][DG,] [^CE][^ce][ec][EC] | [B,G][=de][ed][GB,] [A,E][ca][ac][EA,] | %50
+ [^A,=G][ec'][c'e][GA,] B,[F^db]=A,[Fdb] | ^G,[EB^g]A,[Eca] B,[^Geb]B,[Fd=c'] | %52
+[K:E] E2[Bge']2 [EG][Be][eB][GE] | [EA][=ce][ec][AE] [E=G][^Ae][eA][GE] | %54
+ [E^G][Be][^gbf=a][ega^c'] z [gbfa][egdf][^ceB,] | %55
+ (3:2:2[Ge]2[bb]2[eG] (3:2:2z/ [Fd]-(3:2:2[Fd][bb]2[dF] (3:2:1z/ | %56
+ (3:2:1[GB]2e (3:2:1z e' [EB][ge'][e'g][BE] | [E=c][ae'][e'a][cE] [E^A][=ge'][e'g][AE] | %58
+ [EB][^ge'][E^GF=A][GBA^c] z [Bdce][dfeg][faB] | %59
+ (3:2:2[eg]2[e'e']2[ge] (3:2:2z/ [df]-(3:2:2[df][d'd']2[fd] (3:2:1z/ | %60
+ (3:2:2[Bg]2[e'g']2[gB] (3:2:2z/ [=ca]-(3:2:2[ca][e'a']2[ac] (3:2:1z/ | %61
+ (3:2:2[Bg]2[e'g']2[aB] (3:2:2z/ [=ca]-(3:2:2[ca][e'a']2[ac] (3:2:1z/ | %62
+ (3:2:2[Bg]2[e'g']2[gB] (3:2:2z/ [^A=g]-(3:2:2[Ag][e'^C]2 (3:2:1z/ ^A, | %63
+ (3[B,^gb]2[f=aeg]2[dfce]2 (3[BdAc]2[^GBFA]2[EGDF]2 | [EG][Be][gB][GE] [EA][=ce][ac][AE] | %65
+ [EG][Be][gB][GE] [EA][=ce][ac][AE] | [EG][Be][gB][GE] [=C=G][^Ae]=ge | %67
+ (3[B,Be]2[^GBb]2[B,D^CE]2 (3[DFEG]2[F=AGB]2[A^cBd]2 | [eg][be][eb][ge] [ea][=c'e][ec'][ae] | %69
+ [eg][be][eb][ge] [df][be][eb][fd] | [ce][ae][ea][ec] [Bd][ge][eg][dB] | %71
+ [Ac][fe][ef][cA] [FA][de][ed][AF] | [EG][ee][ee][GE] [=FA][de][ed][AF] | %73
+ [EG][ee][ee][GE] [=FA][de][ed][AF] | (3[EGe]2e2 z2 (3[EGg]2e2 z2 | %75
+ [EG][ee][eg][BG] [EG][ee][eg][BG] | e4 [EGe]4 |] %77
+V:2
+ x4 x4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %19
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %38
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |[K:E] z8 | z8 | z8 | %55
+ z3 [B,B,] z3 [B,E] | z2 g' z4 z | z8 | z8 | z3 [BB] z3 [BE] | z3 [EE] z3 [EE] | z3 [EE] z3 [EE] | %62
+ z3 [EC] z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %77

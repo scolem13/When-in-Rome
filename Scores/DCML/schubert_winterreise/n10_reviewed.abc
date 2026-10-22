@@ -1,0 +1,78 @@
+X:1
+T:Winterreise
+T:Rast
+C:Franz Schubert
+Z:Wilhelm Müller
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=50
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Singstimme" snm="Sing."
+L:1/16
+V:2 treble nm="Pianoforte" snm="Pno."
+V:3 bass 
+V:1
+ z8 | z8 | z8 | z8 | z8 | z4 !fermata!z2 G2 |$ G3 A G2 G2 | B3 A A2 A2 | =B3 B d2 (cB) | c4 C2 z2 | %10
+w: |||||Nun|merk ich erst, wie|müd' ich bin, da|ich zur Ruh mich _|le- ge;|
+ z4 z2 c2 | c3 C C2 D2 |$ E3 F G2 A2 | B2 c2 B2 cd | e4 E2 z2 | z4 z2 G2 | G3 G G G c =E |$ %17
+w: das|Wan- dern hielt mich|mun- ter hin auf|un- wirt- ba- rem _|We- ge.|Die|Fü- sse fru- gen mich nach|
+ F2 z2 z2 F2 | B3 B _c3 D |{F/} E2 E2 z2 E2 |"^(leise)" (Dd) (dc) (=Bf) (fe) | (ed) (dc) =B4 |$ %22
+w: Rast, es|war zu kalt zum|ste- hen; der|Rüc- * ken _ füh- * lte _|kei- * ne _ Last,|
+ z4 z2"_(stark)" c2 | (cG) (EC) (ec) (d=B) | =B4 c2 z2 | z4 z2 C2 | (Cc) (c_B) (Ae) (ed) |$ %27
+w: der|Sturm _ half _ fort _ mich _|we- hen|der|Rüc- * ken _ fühl- * te _|
+ (dc) (c=B) c4 | z4 z2 c2 | (ec) (GE) (ge) (fd) | c4 C2 z2 | z8 | z8 |$ z8 | z8 | %35
+w: kei- * ne _ Last,|der|Sturm _ half _ fort _ mich _|we- hen|||||
+ z4 !fermata!z2 G2 | G3 A G2 G2 | B3 A A2 A2 | =B3 B (Bd) (cB) |$ c4 C2 z2 | z8 | c2 C =B, C2 D2 | %42
+w: In|ei- nes Köh- lers|en- gen Haus hab-|ob- dach ich _ ge- *|fun- den;||doch mei- ne Glie- der|
+ E3 F G2 A2 | B2 _c2 B2 =cd |$ e4 E2 z2 | z4 z2 G2 | G3 A G2 G2 | c3 =E F2 F2 | B3 B _c3 D |$ %49
+w: ruhn nicht aus; so|bren- nen ih- re _|Wun- den.|Auch|du, mein Herz, in|Kampf und Sturm so|wild und so ver-|
+"_(leise)"{F/} E2 E2 z2 E2 | (Dd) (dc) (=Bf) (fe) | (ed) (dc) =B4 | z4 z2"_(stark)" c2 | %53
+w: we- gen, fühlst|in _ der _ Still _ erst _|dei- * nen _ Wurm|mit|
+ (cG) (EC) (ec) (d=B) |$ (=B2>c2) c2 z2 | z4 z2"_(leise)" C2 | (Cc) (c_B) (Ae) (ed) | %57
+w: hei- * ssem _ Stich _ sich _|re- * gen,|fühlst|in _ der _ Still _ erst _|
+ (dc) (c=B) c4 | z4 z2"_(stark)" c2 |$ (ec) (GE) (ge) (fd) | c4 C2 z2 | z8 | z8 | z8 | z8 | z8 |$ %66
+w: dei- * nen _ Wurm|mit|hei- * ssem _ Stich _ sich _|re- gen!||||||
+ !fermata!z8 |] %67
+w: |
+V:2
+ z (G, !>![G,E]2) | z (G, !>![G,B,C]2) | z (=A, !>![A,CF]2) | z (_A, [A,CF]2) | %4
+ z (G,"_dim." [G,CG]2) | z (G,!fermata![G,=B,G]) z |$ z (C [Cc]2) | z (C [Cc]2) | z (G, [G,G]2) | %9
+ z (G, [G,G]2) | z (C [Cc]2) | z (C [CEG]2) |$ z (B, ([B,B])[Cc]) | %13
+!<(! ([B,B][A,A]!>(! [G,G][B,B])!<)!!>)! | z (E [Ee]2) | z (G [Gg]2) | z ((!>![_D_d] [Cc]2)) |$ %17
+ z (!>![=B,=B] [Cc]2) | z (!>![Ee] [Dd]2) | z (!>![Dd] [Ee]2) | z ((D [DA=Bd]2)) | %21
+ z ((D [DA=Bd]2)) |$ z (D"_cresc." [DA=Bd])[E^Fce] | z!f! (G !>![Gceg])[=Bdf=b] | %24
+ z (!>!c [cec']2) | z (C [C^Fc]2) | z (C [C^Fc]2) |$ z (C [C^Fc]2) | z (C"_cresc." [C^Fc])[EFce] | %29
+ z!f! (C [Gceg])[=Bdg=b] | [cegc']!p!(G, !>![G,E]2) | z (G, !>![G,B,C]2) | z (=A, !>![A,CF]2) |$ %33
+ z (_A, !>![A,C]2) | z (G,"_dim." !>![G,CG]2) | z (G, !fermata![G,=B,G]) z | z!pp! (C [Cc]2) | %37
+ z (C [Cc]2) | z (G, [G,G]2) |$ z (G, [G,G]2) | z (C [Cc]2) | z (C [CEG]2) | z B, [B,B][_C_c] | %43
+"_cresc." ([B,B][A,A][G,G][B,B]) |$ z (E [Ee]2) | z (G [Gg]2) | z (!>![_D_d] [Cc]2) | %47
+ z (!>![=B,=B] [Cc]2) | z (!>![Ee] [Dd]2) |$ z (!>![Dd] [Ee]2) | z (D [DA=Be]2) | z (D [DA=Bd]2) | %52
+ z"_cresc." (D[DA=Bd])[E^Fce] | z!f!!<(! G-[Gceg][=Bdf=b]!<)! |$ z!>(! (c [cec']2)!>)! | %55
+!pp! z (C [C^Fc]2) | z (C [C^Fc]2) | z (C [C^Fc]2) | z"_cresc." C-[C^Fc]!<(![EFce]!<)! |$ %59
+ z!f!!>(! G-!>)![Gceg][=Bdg=b] | [cegc'] (G, !>![G,E]2) | z (G, !>![G,B,C]2) | z (=A, !>![A,CF]2) | %63
+ z (_A, !>![A,C]2) | z"_dim." (G, !>![G,CG]2) | z (G, !>![G,=B,G]2) |$ !fermata![E,G,C]4 |] %67
+V:3
+"m"!p! [C,E,]2 z .[C,E,] |"" [C,=E,]2"" z .[C,E,] |"" [C,F,]2 z .[C,F,] |"m" [C,F,]2 z [C,F,] | %4
+"" [C,=E,]2 z"m" [C,_E,] |"" !fermata![G,,D,]3 z |$"m" [C,E,]2 z"" [C,=E,] | %7
+"m""m" [C,F,]2 z [C,F,] |"" [C,F,]2 z [C,F,] |"m" [C,E,]2 z [C,E,] |"m" [C,F,A,]2 z [C,F,A,] | %11
+"m" [C,E,G,]2 z [C,E,G,] |$"" [B,,E,G,]2 z"m" [A,,E,F,] | %13
+"" ([G,,E,G,]"m"[A,,E,F,]"" [B,,E,G,]""[B,,F,A,]) |"" [E,G,]2 z [E,G,] |"m" [C,E,G,]2 z [C,E,G,] | %16
+"m" [B,,=E,G,]2"" z [B,,C,E,G,] |$"""" [=A,,C,F,]2"" z [A,,C,F,] |"" [_A,,B,,F,]2"" z [A,,B,,F,] | %19
+"""" [G,,B,,E,]2"" z [G,,B,,E,] |"m"!pp! [F,,=B,,D,]2"m" z [F,,B,,D,] | %21
+"m" [F,,=B,,D,]2"m" z [F,,B,,D,] |$"m" [F,,=B,,D,]2"m" z"CGer6" [A,,C,E,] | %23
+"" [G,,C,E,]3"" [G,,D,F,] |"" [A,,C,E,]2"" z [A,,E,] |!pp! [A,,E,]2"CGer6" z [A,,E,] | %26
+ [A,,E,]2 z [A,,E,] |$ [A,,E,]2 z [A,,E,] | [A,,E,]2 z [A,,C,E,] |"" [G,,C,E,]2 z"" [G,,F,G,] | %30
+"m" [C,E,G,]2 z [C,E,] |"" [C,=E,]2"" z [C,E,] |"" [C,F,]2 z [C,F,] |$"m" [C,F,]2 z [C,F,] | %34
+"" [C,=E,]2 z"m" [C,_E,] |"" !fermata![G,,D,]3 z |"m" [C,E,]2 z"" .[C,=E,] | %37
+"m""m" [C,F,]2 z .[C,F,] |"" [C,F,]2 z [C,F,] |$"m" [C,E,]2 z [C,E,] |"m" [C,F,A,]2 z [C,F,A,] | %41
+"m" [C,E,G,]2 z [C,E,G,] |"" [B,,E,G,]2 z"m" [A,,E,F,] | %43
+"" ([G,,E,G,]"m"[A,,E,F,]""[B,,E,G,]""[B,,F,A,]) |$""!p! [E,G,]2 z [E,G,] | %45
+"m" [C,E,G,]2 z [C,E,G,] |"" [B,,C,=E,G,]2"" z [B,,C,E,G,] |"""" [=A,,C,F,]2"" z [A,,C,F,] | %48
+"" [_A,,B,,F,]2"" z [A,,B,,F,] |$"""" [G,,B,,E,]2"" z [G,,B,,E,] | %50
+"m"!pp! [F,,=B,,D,]2"m" z [F,,B,,D,] |"m" [F,,=B,,D,]2"m" z [F,,B,,D,] | %52
+"m" [F,,=B,,D,]2"m" z"CGer6" [A,,C,E,] |"" [G,,C,E,]3"" [G,,D,F,] |$"""" [A,,C,E,]2 z [A,,E,] | %55
+ [A,,E,]2"CGer6" z [A,,E,] | [A,,E,]2 z [A,,E,] | [A,,E,]2 z [A,,E,] | [A,,E,]2 z [A,,C,E,] |$ %59
+"" [G,,C,E,]3"" [G,,F,G,] |"m" [C,E,G,]2!p! z [C,E,] |"" [C,=E,]2"" z [C,E,] |"" [C,F,]2 z [C,F,] | %63
+"m" [C,F,]2 z [C,F,] |"" [C,=E,]2 z"m" [C,_E,] |"" [G,,D,]2 z G,, |$"m" !fermata![C,,G,,C,]4 |] %67

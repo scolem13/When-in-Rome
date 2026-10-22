@@ -1,0 +1,52 @@
+X:1
+T:Mazurkas
+C:Frédéric Chopin
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:3/4
+I:linebreak $
+K:Fmin
+V:1 treble nm="piano"
+L:1/8
+V:2 treble 
+V:3 bass nm="piano"
+V:4 bass 
+V:1
+ c2- cd dc ||S =B^A B2 g2 | _B2- Bc cB | =A^G A2 f2 | _A2- AB BA | G^F G2 d2 |$ c2- cBAG | %7
+w: |* * < [||* * < [||* * < [||
+ BAFGA=B | c2- cd=Bd | c^A=B_agB | _B2- Bc cB |$ B^G=A_gfA | _A2- A_cBA | G2 ^G=A^A=B | %14
+w: < ( ( ( ( [|||||||
+ ^c=d^d=e=a^g | ^f=e=d^G=A=B |$ ^c=d^d=e=a^g | ^f=e=d^G=A=B | ^c2 =B=c=f=e | _e=d_d=EFG | %20
+w: |> ) ) ) ) ]|< ( ( ( ( [|> ) ) ) ) ]|* < ( ( [|> ) ) ) ) ]|
+ AB=Bcf=e |$ _e=d_d=EF{/A}G | F=E F4!fine! |!mf! B4 cG | ACEA=Bc | =d2 egf=B | c4 G2 |$ %27
+w: < ( ( ( ( [|> ) ) ) ) ]||||||
+ !>!=d4 e=B | c2 =Bc=de | x4 ga | g6- |!pp! g2 ^fg=b=a | =d2 =f4- |$ f2 =ef=ag | c2 _e4- | %35
+w: |* < ( ( [|||||||
+ e2 =degf | B2 _d4 |$ =A2 c4 | ^G2 =B4 | c2- cd dc!D.S.! |] %40
+w: |||||
+V:2
+ x3 || x3 | x3 | x3 | x3 | x3 |$ z =E E | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | %18
+w: ||||||||||||||||||
+ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | f =e/f/ c- | c/=B/=e/^d/=d/^c/ | %31
+w: |||||||||||< ( [ *||
+ =c c c- | c =B/c/=e/=d/ |$ _B B B- | B =A/B/=d/c/ | _A A A- | A G/^F/ G- |$ G ^F/^E/ F- | %38
+w: |||||* > ] *|* > ] *|
+ F =F/=E/ F- | F z z |] %40
+w: * > ] *||
+V:3
+"m" z [A,CF] [A,CF] ||"" z [G,=DF]"CFr7" [G,_DF] |"" z [_G,D_F]"m" [G,CE] |"" z [=F,CE]"" [F,_CE] | %4
+"m" z [F,=B,=D]"" [=E,B,D] |"m" z [=E,_B,_D]"m" [=F,B,=F] |$"m" z"m" [G,B,D]"""" [C,B,] | %7
+"m""m" z F,,"CGer43" [F,A,D] |"m" z [F,A,C] [A,CF] | z"" [G,=DF]"CFr7" [G,_DF] | %10
+"m" z [G,D_F]"" [_G,DF] |$ z"" [=F,CE]"" [F,_CE] |"m" z [F,_CE]"" [_F,C=E] | %13
+"" z [_F,B,=D]"" [=E,^G,D] |"" =A,, [=E,^C] z |"" =A,, [^F,=D]"" [=E,D] |$"" =A,, [=E,^C] [E,C] | %17
+"" =A,, [^F,=D]"" [=E,D] |"" =A,,"" z [=F,=C_E] |"m" B,,"m" [F,D]"" [C,=E,B,] |"m" F,, [C,A,] z |$ %21
+ z"" [D,A,]"" [C,B,] |"m" F,, [C,A,]"m" [_C,A,] |"" E,, [E,G,D]"" [E,G,D] | %24
+"" A,, [E,A,C]"m" [=D,F,C] |"" G,,"" [G,F]"" [G,=DF] |"m" C, [G,CE] [G,CE] |$ %27
+"" G,, [G,=B,F]"" [G,F] |"m" C, [G,CE] [G,CE] |"m" A,, [A,CF]"m" =D,, |"""" G,, z z | %31
+[K:treble]"m" z"" [=D=A] [D^F] | z"" =D/=E/G/=F/ |$"m" _D"" [CF]"" =E |"m" _E"" C/=D/F/E/ | %35
+"m" _C"" [B,E]"" [B,=D] |[K:bass] z"m" B,"" B, |$"m" C"m" =A,"" A, |"m" =B,"m" _A,"m" A, | %39
+"" C, [A,CF] [A,CF] |] %40
+V:4
+ x3 || x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %19
+ x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |[K:treble] x3 | x G, G, |$ x3 | %34
+ x F, F, | x3 |[K:bass] x _F,/E,/ E, |$ E, E,/=D,/ D, | =D, D, _D, | x3 |] %40

@@ -1,0 +1,37 @@
+% Die Verschweigung: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=641
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Die Verschweigung
+C:Wolfgang Amadeus Mozart (1756-1791)
+%%score ( 1 2 ) 3 ( 4 5 )
+L:1/8
+Q:1/4=18
+M:6/8
+I:linebreak $
+K:F
+V:1 bass nm="lower" snm="Pno"
+V:2 bass 
+V:3 treble nm="mel" snm="Cl"
+V:4 treble nm="upper" snm="Pno"
+V:5 treble 
+V:1
+ x4 x A, | F,A,G, E,G,F, | z D,B,, C,2 B, | A,G,F, E,D,E, | F,D,F, G,C,E, | F,A,G, E,G,F, | %6
+ z D,B,, C,2 D, | F,E,D, C,E,G, | E,F,G, _A,=A,_G, | =G,3 [CE]C, z | z2 [FF,] FE_E | %11
+ [B,D]2 [A,D] [G,D]2 z | [B,C][B,C][B,C] C2- F, | B,G,B, CC, z | z3 FDG | E2 z _ECF | DCB, A,2 B, | %17
+ [CC,]3 [FF,][EE,][_E_E,] | [DD,][CC,][B,B,,] [A,A,,] z [DB] | A/c/ A/c/B/c/[AF] x2 |] %20
+V:2
+ x x5 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z [CE][=B,F] z3 | z3 F,2- F, | z6 | z3 A,G,C | z6 | %14
+ z6 | z6 | z6 | z6 | z6 | C3 z x2 |] %20
+V:3
+ x4 x c | AcB GBA | F2 A/G/ FEE | FEF GFG | A2 d =Bc_B | AcB GBA | F2 B AG=B- | Bcd e>fd/e/ | %8
+ c2 x4 | x4 x c | BAA ABc | _d=dc c=B_B | GGG ABc | d2 c/B/AG x | cA d =B2 x | _BG c A2 x | %16
+ Bcd d/c/B/A/G/F/ | F2 A/G/ F2 x |] %18
+V:4
+ x4 x c | AcB GBA | F2 A/G/ FEE | FEF GFG | A2 d [=BF][cE][_BG] | [FA]cB GBA | F2 B AG=B- | %7
+ Bcd e>fd/e/ | ca =B2 cd | e>fd/e/ c z c | BAA ABc | _d=d[_Gc] [=Gc]=B_B | %12
+ [GE][GE][GE] [AF][BG][cA] | [dB]2 [cA]/[BG]/ [AF][GE] z | cAd =B2 z | _BGc A2 z | %16
+ Bcd d/c/B/A/G/F/ | [FA]2 [EG] F z2 | bc'd' d'/c'/b/a/g/f/ | f2 [ae]f x2 |] %20
+V:5
+ x x5 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | F3 F2 z | z6 | %18
+ f3 f2 z | z2 z/ g/ z x2 |] %20

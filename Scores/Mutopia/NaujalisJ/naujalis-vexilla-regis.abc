@@ -1,0 +1,31 @@
+% Vexilla Regis Prodeunt: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=971
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Vexilla Regis Prodeunt
+C:Juozas Naujalis
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=60
+M:3/2
+I:linebreak $
+K:G
+V:1 treble nm="trebStaff:sopVoice" snm="Ob"
+V:2 treble 
+V:3 bass nm="bassStaff" snm="Ob"
+V:4 bass 
+V:1
+ [BG]2 [BG]2 [BG]2 | B4 [AE]2 | G4 [G^C]2 | [FD]6 | [AD]2 [AE]2 [BG]2 | c4 [BG]2 | A4 [F^D]2 | %7
+ [GE]6 | [GE]2 [BE]2 [cE]2 | [dD]4 [GB,]2 | c2 B2 [AE]2 | [AD]6 | [BD]2 [eG]2 [dA]2 | B4 [AE]2 | %14
+ [GE]4 [FD]2 | [GD]6 | [GE]6 | [GD]6 |] %18
+V:2
+ x6 | G2 F2 z2 | E2 D2 z2 | x6 | x6 | A2 F2 z2 | F3 E z2 | x6 | x6 | x6 | E4 z2 | x6 | x6 | %13
+ G2 F2 z2 | x6 | x6 | x6 | x6 |] %18
+V:3
+ [DG,]2 [EE,]2 [B,E,]2 | [DB,,]4 [CC,]2 | [B,E,]4 A, G, | [A,D,]6 | [F,D,]2 [A,C,]2 [DB,,]2 | %5
+ E2 C2 [DG,,]2 | [CA,,]4 [B,B,,]2 | [B,E,]6 | [B,E,]2 [G,E,]2 [G,E,]2 | G,2 F,2 [G,E,]2 | %10
+ [G,C,]4 [G,^C,]2 | [F,D,]6 | G,2 [B,E,]2 [DF,]2 | D4 [CC,]2 | [B,E,]2 [A,C,]2 [A,D,]2 | [B,G,,]6 | %16
+ [CC,]6 | [B,G,,]6 |] %18
+V:4
+ x6 | x6 | z4 E,2 | x6 | x6 | A,,4 z2 | x6 | x6 | x6 | B,,4 z2 | x6 | x6 | x6 | G,2 B,,2 z2 | x6 | %15
+ x6 | x6 | x6 |] %18

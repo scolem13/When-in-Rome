@@ -1,0 +1,34 @@
+% Das Wohltemperierte Klavier I, Praeludium I: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2206
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Das Wohltemperierte Klavier I, Praeludium I
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 2
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:none
+V:1 treble nm="upper:1" snm="Ac Gtr"
+V:2 bass nm="lower:2" snm="Ac Gtr"
+V:1
+ z2 Gc eGce z2 Gc eGce | z2 Ad fAdf z2 Ad fAdf | z2 Gd fGdf z2 Gd fGdf | z2 Gc eGce z2 Gc eGce | %4
+ z2 Ae aAea z2 Ae aAea | z2 ^FA dFAd z2 FA dFAd | z2 Gd gGdg z2 Gd gGdg | z2 EG cEGc z2 EG cEGc | %8
+ z2 EG cEGc z2 EG cEGc | z2 D^F cDFc z2 DF cDFc | z2 DG BDGB z2 DG BDGB | z2 EG ^cEGc z2 EG cEGc | %12
+ z2 DA dDAd z2 DA dDAd | z2 DF BDFB z2 DF BDFB | z2 CG cCGc z2 CG cCGc | %15
+ z2 A,C FA,CF z2 A,C FA,CF | z2 A,C FA,CF z2 A,C FA,CF | z2 G,B, FG,B,F z2 G,B, FG,B,F | %18
+ z2 G,C EG,CE z2 G,C EG,CE | z2 _B,C EB,CE z2 B,C EB,CE | z2 A,C EA,CE z2 A,C EA,CE | %21
+ z2 A,C ^DA,CD z2 A,C DA,CD | z2 B,C =DB,CD z2 B,C DB,CD | z2 G,B, DG,B,D z2 G,B, DG,B,D | %24
+ z2 G,C EG,CE z2 G,C EG,CE | z2 G,C FG,CF z2 G,C FG,CF | z2 G,B, FG,B,F z2 G,B, FG,B,F | %27
+ z2 A,C ^FA,CF z2 A,C FA,CF | z2 G,C GG,CG z2 G,C GG,CG | z2 G,C FG,CF z2 G,C FG,CF | %30
+ z2 G,B, FG,B,F z2 G,B, FG,B,F | z2 G,_B, EG,B,E z2 G,B, EG,B,E | z2 F,A, CFCA, CA,F,A, F,D,F,D, | %33
+ z2 GB dfdB dBGB DFED | [CEGc]16 |] %35
+V:2
+ CE z6 CE z6 | CD z6 CD z6 | B,D z6 B,D z6 | CE z6 CE z6 | CE z6 CE z6 | CD z6 CD z6 | %6
+ B,D z6 B,D z6 | B,C z6 B,C z6 | A,C z6 A,C z6 | D,A, z6 D,A, z6 | G,B, z6 G,B, z6 | %11
+ G,_B, z6 G,B, z6 | F,A, z6 F,A, z6 | F,^G, z6 F,G, z6 | E,=G, z6 E,G, z6 | E,F, z6 E,F, z6 | %16
+ D,F, z6 D,F, z6 | G,,D, z6 G,,D, z6 | C,E, z6 C,E, z6 | C,G, z6 C,G, z6 | F,,F, z6 F,,F, z6 | %21
+ ^F,,C, z6 F,,C, z6 | ^G,,=F, z6 G,,F, z6 | =G,,F, z6 G,,F, z6 | G,,E, z6 G,,E, z6 | %25
+ G,,D, z6 G,,D, z6 | G,,D, z6 G,,D, z6 | G,,^D, z6 G,,D, z6 | G,,E, z6 G,,E, z6 | %29
+ G,,D, z6 G,,D, z6 | G,,D, z6 G,,D, z6 | G,,C, z6 G,,C, z6 | F,,C, z14 | G,,B,, z14 | [C,E,C]16 |] %35

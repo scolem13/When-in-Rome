@@ -1,0 +1,33 @@
+% Gymnopédie No. 1: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=37
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Gymnopédie No. 1
+C:Erik Satie
+%%score ( 1 2 ) 3
+L:1/4
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Bmin
+V:1 treble nm="treble"
+V:2 treble 
+V:3 bass nm="bass" snm="B"
+V:1
+ z [FDB,]2 | z [FCA,]2 | z [FDB,]2 | z [FCA,]2 | z f a | g f c | B c d | A3 | F F2- | F F2- | %10
+ F F2- | F [FCA,]2 | z f a | g f c | B c d | A3 | c3 | f3 | E3- | E3- | E3 | A B =c | e d B | %23
+ d =c B | d3- | d2 d | e =f g | a =c d | e d B | d3- | d2 d | g3 | f3 | B A B | c d e | c d e | %36
+ F3 | [=cAE=C]3 | [dAFD]3 | g3 | =f3 | B =c =f | e d =c | e d =c | =F3 | [=cAE=C]3 | [dA=FD]3 |] %47
+V:2
+ x3 | x3 | x3 | x3 | z [FDB,]2 | z [FCA,]2 | z [FDB,]2 | z [FCA,]2 | z [DB,]2 | z [CA,]2 | %10
+ z [DB,]2 | x3 | z [FDB,]2 | z [FCA,]2 | z [FDB,]2 | z [FCA,]2 | z [FCA,]2 | z [FDB,]2 | x3 | x3 | %20
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z [GEB,]2 | z [FCA,]2 | z [FDB,]2 | %34
+ z [AEC]2 | z [AFCA,]2 | z [DA,] [GDB,] | x3 | x3 | z [GEB,]2 | z [A=FDA,]2 | z [=F=CA,]2 | %42
+ z [AE=C]2 | z [A=F=CA,]2 | z [DA,] [GDB,] | x3 | x3 |] %47
+V:3
+ G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | %14
+ G,,3 | D,,3 | F,,3 | B,,,3 | E,,3 [B,G,]2 | E,,3 [GDB,]2 | D,,3 [DA,=F,]2 | A,,,3 [E=CA,]2 | %22
+ D,,3 [EB,G,]2 | D,,3 [EB,G,D,]2 | D,,3 [DA,E,=C,]2 | D,,3 [DA,F,=C,]2 | D,,3 [=F=CA,]2 | %27
+ D,,3 [E=CA,]2 | D,,3 [EB,G,D,]2 | D,,3 [DA,E,=C,]2 | D,,3 [DA,F,=C,]2 | E,,3 | F,,3 | B,,,3 | %34
+ E,,3 | E,,3 | E,,3 B,, E, | [G,A,,]3 | [D,A,,D,,]3 | E,,3 | E,,3 | E,,3 | E,,3 | E,,3 | %44
+ E,,3 B,, E, | [G,A,,]3 | [D,A,,D,,]3 |] %47

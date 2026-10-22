@@ -1,0 +1,41 @@
+X:1
+T:25 Lieder
+T:Das Mädchen am Ufer
+C:Corona Elisabeth Wilhelmine Schröter
+Z:Johann Gottfried Herder (after Volkslieder)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=80
+M:2/2
+I:linebreak $
+K:Ab
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/8
+V:4 treble 
+L:1/8
+V:3 bass 
+V:5 bass 
+V:1
+"^Klagend" C |!f! A A c B |!ff! d2 c3/2 c/ |"^*)" (f e/) d/ (d c/) =B/ |{=B2} c2 z c | %5
+w: Die|See war wild im|Heu- len; der|Sturm * er- stöhnt * mit|Müh, da|
+!p! c _B/A/ A A |{B2} A G z G | c (B/A/) A (G/F/) |{F2} =E2 z z/ G/ | _e e!f! e e | f/c/ c z c | %11
+w: sass das * Mäd- chen|wei- nend, am|har- ten * Fels sass *|sie; weit|ü- ber Mee- res|Brül- * len, warf|
+!p! d3/2 d/ =e3/2 e/ | !fermata!f2 z z/ _e/ | e e e e |{f} e d z!p! c | c A!pp! B G | F z z |] %17
+w: Seuf- zer sie und|Blick; nicht|konnts ihr Seuf- zer|stil- len, der|matt ihr kam zu-|rück.|
+V:2
+ C2 | A2 A2 c2 B2 | d4 c3 c |"^*)" z [cf]BA z [Ad]GF |{[F=B]2} [=Ec]4 z2 c2 | c2 _BA [FA]2 [FA]2 | %6
+{B2} [FA]2 [=EG]2 z2 [EG]2 | c2 (BA) B2 (GF) |{F2} =E4 z2 z G | _e2 e2 e2 e2 | fc c2 z2 c2 | %11
+ z [FBd][FBd]F z [Be][Be]B | !fermata!f4 z2 z _e | z [Fce] z [Fce] z [Fce] z [Fce] | %14
+ z [FB][FB][FB] z [GBc][GBc][GBc] | z [Ac] z [FA] z [GB] z [=EG] | [CF]2 z2 z2 |] %17
+V:3
+ z | F,2 A, G, | B,2 F, z | z/!f! A,/G,/!p!F,/ z/!f! F,/E,/!p!=D,/ | z C, C,, z | [F,A,C]2 =B,2 | %6
+ C!f! D!p! C _B, | A,2 B, =B, | z/ (C/=B,/C/) C, z | %9
+ z/!ff! [C,C]/[D,D]/[C,C]/ z/ [B,,B,]/[C,C]/[B,,B,]/ | z!mf! [A,,A,] [G,,G,] [A,,A,] | %11
+ [B,,B,]2 [B,,C]2 | !fermata!D2 z2 |!f! F, =A,!p! C F, | B,2 _E,2 | F, F,, B,, C, | A, z z |] %17
+V:4
+ x2 | FC FC FC =EG | GEGE FCFC | x8 | x8 | x8 | x8 | [CF]4 D2 =D2 |{C2} =E4 z4 | cGcG cGcG | %10
+ !arpeggio![Fc]2 (FA) (=Ec)(Fc) | x8 | [FA]4 x2 x x | x8 | x8 | x8 | x6 |] %17
+V:5
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | D,2 x2 | x4 | x4 | x4 | [F,,F,] x x |] %17

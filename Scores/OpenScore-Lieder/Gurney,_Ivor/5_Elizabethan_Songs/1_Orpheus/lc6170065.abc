@@ -1,0 +1,94 @@
+X:1
+T:5 Elizabethan Songs
+T:Orpheus
+C:Ivor Gurney
+Z:William Shakespeare
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 6 ) | ( 3 5 7 ) }
+L:1/8
+Q:1/4=62
+M:2/4
+I:linebreak $
+K:E
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:4 treble 
+V:6 treble 
+L:1/4
+V:3 bass 
+L:1/16
+V:5 bass 
+L:1/4
+V:7 bass 
+V:1
+"^Andante con moto" z4 | z4 | z4 | z4 | z2!p! (!tenuto!B2- |[Q:1/4=62]"_a tempo" B D (3(EF) G | %6
+w: ||||Or-|* pheus with * his|
+ (3(AB) c B2) |"^cresc." (3z (B D (3(GF) E | (3(FG) A e2 |!mf! d3/2 G/"^rit. e dim." G2- | %10
+w: lute * made trees|And the moun- * tain-|tops _ that freeze|Bow them- selves|
+ G) (!tenuto!^A !tenuto!B !tenuto!d |!pp![Q:1/4=62]"^a tempo" B4-) | B z z2 | z4 | z4 | %15
+w: _ when he did|sing:|_|||
+ z2!p! (3((=GA) B | =c =d e c |[M:3/4] =g3 =f) (=d =c | e3)!mp! (B A B | =d3 =c B)"^dim." c | e6- | %21
+w: To _ his|mus- ic, plants and|flow- ers ev- er|sprung; As sun and|show- ers There had|made|
+ e!pp! E !tenuto!F2 !tenuto!=G2 |[M:2/4][Q:1/4=62]"^a tempo" B4- | (B4 |!pp! (B3/2) D/ (3(EF) G | %25
+w: _ a last- ing|spring.|_|Ev- 'ry- thing * that|
+ (3(AB) c B2- | B) z!mp!!<(! (E3/2 F/ | G B c e!<)! |!f! (d3 =d)) | (c3/2 F/"^rit. e dim." F2- | %30
+w: heard * him play,|_ Even the|bil- lows of the|sea, _|Hung their heads|
+[M:3/4] F) (G A2!pp! (c2 |[M:2/4][Q:1/4=62]"^a tempo" A4)) | z4 | z4 | z4 | z4 | z2!pp! (=G A | %37
+w: _ and then lay|by,|||||In sweet|
+ B =c =d _e |[M:3/4] =g3) z (3((=f_e) _d | =f3 =c B =d | _e4) (3((=c=d) ^d | =e6- | %42
+w: mus- ic is such|art, Kill- * ing|care and grief of|heart Fall a- *|sleep,|
+ e3) z"^ad lib." (E2 | F2 =G3) z |[M:2/4][Q:1/4=62]"^a tempo" c4- | c4- | c z z2 | z4 | z4 | z4 |] %50
+w: _ Or|hear- ing,|die.|_|||||
+V:2
+!pp!"^Andante con moto" (DEFD EFGE | FGAF- FEDE) |"_cresc. e rit." (DEFD EFBG | ABcA [B,B-]4 | %4
+ B6) z2 |!pp! (DEFD EFGE | FGAF- FEDE) |"_cresc." (DEFD EFGE | AcBA B2>c2 | %9
+!mf! [DGd]2) z2 ([DGd]!p!GDG,) |[I:staff +1] C2[I:staff -1] z2"^colla voce""_dim." ([DG]2[C=G]2) | %11
+"^a tempo" (DEFD EF^GE | AGF[F-A] [B,B]4) |"_cresc." (^ABAc dcBd | fedf!mf! !>![=G=c=g]4-) | %15
+ [Gcg]6 z2 | z4!mp!!<(! ([EAe]4!<)! |[M:3/4] [Aa]8) z4 | [EBe]8 z4 | [Ee]8 z4 | (=c4 B4) z4 | %21
+"^rit." z12 |[M:2/4]"^a tempo" DEFD EFGE | FGAF- FEDE |!pp! (DEFD EFGE | FGAF- FEDE) | %26
+!p!"_cresc." ([B,DB]2D2 [B,E]4 |!<(! [G,EG]2)[B,B]2!<)!!f! ([Ee]2>[Dd]2 | %28
+"_dim." [C^Ac]2[B,GB]2!>(! [DF]2[=D^E]2!>)! | [CF]6) z2 |[M:3/4]!p! C4 z4 z4 | %31
+[M:2/4]!pp![I:staff +1] (=C=DEC)[I:staff -1] AB=cA |!p! f"_cresc."=gaf- fede |!pp! f=gaf- fede | %34
+"^poco rit." ([Bb]=c'=d'b c'bd'c' | [_e_e']2) z2 z4 | =g6 z2 | z4!pp! ([=G=c]4 | %38
+[M:3/4] [=G_d]4 [_A=c]4) z4 | ([=c=c']4 [Bb]4) z4 | ([=d=d']4 [=c=c']4) z4 | ([B,B]4 [^A,^A]4) z4 | %42
+[I:staff +1] B,2^A,2[I:staff -1] z4 z4 | !fermata!z12 |[M:2/4]!pp!"^a tempo" (DEFD EFGE | %45
+ FGAF- FEDE) |!<(! (defd ee'=d'=c'!<)! |!mp!!>(! b=c'=g=c Bc=D!>)!=C | ^A2) B6- | B8 |] %50
+V:3
+ [A,,F,B,]2 z2 [G,,E,B,]2 z2 | [C,A,E]2 z2 [G,,E,B,]2 z2 | D,E,F,D, E,F,B,G, | %3
+ A,B,C[F,-A,] F,E,D,!mf!E, | B,6 z2 | [A,,F,B,]2 z2 [G,,E,B,]2 z2 | [C,A,E]2 z2 [G,,E,B,]2 z2 | %7
+ D,E,F,D, E,F,G,E, | A,CB,A, F,E,D,E, | [B,,G,]2 z2 ([F,G,]4 | [E,G,]2) z2 B,2^A,2 | %11
+!pp! [B,,=A,]2 z2 [B,,G,B,]2 z2 | [A,,E,]2 z F,- F,E,D,E, | x8 | D2>D2 E4- | E6 z2 | z4 [=G,=C]4 | %17
+[M:3/4] (^C4 =D4) z4 |!mp! =D8 z4 |!ped! (=D4 =C4)!ped-up! z4 |!pp! ([F,^A,]4 [=G,B,]4) z4 | z12 | %22
+[M:2/4]!pp! D,E,F,D, E,F,G,E, | A,2>F,2- F,E,D,E, | [A,,F,B,]2 z2 [G,,E,B,]2 z2 | %25
+ [C,A,E]2 z2 [G,,E,B,]2 z2 | [A,,F,]4 E,4 | [E,,B,,E,]4 [C,,G,,C,]4 | %28
+ ^A,2G,2!ped! [D,F,]2[=D,^E,]2!ped-up! | [A,,F,]6 z2 |[M:3/4] F,4 z4 z4 |[M:2/4] [A,,E,A,]2 z2 x4 | %32
+[K:treble] (F=GAF- FEDE) | z2 [A,E]2 (FEDE) | z2 [=G,=FB]2 =cB=dc- | [=C=c]2 z2 z4 | =G6 z2 | %37
+[K:bass] z4 ([_E,=C]4 |[M:3/4] [=E,_B,]4 [=F,_A,]4) z4 | _A8 z4 |[K:treble] [=C=G_e]8 z4 | %41
+[K:bass] E,8!mp!!>(! [E,B,]4- | [C,E,]4!>)! z4 z4 | !fermata!z12 | %44
+[M:2/4] [A,,F,B,]2 z2 [G,,E,B,]2 z2 | [C,A,E]2 z2 [G,,E,B,]2 z2 | FEDF =G,=CE=G | x8 | %48
+ z4 z2!ped! [E,,B,,^G,]2- | [E,,B,,^G,]2!ped-up! z2 z4 |] %50
+V:4
+ x4 | x4 | B,2 B,2 | E>F- F/E/D/E/ | x4 | x4 | x4 | B,2 B,2 | E2 F/E/D/E/ | x4 | x4 | B, z z2 | %12
+ [CE] z F/E/D/E/ | z [CE^^F^A] z [B,DG] | [FB]>[FB] x2 | x4 | x4 |[M:3/4] (e2 =d2) x2 | x6 | %19
+ (B2 A2) x2 | E4 x2 | x6 |[M:2/4] B,2 B,2 | E2 B,2 | x4 | x4 | x4 | x2 G2 | x2 [G,G]2 | x4 | %30
+[M:3/4] x6 |[M:2/4] x2 [=CE] z | z [=ce] [Bb]2 | z =c [Bb]2 | z [=d=f] [_e_e']2- | =g4- | x4 | x4 | %38
+[M:3/4] x6 | =f4 x2 | =g4 x2 | !courtesy!=E4 x2 | x6 | x6 |[M:2/4] x4 | x4 | B2 =c2 | =c/e/ z z2 | %48
+ z2 z [B,E]- | [B,E] z z2 |] %50
+V:5
+ x2 | x2 | A,, G,, | C, G,, | x2 | x2 | x2 | A,, G,, | C, G,, | x2 | x2 | x2 | x G,, | x2 | %14
+ (G,/4B,/G,/4) =G,- | G,3/2 x/ | x2 |[M:3/4] =F,2 x | (A, G,) x | E,2 x | x3 | x3 | %22
+[M:2/4] A,, G,, | C, G,, | x2 | x2 | x [G,,,G,,] | x2 | [G,,D,](({/[C,,G,,]} [C,,G,,])) | x2 | %30
+[M:3/4] [A,,,A,,] x2 |[M:2/4] x2 |[K:treble] z/ [=CE]/ [=G,B,] | x =G, | z [=C-G] | =G2- | x2 | %37
+[K:bass] x2 |[M:3/4] x3 | (_E =D) x |[K:treble] x3 |[K:bass] (!courtesy!^D, ^C,) D, | x3 | x3 | %44
+[M:2/4] x2 | x2 | A, E | x2 | x2 | x2 |] %50
+V:6
+ x2 | x2 | x2 | e x | x2 | x2 | x2 | x2 | x B, | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %17
+[M:3/4] x3 | x3 | x3 | x3 | x3 |[M:2/4] x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |[M:3/4] x3 | %31
+[M:2/4] x2 | x2 | x2 | x2 | x2 | x2 | x2 |[M:3/4] x3 | x3 | x3 | x3 | x3 | x3 |[M:2/4] x2 | x2 | %46
+ x2 | x2 | x2 | x2 |] %50
+V:7
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[M:3/4] x6 | %18
+ x6 |({/A,,} A,,3) z x2 | x6 | x6 |[M:2/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[M:3/4] x6 | %31
+[M:2/4] x4 |[K:treble] x4 | x4 | x4 | x4 | x4 |[K:bass] x4 |[M:3/4] x6 | x6 |[K:treble] x6 | %41
+[K:bass] x6 | x6 | x6 |[M:2/4] x4 | x4 | x4 | x4 | x4 | x4 |] %50

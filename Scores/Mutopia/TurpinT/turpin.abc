@@ -1,0 +1,58 @@
+% The St. Louis Rag: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=369
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:The St. Louis Rag
+C:Tom Turpin (1873 - 1922)
+%%score 1 2
+L:1/16
+Q:1/4=96
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="up:VoiceI" snm="Pno"
+V:2 bass nm="down:VoiceI" snm="Pno"
+L:1/8
+V:1
+ [gG][c'c]2[aA] [gG][eE][dD]2 | [cC][eE]2[dD] [cC][BB,][AA,]2 | %2
+ [GG,][AA,]2[_B_B,] [=B=B,][cC][dD][eE] | [fF]2 z2 [gdBG]2ga | [fb]ga[fb]2 [db]2[eb] | %5
+ [fb]de[fb]2 fed | e[ca]2e [ca]2GA | [ce]GA[ce]2 cBA | B[Gg]2B [Gg]2GA | [Bf]GA[Bf]2 BAG | %10
+ A[ce]2G2 A[ce]A | [Ge]Ac2<[ce]2 ga | [fb]ga[fb]2 [dB]2[eB] | [fb]ga[fb]2 fed | e[ca]2e [ca]2GA | %15
+ [ce]GA[ce]2 cB_B | A^GA^c2 e[A=ca]2 | [Ad=g]fef2 c[^Fd]2 | [Ge]cd[^Fe]2 B[=Fd]2 | [Ec]6 ga | %20
+ [Ec]2[Gg][Gg] [Gg]2[Gg]2 | [Gf][^Gf][Af][Bf]2 [_Bf][=Bf]2 | [Bf=g][cfg][^cfg][dfg]2 [cfg][dfg]2 | %23
+ e'a'b=c' e'^fgc' | e=f^fg agec | B4 [=fg]2 _B4 [eg]2 | z =Bdf [Ba]gfd | z2 [Gceg]2 z2 [Gceg]2 | %28
+ z2 [Gg]e [Aa]e[Gg]2 | [Gf][^Gf][Af][Bf]2 [_Bf][=Bf]2 | [Bf=g][cfg][^cfg][dfg]2 [cfg][dfg]2 | %31
+ e'a'b=c' e'^fgc' | e=f^fg agec | z2 [c^dc']2 [bdc]2[cda]2 | z g^fg agec | z G^FG ^GA_B=B | %36
+ [Ec]2a=g ecBA | [Ec]4 C[FA][G_B][^G=B] |[K:F] [Ac]=Bc[Af]2 [FA][=G_B][_A=B] | [=Ac]=Bc[Af]2 Bc_d | %40
+ [_B=d]_d=d[Bg]2 _G=GA | [GB]ABG2 AB=B | c4 [E_B]2 e4 [EB]2 | z2 [EBc][EBd]2 c[EBd]c | %44
+ [Ff][Gg][Aa][Gg] [Ff][Dd]2[Ff] | [Cc]2[F=B_d]2 [E_B=d]2[EBc]2 | [Ac]=Bc[Af]2 [FA][G_B][_A=B] | %47
+ [=Ac]=Bc[Af]2 Bc_d | [_B=d]_d=d[Bg]2 _G=GA | [GB]ABG2 AB=B | c2[E_B]2 e2[EB]2 | %51
+ z2 [EBc][EBd]2 c[EBd]c | [FAf]2C[FAd]2 c[EBd]2 | [FAf]4- [FAf] [FA][GB][_A=B] | %54
+ [F=Af]2=B,C _D=D_E=E | F2[fad']2 [fad']2[_ead']2 | [=ead']2=B,C _D=D_E=E | %57
+ F2[fad']2 [fad']2[_ead']2 | [=ead']2=B,C _D=D_E=E | F2[fad'][fac']2 agf | [_da]eg2<[Af]2[Aa]2 | %61
+ [=Ba]fg[Ba]2 f[Bg]2 | [cec']2=B,C _D=D_E=E | F2[fad']2 [fad']2[_ead']2 | [=ead']2=B,C _D=D_E=E | %65
+ F2[fad']2 [fad']2[_ead']2 | [=ead']2=B,C _D=D_E=E | F2[fad'][fac']2 agf | [Aa]eg2<[Af]2[=Bfg]2 | %69
+ [ca]fg[=Ba]2 f[_Bg]2 | [Af]2=B,C _D=D_E=E | [Af]2 z2 [fac'f']2 z2 |] %72
+V:2
+ G,/CA,/ G,/E,/D, | C,/E,D,/ C,/B,,/A,, | G,,/A,,_B,,/ =B,,/C,/D,/E,/ | F, z [G,G,,] z | %4
+ D,[G,B,F] G,,[G,B,F] | D,[G,B,F] G,,[G,B,F] | C,[G,CE] G,,[G,CE] | C,[G,CE] [E,E,,][^D,^D,,] | %8
+ [=D,,=D,][G,B,F] G,,[G,B,F] | D,[G,B,F] G,,[G,B,F] | C,[G,CE] G,,[G,CE] | %11
+ C,[G,CE] [E,E,,][^D,^D,,] | [=D,,=D,][G,B,F] G,,[G,B,F] | D,[G,B,F] G,,[G,B,F] | %14
+ C,[G,CE] G,,[G,CE] | C,[G,CE] [E,E,,][D,D,,] | [^C,,^C,][G,A,E] A,,[A,EG] | %17
+ D,[A,DF] [A,A,,][^G,^G,,] | [=G,=G,,][^G,^G,,] [A,A,,][B,B,,] | %19
+ [CC,][B,B,,]/[A,A,,] [=G,=G,,]/[E,E,,] | [CC,] z3 | D,[F,G,B,] G,,[F,G,B,] | %22
+ D,[G,B,F] G,,[G,B,F] | [C,G,E] z3 | z4 | D,[G,B,F] ^C,[G,_B,E] | D,[G,=B,F] G,,[G,B,F] | %27
+ [C,C]2 [B,,B,]2 | [A,,A,]2 [G,,G,]2 | D,[F,G,B,] G,,[F,G,B,] | D,[G,B,F] G,,[G,B,F] | [C,G,E] z3 | %32
+ z4 | z [^F,,^F,] [F,,F,][F,,F,] | [G,,G,][G,CE] E,[G,CE] | D,[F,G,B,] G,,[F,G,B,] | [C,G,C] z3 | %37
+ [C,C][G,,G,] [C,,C,] z |[K:F] [F,,F,][A,CF] C,[A,CF] | F,[A,CF] A,,[A,CF] | %40
+ B,,[G,B,D] G,,[G,B,D] | B,,[G,B,D] [D,,D,][_D,,_D,] | [C,,C,][G,B,C] C,[G,B,C] | %43
+ G,,[G,B,C] C,,[G,B,C] | F,/G,/A,/G,/ F,/D,F,/ | A,_A, G,C, | [F,,F,][=A,CF] C,[A,CF] | %47
+ F,[A,C] A,,[A,C] | B,,[G,B,D] G,,[G,B,D] | B,,[G,B,D] [D,,D,][_D,,_D,] | %50
+ [C,,C,][G,B,C] C,[G,B,C] | G,,[G,B,C] C,,[G,B,C] | [F,,F,] [F,A,C]2 [C,,C,] | %53
+ [F,,F,][C,,C,] [F,,,F,,] z | [F,,F,]=B,,/C,/ _D,/=D,/_E,/=E,/ | F,[A,CF] [A,,A,][_G,,_G,] | %56
+ [=G,,=G,]=B,,/C,/ _D,/=D,/_E,/=E,/ | F,[A,CF] [A,,A,][_G,,_G,] | %58
+ [=G,,=G,]=B,,/C,/ _D,/=D,/_E,/=E,/ | F,[A,CF] F,[A,CF] | [A,,A,][_D,_D] [=D,=D][A,DF] | %61
+ D,[G,=B,F] G,,[G,B,F] | [C,C]=B,,/C,/ _D,/=D,/_E,/=E,/ | F,[A,CF] [A,,A,][_G,,_G,] | %64
+ [=G,,=G,]=B,,/C,/ _D,/=D,/_E,/=E,/ | F,[A,CF] [A,,A,][_G,,_G,] | %66
+ [=G,,=G,]=B,,/C,/ _D,/=D,/_E,/=E,/ | F,[A,CF] F,[A,CF] | [_D,_D][A,,A,] [=D,=D][_D,_D] | %69
+ [C,C][C,C] [=D,=D][E,E] | [F,F]=B,,/C,/ _D,/=D,/_E,/=E,/ | [F,F] z [F,,F,,,] z |] %72

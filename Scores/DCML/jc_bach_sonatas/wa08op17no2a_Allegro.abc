@@ -1,0 +1,74 @@
+X:1
+T:Keyboard Sonata in C minor, W.A 8
+T:Allegro
+C:Johann Christian Bach
+%%score { 1 | 2 }
+L:1/16
+Q:1/4=84
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+L:1/8
+V:1
+ G2 | c4 edc=B | cdef gedc | d4 fedc | defg afed | cc'c'b baag | gaag gffe |${f/} e2dc{e/} d2c=B | %8
+ cc'c'b baag | gaag gffe |{f/} e2dc{e/} d2c=B |{=B} c4 z4 |$ B2{d/}cB BeeB | TB8 | B2{d/}cB BffB | %15
+ TB8 | ge!turn!e2!p! z e z e | z e z e z e!f! z [=da] |$ [eg]e!turn!e2!p! z e z e | %19
+ z e z e z e!f! z [=da] | [eg]fed efga |!f! bg_d2- dca2- | aBg2- gAf2- | fGe2- eFcE |$ TE4 D4 | %25
+ z2 FD GEAF | [EG]4 z4 | z2 GE AFBG | [FA]4 z4 | z2 AF dAfd |$ e2 e4 e/f/g/a/ |!f! b2 [Bb]6 | %32
+!p! c2 c'4{b/} a2 | aggf feed |{d} e2 e4 e/f/g/a/ |!f! b2 [Bb]6 | c2 c'4{b/} a2 |$ %37
+{b/} ag{a/}gf{g/} fe{f/}ed | (3E GB (3G Be (3B eg (3e gb | (3E Ac (3A ce (3c ea (3e ac' | %40
+ (3E GB (3G Be (3B eg (3e gb |$ c2>c2 TB>ATG>F | (3E GB (3G Be (3B eg (3e gb | %43
+ (3E Ac (3A ce (3c ea (3e ac' | (3E GB (3G Be (3B eg (3e gb | c2>c'2 Tb>aTg>f |$ %46
+ [Ge]>B!turn!B2 z B z B | z B z B{B/} A2GF | [Ge]>B!turn!B2 z B z B | z B z B{B/} A2GF | %50
+ EB,G,B, EB,G,B, | [G,E]4 z2 ::$ B2 | !turn!e4 gfed | efga bgf=e | f4 agfe | fgab c'agf | %57
+ geed dccB | BccB BAAG |$ Gggf feed | deed dccB | Bbba aggf |{=e2} Te8 | Tf3=e/f/ gecB | AGF2 z4 |$ %65
+ cc'c'b baag |{g} T^f8 | Tg3f/g/ =a^fdc | Bd!turn!d2 eBB=A | =A^c!turn!cd dA^FD | %70
+ z ^c!turn!cd d=A!turn!AG |$ G=B!turn!B2 cG=EC | z =B!turn!Bc c_B!turn!=AG | ^F=A!turn!A2 z c z c | %74
+ z c z c z c z c | z !turn!cc2 ^fcgc |$ =acbc acgc | z !turn!^ff2 z c' z c' | z c' z c' z c'b=a | %79
+{=a/} b2ag{b/} a2g^f | ga!f!a2- adef |$ !turn!e>fg>=B !turn!c>de>G | !turn!=A>Bc>=E !turn!^F>GA>D | %83
+ dG{f/}ed/c/ B2=A2 | G4 z2 G2 |!p! !turn!c4 edc=B | cdef gedc |$ d4 fed^c | defg afed | %89
+ ec'c'b baag | gaag gffe |{f/} e2dc{e/} d2c=B |$ cc'c'b baag | gaag gffe |{f/} e2dc (3agf(3edc | %95
+{c} =B4 z4 | z2 FD =BFdB |$ [Ec]4 z4 | z2 GE cGec | [=Bd]4 z4 | z2 =BF dBfd | %101
+!p!{=B/} c2 c4 c/d/e/f/ |!f! g2 [Gg]6 |$!p! A2 a4 f2 |{g/} fe{f/}ed{e/} dc{d/}c=B | %105
+{=B/} c2 c4 c/d/e/f/ |!f! g2 [Gg]6 |!p! A2 a4 f2 |${g/} fe{f/}ed{e/} dc{d/}c=B | %109
+[I:staff +1] (3C[I:staff -1] EG (3E Gc (3G ce (3c eg | (3C FA (3F Ac (3A cf (3c fa | %111
+ (3C EG (3E Gc (3G ce (3c eg |$ A2>A2 G>FE>D | %113
+[I:staff +1] (3C[I:staff -1] EG (3E Gc (3G ce (3c eg | (3C FA (3F Ac (3A cf (3c fa | %115
+ (3C EG (3E Gc (3G ce (3c eg | A2>a2 g>fe>d |$ cG!turn!G2 z G z G | z G z G{G/} F2ED | %119
+ cG!turn!G2 z G z G | z G z G{G/} F2ED |[I:staff +1] CG,E,G, CG,E,G, | [E,G,C]4[I:staff -1] z2 :| %123
+V:2
+ z |"m" [CE][CE] [CE][CE] | [CE]2 z2 |"m"[I:staff -1] [CFA][CFA] [CFA][CFA] | %4
+"m" [=B,FA]2[I:staff +1] z2 |"m" C""A,"" G,"m"F, |"m" E,"m"F,"m" E,"m"D, |$"m" C,"m"E,"m" F,""G, | %8
+"" A,[I:staff -1]A"" G"m"F |"m" E"m"F"m" E"m"D |"m"[I:staff +1] C"m"E,"m" F,""G, | %11
+"" C,>C B,/A,/G,/F,/ |$"" [E,G,]2 z2 |[I:staff -1] E/G/E/G/ E/G/E/G/ |"" [DF]2[I:staff +1] z2 | %15
+[I:staff -1] D/F/D/F/ D/F/D/F/ |"" E[I:staff +1] z""[I:staff -1] [GB][Ac] | %17
+ [B_d][GB]"" [Ac]"m"[FA] |$"" [EB][I:staff +1] z""[I:staff -1] [GB][Ac] | [B_d][GB]"" [Ac]"m"[FA] | %20
+"" [EB]2[I:staff +1] z2 |"m" z3/2[I:staff -1] G/"" A>"m"F |"m" G>""E"m" F>""[I:staff +1]B, | %23
+"m" C>""G,"m" A,"m"=A, |$"" z/ B,/=A,/B,/"" C/B,/A,/B,/ |"" B,,2 z2 |"" z/ B,/=A,/B,/ C/B,/A,/B,/ | %27
+ B,,2 z2 |"" z/ B,/=A,/B,/ C/B,/A,/B,/ | B,,2 z2 |$"m"!p![I:staff -1] C/G/E/G/ C/G/E/G/ | %31
+"""_Segue"[I:staff +1] !//![G,B,E]4 |"" !//![A,CE]2"m" !//![A,CF]2 | %33
+""[I:staff -1] !//![B,DF]2 !//![B,FA]2 |"m" C/G/E/G/"^Segue" !//![CEG]2 | %35
+"""_Segue"[I:staff +1] !//![G,B,E]4 |"" !//![A,CE]2"m" !//![A,CF]2 |$ %37
+""[I:staff -1] B,/F/D/F/ B,/F/D/F/ |""[I:staff +1] x4 |"" x4 |"" x4 |$"m"[I:staff -1] A>F"" DB, | %42
+""[I:staff +1] x4 |"" x4 |"" x4 |"m"[I:staff -1] A>F"" BB, |$"" E2 [EG][I:staff +1][B,E] | %47
+ [G,B,][E,G,]"" [B,,B,]2 |""[I:staff -1] E2 [EG][I:staff +1][B,E] | [G,B,][E,G,]"" [B,,B,]2 | %50
+"" E,E,, E,,E,, | E,,2 z ::$ z |""[I:staff -1] [EG][EG] [EG][EG] | [EG]2[I:staff +1] z2 | %55
+"m"[I:staff -1] [EAc][EAc] [EAc][EAc] |"m" [DAc]2[I:staff +1] z2 |"" E"m"C"m" B,""A, | %58
+"" G,""A,"" G,"m"F, |$"" E,E"" D"m"C |"" B,"m"C"m" B,""A, |"" G,2 z2 |"" z _D"" CB, | %63
+"m" A,F,"" =E,E, |"m" F,/G,/A,/B,/ C/B,/A,/G,/ |$ [F,A,]2 z2 |"m" z E"" DC |"m" B,G,"" ^F,[F,=A,] | %68
+"m""" [G,,G,]4 |"" [^F,,^F,]4 | [F,,F,]4 |$"" [=E,,=E,]4 |"m" [E,,E,]4 | %73
+"" [D,,D,]2""[I:staff -1] [D^F][=EG] | [^F=A][GB] [FA][=EG] | [D^F]2 D=E |$ ^FG F=E | %77
+ D2 [D^F][=EG] | [^F=A][GB] [FA][DF] |"m" G"m"[I:staff +1]B,"m" C""D |"" E2"m" =B,2 |$"m" C2 z2 | %82
+"m""" z4 |"m" B,"m"C"" D""D, |"m" G,/F,/G,/A,/ G,/F,/E,/D,/ |"m" C,[CE] [CE][CE] | [CE]2 z2 |$ %87
+"m"[I:staff -1] [CFA][CFA] [CFA][CFA] |"m" [=B,FA]2[I:staff +1] z2 | %89
+"m"!f![I:staff -1] C""A"" G"m"F |"m" E"m"F"m" E"m"D |"m"[I:staff +1] C"m"E,"m" F,""G, |$ %92
+"" A,A,"" G,"m"F, |"m" E,"m"F,"m" E,"m"D, |"m" C,"m"E,"m" F,"m"^F, | %95
+"" z/ G,/^F,/G,/ =A,/G,/F,/G,/ |"" G,,2 z2 |$"" z/ G,/^F,/G,/ A,/G,/F,/G,/ | G,,2 z2 | %99
+"" z/ G,/^F,/G,/ A,/G,/F,/G,/ |"" G,,2 z2 |"" A,/E/C/E/ A,/E/C/E/ |"m" E,/C/G,/C/ E,/C/G,/C/ |$ %103
+"m" F,/C/A,/C/"m" F,/D/A,/D/ |"" G,/E/C/E/"" G,/F/D/F/ |"" A,/E/C/E/ A,/E/C/E/ | %106
+"m" E,/C/G,/C/ E,/C/G,/C/ |"m" F,/C/A,/C/"m" F,/D/A,/D/ |$"" G,/E/C/E/"" G,/F/D/F/ |"m" x4 | %110
+"m" x4 |"m"!f! x4 |$"m"[I:staff -1] F>D""[I:staff +1] =B,G, |"m" x4 |"m" x4 |"m"!f! x4 | %116
+"m"[I:staff -1] F>D"" G[I:staff +1]G, |$"m" [C,C] z [CE][G,C] | [E,G,][C,E,]"" [G,,G,]2 | %119
+"m" [C,C] z [CE][G,C] | [E,G,][C,E,]"" [G,,G,]2 |"m" [C,,C,]2 [C,,C,]2 | [C,,C,]2 z :| %123

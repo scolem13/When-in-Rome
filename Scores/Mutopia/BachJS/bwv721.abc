@@ -1,0 +1,62 @@
+% Erbarm dich mein, o Herre Gott: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=689
+% Licence: Creative Commons Attribution-ShareAlike 2.5. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Erbarm dich mein, o Herre Gott
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=80
+M:2/2
+I:linebreak $
+K:Bmin
+V:1 treble nm="dessus" snm="P Org"
+V:2 treble 
+V:3 bass nm="basse" snm="B"
+V:1
+ CCCC DDDD | EEEE F4 | A4 ^A4 | B4 c4 | d4 c4 | B4 [=CF][CF][B,F][B,F] | [B,F][B,F][^CE][B,E] A4 | %7
+ d4 c4 | d4 B4 | A4 G4 | F8 | DDEE CCDD | EEEE F4 | B4 B4 | A4 d4 | c2 =c2 B4 | A4 DDDD | CCCC A4 | %18
+ d4 A4 | B4 F4 | A4 G4 | F4 B,B,B,B, | ^A,A,B,B, F4 | B4 B4 | A4 F4 | G4 E4 | D4 A,A,DD | %27
+ B,B,EE D2 DD | A4 B4 | c4 d4 | B4 A4 | B4 G4 | F8- | D F8 D D D C4 |] %34
+V:2
+ x8 | z4 EEDD | CCCC FFEE | DDDD EE=AG | FFGG GG[DA][DA] | [DA][^DA][EG][EG] z4 | z4 EE=DD | %7
+ DDEE EEFE | DDFF GGGG | GGFF DDEE | EEDD CCCC | x8 | z4 EEDD | FFFF [B,F][B,E][DE][DE] | %14
+ [CE][CE][CE][DE] [DF][DF]DD | EEFF B,B,EE | EE[DF][DF] z4 | z4 DDDD | DDDD EEDD | DDDD DDCC | %20
+ ^DDB,B, B,B,CC | CC=DD z4 | z4 CCCC | ^DDEE FFGG | [=CE][CE][CE][CE] [^CE][CE][B,^D][B,D] | %25
+ [B,E][B,E][B,=D][B,D] [B,D][B,D]CC | CCB,B, z4 | z4 A,A, z2 | CCDD DDEE | ^GGFF FFFF | FFEE EEDD | %31
+ [B,F][B,F]^DD B,B,EE | CC=DD CCCC | x16 |] %34
+V:3
+ [F,A,F,,][F,A,F,,][F,A,A,,][F,A,A,,] [F,A,B,,][F,A,B,,][D,G,B,,][D,G,B,,] | %1
+ [G,A,C,][G,A,C,][G,A,C,][G,A,C,] [F,A,D,][A,D,][B,B,,][B,B,,] | %2
+ [A,F,][A,F,][G,E,][G,E,] [F,D,][F,D,][CC,][CC,] | %3
+ [F,B,,][F,B,,][B,G,][B,G,] [A,G,][A,G,][A,F,][^A,E,] | %4
+ [B,D,][B,D,][B,B,,][B,B,,] [B,E,][B,E,][=A,F,][A,F,] | %5
+ [B,G,][B,G,][B,E,][B,E,] [A,E,][A,E,][A,^D,][A,D,] | %6
+ [G,E,][G,E,][G,E,][G,E,] [A,F,][A,F,][A,F,][A,F,] | %7
+ [A,B,,][A,B,,][G,E,][G,E,] [G,A,,][G,A,,][F,^A,,][F,A,,] | %8
+ [F,B,,][F,B,,][B,D,][B,D,] [B,E,][B,E,][DG,,][DG,,] | %9
+ [CA,,][CA,,][F,CA,,][F,CA,,] [F,B,,][F,B,,][E,A,C,][E,A,C,] | %10
+ [F,A,D,][F,^A,D,][G,B,B,,][^G,B,B,,] [B,F,][B,F,][=A,F,][G,F,] | %11
+ [A,F,][A,F,][B,=G,][B,G,] [G,B,E,][G,B,E,][A,F,][A,F,] | %12
+ [A,C,][A,C,][G,A,C,][G,A,C,] [F,A,D,][F,A,D,][B,D,][B,D,] | %13
+ [B,^D,][B,D,][A,D,][A,D,] [G,E,][G,E,][B,^G,][B,G,] | %14
+ A,A,[A,=G,][A,G,] [A,F,][A,F,][A,=F,][A,F,] | %15
+ [^G,E,][G,E,][A,^D,][A,D,] [A,E,][A,E,][G,=D,][G,D,] | %16
+ [A,C,][A,C,][F,A,=C,][F,A,C,] [=G,B,B,,][G,B,B,,][^G,B,E,][G,B,E,] | %17
+ [E,B,A,,][E,A,A,,][E,A,=G,,][E,A,G,,] [F,A,F,,][F,A,F,,][A,F,][A,F,] | %18
+ [F,A,B,,][F,A,B,,][G,B,,][G,B,,] [G,C,][G,C,][F,D,][F,D,] | %19
+ [G,G,,][G,G,,][G,B,,][G,B,,] [A,D,][A,D,][A,F,][A,F,] | %20
+ [F,B,,][F,B,,][F,^D,][F,D,] [G,E,][G,E,][E,A,A,,][E,A,A,,] | %21
+ [E,F,^A,,][E,F,A,,][=D,F,B,,][D,F,B,,] [F,^G,,][F,G,,][E,=G,,][E,G,,] | %22
+ [E,F,,][E,F,,][D,B,,][D,B,,] [E,B,,][E,B,,][F,^A,,][F,A,,] | %23
+ [F,=A,,][F,A,,][G,B,G,,][G,B,G,,] [B,^D,][A,D,][G,B,E,][G,B,E,] | %24
+ [G,=C,][G,C,][F,A,,][F,A,,] [F,^A,,][F,A,,][F,B,,][F,B,,] | %25
+ [E,E,,][E,E,,][E,G,,][E,G,,] [E,^G,,][E,G,,][F,^A,,][F,A,,] | %26
+ [F,B,,][F,B,,][=G,=G,,][G,G,,] [G,D,][F,D,][F,B,,][F,B,,] | %27
+ [G,E,][G,E,][G,=C,][G,C,] [F,C,][F,C,][G,B,,][G,B,,] | %28
+ [G,A,,][G,A,,][F,D,][F,D,] [G,G,,][G,G,,][^G,E,][G,E,] | %29
+ [^G,B,E,][G,B,E,][A,F,][A,F,] [A,D,][A,D,][F,A,B,,][F,A,B,,] | %30
+ [=G,B,E,][G,B,E,][B,G,][B,G,] [G,A,C,][G,A,C,][F,A,D,][F,A,D,] | %31
+ [A,^D,][A,D,][F,A,B,,][F,A,B,,] [G,E,][G,E,][E,=C,][E,C,] | %32
+ [F,^A,,][F,A,,][F,B,,][^G,B,,] [^A,=G,,][A,G,,][A,E,][A,E,] | %33
+ [B,D,][B,D,][^G,B,=F,,][G,B,F,,] [^F,^A,^F,,]4 |] %34

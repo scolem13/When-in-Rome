@@ -1,0 +1,55 @@
+% Ave Maris Stella (2e verset): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=599
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Ave Maris Stella (2e verset)
+C:Jean Titelouze (1563-1633)
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=112
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="dessus" snm="P Org"
+V:2 treble 
+V:3 bass nm="basse" snm="B"
+V:4 bass 
+L:1/4
+V:1
+ A,4 D2 E2 | C2 D3 E FG | E2 D3 E FE | A4 GF ED | C2 DE FE D2- | DD C2 B,3 C/D/ | E2 A,2 FE DE/D/ | %7
+ CB, B,A,/G,/ A,4 | A2 [BD]2 [GE]2 A2- | [AE] E2 [d^F] [BG]2 cB/A/ | GE A4 ^G2 | [EA] A3 B,C D2- | %12
+ D2 A3 A [DB,]2 | [EC][FB,] G4 FE | DF EF [GD]2 [^FA,]2 | [GB,]2 A4 G2 | [AC]4 F3 G | A2 _B2 A3 G | %18
+ F4 =C4 | C2 C4 _B,2- | B,A, F4 E2 | G2 [AC]4 [GB,]2 | [BD]2 c2 A4 | CD c4 B2 | [dD]2 e2 A4 | %25
+ [FB]2 [cE]4 BA | G4 C2 F2 | G2 A2 D2 ED | E2 [AF]2 [cE]2 A2 | [F_B]2 _B2 [AC]4 | G4 z2 E2 | %31
+ G2 E2 F4 | [cE]2 [AC]2 _B4 | [EA]2 d4 c2 | [AB]2 B6 | CB, CB, A,2 A2 | [Cc]2 A2 _B4 | A4 CD EF | %38
+ E2 A4 G2 | _B4 A4- | A2 [DEC]2 G3 F/E/ | D2 G2 A2 d2- | E2 d2 c B c d2 ^c | [dF]4 [GE]2 AG | %44
+ F3 G FG AB | [Fc] c5 cd | eB [cE]2 A3 B | [Fc] c2 [dB] e2 e2- | [eF] F cB A3 G | [FD] D3 D3 E | %50
+ [d^FGA]3 A _B2 A2 | _B8- | [_BD] D3 =Bc d2- | [d^FGA]3 A _B3 A/G/ | =F2 ^F2 G4 | [AA,]8 |] %56
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | z6 D2 | z6 F2 | z B c z3 E2 | z6 E2- | z E A,2 z4 | z2 C4 z2 | %13
+ z2 A,G, A,4 | B,2 C2 z4 | z2 C2 D3 E/D/ | z4 D4 | CA, D4 ^C2 | D2 A,=B, z4 | x8 | z2 A,=B, C4 | %21
+ x8 | z2 E4 A,B, | z2 EF G3 F/E/ | z2 G4 F2- | z6 D2 | E3 D z4 | x8 | z6 F2- | z2 ED z4 | x8 | %31
+ z6 A2 | z4 D2 E2- | z2 D2 E2 A2- | z2 G3 F ED | z6 C2- | z2 F4 E2 | F3 E/D/ z4 | z2 DC D4 | %39
+ D2 E3 D D2- | z4 =B,4 | x8 | z2 G4 E2 x2 | z6 =C2 | D4 z2 F2- | z E CD E2 A2 | G2 z2 FD F2- | %47
+ z G A z cB AG | z d E3 D ^C2 | z2 _B3 A d2- | z3 c D G2 ^F | GD E=F GA GF/E/ | z A GA D3 E | %53
+ z3 c G2 D2 | D3 C =B,2 _B,2 | x8 |] %56
+V:3
+ z8 | z4 D,4 | A,2 B,2 G,2 A,2- | A,B, CD B,2 CB, | A,G, F,E, D,E, F,G, | E,2 A,3 A, G,2- | %6
+ [G,C,] C, F,G, A,4 | E,4 D,4- | [D,^F,]2 G,4 C2- | [CA,]2 A,2 DE C2- | [CE,]2 E,6 | %11
+ [A,^C,]2 [^F,D,]2 G,=F, D,E, | F,G, E,2 ^F,2 G,2 | E,4 z2 D,2- | D,D, A,,2 B,,C, D,2- | %15
+ D,2 C,2 _B,,4 | F,3 E, D,[A,C,] [D,_B,,]2 | [E,A,,]2 [G,G,,]2 F,2 E,2 | D,3 C,/B,,/ A,,4 | %19
+ [G,E,,]2 [A,F,,]2 [D,G,,]4 | [E,C,]2 [F,D,]2 G,3 F, | E,2 F,2 D,4 | G,2 G,,2 [G,C,]4 [F,D,]2 | %23
+ E,2 A,2 G,3 A, | B,2 C3 B,/A,/ D2 | G,2 A,4 B,2 | [CE,]2 [B,G,]2 A,2 D2- | [DE,]2 C2 B,A, _B,2- | %28
+ [_B,C,]2 C,4 F,2 | D,2 [G,G,,]2 A,,G,, A,,F,, | C,8- | [C,E,CB,]4 A,G, F,2 | A,,4 G,2 E,2 | %33
+ F,4 E,4 | E,,4 E,2 G,2- | G,2 E,2 F,3 G, | A,2 D,2 G,4 | F,D, F,2 E,2 A,2 | %38
+ [G,C,]2 [F,A,,]2 _B,,3 A,, | G,2 E,2 F,4 | E,2 E,3 F, G,A, | [B,G,]2 C4 B,A, | G,4 z4 | %43
+ D,4 [CE,]2 A,2 | _B,4 A,4- | [A,A,,]2 A,, =B,, C,A,, A,B, | CG, A,G, F,3 G, | %47
+ A,3 G,/F,/ E,3 F,/G,/ | A,3 A,,8 G, F,2 E,2 | D,2 G,3 F, _B,2 | A,2 ^F,2 G,2 A,2 | %51
+ G,3 D, E,=F, G,A, | _B,3 A, G,4 | [A,^F,]4 D2 _B,2- | [_B,D,]2 D,6 | [^F,D,]8 |] %56
+V:4
+ x4 | x4 | x4 | x4 | x4 | A,,2 D, E, | z/ A,/4G,/4 D,3/2 E,/ F,/G,/ | z G,2 ^F,/E,/ | %8
+ z G,, C, A,, | z C G, A, | z B,/A,/ B,2 | z2 G,,2 | A,,2 z2 | x4 | x4 | x4 | z A,3/2 z3/2 | %17
+ z2 A,,2 | z F,2 E, | x4 | z2 C,2 | z3 G,,- | x5 | A,,2 E,2 | x4 | z2 F,2 | z3 D, | z F,2 D, | %28
+ z A, G, D,/C,/ | _B,,/A,,/ z3 | z E, G,2 | z2 D,2 | z E, G,,2 | A,,4 | x4 | x4 | x4 | z2 A,,2 | %38
+ z3 D, | G,,2 F,,3/2 G,,/ | A,,2 z E, | z E, F,2 | E,4 | z A, z F,/E,/ | D,/C,/ _B,,/G,,/ D,2 | %45
+ z E, z F, | E, C, D,2 | A,,4- | x8 | x4 | D,4 | G,,4 | G,2 z/ A,/ _B, | z2 G,2 | z A,2 G, | x4 |] %56

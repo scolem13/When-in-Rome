@@ -1,0 +1,31 @@
+X:1
+T:Befiehl du deine Wege
+T:Befiehl du deine Wege
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+L:1/8
+V:4 bass nm="Voice" snm="V"
+V:1
+ E | A G F E | D2 !fermata!E B | c c B B | !fermata!A3 x :: c x3 | B/ c/4d/4 G A B | %7
+ c2 !fermata!c G | A G A F | !fermata!E2 z c | B d c B | A2 !fermata!B E | F E D G/F/ | %13
+ !fermata!E3 x || %14
+V:2
+ E | E/D/ D D C/B,/ | A,2 !fermata!B, E | E F F E/D/ | ^C D !fermata!=C x :: A/G/ x3 | F E E/C/ F | %7
+ E/ G F/ !fermata!E C | C C/_B,/ A, A,/=B,/ | !fermata!^C2 z E | E D E/^F/ G/^G/ | %11
+ A A, !fermata!E =C/^C/ | A,/B,/ =C D D | D/ C/4B,/4 C/ B,/4A,/4 !fermata!^G, x || %14
+V:3
+ GB | Ac B2 cG G2 | AFDd !fermata!^G2 G2 | A3 c dD =GF | E2 F>G !fermata!A2 x2 :: e2 x6 | %6
+ d2 dc c2 d2 | G2 AB !fermata!c2 c2 | F2 E2 E2 FG | !fermata!A4 z2 A2 | G2 B2 BA ed | %11
+ c^c d2 !fermata!^G2 A=G | FG A2 A2 B2 | B E2 c c!fermata!B x2 || %14
+V:4
+ E, | F, G, A,,/B,,/ C, | F,,2 !fermata!E,, E, | A,/=G,/ F,/E,/ D,/C,/ E, | !fermata!A,,3 x :: %5
+ A, x3 | D, E, F, D, | C,2 !fermata!C, E, | F, C, ^C, D, | !fermata!A,,2 z A,, | %10
+ E, B,, =C,/D,/ E, | F,2 !fermata!E, A, | D, A,,/G,,/ F,,/^F,,/ G,, | ^G,, A,, !fermata!E, x || %14

@@ -1,0 +1,63 @@
+% Sonata in C major: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=139
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonata in C major
+C:D. Scarlatti (1685-1757)
+%%score ( 1 2 ) ( 3 4 5 )
+L:1/8
+Q:1/4=120
+M:12/8
+I:linebreak $
+K:C
+V:1 bass nm="down" snm="Hpschd"
+V:2 bass 
+V:3 treble nm="up" snm="Hpschd"
+V:4 treble 
+V:5 treble 
+L:1/4
+V:1
+ x3 | z3 G,3 C,3 z3 | z3 G,3 G,,3 z3 | z3 C,3 C,,3 z3 | G,CE G,B,D G,B,D z3 | z3 G,3 C,3 z3 | %6
+ z3 G,3 G,,3 z3 | z3 C,3 C,,3 z3 | G,CE G,B,D G,B,D E,G,C | E,G,C E,G,C E,G,C E,G,C | %10
+ F,A,C F,A,C F,A,C F,A,C | ^F,A,D F,A,D F,A,D F,A,D | G,B,D G,B,D G,B,D G,B,D | %13
+ G,CE G,CE G,B,D G,B,D | G,CE G,CE G,B,D G,B,D | G,CE G,CE G,B,D G,B,D | G,CE G,CE [G,B,D]3 E,G,C | %17
+ E,G,C E,G,C E,G,C E,G,C | F,A,C F,A,C F,A,C F,A,C | ^F,A,D F,A,D F,A,D F,A,D | %20
+ G,B,D G,B,D G,B,D G,B,D | z6 G,3 z3 | z3 G,3 C,3 z3 | z3 C3 F,3 z3 | z3 C3 E,3 z3 | %25
+ z3 B,3 D,3 z3 | z3 E,G,C F,A,D G,B,D | z3 C,3 C,3 E,G,C | E,G,C E,G,C E,G,C E,G,C | %29
+ F,A,C F,A,C F,A,C F,A,C | ^F,A,D F,A,D F,A,D F,A,D | G,B,D G,B,D G,B,D G,B,D | %32
+ G,CE G,CE G,B,D G,B,D | G,CE G,CE G,B,D G,B,D | G,CE G,CE G,B,D G,B,D | G,CE G,CE [G,B,D]3 E,G,C | %36
+ E,G,C E,G,C E,G,C E,G,C | F,A,C F,A,C F,A,C F,A,C | ^F,A,D F,A,D F,A,D F,A,D | %39
+ G,B,D G,B,D G,B,D G,B,D | z6 G,3 z3 | z3 G,3 C,3 z3 | z3 C3 F,3 z3 | z3 C3 E,3 z3 | %44
+ z3 B,3 D,3 z3 | z3 E,G,C F,A,D G,B,D | z3 C,,3 C,,3 x3 |] %47
+V:2
+ x3 | z12 | z12 | z12 | z6 G,,3 z3 | z12 | z12 | z12 | z6 G,,3 z3 | z6 C,3 z3 | z3 C,3 F,,3 z3 | %11
+ z6 D,3 z3 | z3 D,3 G,,3 z3 | z3 G,,3 z3 G,,3 | z3 G,,3 z3 G,,3 | z3 G,,3 z3 G,,3 | z3 G,,3 z6 | %17
+ z6 C,3 z3 | z3 C,3 F,,3 z3 | z6 D,3 z3 | z3 D,3 G,,3 z3 | z12 | z12 | z12 | z12 | z12 | %26
+ z6 D,3 z3 | z12 | z6 C,3 z3 | z3 C,3 F,,3 z3 | z6 D,3 z3 | z3 D,3 G,,3 z3 | z3 G,,3 z3 G,,3 | %33
+ z3 G,,3 z3 G,,3 | z3 G,,3 z3 G,,3 | z3 G,,3 z6 | z6 C,3 z3 | z3 C,3 F,,3 z3 | z6 D,3 z3 | %39
+ z3 D,3 G,,3 z3 | z12 | z12 | z12 | z12 | z12 | z6 D,3 z3 | z8 z x3 |] %47
+V:3
+ x8 x G2 G | c3 CEG CEG CE[GB]/c/ | B,DG B,DG B,DG B,D[Gc]/d/ | CEG CEG CEG CEG | e3 d3 z3 G2 G | %5
+ c3 CEG CEG CE[GB]/c/ | B,DG B,DG B,DG B,D[Gc]/d/ | CEG CEG CEG CEG | e3 d3 z3 (3:2:2G4 [A_B]/- | %9
+ (3:2:2[AB]/4 z/ z2 z/ _B3 z3 B3 | A3 z6 (3:2:2A4 [=Bc]/- | (3:2:2[Bc]/4 z/ z2 z/ c3 z3 A3 | %12
+ B3 z6 d3 | [ge]3 z3 [fd]3 z3 | [ec]3 z3 [dB]3 z3 | [ge]3 z3 [fd]3 z3 | %16
+ [ec]3 z3 [dB]3 (3:2:2G4 [A_B]/- | (3:2:2[AB]/4 z/ z2 z/ _B3 z3 B3 | A3 z6 (3:2:2A4 [=Bc]/- | %19
+ (3:2:2[Bc]/4 z/ z2 z/ c3 z3 c3 | B3 z6 (3:2:2d4 [ef]/- | (3:2:2[ef]/4 z/ z/ DG f3 B,DG B,DG | %22
+ CEG CEG CEG CE[Gf]/g/ | FAc FAc FAc FA[cg]/f/ | EGc EGc EGc EG[cf]/e/ | DFB DFB DFB DF[Be]/d/ | %26
+ CEG c3 z3 B2 A/B/ | c3 CEG CEG (3:2:2G4 [A_B]/- | (3:2:2[A_B]/4 z/ z2 z/ B3 z3 B3 | %29
+ A3 z6 (3:2:2A4 [=Bc]/- | (3:2:2[Bc]/4 z/ z2 z/ c3 z3 c3 | B3 z6 d3 | [ge]3 z3 [fd]3 z3 | %33
+ [ec]3 z3 [dB]3 z3 | [ge]3 z3 [fd]3 z3 | [ec]3 z3 [dB]3 (3:2:2G4 [A_B]/- | %36
+ (3:2:2[AB]/4 z/ z2 z/ _B3 z3 B3 | A3 z6 (3:2:2A4 [=Bc]/- | (3:2:2[Bc]/4 z/ z2 z/ c3 z3 A3 | %39
+ B3 z6 (3:2:2d4 [ef]/- | (3:2:2[ef]/4 z/ z/ DG f3 B,DG B,DG | CEG CEG CEG CE[Gf]/g/ | %42
+ FAc FAc FAc FA[cg]/f/ | EGc EGc EGc EG[cf]/e/ | DFB DFB DFB DF[Be]/d/ | CEG c3 z3 B2 A/B/ | %46
+ c3 CEG C3 x3 |] %47
+V:4
+ x8 x CE z | CEG z6 c2 z | d3 z6 d2 z | e3 z6 e3 | z8 z CE z | CEG z6 c2 z | d3 z6 d2 z | %7
+ e3 z6 e3 | z12 | c3 z8 z | z12 | d3 z8 z | z12 | z12 | z12 | z12 | z12 | c3 z8 z | z12 | d3 z8 z | %20
+ z12 | g3 B,DG z3 f3 | e3 z6 g2 z | a3 z6 a2 z | g3 z6 g2 z | f3 z6 f2 z | e3 z8 z | CEG z8 z | %28
+ c3 z8 z | z12 | d3 z8 z | z12 | z12 | z12 | z12 | z12 | c3 z8 z | z12 | d3 z8 z | z12 | %40
+ g3 B,DG z3 f3 | e3 z6 g2 z | a3 z6 a2 z | g3 z6 g2 z | f3 z6 f2 z | e3 z8 z | CEG z6 x3 |] %47
+V:5
+ x3/2 x9/2 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %18
+ z6 | z6 | z6 | B,/ z4 z3/2 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %36
+ z6 | z6 | z6 | z6 | B,/ z4 z3/2 | z6 | z6 | z6 | z6 | z6 | z4 z/ x3/2 |] %47

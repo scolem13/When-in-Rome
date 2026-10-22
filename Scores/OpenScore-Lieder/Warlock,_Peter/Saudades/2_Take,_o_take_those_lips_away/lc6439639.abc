@@ -1,0 +1,81 @@
+X:1
+T:Saudades
+T:Take, o take those lips away
+C:Peter Warlock
+Z:William Shakespeare (poem from "Measure for Measure")
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 7 ) | ( 4 5 8 ) }
+L:1/8
+Q:1/4=72
+M:3/4
+I:linebreak $
+K:Ab
+U:s=!stemless!
+V:1 treble nm="Voice"
+V:2 treble 
+L:1/4
+V:3 treble nm="Piano"
+L:1/4
+V:6 treble 
+V:7 treble 
+L:1/4
+V:4 bass 
+V:5 bass 
+V:8 bass 
+V:1
+"^Andante con moto  (\n)" z6 | z6 | A4 G2 | A4 G2 | !tenuto!G4- G F | E6 | z2 F2 G2 | B4 =A2 | %8
+w: ||Take, o|take those|lips _ a-|way,|That so|sweet- ly|
+ _A4 F2 | G6- | G z A2 G2 | =E4- E F | c4- c B | f4- f z | z"^mezza voce" F2 F C3/2 C/ | E4- E D | %16
+w: were for-|sworn;|_ And those|eyes, _ the|break _ of|day, _|Lights that do mis-|lead _ the|
+ (_F2-!>(! F__E)!>)! z2 | z6 |"^a tempo ma più lento che Tempo I." z"^naturale" c2 B A =E | %19
+w: morn _ _||But my kis- ses|
+ F3/2 F/ A4 |"^mezza voce" F3/2 F/ A4 | z"^naturale""^rit. molto" F2 F (3C z C | E4- E C | %23
+w: bring a- gain,|bring a- gain,|Seals of love, but|seal’d _ in|
+"^rall. poco a poco al fine" F4 z2 | !courtesy!=G4- !fermata!G =E |!sfz!!>(! C6-!>)!"^dim. al" | %26
+w: vain,|Seal’d _ in|vain.|
+!pppp! C2 z2 z2 | z6 | !fermata!z6 |] %29
+w: _|||
+V:2
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x x x | x3 | x3 | x3 | %17
+ x"^rit. molto" x x | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %29
+V:3
+!p!!<(! z3!<)! | !tenuto!F3 | (A2 G | A2 G) |!mf! ([Af]2 [Ec] |!<(! e2)!<)! (_c' | [Bb]2 [Aa] | %7
+"^(L.H.)" g2"^L. H." _g |"^L.H." f3 | e3) |"^cantabile"!<(! (=e f a!<)! | =f2) c'/b/ | %12
+ (f a-!>(! (6:4:5a/f/4e/4B/4E/4!>)! | F2)!sfz!!sfz! (B | A2) G | (_G !breath!F/) (_f/ _c/_F/) | %16
+ =G2 x | (3:2:2_e/ _g"^rit. molto" (_G/>F/) [B,_DF]/ !tenuto!=A/- | %18
+"^a tempo ma più lento che Tempo I." [FA]3/2!<(! z/ ([_fb]!<)! |!>(! =f a2)!>)! | %20
+!p! ([_Gf]2"_L.H." [Fea]) | [Af]2 [Ec] | e3 |"^rall. poco a poco al fine"!p! [EF]2 [DA] | %24
+ (=F2 !fermata!_A) | (B,2[I:staff +1] A,) |"^L.H."[I:staff -1] x/ z/ z"^morendo" (C | F3-) | %28
+!ppp! !fermata!F3 |] %29
+V:4
+ z!ped! (B,,,F,,B,,E,A, |[I:staff -1] D4!ped-up! (C2-) |!mp! C D2 F [C=E])[=B,=D] | %3
+[I:staff +1] _F,6 | z (B,,, (3B,,F,D (C2) | _C4) [CE=FA]2 | [G,DF]4 [F,_CE]2 | [=E,B,]4 [_E,=A,]2 | %8
+ (A,4 G,2) | (_C4 __B,2) | [F,=CE]4[K:treble] [B,A]2- | [B,A]4 [B,=DA]2 | %12
+!ped! [_G,B,F]2- z2 z2!ped-up! |[K:bass] z (A,3 __A,_G, | F,) (B,,, F,,B,,) C,2 | %15
+ (3(E,,B,,E, !breath!A,) [__A,C_D]3 | (3(=A,,=E,=B,!ped! _B,4)!ped-up! | _C=C _A,2 =G,_G, | %18
+ D,,A,, F, [A,DF] [B,=DA]2 | [_D_G]2 [CF]2 [B,E]2 | (DC _C4) | (E3 D C2) | ([G,D]4 [_G,C]2) | %23
+ F,4 _F,2 | E,2 =D,2 _G,2- |!>(! _G,!ped! x!>)! x4 | z6!ped-up! | z!ped! (B,,,F,,B,,E,A, | %28
+ !fermata!D4 !fermata!C2)!ped-up! |] %29
+V:5
+ x6 | x6 | z (B,,, F,,B,,) [F,G,]2 | z (C,, D,,_F,,) E,,2 | x4 z [B,,A,]- | [B,,A,] (B,, A,_F) x2 | %6
+ x6 | [F,,B,,]3 [F,,B,,]- [F,,B,,]2 | [B,,,F,,]4 z2 | [_F,,__B,,]4 z2 | x4[K:treble] =D2 | E4 x2 | %12
+ x6 |[K:bass] B,,6 | z x5 | x6 | x6 | _G,2 _B,,2 =A,,_A,, | x6 | A,4 _G,2 | E,4- E, [E,,B,,]- | %21
+ [E,,B,,]4 B,,2 | z2 (E,,B,,- B,,2) | z (B,,, F,,B,,) x2 | z !tenuto!B,,,2 (F,, _G,2) | %25
+ z (F,,B,,E,A,C |[I:staff -1] [Ae]) x5 | x6 | x6 |] %29
+V:6
+ x6 | x6 | x6 | [_B,_D] [B,D]2 [B,D]2 [__B,D] | (d c2 B (3AGF | E F2 A) [ea][ea] | %6
+ [df] [df]2 [df] [_ce][ce] | ([=DG=d] [DG]2) [DG] ([_D_G_d][DG]) | [DF] [DF]2 [DF]2 [D-F] | %9
+ [D__A]!>(! [DA]2 [DA]2!>)! [DA] | [Ac_e] [Ace]2 [Ace] [_c_f][cf] | %11
+ [=c!courtesy!_e] [ce]2 [ce] [_d=e][cf] | [EB_e][EBe]- z2 z2 | z2 CE (=D!pp!E) | %14
+ (=C!mp! D2 F ([=B,=E])[_B,-_E] | [B,D]3) _F3 | %16
+ [=B,=D]2[I:staff +1] =D/[I:staff -1](=E/G/=d/ _b/^f/=e/_B/) | %17
+ _c/_B/__B/"_(L.H.)"E/ [_C=D]2 x [=C=E] | (F, D2) B _c=d | B2 c2 d2 | B>__B A4 | %21
+ (d"^rit. molto" c2 B (3AGF | _F4 E2) | (!tenuto!C2 !tenuto!A,2 !tenuto!B,2 | %24
+ !tenuto!=B,2!<(! !tenuto!C2- =E2!<)! | !tenuto!F6) | x6 | x6 | x6 |] %29
+V:7
+ x3 | x3 | x3 | x3 | x3 | x2 c | x3 | x3 | (c2 B) | x3 | x3 | x3 | x s[EBe]/ x3/2 | x2 _C | x2 G | %15
+ x3 | x3 | _E x2 | x3 | x A2 | x3 | x3 | (=A2 B) | x3 | A,2 !tenuto![=A,C] | _E3 | x3 | x3 | x3 |] %29
+V:8
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x4[K:treble] x2 | x6 | x2 s[G,B,F] x3 | %13
+[K:bass] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [F,B,]4 (3F,G,A, | x6 | x6 | x6 | x6 | x6 | x6 | %28
+ x6 |] %29

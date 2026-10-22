@@ -1,0 +1,81 @@
+X:1
+T:Jugend-Lieder
+T:Morgengesang
+C:Mathilde Kralik
+Z:William Shakespeare
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=150
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Piano"
+L:1/8
+V:5 treble 
+V:3 bass 
+L:1/8
+V:4 bass 
+V:1
+"^Lebhaft" z3 | z3 | z3 | z3 | z3 | z3 | z3 | z z d | d2 d | d2 d | !>!g !>!e !>!c | G2 ^G | B2 A | %13
+w: |||||||Horch,|horch, die|Lerch’ am|Him- mels- tor|singt; die|lie- be|
+ d2 ^A | B2 z | z3 | z z G | e2 B | c2 A | e2 B | c2 ^G | A2 E | =F2 D | A2 z | %24
+w: Sonn’ wacht|auf!||Von|al- len|Blu- men-|kel- chen|trinkt sie|schon ihr|Op- fer|auf.|
+ z z!p!"^Ruhiger" =F | =F2 F | =F2 F | (=F B) d | =f2 e | e2 d | g2 ^d | e3- | e z e | e2 d | %34
+w: Das|Hoch- zeit-|knosp- chen|freund- * lich|winkt, und|tut sein|Äug- lein|auf;|_ was|hold und|
+ B2 B | e2 d | B2 E | F2 ^G | A2 A | ^A2 A | B2 B | B2"^rit." B | d2 c |"^a tempo" B2 z | %44
+w: lieb ist,|lieb- lich|blinkt, auf,|schö- nes|Kind, wach|auf, wach|auf, du|schö- nes|Kind, wach|auf,|
+ z z!f! D | (B, D) G | B2 G | (D G) B | d3- | d z!f! d | _e2 e | _e2 e | g3- | g z!ff! d | _e2 e | %55
+w: wach|auf, _ wach|auf, wach|auf, _ wach|auf,|_ auf,|schö- nes|Kind, wach|auf!|_ auf,|schö- nes|
+ _e2 e | g3- | g3- | g3- | g3- | g/ z/ z z | z3 | z3 | z3 | z3 |] %65
+w: Kind, wach|auf!|_||||||||
+V:2
+!p! D z (^CDFG |!<(! ^AB^cd fg!<)! | b) z!mf! (_e'd'e'd' | _e'd'e'd')!p! (^A,B, | %4
+!<(! ^CDFG ^AB!<)! | ^cdfg ^ab | d') z!mf! (_e'd'e'd' | _e'd'e'd') (e'd') | %8
+"_cresc." (_e'd'e'd') (e'd') | (_e'd'e'd') (e'd') |!f! z (c'gecG | ECG,E, ^G,C) | %12
+[K:bass] z (D,F,A,[K:treble]DF | AdAFD^A,) |[K:bass] z (D,G,B,[K:treble] DG) | %15
+"^espress." !^![DFd]4 !^![^A,^A]2 | !^![B,DGB]2 z z z2 |!mf! z (E,=A,C EA) | z (F,CD Fc) | %19
+ z (E,A,C EA) | z (F,CD Fc) |!p! z (=F,A,C =FA) | z (=F,B,D =FB) |{/A,} A4 E2 | =F4 F-(B- | %25
+"^dolce" [FBd]2) ([=F,B,]D[F,B,]D) | ([=F,B,]D[F,B,]D [F,B,]D) |!<(! ([=F,B,]D=FB d=f)!<)! | %28
+ (!^![=fa]dBG[I:staff +1] =FG,) | =F,,=F,-[I:staff -1] G,B,DG | [Bg](BGD B,G,) | %31
+ z[I:staff +1] (E,^G,C[I:staff -1] E^G) | ([ce]AEC[I:staff +1] A,E,) | %33
+[I:staff -1] z[I:staff +1] (=F,A,D A,F,) |[I:staff -1] z[I:staff +1] (E,^G,EG,E,) | %35
+[I:staff -1] z[I:staff +1] (=F,A,D A,F,) |[I:staff -1] z[I:staff +1] (E,^G,EG,E,) | %37
+!<(![I:staff -1] z2 [^G,B,]2 [G,B,]2 | z2 A,2 A,2!<)! | z2 [F,^A,^C]2 [F,A,C]2 | %40
+ z2 [F,B,^D]2 [F,B,D]2 |"_cresc." z2 [G,B,E]2 [G,B,E]2 | z2 [A,CE]2 [A,CE]2 | %43
+!f!"^a tempo" [B,DG]2 ([G,B,D]G[G,B,D]G) | ([G,B,D]G[G,B,D]G [G,B,D]G) | %45
+ ([G,B,D]G[G,B,D]G [G,B,D]G | [G,B,D]G[G,B,D]G [G,B,D]G | [G,B,D]G[G,B,D]G [G,B,D]G | %48
+ [G,B,D]) z (_eded | _eded) (ed) | ([G_B_e]g[GBe]g [GBe]g | [G_B_e]g[GBe]g [GBe]g) | %52
+ ([G=Bd]g[GBd]g [GBd]g | [GBd]g[GBd]g [GBd]g) | ([G_B_e]g[GBe]g [GBe]g | [G_B_e]g[GBe]g [GBe]g | %56
+ [=Bd]g[GBd]g [GBd]g | [GBd]g[GBd]g [GBd]g | [GBd]g[GBd]g [GBd]g | [GBd]g[GBd]g [GBd]g | %60
+ [Bd]) z z2 (^A,B, | ^CDFG ^AB |!<(! ^cdfg ^ab | ^c'd'f'g'!<)!!8va(! ^a'b' | %64
+ d'')!8va)! z z2 [dgd'] z |] %65
+V:3
+ [G,B,] z (^A,B,^CD | FG[K:treble]^AB ^cd | g) z (^abab | ^abab)[K:bass] (F,G, | %4
+[K:treble] ^A,B,^CD FG | ^AB^cd fg | b) z (^abab | ^abab) (ab) | (^abab) (ab) | (^abab) (ab) | %10
+[K:bass]!8vb(! !^![D,,,D,,]6- | [D,,,D,,]6!8vb)! |!8vb(! [C,,,C,,]6- | [C,,,C,,]6!8vb)! | %14
+!8vb(! [B,,,,B,,,]4!8vb)! z2 | ([C,,C,]C,D,F,[I:staff -1] ^A,D) | %16
+[I:staff +1] ([B,,,B,,]D,G,!>(![I:staff -1] B,DG)!>)! |[I:staff +1] [A,,,A,,]2 z2 z2 | %18
+ [D,,D,]2 z2 z2 | [A,,,A,,]2 z2 z2 | [D,,D,]2 z2 z2 | D,,2 z2 z2 | G,,,2 z2 z2 | %23
+ z"^espress." (=F,A,C) z2 | (G,,=F,B,D) z2 | (.G,,2 .G,,2 .G,,2) | (.G,,2 .G,,2 .G,,2) | %27
+!ped! G,,6 | z2 z2 z2!ped-up! | =F,,6- | [=F,,=F,]6 | E,,6 | A,,,4 z2 | B,,,2 z2 z2 | E,,2 z2 z2 | %35
+ B,,,2 z2 z2 | E,,2 z2 z2 | z2 [D,E,]2 [D,E,]2 | z2 [C,E,]2 [C,E,]2 | z2 [F,,^C,]2 [F,,C,]2 | %40
+ z2 B,,2 B,,2 | z2 [E,,E,]2 [E,,E,]2 | z2 [A,,E,]2 [A,,E,]2 | [D,,D,]6- | [D,,D,]6- | [D,,D,]6- | %46
+ [D,,D,]6- | [D,,D,]6- | [D,,D,] z[K:treble] (^ABAB | ^ABAB) (AB) | %50
+[K:bass] [_E,,_E,]4 [_E,,,E,,]2 | [G,,,G,,]2 [_B,,,_B,,]2 [_E,,_E,]2 | [G,,G,]4 [G,,,G,,]2 | %53
+ [B,,,B,,]2 [D,,D,]2 [G,,G,]2 | [_E,_E]4 [_E,,E,]2 | [G,,G,]2 [_B,,_B,]2 [_E,_E]2 | [G,G]4 G,,2 | %57
+ B,,2 D,2 G,2 | B,2 B,,2 D,2 | G,2 B,2 D2 | G z z2 (F,G, | ^A,B,^CD FG |[K:treble] ^AB^cd fg | %63
+ ^ab^c'd' f'g' | b') z z2 [G,DB] z |] %65
+V:4
+ x3 | x[K:treble] x2 | x3 | x2[K:bass] x |[K:treble] x3 | x3 | x3 | x3 | x3 | x3 | %10
+[K:bass]!8vb(! x3 | x3!8vb)! |!8vb(! x3 | x3!8vb)! |!8vb(! x2!8vb)! x | x2 z | x3 | x3 | x3 | x3 | %20
+ x3 | x3 | x3 | D,, z x | x3 | x3 | x3 | x3 | x3 | z F,2- | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x[K:treble] x2 | x3 |[K:bass] x3 | x3 | x3 | %53
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:treble] x3 | x3 | x3 |] %65
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:bass] x2[K:treble] x | x3 | %14
+[K:bass] x2[K:treble] x | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x2 =F | x3 | x3 | x3 | x3 | %29
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %48
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x2!8va(! x | %64
+ x/!8va)! x5/2 |] %65

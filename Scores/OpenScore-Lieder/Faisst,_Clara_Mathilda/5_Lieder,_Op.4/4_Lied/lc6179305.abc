@@ -1,0 +1,57 @@
+X:1
+T:5 Lieder, Op.4
+T:Lied
+C:Clara Faisst
+Z:Julius Sturm
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=71
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Langsam" G2 G |!<(! G2 G!<)! | c2!>(! G | E2!>)! D | (C E) A | G2 F | E2 D | C2 =B, | !>!=B2 B | %9
+w: Wenn dies|Herz hat|aus- ge-|schla- gen|mögt * ihr's|still zu|Gra- be|tra- gen,|spart am|
+ F2 D |!<(! (C D) E!<)! | (G2 F) |!<(! c2!<)! c |!f! c2 G | G2 F | (F2 =E) |!p! _E2 E | E2 E | %18
+w: Sar- ge|Kranz * und|Zier,  _|nur ein|Kreuz ver-|gön- net|mir!  _|Pflanzt auch|kei- ne|
+ (A G/A/) (B/=B/) |!<(! (c3/2!<)! _d/) (c/_B/) |!>(! (E =E)!>)! F | G2 C |"^rit." =B,2 C | %23
+w: duft'- * * gen  _|Ro- * sen  _|auf  _ das|Grab des|Freu- de-|
+!>(! (E D)!>)! !fermata!D | E2 E | B2 G | E2 F | G3 |!p! G2 G | G2 G |!<(! (G!<)!!>(! c) G!>)! | %31
+w: lo- * sen:|Wählt für|mei- ne|Schlum- mer-|statt|Im- mer-|grün und|E- * pheu-|
+ G3 | z3 | z3 | !fermata!z3 |] %35
+w: blatt.||||
+V:2
+!p![I:staff +1] [G,CE]2 [G,=B,D] | [E,G,C]2 [G,=B,D] |[I:staff -1] [E,A,C]2!<(! [G,=B,D] | %3
+ [G,CE]2 [G,DG] | [CEA]2!<)! [CEA] |!>(! [B,EG]2 [A,DF]!>)! | [G,CE]2[I:staff +1] [F,A,D] | %7
+ [E,G,C]2 [D,G,=B,] |[I:staff -1] [=B,DF]3- | [B,DF]3 | [CE]3 | [G,B,E]2 [F,B,D] | %12
+[I:staff +1] [^F,CE]3 |!<(![I:staff -1] ([G,C=E] [CEG]!<)!"_espressivo" [EGc] | [G=B=e]2 [FBd] | %15
+!>(! [FG=B]2!>)! [=EGc]) |!p! ([_EAc]2 [EG_B]) | ([Ac]3/2 [_df]/!<(! [ce]/[Bd]/) | %18
+ [Ac] ([GB]/[Ac]/ [B_d]/[=B=d]/)!<)! | ([ce]3/2 [_df]/!>(! [ce]/[Bd]/) | [Ac]2!>)! [Ac] | %21
+ (.c/.=B/ ._B .[CFA]) | (.A/"_rit.".G/ .F .[CE]) |!>(! (E D!>)! !fermata![G,=B,D]) | %24
+!p! ([G,CE]2 [A,CE]) | ([B,EB]2 [B,EG] | [G,CE]2 [CF] | G)!pp! G"^rit." G | %28
+!pp! ([c=eg]"_dolciss." [g=e'] [ec'] | [=Bfg]2)!<(! ([Bfg] | g [fc']!<)!!>(! g | g2)!>)! ([=B,FG] | %32
+!pp!!<(! G [Fc]!<)!!>(! [CG] | G2)!>)! z |[I:staff +1] !fermata![C,=E,G,]3 |] %35
+V:3
+ z .[C,,C,] .[G,,,G,,] | z .[C,,C,] .[G,,,G,,] | z .[C,,,C,,] .[G,,,G,,] | z .[C,,C,] .[B,,,B,,] | %4
+ z .[A,,,A,,] .[E,,,E,,] | z .[E,,E,] .[=B,,,=B,,] | z .[C,,C,] .[F,,,F,,] | z .G,, .G,,, | %8
+ z .[A,,A,] .[A,,,A,,] | z!p! .[G,,G,] .[G,,,G,,] | z .[A,,A,] .[A,,,A,,] | z .B,, .B,,, | %12
+ z ([=A,,,=A,,] [_A,,,_A,,]) | [G,,,G,,]3 | z .[G,,G,] .[G,,,G,,] | z .[C,,C,] .[C,,,C,,] | %16
+ z .[A,,,A,,] .[E,,,E,,] | z .[A,,,A,,] .[E,,,E,,] | z .[A,,,A,,] .[E,,,E,,] | %19
+ z .[A,,,A,,] .[E,,,E,,] | ([A,,,A,,] [G,,,G,,] [F,,,F,,]) | [=E,,,=E,,]2 [F,,,F,,] | %22
+ [G,,,G,,]2 [A,,,A,,] | [^F,,,^F,,]2 !fermata![G,,,G,,] | (C, B,, A,, | G,, F,, E,,) | %26
+ (C, B,, A,,) | G,,3 |[K:treble] [G,CG]3 | (G d) G | [=EG] [F=A] [EG] | [DF] [C=E] G, | %32
+[K:bass] [=E,G,] [F,=A,] [E,G,] | [C,G,]2 [G,,G,] | C,,3 |] %35
+V:4
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | E2 E | E2 E | %19
+ E2 E | (E =E F) | [CG]2 x | [=B,D]2 x | [=A,C]2 x | x3 | x3 | x3 | [=B,D]3 | x3 | x3 | c2 c | %31
+ =B c x | C3 | =B,"_rit." C x | x3 |] %35
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:treble] x3 | [G,D]3 | [G,C]3 | [G,G]2 x | %32
+[K:bass] C,3 | F, =E, x | x3 |] %35

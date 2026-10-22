@@ -1,0 +1,57 @@
+X:1
+T:Sonata
+C:Domenico Scarlatti
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/16
+Q:1/4=162
+M:3/8
+I:linebreak $
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+L:1/8
+V:1
+"^Allegro" a2e2c2 | A2E2C2 | A, z4 [CE] | z afdA z | [CE] z4 [CE] | z afdA z |$ [CE] z4 [CE] | %7
+ z afdA z | [CE] z4 E | CEB,EA,^D | [G,B,] z4 [G,B,] | z ecAE z |$ [G,B,] z4 [G,B,] | z ecAE z | %14
+ [G,B,] z4 [G,B,] | z ecAE z | [G,B,] z4 B, | =C^CD^DEF |$ x4 =c2 | ^DBE=GFA | ^GeA=cBd | %21
+ ^ca^dfe^a | bf^dB ge |$ f^dBf ge | f^dBf ge | x4 ^d2 | e2 x4 | BGEBcA | BGEBcA |$ BAGFEG | %30
+ FE^DCB,D | x2 B2 x2 | G2 x4 |[K:bass] C2B,2A,2 | G,6 ::$[K:treble] z6 | E2G2B2 | e2 z4 | z cBAGB | %39
+ z edcBd | c z4 [CE] | z afdA z |$ [CE] z4 [CE] | z afdA z | [CE] z4 E | CEB,EA,^D | z =G FB2^A | %47
+ z dcf2^e | f4- fd- |$ dc2B2^A | B6 | c2B2A2- | AGABEc- | cB2A2G | [CEA] z4 [CE] |$ z afdA z | %56
+ [CE] z4 [CE] | z afdA z | [CE] z4 E | CEB,EA,^D | [G,B,] z4 [G,B,] |$ z ecAE z | %62
+ [G,B,] z4 [G,B,] | z ecAE z | [G,B,] z2 BcA | BGEB cA | BGEB cA |$ BGEGAc- | cB2A2G | AEFDEC | %70
+ F2E2D2 | C2D2C2 | B,2A,2G,2 |({G,/4} A,6) :| %74
+V:2
+"" z6 | z6 | z A,,C,E,A, z |"" [DF] z4 [DF] |"" z A,,C,E,A, z |"" [DF] z4 [DF] |$"" z A,,C,E,A, z | %7
+"" [DF] z4 [DF] |"" z A,,C,E,A, z |"C{" A,2""G,2"m"F,2 |"" z E,,G,,B,,E, z |"" [A,C] z4 [A,C] |$ %12
+"" z E,,G,,B,,E, z |"" [A,C] z4 [A,C] |"" z E,,G,,B,,E, z |"" [A,C] z4 [A,C] |"" z E,,G,,B,,E,G, | %17
+"m" A,"m"=G,""F,""B,""G,""F, |$"m" E,""D,"m"=C,"m"B,,""A,,2 |"" ^DB,"m"=C"m""m"^C""D"m"D | %20
+"" E2[K:treble]"" =F"m"^F""=G"m"^G |"" A2""B2""=c2 |"" B2 z2"" b2 |$ %23
+[K:bass]"" B,,2 z2[K:treble]"" b2 |[K:bass]"" B,,2 z2[K:treble]"" b2 |[K:bass]"" B,,2 z2"" B,,2 | %26
+"" E,,2 z2[K:treble]"" e2 |[K:bass]"" E,,2 z2[K:treble]"" e2 |[K:bass]"" E,,2 z2[K:treble]"" e2 |$ %29
+[K:bass]"" E,,2 z2 E,,2 |"" B,,2>A,2G,F, |"" E,2""B,2""B,,2 |"" E,,2"""" z4 |"m" E,,2"""m" z4 | %34
+"" E,,6 ::$"" E,2G,2B,2 | z6 | z E,,G,,B,,E,G, |"m" B,EDCB,D |"" C2"m"B,2""E2 |"" AA,,C,E,A, z | %41
+"" [DF] z4 [DF] |$"" z A,,C,E,A, z |"" [DF] z4 [DF] |"" z A,,C,E,A, z |"C{" A,2""G,2"m"F,2 | %46
+"m" E,2"m"=D2"m"[CE]2 |"m""m" B,2>A,2"m"^G,2 |"" F,2>E,2"m"[D,D]2 |$"m" E2""D2""C2 | %50
+"" B,2>=A,2""^G,2 |"m" A,2""B,2""B,,2 |"" E,2>=D2""C2 |"m" D2""C2""B,2 |"" z A,,C,E,A, z |$ %55
+"" [DF] z4 [DF] |"" z A,,C,E,A, z |"" [DF] z4 [DF] |"" z A,,C,E,A, z |"C{" A,2""G,2"m"F,2 | %60
+"" z E,,G,,B,,E, z |$"" [A,C] z4 [A,C] |"" z E,,G,,B,,E, z |"" [A,C] z4 [A,C] | %64
+"" z E,,E, z[K:treble]"" e2 |[K:bass]"" E,,2 z2[K:treble]"" e2 | %66
+[K:bass]"" E,,2 z2[K:treble]"" e2 |$[K:bass]"" E,,2>D2""C2 |"m" D2""C2""B,2 |"" A,,2"""" z4 | %70
+"m""""m" z6 |"" A,,E,""F,D,""E,C, |"m" D,B,,""C,A,,""B,,E,, |"""" A,,6 :| %74
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ %18
+ =G^GA=GFE | x6 | x6 | x6 | x6 |$ x6 | x6 | fe^dcBA | GFEBcA | x6 | x6 |$ x6 | x6 | EFGEF^D | %32
+ EB,CA,B,G, |[K:bass] A,F,G,E,F,^D, | E,6 ::$[K:treble] x6 | x6 | x6 | x6 | A4 G2 | x6 | x6 |$ x6 | %43
+ x6 | x6 | x6 | E x5 | B2c2B2- | B^ABcF2 |$ =G2F2E2- | E^DEFE^G- | GF2E2^D | E4 x2 | F2E2D2 | x6 |$ %55
+ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | F2E2D2 | x6 | DB,CA,B,G, | %71
+ A,2 x4 | x6 | x6 :| %74
+V:4
+ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | %19
+ x3 | x[K:treble] x2 | x3 | x3 |$[K:bass] x2[K:treble] x |[K:bass] x2[K:treble] x |[K:bass] x3 | %26
+ x2[K:treble] x |[K:bass] x2[K:treble] x |[K:bass] x2[K:treble] x |$[K:bass] x3 | x3 | x3 | x3 | %33
+ x3 | x3 ::$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ E, F,2 | x3 | %51
+ x3 | x3 | D, E,2 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x2[K:treble] x | %65
+[K:bass] x2[K:treble] x |[K:bass] x2[K:treble] x |$[K:bass] x3 | D, E,2 | x3 | x3 | x3 | x3 | x3 :| %74

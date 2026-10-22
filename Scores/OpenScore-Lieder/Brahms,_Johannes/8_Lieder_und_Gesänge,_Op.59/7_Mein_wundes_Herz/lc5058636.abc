@@ -1,0 +1,69 @@
+X:1
+T:8 Lieder und Gesänge, Op.59
+T:Mein wundes Herz
+C:Johannes Brahms
+Z:Klaus Groth
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/4
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/8
+V:3 bass 
+V:4 bass 
+V:1
+"^Bewegt." z4 | z4 | z4 | z4 | z B G F | E B g e | d3 c | B2 z B | ^c3 c | ^d3 e | f3 z | z4 | %12
+w: ||||Mein wun- des|Herz ver- langt nach|mil- der|Ruh, o|hau- .che|sie ihm|ein!||
+ z F A B | c F c2- | c ^c d e | (e d) z =c | B3/2 B/ e ^c | d2 z =c | B3 B | e3 F | G z z2 | z4 | %22
+w: Es fliegt dir|wei- nend, ban-|* ge schla- gend|zu, _ o|hül- le du es|ein, o|hül- le|du es|ein!||
+ z4 | z4 | z B G F | E B g e | d3 c | B2 z B | ^c3 c | ^d3 e | f3 z ||[K:E] z4 | z c A G | %33
+w: ||Wie wenn ein|Strahl durch schwe- re|Wol- ken|bricht, so|win- kest|du ihm|zu:||O läch- le|
+ F z z e | e c A G | F z z e | (c B) (^A c) | (f e) (d c) | B2 z ^B | c3/2 c/ f d | (e B) z ^B | %41
+w: fort mit|dei- nem mil- den|Licht, mit|dei\-- * nem _|mil- * den _|Licht! Mein|Pol, mein Stern bist|du, * mein|
+ (d c) z d | (f2 e) z | z2 B2 | G2 F2 | E2 z2 | z4 | z4 | !fermata!z4 |] %49
+w: Pol, * mein|Stern, *|mein|Stern bist|du!||||
+V:2
+ z (CA)(A, F)(G,E)(F,- | [F,^D]2) z2 z (E,[A,E]) (F, | [A,^D]2) z2 z!<(! (E[Ae]) (^E-!<)! | %3
+!>(! ([EA-^e]4) [FAf]2)!>)! z2 | z8 | z"_poco"[I:staff +1] (B,G,F, E,B,[I:staff -1]GE) | %6
+[I:staff +1] (F,A,[I:staff -1]FD[I:staff +1] F,B,[I:staff -1]FD) | %7
+[I:staff +1] (G,[I:staff -1]DBG G,DBG) | (B,^CB!<(!F B,CBF) | (B,^DBF ^A,E^AE) | %10
+ (=A,[^DF=A])!<)!!f! (af^d!>(!=cAG) | (GF)!>)! z!p![I:staff +1] (C2 A,2 G,-) | G,(F,A,B, CA,F,E,) | %13
+!<(! (^D,F,CA, D,A,CG,) | (F,A,CA, D,F,DA,)!<)! | %15
+!>(![I:staff -1] z[I:staff +1] (D,DG,)[I:staff -1] z[I:staff +1] (C,C!>)!F,) | %16
+[I:staff -1] z!p![I:staff +1] (B,,B,G,)[I:staff -1] z[I:staff +1] (_B,[I:staff -1]_BE) | %17
+ z (A,AD) z (=CAF) | z (B,GE) z!<(! (B,GE)!<)! | %19
+!>(! z[I:staff +1] (G,[I:staff -1]EA,) z[I:staff +1] (F,!>)!=CA,) | %20
+"_cresc."[I:staff -1] z[I:staff +1] (B,[I:staff -1]G)[I:staff +1](G,[I:staff -1] E)[I:staff +1](=F,[I:staff -1]D)[I:staff +1](E, | %21
+[I:staff -1] D) (CA)[I:staff +1](A,[I:staff -1] ^F)[I:staff +1](G,[I:staff -1]E)[I:staff +1](F, | %22
+[I:staff -1] E) (^Dc)(F A) (E[Af]) (F- | [F-A-e]4 [FA^d]2) z2 | z8 | %25
+ z"_poco"[I:staff +1] (B,G,F, E,B,[I:staff -1]GE) | %26
+[I:staff +1] (F,A,[I:staff -1]FD[I:staff +1] F,B,[I:staff -1]FD) | %27
+[I:staff +1] (G,[I:staff -1]DBG G,DBG) | (B,^CB!<(!F B,CBF) | (B,^DBF ^A,E^AE) | %30
+ (=A,[^DF=A])!<)!!f! (af ^d^cA^G) ||[K:E] (GF)!>(! z (c2 A2 G- | G2!>)! F6-) | F!p!(cAG FceE-) | %34
+ E(ceE-) E(ceE-) | E(c^AG FceE-) | E(e[B^e]^E-) E(e[^Acf]F-) | ([F=A-f]2 [EAe]2 [FAd]2 [DFc]2) | %38
+ z (B,BE) z (Ee^B) | z (CcE) z (Df=c) | z (B,BE) z (Ee^B) | z (CcE) z (Df^B) | z4 z (CcE) | %43
+ z (^A,^AE) z (B,BG | E[I:staff +1]B,G,E,-) (E,C,D,B,- | B,E,!<(!G,[I:staff -1]E- EA,Dc-) | %46
+ c2!<)!!>(! ([EAe]4!>)! [FAc]2) | [GB]4 [G,B,G]4 | !fermata![G,B,E]8 |] %49
+V:3
+!f! (A,,, A,,- [A,,C,] [^A,,^C,]) | (B,,,/B,,/^D,/)!>(! (A,/!>)! C,2) | %2
+ (B,,,/B,,/^D,/)!>(! (A,/!>)! C,2) | B,,, [B,,^D,A,]2 z | z4 | z4 | z (D, B,, A,, | G,, D, B, G,) | %8
+ (F, F,, F, E,) | (^D, F,, D, ^C,) | (B,, B,,,) z2 | z (A, F, E, | ^D,) z z2 | ^D,2 D, E, | %14
+ F,2 D,2 | (B,,, F,,) (A,,, A,,) | (G,,, G,, ^C, E,) | (D, F,) (A,, ^D,) | (G,, E,) (G,, D,) | %19
+ (A,, ^C,) (A,, D,) | G,,, G,,- [G,,B,,] [^G,,B,,] | A,,, A,,- [A,,C,] [^A,,^C,] | %22
+!<(! (B,,, B,,) (C,, C,)!<)! |!f!!>(! B,,, [B,,F,A,]2!>)! z | z4 | z4 | z (D, B,, A,, | %27
+ G,, D, B, G,) | x F,,3 | x F,,3 | (B,, B,,,) z2 ||[K:E] z E3- | E4- | E (C A, G, | F,2) z2 | %35
+ z (C ^A, G, |!<(! F,4) | (D,,/D,/C,,/C,/ B,,,/B,,/A,,/!<)!B,,/) | %38
+"_poco cresc." (G,, E,) (G, ^B,) | (A,, E,) (A,!<(! =C) | (G,, E,) (G, ^B,) | %41
+ (A,, E,) (A, ^B,)!<)! | z2!p!!<(! ([A,,E,-]2!<)! |!>(! [^^F,,E,-]2!>)! [G,,E,]2) | %44
+ z2 ([B,,,B,,]2 | [G,,,G,,]2 [F,,,F,,]2) | [E,,,E,,] [E,A,]3 | [E,B,E]2!p! [E,,B,,E,]2 | %48
+ !fermata![E,,,E,,]4 |] %49
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z (A,, F,, E,, | =D,,2) =C,,2 | %15
+ x4 | x2 G,,2 | F,,2 ^D,,2 | E,,2 =D,,2 | ^C,,2 D,,2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %28
+ (F, F,, F, E,) | (^D, F,, D, ^C,) | x4 ||[K:E] x (E C B, | A,4-) | A, z z (C, | A,, G,, F,,2) | %35
+ z2 z (C, | ^A,, G,, F,, E,,) | D,, C,, B,,, A,, | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %46
+ x (C2 D) | x4 | x4 |] %49

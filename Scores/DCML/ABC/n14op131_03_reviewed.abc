@@ -1,0 +1,33 @@
+X:1
+C:Ludwig van Beethoven
+%%score [ 1 | 2 | 3 | 4 ]
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:F#min
+V:1 treble nm="1st Violin"
+L:1/16
+V:2 treble nm="2nd Violin"
+V:3 alto nm="Viola"
+V:4 bass nm="Cello"
+V:1
+"^No 3.  Allegro moderato" z4 .F4 .c4 z4 | z2 (FG) .^A2.B2 c4 z4 | z16 | z4!f! .F4 .d4 z4 |$ %4
+ z2 (Bc) .d2.e2 f2 z4 z2 | z8 z2[Q:1/4=40]"^Adagio" z2 z4 |$ z4 (B4 A4 f2>e2) | %7
+ (e2^d2-)"_piu vivace" (d/c/B/c/d/c/d/e/ f/e/f/g/a/b/a/g/ f/g/f/e/d/e/d/c/ |$ %8
+ B/c/B/_B/A/G/F/E/ ^D/C/=B,/D/F/A/=B/^d/ f/a/c'/b/)"_cresc."(b2 (b2)e2-) | %9
+ (e2"_rin"c2^d2e2) (e2!>(! B6-)!>)! |$!p! B2 z2 z4 z4 z2 z2 |] %11
+V:2
+ z2!f! .F2 .F2 z2 |!p! z4 z (C/D/) .E.F | =G2 z2 z4 | z2 .B,2 .F(D/E/) .F.^A, |$ %4
+!p! B,2 z2 z!p! (F/^A/) .B.F | D2 z2 z z z2 |$ z2 (G2 C2 F2) | [B,F]2 [FA] z z4 |$ %8
+ z4 z"_cresc." (^DE)E- | E"_r"!f! F3- (F!>(!GF[FA]!>)! |$!p! G)"_cresc."(B,G,D B,)z!f![Ee] z |] %11
+V:3
+ z2!f!!f! .D2 .C2 z2 |!p! z8 | z!p! .=G,.E,.D, .C,2 z2 | z2!f!!f! .D2!p! .F,2 z2 |$ z8 | %5
+ z4!p! .D(G,/A,/) .B,.D, |$ (C,6 C2) | [F,A,]2"_piu vivace" [F,A,]2- (([F,A,]4 |$ %8
+ [F,A,]4-)) [F,A,]"_cresc."(F,B,)(B, | C)"_r"!f! (E3 E)!>(! (E ^D2!>)! |$ %10
+!p! =D)zz"_cresc."(G, D,A,!f![G,B,]) z |] %11
+V:4
+ z2"m"!f! .B,2"" .^A,2 z2 |"""" z8 |"m" z4"m" z!p! .E,.C,.F, |"m" .D,2"m"!f! .B,2"m" .B,,2"" z2 |$ %4
+"m""" z8 |"m" z!p! (B,/C/) .D.F,"m" B, z z2 |$"" z2"" (^E,,2"m" F,,2"m" A,,2) | %7
+"""" (B,,2 B,,) z"" z4 |$ z4 z"""_cresc." (A,,""G,,G, | %9
+"" A,)"""_r"!f! (^A,3 (A,)""""!>(! B,3)!>)! |$""!p! E,(E,,"m""_cresc." =F,,4""!f! E,,) z |] %11

@@ -1,0 +1,34 @@
+% Carol (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1231
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Carol (hymntune)
+C:Richard Storrs Willis (1819-1900), 1850
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:Bb
+V:1 bass nm="lower"
+V:2 bass 
+V:3 treble nm="upper"
+V:4 treble 
+V:1
+ x4 x [B,,F,] | [B,,F,]2 [B,,_G,] [B,,=G,]2 [B,,A,] | [B,,B,]2 [A,,F,] [B,,F,]2 [B,,B,] | %3
+ E,F,[G,B,] [G,B,]2 [C,B,] | [F,A,]3 [F,A,]2 [B,,F,] | [B,,F,]2 [B,,_G,] [B,,=G,]2 [B,,A,] | %6
+ [B,,B,]2 [A,,F,] [B,,F,]2 [D,B,] | [E,B,]2 [C,C] F,2 [F,A,] | [B,,B,]3 [B,,B,]2 D, | %9
+ D,2 [D,_G,] D,2 [C,A,] | [B,,G,]2 [D,_G,] =G,2 [B,,G,] | C,2 [C,C] C,2 [C,B,] | %12
+ [F,A,]3 [F,A,]2 [F,A,] | [B,,F,]2 [B,,_G,] [B,,=G,]2 [B,,A,] | [B,,B,]2 [A,,F,] [B,,F,]2 [D,B,] | %15
+ [E,B,]2 [C,C] F,2 [F,A,] | [B,,B,]3 [B,,B,]2 x |] %17
+V:2
+ x x5 | z6 | z6 | B,2 z4 | z6 | z6 | z6 | z3 CB, z | z6 | z3 _G,=G, z | z6 | A,D z B,C z | z6 | %13
+ z6 | z6 | z3 CB, z | z4 z x |] %17
+V:3
+ x4 x [DF] | [Dd]2 [DA] E2 [EG] | [DF]2 [EG] [DF]2 [DF] | E2 [EB] =E2 [Ed] | [Fc]3 [Fc]2 [DF] | %5
+ [Dd]2 [DA] [Ec][EB][EG] | [DF]2 [EG] [DF]2 F | [EG]2 [EG] E2 [EF] | [DB]3 [DB]2 [Dd] | %9
+ [Dd]2 D D[D=E][D_G] | D2 [DA] [DB]2 [Dd] | D2 [FA] =E2 [EG] | F3 F2 [_EF] | [Dd]2 [DA] E2 [EG] | %14
+ [DF]2 [EG] [DF]2 F | [EG]2 [EG] E2 [EF] | [DB]3 [DB]2 x |] %17
+V:4
+ x x5 | z3 cB z | z6 | GA z Bc z | z6 | z6 | z6 | z3 AG z | z6 | z6 | =GG z4 | cB z GA z | z6 | %13
+ z3 cB z | z6 | z3 AG z | z4 z x |] %17

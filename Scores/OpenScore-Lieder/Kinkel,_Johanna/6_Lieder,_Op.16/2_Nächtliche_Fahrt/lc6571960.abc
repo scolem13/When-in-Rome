@@ -1,0 +1,77 @@
+X:1
+T:6 Lieder, Op.16
+T:Nächtliche Fahrt
+C:Johanna Kinkel (published as J. Mathieux)
+Z:Johanna Kinkel
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+Q:1/4=52
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 bass 
+V:5 bass 
+V:1
+"^Lento" C | F2 A B B d | (c f2-) fe d | c ^G A c=G c | c3- c2 A | F2 A B B B | A3 d3 | %7
+w: 1. Wenn|ü- ber Wel- len und|Land _ _ _ sich|gie- sset der Ster- * nen-|schein, _ dann|möcht’ ich flie- hen zum|Strand mit|
+w: 2. Bis|* ich stau- nend er-|wacht _ _ _ im|fun- keln- den Mor- * gen-|licht; _ vor-||Nacht, viel|
+ c B A AG c | F3 z2 A |"^più moto" G G c e2 c | A2 z z2 A | d c =B B A G | c3 z2 G | e c d e2 A | %14
+w: Dir, o Ge- lieb- * ter|mein Wir|fän- den den Na- chen|dort, wir|stie- gen ver- trau- end hin-|ein; er|schau- kelt uns fort und|
+w: Ta- ge, ich merkt’ * es|nicht. Auf|blau- * er Mee- res-|bahn, vor-|ü- ber manch’ schim- mern- dem|Land, uns|trägt der ver- zau- *|
+ d3 z z d |"^rall." (e d) c c2 =B | A3 z z B |"^Tempo I" A2 A B B B | A3 d3 | c ^G A c=G c | %20
+w: fort hin-|un- ter den küh- len|Rhein; ver-|hallt der mensch- lich- e|Laut, und|ü- ber uns mil- * de|
+w: Kahn zum|fern- * sten Ju- wel-|strand. Da|steht ein Pur- pur- ge-|zelt, zwei|Har- fen, zwei Be- * cher|
+ c3 z z c | (f_e) _d dc B | _A3- A2 B | =A G A cG c | A3 z z G | A A A AG c | F3- F3- | %27
+w: Ruh’; an|dei- * nem Her- * zen|traut, _ da|schlöss’ ich die Au- * gen|zu, da|schlöss’ ich die Au- * gen|zu. _|
+w: Wein, ver-|schol- len die gan- * ze|Welt, _ ver-|schol- len auch wir und al-|lein, ver-|schol- len auch wir und al-|lein. _|
+ F3- !fermata!F2 :| %28
+w: _ _|
+w: _ _|
+V:2
+ x | F F x x2 x | x6 | x6 | x6 | F F x B2 B | x6 | x6 | x6 | G2 c x2 x | x6 | x6 | x6 | x3 e A A | %14
+w: ||||||||||||||
+w: |end- lich||||ü- ber man- che||||||||* ber- te|
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 c G x | x6 | x3 A G x | x6 | x5 :| %28
+w: ||||||||||||||
+w: ||||||||||||||
+V:3
+ z |!p! [Aca][Ace][Acf] [Bdg][Bdf][Bd] |!<(! [FAc][F^G=B][FAc]!<)!!>(! [FGf][FGe][FGd]!>)! | %3
+ [FAc][CF^G][CFA] [CEc][CE=G][CEc] | [CFAc][CF^G][CFA]!<(! [CFAc][Ace][Acf]!<)! | %5
+ [Aca][Ace][Acf]!>(! [Bdg][Bdf][Bd]!>)! | [Ac]!>![Acg][Acf] [FB]!>![FBe][FBd] | %7
+ [CFc][CFB][CFA] [CEA][CEG][CEc] | [CFA][A,C][A,CE] [A,CF][CF^G][CFA] | %9
+!pp!"^più moto" [CEG][CEG][^CD^FA] [CEG] e/c/G/^G/ | [FA][CFA][=B,F^G] [CFA] f/c/A/_A/ | %11
+ [=B,FG][B,FG][B,FG] [B,FG][B,FG][B,FG] | [CEG][CEG][C^D^FA]!<(! [CEG] E/G/c/!<)!!mf!d/ | %13
+ [Ee]/G/[Ec]/G/[Fd]/G/ [Ee]/G/([Gf]/e/)([EA]/G/) | %14
+ F/A/F/A/F/B/ F/A/!<(!!<(! ([=Bg]/f/)!<)!!<)! ([Fe]/d/) | %15
+!f! [Ae]/E/[Ad]/E/[Ac]/E/ [^Gc]/E/[Gc]/E/[G=B]/E/ | %16
+ [CA]/E/!>(![C^G]/E/[CA]/E/ [Ec]/!>)!C/[E=B]/C/[E_B]/C/ | %17
+!p! !arpeggio![Aca][Ace][Acf] [Bdg][Bdf][Bd] | [Ac][A=B][Ac] [F_Bf][FBe][FBd] | %19
+ [FAc][CF^G][CFA] [CEc][CE=G][CEc] | [CFc]!<(![CE][CF] [F^G]!<)![FA][FAc] | %21
+!mf! [_DFB_d][DFBd][DFBd] [DFB][DFB][DFB] | [Fc][F=B]!>(![Fc] [F_Af][FA_d]!>)![F_B] | %23
+!p! [F=A][FA][FA] [EB][EB][EB] | [FA][FA][FAd] [EGc][EG][EGd] | %25
+ [FAc][FA]"_dim."[FAd] [EAc][EGc][CEG] |!pp! [FA]/C/[FA]/C/[FA]/C/ [FA]/C/[FA]/C/[FA]/C/ | %27
+ [FA]/C/[FA]/C/[FA]/C/ !fermata![CFA]2 :| %28
+V:4
+ z | [F,C][F,C][F,C] [F,D][F,D][F,E] | [F,C][F,C][F,C] [=B,,=B,][B,,B,][B,,B,] | %3
+ [C,C][C,F,][C,F,] [C,B,][C,B,][C,B,] | [F,,F,][F,,F,][F,,F,] [F,,F,] z z | %5
+ [F,C][F,C][F,C] [F,D][F,D][F,E] | [F,F][F,F][F,F] [B,D][B,,B,][B,,B,] | %7
+ [C,A,][C,F,][C,F,] [C,B,][C,B,][C,B,] | [F,,F,][F,,F,][F,,F,] [F,,F,] z z | %9
+ [C,,C,][C,,C,]/[C,,C,]/[C,,C,]/[C,,C,]/ [C,,C,] z z | %10
+ [F,,F,][F,,F,]/[F,,F,]/[F,,F,]/[F,,F,]/ [F,,F,] z z | %11
+ [G,,G,][G,,G,]/[G,,G,]/[G,,G,]/[G,,G,]/ [D,G,][G,,G,]/[G,,G,]/[G,,G,]/[G,,G,]/ | %12
+ [C,G,]C,/C,/C,/C,/ C, z z | [C,C]/G,/[C,C]/G,/[C,=B,]/G,/ [C,C]/G,/[^C,^C]/A,/[C,C]/A,/ | %14
+ [D,D]/A,/[D,D]/A,/[D,D]/G,/ [D,D]/A,/ [D,D]/=B,/ [D,D]/B,/ | %15
+ [C,C][E,A,][E,A,] [E,D] [E,,E,][E,,E,] | [A,,E,]3 [G,,G,]3 | %17
+"^Tempo I" !arpeggio![F,,C,F,] [F,C][F,C] [F,D][F,D][F,E] | [F,F][F,C][F,C] [_B,D][B,,B,][B,,B,] | %19
+ [C,C][C,F,][C,F,] [C,B,][C,B,][C,B,] | [F,A,][F,A,][F,A,] [F,C][F,_E][F,E] | %21
+ [B,,F,B,][B,,F,B,][B,,F,B,] [_D,F,B,][D,F,B,][D,F,B,] | [C,_A,][C,A,][C,A,] [_D,A,][D,A,][D,B,] | %23
+ [C,C] C,/C,/C,/C,/ [C,C] C,/C,/C,/C,/ | [F,C] C,/C,/C,/C,/ [C,C] C,/C,/C,/C,/ | %25
+ [C,F,] C,/C,/C,/C,/ [C,C] B,B, | [F,,F,] C,/C,/C,/C,/ [F,,F,] C,/C,/C,/C,/ | %27
+ [F,,F,] C,/C,/C,/C,/ !fermata![F,,F,]2 :| %28
+V:5
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %20
+ x6 | x6 | x6 | x6 | x6 | x4 C,/C,/C,/C,/ | x6 | x5 :| %28

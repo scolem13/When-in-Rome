@@ -1,0 +1,49 @@
+X:1
+T:Suite in E Major
+T:The Harmonious Blacksmith: Variation 5
+C:Georg Friedrich Händel
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/16
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+L:1/8
+V:2 bass 
+V:4 bass 
+L:1/4
+V:1
+"^Allegro brillante."!f! (B/A/G/F/E/D/C/B,/) (B/A/G/F/E/D/C/B,/)!p! [EGB]4 | %1
+!<(! [DFB]4!<)! z/!mf!!<(! (B,/C/D/E/F/G/^A/!<)!!>(! B/A/G/F/E/D/C/B,/)!>)! (CEB).A |$ %2
+ [DFB]4!p! (B/=A/G/F/E/D/C/B,/) (B/A/G/F/E/D/C/B,/)!f! [EGB]4 | %3
+ [DFB]4 z/ (B,/C/D/E/F/G/^A/ B/A/G/F/E/D/C/B,/) (CEB).A |$ %4
+ [DFB]4 (e/d/c/B/=A/G/F/E/)"_cresc." (e/d/c/B/A/G/F/E/) (e/d/c/B/A/G/F/E/) | %5
+ (e/d/c/B/A/G/F/E/) (e/d/c/B/A/G/F/E/)!f! (ACF).B (GB,E)"_dim.".A | %6
+ F4!p! (B,/C/D/E/F/G/A/B/)"_cresc." (C/D/E/F/G/A/B/c/) (D/E/F/G/A/B/c/d/ |$ %7
+!f! .e)(d/c/B/A/G/F/ E/G/B/A/!>(!G/F/E/D/)!>)!!mf!!<(! (CEA).G!<)!!>(! (GF).E.D!>)! | %8
+ [G,B,E]4!<(! (E/!<(!F/!<)!G/A/B/c/d/e/)!<)!"_ten."!>(! (!>!c2!>)!.A2)!<(! (E/!<(!F/!<)!G/A/B/c/^d/e/)!<)! | %9
+!>(! (!>!c2!>)!.A2)!<(! (E/F/G/A/B/c/^d/e/)!<)!!f! (cE)(BE) (ADE).G |$ %10
+ .F.B,.D!mf!.F (B/A/G/F/E/D/C/B,/)"_sempre cresc." (c/B/A/G/F/E/D/C/) (d/c/B/A/G/F/E/D/) | %11
+ (e/d/c/B/A/G/F/E/)!ff!{/B} (!>!b/a/g/f/e/d/c/B/ A/G/F/E/D/C/B,/A,/) (G,E).F,.D | %12
+ !fermata![G,B,E]4 z8 z4 |] %13
+V:2
+"" [E,G,]4"" [D,F,]4"" (E,,/F,,/G,,/A,,/B,,/C,/D,/E,/) | %1
+"" (B,,/C,/D,/E,/F,/G,/A,/B,/)"" .G,2"".E,2"" .D,2"".G,2"m" .E,2"".F,2 |$ %2
+"" (B,,F,B,).=A,"" [E,G,]4"" [D,F,]4"" (E,,/F,,/G,,/A,,/B,,/C,/D,/E,/) | %3
+"""^dim." (B,,/C,/D,/E,/F,/G,/A,/B,/)""!p! .G,2"".E,2"" .D,2"".G,2"m" .E,2"".F,2 |$ %4
+"" (B,,F,B,).=A,"" [G,B,]4"""^sosten." [A,C]4"" [G,B,]4 | %5
+"" [A,C]4"" [G,B,]4"m" F,2""D,2"" E,2E,,2 | %6
+"" (B,,D,F,).A,,"""_ten." z2 .E,2"m""_ten." z2 .F,2"m""_ten." z2 .G,2 |$ %7
+"m" z2 .E,2"" z2 .E,2"" z2 .C,2"""""^ten." B,,4 | %8
+""!<(! (E,,F,,/G,,/A,,/B,,/C,/)D,/!<)!"""^ten." E,4""!<(! (A,,/B,,/C,/=D,/E,/F,/G,/A,/)!<)!""!>(! (!>!G,2!>)!"".E,2) | %9
+""!<(! (A,,/B,,/C,/=D,/E,/F,/G,/A,/)!<)!""!>(! (!>!G,2!>)!"".E,2)"" !tenuto!A,2""!tenuto!G,2"m"!tenuto!F,2""!tenuto!E,2 |$ %10
+""!<(! (B,,^D,!<)!!>(!F,).A,,!>)!"""_ten." z2 .E,2"m""_ten." z2 .F,2"m""_ten." z2 .G,2 | %11
+"m""_ten." z2 .E,2"" z2 !>!E,2"m" z2 !>!F,2"" !>!B,,2""!>!B,,,2 |"" !fermata![E,,,E,,]4 z8 z4 |] %13
+V:3
+ x6 | x8 |$ x8 | x8 |$ x8 | x4 A3/2 B/ G3/2 A/ | (D>C) x6 |$ x8 | x4 E2 x2 | E2 x2 cB A>G |$ x8 | %11
+ x6 (G,F,) | x8 |] %13
+V:4
+ x3 | x4 |$ x4 | x4 |$ x4 | x4 | x G,, A,, B,, |$ C, G,, A,, z/ .B,,,/ | x z/ .G,,/ x2 | x4 |$ %10
+ x G,, A,, B,, | C, !>!G,, !>!A,, x | x4 |] %13

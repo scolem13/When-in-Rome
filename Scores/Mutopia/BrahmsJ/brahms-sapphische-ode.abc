@@ -1,0 +1,63 @@
+% Sapphische Ode: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=580
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sapphische Ode
+C:Johannes Brahms (1833 – 1897)
+%%score ( 1 2 ) 3 ( 4 5 )
+L:1/4
+Q:1/4=60
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="melStaff:mel"
+V:2 treble 
+V:3 treble nm="rightHand"
+L:1/16
+V:4 bass nm="leftHand:lhA"
+V:5 bass 
+V:1
+ z4 | A F C A | c F/G/ A F | C G F3/2 z/ | B A G F | E F/C/ E F/C/ | B2 A z | z2 f _e | %8
+[M:3/2] _d c =B c/_A/ B c/A/ |[M:2/2] G2 G z |[M:3/2] A4- A G/D/ |[M:2/2] F2 E [FE]/4 z/4 E/ | %12
+ F z3 | z4 | z4 | z4 | A F C A | c F/G/ A F | C G F z | B A G F | E F/C/ _A =A/F/ | d2 c z | %22
+ z2 f _e |[M:3/2] _d c =B c/_A/ G A/F/ |[M:2/2] =D2 C z |[M:3/2] F2 _G2 A =G/D/ | %26
+[M:2/2] F2 E [FE]/4 z/4 E/ | F z3 |] %28
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[M:3/2] x6 |[M:2/2] x4 |[M:3/2] x6 |[M:2/2] z3 D/ z/ | x4 | %13
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[M:3/2] x6 |[M:2/2] x4 |[M:3/2] x6 | %26
+[M:2/2] z3 D/ z/ | x4 |] %28
+V:3
+ z2 [F,A,C]4 [F,A,C]4 [F,A,C]4 [F,A,C]2- | [F,A,C]2 [F,A,C]4 [F,A,C]4 [F,A,C]4 [F,A,C]2- | %2
+ [F,A,C]2 [F,A,C]4 [F,A,C]4 [F,A,C]4 [F,A,C]2- | [F,A,C]2 [E,B,C]4 [E,B,C]4 [A,C]4 [F,F]2- | %4
+ [F,F]2 [B,FB]4 [CEA]4 [DG]4 [CF]2 | z2 [=B,E]2 z2 [CF]2 z2 [_A,E]2 z2 [=A,F]2 | %6
+ z2 [_B,F_B]2 z2 [CGB]2 z2 [CA]2 z2 [Ac]2 | z2 f z3 [F_ef] z3 [F_df] z3 [Fce] z | %8
+[M:3/2] z2 [FB_d] z3 [F_Ac] z3 [FG=B] z3 [FAc] z3 [FGB] z3 [FAc] z | %9
+[M:2/2] z2 [=B,=DG] z3 [B,DG] z3 [CG] z3 [CG] z | %10
+[M:3/2] z2 [A,CFA]4 [A,CFA]4 [A,C_GA]4 [A,CGA]4 [A,=B,FA]4 [=G,B,F=G]2 | %11
+[M:2/2] z2 [A,CF]4 [A,CF]4 [G,_B,E]4 [G,B,E]2 | z2 [A,F]4 [FA]4 [EAc]4 [_EAc]2- | %13
+ [EAc]2 [DB]4 [Bd]4 [Adf]4 [_Adf]2- | [Adf]2 [Gdf]4 [FGd]4 [DF=B]4 [=B,FG]2- | %15
+ [B,FG]2 [CE_B]4 [_B,EG]4 [G,B,E]4 [E,B,C]2 | z2 [F,A,C]4 [F,A,C]4 [F,A,C]4 [F,A,C]2- | %17
+ [F,A,C]2 [F,A,C]4 [F,A,C]4 [F,A,C]4 [F,A,C]2- | [F,A,C]2 [E,B,C]4 [E,B,C]4 [A,C]4 [F,F]2- | %19
+ [F,F]2 [B,FB]4 [CEA]4 [DG]4 [CF]2 | z2 [=B,E] z3 [CF] z3 [B,E_A] z3 [CF=A] z | %21
+ z2 [D_Bd] z3 [FBd] z3 [FAc] z3 [Ac] z | z2 f z3 [F_ef] z3 [F_df] z3 [Fce] z | %23
+[M:3/2] z2 [FB_d] z3 [F_Ac] z3 [FG=B] z3 [FAc] z3 [=B,FG] z3 [CFA] z | %24
+[M:2/2] z2 [G,=B,=D]4 [G,B,D]4 [G,_B,C]4 [G,B,C]2 | %25
+[M:3/2] z2 [A,CF]4 [A,CF]2 z2 [A,C_G]4 [A,CG]2 z2 [=B,DFA]4 [=G,B,F=G]2 | %26
+[M:2/2] z2 [A,CF]4 [A,CF]2 z2 [G,_B,E]4 [G,B,E]2 | z2 [A,CF]4 [F,A,C]4 [E,A,C]4 [_E,A,C]2- | %28
+ [E,A,C]2 [D,F,C]4 [D,F,B,]4 [_D,F,B,]4 [D,=E,B,]2- | [D,E,B,]4 [C,F,A,]12 |] %30
+V:4
+ z2 C,2- | F,,4 C,2 | A,,,2 A,,4 C,,2- | C,2 C,,2 [F,,F,] [F,,E,] | %4
+ [F,,D,] [F,,C,] [F,,B,,] [F,,A,,] | [F,,_A,,] [F,,=A,,] [F,,=B,,] [F,,C,] | %6
+ [F,,D,] [F,,D,] [F,,F,] [F,C] | [F,F] [F,_E] [F,_D] [F,CE] | %8
+[M:3/2] [F,B,_D] [F,_A,C] [F,G,=B,] [F,A,C] [F,G,B,] [F,A,C] |[M:2/2] [F,,F,]2 [E,,E,]2 | %10
+[M:3/2] [_E,,_E,]2 [D,,D,]2 [G,,,G,,]2 |[M:2/2] C,,4 | [C,F,,]2 F,,2 | [F,B,,]2 B,,2 | G,4- | %15
+ [G,C,]2 C,2- | [C,F,,]2 F,,2 | A,,,2 A,,4 C,,2- | C,2 C,,2 [F,,F,] [F,,E,] | %19
+ [F,,D,] [F,,C,] [F,,B,,] [F,,A,,] | [F,,_A,,] [F,,=A,,] [F,,=B,,] [F,,C,] | %21
+ [F,,_B,,] [F,,D,] [F,,F,] [F,C] | [F,F] [F,_E] [F,_D] [F,CE] | %23
+[M:3/2] [F,B,_D] [F,_A,C] [F,G,=B,] [F,A,C] [F,,=B,,F,] [F,,C,F,] |[M:2/2] [F,,F,]2 [E,,E,]2 | %25
+[M:3/2] [_E,,_E,]2 [D,,D,]2 [G,,,G,,]2 |[M:2/2] C,,4 | [F,,C,]2 F,,2 | [B,,,B,,]2 [F,,,F,,]2 | %29
+ [F,,,F,,]4 |] %30
+V:5
+ x4 | z2 A,,2- x2 | x8 | x6 | x4 | x4 | x4 | x4 |[M:3/2] x6 |[M:2/2] x4 |[M:3/2] x6 | %11
+[M:2/2] z2 C,2- | z2 F,2- | z2 B,2 | =B,,2 G,,2 | z2 C,,2 | z2 A,,2- | x8 | x6 | x4 | x4 | x4 | %22
+ x4 |[M:3/2] x6 |[M:2/2] x4 |[M:3/2] x6 |[M:2/2] z2 C,2 | x4 | x4 | x4 |] %30

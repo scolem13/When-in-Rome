@@ -1,0 +1,35 @@
+% Diadem: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=188
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Diadem
+C:J. Ellor (1819-1899)
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:Bb
+V:1 bass nm="lower:tenor"
+V:2 bass 
+L:1/8
+V:3 treble nm="upper:sop"
+V:4 treble 
+V:1
+ x2 [B,B,,] | [DB,,] [B,D,] [A,F,] | B,2 [DG,] | [EE,] [DF,] [CF,] | [B,B,,]2 [B,B,,] | %5
+ [B,B,,]3/2 [B,B,,]/ [B,B,,]/[B,B,,]/ | [B,B,,]2 [B,D,] | [B,E,]2 [B,C,] | [B,F,]2 [A,F,] | %9
+ [B,B,,]2 [B,B,,] | B,2 B, | [DA,]2 [DG,] | [EE,] [DF,] [CF,] | [B,B,,]2 [DB,] | [EE,] [B,E,] z | %15
+ [B,B,,] [B,B,,] z | [A,F,] [A,F,] z | B, B, G,/F,/ | B, B, C,/B,,/ | A, A, A,/F,/ | B, B, [DB,] | %21
+ [DB,] B, [G,E,] | F,2 F, | [F,B,,]2 x |] %24
+V:2
+ x2 x4 | z6 | z3/2 C/ D2 z2 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %17
+ z3 A, z2 | E,3 D, z2 | F,3 G, z2 | z6 | z3/2 C/ z4 | z6 | z4 x2 |] %24
+V:3
+ x2 [FD] | [BF]2 [cF] | d/>e/ f [BG] | [cG] [BF] [AE] | [BD]2 [AF]/[GE]/ | %5
+ [FD]3/2 [FD]/ [FD]/[FD]/ | D2 [BF] | [GE] [eG] [eG] | [dF]2 [cE] | [BD]2 [BD]/[cE]/ | [dF]2 [dF] | %11
+ d c [BG] | [c=G] [BF] [AE] | [BD]/>[cE]/ [dF] [f_A] | [eG]3/2 [dF]/ [cE]/[eG]/ | %15
+ [dF]3/2 [cE]/ [BD]/[dF]/ | [cE]3/2 [BD]/ [AC]/[cE]/ | [BD] [BD] z | [eG] [eG] z | [cF] [cF] z | %20
+ [dF] [dF] [fF] | B/>c/ d [cE] | [BD]2 [AC] | [BD]2 x |] %24
+V:4
+ x x2 | z3 | F2 z | z3 | z3 | z3 | z F z | z3 | z3 | z3 | z3 | _G2 z | z3 | z3 | z3 | z3 | z3 | %17
+ z3 | z3 | z3 | z3 | F2 z | z3 | z2 x |] %24

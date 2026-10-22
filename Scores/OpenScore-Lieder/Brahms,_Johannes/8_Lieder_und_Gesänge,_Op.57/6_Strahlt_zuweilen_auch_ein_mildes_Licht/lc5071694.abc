@@ -1,0 +1,62 @@
+X:1
+T:8 Lieder und Gesänge, Op.57
+T:Strahlt zuweilen auch ein mildes Licht
+C:Johannes Brahms
+Z:Georg Friedrich Daumer
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 6 ) }
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:E
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/16
+V:3 treble 
+L:1/16
+V:4 bass 
+L:1/16
+V:5 bass 
+V:6 bass 
+V:1
+"^Sanft bewegt" z6 | z2 z (Bd) e | c2 e B2 d | (cA) G (G2 F) | A2 A G2 e | (dc) B B2 ^A | %6
+w: |Strahlt * zu-|wei- len auch ein|mil- * des Licht _|auf mich hin aus|die- * sem An- ge-|
+ B2 z z2 z | B2 B =c2 ^c | =d3- d2 ^d | (e2 B) (=c2 e) | (f2 ^c) (^d2 B) | e2 =c A2 F | %12
+w: sicht|ach, es kön- nen|auch _ wohl|Huld- * ge- *|bär- * den *|ma- chen, dass uns|
+ (e=c) A =G2 F | E2 z z2 z | z2 z (Bd) e | ^c2 e B2 d | (cA) G G2 F | A2 B A2 e | (e=d) =c (cB) A | %19
+w: fast _ das Her- ze|bricht.|Was * die|Lie- be sucht, um|froh _ zu wer- den,|das ver- ra- ten|die- * se Bli- * cke|
+ B2 z z2 z | =c2 B ^c2 B | e2 d (f3- | f2 d) (c2 B) | B2 z z2 z | z6 | !fermata!z2 z |] %26
+w: nicht,|das ver- ra- ten|die- se Bli-|* * cke _|nicht.|||
+V:2
+!p! z3 CEA!>(! (B2d2e2)!>)! | z3 CEA (B2d2e2) | c4 e2 B4 d2 | [Ac]C[FA]C[EG]C [EG]B,[EG]B,[DF]A, | %4
+ z3 DFA z3 CEG | ([Fd]2[Ec]2[DB]2) ([DB]4 [E^A]2) | B12 | B6 =c4 ^c2 |!<(! =d6 d4 ^d2 | e6 e6 | %10
+ f6 ^d6!<)! |!>(! (e6 A6)!>)! |!>(! (e4 A2!>)! =G4 F2) |!p! E3 =CEA!>(! (B2d2e2)!>)! | %14
+ [E=c]3 =CEA!>(! (B2d2e2)!>)! | ^c4 e2 B4 d2 | [Ac]C[FA]C[EG]C [EG]B,[EG]B,[DF]B, | %17
+!<(! z3 DFA z3 =CEA!<)! | ([=ce]2[B=d]2[Ac]2) ([Ec]2[=DB]2[=CA]2) | %19
+!<(! ([B,FAB]2>B,2[EAB]B,)!<)! ([^DAB]2>B,2[EAB]B,) |!>(! [^FA=c]2>F2!>)!AB!>(! [E^G^c]2>E2!>)!GB | %21
+!<(! [FAe]2>F2Ad!<)!!>(! [Adf]2>D2F-!>)!A- | [FAd]12 | (B2d2e2) z!>(! [Ac]- [Ac]4 | %24
+ z ([B,GB]2D2E)!>)! z [A,C]- [A,C]4 |[I:staff +1] !fermata![B,,G,B,]6 |] %26
+V:3
+ x6 E6 | x6 BEdEeE | cE2EcE BE2EBD | x12 | x12 | G6 F6 | DB,DB,EB, FB,FB,=AB, | %7
+ =GB,GB,GB, A=CACG^C | F=DAD=cD BDBDA^D | ^GEBE=dE =cEcEBE | ^AFAFAF BFBFBF | =cEcEcE FEFEFE | %12
+ =cEcEFE ^DB,DB,DB, | x6 E4 E2 | x6 E4 E2 | cE2EcE BE2EBD | x12 | x12 | x6 F6 | x12 | x12 | %21
+ x10 F2 | x12 | BEdEeE z (C2E2F) | x12 | x6 |] %26
+V:4
+ C,E,A, z z2 ([E,G,]2[F,A,]2[G,B,]2) | A,,E,A, z z2!>(! ([E,G,]2[F,A,]2[G,B,]2)!>)! | %2
+ ([A,C]4 [^^F,^A,]2) ([G,B,]4 [^E,G,]2) | [F,A,]4 [^A,,E,]2 B,,6 | ^B,,D,F, z z2 C,E,G, z z2 | %5
+ (E,,G,,C,E,G,2) (F,,D,F,B,,F,,F,) | ([B,,D,]4 [C,E,]2 [D,F,]4 [F,=A,]2) | %7
+ ([E,=G,]4 [G,B,]2 [F,A,]4 [E,G,]2) | ([F,A,]4 [A,=C]2 [=G,B,]4 [=F,A,]2) | %9
+ ([E,^G,]4 [B,=D]2 [A,=C]4 [=G,B,]2) | ([F,^A,]4 [^CE]2) ([B,,=A,]4 [A,B,]2) | %11
+ ([A,,F,]6 [=C,A,]6) | ([A,,F,]4 [=C,A,]2) [B,,A,]6 | =C,E,A, z z2 ([E,^G,]2[F,A,]2[G,B,]2) | %14
+ A,,E,A, z z2 ([E,G,]2[F,A,]2[G,B,]2) | ([A,^C]4 [^^F,^A,]2) ([G,B,]4 [^E,G,]2) | %16
+ [F,A,]4 [^A,,E,]2 B,,6 | B,,D,F, z z2 =C,E,A, z z2 | (A,,E,A,=C) z2 (=D,,A,,=D,F,) z2 | %19
+ ^D,,-B,,-[D,,B,,D,]2[E,,B,,E,]2 =F,,-B,,-[F,,B,,=F,]2[E,,E,]2 | (^D,^F,A,) z z2 (E,^G,B,) z z2 | %21
+ =C,F,- [F,A,]4 B,,-F,- [F,A,]4- | [B,,F,A,]12 | ([E,G,]2[F,A,]2[G,B,]2) A,6 | %24
+ ([E,G,]2[F,A,]2[G,B,]2) z (C,2E,2F,) | !fermata![E,,,E,,]6 |] %26
+V:5
+ x3 B,,3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 B,,3 | x6 | x6 | x6 | %17
+ x6 | x6 | D,, x2 =F,, x2 | x6 | =C,3 B,,3 | x6 | x3 (A,,C,D,) | x3 A,,3 | x3 |] %26
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x3 (A,,,C,,D,,) | x3 |] %26

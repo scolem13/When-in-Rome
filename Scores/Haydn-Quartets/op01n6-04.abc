@@ -1,0 +1,53 @@
+X:1
+T:String Quartet in C major
+T:Menuetto II
+C:Haydn, Franz Joseph
+Z:Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+%%score 1 2 3 4
+L:1/4
+M:3/4
+I:linebreak $
+K:C
+V:1 bass 
+L:1/8
+V:2 bass 
+V:3 alto 
+V:4 bass 
+V:1
+ c2 e2 ^f2 | ^fg d4 | =fe af dc | c4 B2 | cg g2 ^g2 | (3abc' c'3 b/a/ | g2 c2 B2 | c4 z2 | %8
+ g2 g2 g2 | g_b b3 a/g/ | f2 e2 d2 | d4 ^c2 | A2 _B2 ^c2 | ^c2 de fg | a2 d2 ^c2 | d4 z2 | %16
+ f2 f2 f2 | fe (3c'ba g2 | gf f2 f2 | fe (3c'ba g2 | g2 f>e d>c | G2 z4 | c2 e2 ^f2 | ^fg d4 | %24
+ =fe af dc | c4 B2 | cg g2 ^g2 | (3abc' c'3 b/a/ | g2 c2 B2 | c4 z2 | G2 z4 | G2 z4 | GB c_e dc | %33
+ B4 z2 | f6- | f_a gf _ed | _e2 c2 B2 | c2 z4 | _E2 GE DC | _B,2 z4 | z6 | _E2 GE DC | _B,2 g2 g2 | %43
+ gf f_e e2 | (3c_B_A G2 F2 | _E4 z2 | _B6 | _B2 _dB _AG | G_A cA GF | ^FG _BG =FE | EF _AF _ED | %51
+ _E2 C>D E>F | G2 C>D _E>F | G2 G,2 z2 | g2 z4 | g2 z4 | g^f g_e dc | B4 z2 | f6 | f_a gf _ed | %60
+ _eg fe dc | B4 z2 | C2 _EC _B,_A, | G,2 z4 | z6 | C2 _EC _B,_A, | G,2 _e2 e2 | _ed dc c2 | %68
+ (3_AGF _E2 D2 | C4 z2 || %70
+V:2
+ C E ^F | ^F/G/ D2 | =F/E/ A/F/ D/C/ | C2 B, | C/G/ G ^G | (3A/B/c/ c3/2 B/4A/4 | G C B, | C2 z | %8
+ G G G | G/_B/ B3/2 A/4G/4 | F E D | D2 ^C | A, _B, ^C | ^C D/E/ F/G/ | A D ^C | D2 z | F F F | %17
+ F/E/ (3c/B/A/ G | G/F/ F F | F/E/ (3c/B/A/ G | G F/>E/ D/>C/ | G, z2 | C E ^F | ^F/G/ D2 | %24
+ =F/E/ A/F/ D/C/ | C2 B, | C G ^G | (3A/B/c/ c3/2 B/4A/4 | G C B, | C2 z | z _E E | z D D | %32
+ _E2 ^F | G G, z | z c c | B2 B | c _E D | C z2 | _E G/E/ D/C/ | _B, G G | G (3_A/G/F/ _E | %41
+ _E G/E/ D/C/ | _B, _B B | _B/_A/ A/G/ G | (3_A/G/F/ _E D | _E2 z | z F F | E2 E | F z D | _E z C | %50
+ D z B, | C C/>D/ _E/>F/ | G C/>D/ _E/>F/ | G G, z | z _E E | z D D | _E2 ^F | G G, z | z c c | %59
+ B2 B | c z F/_E/ | D2 z | C _E/C/ _B,/_A,/ | G, _E E | _E (3F/E/D/ C | C _E/C/ _B,/_A,/ | G, G G | %67
+ G/F/ F/_E/ E | (3F/_E/D/ C B, | C2 z || %70
+V:3
+ C z2 | B, B B | c F ^F | G D G, | E z E | F A F | E F G | C G, C, | G E D | ^C z ^c | d G _B | %11
+ A E A, | A G E | F3/2 ^C/ D/E/ | F G A | D A, D, | d B G | c z2 | d B G | c z2 | E F ^F | %21
+ G G/=F/ E/D/ | C z C | B, B G | c F ^F | G D G, | E z E | F A F | E F G | C C, z | z C C | %31
+ z B, B, | C2 _A, | G, G G, | z _A A | G2 z | C G G, | C G, C, | _E G/E/ D/C/ | _B, _B B | %40
+ _B (3c/B/_A/ G | _E G/E/ D/C/ | _B, z2 | z D _E | _A _B _B, | _E _B, _E, | z _D D | C2 E | F z D | %49
+ _E z C | D z B, | C C/>D/ _E/>F/ | G C/>D/ _E/>F/ | G G, z | z C C | z B, B, | C2 _A, | G, G G, | %58
+ z _A A | G2 G | C z F | G D G, | C _E/C/ _B,/_A,/ | G, G G | G (3_A/G/F/ _E | C _E/C/ _B,/_A,/ | %66
+ G, z2 | z B c | F G G, | C G, C, || %70
+V:4
+ C,2 C, | B,, B, G, | C F, ^F, | G, D, G,, | E, z E, | F, A, F, | E, F, G, | C, G,, C,, | %8
+ G, E, D, | ^C, z ^C | D G, _B, | A, E, A,, | A, G, E, | F,3/2 ^C,/ D,/E,/ | F, G, A, | %15
+ D, A,, D,, | D B, G, | C z2 | D B, G, | C z2 | E, F, ^F, | G, G,/=F,/ E,/D,/ | C, z C, | %23
+ B,, B, G, | C F, ^F, | G, D, G,, | E, z E, | F, A, F, | E, F, G, | C, C,, z | z3 | z3 | z3 | z3 | %34
+ z3 | z3 | z3 | z3 | _E, G,/E,/ D,/C,/ | _B,, _E,, z | z D, _E, | _E, G,/E,/ D,/C,/ | _B,, _E,, z | %43
+ z D, _E, | _A, _B, _B,, | _E, _B,, _E,, | z3 | z3 | z3 | z3 | z3 | z C,/>D,/ _E,/>F,/ | %52
+ G, C,/>D,/ _E,/>F,/ | G, G,, z | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | C, _E,/C,/ _B,,/_A,,/ | %63
+ G,, C,, z | z B,, C, | C, _E,/C,/ _B,,/_A,,/ | G,, C,, z | z B, C | F, G, G,, | C, G,, C,, || %70

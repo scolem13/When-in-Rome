@@ -1,0 +1,62 @@
+% Tyrolienne turque: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2024
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Tyrolienne turque
+C:Erik Satie (1866-1925)
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="upper"
+V:2 treble 
+V:3 bass nm="lower"
+L:1/16
+V:4 bass 
+V:1
+ z6 | z6 | z6 | z6 | z2 GB d3/2 z/ | z2 Gc e3/2 z/ | z2 fg fg | e3/2 z/ ed [cCE]3/2 z/ | %8
+ z2 GB d3/2 z/ | z2 Gc e3/2 z/ | GA G^F Ge | c3/2 z2 z/ ec | [BF][dA] g3/2 z/ [gE][fD] | %13
+ eg c'3/2 z/ e'c' | g'g e'g' ge' | d'c' e'3/2 z/ ec | [BF][dA] g3/2 z/ [gE][fD] | %17
+ eg c'3/2 z/ e'c' | gf' b'g f'b' | c'3/2 z/ ge' [c'Gce]2 | z6 | z6 | z6 | z6 | Gg Gg Aa | %25
+ Bb Bb Bb | Gg Gg Aa | Bb Bb Aa | Gg Gg ^F^f | Ee Ee ^F^f | Gg Gg Aa | ^F^f Ff Dd | Gg Gg Aa | %33
+ Bb Bb Bb | Gg Gg Aa | Bb Bb Aa | Gg Gg ^F^f | Ee Ee Aa | ^F^f Ff Dd | GB dg b'd' | [gGBd]3 z3 | %41
+ z6 | z6 | z6 | z6 | z2 GB d3/2 z/ | z2 Gc e3/2 z/ | z2 fg fg | e3/2 z/ ed [cCE]3/2 z/ | %49
+ z2 GB d3/2 z/ | z2 Gc e3/2 z/ | GA G^F Ge | c3/2 z2 z/ ec | [BF][dA] g3/2 z/ [gE][fD] | %54
+ eg c'3/2 z/ e'c' | g'g e'g' ge' | d'c' e'3/2 z/ ec | [BF][dA] g3/2 z/ [gE][fD] | %58
+ eg c'3/2 z/ e'c' | gf' b'd'' f''d'' | c''2 e'g'' [c''gc'e']2 |] %61
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | z2 [B,D^G]3/2 z/ [B,DG]3/2 z/ | z2 [CEA]3/2 z/ BA | x6 | x6 | x6 | %11
+ x6 | z2 GF z2 | x6 | x6 | x6 | z2 GF z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %28
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z4 [Acd]3/2 z/ | x6 | x6 | x6 | x6 | x6 | %45
+ x6 | x6 | z2 [B,D^G]3/2 z/ [B,DG]3/2 z/ | z2 [CEA]3/2 z/ BA | x6 | x6 | x6 | x6 | z2 GF z2 | x6 | %55
+ x6 | x6 | z2 GF z2 | x6 | x6 | x6 |] %61
+V:3
+ [G,,,G,,]2 z2 G,2B,2 [F,,,F,,]2 z2 | [G,,,G,,]2 z2 G,2B,2 [F,,,F,,]2 z2 | %2
+ [G,,,G,,]2 z2 G,2B,2 [F,,,F,,]2 z2 | [G,,,G,,]2 z2 G,2B,2 [F,,,F,,]2 z2 | %4
+ [G,,,G,,]3 z [^G,FD]4 [G,F]3 z | =G,,2 z2 [CEA,]4 [CE]3 z | G,,2 z8 z2 | G,,2 z8 z2 | %8
+ G,,2 z2 [DFC]4 [DF]3 z | G,,2 z2 [CEB,]4 [CE]3 z | =G,,,2 z2 [F,A,D]3 z [G,B,E]3 z | %11
+ C,,2G,,2 E,2G,2 C2E2 | z12 | C,2 z2 [CE]7 z | E,,2 z2 [G,B,E]3 z [G,B,E]3 z | %15
+ C,,2 z2 [G,CE]3 z [G,CE]3 z | z12 | C,2 z2 [CE]7 z | ^C,2 z2 [B,=F]7 z | =C,2 z2 [G,CE]2 z6 | %20
+ [A,,,A,,] z A,2 [A,,,A,,] z A,2 [C,,C,] z C2 | [A,,,A,,] z A,2 [A,,,A,,] z A,2 [E,,E,] z E2 | %22
+ [A,,,A,,] z A,2 [A,,,A,,] z A,2 [C,,C,] z C2 | [A,,,A,,] z A,2 [A,,,A,,] z A,2 [E,,E,] z E2 | %24
+ [G,,,G,,]3 z4 z [F,G,B,D]2 z2 | [E,G,B,E]3 z8 z | [G,,,G,,]3 z4 z [^F,A,^CE]2 z2 | %27
+ [=F,A,B,^D]3 z8 z | [E,,,E,,]3 z4 z [=D,E,^G,B,]2 z2 | [A,,E,C]3 z4 z [^G,CD]2 z2 | %30
+ [_B,D]3 z4 z [F,=B,^C]2 z2 | [^F,A,^C]3 z4 z [=F,^G,B,]2 z2 | %32
+ [E,=G,=C=G,,,=G,,]3 z4 z [F,G,B,D]2 z2 | [E,G,B,E]3 z8 z | [G,,,G,,]3 z4 z [^F,A,^CE]2 z2 | %35
+ [=F,A,B,^D]3 z8 z | [E,,,E,,]3 z4 z [=D,E,^G,B,]2 z2 | [A,,E,C]3 z8 z | %38
+ D,,,2D,,2 A,,2D,2 ^F,2A,2 | [G,,,G,,]3 z8 z | z12 | [G,,,G,,]2 z2 G,2B,2 [F,,,F,,]2 z2 | %42
+ [G,,,G,,]2 z2 G,2B,2 [F,,,F,,]2 z2 | [G,,,G,,]2 z2 G,2B,2 [F,,,F,,]2 z2 | %44
+ [G,,,G,,]2 z2 G,2B,2 [F,,,F,,]2 z2 | [G,,,G,,]3 z [^G,FD]4 [G,F]3 z | =G,,2 z2 [CEA,]4 [CE]3 z | %47
+ G,,2 z8 z2 | G,,2 z8 z2 | G,,2 z2 [DFC]4 [DF]3 z | G,,2 z2 [CEB,]4 [CE]3 z | %51
+ =G,,,2 z2 [F,A,D]3 z [G,B,E]3 z | C,,2G,,2 E,2G,2 C2E2 | z12 | C,2 z2 [CE]7 z | %55
+ E,,2 z2 [G,B,E]3 z [G,B,E]3 z | C,,2 z2 [G,CE]3 z [G,CE]3 z | z12 | C,2 z2 [CE]7 z | %59
+ ^C,2 z2 [B,=F]7 z | =C,2 z2 [G,CE]2 z6 |] %61
+V:4
+ z4 [FG,C]3/2 z/ | z4 [FG,C]3/2 z/ | z4 [FG,C]3/2 z/ | z4 [FG,C]3/2 z/ | z4 CB, | z4 B,A, | x6 | %7
+ x6 | z4 _B,=B, | z4 ^G,A, | x6 | x6 | x6 | z2 ^F,2 G,3/2 z/ | x6 | x6 | x6 | z2 ^F,2 G,3/2 z/ | %18
+ z2 ^G,2 =G,3/2 z/ | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | z4 [FG,C]3/2 z/ | z4 [FG,C]3/2 z/ | z4 [FG,C]3/2 z/ | %44
+ z4 [FG,C]3/2 z/ | z4 CB, | z4 B,A, | x6 | x6 | z4 _B,=B, | z4 ^G,A, | x6 | x6 | x6 | %54
+ z2 ^F,2 G,3/2 z/ | x6 | x6 | x6 | z2 ^F,2 G,3/2 z/ | z2 ^G,2 =G,3/2 z/ | x6 |] %61

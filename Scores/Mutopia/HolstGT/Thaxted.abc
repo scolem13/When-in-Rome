@@ -1,0 +1,42 @@
+% Thaxted: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=527
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Thaxted
+C:G T Holst (1874--1934)
+%%score 1 2 ( 3 4 )
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:Bb
+V:1 bass nm="lower" snm="Pno"
+V:2 treble nm="Acoustic Guitar" snm="Ac Gtr"
+V:3 treble nm="upper:sop" snm="Vln"
+L:1/8
+V:4 treble 
+V:1
+ x2 [B,,B,,,] | [E,E,,] x [C,C,,] | [D,D,,] x [D,D,,] | [E,E,,] x [F,F,,] | [G,G,,]2 [F,F,,] | %5
+ [E,E,,] x [C,C,,] | [D,D,,] x [B,,B,,,]/[D,D,,]/ | [E,E,,]2 [E,E,,] | [B,,B,,,]2 [D,,D,,,] | %9
+ [F,,F,,,]2 [G,,G,,,] | [A,,A,,,]2 [D,,D,,,] | [F,,F,,,]2 [B,,B,,,] | [E,E,,] [D,D,,] [C,C,,] | %13
+ [G,G,,] [F,F,,] [E,E,,] | [D,D,,] [C,C,,] [B,,B,,,] | [E,E,,] [C,C,,] [B,,B,,,] | %16
+ [A,,A,,,] [G,,G,,,] [F,,F,,,] | [E,,E,,,] x [C,,C,,,] | [D,,D,,,] x [D,,D,,,] | %19
+ [E,,E,,,] x [F,,F,,,] | [G,,G,,,]2 [F,,F,,,] | [E,,E,,,] x [C,C,,] | %22
+ [D,D,,] x [B,,B,,,]/[D,D,,]/ | [E,E,,]2 [E,E,,] | [B,,B,,,]2 x |] %25
+V:2
+ x2 [_B,DF] | [^DG_B] [DGB] [CDG] | [_B,=DF] [B,DF] [B,DF] | [^DG_B] [DGB] [FAc] | %4
+ [G_B=d] [GBd] [FAc] | [^DG_B] [DGB] [CDG] | [_B,=DF] [B,DF] [B,DF] | [^DG_B] [DGB] [DGB] | %8
+ [_B,=DF] [B,DF] [D,F,B,] | [FAc] [FAc] [G_Bd] | [A,FAc] [A,FAc] [D,_B,DF] | [FAc] [FAc] [_B,DF] | %12
+ [^DG_B] [=D^DGB] [CDG] | [G_B=d] [F,_B,DF] [^DGB] | [=D,_B,=DF] [C^DG_B] [B,=DF] | %15
+ [^DG_B] [CDG] [_B,GB=d] | [A,FAc] [G_Bdf] [FAc] | [^DG_B] [DGB] [A,FAc^d] | %18
+ [=D,_B,=DF] [B,DF] [DFA] | [^DG_B] [DGB] [FAc] | [G_B=d] [GBd] [FAc] | [^DG_B] [DGB] [CFAc^d] | %22
+ [=D,_B,=DF] [B,DF] [B,DF] | [^DG_B] [DGB] [^D,CDG] | [_B,=DF] [B,DF] x |] %25
+V:3
+ x4 DF | G3 B [AA,E]2 | Bc B2 [AB,F]2 | GA G2 [FA,C]2 | [DB,]4 DF | G3 B [AA,E]2 | Bc d2 [dFB]2 | %7
+ dc B2 [cEG]2 | [BDF]4 FD | C3 C B,D | C2 F2 FD | C3 C DF | [GB,E]4 GA | [BB,]2 [AB,D]2 [GB,E]2 | %14
+ [FB,]2 [BB,E]2 [DB,]2 | CB, C2 [DG,]2 | F4 DF | G3 B [AA,E]2 | Bc B2 [AB,F]2 | GA G2 [FA,C]2 | %20
+ [DB,]4 DF | G3 B [AA,E]2 | Bc d2 [dFB]2 | dc B2 [cEG]2 | [BDF]4 x2 |] %25
+V:4
+ x2 B, | [B,E] z7/4 F/4 | [B,F] z2 | [B,E] z2 | z2 A, | [B,E] z7/4 F/4 | [B,F] z2 | [EG]2 z | %8
+ z2 B, | [A,F,]2 z | F,2 B, | A,2 B, | z2 [CE] | z3/4 B/4 z2 | z3 | G, z2 | C B, B, | %17
+ [B,E] z7/4 F/4 | [B,F] z2 | [B,E] z2 | z2 A, | [B,E] z7/4 F/4 | [B,F] z2 | [EG]2 z | z2 x |] %25

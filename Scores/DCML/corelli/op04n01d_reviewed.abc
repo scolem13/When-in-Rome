@@ -1,0 +1,49 @@
+X:1
+T:Sonata da camera
+T:Allemanda: Presto
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3 4
+L:1/4
+Q:1/4=184
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:2 treble 
+V:3 bass 
+L:1/8
+V:4 bass 
+L:1/8
+V:1
+ c2 c2 | d2 e g- | g f2 e- | e d2 c- |$ c B2 A- | A G/^F/ E c- | c B A2 | G c2 B |$ e3 d | g3 f- | %10
+ f e2 d- | d c A/B/ c- |$ c B c g- | g f2 e- | e d2 c | A/B/ c2 B | c2 z2 ::$ e2 e2 | e2 e2 | %19
+ ^d z/ b/ a g/^f/ | g ^f e/f/ g- |$ g =f e2 | d f2 e- | e d/c/ B/G/ c- | c d2 e- |$ e f2 e | %26
+ A/B/ c2 B | c d _e d | z d _e d |$ z g c f- | f e A/B/ c- | c B c3/2 e/ | A/B/ c2 B | %33
+ c2 !fermata!z2 :| %34
+V:2
+ z c2 c- | c B c z | a2 g2 | f2 e2 |$ d2 c2 | B3 A/G/ | ^F G2 F | G z d2- |$ d c f2- | f e a2 | %10
+ g2 f2 | e3/2 g/ f e |$ d2 c z | a2 g2 | f2 e3/2 g/ | f e d2 | c2 z2 ::$ z e2 e- | e e2 a- | %19
+ a g f/^d/ e- | e ^d e3/2 e/ |$ A3/2 =d/ d ^c | d z g2 | a2 d z | A2 B2 |$ c2 d z/ g/ | f e d2 | %27
+ c z2 d | _e d z d |$ _e d z d | G g f =e | d2 c3/2 G/ | F E D2 | C2 !fermata!z2 :| %34
+V:3
+ CB,A,G, A,G,F,E, | F,D,G,G,, C,D,E,C, | F,G,A,B, CC,E,C, | D,C,B,,G,, C,D,E,^F, |$ %4
+ G,A,B,G, A,G,^F,D, | G,A,B,B,, C,D,E,C, | D,DEB, CA,DD, | G,F,E,C, F,D,G,G,, |$ %8
+ C,D,E,C, D,E,F,D, | E,F,G,E, F,G,A,B, | CDEC DCB,G, | CDEE, F,G,A,E, |$ F,D,G,G,, C,D,E,C, | %13
+ F,G,A,B, CDEC | DCB,G, CDEE, | F,G,A,E, F,D,G,G,, | C,4 z4 ::$ A,CB,A, ^G,E,^F,G, | %18
+ A,B,CB, A,B,CA, | B,B,CG, A,B,CA, | B,A,B,B,, E,EED |$ ^CA,DF, G,E,A,A,, | D,DD=C B,G,CE, | %23
+ F,G,A,F, G,F,E,C, | F,E,F,D, G,F,G,E, |$ A,G,A,F, B,G,CE, | F,G,A,E, F,D,G,G,, | %27
+ C,CB,G, CC,G,G,, | C,CB,G, CC,G,G,, |$ C,CB,G, A,A,DC | B,G,CE, F,G,A,E, | F,D,G,G,, C,D,E,C, | %32
+ F,G,A,E, F,D,G,G,, | C,4 !fermata!z4 :| %34
+V:4
+"" CB,"m"A,G, A,G,""F,E, |"m" F,D,""G,G,,"" C,D,"C{"E,C, |"" F,G,""A,B,"" CC,""E,C, | %3
+"m" D,C,""B,,G,,"" C,D,""E,"m"^F, |$"" G,A,""B,G,"m" A,G,""^F,D, |"" G,A,""B,B,,"m" C,D,"m"E,C, | %6
+"" D,D"m"EB,"m" CA,""DD, |"" G,F,""E,C,"m" F,D,""G,G,, |$"" C,D,""E,C,"m" D,E,"m"F,D, | %9
+"m" E,F,"m"G,E,"" F,G,""A,B, |"" CD""EC"m" DC""B,G, |"" CD""EE,"" F,""G,"m"A,""E, |$ %12
+"m" F,D,""G,G,,"" C,D,"C{"E,C, |"" F,G,""A,B,"" CD""EC |"m" DC""B,G,"" CD""EE, | %15
+"" F,""G,"m"A,""E,"m" F,D,""G,G,, |"" C,4 z4 ::$"m" A,CB,A,"" ^G,E,^F,G, |"m" A,B,CB, A,B,CA, | %19
+"" B,B,""C"m"G,"" A,""B,""C"m"A, |"" B,A,""B,B,,"m" E,EED |$"" ^CA,"m"DF,"m" G,E,""A,A,, | %22
+"m" D,D"C{"D=C"" B,G,""CE, |"m" F,G,"m"A,F,"" G,F,""E,C, |"" F,E,"m"F,D,"" G,F,"m"G,E, |$ %25
+"m" A,G,""A,F,"" B,G,""CE, |"" F,""G,"m"A,""E,"m" F,D,""G,G,, |"m" C,C""B,G,"m" CC,""G,G,, | %28
+"m" C,C""B,G,"m" CC,""G,G,, |$"m" C,C""B,G,"m" A,A,"m"DC |"" B,G,""CE,"" F,""G,"m"A,""E, | %31
+"m" F,D,""G,G,,"" C,D,E,C, |"" F,""G,"m"A,""E,"m" F,D,""G,G,, |"" C,4 !fermata!z4 :| %34

@@ -1,0 +1,61 @@
+X:1
+T:5 Lieder aus “Der siebente Ring”
+T:Im Windesweben
+C:Anton Webern
+Z:Stefan Anton George
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/16
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Sehr fliessend" z2"^Bewegtester Ausdruck" z2 z!ppp! (=F | =A _G =F =E!<(! (3_E F!<)! =G | %2
+w: Im|Win- des- we- ben war mei- ne|
+ (3=B =F _B!>(! =A =E!>)! _E) z | z!pp!!<(! (_G!<)!!>(! _e3/2 _B/!>)! (3=F) z/ (^F3/2 | %4
+w: Fra- ge nur Träu- me- rei.|Nur Lä- chein war was|
+ =B =C!>(! (3:2:2=D2!>)! ^C) z!ppp! ^F | .=G .^F (3!tenuto!_A z!<(! (G"^rit." ^c!<)!!>(! =D!>)! | %6
+w: du ge- ge- ben. Aus|nas- ser Nacht ein Glanz ent-|
+ _E)"^accel." z z!<(! (=D =E!<)! =B | %7
+w: facht Nun drängt der|
+[M:4/4]"^Tempo I"!<(! _e2)!<)! z!p!!<(! =F!<)!!>(! (3=A _G!>)! F (3z!mp!!<(! (=G!<)! =d | %8
+w: Mai, nun muss ich gar um dein|
+!p!!<(! _a =g!<)! ^F)!f!!<(! (=a2 _a (3g!<)! F) (^G | %9
+w: Aug' und Haar al- le Ta- ge in|
+!ff!!<(! =e3!<)! _e !tenuto!_G !tenuto!=F) z2 |] %10
+w: Seh- nen le- ben.|
+V:2
+ z!ped!!ppp! (=e!<(!^c'^g)!<)! z z3 z3!ppp! [gc']-!ped-up! | %1
+!ped!!>(!!<(! [gc']!ped!!<(!=f=d'=a!<)!!>(! z!<(! (_B!>)!=d=A!<)! (7:4:7=CBA=E[I:staff +1]^A,=B,!ped-up!=F,!>)!!<)!!ped-up! | %2
+[I:staff -1] z2)!ped!!ppp!!<(! (=F2!ped!!<)! (3^F2!>(!=D2_D2!>)! (3=C2)!ped!!<(!(F2=D2!<)!!ped-up!!ppp! | %3
+!>(! (3^G2!ped!=E2!>)!_E2!<(! (3_D2!ped-up!E2)(=F2!<)!"_espress." (3=A2!ped-up!!ped!=E2_E2 | %4
+ (3_A2!ped-up!=d2_B2) z!p!!>(! (=e=c=B!>)!!pp! (6:4:6_B!ped!=E=B,[I:staff +1]=D,_A,,=C,,) | %5
+[I:staff -1] x2 z!ppp! .=e'!<(! .[=B_e_b]2!<)!.e'2!>(! (3.[=g^f'=a']2!tenuto![^fb]2!>)!!tenuto![_a=c']2- | %6
+ [ac']2!pp!!<(!([=g=b]2 [^F_B]2!<)![_A=c]2)!>(! !tenuto![_eg]2!tenuto![=F=d]2!>)! | %7
+[M:4/4]!p!!ped! (3([_G_B]2[_A=c]2[_e=g]2-) (3[eg]2!tenuto![=F=d]2 z2 _B,!ped!=C!p! (z2 z2 =c'^f') | %8
+!mf! z!>(! (!>![=E=c=e]2!ped-up!!ped![_E=B_e])!>)! z!p!!<(! ([=F,=D]2!ped-up!!ped![=C=E] [=GB][=A,^F]2[^c^c'])!<)! z!ped-up!!f! (=c'B=c | %9
+ z!<(! ^c^g!ped!!<)!d')!ff!!<(! (_E=F z2 =g/!ped-up!=a/=e'/!<)!_b'/) z2 z4 |] %10
+V:3
+ x2 (=F=d x4)[I:staff +1] ^D,=A,,[I:staff -1]x[Fd]- | %1
+ [Fd] z z2 =e=F[I:staff +1][_G,,_E,]2[I:staff -1] x4 | x12 | x12 | x12 | x12 | x12 | %7
+[M:4/4] x8 z2 =G^c _e=f z2 | x8 x4 x =c=B,=C | x4 x2 =c^f x8 |] %10
+V:4
+ z2 x2[I:staff -1] =A!>(![I:staff +1](=E,^C^G,) x x!>)! z x |!>(!!>(! x12!>)!!>)! | %2
+ [=A,^C]2 z2 x4 (5:4:5z (A,!>(!=E,^A,,=B,, | %3
+ =F,,4)!>)![K:treble] z!<(!!<(! (=e=B)!<)! z (5:4:4z!>(! (=b2_b!>)!=f)!<)! | %4
+ z[K:bass] .=E,z.^C z3/2 !tenuto!^G,3/2 z z2 x2 | %5
+ (=B,=D,) x2 z!ppp! .=D,,z!tenuto!_A,,,-"^rit." A,,,zz!tenuto!=A,,- | %6
+ A,,z"^accel."z!pp!(_A,-!>(! A,=G,2!>)!_G,,-!<(! G,,_A,,_E,!<)!=A,) | %7
+[M:4/4] z!pp! (_A,=G,_G,,-) (G,,_A,,_E,=A,) x2 x2 x2 x2 | %8
+ (3:2:5z2"^" (=B,,,!<(!_E,=B,[=F,^C])!<)! (3:2:5z2 (=E,,,=E,,_A,E,) (_A,,_B,,F,B,) x4 | %9
+ z2!f!!<(! ._B,,,.=C,, .=G,,.^C,!<)! x2 z8 |] %10
+V:5
+ x12 | x12 | (3:2:4z2 z2 (=E,=D (5:4:5=C=G,^C,=D,^G,,) x4 | x4[K:treble] x8 | x[K:bass] x11 | %5
+ z2 _A,,=C,, x4 x4 | x12 |[M:4/4] x16 | x16 | x16 |] %10

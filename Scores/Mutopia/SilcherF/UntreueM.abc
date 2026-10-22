@@ -1,0 +1,30 @@
+% Untreue: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=622
+% Licence: Creative Commons Attribution 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Untreue
+C:Friedrich Glück (1793–1840), 1814
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=72
+M:6/8
+I:linebreak $
+K:Bb
+V:1 bass nm="BassStaff:BassA" snm="V"
+V:2 bass 
+V:3 treble nm="TenorStaff:TenorA" snm="V"
+V:4 treble 
+V:1
+ x4 x F, | [F,B,,]2 [F,B,,] [F,B,,]2 [F,B,,] | F,3 F,2 [F,E,] | [F,D,]2 [D,B,,] [D,G,,]2 [=E,G,,] | %4
+ [F,F,,]4 z F, | F,2 F, F,2 [F,C,] | F,3 E,2 E, | [D,F,]2 [D,F,] F,2 F, | [F,B,,]4 z [F,B,,] | %9
+ F,2 F, F,2 [F,C,] | F,3 E,2 E, | [D,F,]2 [D,F,] [F,F,,]2 [E,F,,] | [D,B,,]4 x2 |] %13
+V:2
+ x x5 | z6 | A,,2 C, z3 | z6 | z6 | z3 E,D, z | B,,2 D, z3 | z6 | z6 | z3 E,D, z | B,,2 D, z G, z | %11
+ z6 | z4 x2 |] %13
+V:3
+ x4 x F, | [DB,]2 [DB,] [DB,][CA,][DB,] | [EC]2 [CA,] [A,F,]2 F, | [B,F,]2 [B,F,] B,A,B, | %4
+ [CA,]4 z [CA,] | [CA,]2 [CA,] [CA,][DB,][EC] | F3 G,2 [CG,] | [B,F,]2 [B,F,] [CA,][B,G,][CA,] | %8
+ [DB,]4 z [DB,] | [DB,][CA,][CA,] [CA,][DB,][EC] | [FD]2 [BB,] GE[CG,] | %11
+ [B,F,]2 [B,F,] [DB,]2 [CA,] | [B,F,]4 x2 |] %13
+V:4
+ x x5 | z6 | z6 | z3 G,2 z | z6 | z6 | D2 B, z3 | z6 | z6 | z6 | z3 B,2 z | z6 | z4 x2 |] %13

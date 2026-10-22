@@ -1,0 +1,48 @@
+% O Mistress Mine: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2179
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:O Mistress Mine
+C:The Melody from Morley's Consort Lessons, 1599
+%%score 1 ( 2 3 ) 4
+L:1/4
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="vocalist:vocalist" snm="Fl"
+V:2 treble nm="PianoUp" snm="Pno"
+V:3 treble 
+V:4 bass nm="PianoDown" snm="Pno"
+V:1
+ z3 |[K:G][M:3/4] z3 | z3 | z3 | z3 | G B B | A2 G- | G B ^c | d d2 | G B B | A2 G- | G B ^c | %12
+ d d2 | d e e | e2 B- | B d d | d d2 | d e d | g2 B- | B A G | c2 B- | B A G | E3/2 E/ G/G/ | %23
+ B2 A | G3 | d e d | g2 B- | B A G | c c B- | B A G | E2 G | B2 A | G3 | z3 | z3 | z3 | z3 | G B2 | %38
+ A2 G- | G B ^c | d d2 | G B2 | A2 G- | G B ^c | d d2 | d e e | e2 B- | B d d | d d2 | d e d | %50
+ g2 B- | B A G | c2 B- | B A G | E3/2 E/ G/G/ | B2 A | G3 | d e d | g2 B- | B A G | c c B- | %61
+ B A G | E2 G | B2 A | G3 |] %65
+V:2
+ [B,DG] [DGB] [DGB] |[M:3/4] [DFA]2 [B,EG]- | [B,EG] B3/2 A/ | [GB,]3 | [B,DG] [DGB] [DB] | %5
+ [DA]2 B, | [GE] B ^c | [Fd] [Fd]2 | [B,DG] [DGB] [DB] | [DA]2 B, | [GE] B ^c | [Fd] [Fd]2 | %12
+ [=Fd] [Ge] [Ge] | [Ge]2 [GB]- | [GB] [Gd] [Gd] | [Fd] [Fd]2 | [=Fd] [Ge] [Gd] | [Gg]2 [DB]- | %18
+ [DB] [FA] [DG] | c2 [DB]- | [DB] [CA] [DG] | E3/2 E/ [DG] | B2 [FA] | [B,G]3 | [=Fd] [Ge] [Gd] | %25
+ [Gg]2 [DB]- | [DB] [FA] [DG] | c2 [DB]- | [DB] [CA] [DG] | E2 [DG] | B2 [FA] | [B,G]3 | %32
+ [B,DG] [DGB] [DGB] | [DFA]2 [B,EG]- | [B,EG] B3/2 A/ | [GB,]3 | [B,DG] [DGB] [DB] | [DA]2 B, | %38
+ [GE] B ^c | [Fd] [Fd]2 | [B,DG] [DGB] [DB] | [DA]2 B, | [GE] B ^c | [Fd] [Fd]2 | [=Fd] [Ge] [Ge] | %45
+ [Ge]2 [GB]- | [GB] [Gd] [Gd] | [Fd] [Fd]2 | [=Fd] [Ge] [Gd] | [Gg]2 [DB]- | [DB] [FA] [DG] | %51
+ c2 [DB]- | [DB] [CA] [DG] | E3/2 E/ [DG] | B2 [FA] | [B,G]3 | [=Fd] [Ge] [Gd] | [Gg]2 [DB]- | %58
+ [DB] [FA] [DG] | c2 [DB]- | [DB] [CA] [DG] | E2 [DG] | B2 [FA] | [B,G]3 |] %64
+V:3
+ x3 |[M:3/4] x3 | z [DF]2 | x3 | x3 | z2 G- | z G2 | x3 | x3 | z2 G- | z G2 | x3 | x3 | x3 | x3 | %15
+ x3 | x3 | x3 | x3 | G E z | x3 | x3 | D2- D/ C/ | x3 | x3 | x3 | x3 | G E z | x3 | x3 | %30
+ D2- D/ C/ | x3 | x3 | x3 | z [DF]2 | x3 | x3 | z2 G- | z G2 | x3 | x3 | z2 G- | z G2 | x3 | x3 | %45
+ x3 | x3 | x3 | x3 | x3 | x3 | G E z | x3 | x3 | D2- D/ C/ | x3 | x3 | x3 | x3 | G E z | x3 | x3 | %62
+ D2- D/ C/ | x3 |] %64
+V:4
+ [G,,G,]2 G, |[M:3/4] D,2 E,- | E, B,, D, | G,,3 | G,,2 G, | [D,F,]2 E,- | E, E,2 | D,3 | G,,2 G, | %9
+ [D,F,]2 E,- | E, E,2 | D,3 | D C C | C,2 E,- | E, B,,3/2 C,/ | D,3 | D C B, | [G,B,]2 G,- | %18
+ G, A, B, | E,2 G,- | G, A, B, | C2 B, | D,3 | G,,3 | D C B, | [G,B,]2 G,- | G, A, B, | E,2 G,- | %28
+ G, A, B, | C2 B, | D,3 | G,,3 | [G,,G,]2 G, | D,2 E,- | E, B,, D, | G,,3 | G,,2 G, | [D,F,]2 E,- | %38
+ E, E,2 | D,3 | G,,2 G, | [D,F,]2 E,- | E, E,2 | D,3 | D C C | C,2 E,- | E, B,,3/2 C,/ | D,3 | %48
+ D C B, | [G,B,]2 G,- | G, A, B, | E,2 G,- | G, A, B, | C2 B, | D,3 | G,,3 | D C B, | [G,B,]2 G,- | %58
+ G, A, B, | E,2 G,- | G, A, B, | C2 B, | D,3 | G,,3 |] %64

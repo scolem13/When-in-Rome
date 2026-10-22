@@ -1,0 +1,57 @@
+% Lute Suite BWV 997: 1. Prelude: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=50
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Lute Suite BWV 997: 1. Prelude
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Amin
+V:1 bass nm="GuitarStaff" snm="Ac Gtr"
+V:2 bass 
+V:1
+ A,,4 C2E2 ^G2A2 =G,4 | F,4 C2E2 ^G2A2 E,4 | D,4 C2E2 ^G2A2 C,4 | D,4 DCB,A, ^G,A,B,F, E,2D2 | %4
+ CB,A,2 C,4 CEDC FEDC | DF=G,2 D,4 DFED GFED | EDEG B,A,B,G CB,CG DCDF | %7
+ EDEC EB,EA, ^G,^F,G,^F G,EG,D | CB,CE A2c2 cE^D2 DE^F=G | ACB,2 B,^C^DE ^F^G,A,2 A,=CB,A, | %10
+ =G,B,E^D EB,C_B, =B,D^FE FB,C_B, | B,EG^F GB,C_B, =B,FA2 ACB,A, | %12
+ [G,E,]2[EC,]2 [GA,,]2[^FB,,]2 EA,^G,2 G,B,C=D | C=F,E,2 E,=G,A,B, A,E,^D,2 D,cBA | %14
+ [GE,,]2[BG,,]2 [GA,,]2[EB,,]2 [EC,]2[_B,E,]2 [B,G,]2[=B,^C,]2 | %15
+ [=B,^D,]2[^D^F,]2 [^FD,]2[A,B,,]2 [G,E,]2[E=C,]2 [F,A,,]2[DB,,]2 | E,,4 G,2B,2 ^D2E2 =D,4 | %17
+ C,4 G,2B,2 ^D2E2 B,,4 | A,,4 G,2B,2 ^D2E2 G,,4 | A,,4 A,G,^F,E, ^D,E,F,C, B,,2A,2 | %20
+ G,^F,E,2 G,,4 G,A,B,G, CB,A,G, | A,CB,A, ^G,A,B,C =D=FED EDCB, | CB,A,2 C,4 CEDC FEDC | %23
+ DFED ^CDEF =G_BAG AGFE | FEFA ^CB,CA DCDA EDEG | FEDE FDF=C [_B,G,,]2[B,F,]2 [B,E,]2[B,D,]2 | %26
+ EDCD ECE_B, [A,F,,]2[A,E,]2 [A,D,]2[A,C,]2 | %27
+ [D_B,,]2[_B,A,,]2 [DG,,]2[DF,,]2 [G,E,,]2[G,D,]2 [G,^C,]2[G,E,]2 | %28
+ ^C=B,A,2 A,,4 ^C,_B,A,G, EG,F,E, | F,A,G,F, DF,E,D, ^C,_B,A,G, EG,F,E, | %30
+ F,A,G,F, DF,E,D, ^D,F,D,=D, ^D,^G,[=G,A,,]2 | %31
+ G,^G,=G,^F, G,^D[=DE,]2 [D=F,]2[A,D,]2 [GA,]2[EA,,]2 | D2FD A,2[_B,D,]^C, D,4 A2[_BD,]2 | %33
+ =C,4 ^G,2[A,C,]=B,, C,4 ^G2[AC,]2 | B,,4 =DCB,A, ^G,A,B,F, E,DCB, | %35
+ CB,CE ^G,^F,G,E A,G,A,E B,A,B,D | CB,A,B, CA,C=G, [=F,D,]2[F,C,]2 [F,B,,]2[F,A,,]2 | %37
+ B,A,G,A, B,G,B,F, [E,C,]2[E,B,,]2 [E,A,,]2[E,G,,]2 | %38
+ [A,F,,]2[F,E,,]2 [A,D,]2[A,C,]2 [^D,B,,]2[D,A,,]2 [D,^F,,]2[D,B,,]2 | ^G,FE=D BFED G,FED BFED | %40
+ ^C_B,A,=G, EB,A,G, ^C,B,A,G, EB,A,G, | ^F,^D=D=C A^D=DC F,^D=DC A^D=DC | %42
+ B,^G,=G,=F, D^G,=G,F, B,,^G,=G,F, D^G,=G,F, | E,^C=C_B, G^C=CB, E,^C=CB, G^C=CB, | %44
+ A,G,A,^C D2F2 FA,^G,2 G,A,=B,=C | DF,E,2 E,^F,^G,A, B,^C,D,2 D,=F,E,D, | %46
+ =C,E,A,^G, A,E,F,^D, E,G,B,A, B,E,F,D, | E,A,CB, CE,F,^D, E,B,=D2 DFED | %48
+ [CA,,]2[AF,]2 [cD,]2[BE,]2 AD^C2 CEF=G | F_B,A,2 A,=CDE DA,^G,2 G,FED | %50
+ CDCB, CF[EB,,]2 EFE^D E_B[A=D,]2 | [AC,]2[EA,,]2 [=dE,]2[=BE,]2 ABcA cBA=G | %52
+ ^FGAF AGFE [B,^DAB,,]4 z4 | [B,E^G=D,]4 z E^FG ABcd ed=fe | %54
+ dcBA ^GFED [CA,]2[AF,]2 [B,D,]2[GE,]2 | [CEAA,,A,]4 z12 |] %56
+V:2
+ z2 A,B, z8 z2 A2 | z2 A,B, z8 z2 A2 | z2 A,B, z8 z2 A2 | z =GFE z4 E,,4 z4 | %4
+ A,,4 z ^G,A,B, F,4 A,,4 | B,,4 z A,B,C G,4 B,,4 | C,4 F,4 E,4 G,4 | C,4 C,4 B,,4 E,,4 | %8
+ A,,4 G,4 ^F,4 E,4 | ^D,4 ^F,4 D,4 B,,4 | E,4 =B,,4 ^D,4 B,,4 | E,4 B,,4 ^D,4 B,,4 | %12
+ z B, z ^F z4 C,4 B,,4 | A,,4 G,,4 ^F,,4 B,,4 | z A z E z ^F z ^D z G z3 ^C z _B, | z ^C z E z12 | %16
+ z2 E,^F, z8 z2 E2 | z2 E,^F, z8 z2 E2 | z2 E,^F, z8 z2 E2 | z =DCB, z4 B,,4 z4 | %20
+ E,,4 z ^D,E,^F, C,4 E,,4 | F,,4 D,4 B,,4 ^G,,4 | A,,4 z ^G,A,B, F,4 A,,4 | =B,,4 G,4 E,4 ^C,4 | %24
+ D,4 G,4 F,4 A,,4 | D,4 D,4 z A, z A z G z F | C,4 C,4 z G, z G z F z E | %27
+ z =C z C z _B, z A, z F, z F z E z D | A,,4 z E,F,G, E,,4 ^C,4 | A,,4 A,,4 E,,4 ^C,4 | %30
+ =D,4 F,,4 G,,4 z3 ^F, | _B,,4 z3 ^C z4 z F z D | D,4 z6 EF z4 | z2 EC z6 ^DE z4 | %34
+ z =GFE z4 E,,4 z4 | A,,4 D,4 C,4 E,4 | A,,4 A,,4 z E, z E z D z C | G,,4 G,,4 z D, z D z C z B, | %38
+ z G, z G, z =F, z E, z ^C, z =C z B, z A, | E,,4 E,,4 E,,4 z4 | A,,4 A,,4 A,,4 z4 | %41
+ D,4 D,4 D,4 z4 | G,,4 G,,4 G,,4 z4 | C,4 C,4 C,4 z4 | F,,4 F,4 B,,4 D,4 | ^G,,4 B,,4 E,,4 G,,4 | %46
+ A,,4 E,,4 ^G,,4 E,,4 | A,,4 E,,4 ^G,,4 E,,4 | z E z B z4 F,4 E,4 | D,4 C,4 =B,,4 E,,4 | %50
+ A,,4 z3 ^D C,4 z3 ^G | z4 z c z A [^F,^D]4 z4 | [A,C]4 z12 | z8 C,4 z4 | [^G,B,E]4 z12 | x16 |] %56

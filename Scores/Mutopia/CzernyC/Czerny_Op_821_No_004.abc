@@ -1,0 +1,24 @@
+% 160 Eight-Measure Exercises, No. 4: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2063
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:160 Eight-Measure Exercises, No. 4
+C:Czerny, C.
+%%score ( 1 2 ) 3
+L:1/16
+Q:1/4=110
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Staff_pfUpper" snm="Pno"
+V:2 treble 
+V:3 treble nm="Staff_pfLower" snm="Pno"
+V:1
+ e z f z (3:2:1g2a (6:5:1z2 f z e z | d z e z (3:2:1f2g (6:5:1z2 e z d z | %2
+ e z d z c z c z [Bd] z [ce] z | [ce]6 [Bd] z4 z | e z f z (3:2:1g2a (6:5:1z2 f z e z | %5
+ a z b z (3:2:1c'2d' (6:5:1z2 b z a z | g2c' z [eg] z [Bg]2f z [Bd] z | c z8 z3 |] %8
+V:2
+ z6 g z4 z | z6 f z4 z | x12 | x12 | z6 g z4 z | z6 c' z4 z | x12 | x12 |] %8
+V:3
+ CGDGEG EGDGCG | B,GCGDG DGCGB,G | CGDGEG EGDGCG | G,G^FGFG FGAG=FD | CGDGEG EGDGCG | %5
+ F,CG,CA,C A,CG,CF,C | G,6 E C E C E G,6 F D F D F | CEGEGE C2 z4 |] %8

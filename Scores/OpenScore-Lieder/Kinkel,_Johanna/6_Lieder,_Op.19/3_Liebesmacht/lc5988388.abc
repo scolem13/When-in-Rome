@@ -1,0 +1,68 @@
+X:1
+T:6 Lieder, Op.19
+T:Liebesmacht
+C:Johanna Kinkel
+Z:Johanna Kinkel
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=114
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Moderato" z |: z4 | z4 | z4 | z2 z"^Grazioso" G | e B c d | !>!c2 B B |{/B} A G{/B} A G | %8
+w: ||||1. Das|Bäch- lein magst du|däm- men wenn|ü- ber- schwillt die|
+w: ||||2. Dem|fer- nen Tal ver-|traust du kein|Saa- men- stäub- chen|
+ c2 z c | e3/2 e/ e e | ^d2 B B | =d3/2 B/ ^G E | !>!B2 A A | c3/2 A/{/A} G/^F/ G/^G/ | A2 z A | %15
+w: Flut; ge-|biet- end magst du|hem- men, ge-|bie- tend  magst du|hem- men der|Flam- men ro- * te *|Glut, der|
+w: an; und|doch im Len- ze|schaust du, und|doch im Len- ze|schaust du voll|Blu- men reich * den *|Plan, voll|
+"^♯"!<(! (G2!<)! !turn!=f) B |"^molto" (c2 (3c/)(G/A/"^rallent"{_B/A/G/A/} (3B/D/) E/ | %17
+w: Flam- * men|ro- * * * * * te|
+w: Blu- * men|reich _ _ _ _ _ den|
+"^a Tempo" F2 z2 | z4 | z2 z F | A3/2 F/ E/F/ G/A/ | G2 F ^F | G3/2 G/ A/_B/ c/d/ | c2 _B B | %24
+w: Glut.||Den|Fal- ken magst * du *|zäh- men, des|Ad- lers Schwin- * ge *|läh- men; doch|
+w: Plan.||So|keimt aus Her- * zens- *|grun- de die|hol- de Lie- * bes- *|kun- de; der|
+"^m.v." =B F A3/2 G/ | G>F E c | B F A3/2 G/ | G>F E z |!f!"^Piu lento" c _B/ _A/ G/A/ B/c/ | %29
+w: ei- gen stil- les|Den- * ken, und|Herz und Lie- be|len- * ken|ach, das ver- magst * du *|
+w: Ro- sen Fül- le|wec- * ken, und|dann mit Schnee sie|dec- * ken|nein, das ver- magst * du *|
+ _A2 z2 | !fermata!e d/ c/ (B{cB}A/) B/ | c2 z2 :| z4 | z4 | z4 | z2 z |] %36
+w: nicht,|ach! das ver- magst * du|nicht.|||||
+w: nicht,|nein! das ver- magst * du|nicht.|||||
+V:2
+ A |: .[Ee].[FB].[Gc].[DAd] | !>![D=Fc]2 .[DFB].[CFA] |{/B} .[B,FA].[B,FG]{/B}.[B,FA].[B,FG] | %4
+ .[CEc].[EG].[CE] z |!p!"^sempre stacc." [EG][FB][Gc][DA] | !>![D=Fc]2 [DFB][CFA] | %7
+ [B,FA][B,FG][B,FA][B,FG] | [CEG][EG] [CE] z |!mf! [B,EG][B,EG][B,EG][B,EG] | %10
+ [B,^D^F][B,DF][B,DF][B,DF] | [B,=D^G][B,DG][B,EG][B,EG] | [A,EA][A,EA][A,EA][A,EA] | %13
+!p! [A,FA][A,FA][_B,EG][B,EG] | [A,F][A,F][A,F][A,F] | [G,B,F][G,B,F][B,DF][B,DF] | %16
+ [A,CF][A,CF] (3((([_B,EG]/[B,EG]/)))[A,^D^F]/ !fermata![B,EG] | [A,F]2 !turn![FAf][FB] | %18
+ (c2 (3c/)G/A/!>(! (3_B/A/G/!>)! |!p! [A,F][A,F][A,F][A,F] | [A,F][A,F][_B,E][A,E] | %21
+!<(! [A,E][A,E][A,D][A,C]!<)! |"^marcato" (d>_B) (A/B/c/d/) | [_EAc][EAc][DG_B][DGB] | %24
+!pp!!ped! ([DF]/G/B/).B/ (B/G/F/D/)!ped-up! |!ped! ([CE]/G/c/).c/ (c/G/E/C/)!ped-up! | %26
+!ped! ([DF]/G/B/).B/ (B/G/F/D/)!ped-up! |!ped! ([CE]/G/c/).c/ (c/G/E/C/)!ped-up! | %28
+ (([CFc]2 [CE_B]2 | [CF_A])) z!sfz! [_E=Ac]2 | !fermata![EGc]2 [DFB]2 | %31
+ .[CEc]/!<(!(G/^F/G/ A/B/c/d/)!<)! :|!mf! .[Ee].[FB].[Gc].[DAd] | !>![D=Fc]2 .[DFB].[CFA] | %34
+{/B} [B,FA][B,FG][DFA][DFB] | [EGc][EG][CE] |] %36
+V:3
+ G, |:!mf! .[C,G,].[D,G,].[E,G,].^F, | z G,G,G, | z G,G,G, | .[C,,C,].G,,.C, z | %5
+ [C,G,][D,G,][E,G,]^F, | z G,G,G, | z G,G,G, | [C,,C,]G,, C, z | [E,,E,][^F,,^F,][G,,G,][E,,E,] | %10
+ [B,,,B,,][B,,,B,,][B,,,B,,][B,,,B,,] | [E,,E,][=F,,=F,]!>(![E,,E,][D,,D,]!>)! | %12
+ [C,,C,][C,,C,][C,,C,][C,,C,] | [C,,C,][C,,C,][C,,C,][C,,C,] | [F,,F,][F,,F,][D,,D,][D,,D,] | %15
+ [D,,F,][D,,F,][G,,,G,,][G,,,G,,] | [C,,C,][C,,C,][C,,C,] !fermata![C,,C,] | [D,F,][D,F,]D,[D,G,] | %18
+ [C,A,][C,A,][C,G,_B,] z | [F,,C,][F,,C,][F,,^C,][F,,C,] | [F,,D,][F,,D,][G,,D,][A,,^C,] | %21
+ [D,,^C,][D,,C,][D,,D,]D, | [D,G,_B,][D,G,B,][D,A,C][D,^F,A,] | [G,,^F,][G,,F,][G,,G,][G,,G,] | %24
+ [G,,G,] z z [G,,G,] |[G,,G,] z z [G,,G,] | [G,,G,] z z [G,,G,] |[C,G,] z z [C,G,] | %28
+ (([C,F,_A,]2 [C,G,]2 | [F,,F,])) z [^F,,^F,]2 | !fermata![G,,G,]2 G,2 | [C,G,]/ z/ z z2 :| %32
+ .[C,G,].[D,G,].[E,G,].^F, | z G,G,G, | z G,G,G, | [C,G,]G,,C, |] %36
+V:4
+ x |: x4 | G,,4 | G,,4 | x4 | x4 | G,,4 | G,,4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %18
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 :| x4 | G,,4 | G,,4 | x3 |] %36
+V:5
+ x |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %18
+ [CF][CF]E z | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 :| x4 | x4 | x4 | %35
+ x3 |] %36

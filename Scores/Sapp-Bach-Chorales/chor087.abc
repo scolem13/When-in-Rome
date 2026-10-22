@@ -1,0 +1,29 @@
+X:1
+T:Du, o sch&ouml;nes Weltgeb&auml;ude
+T:Du, o sch&ouml;nes Weltgeb&auml;ude
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ z c2 G | c c B B/A/ | A2 !fermata!G2 | z E2 G | F E/D/ E D | !fermata!C4 :: E2 F G | _A A G G | %8
+ F2 !fermata!E2 :| G =A B G | c c !fermata!=B2 | c e d c | c =B !fermata!c2 || %13
+V:2
+ z E2 D | ^F/G/ A A/G/ G | G ^F !fermata!D2 | z C2 C | D/=B,/ C C B, | !fermata!G,4 :: C2 D E | %7
+ F F F/D/ E | E D !fermata!B,2 :| E E F E | E E/D/ !fermata!D2 | G G _A/G/- G/F/ | %12
+ G G !fermata!G2 || %13
+V:3
+ z G2 B | c e/d/ d e | d3/2 c/ !fermata!=B2 | z c2 G | _A =A G G/=F/ | !fermata!E4 :: G2 B2 | %7
+ c B B c | c B/_A/ !fermata!G2 :| B c B B | c/B/ =A !fermata!G2 | G c c/=B/ c/d/ | %12
+ e d !fermata!=e2 || %13
+V:4
+ z C,2 B,, | A,, ^F, G, C, | D,2 !fermata!G,,2 | z _A,,2 E, | F, ^F, G, G,, | !fermata!C,4 :: %6
+ C, B,, _A,, G,, | F,, D, E, C, | _A,, B,, !fermata!E,,2 :| E, C, D, E, | %10
+ _A,,/G,,/ ^F,, !fermata!G,,2 | E,/D,/ C, =F,/G,/ _A, | G, G,, !fermata!C,2 || %13

@@ -1,0 +1,32 @@
+% Nearer My God to Thee: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1034
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Nearer My God to Thee
+C:Lowell Mason (1792-1872)
+%%score 1 2 3 4
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ B4 A3 G | G3 E E4 | D4 G2 B2 | A6 z2 | B4 A3 G | G3 E E4 | D2 G2 F2 A2 | G6 z2 | d4 e3 d | %9
+ d2 B2 d4 | d4 e3 d | d2 B2 A4 | B4 A3 G | G3 E E4 | D2 G2 F2 A2 | G8 |] %16
+V:2
+ [B,DG]4 [CDF]3 [B,E] | [G,CE]3 [G,C] [G,C]4 | [G,B,]4 [G,D]2 [DG]2 | [DF]6 z2 | %4
+ [B,DG]4 [CDF]3 [B,E] | [G,CE]3 [G,C] [G,C]4 | [G,B,]2 [B,D]2 [A,D]2 [CD]2 | [B,D]6 z2 | %8
+ [DG]4 [EG]3 [DG] | [DG]2 [B,G]2 [DG]4 | [DGB]4 [EGc]3 [DGB] | [DA,]2 [DG]2 [DF]4 | %12
+ [B,DG]4 [CDF]3 [B,E] | [G,CE]3 [G,C] [G,C]4 | [G,B,]2 [B,D]2 [A,D]2 [CDF]2 | [B,D]8 |] %16
+V:3
+ [D,G,]4 D,3 E, | C,3 C, C,4 | G,,4 B,,2 G,,2 | D,6 z2 | [D,G,]4 D,3 E, | C,3 C, C,4 | %6
+ D,2 D,2 D,2 D,2 | [D,G,]6 z2 | B,4 C3 B, | B,2 G,2 B,4 | G,4 G,3 G, | F,2 G,2 D,C, A,,D, | %12
+ [D,G,]4 D,3 E, | C,3 C, C,4 | D,2 D,2 D,2 D,2 | [D,G,]8 |] %16
+V:4
+ G,,4 D,,3 E,, | C,,3 C,, C,,4 | G,,,4 B,,,2 G,,,2 | D,,6 z2 | G,,4 D,,3 E,, | C,,3 C,, C,,4 | %6
+ D,,2 D,,2 D,,2 D,,2 | G,,6 z2 | G,4 G,3 G, | G,2 G,2 G,4 | G,,4 C,3 G,, | F,,2 G,,2 D,C, A,,D, | %12
+ G,,4 D,,3 E,, | C,,3 C,, C,,4 | D,,2 D,,2 D,,2 D,,2 | G,,8 |] %16

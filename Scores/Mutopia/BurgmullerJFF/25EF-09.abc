@@ -1,0 +1,43 @@
+% La Chasse: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=220
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:La Chasse
+C:Johann Friedrich Franz Burgmüller (1806-1874)
+%%score 1 2
+L:1/8
+Q:1/4=200
+M:6/8
+I:linebreak $
+K:C
+V:1 bass nm="down" snm="Pno"
+V:2 treble nm="up" snm="Pno"
+L:1/16
+V:1
+ x4 x [C,E,G,]/ | [C,E,G,]x[C,E,G,]/ x/ [C,E,G,]x[C,E,G,]/ x/ | %2
+ [C,E,G,]x[E,G,C]/ x/ [E,G,C]x[G,CE]/ x/ | [G,CE]x[E,G,C]/ x/ [E,G,C]x[G,B,D]/ x/ | %4
+ [G,B,D]4- [G,B,D]- [G,B,D] | [E,C]3 [G,D]2- [G,D] | [DF]3 [CE]2- [CE] | [E,C]3 [CE]2- [CE] | %8
+ [G,D]4- [G,D]- [G,D] | [E,C]3 [G,D]2- [G,D] | [DF]3 [CE]2- [CE] | [E,C]3 [G,D]2- [G,D] | %12
+ [E,C]3 C,2 x | x ^FG x FG | x ^FG x FG | x ^FG x FG | x G,B, DB,G, | x ^F,G, x F,G, | %18
+ x ^F,G, x F,G, | x ^F,G, x F,G, | x ^F,G,G,,/ x2 x/ | [E,C]3 [G,D]2- [G,D] | [DF]3 [CE]2- [CE] | %23
+ [E,C]3 [CE]2- [CE] | [G,D]4- [G,D]- [G,D] | [E,C]3 [G,D]2- [G,D] | [DF]3 [CE]2- [CE] | %27
+ [E,C]3 [G,D]2- [G,D] | [E,C]3 C,2 x | A,CE A,CE | A,DF A,DF | A,DF A,DF | A,CE A,CE | A,^CG A,CG | %34
+ [DF]2 x4 | [E,A,C]2 x [E,^G,D]2 x | [A,C]2 x A,,2 x | [E,C]3 [G,D]2- [G,D] | [DF]3 [CE]2- [CE] | %39
+ [E,C]3 [CE]2- [CE] | [G,D]4- [G,D]- [G,D] | [E,C]3 [G,D]2- [G,D] | [DF]3 [CE]2- [CE] | %43
+ [E,C]3 [G,D]2- [G,D] | [E,C]4 x [C,E,G,]/ x/ | [C,E,G,]x[C,E,G,]/ x/ [C,E,G,]x[C,E,G,]/ x/ | %46
+ [C,E,G,]x[E,G,C]/ x/ [E,G,C]x[G,CE]/ x/ | [G,CE]x[E,G,C]/ x/ [E,G,C]x[G,B,D]/ x/ | %48
+ [G,B,D]4 x [C,E,G,]/ x/ | [C,E,G,]x[C,E,G,]/ x/ [C,E,G,]x[C,E,G,]/ x/ | %50
+ [C,E,G,]x[E,G,C]/ x/ [E,G,C]x[G,CE]/ x/ | [G,CE]x[E,G,C]/ x/ [E,G,C]x[G,B,D]/ x/ | %52
+ [G,B,D]4- [G,B,D] [G,D] | [E,C]4- [E,C] [G,D] | [E,C]4 x [C,G,] | [C,G,]2 [C,G,] [C,G,]2 [C,G,] | %56
+ [C,G,]4- [C,G,]- [C,G,] |] %57
+V:2
+ x2 | x12 | x12 | x12 | x12 | gxGxG x gxGxG x | gxGxG x gxGxG x | gxGxG x gxGxG x | %8
+ g2fxd x BxAxG x | gxGxG x gxGxG x | gxGxG x gxGxG x | gxGxG x gxGxG x | g2e2 c2 c'4 x2 | %13
+ [Bd]6 [Bd]4- [Bd]2 | [df]6 [c^d]4- [cd]2 | [^dg]6 [cd]4- [cd]2 | [B=d]8- [Bd]2- [Bd]2 | %17
+ [Bd]6 [Bd]4- [Bd]2 | [df]6 [c^d]4- [cd]2 | [^dg]6 [cd]4- [cd]2 | [B=d]8 x4 | gxGxG x gxGxG x | %22
+ gxGxG x gxGxG x | gxGxG x gxGxG x | g2fxd x BxAxG x | gxGxG x gxGxG x | gxGxG x gxGxG x | %27
+ gxGxG x gxGxG x | g2e2 c2 c'4 x2 | e6 A4- A2 | c6 B4- B2 | A6 ^G4- G2 | B6 A4- A2 | e6 a4- a2 | %34
+ g2f2e2 d2c2B2 | A2f2e2 B2d2c2 | A2c2 e2 a4 x2 | gxGxG x gxGxG x | gxGxG x gxGxG x | %39
+ gxGxG x gxGxG x | g2fxd x BxAxG x | gxGxG x gxGxG x | gxGxG x gxGxG x | gxGxG x gxGxG x | %44
+ g2 e2c2c'2 x4 | x12 | x12 | x12 | gxGxGxg2 x4 | x12 | x12 | x12 | gxGxGxg2 x4 | gxGxGxg2 x4 | %54
+ gxGxG x g2x2[CE] x | [CE]2x2[CE] x [CE]2x2[CE] x | [CE]8- [CE]2- [CE]2 |] %57

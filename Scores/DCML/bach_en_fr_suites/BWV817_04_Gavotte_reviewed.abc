@@ -1,0 +1,30 @@
+X:1
+T:French Suite No. 6
+T:Gavotte
+C:Johann Sebastian Bach
+%%score { ( 1 2 ) | 3 }
+L:1/4
+Q:1/4=180
+M:2/2
+I:linebreak $
+K:E
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+L:1/8
+V:1
+ B c | c d d/e/ f | f e g f/g/4a/4 | g d/e/4f/4 e f/g/4a/4 |$ d c/<B/ B c | c d d/e/ f | %6
+ f e c c/d/4e/4 | d d/e/4f/4 d c/B/ | B2 ::$ d f | d c/B/ e/f/ g | g c f e | e d d/^B/ c |$ %13
+ ^B ^A/<G/ =B =d | =d g g/B/ c | A2 A c | c f f/d/ e |$ d c/<B/ g a | (a b) b2- | b/a/g/f/ e2- | %20
+ e3 d | e2 :| %22
+V:2
+ G A | A F F/G/ A | A G B2- | B3 c |$ F2 G A | A F F/G/ A | A G B2- | B2- B ^A | B2 ::$ F2- | %10
+ F2 B2 | B2 A G | G F F E |$ D2 G2 | B2 z ^E | F2 F2 | A2 A G |$ F2 B c | c =d d/B/ c | %19
+ c2 F F/4G/4A/ | G G/4A/4B/ G F/E/ | E2 :| %22
+V:3
+"" E,2"" z2 | E,,2"m" z2 E,2"m" z2 | E,,2"" z2 E,2"" D,2 |"" E,2"" F,2"" G,2"m" A,2 |$ %4
+"" B,A,G,F,"" E,2"" z2 | E,,2"m" z2 E,2"m" z2 | E,,2"" E,F,"m" G,E,"m"D,C, | %7
+"" F,D,""C,B,,"" F,2"" F,,2 |"" B,,4 ::$"" B,2"" A,2 | (A,2"" G,2)"" G,F,"" E,2 | %11
+"" A,4"m" D,C,""D,E, |"m" F,E,"m"F,G,"" A,G,"m"A,F, |$"" G,A,G,F,"m" ^E,2 z2 |"m" G,2 z2"" C,2 z2 | %15
+"m" F,G,A,B,"m" CDEC |"m" DCB,A,"m" G,F,""G,E, |$"" B,A,G,F,"" E,2"" z2 | E,,2"" z2"m" ^E,,2"" z2 | %19
+"m" F,,G,,A,,B,,"m" C,A,,"m"G,,F,, |"" B,,G,,""F,,E,,"" B,,2"" B,,2 |"" E,,4 :| %22

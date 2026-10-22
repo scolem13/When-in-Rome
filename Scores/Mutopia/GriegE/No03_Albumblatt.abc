@@ -1,0 +1,61 @@
+% Albumblatt in E minor: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2194
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Albumblatt in E minor
+C:Edvard Grieg
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=112
+M:2/4
+I:linebreak $
+K:Emin
+V:1 bass nm="lower"
+V:2 bass 
+V:3 treble nm="upper"
+V:4 treble 
+L:1/16
+V:1
+ x | E,[B,G] E,[C^DA] | E,[B,G] E,[B,G] | E,[B,^DA] E,[B,DA] | E,[B,G] E,[B,G] | E,[B,G] E,[C^DA] | %6
+ E,[B,G] E,[B,G] | E,[B,^DA] E,[B,DA] | E,[B,G] E,, z | E,[B,G] E,[C^DA] | E,[B,G] E,[B,G] | %11
+ E,[B,^DA] E,[B,DA] | E,[B,G] E,[B,G] | E,[B,G] E,[C^DA] | E,[B,G] E,[B,G] | E,[B,^DA] E,[B,DA] | %16
+ E,[B,G] E,, z | D,>^C, D,E, | F,G, A,B, | B, A,2- A, | B, A,2- A, | D,>^C, D,E, | F,G, A,B, | %23
+ B,^A, DC | C2 B,[D,=A,] | D,>^C, D,E, | F,G, A,B, | B, A,2- A, | G, F,2- F, | B,,>^A,, B,,^C, | %30
+ ^D,E, F,G, |[Q:1/4=100] G,F, F,E, |[Q:1/4=88][Q:1/4=112] E,2 ^D,B,, | E,[B,G] E,[C^DA] | %34
+ E,[B,G] E,[B,G] | E,[B,^DA] E,[B,DA] | E,[B,G] E,[B,G] | E,[B,G] E,[C^DA] | E,[B,G] E,[B,G] | %39
+ E,[B,^DA] E,[B,DA] | E,[B,G] E,, z | D,>^C, D,E, | F,G, A,B, | B, A,2- A, | B, A,2- A, | %45
+ D,>^C, D,E, | F,G, A,B, | B,^A, DC | C2 B,[D,=A,] | D,>^C, D,E, | F,G, A,B, | B, A,2- A, | %52
+ G, F,2- F, | B,,>^A,, B,,^C, | ^D,E, F,G, |[Q:1/4=100] G,F, F,E, | %56
+[Q:1/4=88][Q:1/4=112] E,2 ^D,B,, | E,[B,G] E,[C^DA] | E,[B,G] E,[B,G] | E,[B,^DA] E,[B,DA] | %60
+ E,[B,G] E,[B,G] | E,[B,G] E,[C^DA] | E,[B,G] E,[B,G] | E,[B,^DA] E,[B,DA] | E, [B,G]E,, x |] %65
+V:2
+ x | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | G,,3- G,,- | %18
+ G,,2 z2 | z2 D,-D, | z2 D,-D, | G,,3- G,,- | G,,2 z2 | z4 | z4 | G,,3- G,,- | G,,2 z2 | z2 D,-D, | %28
+ z2 B,,-B,, | E,,3- E,,- | E,,2 z2 | C,3- C, | B,,3- z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %41
+ G,,3- G,,- | G,,2 z2 | z2 D,-D, | z2 D,-D, | G,,3- G,,- | G,,2 z2 | z4 | z4 | G,,3- G,,- | %50
+ G,,2 z2 | z2 D,-D, | z2 B,,-B,, | E,,3- E,,- | E,,2 z2 | C,3- C, | B,,3- z | z4 | z4 | z4 | z4 | %61
+ z4 | z4 | z4 | z3 x |] %65
+V:3
+ x3 B | e>f g(3:2:2ff/- | (3:2:2f/4 z/ z/ b e-e | f/ z/ f B-B | e/ z/ e E(3:2:2BB/- | %5
+ (3:2:2B/4 z/ z [ff]/ a/^g/=g/[ff]/ | b/ z/ b e-e | f/ z/ f Bb | e2 e'B | e>f g(3:2:2ff/- | %10
+ (3:2:2f/4 z/ z/ b e-e | f/ z/ f B-B | e/ z/ e E(3:2:2BB/- | (3:2:2B/4 z/ z [ff]/ a/^g/=g/[ff]/ | %14
+ b/ z/ b e-e | f/ z/ f Bb | e2 e' z | z [B,G] z [B,G] | z [B,G] z [DG] | z [CF] d-[CF] | %20
+ z [CF] d-[CF] | z [B,G] z [B,G] | z [B,G] z [DG] | z [EF] z [EF] | z ^D =D[CF] | z [B,G] z [B,G] | %26
+ z [B,G] z [DG] | z [CF] d-[CF] | z [A,^D] B-[A,D] | z [G,E] z [G,E] | z [G,E] z [B,E] | %31
+[Q:1/4=100] z A,2 ^A, |[Q:1/4=88][Q:1/4=112] z [F,B,]2 B | e>f g(3:2:2ff/- | %34
+ (3:2:2f/4 z/ z/ b e-e | f/ z/ f B-B | e/ z/ e E(3:2:2BB/- | (3:2:2B/4 z/ z [ff]/ a/^g/=g/[ff]/ | %38
+ b/ z/ b e-e | f/ z/ f Bb | e2 e' z | z [B,G] z [B,G] | z [B,G] z [DG] | z [CF] d-[CF] | %44
+ z [CF] d-[CF] | z [B,G] z [B,G] | z [B,G] z [DG] | z [EF] z [EF] | z ^D =D[CF] | z [B,G] z [B,G] | %50
+ z [B,G] z [DG] | z [CF] d-[CF] | z [A,^D] B-[A,D] | z [G,E] z [G,E] | z [G,E] z [B,E] | %55
+[Q:1/4=100] z A,2 ^A, |[Q:1/4=88][Q:1/4=112] z [F,B,]2 B | e>f g(3:2:2ff/- | %58
+ (3:2:2f/4 z/ z/ b e-e | f/ z/ f B-B | e/ z/ e E(3:2:2BB/- | (3:2:2B/4 z/ z [ff]/ a/^g/=g/[ff]/ | %62
+ b/ z/ b e-e | f/ z/ f Bb | e2 e' x |] %65
+V:4
+ x2 x6 | z8 | b (24:19:2z8 e- | (3:2:2e/ z (24:19:2z8 B- | (3:2:2B/ z z7 | e3 z4 z | %6
+ (12:11:2z8 e- | (3:2:2e/ z z7 | z8 | z8 | b (24:19:2z8 e- | (3:2:2e/ z (24:19:2z8 B- | %12
+ (3:2:2B/ z z7 | e3 z4 z | (12:11:2z8 e- | (3:2:2e/ z z7 | z8 | z8 | z8 | z6 d2 | z6 d2 | z8 | z8 | %23
+ z8 | z2 F4 z2 | z8 | z8 | z6 d2 | z6 B2 | z8 | z8 | z8 | z8 | z8 | b (24:19:2z8 e- | %35
+ (3:2:2e/ z (24:19:2z8 B- | (3:2:2B/ z z7 | e3 z4 z | (12:11:2z8 e- | (3:2:2e/ z z7 | z8 | z8 | %42
+ z8 | z6 d2 | z6 d2 | z8 | z8 | z8 | z2 F4 z2 | z8 | z8 | z6 d2 | z6 B2 | z8 | z8 | z8 | z8 | z8 | %58
+ b (24:19:2z8 e- | (3:2:2e/ z (24:19:2z8 B- | (3:2:2B/ z z7 | e3 z4 z | (12:11:2z8 e- | %63
+ (3:2:2e/ z z7 | z6 x2 |] %65

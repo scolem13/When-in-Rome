@@ -1,0 +1,58 @@
+% Trois Nouvelles Etudes, No. 1 F Minor: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1895
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Trois Nouvelles Etudes, No. 1 F Minor
+C:Frédéric Chopin (1810-1849)
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:2/2
+I:linebreak $
+K:Fmin
+V:1 treble nm="right" snm="Pno"
+L:1/4
+V:2 bass nm="left" snm="Pno"
+V:3 treble 
+V:4 bass 
+V:1
+ (3z =B, C (3D _B, F | (3=E =B, C (3D _B, F | (3=E =B, C (3D C =D | (3F =E F (3A G A | F z3 | z4 | %6
+ z4 | z4 | (3z C A (3G F =B | (3c d =B (3c C _B | (3=A _A G (3F f =B | (3c e d (3c F G | %12
+ (3A =E F (3=A =B c | (3d =d f (3_e _A _B | (3c G A (3=B c e | (3=e f _g (3=g =d f | %16
+ (3=e =B c (3_d _B f | (3=e =B c (3d _B f | (3=e =B c (3d c =d | (3f =e f (3a g a | f z3 | %21
+ (3e f e (3f e f | (3d e d (3e d e | (3c d c (3d c d | (3=B _G =G (3A F c | (3=B _G =G (3A F c | %26
+ (3=B _G =G (3A G =A | (3c =B c (3e =d e | c z3 | (3B c B (3c B c | (3A B A (3B A B | %31
+ (3_G A G (3A G A | (3F f e (3d A B | (3=B _b a (3_g e g | (3A _g f (3e =B e | (3F e d (3=B A B | %36
+ (3_B, F =E (3_E =D F | (3B, =B _B (3=A _A f | (3e =d =b (3_b =a _a | (3f _d =B (3_B _D =B, | %40
+ (3_B, =D E (3F _G =A | (3B =B =A (3_B _D =B, | (3_B, =D F (3E e =A | (3B _d =B (3B E F | %44
+ (3_G =D E (3G _B =B | (3c _d =B (3c E _D | (3C =E _G (3F f =B | (3c _e d (3c =G _B | %48
+ (3=A =E F (3_G _E B | (3=A =E F (3_G _E c | (3=B _G =G (3_A F c | (3=B _G =G (3A F a | %52
+ (3g f =e (3f _e d | (3e d c (3B A _G | (3F =E =B (3d c =d | (3f =e f (3a g a | f4 | %57
+ (3e f e (3f e f | (3d e d (3e d e | (3=B d B (3d B d | (3_B c B (3c B c | (3B c B (3c B F | %62
+ (3G A G (3A G B, | D2 [=ECG,]2 | [FCA,]2 z2 | [A,F,]2 [A,F,]2 | [A,F,]4 |] %67
+V:2
+ z8 | z8 | z8 | z8 | F,,C,F,A, CA,F,C, | F,,C,F,A, CA,F,C, | F,,C,F,A, CA,F,C, | %7
+ F,,C,F,A, CA,F,C, | F,,C,F,A, CA,F,C, | =E,,C,G,B, CB,G,C, | F,,C,F,A, CA,F,C, | %11
+ =E,,C,G,B, CB,G,C, | F,,C,F,A, CA,F,C, | G,,E,B,D EDB,E, | A,,E,A,C ECA,E, | =B,,F,G,=D FDA,G, | %16
+ C,G,_B,C =ECB,G, | C,G,B,C =ECB,G, | C,G,B,C =ECB,G, | C,G,B,C =ECB,G, | F,,C,F,A, FCA,F, | %21
+ F,,C,F,A, ECA,F, | F,,D,F,A, DA,F,D, | F,,D,F,A, CA,F,D, | G,,=D,F,G, =B,G,F,D, | %25
+ G,,=D,F,G, =B,G,F,D, | G,,=D,F,G, =B,G,F,D, | G,,=D,F,G, =B,G,F,D, | C,,G,,C,E, CG,E,C, | %29
+ C,,G,,C,E, G,E,C,G,, | C,,A,,C,E, A,E,C,A,, | C,,A,,C,E, A,E,C,A,, | D,,A,,D,F, A,F,D,A,, | %33
+ D,,A,,D,F, A,F,D,A,, | D,,A,,D,F, A,F,D,A,, | D,,A,,D,F, A,F,D,A,, | =D,,A,,B,,F, A,F,B,,A,, | %37
+ =D,,B,,F,A, B,A,F,B,, | B,,,B,,F,A, B,A,F,B,, | =D,,B,,F,A, B,A,F,B,, | E,,B,,E,_G, B,G,E,B,, | %41
+ =D,,B,,F,A, B,A,F,B,, | E,,B,,E,_G, B,G,E,B,, | =D,,B,,F,A, B,A,F,B,, | E,,B,,E,_G, B,G,E,B,, | %45
+ =E,,C,=G,B, CB,G,C, | F,,C,F,A, CA,F,C, | =E,,C,G,B, CB,G,C, | F,,C,_E,=A, CA,E,C, | %49
+ F,,C,E,=A, CA,E,C, | F,,=D,G,=B, =DB,G,D, | F,,=D,F,G, =B,G,F,D, | F,,_D,F,_B, _DB,F,D, | %53
+ F,,D,F,B, DB,F,D, | F,,C,G,B, CB,G,C, | F,,C,G,B, CB,G,C, | F,,C,F,A, CA,F,C, | %57
+ F,,C,F,A, CA,F,C, | F,,D,F,A, DA,F,D, | F,,D,F,A, DA,F,D, | _G,,D,_G,B, DB,G,D, | =G,,C,=E,B, z4 | %62
+ z8 | z4 [C,C,,]4 | [F,,F,,,]4 z4 | [C,F,,]4 [C,F,,]4 | [C,F,,]8 |] %67
+V:3
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %19
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %38
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %56
+[K:Ab] z4 FC=A,F, |] %57
+V:4
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %19
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %38
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %57
+[K:Ab] z4 =EC=A,F, |] %58

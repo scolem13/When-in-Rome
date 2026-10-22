@@ -1,0 +1,53 @@
+% Duetto IV: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1598
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Duetto IV
+C:J.S. Bach
+%%score 1 2
+L:1/8
+Q:1/4=120
+M:2/2
+I:linebreak $
+K:Amin
+V:1 treble nm="RH" snm="Hpschd"
+V:2 bass nm="LH" snm="Hpschd"
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 e4 | f4 A4 | cB A4 B^c | de f4 e^d | eBe^f eBeg | %13
+ ^fBfg fBfa | gBga gBgb | ^fBfg fBfa | g^f e4 d2 | ^c2 _b2 a2 g2 | _B2 g2 f2 e2 | G2 e2 d2 ^c2 | %20
+ dGFE D2 =c2 | B2 ^g2 e2 f2 | ^G2 f2 e2 d2 | F2 d2 c2 B2 | cFED C2 _B2 | Agfe fd A2- | AGAB Gc e2 | %27
+ Fedc dB F2- | FEFG EG c2 | DcBA B^G D2- | DCDE CFED | E2 A,4 ^G,2 | A,4 A4 | c4 E4 | FE D4 E^F | %35
+ GA _B4 A^G | AEA=B AEAc | BEBc BEBd | cEcd cEce | BEBc BEBd | cB A4 ^G2 | AcBd cBcA | %42
+ E2 ^F2 G2 FE | ^F2 ^G2 A4- | A2 =G^F G2 E2- | E2 ^F^C D4 | E2 B2 e4- | e4 d4 | e3 d/e/ fedc | %49
+ Bc d3 cBA | ^GA B3 AB^F | ^GEGA BcdB | cBAB cd^dc | AB c3 BAG | ^FG A3 GFE | ^FDFG ABcA | %56
+ BAGA BcdB | c2 e2 A2 c2 | ^F2 GA B2 G2 | A2 c2 ^F2 A2 | D2 E^F G2 E2 | ^F2 A2 ^D2 F2 | %62
+ B,2 ^C^D E4- | E2 =D^C D4- | D2 E^F G4- | G2 =FE F4- | F2 GA _B4 | =B2 A^G A4- | A4 ^G4 | A4 e4 | %70
+ f4 A4 | cB A4 B^c | de f4 e^d | eBe^f eBeg | ^fBfg fBfa | gBga gBgb | ^fBfg fBfa | gBe^f ga_bg | %78
+ e=f g3 fed | ^cd e3 d=cB | ^cAcd efge | fed^c d2 =c2 | B2 ^g2 =g2 f2 | ^G2 f2 e2 d2 | %84
+ F2 d2 c2 B2 | cGcd c^FAc | B^DBc BEB=d | ^cAc^d eG=ce | =d^Fd^d =dGd=f | ece^f g_B^dg | %90
+ =fAfg f_B=df | e^Gef eAe=g | fgfe dcBA | ^GE^FG AGAB | c4 E4 | FED^C DE^F^G | AE A4 ^G2 | %97
+ A2 B2 c2 BA | B2 ^c2 d4- | d2 =cB c2 A2- | A2 ^G^F G4 | A2 e2 a4- | a4 ^g4 | a=g f3 ed^c | %104
+ d=c _B3 A^G^F | ^G2 E2 e2 =f2 | c4 B4 | A8 |] %108
+V:2
+ z4 A,4 | C4 E,4 | F,E, D,4 E,^F, | G,A, _B,4 A,^G, | A,E,A,=B, A,E,A,C | B,E,B,C B,E,B,D | %6
+ CE,CD CE,CE | B,E,B,C B,E,B,D | CB, A,4 ^G,2 | A,CB,D CB,CA, | E,2 ^F,2 G,2 F,E, | %11
+ ^F,2 ^G,2 A,4- | A,2 =G,^F, G,2 E,2- | E,2 ^D,^C, D,4 | E,2 B,2 E4- | E4 D4 | E2 E,^F, G,A,_B,G, | %17
+ E,=F, G,3 F,E,D, | ^C,D, E,3 D,=C,B,, | ^C,A,,C,D, E,F,G,E, | F,E,D,E, F,G,^G,F, | %21
+ D,E, F,3 E,D,C, | B,,C, D,3 C,B,,A,, | B,,G,,B,,C, D,E,F,D, | E,D,C,D, E,F,G,E, | %25
+ F,2 A,2 D,2 F,2 | B,,2 C,B,, E,2 C,2 | D,2 G,2 B,,2 D,2 | G,,2 A,,B,, C,2 A,,2 | %29
+ B,,2 D,2 ^G,,2 B,,2 | E,,2 ^F,,^G,, A,,2 B,,2 | C,4 E,,4 | F,,E,, D,,3 E,,^F,,^G,, | %33
+ A,,E,, A,,4 ^G,,2 | A,,2 B,,2 C,2 B,,A,, | B,,2 ^C,2 D,4- | D,2 =C,B,, C,2 A,,2- | %37
+ A,,2 ^G,,^F,, G,,4 | A,,2 E,2 A,4- | A,4 ^G,4 | A,4 E,4 | F,4 A,,4 | C,B,, A,,4 B,,^C, | %43
+ D,E, F,4 E,^D, | E,B,,E,^F, E,B,,E,G, | ^F,B,,F,G, F,B,,F,A, | G,B,,G,A, G,B,,G,B, | %47
+ ^F,B,,F,G, F,B,,F,A, | G,^F, E,4 F,2 | ^G,2 =F2 E2 D2 | F,2 D2 C2 B,2 | D,2 B,2 A,2 ^G,2 | %52
+ A,D,C,B,, A,,2 =G,2 | ^F,2 ^D2 =D2 C2 | ^D,2 C2 B,2 A,2 | C,2 A,2 G,2 ^F,2 | %56
+ G,C,B,,A,, G,,2 =F,2 | E,DCB, CA, E,2- | E,D,E,^F, D,G, B,2 | C,B,A,G, A,^F, C,2- | %60
+ C,B,,C,D, B,,D, G,2 | A,,G,^F,E, F,^D, A,,2- | A,,G,,A,,B,, G,,B,,E,G, | ^F,_B,,F,G, F,=B,,F,A, | %64
+ ^G,E,G,_B, =B,D,=G,B, | A,^C,A,_B, A,D,A,=C | =B,G,B,^C DG,_B,D | =CE,CD CF,A,C | %68
+ B,D,B,C B,E,B,D | CA,CE CA,B,^G, | A,CB,D CB,CA, | E,2 ^F,2 G,2 F,E, | ^F,2 ^G,2 A,4- | %73
+ A,2 =G,^G, =G,2 E,2- | E,2 ^D,^C, D,4 | E,2 B,2 E4- | E4 ^D4 | E4 z2 =D2 | ^C2 _B2 A2 G2 | %79
+ _B,2 G2 F2 E2 | G,2 E2 D2 ^C2 | DA,DE FG^GF | DE F3 EDC | B,C D3 CB,A, | B,G,B,C DEFD | %85
+ E2 E,2 A,4- | A,2 G,^F, G,4- | G,2 A,B, C4- | C2 _B,A, B,4- | B,2 CD ^D4 | E2 =D^C D4- | D4 ^C4 | %92
+ D2 E2 F2 D2 | E2 D2 C2 B,2 | A,E, A,4 ^G,2 | A,4 B,4 | C4 E,4 | F,E, D,4 E,^F, | G,A, _B,4 A,^G, | %99
+ A,E,A,=B, A,E,A,C | B,E,B,C B,E,B,D | CE,CD CE,CE | B,E,B,C B,E,B,D | CA,B,^C DEFG | %104
+ FED^C D2 D,2- | D,2 =C,B,, C,2 D,2 | E,2 D,2 E,2 E,,2 | A,,8 |] %108

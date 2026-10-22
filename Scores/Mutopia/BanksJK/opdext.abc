@@ -1,0 +1,49 @@
+% Opus Dexter in C major: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=811
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Opus Dexter in C major
+C:BanksJK
+%%score ( 1 2 )
+L:1/8
+Q:1/4=105
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="1"
+V:2 treble 
+V:1
+ [c'f]a c'a [c'e]a | [b^d]g bg [a=d]f | [c'f]a c'a [c'e]a | [b^d]g bg [a=d]f | ge ge ge | %5
+ ^ge ge ge | ae ae ae | ^ge ge ge | =ge ge ge | ^ge ge ge | ae ae ae | ^ge ge ge | =ge ge ge | %13
+ ge ge ge | ge ge ge | [ec]4 z2 | z6 | ec ec gc | ec ec gc | ec ec gc | ec ec gc | ec ec gc | %22
+ ec ec gc | ec ec gc | ec ec gc | Ac ac fc | ge ce ge | Ac fc dc | ec Gc ec | Ac ac fc | ge ce ge | %31
+ AB cf ed | c6 | cG cG eG | cG cG eG | cG cG eG | cG cG eG | cG cG eG | cG cG eG | cG cG eG | %40
+ cG cG eG | cG ce cG | cG EG EC | G,C EC EG | c6 | A,2 C2 D2 | E6 | F2 C2 D2 | E6 | A,2 C2 D2 | %50
+ E6 | F2 E2 D2 | C6 | aa aa aa | gg gg gg | ff ff ff | ee e[eD] [eC][eB,] | aa aa aa | e2 c2 c2 | %59
+ [cA]2 [cG]2 [dF]2 | [^gE]2 [^fE]2 [gE]2 | ae ae c'e | ae ae c'e | ae ae c'e | ae ae c'e | %65
+ ae ae c'e | ae ae c'e | ae ae be | ae ae be | ae ae c'e | ae ae c'e | ae ae c'e | ae ae c'e | %73
+ ae ae c'e | ae ae c'e | ae ae c'e | ae ae c'e | ae ce ae | ge ce ge | fd Ad fd | eB GB eB | %81
+ ae ce ae | ge ce ge | fc A F3 | e6 | C2 C/C/C CC | C2 CC CC | C2 C/C/C CC | ec e[cC] [gC][cC] | %89
+ ec e[cA,] [gA,][cA,] | ec e[cB,] [gB,][cB,] | ec ec gc | ec e[cC] [gC][cC] | %93
+ ec e[cA,] [gA,][cA,] | ec e[cB,] [gB,][cB,] | ec e[cG,] [gG,][cG,] | ec e[cA] [gA][cA] | %97
+ ec e[cF] [gF][cF] | ec e[cG] [gG][cG] | ec e[cE] [gE][cE] | ec e[cF] [gF][cF] | %101
+ ec e[cD] [gD][cD] | ec e[cE] [gE][cE] | ec e[cG] [gG][cG] | ec e[cA] [gA][cA] | %105
+ ec e[cF] [gF][cF] | ec e[cG] [gG][cG] | ec e[cE] [gE][cE] | ec e[cF] [gF][cF] | %109
+ ec e[cD] [gD][cD] | ec ec ec | ed ec ed | ec ec ec | ed ec ec | cG cG dG | eG eG eG | cG cG dG | %117
+ eG eG eG | cG cG dG | eG eG eG | eB eB eB | eB eB eB | cG cG eG | cG cG dG | cG cG eG | cG cG eG | %126
+ cG cG eG | cG cG dG | cG cG eG | cG cG eG | cG cG eG | cG cG eG | cG cG eG | cG cG eG | cG cG eG | %135
+ cG cG eG | cG cG eG | cG cG eG | cB GB cB | cG cG eG | cB GB cB | cB ^GB cB | Ac ac fc | %143
+ ge ce ge | Ac fc dc | ec G[cD] [eC][cB,] | Ac ac fc | ge ce ge | AB cf ed | e2 cB [GB,]2 | %150
+ Ac ac fc | e2 c2 c2 | [fA]2 [eG]2 [dF]2 | [G,CEc]6 |] %154
+V:2
+ x6 | x6 | x6 | x6 | c4 c2 | ^c4 c2 | d4 d2 | ^c4 c2 | =c4 c2 | ^c4 c2 | d4 d2 | ^c4 c2 | =c4 c2 | %13
+ B4 B2 | c4 c2 | x6 | x6 | C6 | A,6 | B,6 | x6 | C6 | A,6 | B,6 | x6 | x6 | x6 | x6 | x6 | x6 | %30
+ x6 | x6 | x6 | C6 | A,6 | B,6 | x6 | C6 | A,6 | B,6 | x6 | C6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %49
+ x6 | x6 | x6 | x6 | A,2 C2 D2 | E6 | F2 C2 D2 | E3 z3 | A,2 C2 D2 | EF G4 | x6 | x6 | C6 | D6 | %63
+ E6 | F6 | ^F6 | G6 | ^G6 | z4 =G,2 | A,6 | C6 | D6 | E6 | F6 | ^F6 | G6 | ^G6 | A6 | G6 | F6 | %80
+ E6 | A6 | G6 | F3 z Ac | C2 CC CC | x6 | x6 | x6 | C3 z3 | A,3 z3 | B,3 z3 | x6 | C3 z3 | A,3 z3 | %94
+ B,3 z3 | B,3 z3 | A,3 z3 | F3 z3 | G3 z3 | E3 z3 | F3 z3 | D3 z3 | E3 z3 | C3 z3 | A,3 z3 | %105
+ F3 z3 | G3 z3 | E3 z3 | F3 z3 | D3 z3 | C6 | x6 | x6 | x6 | A,4 B,2 | C6 | A,4 B,2 | C6 | %118
+ A,4 B,2 | C6 | E6 | E3 E3 | F6 | A,4 B,2 | C6 | E6 | F6 | A,4 B,2 | C6 | E6 | F6 | E6 | F6 | E6 | %134
+ F6 | E6 | C6 | x6 | x6 | x6 | x6 | x6 | A,2 C2 D2 | E6 | F2 C2 D2 | E3 z3 | A,2 C2 D2 | E6 | %148
+ F2 E2 D2 | C4 z2 | A,2 C2 D2 | EF G4 | x6 | x6 |] %154

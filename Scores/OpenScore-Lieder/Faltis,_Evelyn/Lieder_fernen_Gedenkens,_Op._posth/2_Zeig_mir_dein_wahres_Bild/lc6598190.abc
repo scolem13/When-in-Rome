@@ -1,0 +1,56 @@
+X:1
+T:Lieder fernen Gedenkens, Op. posth.
+T:Zeig mir dein wahres Bild
+C:Evelyn Faltis
+Z:Evelyn Faltis
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=72
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Klavier\nPiano"
+V:4 treble 
+V:3 bass 
+L:1/16
+V:5 bass 
+V:1
+"^Leidenschaftlich, aber gehalten" !fermata!z2!mf! (d2- | d2 c _B A B | A _B c3 A | G6- | %4
+w: Ja,|_ un- ver- rück- bar|steht dein Bild in|mir,|
+ G) (_B A G F E | F G A4- | A E F G A B | c2 A2 =B!<(! c | d6-!<)! | d/) z/ (f e d c B | %10
+w: _ was täuscht du mir ein|an- dres vor,|_ mit des- sen kal- tem|Schein du dich um-|gibst?|_ Noch lebt das Wun- der|
+ A z/ A/ A c B A | z B ^A ^G A B | ^c2) z2 d2- | d !fermata!f _e _d _c d | _c3/2 _E/ E2 z2 | %15
+w: tief in mei- ner See- le,|das du mir of- fen-|bart ... O,|_ o zei- ge, ich be-|fehl es dir:|
+ _c2 _B _A _d d | _e6- | e6 | z6 |] %19
+w: zeig mir dein wah- res|Bild!|_||
+V:2
+!mf! !fermata![Fdf]4- | [Fdf]2 [DF]4 | [CFA] z [CFA]4 | !breath![G,C_E]"^espr." EDC_B,A, | %4
+ D4 [G_Bd]2 | [F,A,D] (AGFED | [F,A,D]2) D2 [B,DF]2 | [CFc] AGF [C_E]2 | [Ad]6 | %9
+ [Dd] [Ff] [^Gf^g]2 [Geg]2 | [Aea]2 z2 [^Dc^d]2 | !tenuto![^G,D^G] z !tenuto![B,^DG]4 | %12
+ [^C^c]4 [=D-^G=d-]2 | !fermata![D_Bd]2 [_EB_e]4 | [F_c_e]"^appass." (_E_D_C[I:staff +1]_B,_A,) | %15
+[I:staff -1] !^![_E,_A,_C_E]2 z2 [_D_F_A_d]2 | [_B_e]2 x2 _E2 |[K:bass] [_B,_E]2 x2 _A,2 | %18
+[I:staff +1] !>![_B,,F,_G,_B,][I:staff -1] x x2 x2 |] %19
+V:3
+ z8 |!ped! (5:4:5(D,,F,,_B,,D,F,-)!ped-up!!ped! (6:4:6(F,D,B,,F,,B,,D,) F,4!ped-up! | %2
+!ped! [F,,,F,,]4!ped-up!!ped! (6:4:6A,F,C,A,,C,F, A,4!ped-up! | %3
+!ped! [C,,F,,C,]4!ped-up! (6:4:6_E,C,-G,,C,,G,,-E,- [G,,C,E,]4 | %4
+!ped! x4 z _B,,G,_B,!ped-up! [G,B,D]4 | %5
+!ped! (6:4:6[D,,D,] (F,D,A,,D,F,)!ped-up! (6:4:6(A,F,D,A,,D,F,-) [A,,D,F,]4 | %6
+!ped! [=B,,,=B,,]4 (6:4:6(A,F,D,!ped-up!B,,D,F,)!ped! A,4!ped-up! | %7
+!ped! (6:4:6[A,,F,] (F,C,A,,C,F,) C4!ped-up!!ped! (6:4:6[F,,,F,,] (C,_E,A,E,C,)!ped-up! | %8
+ (6:4:6[_B,,,F,,_B,,] (D,F,A,F,D,)!ped! B,,4 [D,F,A,]4!ped-up! | %9
+!ped! (6:4:6[E,,E,] (B,D^GDB,)!ped-up!!ped! (6:4:6(E,B,DGDB,)!ped-up!!ped! [E,D]4!ped-up! | %10
+ [F,,C,E,]4 z4!mf! [=F,A,B,]4 | !tenuto![E,,B,,D,]2 z2 !tenuto![B,,^D,^G,]8 | %12
+!ped! [^D,,^A,,^D,^A,]8!8vb(! ^E,,4!ped-up! | !fermata![_G,,,_G,,]4!8vb)! [G,,_B,,_E,_B,]8 | %14
+ [_A,,,_E,,_A,,]2 z2 (6:4:6z (A,,_E,_A,E,-A,,-) [A,,E,]4 | !^!_C,4 z4 [_B,,,_F,,_D,]4 | %16
+!ped!({/[_E,,,_E,,]} [_B,,_E,_G,_B,]4-) [B,,E,G,B,]!ped-up! x x2 [_A,,E,]4 | %17
+!ped! [_E,,,_E,,_B,,]8 (!>!_D,2_C,2)!ped-up! |!ped! [_E,,,_B,,,_E,,]2 z2!ped-up! z4 z4 |] %19
+V:4
+ x4 | x6 | x6 | x6 |[I:staff +1] [D,G,_B,]4 x2 | x6 | x6 | x6 |[I:staff -1] D (AGFED | ^G4) x2 | %10
+ x6 | x6 | (^G2 ^^F) z x2 | x6 | x6 | x6 | !>!_A_GF_E _D_C |[K:bass] (_A,_G,F,_E,) E,2 | x6 |] %19
+V:5
+ x4 | x6 | x6 | x6 | [G,,,D,,G,,]3 z x2 | x6 | x6 | x6 | x2 _B,,4 | x6 | x6 | x6 | %12
+ x4!8vb(! (3[B,,,B,,][^A,,,^A,,][^G,,,^G,,] | x2!8vb)! x4 | x6 |{/[F,,,F,,]-} [F,,,F,,]2 x4 | %16
+ x2 _E,,/_B,,/_E,/_G,/ x2 | x4 _A,,2 | x6 |] %19

@@ -1,0 +1,55 @@
+X:1
+T:Variations on a Theme of Corelli
+T:Variation 10
+C:Sergei Rachmaninoff
+%%score { 1 | 2 }
+L:1/16
+Q:1/4=132
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+L:1/8
+V:1
+"^Allegro scherzando"!p! [df]2 z2 ([df]^G)z(B [df]2) z2 ([df]G)z(B | %1
+[M:2/4] [df]B)([^ce]A) [df]2 x x |[M:4/4] [^ce]2 z2 x4 [ce]2(^GA B=B=c^c |$ %3
+!p! [df]2) z2 ([df]^G)z(B [df]2) z2 ([df]G)zB |[M:2/4]"_cresc." ([df]B)([^ce]A) [_Bd=f]2 x2 | %5
+[M:4/4]!mf! [ce]2 z2 z4 [ce]2"_dim."(=Bc _d=d_e[_d=e] |$ %6
+!p! [cf]2) z2 ([cf]^G)z(B [cf]2) z2 ([cf]G)z(B |[M:2/4]"_cresc." [cf]^G)([ce]=G) [cf]2 x2 | %8
+[M:4/4]!mf! [ce]2 z2 x4 [ce]2 z2 e2 x2 |$!p! [df]2 z2 ([df]^G)z(B [df]2) z2 ([df]G)z(B | %10
+[M:2/4]!<(! [df]!<)!B)([^ce]A)!>(! [_Bdf]2!>)! x2 |[M:4/4]!p! [^ce]2 z4 z2 (aABA) (aAB=B) |$ %12
+ (ab=bc'!>(! [^c'a']!>)!_b_ae) (aABA) (aAB=B) | %13
+!<(! (a!<)!b=bc'!>(! .[^c'a']!>)!_bae) (aABA) a[I:staff +1](efe) |$ %14
+!p![I:staff -1] (ba^g=g) z4"_cresc." (ba^g=g ^f=fe_e) |$ %15
+ ([=eb][_ea][d^g][^c=g] [=c^f]=f=e_e)!f! ([fb][ea][e_a][dg] [^c^f]2)!<(!([cf]!<)!g | %16
+[M:3/4] [da]g_gf e_ed^c"_dim." [=cf]=B_BA) |$ [_Ad]G_GF [EB]_ED^C [B,F]A,G,^F, | %18
+[M:4/4] [=F,D]2 z2"^poco piu mosso" ([DF]A,[=CE]A .[DF]2) z2 ([DF]A,[CE]A) |$ %19
+ ([DF]A,[CE]A) ([DF]A,[_B,D]G .[CE]2) z2"_cresc." ([CE]G,[B,D]G | %20
+ .[CE]2) z2 ([CE]G,[B,D]G) ([CE]G,[B,D]G [CE]2)([^A,^C]^F |$ %21
+[M:3/4] [=B,D]^F,[=A,^C]^F [B,D]2)"_dim."([A,=C]=F [_B,D]=F,[_A,C]F | %22
+[M:2/4] [B,D]2)([G,=B,]E [A,^C]E,[A,C]E |$[M:3/4]!p! [F,D]2)EF x [FA]x[=G=B] x [Bd]x[df] | %24
+ x [_eg]x[f^g] x [^fb]x([g=b] [ad']2) z2 |] %25
+V:2
+"m" [DFA] z [DFA][A,FA] [DFA] z [DFA][A,FA] |[M:2/4] [DFA][A,E^G] !>![DFG]/A/[I:staff -1]A/A/ | %2
+[M:4/4]""[I:staff +1] [A,EA] z (!>!^G/A/)[I:staff -1]A/A/[I:staff +1] [A,EA](E/F/ ^F/=G/^G/_B/ |$ %3
+"m" [DFA]) z [DFA][A,FA] [DFA] z [DFA][A,FA] | %4
+[M:2/4] [DFA]""[A,E^G]"m" !>![G,D^F]/=G/[I:staff -1]G/G/ | %5
+[M:4/4]""[I:staff +1] [CEG] z (^F/G/)[I:staff -1]G/G/[I:staff +1] [CEG](G/_A/ =A/B/=B/) z/ |$ %6
+"" [FA] z [FA][CEA] [FA] z [FA][CEA] |[M:2/4] [FA][CEA] (!>![F^G]/A/)[I:staff -1]A/A/ | %8
+[M:4/4]"m"[I:staff +1] [CEA] z (!>!^G/A/)[I:staff -1]A/A/"m"[I:staff +1] [CEA] z"""^dim." ([^C^FA]/B/)[I:staff -1]B/B/ |$ %9
+"m"[I:staff +1] [D=FA] z [DFA][A,FA] [DFA] z [DFA][A,FA] | %10
+[M:2/4] [DFA][A,E^G]"m" (!>![G,D^F]/=G/)[I:staff -1]G/G/ | %11
+[M:4/4]""[I:staff +1] [A,EA] z"C{" (!>!^G/A/)[I:staff -1]A/A/[I:staff +1] z2"m" ([=G_e]2 |$ %12
+""!<(! [F=c]2!<)!"" [EA^c]2) .[A,E]2"m" ([G_e]2 |"" [Fc]2"" [EA^c]2) .[A,E]2 x2 |$ %14
+"m" z2"m" (^f/=f/e/_e/)"m" (g/^f/=f/=e/"m" _e/d/^c/=c/) |$ %15
+"m" (^c/=c/=B/_B/"m" A/[^G=B]/[=G_B]/[^FA]/)"m" ([B_d]/[Ac]/[_A_c]/[GB]/"m" [F=A]/=F/)(_E/=E/ | %16
+[M:3/4]"" [F_A]B,)"" z (G/A/"m" .[DF=A])"m".G, |$ %17
+"" .[B,DF][K:bass](C/^C/"m" .[G,B,D]).B,,"" .[^C,F,]A,,/^G,,/ | %18
+[M:4/4]"m"!p! [D,,A,,] z .[A,,F,]A,,, .[A,,F,] z .[A,,F,]D,, |$ %19
+ .[A,,F,]A,,, .[A,,F,]"m"C,,"" .[G,,E,] z .[G,,E,]G,,, | %20
+ .[G,,E,] z .[G,,E,]C,, .[G,,E,]G,,, .[G,,E,]""=B,,, |$ %21
+[M:3/4]"m" .[^F,,D,]^F,,, .[F,,D,]""_B,,,"m" .[=F,,D,]=F,,, | %22
+[M:2/4] .[F,,D,]"m"A,,,"" .[E,,^C,] z |$ %23
+[M:3/4]"m" [D,,A,,D,] z"^m.g."[I:staff -1] [E^G]/[I:staff +1]x/[I:staff -1][^F_B]/[I:staff +1] x/[I:staff -1] [GB]/[I:staff +1]x/[I:staff -1][B^c]/[I:staff +1] x/ | %24
+[I:staff -1] [=Bd]/[I:staff +1]x/[I:staff -1][d=e]/[I:staff +1] x/[I:staff -1] [^cf]/[I:staff +1]x/[I:staff -1][e=g]/[I:staff +1] x/[I:staff -1] [d=f][I:staff +1] x |] %25

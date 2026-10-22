@@ -1,0 +1,80 @@
+X:1
+T:Stabat Mater
+T:O quam tristis et afflicta
+C:Giovanni Battista Pergolesi
+Z:Editions FREDIPI
+%%score 1 2 { ( 3 5 7 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=76
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Soprano"
+L:1/4
+V:2 treble nm="Alto"
+L:1/4
+V:3 treble nm="Violino I/II\nViola\nVioloncello\nContrabasso\ne organo"
+V:5 treble 
+V:7 treble 
+L:1/4
+V:4 bass 
+V:6 bass 
+V:1
+!p!"^Larghetto"!<(! d d!<)!!>(! ^c d!>)! | z2!<(! c c!<)! |!>(! c B!>)! z2 | %3
+w: O quam tris- tis|et af-|fli- cta,|
+!mf! g B!>(! B !fermata!A!>)! |$!p! =f/ f3/2 e/ e3/2 | (d/ b) d/ d/ c/ z | e2 d2 | %7
+w: et af- fli- cta|fu- it il- la|be- * ne- di- cta|ma- ter|
+!mf! z/ (e/d/) c/ (B =A3/4) B/4 | B z!p! e2 |$ d2!f! z/ (g/f/) e/ | (d/8c/8B3/4)!>(! Tc!>)! B z | %11
+w: u- * ni- ge- * ni-|ti, ma-|ter u- * ni-|ge- * * ni- ti!|
+ z4 | z4 |!p!!<(! f f!<)!!f! ^f g |$ z2!p!!>(! g B | B!>)! A!p! d d | d c a c | c B!>(! g B!>)! |$ %18
+w: ||O quam tri- stis|et af-|fli- cta fu- it|il- la be- ne-|di- cta, be- ne-|
+ B/ A/ z!mf! c2 | B2!p! z/ (e/d/) c/ | (B A3/4) G/4 G z |!f! c2 B2 |$ %22
+w: di- cta ma-|ter u- * ni-|ge- * ni- ti,|ma- ter|
+!p! z/"^dim." (e/d/) c/ (B"_al" A3/4) A/4 |!pp! G z z2 | z4 | !fermata!z4 |] %26
+w: u- * ni- ge- * ni-|ti!|||
+V:2
+!p!!<(! B B!<)!!>(! B A!>)! | z2!<(! ^F A!<)! |!>(! A G!>)! z2 | B G G ^F |$!p! d/ d3/2 c/ c3/2 | %5
+w: O quam tris- tis|et af-|fli- cta,|et af- fli- cta|fu- it il- la|
+ B B B/ A/ z | c2 B2 |!mf! z/ (G/F/) E/ (D/4C/4B,/) C | B, z!p! c2 |$ B2!f! z/ (e/d/) c/ | %10
+w: be- ne- di- cta|ma- ter|u- * ni- ge- * * ni-|ti, ma-|ter u- * ni-|
+ (B!>(! A3/4) B/4!>)! B z | z4 | z4 |!p!!<(! d d!<)!!f! c B |$ z2!p!!>(! B G | G!>)! ^F!p! D D | %16
+w: ge- * ni- ti!|||O quam tri- stis|et af-|fli- cta fu- it|
+ _E =E ^F F | G G!>(! B G!>)! |$ G/ ^F/ z!mf! A2 | G2!p! z/ (c/B/) A/ | (G ^F3/4) G/4 G2 | %21
+w: il- la be- ne-|di- cta, be- ne-|di- cta ma-|ter u- * ni-|ge- * ni- ti,|
+!f! A2 G2 |$!p! z/"^dim." (c/B/) A/ (G"_al" ^F3/4) F/4 |!pp! G z z2 | z4 | !fermata!z4 |] %26
+w: ma- ter|u- * ni- ge- * ni-|ti!|||
+V:3
+ [DBd]2 [GBd]2 [=EB^c=e]2 [^FAd]2 | (a^fec) (Ac^Fc)!p! | ([^Fc]ABF) (GBd^f) | %3
+ (gbgB) (!fermata![GB]2 [^FA]2) |$ !wedge![Fdf] [Fdf]3 !wedge![Fc_e] [Fce]3 | %5
+ [FBd] (b2 d) [FBd]([A,CF][FA][Ac]) | [ce]4 [FBd]4 | z ([Ge][Fd][Ec]) ([DB]2 [C=A]2) | %8
+ z ([B,DF][DFB][Bd]) e4 |$ [FBd]4 z ([eg][df][ce]) | ([Bd]2 [Ac]2) [DFB]!f! [Bb]2 ([Bb-] | %11
+ ba/g/) (f=e) cd (f/<_e/)(d/<c/) | (TB3/2A/4B/4) (Tc>B) B2 B2 | [Fdf]2 [Fdf]2 [Ac^f]2 [Bdg]2 |$ %14
+!p! (GBd^f)!>(! (gbgB) | D4!>)!!p! d'4- | [_ed']2 c'4 c'2- | c'2 b2- [gb].[gb].[GB=e].[=EGB] |$ %18
+ ([GB][^FA]) z2 [DFc]4 | [DGB]4 z ([ce][Bd][Ac]) | ([GB]2 [^FA]2) [DG]!<(!([G,B,D][B,DG][GB])!<)! | %21
+!f! [D^Fc]4 [DGB]4 |$ z ([ce][Bd][Ac]) ([GB]2 [^FA]2) | %23
+ [B,DG]!<(! [Gg]2 ([Gg-]!<)!!f! g^f/e/) (d^c) | AB GE (G>A) TA2 | [B,G]D G,2 !fermata!z4 |] %26
+V:4
+"m"!p!!<(! [G,,G,]2 [G,,G,]2!<)!"m"!>(! [G,,G,]2!>)!"" [^F,,^F,]2 |"m""m" z4""!<(! D,2 D,2!<)! | %2
+"m"!>(! G,2"m" G,,2!>)!!<(! z4!<)! |"m"!mf! [^C,,^C,]2!>(! [C,,C,]2"""" !fermata![D,,D,]4!>)! |$ %4
+""!p! z .B,,.D,.B,,"" z .=C,.A,,.F,, |"" z [B,,D,]"".[D,F,]"m".[=E,G,]""""!>(! F,2 z2!>)! | %6
+"m" z C,"".A,,.F,,"" z B,,.D,.B,, |"m"!mf! [E,,E,]4"" z (B,""E,F,) | %8
+""!>(! B,,2 z2!>)!"m"!p! z .C,"".A,,F,, |$"" z B,,.D,B,,"m"!f! [E,,E,]4 | %10
+"" z!>(! (B,""E,!>)!F,)"" [B,,B,]2"" [D,F,]2 |"""" E,2"" G,2"" F,"m"D,"""m" B,2 | %12
+"" (D,"m"G,"m" E,""F,)"" B,,2 z2 |"C{"!mf!!<(! [B,,B,]2 [B,,B,]2!<)!"m"!f! [A,,A,]2"m" [G,,G,]2 |$ %14
+ z4"m" [^C,,^C,]2 [C,,C,]2 |"""""C{" [D,,-D,]8 |"m""""" [D,,D,-]8 | %17
+"""""" [D,,D,]4"m"!>(! [^C,,^C,]4 |$"""" [D,,D,]2!>)! z2""!mf! z A,^F,D, | %19
+"m" z G,B,G,"m"!p! [E,C]4 |"m" z (E,""C,D,)"m" G,,2 z2 |"" z .A,.^F,D,"m" z .G,.B,.G, |$ %22
+"m"!p! [E,C]4""""!>(! D,4!>)! |"m"!pp! [G,,G,]2"m" [B,D]2"""" C3"m" =E | %24
+"" D""B,"m" _E"m"A,"m" B,"m""m" G,2"" ^F, |"m" G,2 z2 !fermata!z4 |] %26
+V:5
+ x8 | x4 D2 D2 | D4 z4 | [B=e]3 [=EG] D4 |$ x8 | x B3 x4 | (G2 F2) x4 | x8 | x4 ([EG]2 F2) |$ %9
+ x4 G4 | x2 z E x4 | c4 f>g BG | FD (GF) DF B2 | x8 |$ x4 [B=e]3 [=EG] | [GB]2 [^FA]2 [d^f]4 | %16
+ g4 [^fa]4 | [dg-]4 =e2 x2 |$ D2 x6 | x4 G4 | x2 z C z4 | x8 |$ G4 D4 | x4 A3 B | %24
+ (d>_e) (d/<=c/)(B/<A/) DC (ED) | x8 |] %26
+V:6
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | (C,3 B,, A,,B,, G,,E,) | B,3 A, B,2 x2 | %13
+ x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x4 (A,3 G, | %24
+ (^F,G,) (E,C,) (B,,E,)!>(! (C,D,)) | G,,2!>)! x6 |] %26
+V:7
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x =e x2 | x4 |$ %18
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |] %26

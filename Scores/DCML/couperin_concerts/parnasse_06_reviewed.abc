@@ -1,0 +1,36 @@
+X:1
+T:Le Parnasse, ou L'Apothéose de Corelli
+T:Les Muses réveillent Corelli, et le placent auprès d’Apollon.
+C:François Couperin
+%%score { 1 | 2 | 3 }
+L:1/16
+Q:1/4=60
+M:3/8
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+L:1/8
+V:1
+"^Vivement" z z/"" a<aa<ff/ | d>a (3aba (3fgf | d>f (3fgf (3(fPe)d |$"" (3efg"" (3fgf (3(fPe)d | %4
+"" e>"C{"a"m" (3aba"" (3aba |"" Pf>""b"" (3bab"" (3f^ga |"" P^g>"C{"e"m" (3efe"" (3efe | %7
+"" Pc>""e"m" (3ded"" (3cdc |$"" (3BcB"" (3efe"m" (3cdc |"" (3fgf"" (3efe"" (3aba | %10
+"" P^g2>f2""e""d |"" c"m"d"" PB2>A2 |"" A z/"C{" c/"m" c>cA>A | F>c (3cdc (3ABA |$ %14
+ F>c (3f^gf (3aba | f>c (3f^gf (3aba | f>aa^g""fe |"" P^d>^g g4- |"" g>f"" f4- | %19
+"""" f2>^g2"m"Pe^d |$"m" ef2<""P^d2c |"m" c3/2"C{" c<"m"cc<AA/ | F>c (3cdc (3ABA | %23
+ F>c (3f^gf (3aba | f>c (3f^gf (3aba |$ fA"m"BA^GF |"" P^Ec"m"dcBA |"" P^G2 z"C{" AG""A | %28
+"" F"m"G"" P^E2>F2 |"m" F2 z"C{" cB""c |"" A"m"B"" P^G2>F2 |"m" F6 |] %32
+V:2
+ z2 z z/ a<aa/ | Pf2 z z/ a/ (3aba | Pf>d (3ded (3(dPc)B |$ (3cde (3ded (3(dPc)B | c>cd2e2 | %5
+ A>^d e2f2 | B>^G A2B2 | E>c (3BcB (3ABA |$ (3^GAG (3cdc (3ABA | (3ded (3cdc P^d2 | efedcB | %11
+ AB P^G2>A2 | A2 z z/ c<cc/ | A2 z z/ c/ (3cdc |$ A2 z z/ c/ (3f^gf | (3aba f>c (3f^gf | a>ffe^dc | %17
+ P^B2 z z/ B/ (3(Bc^d) | c2 z z/ c/ (3(c^de) | P^d2>^B2cB |$ c^d2<P^B2c | c2 z z/ c<cc/ | %22
+ A2 z z/ c/ (3cdc | A2 z z/ c/ (3f^gf | (3aba f>c (3f^gf |$ acdcBA | ^GABAGF | P^E2 z cBc | %28
+ AB P^G2>F2 | F2 z A^GA | F^G P^E2>F2 | F6 |] %32
+V:3
+ z3 | z3 | z DD, |$ A,D,D,, | A,,/>A,/B,C | D/>B,/C^D | E/>E,/F,^G, | A,/>C,/D,A,, |$ E,C,F, | %9
+ D,A,/>^G,/F, | E,>E,A,/^G,/ | A,/D,/E,E,, | A,, z z | z3 |$ z3 | z3 | z/ z/4 F,/4 F,F,, | %17
+ ^G,,^G,G,, | ^A,,^A,A,, | ^B,,^G,C |$ F,^G,^G,, | C, z z | z3 | z3 | z3 |$ %25
+[K:alto] z/ F/B,/C/D/B,/ | C/[K:bass] F,/B,,/C,/D,/B,,/ | C, z z/ C/ | D/B,/ CC, | F, z z/ C,/ | %30
+ D,/B,,/ C,2 | F,,3 |] %32

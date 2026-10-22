@@ -1,0 +1,31 @@
+X:1
+T:Schwing dich auf zu deinem Gott
+T:Schwing dich auf zu deinem Gott
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ d A d e | f d !fermata!e2 | c c c B/A/ | G2 !fermata!A2 | d A d e | f d !fermata!e2 | c c c B/A/ | %7
+ G2 !fermata!A2 | f f =e e | d e !fermata!^c2 | A =B ^c d | d ^c !fermata!d2 | f f e e | %13
+ d e !fermata!^c2 | A =B ^c d | d ^c !fermata!d2 || %16
+V:2
+ A A B B | A G !fermata!G2 | A A/G/ F F/E/ | D/^C/ D !fermata!C2 | A A G/=F/ E | %5
+ A/=G/ F !fermata!E2 | E A A G/A/ | B c !fermata!^F2 | A G G A | A E !fermata!A2 | E A G A | %11
+ A3/2 G/ !fermata!F2 | A G G G | F G !fermata!E2 | F F E D/E/ | F/ E/4D/4 E !fermata!^F2 || %16
+V:3
+ f e f g | c d !fermata!c2 | e f A/G/ F | F E/D/ !fermata!E2 | A d/=c/ B =B | %5
+ ^c d/=c/ !fermata!=B2 | c/d/ _e d d | d/B/ A/G/ !fermata!d2 | d d c c | c/ =B/4A/4 B !fermata!e2 | %10
+ ^c d e f | e2 !fermata!d2 | =c d c/B/ A | A B !fermata!A2 | d d G A/B/ | A2 !fermata!A2 || %16
+V:4
+ D C B, G, | A, =B, !fermata!C2 | A,/G,/F,/E,/ D,3/2 C,/ | B,,2 !fermata!A,,2 | F, ^F, G, ^G, | %5
+ A, B,/A,/ !fermata!^G,2 | A, =G, ^F, G,/=F,/ | _E,2 !fermata!D,2 | D/C/=B,/G,/ C/_B,/A,/G,/ | %9
+ ^F, ^G, !fermata!A,2 | =G, =F, E, D, | A, A,, !fermata!B,,2 | A,, =B,, C, ^C, | %13
+ D, G,, !fermata!G,2 | F, E,/D,/ E, F,/G,/ | A, A,, !fermata!D,2 || %16

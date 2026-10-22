@@ -1,0 +1,46 @@
+% Die Alte: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=343
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Die Alte
+C:Wolfgang Amadeus Mozart (1756-1791)
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/16
+Q:1/4=52
+M:2/4
+I:linebreak $
+K:Emin
+V:1 bass nm="lower" snm="Pno"
+L:1/8
+V:2 treble nm="mel" snm="Cl"
+V:3 treble 
+V:4 treble nm="upper" snm="Pno"
+L:1/8
+V:5 treble 
+V:1
+ x2 E,B,, | G,,xG,^D, | E,xE,C, | D,B,,/-B,,/ C,A,, | B,,xD,^A,, | B,,G,/-G,/ F,F,, | B,,->B,, x2 | %7
+ B,,C,/D,/ E,E,, | A,,->A,, x2 | A,,B,,/C,/ D,D,, | G,,->G,, B,,2 | C,->C, D,2 | G,, x A,,2 | %13
+ E,C,/-C,/ D,D,, | G,,xB,,A,, | G,,A,,/-A,,/ B,,C, | D,^D,/-D,/ E,B,, | E,,F,,/-F,,/ G,,A,, | %18
+ B,, x ^D,2 | E,/F,/G,/A,/ B,B,, | C, x A,,2 | G,,A,,/-A,,/ B,,B,, | E,, x [F,A,]2 | %23
+ [G,E]->[G,E] B,B,, | E, x3 |] %25
+V:2
+ x3 E G2F2 | E2 z G B2A2 | G2 z B B2cB | A2BA G2AG | F2 z F B2^c2 | d2^cB ^A2>B2 | B2 z B B2B2 | %7
+ d2cB A2B2 | B2cA A2A2 | c2BA G2A2 | A2B-B d4 | EFGA B2(3:2:2A2 z | G2 z B c2>d2 | B2 z c A2>G2 | %14
+ G2 z D G2A2 | B2c-c d2cB | B2AB, E2F2 | G2A-A B2AG | G2F-F c4 | BABc G2(3:2:2F2 z | %20
+ E2 z e ^d2>e2 | B2 z c F2>E2 | E2->E2 x4 |] %23
+V:3
+ x4 x x3 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z7 G | z8 | z8 | z8 | z8 | z8 | z8 | %18
+ z8 | z7 E | z8 | z8 | z4 x4 |] %23
+V:4
+ x2 [B,EG][B,^DF] | [B,E] z [B,EB][B,FA] | [B,EG] z [BG][cE] | [AF][B^D]/-A/ [GE][AF]/[GE]/ | %4
+ [F^D] z [FB][F^c] | [F=d][E^c]/[DB]/ [E^Ac]2 | [DB]->[DB] [DB]2 | [=FBd]->[FBd] [EAc][E^GB] | %8
+ [^GB][Ac]/-[Ac]/ [CA]2 | [EAc]->[EAc] [D=GB][DFA] | [FA][GB]/-[GB]/ d2- | dc/-c/ [BDG][ACF] | %12
+ [B,G] z EF | [GB,][cE]/-[cE]/ A2 | G z [DG][FA] | G3/2-G3/2 [cA]/[BG]/ | %16
+ [GB][FA]/-[FA]/ [B,E][^DF] | GA/-A/ B[AF]/[GE]/ | [EG][^DF]/-[DF]/ [FAc]2 | %19
+ [GB]/A/B/c/ [EG][^DF] | E z [^DFc]2 | [EGB][Ec]/-[Ec]/ F2 | %22
+ Eb/-b/ (3:2:2^d z/4 e/ (3:2:2z/4 e/-(3:2:1e/4 | (3:2:2^A z/4 B/ (3:2:2z/4 B/-(3:2:1B/4 [EG][^DF] | %24
+ E x3 |] %25
+V:5
+ x4 x x3 | z8 | z7 B | z3 [B^D] z4 | z8 | z8 | z8 | z8 | E2->E2 z4 | z8 | D2->D2 [DG]4 | %11
+ [EG]2->[EG]2 z4 | z4 C4 | z4 G2F2 | z8 | z2 c-c d2 z2 | z8 | E3-E3 z2 | z8 | z8 | z8 | z4 E2^D2 | %22
+ z6 (3:2:2^d2 z | z2 ^A-(3:2:2A/ z z4 | z2 x6 |] %25

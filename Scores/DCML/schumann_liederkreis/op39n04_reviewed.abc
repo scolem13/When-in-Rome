@@ -1,0 +1,75 @@
+X:1
+T:Liederkreis
+T:Die Stille
+C:Robert Schumann
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+Z:
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=80
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Nicht schnell, immer sehr leise." B | B z ^A B3/2 B/ A | B3 G2 z |!<(! G G G!<)!!>(! d3/2 d/ d | %4
+w: Es|weiss und räth es~ doch|Kei- ner,|wie mir so wohl ist, so|
+ B2!>)! z z2 B |$ B3/2 B/ ^A B B A |!<(! B3 e2!<)! e | d B ^G!>(! (A=G)!>)! E | D z z z2!p! ^G |$ %9
+w: wohl! Ach,|wüsst' es nur Ei- ner, nur|Ei- ner, kein|Mensch es sonst wis- * sen|sollt'! So|
+ A A A A A B | c2 z z2 z | z2 F G G A | _B2 B z2 =F/ F/ |$ G2 G _B B G | =F2 z z2 F | %15
+w: still ist's nicht drau- ssen im|Schnee,|so stumm und ver-|schwie- gen sind die|Ster- ne nicht in der|Höh', als|
+ G3/2 G/ G A2 A | d3- d2 ^d |[Q:1/4=95]"^Etwas lebhafter" e2 ^d (ec) A |$ G3 F2 ^d | %19
+w: mei- ne Ge- dan- ken|sind, * Ich|wünscht', ich wär' * ein|Vög- lein und|
+ e2 ^d e3/2 c/ A | F3 z2 =D | G3/2 G/!<(! G (GA) B!<)! | B2 A e3 |$ e3/2 d/ d!>(! d2 B!>)! | %24
+w: zö- ge ü- ber~ das|Meer, wohl|ü- ber~ das Meer * und|wei- ter, bis|dass ich im Him- mel|
+ A3 z2!p! ^A |[Q:1/4=80]"^Erstes Tempo" B z ^A B3/2 B/ A | B3 G2 z | G G G d d3/2 d/ |$ B2 z z2 B | %29
+w: wär'. Es|weiss und räth' es doch|Kei- ner,|wie mir so wohl ist, so|wohl, ach!|
+ B3/2 B/ ^A B B A |!<(! (B3{e/)} e2!<)! e | d B ^G (A=G) E | D z z!p! d3 |$ %33
+w: wüsst' es nur Ei- ner, nur|Ei- ner, kein|Mensch es sonst wis- * sen|sollt', kein|
+[Q:1/4=70]"^dim." d G[Q:1/4=70] G[Q:1/4=70] B2 A | G3 z2 z | z z z z z z | z z z z z z | %37
+w: Mensch~ es sonst wis- sen|sollt'.|||
+ z z z z z z |$ z z z z z z | !fermata!z2 z z2 |] %40
+w: |||
+V:2
+ z |!p! .[DGB] z .^A .[DGB] z .A | ([D-GB]3 [DG]2) z | .[EG] z z .[CFA] z z | .[B,GB] z z z2 z |$ %5
+ .[DGB] z .^A .[DGB] z .A |!<(! [DGB]3!<)! (([_Bg]3 | [Af])) z [B-=f] [Be] z (.[Ae] | %8
+ .[Ad]) z!p! .^G .A z .G |$ .[D=FA] z z z2 .[DFB] | .[Ec] z!p! .^F .G z .F | .G z z z2 .[C_EA] | %12
+ .[D_B] z .=E .=F.D._B, |$ .[_B,_EG] z z z2 z | .[_B,D=F] z .=E .F.D.B, | %15
+!<(! [_B,_EG]3!<)! [^C=EGA]3 | [^FAd]2!<(! (.^c .d z .^d)!<)! | z!p!!>(! ([=ce]^d e!>)!cA) |$ %18
+ z .[CDG].[CDG] z .[CDF].[CDF] | z!>(! ([ce]^d ec!>)!A) | z .[CDF].[CDF] z .[CDF] .D | %21
+!<(! [B,G]2 [B,G] [B,G]>[DFA]!<)![DGB] | ([GB]2 [FA]) [ce]3- |$ %23
+!<(! [ce]2!<)! [Bd]- [Bd]!>(! [GB]2 | [FA]!>)! z!>(! (.^c!>)! .d) z!p! .^A | %25
+ .[DGB] z .^A .[DGB] z .A | (([DGB]3 [DG]3)) | .[^CG] z z .[=CFA] z z |$ .[B,GB] z z z2 z | %29
+ .[DGB] z .^A!<(! .[DGB] z .A!<)! |!<(! [DGB]3!<)! ((!>![_Bg]3 | [Af])) z [B-=f][Be] z (.[Ae] | %32
+ .[Ad]) z z [=FGd]3- |$"^dim." ([=FGd]2 [EG-] [DGB]) z .[DA] | .[DG] z!p! z z2 z | %35
+!<(! z2 .[B,^E^G] .[=CFB]!<)! z!>(! .[CFA] | .[B,=G]!>)! z z z2 z | %37
+!<(! z2[K:bass] [^E,^G,]!<)!!>(! [B,D] z .[F,A,=C]!>)! |$ .[=G,B,] z z[K:treble] [B,G]3- | %39
+ !fermata![B,G]2 z z2 |] %40
+V:3
+ z |"" .[G,B,] z .^A, .[G,B,] z .A, | [G,B,]3- [G,B,]2 z |"m" .[E,B,] z z"" .[D,D] z z | %4
+"" .[G,D] z z z2 z |$ .[G,B,] z .^A, .[G,B,] z .A, | [G,B,]3"m" (([^CEG]3 | %7
+"" [DF])) z"m" [^G,D-=F]"" [A,D=G] z"" (.[A,^CG] |"" .[D^F]) z .^G, .A, z .G, |$ %9
+"m" .[D,A,] z z z2"" .[=G,,=G,] |"" .[C,G,] z .^F, .G, z .F, | .G, z z z2"" .[=F,,=F,] | %12
+"" .[_B,,=F,] z .=E, .F,.D,.B,, |$"" .[_E,G,] z z z2 z |"" .[_B,,=F,] z .=E, .F,.D,.B,, | %15
+"" [_E,G,]3"" [A,,=E,]3 |"" [F,,D,]2 (.^C .D z .^D) |"" =D, ([=CE]^D ECA,) |$ %18
+"" =D, .A,.A,"" D, .A,.A, |"" D, ([CE]^D ECA,) |"" =D, .A,.A, D,.A, .D, | %21
+"" [B,,G,]2 [B,,G,]"" [B,,G,]>[D,A,]""[G,B,] | ([G,B,]2 [D,A,])"m" z z (F,- |$ [CE]2"" D-D x"m" x | %24
+"" D) z (.^C .D) z .^A, |"" .[G,B,] z .^A, .[G,B,] z .A, | (([G,B,]3 [G,B,]2)) z | %27
+"" .[E,A,] z z"" .[D,D] z z |$"" .[G,D] z z z2 z | .[G,B,] z .^A, .[G,B,] z .A, | %30
+ [G,B,]3"m" ((!>![^CEG]3 |"" [DF])) z"m" [^G,D-=F]""[A,D=G] z"" (.[A,^CG] | %32
+"" .[D^F]) z z"" [B,,G,]3- |$ [B,,G,]2"" [C,G,-]"" [D,G,C] z"" .[D,^F,C] | %34
+"" .[G,B,] z .^C .D z .C | D3-"" D2"" .[D,D] |"" .[G,D] z .^C, .D, z .C, | D,3-"" D,2"" .[D,,D,] |$ %38
+"" .[G,,D,] z (^C,- C,D,-B,, | !fermata![G,,D,]2) z z2 |] %40
+V:4
+ x | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | %17
+ x F2- F z z |$ x6 | x F2- F z z | x6 | x6 | D3 x3 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | %32
+ x6 |$ x6 | x6 | x6 | x6 | x2[K:bass] x4 |$ x3[K:treble] x3 | x5 |] %40
+V:5
+ x | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | %19
+ x6 | x6 | x6 | x3 !>![CE]3- |$ F,2 [G,B,]- [G,B,][B,D][^CE] | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | %31
+ x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x4 D,2 | x5 |] %40

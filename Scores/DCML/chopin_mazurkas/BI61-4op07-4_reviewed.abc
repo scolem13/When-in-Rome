@@ -1,0 +1,58 @@
+X:1
+T:Mazurkas
+C:Frédéric Chopin
+%%score ( 1 2 3 ) 4
+L:1/8
+Q:3/4=76
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble nm="piano"
+V:2 treble 
+L:1/4
+V:3 treble 
+V:4 bass nm="piano"
+L:1/4
+V:1
+"^Presto, ma non troppo" E |!f! (3ABA (GABc) | (3(ded)!<(! (cd (e2)!<)! | a)z/!p!(d/ ceA=A | %4
+ BdFG) !>!_A2- |!f! (3ABA!<(! (GABc)!<)! |$ (3(ded) (cd=de) |({/e} a)z/!p!(_d/ ceA=A | %8
+ BdFG _A) z/ =B/ |:"_scherz." (c2 !wedge!c')z/(_b/ !>!a2-) | ag({/b}(a)g) (!>!=d2 |$ %11
+ !wedge!c)(c!wedge!c')z/(b/ !>!a2-) | ag({/b}!wedge!a)z/(g/ =d2) |!p! c2 !>!_d>f (!>!c2 | %14
+ =B) z/ (G/ B=d) (!>!c2 | c2) !>!_d>(f!<(! c2-)!<)! |$"_cresc." c3 B!>!c>B | %17
+!f! (3ABA!<(! (GABc)!<)! | (3ded (cd) (!>!e2 | !wedge!a)z/!p!(d/ c)(eA=A | BdFG _A2-) |$ %21
+ (3ABA G z/ (A/ Bc) | (3ded .c z/ (d/({/d} =d)e |({/e} .a))z/!p!(_d/ c)(eA=A | BdFG) !>!_A2 :| %25
+"_dolciss." (_gfef d2 |$ BeBc A2) | (_gfef d2 | BeAc (d2) |!p!"_riten.""_staccato" ._g.f.e.f.d.A | %30
+ .B.e.B.c.A.a |$ ._g.f.e.f.d.A | BeAc d2) | %33
+!pp!"_sotto voce""_molto rallent." ([^c=e][=B=d] [=Ac]2) ([A^f]2 | [^c=e]4 [=Ac]2) | %35
+"_smorz." ([^c=e][=B=d] [=Ac]2) ([A^f]2 | !fermata!=e6) ||$!f!"_a tempo" (3ABA (GAB=c) | %38
+ (3ded (cd) (!>!e2 | a)z/!p!(d/ ce A=A | BdFG !>!_A2-) |!f! (3ABA (GABc) |$ (3(ded) (c z/ d/ =de) | %43
+!sfz!({/e} a) !fermata!z/ (_d/!f! ceA=A | BdFG _A2) |] %45
+V:2
+ x/ | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 |: x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %19
+ x3 | x3 |$ x3 | x3 | x3 | x3 :| _G G !>!F |$ =G _G !>!G | _G G !>!F | =G _G !>!F | _G G F | %30
+ =G _G G |$ _G G F | =G _G F | =E2 !>!^F | =E3 | =E2 ^F | !fermata![=A^c]2 !>!_B ||$ x3 | x3 | x3 | %40
+ x3 | x3 |$ x3 | x3 | x3 |] %45
+V:3
+ x | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 |: x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | %19
+ x6 | x6 |$ x6 | x6 | x6 | x6 :| x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | %36
+ !fermata!=E6 ||$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 |] %45
+V:4
+"" z/ |"" ([A,CE]"m" !>![A,D_F]"m" [A,DF] |"m" !>![G,B,_F]"" [A,CE]"" [G,B,E] | %3
+""!ped! [=F,A,D=F]/) z/!ped-up!"" ([E,A,E] [E,CE] |"" [E,DE] [E,DE]"" [A,CE]) | %5
+ [A,CE]"m" !>![A,D_F]"m" [A,DF] |$"m" !>![G,B,_F]"" [A,CE]"" [G,B,E] | %7
+""!ped! [=F,A,D=F]/ z/!ped-up!"" [E,A,E] [E,CE] |"" [E,DE] [E,DE]"" [A,CE] |: %9
+"" (C,"" [G,C=E]"m" [F,CF] |"" [G,=B,F] [G,B,F]"" [G,B,F] |$"" [A,CE])"" ([G,C=E]"m" [F,CF] | %12
+"" [G,=B,F] [G,B,F]"" [G,B,F]) |"" ([A,CE]"" [F,A,D]"m" [F,A,=D] |"" [G,=DF] [G,DF]"m" [CE] | %15
+"" [A,CE])"" (!>![F,A,_D]"m" [F,A,=D-] |$""!<(! [G,B,D]"" [G,B,E])"m""m" [G,_D_F]!<)! | %17
+"" [A,CE]"m" !>![A,D_F]"m" [A,DF] |"m" !>![G,B,_F]"" [A,CE]"" [G,B,E] | %19
+""!ped! [=F,A,D=F]/ z/!ped-up!"" ([E,A,E] [E,CE] |"" [E,DE] [E,DE]"" [A,CE]) |$ %21
+ ([A,CE]"m" !>![A,D_F]"m" [A,DF] |"m" !>![G,B,_F]"" [A,CE]"" [G,B,E] | %23
+""!ped! [=F,A,D=F]/) z/!ped-up!"" ([E,A,E] [E,CE] |"" [E,DE] [E,DE]"" [A,CE]) :| %25
+"" [D,A,C] [D,A,C]"" [D,A,D] |$"" [D,B,E]"m" [D,=A,E]"" [D,_A,E] | [D,A,C] [D,A,C]"" [D,A,D] | %28
+"" [D,B,E]"" [D,A,E]"" [D,A,D] |"""_sempre legato" [D,A,C] [D,A,C]"" [D,A,D] | %30
+"" [D,B,E]"m" [D,=A,E]"" [D,_A,E] |$ [D,A,C] [D,A,C]"" [D,A,D] |"" [D,B,E]"" [D,A,E]"" [D,A,] | %33
+"" [=A,,=A,]2"" [=D,A,] |"" [=A,,=A,]3 | =A,2"" [=D,A,] |"" !fermata![=A,,=A,]2"" !>![G,_D_F] ||$ %37
+"" ([_A,CE]"m" !>![A,D_F]"m" [A,DF] |"m" [G,B,_F]"" [A,CE]"" [G,B,E] | %39
+""!ped! [=F,A,D=F]/) z/!ped-up!"" [E,A,E] [E,CE] |"" [E,DE] [E,DE]"" [A,CE] | %41
+ ([A,CE]"m" !>![A,D_F]"m" [A,DF] |$"m" !>![G,B,_F]"" [A,CE]"" [G,B,E] | %43
+""!ped! [=F,A,D=F]/) !fermata!z/4!ped-up! z/4"" ([E,A,E] [E,CE] |"" [E,DE] [E,DE]"" [A,CE]) |] %45

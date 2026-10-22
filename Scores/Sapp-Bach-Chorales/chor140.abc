@@ -1,0 +1,31 @@
+X:1
+T:In allen meinen Taten
+T:In allen meinen Taten
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ G | c c d d | e2 !fermata!d d | c B A A | B2 !fermata!B G | G G c c | !fermata!B2 z B | e e c c | %8
+ d2 !fermata!B B | c c A A | B2 !fermata!G G | =c d e d | !fermata!c3 x || %13
+V:2
+ E | E/F/ G A G | G2 !fermata!G G- | G/^F/ G G F | G2 !fermata!G D | E E A A | !fermata!^G2 z =G | %7
+ G G F F | ^F/G/A/F/ !fermata!G G | G G ^F F | ^F B, !fermata!B, B, | =C =F E/F/G/F/ | %12
+ !fermata!E3 x || %13
+V:3
+ c | c c c B | c2 !fermata!B B | c d e d | d2 !fermata!d B | c c/d/ e e | !fermata!e2 z e- | %7
+ e/d/c/B/ A/B/c/A/ | A d !fermata!d d | e e e d | ^d/e/^f/d/ !fermata!e =d | G B c B | %12
+ !fermata!G3 x || %13
+V:4
+ C,2 | C,D, E,2 F,2 G,2 | C,D,E,F, !fermata!G,2 G,,2 | A,,2 B,,2 C,2 D,2 | %4
+ G,4 !fermata!G,,2 G,=F, | E,D,C,B,, A,,B,,C,D, | !fermata!E,4 z2 E,D, | C,D,E,C, F,G,A,F, | %8
+ D,E,^F,D, !fermata!G,2 G,,2 | C,D,E,C, D,E,^F,D, | B,,^C,^D,B,, !fermata!E,2 G,=F, | %11
+ E,F,E,=D, =C,2 G,2 | !fermata!C,6 x2 || %13

@@ -1,0 +1,55 @@
+X:1
+T:Sonata in C Major
+T:Prestissimo
+C:Carl Philipp Emanuel Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=150
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Harpsichord" snm="Hch."
+L:1/16
+V:3 treble 
+V:2 bass 
+V:1
+"^Prestissimo" CE Gc egfe dcBc | dB^FG B,D GB dgdB | ^CEG_B ^ceg_b agfe |$ fa^cd fdA F DF Af | %4
+ B,D GB dfdB GFdF | _B,CE G ceg B, A, c'af |$ z egc' =bagf edfa | (c4 P!turn!B4) z4 | %8
+ z e^f^g abc'd' e'd'c'b |$ a^g^fe a=g=fe dcBA | z de^f gabc' d'c'ba | g^fed gfed cBAG |$ %12
+ z EAc edcB AG^FE | DE^FG AGFE DCB,A, | B,[I:staff +1] G,A,B,[I:staff -1] C DE^F GDCB, |$ %15
+[I:staff +1] A,DA,^F, D,E,F,G, A,B,CA, |[I:staff -1] B,DE^F GABc dBAG | ^FAB^c de^fg agfe |$ %18
+ de^fg ab=c'd' e'c'ba | bgd'b !wedge!a4 z4 | z gdB G^FGB dgdB |$ G^FGB dgdB GFGB | %22
+ dgdB G^FGB dgdB | G^FGB dgdB GFGB |$ eG^FG ed^cB AGFE | ^FdAF D^CDF AdAF | %26
+ !wedge!G2>e2 (B4 P!turn!A4) |1 G4 z4 z4 :|2$ G4 z4 z4 |: %29
+[I:staff +1] ^G,B,E[I:staff -1] e bd'c'b a^g^fe | c'ae c Ac ea c'aec |$ %31
+[I:staff +1] ^F,A,D[I:staff -1] d ac'ba g^fed | bgd B GB dg bgdB | ^D^FA B ^d^fbg dB AF |$ %34
+ EGB e gbe'b ge[I:staff +1] G,E |[I:staff -1] z bd'c' bag=f efac' | (e4 P!turn!^d4) z4 | %37
+ z e'bg e^deg be'bg |$ e^deg be'bg edeg | be'bg e^deg be'bg |$ e^deg be'bg edeg | %41
+ ^c'e^fg fe^de c'gfe | ^db^fd B^ABd fbfd | e2>A2 (G4 P!turn!^F4) |$ E _B,C E GcGE CGEC | %45
+ F A,C F Acfc AcAF | ^F CD F AdAF DAFD | G B,D G Bdgd BdBG |$ ^G DE G BeBG EBGE | %49
+ A CE A ceae cecA | x4 !wedge![d'f']4 !wedge![c'e']4 | ([c'e']8 P!turn![bd']4) | CE Gc egfe dcBc |$ %53
+ dB^FG B,D GB dgdB | ^CEG_B ^ceg_b agfe |$ fa^cd fdA F DF Af | B,D GB dfdB GFdF | %57
+ _B,CE G ceg B, A, c'af | %58
+[I:staff +1] G,[I:staff -1] c'ge[I:staff +1] F,[I:staff -1] afd[I:staff +1] E,[I:staff -1] gec |$ %59
+[I:staff +1] D,[I:staff -1] Bdf[I:staff +1] C,[I:staff -1] ecG[I:staff +1] B,,[I:staff -1] dBG | %60
+ z ^FAc BAGF EDAC |{D} (P!turn!C4 B,4) z4 |$ z c'ge cBce gc'ge | cBce gc'ge cBce | %64
+ gc'ge cBce gc'ge |$ cBce gc'ge cBce | acBc ag^fe dcBA | BgdB G^FGB dgdB |$ %68
+ !wedge!c2>F2 (E4 P!turn!D4) |1 C4 z4 z4 :|2 C4 z4 z4 |] %71
+V:2
+"" x6 |"" x6 |"m" x6 |$"m" x6 |"" x6 |"""" x6 |$"" !wedge!G,2"m" F,4 |"" G,, G,2 F,E,D, |"m" C,6 |$ %9
+ C6 |"" B,,6 | B,6 |$"m" A,4"m" G,2 |"" ^F,6 |"" x6 |$"" D,,6 |"" D,6 |"" D,,6 |$"" D,6- | %19
+"""" D,3 D,DC |"" [B,,B,]6 |$"" [C,C]6 |"" [D,D]6 |"m" [E,E]6 |$"" [^C,^C]6 |"" [=C,=C]6 | %26
+"" !wedge!B,>""C"" D2"" D,2 |1"" G,G,, z"" x x2 :|2$"" G,G,, z"m" (B,D=F) |:"" x6 |"m" x6 |$"" x6 | %32
+"" x6 |"m" x6 |$"m" x6 |"m" A,6 |"" B,"" B,,2 A,G,^F, |"m" [E,,E,]6 |$"m" [=D,,=D,]6 | %39
+"" [C,,C,]6 |$"" [B,,,B,,]6 |"m" [^A,,,^A,,]6 |"" [=A,,,=A,,]6 |"m" G,,>"m"A,,"" B,,2"" B,,,2 |$ %44
+"" x6 |"" x6 |"" x6 |"" x6 |$"" x6 |"m" x6 |"" !wedge!B,2 z2"" !wedge!C2 |"" G,2"" G,,4 |"" x6 |$ %53
+"" x6 |"m" x6 |$"m" x6 |"" x6 |"""" x6 |"""m""" x6 |$"m""""" x6 |"m" A,,2"m" ^F,,4 | %61
+"" G,,"" G,2 =F,E,D, |$"" [E,,E,]6 |"" [F,,F,]6 |"" [G,,G,]6 |$"m" [A,,A,]6 |"" [^F,,^F,]6 | %67
+"" [=F,,=F,]6 |$"" !wedge!E,>""F,"" G,2"" G,2 |1"" C,C,, z"" !wedge!C!wedge!B,!wedge!A, :|2 %70
+"" C,2 z2 z2 |] %71
+V:3
+ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ %18
+ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |1 z2 z !wedge!=F!wedge!E!wedge!D :|2$ x6 |: x6 | %30
+ x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ %48
+ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | %66
+ x6 | x6 |$ x6 |1 x6 :|2 x6 |] %71

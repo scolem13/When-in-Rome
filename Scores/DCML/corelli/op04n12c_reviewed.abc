@@ -1,0 +1,36 @@
+X:1
+T:Sonata da camera
+T:Giga: Allegro
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3 4
+L:1/4
+M:4/4
+I:linebreak $
+K:Bmin
+V:1 treble 
+L:1/8
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ (fd)B (Fd)B cfc (Ac)f | (bB)c (dc)B ^A3 z (bf) | (ge)f (ge)g (^AF)A Bcd |$ %3
+ (GB)c (FB)^A B3 z (dB) | (ec)e (fc)f (dB)d (fd)f | (ge)g (ae)a (fd)f (af)a | (bf)b (bf)b g3 f3 |$ %7
+ fed e2 f f6 :: (af)g (af)g (ae)a (ae)a | (fa)f (da)f (bg)a (bg)a | (bf)b (bf)b (gb)g (eg)e |$ %11
+ =cec Afe (^dc)B (eB)e | (c^d)e (Fe)d (Ee)f (ge)f | (gb)g (ea)e (fd)e (fd)e |$ %14
+ (fg)f (cf)e (df)d (Bd)B | (=ce)c (^Ae)f (dB)d fbf | (^g^a)b (cb)a (Bd)B (FB)F |$ %17
+ (GB)G (FB)F EBE FBF | (GB)G (FB)^A B6 :| %19
+V:2
+ d B f F- | F E F f- | f e2 d |$ c2 B B | c c F d | e e A2 | f f B ^A |$ B2 ^A2 :: f2 e c | %9
+ A z g2 | f ^d B z |$ e =c F B | TA2 G2 | e2 A2 |$ c2 F f | g f B d | c z/ f/ d z/ d/ |$ %17
+ B z/ d/ B z/ d/ | B z/ F/ D2 :| %19
+V:3
+ B,2 A,2 | G,2 F, D, | E,2 F, G, |$ E, F, B,, B,- | B, ^A, B, D- | D C D2 | ^D2 E, F, |$ G,2 F,2 :: %8
+ D2 C A, | D z E2 | ^D B, E z |$ A,2 B, G, | A, B, E,2 | C,2 D,2 |$ ^A,,2 B,, B, | E, F, G, D, | %16
+ E, F, B,, D, |$ E, F, G, D, | E, F, B,,2 :| %19
+V:4
+"m" B,2"m" A,2 |"m""m" G,2"" F,"m" D, |"m""m" E,2"" F,"" G, |$"m" E,"" F,"m" B,,"C{" B,- | %4
+"m" B,"" ^A,"m" B,"" D- |"m" D"" C"" D2 |"" ^D2"m" E,"" F, |$"m""m" G,2"" F,2 ::"" D2"" C"" A, | %9
+"" D z"m" E2 |"" ^D"" B,"m" E z |$"m""m" A,2"" B,"m" G, |"m" A,"" B,"m" E,2 |"m""" C,2"" D,2 |$ %14
+"" ^A,,2"m" B,, B, |"" E,"" F,"" G,"m" D, |"m" E,"" F,"m" B,,"m" D, |$"m" E,"m" F,"m" G,"m" D, | %18
+"m" E,"" F,"m" B,,2 :| %19

@@ -1,0 +1,41 @@
+X:1
+T:Fantasia in B-flat Major
+C:Carl Philipp Emanuel Bach
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/4
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Harpsichord" snm="Hch."
+L:1/16
+V:4 treble 
+V:2 bass 
+L:1/8
+V:3 bass 
+V:1
+"^Allegretto" !turn!B2>d2 !wedge!c4 !turn!c2>e2 !wedge!d4 | %1
+ !turn!d2>f2 !wedge!B>d!wedge!G>c{B} P!turn!A4 !wedge!B4 |$ %2
+!p! !turn!b2>d'2 (3d'=bc' z2 !turn!c'2>e'2 (3e'^c'd' z2 | %3
+!f! !wedge!_b>d'!wedge!f>_a (a<[eg])([df]<[ce])!p! ([Bd]4 P!turn![Ac]2) z2 |$ %4
+"^"!f! !turn!f2>g2 (f2=e2){_e/4} e2(3!turn!gec (c2Md2) | %5
+ !wedge!G>e!wedge!Pd>c !wedge!Md>f!wedge!A>c{c/4} !wedge!B2!wedge!F>D{C} P!turn!B,4 |$ %6
+!p! (3Pf=ef (3_agf (f2P!turn!e2) (3_e=bc' (3c'=ae{d/f/} (e2d2) |$ %7
+!f! (3bfd (3gec (3dfB (3ecA !wedge!B2{b/4}!turn!b>c' !wedge!d'>a!wedge!b>^f |$ %8
+ !wedge!g2"^"{g/4}!turn!g>a !wedge!b>^f!wedge!g>d !wedge!e2"^"{e/4}!turn!e>=f !wedge!g>e!wedge!Pd>c |$ %9
+ !wedge!Md>f!wedge!B>d !wedge!G>e!wedge!c>A !wedge!MB2!p!{B/4}!turn!B>d !wedge!B>^FPF2 |$ %10
+ !wedge!G2"^"{G/4}!turn!G>B !wedge!G>DPD2 !wedge!E2{E/4}!turn!E>G !wedge!E>C!wedge!A,>E |$ %11
+ (3DEF (3GFE (D2P!turn!C2) !wedge!B,4 z4 |] %12
+V:2
+ [D,F,]2 !wedge!F,2 F,2 !wedge!F,2 | F,2 x2 x4 |$"" z D/>B,/"" A,F"" z A,"" B, z | %3
+"" D2"" E2"" F(F,"" F,/>)!f!E,/D,/>C,/ |$ G,2 G,2 F,2 F,2 | E,2 F,2 B,2 z2 |$ %6
+"m""m" x4"" =A,2"" B,2 |$"" D,"m"E,""F,""F,,"""C{" !wedge!B,,2 z"" D |$ %8
+"" E2 z"m" B,"m" C2 z"" A, |$"" B,""D,"" E,""F,"""C{" !wedge!B,,2 z"" D, |$ %10
+"" E,2 z"m" B,,"m" C,2 z"" F,, |$ %11
+"" B,,""E,""F,""F,,"" !wedge!B,,!wedge!F,,/>D,,/"C|PAC" !wedge!B,,,2 |] %12
+V:3
+"" B,,"" A,,"" A,,"" B,, | B,,"" D,/"m"E,/"" F,/F,,/"" B,,/B,,,/ |$ x4 | x4 |$ %4
+"" =B,,"" C,"" A,,"" _B,, | x4 |$ x4 |$ x4 |$ x4 |$ x4 |$ x4 |$ x4 |] %12
+V:4
+ x4 | x4 |$ x2 z/ F/ F/B/ | x4 |$ d c c x | x z/ E/ D x |$ [=B,_A] [_B,G] F F |$ x4 |$ x4 |$ x4 |$ %10
+ x4 |$ x4 |] %12

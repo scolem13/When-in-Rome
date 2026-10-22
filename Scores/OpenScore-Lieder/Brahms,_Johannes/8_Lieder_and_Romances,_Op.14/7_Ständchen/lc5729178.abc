@@ -1,0 +1,67 @@
+X:1
+T:8 Lieder and Romances, Op.14
+T:Ständchen
+C:Johannes Brahms
+Z:Volkslied
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/4
+Q:1/4=150
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:1
+"^Allegretto"!p! F |: G2 d | c2 f | (d g) B | A2 c | f2 f | d2 e | c2 z | z z F | G2 d | c2 f | %11
+w: 1. Gut|Nacht, gut|Nacht, mein|lieb- * ster|Schatz, gut|Nacht, schlaf|wohl, mein|Kind!|Gut|Nacht, gut|Nacht, mein|
+w: |2. wohl, schlaf|wohl und|träu- me von|mir, träum|von mir|heu- te|Nacht!|Schlaf|wohl, schlaf|wohl und|
+w: |3. singt im|Busch die|Nach- * ti-|gall im|kla- ren|Mon- den-|schein,|es|singt im|Busch die|
+ (d g) B | A2 c | f2 f | d2 e | c2 z | z z c | c2 c | (c3/2 d/) c | _e2 d | c2 c | _A2 A | %22
+w: lieb- * ster|Schatz, gut|Nacht, schlaf|wohl, mein|Kind!|Dass|dich die|En- * gel|hü- ten|all, die|in dem|
+w: träu- me von|mir träum|von mir|heu- te|Nacht!|Dass,|wenn ich|auch _ da|schla- fen|tu, mein|Herz um|
+w: Nach- * ti-|gall im|kla- ren|Mon- den-|schein,|der|Mond scheint|in _ das|Fen- ster|dir, guckt|in dein|
+ (_A3/2 G/) F | c2 z | z z c | c2 c | c2 c | (_d f) d | c2 c | c2 c | c2 c | (c B) G | F2 z | %33
+w: Him- * mel|sind!|Gut|Nacht, gut|Nacht, mein|lie- * ber|Schatz, schlaf|du, schlaf|du von|nach- * ten|lind,|
+w: dich _ doch|wacht;|dass|es in|lau- ter|Lie- * bes-|glut an|dich, an|dich der|Zeit * ge-|dacht,|
+w: Käm- * mer-|lein;|der|Mond schaut|dich im|Schlum- * mer|da, doch|ich, doch|ich muss|ziehn * al-|lein,|
+ z z G | _e3- | e2 d | (c B) G | F z z | z3 | z3 | z3 | z3 | z3 | z3 | z3 |1,2 z z F :|3 z3 |] %47
+w: schlaf|du|_ von|nach- * ten|lind!||||||||2.  Schlaf||
+w: an|dich|_ der|Zeit _ ge-|dacht.||||||||3.  Es||
+w: doch|ich|_ muss|ziehn _ al-|lein!||||||||||
+V:2
+ ([A,CF] |: .[B,DG]/).[B,DG]/ .[B,DG] ([EGd] | .[FAc]/).[FAc]/ .[FAc] ([A,CF] | %3
+ .[B,DG]/).[B,DG]/ .[B,DG] ([EGd] | .[FAc]/).[FAc]/ .[FAc] ([A,C] | %5
+ .[A,DF]/).[A,DF]/ .[A,DF] ([Adf] | .[=Bd]/).[Bd]/ .[Bd] ([=B,D] | %7
+ .[G,CE]/).[G,CE]/ .[G,CE] [Gce] | [EGc]/[EGc]/ [EGc] [A,CF] | [=B,DG]/[B,DG]/ [B,DG] [EGd] | %10
+ [FAc]/[FAc]/ [FAc] [A,CF] | [=B,DG]/[B,DG]/ [B,DG] [EGd] | [FAc]/[FAc]/ [FAc] [A,C] | %13
+ [A,DF]/[A,DF]/ [A,DF] [Adf] | [^G=Bd]/[GBd]/ [GBd][I:staff +1] [^G,=B,] | %15
+ [E,A,C]/[E,A,C]/ [E,A,C][I:staff -1] [Ace] | [EAc]/[EAc]/ [EAc] [EA] | %17
+ [^D^FA]/[DFA]/ [DFA] [DFA] | [EG_B]/[EGB]/ [EGB] [EGB] | [^D^FA]/[DFA]/ [DFA] [DFA] | %20
+ [EG_B]/[EGB]/ [EGB] [EGB] | [DF_A]/[DFA]/ [DFA] [DFA] | [=B,F_A]/[FA]/ [EG] [B,DF] | %23
+ [Ec]/[Ec]/ [CE] [Ec] | [Ec]/[Ec]/ [CE] [Ec] | [_Ec]/[Ec]/ [CE] [Ec] | [_Ec]/[Ec]/ [CE] [Ec] | %27
+ [F_d]/[Fd]/ [_DF] [Gd] | [_Ac]/[Ac]/ [C_E] [Ac] | [_Ec]/[Ec]/ [CE] [Ec] | [_Ec]/[Ec]/ [CE] [Ec] | %31
+ [_Ec]/[Ec]/ [DB] [B,=EG] | [A,F]/[A,F]/ [A,F] [A,F] | [B,_EG]/[B,EG]/ [B,EG] [B,EG] | %34
+ [FA_e]/[FAe]/ [FAe] [FAe] | [FA_e]/[FAe]/ [FAe] [FBd] | [FAc]/[FAc]/ [=EGB] [B,EG] | %37
+ [A,F]/[A,F]/ [A,F] ([fa] | .[Ac]/).[Ac]/ .[Ac] ([fa] | [Gce]/).[Gce]/ .[Gce] ([eg] | %40
+ .[FA]/).[FA]/ .[FA] ([df] | .[_EAc]/).[EAc]/ .[EAc] ([DBd] | .[=EG]/).[EG]/ .[EG] [EA] | %43
+ .[EGB]/.[EGB]/ .[EGB] [EG=B] | .[CFc]/.[CFc]/ .[CFc] [CFc] |1,2 .[CFc]/.[CFc]/ .[CFc] ([A,CF] :|3 %46
+ .[CFc]/).[CFc]/ .[CFc] .[CFc] |] %47
+V:3
+!p! (F,, |:"^leggiero" .F,/).F,/ .F, ([F,B,] | .[F,A,]/).[F,A,]/ .[F,A,] (F,, | %3
+ .F,/).F,/ .F, ([F,B,] | .[F,A,]/).[F,A,]/ .[F,A,] (F,, | .[D,,D,]/).D,/ .D, ([D,D] | %6
+ .[G,G]/).G/ .G (G,, | .[C,,C,]/).C,/ .C, C, | C/C/ C F,, | F,/F,/ F, [F,_B,] | %10
+ [F,A,]/[F,A,]/ [F,A,] F,, | F,/F,/ F, [F,_B,] | [F,A,]/[F,A,]/ [F,A,] F,, | [D,,D,]/D,/ D, [D,D] | %14
+ [E,E]/E/ E E,, | [A,,,A,,]/A,,/ A,, A,, | A,/A,/ A, C, |"^dolce" [C,,C,]/C,/ C, C, | %18
+ [C,C]/C/ C [C,C] | [C,,C,]/C,/ C, C, | [C,C]/C/ C [C,C] | [=B,,=B,]/B,/ B, B, | %22
+ [G,,G,]/G,/ G, G, | [C,,C,]/C,/ C, C, | [C,,C,]/C,/ C, C, | [_A,,,_A,,]/A,,/ A,, A,, | %26
+ [_A,,,_A,,]/A,,/ A,, A,, | [_A,,,_A,,]/A,,/ A,, A,, | [_A,,,_A,,]/A,,/ A,, A,, | %29
+!<(! [_A,,,_A,,]/A,,/ A,, A,, | [=A,,,=A,,]/A,,/ A,, A,, |!>(! [B,,,B,,]/!<)!B,,/ B,, [C,,C,]!>)! | %32
+ [F,,F,]/F,/ F,!<(! F, | [_E,,_E,]/E,/ E, E,!<)! | [C,,C,]/C,/ C, C, | %35
+!>(! [C,,C,]/C,/ C, [B,,,B,,] | [C,,C,]/C,/ C, C,!>)! | [F,,F,]/F,/ F,!p! F,- | %38
+ !arpeggio!.[F,,F,]/.F,/ .F, (F, | !arpeggio!.[C,C]/).C/ .C (C | !arpeggio!.[D,D]/).D/ .D (D | %41
+ .[F,F]/).F/ .F ([B,,B,] | !arpeggio!.[C,B,C]/).[B,C]/ .[B,C] [B,C] | %43
+ !arpeggio!.[C,B,C]/.[B,C]/ .[B,C] [B,C] | !arpeggio!.[F,,A,]/.[F,A,]/ .[F,A,] [F,A,] |1,2 %45
+ !arpeggio!.[F,,A,]/.[F,A,]/ .[F,A,] (F,, :|3 %46
+!>(! !arpeggio!.[F,,A,]/).[F,A,]/ .[F,A,]!>)! .[F,A,] |] %47

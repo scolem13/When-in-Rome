@@ -1,0 +1,69 @@
+% Selige Welt: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1585
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Selige Welt
+C:SchubertF
+%%score ( 1 2 ) ( 3 4 ) ( 5 6 7 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:none
+V:1 bass nm="pianoDown" snm="Pno"
+V:2 bass 
+V:3 bass nm="chant" snm="V"
+L:1/8
+V:4 bass 
+L:1/4
+V:5 treble nm="pianoUp" snm="Pno"
+V:6 treble 
+V:7 treble 
+L:1/4
+V:1
+ x4 |[Q:1/4=80] z4 _E,,4 C,,E,,_A,,_B,, C, z _D, z | %2
+[M:4/4] [C,,C,]4 [F,,F,]4 [_E,,_E,]4 [E,,E,]2[E,,E,]2 | [_A,,_E,]4 E,4 C,E,_A,_B, C z A, z | %4
+ _E z _B, z C8- _A,4 | G,E,F,G, _A, z [_E,_B,] z [A,C] z3 [E,B,] z3 | %6
+ [_A,,_A,]6 [=E,,=E,] z [_E,,_E,] z3 [E,,E,] z3 | [_A,,,_A,,] z3 _E,4 C,E,_A,_B, C z A, z | %8
+ _E z _B, z =B, z G,G, _A,2_E,E, =E,2_D,2 | %9
+ [_G,,_G,]6 [G,,G,]2 [B,,,B,,]4- [B,,,B,,]2[=G,,,=G,,]2 | [_G,,,_G,,]4 [G,,,G,,]4 [B,,,B,,]2 z6 | %11
+ z8 B,,,_G,,_E, z4 z | B,,,_G,,_E, z4 z _G,,,G,,_D, z4 z | _G,,,_G,,_D, z4 z G,,,G,,D, z4 z | %14
+ _G,,,_G,,_D, z4 z B,,,G,,_E, z4 z | =D,,A,,D, z4 z =G,,,D,,G,, z4 z | %16
+ B,,,_G,,B,, z4 z E,,B,,E, z4 z | =G,,,D,,G,, z4 z [C,,C,]2 z2 [_E,,_E,]4- | %18
+ [E,,E,]8 C,_E,_A,_B, C z A, z | _E z _B, z C8- _A,4 | %20
+ G,E,F,G, _A, z [_E,_B,] z [A,C] z3 [E,B,] z3 | [_A,,_A,]6 [=E,,=E,] z [_E,,_E,] z3 [E,,E,] z3 | %22
+ [_A,,,_A,,] x15 |] %23
+V:2
+ x4 | z16 |[M:4/4] z16 | z16 | z6 =E,F, G, z C, z C4 | F, z15 | z16 | z16 | z16 | z16 | z16 | z16 | %12
+ z16 | z16 | z16 | z16 | z16 | z16 | z16 | z6 =E,F, G, z C, z C4 | F, z15 | z16 | z x15 |] %23
+V:3
+ x2 |[Q:1/4=80] z8 |[M:4/4] z8 | z2 _E,2 C,/E,/_A,/_B,/ CA, | _E_B, C2 z2 _A,2 | %5
+ G,/=E,/F,/G,/ _A,_B, C2 B,2 | _A,2 z6 | z2 _E,2 C,/E,/_A,/_B,/ CA, | %8
+ _E_B, =B,G,/G,/ _A,_E, =E,_D,/D,/ | _G,3 _A,/_B,/ =B,2 z2 | z8 | z3 _G,/G,/ G,2- G,G,/G,/ | %12
+ B,_G, B,_D _B,2- B,2 | z3 _G,/G,/ G,2- G,G,/G,/ | _D_G, D_E B,2 z B, | C>A, _G,=D, B,2 z =G, | %16
+ A,>_G, _E,B,, =G,2 z2 | z8 | z2 _E,2 C,/E,/_A,/_B,/ CA, | _E_B,/B,/ C2 G,C,/C,/ _A,2 | %20
+ G,/=E,/F,/G,/ _A,_B,/B,/ C2 B,2 | _A,2 x6 |] %22
+V:4
+ x | z4 |[M:4/4] z4 | z4 | z4 | F,/4 z15/4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %17
+ z4 | z4 | z4 | F,/4 z15/4 | z x3 |] %22
+V:5
+ x4 |[Q:1/4=80] z4 _E,4 C,E,_A,_B, C z _D z |[M:4/4] [C=EG]4 [CF_A]4 C_E[CA][E_B] [Ac] z [EGB] z | %3
+ [C_E_A]4 E4 CEA_B c z A z | _e z _B z c8- _A4 | GEFG _A z [_EG_B] z [EAc] z3 [EGB] z3 | %6
+ _bg_a[b_e] [ac'] z [da=bd'] z [eac'_e'] z3 [g_b_d'e'g'] z3 | [_ac'_e'_a'] z3 _E4 CE_A_B c z A z | %8
+ _e z _B z =B z GG _A2_EE =E2_D2 | _d_B=B[d_G] [_eB]2[dG_B]2 _d'_b=b[d'_g] [_e'b]2[=d'f'fb]2 | %10
+ [_e'_g'_gb]4 [_b'_b_d'=e'g']4 [=b_e'g'=b']2[B,_E_G][B,EG] [B,EG][B,EG][B,EG][B,EG] | %11
+ [B,_E_G][B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] | %12
+ [B,_E_G][B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] [_B,=EG][B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] | %13
+ [_B,E_G][B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] | %14
+ [_B,E_G][B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] [=B,_EG][B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] | %15
+ [A,CD_G][A,CDG][A,CDG][A,CDG] [A,CDG][A,CDG][A,CDG][A,CDG] [=G,B,D=G][G,B,DG][G,B,DG][G,B,DG] [G,B,DG][G,B,DG][G,B,DG][G,B,DG] | %16
+ [B,_E_GAB][B,EGAB][B,EGAB][B,EGAB] [B,EGAB][B,EGAB][B,EGAB][B,EGAB] [B,=E=GB][B,EGB][B,EGB][B,EGB] [B,EGB][B,EGB][B,EGB][B,EGB] | %17
+ [B,DFGB][B,DFGB][B,DFGB][B,DFGB] [B,DFGB][B,DFGB][B,DFGB][B,DFGB] [C_EGc]2 z2 [E_e]4- | %18
+ [Ee]8 C_E_A_B c z A z | _e z _B z c8- _A4 | GEFG _A z [_EG_B] z [EAc] z3 [EGB] z3 | %21
+ _bg_a[b_e] [ac'] z [da=bd'] z [eac'_e'] z3 [g_b_d'e'g'] z3 | [_ac'_e'_a'] x15 |] %23
+V:6
+ x4 | z16 |[M:4/4] z16 | z16 | z6 =EF G z C z c4 | F z15 | _a z15 | z16 | z16 | =B z7 b z7 | z16 | %11
+ z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z6 =EF G z C z c4 | F z15 | _a z15 | z x15 |] %23
+V:7
+ x | z4 |[M:4/4] z4 | z4 | z4 | z4 | c3/4 z2 z z/4 | z4 | z4 | _E3/4 z z/4 _e3/4 z z/4 | z4 | z4 | %12
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | c3/4 z2 z z/4 | z/4 x15/4 |] %23

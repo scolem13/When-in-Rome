@@ -1,0 +1,46 @@
+X:1
+T:Concert Royal no. 2
+T:Air Contrefugué
+C:François Couperin
+Z:© Les Éditions Outremontaises, 2006
+%%score { 1 | 2 }
+L:1/16
+Q:1/4=108
+M:2/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="Clavecin"
+V:2 bass 
+L:1/8
+V:1
+"""^Vivement" A2A2PE2 |({E} F2)A2A2P^C2 |({^C} D2)A=B (^cd)""(Bc) |"m" (de)""(^cd) (ef)""(de) | %4
+"m" f2fe f2""c2 |$"" Md2d2 (d2Pc)B |"" PA2a2 a2"m"c'2 |"m" Mf2f2 f2""a2 |"" d2fe dcBA | %9
+"" G2""A2"" PG2>""F2 |$"" [A,CF]2"C{"c2 (c2"m"G2 |"" P^F2)(dc)"" (dc)(BA) | %12
+"m"({A} MB2)d2 (d2"m"A2 |"" P^G2)(ed) (ed)(c=B) |"m"({=B} Mc2)"m"f2 (f2c2 |$"" P=B2)""e2 (e2B2 | %16
+"" PA2)"m"d2 (d2A2 |"" P^G2)A2""({A} M=B2>)"m"c2 |"" P=B2"m"(cB) (cB)(AG) | %19
+"" P^F2""(=BA)"" (BA)""(P^GF) |$"m" E2(ed) (ed)(c=B) |"m" A2"m"(dc) (dc)"m"(=BA) | %22
+""({c} =B2)({A}^G2)"m"({G} MA2)""B2 |"m"({=B} Mc2>)"m"d2"" PB2>""A2 |"" [^CEA]2 :: %25
+"m""_Reprise" a2""a2Pe2 |$"m"({e} f2)a2"" a2P^c2 |"m"({^c} d2)"m"de"m" (^fg)""(ef) | %28
+"m" (ga)""(^fg) (ab)""(ga) |"m"({a} b2)"m"_e2 (e2B2 |$"m" PA2)"m"d2 (d2A2 |"m" PG2)"m"c2 (c2G2 | %32
+"" P^F2)""G"m"A"""^" PA2>""G2 |"m" [B,DG]2""g2"" g2d2 |"" Me2g2"" g2PB2 |$"" Mc2""cd efde | %36
+"" fg""ef ga""fg |"" abag"m" fedc |"" g2"m"Pfe"" Pd2>""c2 |"" [EGc]2"m"c'2"" c'2g2 |$ %40
+"" Ma2f2"" (f2^c2) |"" Md2b2"" (b2f2) |"m" Mg2e2"m" (e2=B2) |"" M^c2a2"" (a2e2) | %44
+"m" Mf2>g2"m" Pg2>a2 |"" [^cea]2"m" (fe) (fe)"m"(d=c) |$"" =B2""(ed) (ed)""(^cB) | %47
+"m" A2"m"(dc) (dc)"m"(BA) |"" GB""AG"m" PF2>E2 |"" [A,^CE]2"C{" A=B ^cd""Bc |"m" de""^cd ef""de | %51
+"m"({e} Mf2)d'2"" (d'2a2) |$"m" Mb2d'2"" (d'2^f2) |"m" Mg2"m"b2 (b2f2 |"m" Pe2)"m"a2 (a2e2 | %55
+"m" Pd2)"m"g2 (g2""d2 |"" P^c2)"m"d2""({d} Me2>)"m"f2 |$"" Pe2"m"fe fe"m"dc |$ %58
+"" P=B2""ed ed""P^cB |"m" A2ag agfe |"m" d2"m"gf gf"m"ed |"" P^cefg"m" aA=Bc | %62
+"m"({^c} Md2>)"m"e2"" Pe2>""d2 |1"m" !fermata![FAd]2 :|2"m" !fermata![FAd]8 |] %65
+V:2
+ z z2 | z4 | z A,A,E, | F,A,A,^C, | D,D DA, |$ B,B,/A,/ B,B,, | F, FFC | DD/C/ DA, | %8
+ B,D/C/ B,/A,/G,/F,/ | E,F, C,C,, |$ F,,F,/E,/ F,E, | D,E, ^F,D, | G,G,/F,/ G,F, | E,^F, ^G,E, | %14
+ A,D/C/ D/C/=B,/A,/ |$ G,C/=B,/ C/B,/A,/G,/ | F,=B,/A,/ B,/A,/G,/F,/ | E,^F, ^G,A, | E,A, A,E, | %19
+ D,^G, G,D, |$ C,C CG, | ^F,=B, B,=F, | E,D, C,=B,, | A,,D, E,E,, | A,, :: A,/=B,/ ^C/D/B,/C/ |$ %26
+ D/E/^C/D/ E/F/D/E/ | F DDA, | B,D D^F, | G,C/B,/ C/B,/A,/G,/ |$ ^F,_B,/A,/ B,/A,/G,/=F,/ | %31
+ E,A,/G,/ A,/G,/F,/_E,/ | D,_E,/C,/ D,D,, | G,, G,/A,/ =B,/C/A,/B,/ | C/D/=B,/C/ D/E/C/D/ |$ %35
+ EC CG, | A,C CE, | F,G, A,A,, | E,F, G,G,, | C, C/D/ E/F/D/E/ |$ FF,/G,/ A,/B,/G,/A,/ | %41
+ B,B,/C/ D/E/C/D/ | EE,/F,/ G,/A,/F,/G,/ | A,A,/=B,/ ^C/D/B,/C/ | D=C _B,2 | A, DDA, |$ G,^C CG, | %47
+ F,B, B,F, | E,^C, D,D,, | A,,A, A,E, | F,A, A,^C, | D,D,/E,/ ^F,/G,/E,/F,/ |$ %52
+ G,/A,/^F,/G,/ A,/B,/G,/A,/ | B,G/F/ G/F/E/D/ | ^CF/E/ F/E/D/=C/ | =B,E/D/ E/D/^C/B,/ | %56
+ A,=B, ^CD |$ A, DDA, |$ G,^C CG, | F, FFC | =B,E E_B, | A,/B,/A,/G,/ F,/G,/F,/E,/ | D,G, A,A,, |1 %63
+ !fermata!D, :|2 !fermata!D,4 |] %65

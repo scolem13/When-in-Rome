@@ -1,0 +1,43 @@
+X:1
+T:Variations on a Theme of Corelli
+T:Variation 7
+C:Sergei Rachmaninoff
+%%score { ( 1 2 ) | ( 3 4 5 ) }
+L:1/16
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+L:1/4
+V:5 bass 
+L:1/8
+V:1
+"^Vivace" x4 dfBf d_e_Ae | d=e=Ae ^ce^Ge cfAf | dfBf d^f=Bf dgcg |$ fg=Bg e^gcg =ea^ca | %4
+ fbdb f_a_da f=aca |$ fg=Bg e_aca =egBg | _eg_Bg =e^f=Bf _eg_Bg | d^fAf ^c=f^Gf ceA2 |$ %8
+ z4 !>!dfBf !>!d_e_Ae | !>!d=e=Ae !>!ce!>![^G=B]e !>!ce=Ge | !>!c_e_Ae !>!cd!>!Gd !>!=Bd^Fd |$ %11
+ !>!_Bc=Fc !>!Ac!>![E^G]c !>!AcFc | !>!A=BEB !>!G_BDB !>!GADA | FA^CA FGCG EG=C2 |$ %14
+!ff! z2 (a'=f' _e'c'a=f _ecA^F)!ff! | z2 (_e'b a^f_e^c A^F^CA,) | z2 (b^f e^cBG E^CB,G,) |$ %17
+[K:bass]!ff! !>!!fermata![F,D]12 |] %18
+V:2
+ z d d | d ^c/=c/ ^c | d d d |$ f e/_e/ =e | f f f |$ f e/_e/ =e | _e =e _e | d ^c/=c/ ^c |$ x3 | %9
+ x3 | x3 |$ x3 | x3 | x3 |$ [_E^FAc]3 | [_E^FA^c]3 | [=EGB^cd]3 |$[K:bass] x3 |] %18
+V:3
+ x4!ff! DFB,F D_E_A,E |"_Laissez vibrer" D=E=A,E"m" ^CE^G,E"" CFA,F | %2
+[K:treble]"" DFB,F"m" D^F=B,F"" DGCG |$"" FG=B,G"" E^G""CG"" =EA^CA |"" FBDB"" F_A_DA"" F=ACA |$ %5
+"" FG=B,G"" E_A""CA"m" =EGB,G |"" _EG_B,G"m" =E^F=B,F"" _EG_B,G |"" D^FA,F"" ^C=F^E,F"" CEA,2 |$ %8
+[K:bass] z4"""^m.d." !>!DFB,F"" !>!D_E_A,E |"" !>!D=E=A,E"" !>!CE""!>![^G,=B,]E"" !>!CE=G,E | %10
+"" !>!C_E_A,E"" !>!CD!>!G,D"m" !>!=B,D^F,D |$"" !>!_B,C=F,C"m" !>!A,C""!>![E,^G,]C"m" !>!A,C""F,C | %12
+"" !>!A,=B,E,B,"m" !>!G,_B,D,B,"m" !>!G,A,D,A, |"" F,A,^C,A,"m" F,G,C,G,"" E,G,=C,2 |$ %14
+"m" z4 [D,,,D,,]8 |"m" z4 [D,,,D,,]8 |"m" z4 [D,,,D,,]8 |$"m" !>!!fermata![D,,A,,D,]12 |] %18
+V:4
+ z D D | D ^C/=C/ ^C |[K:treble] D D D |$ F E/_E/ =E | F F F |$ F E/_E/ =E | _E =E _E | %7
+ D ^C/=C/ ^C |$[K:bass] D,3 | x3 | x3 |$ x3 | x3 | x3 |$ [C,_E,^F,A,C]3 | [^C,_E,^F,A,^C]3 | %16
+ [D,=E,G,B,D]3 |$ x3 |] %18
+V:5
+"m""""" [D,,,D,,]6 |"" x3 x x2 |[K:treble] x3 x x2 |$ x3 x x2 | x3 x x2 |$ x3 x x2 | x3 x x2 | %7
+ x3 x x2 |$[K:bass]"m" [D,,,D,,]6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 |] %18

@@ -1,0 +1,87 @@
+X:1
+T:Jugend-Lieder
+T:Lied des Gefangenen
+C:Mathilde Kralik
+Z:Ludwig Uhland
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:A
+V:1 treble nm="Singstimme\nVoice"
+L:1/4
+V:2 treble 
+V:3 treble nm="Piano"
+V:6 treble 
+V:4 treble 
+V:5 treble 
+L:1/4
+V:1
+"^Bewegt" z3 | z3 | z3 | z3 | z3 | z3 | z3 | z z E | E3/2 E/ E | c2 c | B3/2 B/ B | e2 e | %12
+w: |||||||Wie|lieb- li- cher|Klang! O|Ler- che! dein|Sang, er|
+ B3/2 B/ B | f3/2 f/ f | f B z | z z E | E3/2 E/ E | c2 c | c3/2 c/ c | f z F | F3/2 F/ F | %21
+w: hebt sich, er|schwingt sich in|Won- ne.|Du|nimmst mich von|hier, ich|sin- ge mit|dir, wir|stei- gen durch|
+ A3/2 B c/ | c F z | z3 | z2 E | E3/2 C/ E | !^!A3 | E z E | (A3 | c2 c | e3) | f2 f | g3- | g3- | %34
+w: Wol- ken zur|Son- ne,||wir|stei- gen durch|Wol-|ken, wir|stei-|gen durch|Wol-|ken zur|Son-||
+ b3- |!>(! b3!>)! | B z2 | z3 | z3 | z3 | z3 | z3 | z3 | z2 E || %44
+w: ||ne.|||||||O|
+[K:C]"^Etwas weniger bewegt." E3/2 E/ E | c2 c | B3/2 B/ B | e2 e | B3/2 B/ B | f3/2 f/ f | e B z | %51
+w: Ler- che! du|neigst dich|nie- der, du|schweigst, du|sinkst in die|blü- hen- den|Au- en.|
+ z2 E | E3/2 E/ E | c2 c | c3/2 c/ c | (c3 | =E/) z/ z z | z A c | ^D3- | D E A | !>!^D3- | D3 | %62
+w: Ich|schwei- ge zu-|mal und|sin- ke zu|Tal,|ach!|Tief in|Mo-|* der und|Grau-||
+ E z2 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 |] %71
+w: en.|||||||||
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3!<(! x3 | x3!<)! x3 | g6 | f6 | %36
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 ||[K:C] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %54
+ x6 | x2 x4 | x6 | x2 A,2 C2 | x6 | x4 A,2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %70
+ x6 |] %71
+V:3
+"^zart" (!>![ce]c') ([ce]f!<(![ce]f | [ce]f[ce]f!<)! [ce]f | [ce]f!>(![ce]f [ce]f | %3
+ [ce]f[ce]f [ce]!>)!f) | (!>![ce]c') ([ce]f[ce]f |!<(! [ce]f[ce]f [ce]f!<)! | %6
+ [ce]f[ce]f!>(! [ce]f | [ce]f[ce]f!>)! [ce]f) | ([ce]c') ([ce]f[ce]f | ([ce]c') [ce]f[ce]f) | %10
+ (([de]b) ([de]f[de]f) | ([de]b) ([de]f[de]f)) | (([de]b) ([de]f[de]f) | ([de]b) ([de]f[de]f)) | %14
+ (([de]b) [de]f[de]f | [de]f[de]f [de]f) | ([ce]!<(!c') ([ce]f[ce]f) | ([Bc]c')!<)! ([Bc]^ece) | %18
+"_cresc." ([c=e]c') ([ce]f[ce]f) | ([ce]c') ([ce]f[ce]f) | ([^df]c') ([df]g[df]g) | %21
+ ([^df]c')!<(! ([df]g[df]g)!<)! | ([^df]c') ([df]g[df]g | [^df]g [df]g[df]g) | %24
+!mf! (!^![ce]a)!p! ([ce]f[ce]f | [ce]f [ce]f[ce]f) | ([ce]a) ([ce]f[ce]f | %27
+ [ce]f[ce]f"_cresc." [ce]f) | ([ce]a) ([ce]f[ce]f) | ([ce]a) ([ce]f[ce]f) | ([ce]a) ([ce]f[ce]f) | %31
+ ([ce]a) ([ce]f[ce]f) |!ff! ([^cg]b[cg]b [cg]b | [cg]b[cg]b [cg]b) | ([^dg]b [dg]b[dg]b | %35
+ [^df]b [df]b[df]b) | ([=db]"_dim."f dfdf | df"_dim."df df | d=fdf df | dede de) |!pp! (D=FDF DF | %41
+"_rit." D=FDF DF) | (DEDE DE | DEDE DE) ||[K:C]!p! ([CE]A [CE]F[CE]F | [CE]A [CE]F[CE]F) | %46
+ ([DE]B [DE]F[DE]F | [DE]B [DE]F[DE]F) | ([DE]B [DE]F[DE]F | [DE]B [DE]F[DE]F) | %50
+ ([DE]B [DE]F[DE]F | [DE]F [DE]F[DE]F) | ([CE][Ac]"_rit." CECE | C[Ac] CECE) | (C[Ac] CECE | %55
+ C[Ac] C_ECE) | ([A,C=E]A [A,CE]F[A,CE]F | [A,CE]F [A,CE]F[A,CE]F) | (!>!EF EFEF | EF EFEF) | %60
+ (EFEF EF | EFEF EF) | (EFEF EF | EFEF EF) |[K:bass] (E,A,E,A, E,A, | E,A,E,A, E,A,) | %66
+!<(! [C,A,]6-!<)! | [C,A,]6 | [C,A,]6- |!>(! [C,A,-]6!>)! |!pp! A,6 |] %71
+V:4
+ (!>![A,A]E) (AGAG | AGAG AG | AGAG AG | AGAG AG) | (!>![A,A]E) (AGAG | AGAG AG | AGAG AG | %7
+ AGAG AG) | (([A,A]E) (AGAG) | (AE) (AGAG)) | (([A,B]E) (BGBG) | BE BGBG) | (([A,B]E) (BGBG) | %13
+ (BE) BGBG) | (([A,B]E) BGBG | BGBG BG) | ([A,A]E) (AGAG) |[K:bass] (^EC) (ECEC) | %18
+ ([F,^A]C) (AFAF) | (^AC) (AFAF) | (!arpeggio![B,,=A]^D) (AFAF) | (A^D) (AFAF) | ([B,,A]^D) (AFAF | %23
+ AF AFAF) | (!^![B,A]C) (AEAE | AE AEAE) | ([B,A]C) (AEAE | AEAE AE) | ([B,A]C) (AEAE) | %29
+ ([B,A]C) (AEAE) | ([B,A]C) (AEAE) | ([B,A]C) (AEAE) |!ped!{/[B,,B,]} (^ABAB AB | ^ABAB AB) | %34
+ ([B,=A]B ABAB | AB ABAB)!ped-up! |{/E,} (GB GBGB | GBGB GB | GBGB GB | GBGB GB) | (G,B,G,B, G,B, | %41
+ G,B,G,B, G,B,) | (G,B,G,B, G,B, | G,B,G,B, G,B,) ||[K:C] ([A,,A,]E, A,^G,A,G, | A,E, A,^G,A,G,) | %46
+ ([A,,B,]E, B,^G,B,G, | B,E, B,^G,B,G,) | ([A,,B,]E, B,^G,B,G, | B,E, B,^G,B,G,) | %50
+ ([A,,B,]E, B,^G,B,G, | B,^G, B,G,B,G,) | ([A,,A,]E, A,^G,A,G, | [G,,A,]E, A,E,A,E,) | %54
+ ([^F,,A,]E, A,E,A,E, | [=F,,A,]_E, A,E,A,E,) | ([=E,,=E,]^D, E,D,E,D, | E,^D, E,D,E,D,) | %58
+ (!>![E,,E,]^D, E,D,E,D, | E,^D, E,D,E,D,) | (!^!E,^D,E,D, E,D, | E,^D,E,D, E,D,) | %62
+ (E,^D,E,D, E,D, | E,^D,E,D, E,D,) | (C,B,,C,B,, C,B,, | C,B,,C,B,, C,B,,) | %66
+ (A,,^G,,A,,G,, A,,G,, | A,,^G,,A,,G,, A,,G,,) | (A,,^G,,A,,G,, A,,G,, | A,,^G,,A,,G,, A,,G,,) | %70
+ [A,,,A,,]6 |] %71
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %17
+[K:bass] =G,3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %34
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 ||[K:C] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %52
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | A,,,3- | A,,,3 | A,,3- | A,,3 | A,,3- | A,,3 | A,,,3- | %67
+ A,,,3 | A,,,3- | A,,,3 | x3 |] %71
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 | x6 | x6 | x6 | x6 ||[K:C] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %56
+ x6 | x6 | [A,C]6- | [A,C]6 | [A,C]6- | [A,C]6 | x6 | x6 |[K:bass] x6 | x6 | (E,F,E,F, E,F, | %67
+ E,F,E,F, E,F,) | (E,F,E,F, E,F, | E,F,E,F, E,F,) | [C,E,]6 |] %71

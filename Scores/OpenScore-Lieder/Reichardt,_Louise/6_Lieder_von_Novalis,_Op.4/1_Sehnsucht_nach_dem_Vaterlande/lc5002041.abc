@@ -1,0 +1,42 @@
+X:1
+T:Sechs Lieder von Novalis
+T:Sehnsucht nach dem Vaterlande
+C:Louise Reichardt
+Z:Novalis (Georg Friedrich Freiherr von Hardenberg)
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=65
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+L:1/4
+V:1
+"^Sehr ausdrucksvoll und langsam" G2 G2 A3 G | F3 G F2 E2 | B3 E (ED) E2 | %3
+w: 1. Bricht das mat- te|Herz noch im- mer|un- ter frem- * den|
+w: 2. Fern sind je- ne|Ju- gend- träu- me|ab- wärts  liegt * das|
+ (!turn!F2 G) A({A} G2) z2 | G3 G c3 c | (_d2 c) B (B>=A) A z | B2 =D2 C2 (G>F) | %7
+w: Him- * mel nicht|kommt der Hoff- nung|blei- * cher Schim- * mer|im- mer  noch mir *|
+w: Va- * ter- land|längst ge- fällt sind|je- * ne Bäu- * me|und das al- te *|
+ (F3 E/) C/ B,2 z2 | _A2 G2 F2 E2 | D2 E2 G F z2 |"_dim." A2 _G2 F2 E2 | D2 E2 _G F z2 | %12
+w: zu * Ge- sicht.|Darf ich wohl noch|Rück- kehr wäh- nen,|Strohm- weis' stür- zen|mei- ne Thrä- nen|
+w: Schloss * ver- brannt.|Fürch- ter- lich wie|Mee- res- wo- gen|kam ein rau- hes|Heer ge- zo- gen|
+!<(! B3 =B c2!<)!!>(! c2 | _B3!>)! D E4 |] %14
+w: bis mein Herz im|Kum- mer bricht.|
+w: und das Pa- ra-|dies ver- schwand.|
+V:2
+ [EG]B,[EG]B, [A,D]B,[A,D]B, | [A,D]B,[A,D]B, [G,E]B,[G,E]B, | %2
+ z [G,B,E][G,B,E][G,B,E] z [A,D] z [G,B,E] | [DF]B,[EG][FA] z [B,EG][B,EG][B,EG] | %4
+ z [CEG][CEG][CEG] z [CGc][CGc][CGc] | z [CGB][CGB][CGB] z [CF=A] z [C_EFA] | %6
+ z [B,FB][B,FB][B,FB] z [CEG] z [EG] | z [DF] z [=A,CEF] [B,DF](.B,.B,.B,) | %8
+ [F_A]B,[EG]B, [DF]B,EB, | DB,EB, z [B,DF][B,DF][B,DF] | [FA]B,[E_G]B, [DF]B,EB, | %11
+ DB,EB, z [B,DF][B,DF][B,DF] | z [EB][EB][E=B] z [Ec] z [CE_G] | %13
+ z [E=G] z [A,D] !fermata![G,E](.B,.B,.B,) |] %14
+V:3
+ [E,,E,]2 [E,,E,]2 | [E,,E,]2 [E,,E,]2 | [E,,E,]2 B,, [E,,E,] | B,,2 E,2 | C,2 E,2 | =E,2 F, F, | %6
+ D,2 _E, C, | F, F, B,,2- | B,,2 [B,,A,] [B,,G,] | [B,,F,A,] [B,,E,G,] [B,,,B,,]2- | %10
+ [B,,,B,,]2 [B,,A,] [B,,_G,] | [B,,F,A,] [B,,E,_G,] B,, A,, | =G,,2 A,, =A,, | %13
+ B,, B,,, !fermata![E,,E,]2 |] %14

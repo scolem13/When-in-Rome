@@ -1,0 +1,29 @@
+% St. Denio (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1291
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:St. Denio (hymntune)
+C:Traditional; Welsh melody arr. John Roberts (1822-1877), 1839
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:G
+V:1 bass nm="lower"
+V:2 bass 
+V:3 treble nm="upper"
+V:4 treble 
+V:1
+ x2 [G,,B,] | [C,G,] [C,E,] [A,,C] | [D,A,] [D,F,] [E,G,] | [D,G,] [D,G,] [D,F,] | %4
+ [G,,G,]2 [G,,B,] | [C,G,] [C,E,] [A,,C] | [D,A,] [D,F,] [E,G,] | [D,G,] [D,G,] [D,F,] | %8
+ [G,,G,]2 [G,,B,] | [G,D] [G,D] [F,A,] | [G,B,] [G,B,] [B,D]/[A,C]/ | [G,B,] [E,G,] B,,/C,/ | %12
+ [D,F,]2 [G,,G,] | [C,G,] [C,G,] [A,,C] | [D,A,] [D,F,] [E,G,] | [D,G,] [D,D] D, | [G,,B,]2 x |] %17
+V:2
+ x x2 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z2 G, | z3 | z3 | z3 | z2 D/C/ | z2 x |] %17
+V:3
+ x2 [DG] | [CE] C [EA] | [DF] D [B,G] | [DB] [DB] D/C/ | [B,G]2 [DG] | [CE] C [EA] | [DF] D [B,G] | %7
+ [DB] [DB] D/C/ | [B,G]2 [DG] | [GB] [GB] [Ad] | [DB] [DG] [DG] | [DB] [EB] [Dd] | [DA]2 [DB] | %13
+ [EG] [CE] [EA] | [DF] D [B,G] | [DB] [GB] [FA] | G2 x |] %17
+V:4
+ x x2 | z3 | z3 | z2 A | z3 | z3 | z3 | z2 A | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z2 x |] %17

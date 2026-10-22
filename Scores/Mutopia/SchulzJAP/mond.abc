@@ -1,0 +1,32 @@
+% Der Mond ist aufgegangen: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=127
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Der Mond ist aufgegangen
+C:SchulzJAP
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:F
+V:1 bass nm="men" snm="Ch"
+V:2 bass 
+V:3 treble nm="women" snm="Ch"
+V:4 treble 
+L:1/8
+V:1
+ x3 [A,F,] | [B,F,] [A,F,] [B,D,] [CC,] | [DB,,] C/B,/ [A,F,] F, | F,/G,/ [A,C,] A,/B,/ C/F,/ | %4
+ [B,G,,] [CC,] [CF,,] F,/[G,E,]/ | A,/B,/ [CC,] A,/G,/- =B,, | [CC,]3 [A,F,] | %7
+ [G,E,] [A,F,] [G,G,,] [F,A,,] | [F,B,,] [E,C,] [F,D,] F, | A,/B,/ [CA,,] D/E/ [FA,,] | %10
+ [DG,,] [CC,] [CF,] [DD,] | [E_D,] [F=D,] [DG,,] [CA,,] | [DB,,] C/B,/ [A,F,,] x |] %13
+V:2
+ x x3 | z4 | z C, z3/2 E,/ | D, z C, A,, | z4 | D, z _B,, G,/F,/ | z4 | z4 | z7/2 G,/ | %9
+ D, z B,, z | z4 | z4 | z C, z x |] %13
+V:3
+ x3 [FC] | [GD] [FC] [BF] [AF] | G2 F [AC] | [AD] [AE] d [cA] | B2 [AF] [AF] | A A [BD] [AF] | %6
+ G3 F | [GC] F B [AF] | G2 [FA,] [AC] | [AF] A d [cA] | B2 [AF] [AF] | [AG] A [BG] [AF] | %12
+ [GF] [GE] [FC] x |] %13
+V:4
+ x2 x6 | z8 | F2 E2 z4 | z4 FG z2 | FD E2 z4 | F3 E z4 | F2 E4 z2 | z2 CD DE z2 | D2 CB, z4 | %9
+ z2 EF FG z2 | F2 E2 z4 | z8 | z6 x2 |] %13

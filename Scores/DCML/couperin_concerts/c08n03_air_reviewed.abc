@@ -1,0 +1,31 @@
+X:1
+T:Nouveau Concert, ou Les Goûts-Réunis no. 8
+T:Air. Noblement
+C:François Couperin
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=120
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"m""^Noblement" d3 e"m" f2 d2 |"m" g3 a"m" Pa3 g |"" P^f4"m" z dd_e |"m" Pc3 B"" c2({B} A2) | %4
+"m"({A} MB2)"^)"({A} G2)"C{""m" d3 d |"" g3 f"m" _edcB |$"" PA2"^)" F2"" f3 f |"m" B2 G2"m" _e3 e | %8
+"""^)" e4"" Pd3 d |"m" d3 _e"m" Pc3 c |"" cdAB"m" PB3 A |1"" !fermata!A4 z4 ::2 %12
+"""^)" !fermata!A2"C{" de ^f2 d2 ||$ a3 a (Pa3 g/a/) |"m"({a} Mb4) z dgf |"" Pe2({d} c2)"" f3 f | %16
+"m" (f3 g/d/)"m"({d} M_e3) e |"" (e3 f/c/)""({c} Md3) d |"" (d3 _e/d/)"" Pc3 B | %19
+"" PA2({G} F2)"" f2"" ba |$"m" gf_ed"""" Pc3 B |"" B4 z2"C{" FG |"" PA2 AB c2 cd | %23
+"m"({d} M_e4) z2 GA |"m" B2 Bc d2 de |"m"({e} Mf4)"m" P^f3 f |"m" g3 g"" a2"m" b2 |$ %27
+"" Pa2"m" d2"m" z2"" gf |"m" _efed"m" Pc3 c |"" c2 PA2"" z2"m" d^F |"""m"({F} MG3) A"""" PA3 G |1 %31
+"m""^)" !fermata!G2"C{" de"" ^f2 d2 :|2"m" !fermata!G8 |] %33
+V:2
+ G,4 F,4 | _E,2 D,2 (PC,3 B,,/C,/) | D,2 DC B,4 | A,4 D2 D,2 |"^)" G,4 G,,2 F,,2 | %5
+ _E,,2 _E,D, C,D,E,C, |$ F,2 F,_E, D,C,B,,A,, | G,,F,_E,D, C,B,,A,,G,, | F,,4 F,3 G, | %9
+ E,4 _E,3 E, | D,4 G,,4 |1 !fermata!D,,4 z4 ::2"^Reprise" !fermata!D,,4 z4 ||$ z2 D,E, ^F,2 D,2 | %14
+ G,2 G,,A,, B,,2 G,,2 | C,2 CB, A,2 F,2 | C4 z C,D,_E, | F,F,,G,,A,, B,,B,,C,D, | %18
+ _E,4 (=E,3 D,/E,/) | F,2 F,_E, D,C, B,,2 |$ _E,F,G,E, F,2 F,,2 | B,,2 B,C D2 B,2 | %22
+ F2 F,G, A,2 F,2 | C2 C,D, _E,2 C,2 | G,2 G,,A,, B,,2 G,,2 | D,2 A,B, C2 DA, | B,2 CB, PA,3 G, |$ %27
+ ^F,2 G,F, _E,2 =B,,2 | C,2 CB, A,B,A,G, | ^F,3 E, D,C, B,,2 | _E,2 C,2 D,2 D,,2 |1 %31
+ !fermata!G,,4 D,,4 :|2 !fermata!G,,4 z4 |] %33

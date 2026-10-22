@@ -1,0 +1,57 @@
+X:1
+T:Sonata
+C:Domenico Scarlatti
+%%score { ( 1 2 4 ) | 3 }
+L:1/8
+Q:3/16=140
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Harpsichord" snm="Hch."
+L:1/16
+V:2 treble 
+V:4 treble 
+L:1/4
+V:3 bass 
+V:1
+"^Allegro" defg aA^cA d6 e2 | fdge afed ^c2a2 Ta4- | agfe dcBA B2g2 Tg4- |$ gfed cBAG A2f2 Tf4- | %4
+ fedc BAGF G2e2 Te4- | ed^c=B AGFE FDGE AFED |$ %6
+ ^C[I:staff +1]A,[I:staff -1]D[I:staff +1]=B,[I:staff -1] E[I:staff +1]^C[I:staff -1]FD GEAF =BG^cA | %7
+ d=Be^c fdge a4 Tg4 | a4 Tg4 a4 Tg4 |$ [df]dge afed [A^c]Ad=B eGFE | %10
+ [DF]DGE AFED ^C[I:staff +1]A,[I:staff -1]D[I:staff +1]=B,[I:staff -1] E[I:staff +1]^C[I:staff -1]FD | %11
+ GGFE F2TG3/2F/4G/4 AEFD E^CF2 |$ E2D2 ^C[I:staff +1]E,^C,E, TA,,4[I:staff -1] !fermata!z4 :: %13
+ A=B^cd ecfd e6 A2 |$ =BG^cA dBec [d^f]dge a=c_BA | [GB]GcA dBAG [D^F]DGE A[I:staff +1]CB,A, | %16
+ B,G,CA,[I:staff -1] D[I:staff +1]B,[I:staff -1]E[I:staff +1]C[I:staff -1] FDGE AFBG |$ %17
+ c4 TB4 c4 TB4 | c2a2B2g2 AFcA fcaf | egce GcBA BGdB gdbg |$ fadf Adc=B cAec aec'a | %21
+ ^g=beg =Bd^cB c2a2 Ta4- | agfe dcBA B2g2 Tg4- |$ gfed cBAG A2f2 Tf4- | fedc BAGF G2e2 Te4- | %25
+ ed^c=B AGFE FDGE AF_BG |$ FDGE AFBG FDGE AFBG | A2f2G2e2 A2f2G2e2 | A2f2G2e2 FDGE AF=BG |$ %29
+ ^cAde fdec dABG AFB2 | A2G2 D[I:staff +1]A,F,A, TD,4[I:staff -1] !fermata!z4 :| %31
+V:2
+ x4 D/E/F/G/ A/[I:staff +1]A,/^C/A,/ |[I:staff -1] DEFG AAAA | %2
+ [FA][FA][FA]F[I:staff +1] G,[I:staff -1][GB][GB][GB] |$ %3
+ [EG][EG][EG]E[I:staff +1] F,[I:staff -1][FA][FA][FA] | %4
+ [DF][DF][DF]D[I:staff +1] E,[I:staff -1][EG][EG][EG] | EEE x D x3 |$ x4 EFGA | %7
+ =B^cde f/d/_B/G/ e/c/A/c/ | f/d/B/G/ e/^c/A/c/ f/d/B/G/ e/c/A/c/ |$ DEFG[I:staff +1] A,=B,^CA, | %10
+ x8 | x8 |$ x8 :: x4 A,/=B,/^C/[I:staff -1]D/ E/D/F/D/ |$ GA=B^c DE^FD | x8 | x8 |$ %17
+ A/F/D/[I:staff +1]B,/[I:staff -1] G/E/C/E/ A/F/D/[I:staff +1]B,/[I:staff -1] G/E/C/E/ | %18
+ A/F/D/[I:staff +1]B,/[I:staff -1] G/E/C/E/ F[I:staff +1]F,F,F,, | %19
+ C,CC[I:staff -1]^F G[I:staff +1]G,G,G,, |$ D,[I:staff -1]DD^G A[I:staff +1]A,A,A,, | x8 | %22
+ F,,[I:staff -1][FA][FA]F[I:staff +1] G,,[I:staff -1][GB][GB][GB] |$ %23
+[I:staff +1] E,,[I:staff -1][EG][EG]E[I:staff +1] F,,[I:staff -1][FA][FA][FA] | %24
+[I:staff +1] D,,[I:staff -1][DF][DF]D[I:staff +1] E,,[I:staff -1][EG][EG][EG] | x EE x DEFG |$ %26
+ DEFG DEFG | x d x ^c x d x c | x d x ^c x4 |$ x7 G/E/ | F/D/E/^C/ x6 :| %31
+V:3
+"m""""m""" z8 |"m""m""""C{" z8 |"m""m" z8 |$"""" z8 |"""m" z8 |"" A,A,A,A,"m" D,E,F,"m"G, |$ %6
+"" A,=B,^C[I:staff -1]D[I:staff +1] z4 |"m""" z8 |"m""""m""" z8 |$"m""m""" z8 | %10
+"m" D,E,F,"m"G,"" A,=B,^C""[I:staff -1]D | %11
+"m"[I:staff +1] E,/[I:staff -1]E/D/^C/"m" D"m"[I:staff +1]B,"" A,,2 z[I:staff -1] D/[I:staff +1]=B,/ |$ %12
+ ^C/A,/=B,/^G,/ A,/ z/ z z4 ::"""""""m" z8 |$"""m""" z8 |"m" G,A,B,"m"C"" D,E,^F,D, | %16
+"m" G,A,B,C""[I:staff -1] DEFG |$""""""""[I:staff +1] z8 |"""""" z8 |"""m""m" z8 |$"m""m""m" z8 | %21
+"m" E,E,,E,,E,,"" A,,"C{"[I:staff -1]AAA |"m""m"[I:staff +1] z8 |$"""" z8 |"""m" z8 | %25
+"" A,,A,A,A,"m""m" z4 |$"m""m""m""m" z8 | %27
+"m"[I:staff -1] F/D/[I:staff +1]B,/G,/""[I:staff -1] E/^C/[I:staff +1]A,/[I:staff -1]C/"m" F/D/[I:staff +1]B,/G,/""[I:staff -1] E/C/[I:staff +1]A,/[I:staff -1]C/ | %28
+"m" F/D/[I:staff +1]B,/G,/""[I:staff -1] E/^C/[I:staff +1]A,/[I:staff -1]C/"m"[I:staff +1] D,E,F,"m"G, |$ %29
+"" A,"m"G,""A,""A,,"m" D,2 z2 | z8 :| %31
+V:4
+ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 :: x4 |$ x4 | x4 | x4 |$ x4 | %18
+ x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x2 d d |$ d x d x | x4 | x2 [Dd]/ x3/2 |$ x4 | x F/4 x11/4 :| %31

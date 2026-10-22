@@ -1,0 +1,36 @@
+% Gymnopédie No. 3: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=39
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Gymnopédie No. 3
+C:Erik Satie
+%%score ( 1 2 ) 3
+L:1/4
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Amin
+V:1 treble nm="treble"
+V:2 treble 
+V:3 bass nm="bass" snm="B"
+V:1
+ z [AEC]2 | z [GEB,]2 | z [AEC]2 | z [GEB,]2 | a3 | g f e | d e f | e d c | e3 | g2 g | d3- | d3 | %12
+ d3 | z c f | g2 a | d e f | B A G | A3 | D3- | D3 | e3 | f g f | e d e- | e3- [GEB,]2 | e d c | %25
+ B c B | A3 | z [GEB,]2 | z [AEC]2 | z [GEB,]2 | a3 | g f e | d e f | e d c | e3 | g2 g | c B A | %37
+ B2 c | d3 | e3 | z3 | z3 | g2 a | d e f | B A G | A3 | D3- | D3 | e3 | f g f | e d e- | %51
+ e3- [GEB,]2 | e d c | B c B | A3 | z [GEB,]2 | z [AEC]2 | z [GEB,]2 | [cAEC]3- | [cAEC]3 |] %60
+V:2
+ x3 | x3 | x3 | x3 | z [AEC]2 | z [AEC]2 | z [GD_B,]2 | z [FDA,]2 | x3 | x3 | z [AF]2 | x3 | %12
+ z [AF]2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z [AEC]2 | z [GEB,]2 | z [AEC]2 | x5 | z [AEC]2 | %25
+ z [GEB,]2 | z [FCA,]2 | x3 | x3 | x3 | z [AEC]2 | z [AEC]2 | z [GD_B,]2 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | z [AEC]2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z [AEC]2 | z [GEB,]2 | z [AEC]2 | x5 | %52
+ z [AEC]2 | z [GEB,]2 | z [FCA,]2 | x3 | x3 | x3 | x3 | x3 |] %60
+V:3
+ A,,3 | D,,3 | A,,3 | D,,3 | A,,3 | C,3 | G,,3 | D,,3 | A,,3 [ECA,]2 | E,,3 [EB,G,]2 | %10
+ G,,3 [B,G,D,]2 | D,,3 [FCA,]2 | G,,3 [B,G,D,]2 | D,,3 [FCA,]2 | G,,,3 [GEB,]2 | G,,,3 [FCA,]2 | %16
+ G,,,3 [ECA,]2 | D,,3 [FCA,]2 | G,,,3 [FCA,]2 | G,,,3 [GEB,]2 | C,,3 | E,,3 | C,,3 | E,,3 | C,,3 | %25
+ E,,3 | A,,3 | D,,3 | A,,3 | D,,3 | A,,3 | C,3 | G,,3 | D,,3 [FDA,]2 | A,,3 [ECA,]2 | %35
+ E,,3 [EB,G,]2 | E,,3 [FCA,]2 | E,,3 [EB,G,]2 | D,,3 [FCA,]2 | D,,3 | D,,3 [ECA,]2 | D,,3 [FCA,]2 | %42
+ G,,,3 [GEB,]2 | G,,,3 [FCA,]2 | G,,,3 [ECA,]2 | D,,3 [FCA,]2 | G,,,3 [FCA,]2 | G,,,3 [GEB,]2 | %48
+ C,,3 | E,,3 | C,,3 | E,,3 | C,,3 | E,,3 | A,,3 | D,,3 | A,,3 | D,,3 | [A,,E,,A,,,]3- | %59
+ [A,,E,,A,,,]3 |] %60

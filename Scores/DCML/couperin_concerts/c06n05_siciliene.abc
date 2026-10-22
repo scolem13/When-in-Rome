@@ -1,0 +1,36 @@
+X:1
+T:Nouveau Concert, ou Les Goûts-Réunis no. 6
+T:Siciliéne
+C:François Couperin
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=126
+M:12/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"""^Tendrement et loûré" d (dPcB)"" cFf"" (f2 Pe/>d/) |"""^)" Pd2 F"" Bcd"m" GEe"" (ePdc) | %2
+"" d"^)"B"C{"b"" (bPag)"" af""b"" (a2"m" Pg/>f/) |$"""^)" f2"" f"" def"" BG"m"g efg | %4
+"" cA""F"" BFB"" cFc"""m" Pd2"" =e |"" f3-"" (fP=ed)"" c""f""A"" (A2"" PG/>F/) | %6
+"""^)" F2"" c"" (Pd3"" c)Bc"" d""e""d |$"" PcF""c"" (Pd3"" c)B""c"" ded |"" Pc2 :: %9
+"""_Reprise" f (fPed)"" e2 e"" (ePd""c) |"" d"^)"Bb (bP_a""g)"" a2 a"" (aPg""f) | %11
+"""^)" g2"C{" B"" efg"m" c_a""g"" (g2"" Pf/>e/) |$"" e2 z"m" G2 z"" A2 z"" (P=B>=cB/c/) | %13
+"" d"^)"G"m"g"" Pf2"m" e"""^)" Pd2"m" e"" d(f/e/)"m"(d/c/) | %14
+"" P=B"^)"G"m" g (gPfe)"m" (_a""B"m"c)"" (e2"" Pd/>c/) | %15
+"m" c2"C{" e"" (ePdc)"" dBd d(e/d/)""(c/B/) |$ %16
+"" PA"^)"F"C{" f f(g/f/)""(e/d/)"" ecd"" e(f/e/)""(d/c/) |"" dB z"" F2 z"m" G2 z"" (PA>BA/B/) | %18
+"" c"^)"F"" f"" Pe2"" d"""^)" Pc2"" d"" c(e/d/)""(c/B/) |$"" PA"^)"F"" c"" (Pd3"" c)Bc"" d""e""d | %20
+"" Pc"^)"F"" c"" (Pd3"" c)Bc"" d""e""d | %21
+"" Pc"^)"F"" f"m" f""(g/f/)""(e/d/)"" PcA""B"" (d2"" Pc/>B/) |"" B2!fine! :| %23
+V:2
+ z z2 B, B,A,G, A,G,F, | B,B,,C, D,C,B,, E,D,C, F,2 F,, | B,,2 D DCB, CF,F (F2 PE/>D/) |$ %3
+ DD,F, B,CD G,E,E CDE | A,F,E, D,C,B,, A,,G,,F,, B,,G,,C, | F,,F,G, A,G,F, =E,F,B,, C,2 C,, | %6
+ F,G,A, B,CB, A,G,A, B,A,B, |$ F,G,A, B,CB, PA,G,A, B,2 B,, | F,2 :: z z2 D DCB, CB,A, | %10
+ B,B,, z z2[K:treble] G GFE FED | E[K:bass] E,F, G,F,E, _A,2 E, B,2 B,, |$ %12
+ E,[K:alto]ED CDE FED (G(PF/)E/D/C/) | =B,"^)"G,E DG,C B,"^)"G,G FG,E | %14
+ DG,[K:bass] E, E,D,C, F,G,_A, G,2 G,, | C,CB, A,G,A, B,B,,B, B,A,G, |$ %16
+ F,F,, z z2 D DE/D/C/B,/ CB,A, | B,B,,C, D,C,B,, E,D,C, (F,PE,/D,/C,/B,,/) | %18
+ PA,,F,, D CF,B, A,F,F EF,D |$ C/B,/A,/G,/F, B,CB, A,G,A, B,A,B, | F,G,A, B,CB, A,G,A, B,A,B, | %21
+ F,E,D, G,A,B, E,2 D,/E,/ F,2 F,, | B,,2 :| %23

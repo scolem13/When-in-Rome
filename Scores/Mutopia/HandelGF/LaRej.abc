@@ -1,0 +1,43 @@
+% La Réjouissance des Feux d'Artifice Royaux (Royal Fireworks): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1864
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:La Réjouissance des Feux d'Artifice Royaux (Royal Fireworks)
+C:Haëndel
+%%score 1 ( 2 3 ) 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble transpose=-2 nm="Trumpet" snm="Tpt"
+V:2 treble nm="Pipe Organ" snm="P Org"
+V:3 treble 
+L:1/16
+V:4 bass nm="Pipe Organ" snm="P Org"
+V:1
+[K:C] z7 G | cc cc c/d/e/d/ cc/d/ | ee ee e/f/g/f/ ee/f/ | gg gg g3 c' | ge z c' ge z g | %5
+ ga/g/ fe d3 g | ga/g/ fe d>e d>e | d/e/d/e/ d/e/d/e/ d3 d | e/^f/g/a/ f>g g3 z | z7 d | %10
+ de/f/ ge d3 c/e/ | d3 c/e/ d2 dg | ga/b/ c'a g3 f/a/ | g3 f/a/ g3 g | aa3/2 g/f/a/ gg3/2 f/e/g/ | %15
+ ff3/2 e/d/f/ ee3/2 d/c/e/ | dd3/2 e/f/d/ ec cd/e/ | fd de/f/ ge ef/g/ | a>f g>e fe/d/ gf | %19
+ e>d d>c c3 z |] %20
+V:2
+ z7 F | BB BB B/c/d/c/ BB/c/ | [Bd][Bd] [Bd][Bd] [Bd]/[ce]/[df]/[ce]/ [Bd][Bd]/[ce]/ | %3
+ [Bdf][Bdf] [Bdf][Bdf] [Bdf]3 [fb] | [df][Bd] z [fb] [df][Bd] z [df] | %5
+ [df][eg]/[df]/ [ce][Bd] [FAc]3 [Af] | [df][eg]/[df]/ [ce][Bd] [cf]>[df] [cf]c/d/ | %7
+ [Ac]/[Bd]/[Ac]/[Bd]/ [Ac]/[Ad]/[Ac]/[Bd]/ [Ac]3 [Ac] | [Bd]/[B=e]/[df]/[dg]/ [ce]>[cf] [Acf]3 z | %9
+ z7 [Ac] | [Ac][Bd]/[ce]/ [df][Bd] [Ac]3 [FB]/[Bd]/ | [Ac]3 [FB]/[Bd]/ [Ac]2 c[Af] | %12
+ d3 [eg] [df]3 [ce] | [df]3 [ce] [df]3 [df] | [eg][eg]3/2 [df]/[ce] [df][df]3/2 [ce]/[Bd] | %15
+ [ce][ce]3/2 [Bd]/[Ac] BF BB- | [Bc][Ac] [Ac]/[Bd]/[ce]/A/ F2 [FB][Bc]/[Bd]/ | %17
+ [ce][Ac] [Ac][Bd]/[ce]/ [df][Bd] [Bd][ce]/[df]/ | [eg]>[ce] [df]>[Bd] [Ae][Bd]/c/ [cf][Ace] | %19
+ [Bd]>c [Ac]>[FB] [DFB]3 z |] %20
+V:3
+ x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | z8 z3 B z4 | f2ga b2 z c z7 g | %13
+ z7 g z8 | z7 g z7 f | z7 e d4- d c z d | z3 G z4 d2B2 z4 | x16 | x16 | z2 G2 z12 |] %20
+V:4
+ z8 | z3 [B,,D,F,] [B,,D,F,]2 z2 | z3 [B,,D,F,] [B,,D,F,]2 z2 | z B,, D,F, B,F, D,B,, | %4
+ B,F, D,B,, B,F, D,B,, | B,B,, A,,B,, F,F,/G,/ A,F, | B,,B, A,B, F,>B,, F,>B,, | %7
+ F,F,, A,,C, F,C, A,,F,, | B,,G,, C,C,, F,,3 z | z7 F,, | F,2 D,B,, F,>G, A,B,/B,/ | %11
+ F,F,,/G,,/ A,,B,, F,>G, A,F, | B,B,, G,,E,, B,,2 G,,E,, | B,,B,,, G,,,E,,, B,,,>C,, D,,B,,, | %14
+ E,,B,,, G,,,A,,, B,,,D,, F,,B,, | C,,D,,/E,,/ F,,F,,, B,,,3 D,, | F,,F,,, F,,A,, B,, D,,2 G,, | %17
+ C,,F,, F,,E,, D,,F,, B,,B,, | E,E,, B,,D, C,B, A,F, | B,,E, F,F,, B,, B,,2 z |] %20

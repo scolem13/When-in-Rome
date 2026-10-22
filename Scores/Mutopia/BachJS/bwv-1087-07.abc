@@ -1,0 +1,27 @@
+% 14 Canons - 7: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1436
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:14 Canons - 7
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 2 3
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble nm="Violin" snm="Vln"
+V:3 bass nm="Violoncello" snm="Vc"
+L:1/4
+V:1
+ z4 z GFE | DB,CD G,4- | G,F,G,A, G,4- | G,BAG FDEF | B,2C2 DGFE | DB,CD G,4- | G,F,G,A, G,4- | %7
+ G,BAG FDEF | B,2C2 DGFE | DB,CD G,4- | G,F,G,A, G,4- | G,BAG FDEF | B,2C2 DGFE | DB,CD G,4- | %14
+ G,F,G,A, G,4- | G,BAG FDEF | B,8 |] %17
+V:2
+ z DEF GBAG | d4- d ed^c | d4- d B,=CD | EGFE B2A2 | GDEF GBAG | d4- d ed^c | d4- d B,=CD | %7
+ EGFE B2A2 | GDEF GBAG | d4- d ed^c | d4- d B,=CD | EGFE B2A2 | GDEF GBAG | d4- d ed^c | %14
+ d4- d B,=CD | EGFE B2A2 | G8 |] %17
+V:3
+ z G, | F, E, | D, B,, | C, D, | G,, G, | F, E, | D, B,, | C, D, | G,, G, | F, E, | D, B,, | %11
+ C, D, | G,, G, | F, E, | D, B,, | C, D, | G,,2 |] %17

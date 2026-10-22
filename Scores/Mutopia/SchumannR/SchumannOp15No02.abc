@@ -1,0 +1,58 @@
+% Kinderscenen - Curiose Geschichte: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=355
+% Licence: Creative Commons Attribution 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Kinderscenen - Curiose Geschichte
+C:Robert Alexander Schumann
+%%score ( 1 2 3 ) ( 4 5 )
+L:1/8
+Q:1/4=112
+M:3/4
+I:linebreak $
+K:D
+V:1 bass nm="down"
+V:2 bass 
+V:3 bass 
+L:1/4
+V:4 treble nm="up"
+V:5 treble 
+V:1
+ x4 [D,A,]2 | [E,A,] z/ [^D,A,]/ [E,A,]2 [G,A,]2 | [F,A,] z/ [=F,A,]/ [^F,A,]2 [F,A,]2 | %3
+ [E,A,] z/ [D,A,]/ [C,A,]2 [A,,A,]2 | [D,A,] z/ [E,A,]/ [F,A,]2 [D,A,]2 | %5
+ [E,A,] z/ [^D,A,]/ [E,A,]2 [G,A,]2 | [F,A,] z/ [=F,A,]/ [^F,A,]2 A,B, | CD E^F F>^G | %8
+ ^G2 [AA,]2 [D,A,]2 | [E,A,] z/ [^D,A,]/ [E,A,]2 [=G,A,]2 | [F,A,] z/ [=F,A,]/ [^F,A,]2 [F,A,]2 | %11
+ [E,A,] z/ [D,A,]/ [C,A,]2 [A,,A,]2 | [D,A,] z/ [E,A,]/ [F,A,]2 [D,A,]2 | %13
+ [E,A,] z/ [^D,A,]/ [E,A,]2 [G,A,]2 | [F,A,] z/ [=F,A,]/ [^F,A,]2 A,B, | CD E^F F>^G | %16
+ ^G2 [AA,]2 EF | =GA GF GF | E4 D2- | D2 =C2 B,2 | G,F, E,D, A,2 | %21
+ [E,A,] z/ [^D,A,]/ [E,A,]2 [G,A,]2 | [F,A,] z/ [=F,A,]/ [^F,A,]2 [F,A,]2 | %23
+ [E,A,] z/ [D,A,]/ [C,A,]2 A,2 | [D,A,] z/ [E,A,]/ [F,A,]2 [D,A,]2 | %25
+ [E,A,] z/ [^D,A,]/ [E,A,]2 [G,A,]2 | F,4 G,2 | A,4- G2- | G2 F2 EF | GA GF GF | E4 D2- | %31
+ D2 =C2 B,2 | G,F, E,D, A,2 | [E,A,] z/ [=D,A,]/ [E,A,]2 [G,A,]2 | %34
+ [F,A,] z/ [=F,A,]/ [^F,A,]2 [F,A,]2 | [E,A,] z/ [D,A,]/ [C,A,]2 A,2 | %36
+ [D,A,] z/ [E,A,]/ [F,A,]2 [D,A,]2 | [E,A,] z/ [^D,A,]/ [E,A,]2 [G,A,]2 | F,4 G,2 | A,4- G2- | %40
+ G2 F2 x2 |] %41
+V:2
+ x2 x4 | z6 | z6 | z6 | z6 | z6 | z4 F,2 | E,2 z2 E2- | E2 z4 | z6 | z6 | z6 | z6 | z6 | z4 F,2 | %15
+ E,2 z2 E2- | E2 z2 A,2 | B,4 B,2 | =CB, A,G, G,F, | G,F, E,F, G,D, | D,3 z D,^D, | z6 | z6 | %23
+ z4 A,,C, | z6 | z6 | A,B, C=D DE | FG z2 A,2 | D4 A,2 | B,4 B,2 | =CB, A,G, G,F, | %31
+ G,F, E,F, G,D, | D,3 z D,^D, | z6 | z6 | z4 A,,C, | z6 | z6 | A,B, C=D DE | FG z2 A,2 | D4 x2 |] %41
+V:3
+ x x2 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %19
+ z3 | A,2 z | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | A,2 z | z3 | z3 | z3 | z3 | %37
+ z3 | z3 | z3 | z2 x |] %41
+V:4
+ x4 [DF]2 | [BA]/ z [CF]/ [CG]2 [CB]2 | [DA]4 [Ad]2 | [Gc] z/ [FB]/ [EA]2 [GAg]2 | %4
+ [Fdf] z/ [Gce]/ [Ad]2 [DF]2 | [BA]/ z [CF]/ [CG]2 [CB]2 | [DA]4 [dA]2 | cd ef [fd]2 | %8
+ [^gd]2 [ac]2 [DF]2 | [BA]/ z [CF]/ [C=G]2 [CB]2 | [DA]4 [Ad]2 | [Gc] z/ [FB]/ [EA]2 [GAg]2 | %12
+ [Fdf] z/ [Gce]/ [Ad]2 [DF]2 | [BA]/ z [CF]/ [CG]2 [CB]2 | [DA]4 [dA]2 | cd ef [fd]2 | %16
+ [^gd]2 [ac]2 ef | =ga gf gf | [e=c]4 =dc | [BG]2 =c2 B2 | A4 F2 | [BA]/ z [^CF]/ [CG]2 [CB]2 | %22
+ [DA]4 [Ad]2 | [Gc] z/ [FB]/ [EA]2 [GAg]2 | [Fdf] z/ [Gce]/ [Ad]2 [DF]2 | %25
+ [BA]/ z [CF]/ [CG]2 [BC]2 | [DA]B cd de | f4 e2- | e2 d2 ef | ga gf gf | [e=c]4 =dc | %31
+ [BG]2 =c2 B2 | A4 F2 | [BA]/ z [^CF]/ [CG]2 [CB]2 | [DA]4 [Ad]2 | [Gc] z/ [FB]/ [EA]2 [GAg]2 | %36
+ [Fdf] z/ [Gce]/ [Ad]2 [DF]2 | [BA]/ z [CF]/ [CG]2 [BC]2 | [DA]B cd de | f4 e2 | [ec]2 d2 x2 |] %41
+V:5
+ x2 x4 | [CG] z4 z | z6 | z6 | z6 | [CG] z4 z | z4 z3/2 c/ | A4 z3/2 ^g/ | z6 | [CG] z4 z | z6 | %11
+ z6 | z6 | [CG] z4 z | z4 z3/2 c/ | A4 z3/2 ^g/ | z4 =c2 | d4 ^d2 | z4 A2 | z2 GA [DA]G | %20
+ [DG]F ED D=C | [CG] z4 z | z6 | z6 | z6 | [CG] z4 z/ A/ | z4 B2 | A2 AB Bc | c2 z2 =c2 | B4 ^d2 | %30
+ z4 A2 | z2 GA [DA]G | [DG]F ED D=C | [CG] z4 z | z6 | z6 | z6 | [CG] z4 z/ A/ | z4 B2 | A2 AB Bc | %40
+ z4 x2 |] %41

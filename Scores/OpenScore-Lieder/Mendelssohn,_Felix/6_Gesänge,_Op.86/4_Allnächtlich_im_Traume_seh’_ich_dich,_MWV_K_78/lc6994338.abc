@@ -1,0 +1,60 @@
+X:1
+T:6 Gesänge, Op.86
+T:Altdeutsches Frühlingslied, MWV K 127
+C:Felix Mendelssohn
+Z:Friedrich von Spee
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=112
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:3 bass 
+V:1
+"^Allegretto tranquillo" z8 | z8 | z8 |: z"^dolce" c A B c d f d | c6 c2 | %5
+w: |||1. Der trü- be Win- ter ist vor-|bei, die|
+w: |||2. Wo man nur schaut, fast al- le|Welt zur|
+!<(! c3!<)! c!>(! d3!>)! e | d2 c2 z c A B | c d f d c3 c |!<(! (=Bcd)!<)! e!>(! (fd) (Bc)!>)! | %9
+w: Schwal- ben wie- der-|keh- ren; nun regt sich|Al- les wie- der neu, die|Quel- * * len sich * ver- *|
+w: Freu- den sich tut|rü- sten; zum Scher- zen|Al- les ist ge- stellt, schwebt|Al- * * les fast * in *|
+ d4 c2 z2 |!p! c2 _B A B4 | (BA) G A B3 B |"^cresc." d3 d c3 c | (f2 d2) c4 | z!p! c c c =B4 | %15
+w: meh- ren.|Laub all- ge- mach|nun * schleicht an Tag; die|Blüm- lein nun sich|mel- * den;|wie Schläng- lein krumm,|
+w: Lü- sten.|Nur ich al- lein,|ich * lei- de Pein, ohn’|En- de werd’ ich|lei- * den;|seit du von mir,|
+ _B2 d B!<(! A4-!<)! | A2"^cresc." f2 e2 d2 | (c4- cBc) d | A4 G4- | G8 | z8 | z B A B (cde) f |1 %22
+w: geh’n lä- chelnd um|_ die Bäch- lein|kühl _ _ _ in|Wäl- den,|_||die Bäch- lein kühl _ _ in|
+w: und ich von dir,|_ o Lieb- ste,|muss- * * * te|schei- den,|_||seit ich von dir, _ _ o|
+ (f2 !fermata!A4- AG) | F2 z2 z4 | z2 z2 z4 | z8 | z8 :|2 f3 A A2 A2 | (!fermata!A6 G2) | F4 z4 | %30
+w: Wäl- * * *|den.|||||||
+w: |||||Lieb- ste, muss- te|schei- *|den.|
+ !fermata!z8 |] %31
+w: |
+w: |
+V:2
+!pp! z (A,CE FCB,C A,CEF ACB,C) |!<(! (A,CEG FAFD C=B,DF AB,GB,)!<)! | %2
+"_dim." z (_B,CE AB,GB,) z (G,B,C FG,EG,) |: z (A,CE FCB,C A,FB,F DFB,F) | %4
+ (A,CAG FEDC B,CAC GCB,C) | (A,CGC FCA,C) (_A,CGC FCA,C) | (G,=B,DF EDC_B,) (=A,CEF ACB,C) | %7
+ (A,FB,F DFB,F) (A,CAG FEDC) |!<(! G,FA,F =B,FC!<)!F!>(! DFB,F DFCF!>)! | =B,F=BA GFB,F EGcG EGCD | %10
+!p! _EGEG DG^FD GD^CD GD_B,G,- | G,D^F,D =E,DF,D G,A,B,^C D^FGA |"_cresc." BAGD GDGA BAG=C GCGA | %13
+ BFDF BFBF BGCG BGBG |!pp! _AGFG AFAF DEFG FGFG | EFG=A BAGF GFEF GEGE | %16
+ FDFE"^cresc." DC[I:staff +1]B,A, G,B,EG, F,A,DF, | E,G,CE,!p! _E,A,F,E, D,F,"_cresc."B,D D,G,B,D | %18
+ C,F,A,C A,F,A,F, C,=E,G,C G,E,G,E, | D,G,=B,G,!<(! B,DB,D[I:staff -1] GDG=B GBdB!<)! | %20
+!f! [_Bcg]8 [CGBc]8 | z16 | z (CAG FEDC) [=B,F]2 z2 [_B,E]2 !fermata!z2 | %23
+!pp! z (A,CE FAFD C=B,DF AB,GB,) |"_cresc." z (_B,CE AGEC B,A,CE GA,FA,) | %25
+ z (_A,=B,D GFDB, A,G,_B,D FG,EG,) |"^dim." z (G,=A,B, EG,A,B, EG,A,B, EG,A,B,) :| %27
+!pp! z (CAG FEDC FEDC =B,CDC) | [=B,F]2 z2 z4 [_B,E]2 z2 !fermata!z4 | %29
+ z (A,CF AFCA,[I:staff +1] ^G,CA,F, E,A,F,C, | %30
+ =B,,F,C,A,, ^G,,C,A,,F,,)[I:staff -1] z4 !fermata!z4 |] %31
+V:3
+ [F,,,F,,] z z2 z4 | [F,,,F,,] z z2 z4 | [F,,,F,,] z z2 [F,,,F,,] z z2 |: [F,,,F,,] z z2 z4 | %4
+ z4 [E,,,E,,] z z2 | [F,,,F,,] z z2 [F,,F,] z z2 | [G,,G,] z [C,,C,] z [F,,F,] z z2 | %7
+ z4 z2 [D,,D,] z | G,,8- | G,, z [G,,G,] z [C,,C,] z z2 | z2 [D,,D,] z [G,,,G,,] z z2 | %11
+ [D,,D,] z z2 G,, z z2 | [=F,G,B,]4 [E,G,B,]4 | [D,F,B,]4 [E,G,B,]4 | [F,,F,] z z2 [G,,G,] z z2 | %15
+ [C,,C,] z z2 [^C,,^C,] z z2 | [D,,D,] z z2 z4 | z2 [F,,,F,,]2 B,,,2 [G,,,G,,]2 | C,,8 | %19
+!ped! [G,,,G,,]8!ped-up! |!ped! !//-!E,,2 C,2 !//-!E,,2!ped-up! C,2 |!p! F,, z z2 z4 | %22
+ z4 z2 [C,,C,] !fermata!z | [F,,,F,,] z z2 [F,,,F,,] z z2 | [F,,,F,,] z z2 [F,,,F,,] z z2 | %25
+ [F,,,F,,] z z2 [F,,,F,,] z z2 | [F,,,F,,] z z2 z4 :| z8 | z4 [C,,C,] z !fermata!z2 | %29
+ [F,,,F,,] z z2 z4 | z4 F,,, z !fermata!z2 |] %31

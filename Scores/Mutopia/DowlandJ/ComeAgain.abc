@@ -1,0 +1,32 @@
+% Come Again: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1691
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Come Again
+C:John Dowland
+%%score 1 2 3 4
+L:1/4
+Q:1/4=200
+M:4/2
+I:linebreak $
+K:C
+V:1 treble nm="cantus"
+V:2 treble nm="altus"
+V:3 treble nm="tenor" snm="T"
+V:4 bass nm="bassus"
+V:1
+ z2 B3/2 c/ d4 | z2 d2 e2 d2 | c3 c B4 | z2 d2 d2 c2 | B2 B2 A4 | z2 A2 B2 G2 | A3 A A4 | %7
+[M:2/2] z D G2 | z E A2 | z ^F B2 | z G c2 |[M:6/2] z A d8- d2 |[M:4/2] z d c B A2 z B | %13
+[M:6/2] A G G3 ^F/E/ F2 G4 |] %14
+V:2
+ G3 G G4 | z2 B2 A G G2- | G2 ^F2 G4 | z2 G2 G2 E3/2 ^F/ | G3 G ^F4 | z2 ^F2 G3 D | E3 E ^F4 | %7
+[M:2/2] D4 | E2 z E | ^F2 z F | G2 z G |[M:6/2] A2 z A B6 A2 |[M:4/2] G3/2 F/ E G ^F3 G | %13
+[M:6/2] E2 B, C D3 C B,4 |] %14
+V:3
+ D3 D B,4 | z2 B,2 C2 D2 | E3 D/C/ D4 | z2 B,2 B,2 A,2 | G,2 D2 D4 | z2 D2 D3 D | D2 ^C2 D4 | %7
+[M:2/2] G,4 | G,2 z C | A,2 z D | B,2 z E |[M:6/2] D2 z C B, G, G, A, B,2 C2 | %12
+[M:4/2] D2 z G, D3 D |[M:6/2] C B, B, A,/G,/ A,3 A, G,4 |] %14
+V:4
+ G,2 G,2 G,4 | z2 G,,2 C,2 B,,2 | A,,3 A,, G,,4 | z2 G,,2 G,,2 A,,2 | B,,2 G,,2 D,4 | %5
+ z2 D,2 G,,2 B,,2 | A,,3 A,, D,4 |[M:2/2] B,,4 | C,3 C, | D,3 D, | E,3 E, | %11
+[M:6/2] ^F,3 F, G,2 G,,2 G,,2 A,,2 |[M:4/2] B,,2 C,2 D,2 B,,2 |[M:6/2] C, D, E,2 D,3 D, G,,4 |] %14

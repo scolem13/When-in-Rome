@@ -1,0 +1,40 @@
+% Sinfonia 5: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=204
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sinfonia 5
+C:Johann Sebastian Bach
+%%score ( 1 2 ) 3
+L:1/16
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble nm="up"
+V:2 treble 
+V:3 bass nm="down"
+V:1
+ z7 B e2>f2 | d7 [cF] [_dB]2>[ec]2 | [cA]7 [cG] [fA]2>[gB]2 | [eG]7 [dG] [ec]2>[fd]2 | d7 d g2>g2 | %5
+ [Bc]4 c3 c f2>f2 | [ABe-]7 e5- | [eF]4 F3 F B2>c2 | [eG]7 g c2>c2 | c12- | [cd]4 d3 [ec] [fd]4- | %11
+ [fd]3 [ec] [ec]4 [d=B]4 | c4 z3 G c2>d2 | =A7 [cB] f2>g2 | [cd]4 d3 [ec] [fd]2>[ge]2 | %15
+ [ec]2>[dB]2 [dB]4 [c=A]4 | B4 z3 b _a2>b2 | g7 [ae] b4- | [bc]3 c4 [f_d] g4- | %19
+ [gA]3 A4 [cG] [fA]2>[gB]2 | [=ec]7 [ec] [af]2>[a_e]2 | a4 g2>f2 b2>b2 | %22
+ b4 _d4 [=ec]3 [eB] [fA]3 [eG] | [fA]2>[gB]2 [fA]4 [=eG]2>[fA]2 | f4 z3 c f2>_e2 | _d12- | %26
+ g7 _d7 [ac] [dB]4- | [_dB]3 [cA] [cA]4 [BG]4 | A7 E A2>B2 | G7 [FB,] [GE]2>[AF]2 | %30
+ [BD]7 [FC] [B_D]2>[cE]2 | [AC]7 [GC] [AF]2>[BG]2 | [GE]7 [GD] [cE]2>[cF]2 | c4 B8- | %34
+ [BC]4 C3 C F2>F2 | [AB,E-]7 E5- | [EF]4 F3 F B2>c2 | [GE]12 |] %38
+V:2
+ x12 | x12 | x12 | x12 | B12- | z4 A8- | z7 G c2>c2 | z4 d8 | x12 | z7 a d2>d2 | z4 =B3 z4 z | %11
+ z8 z3 c | x12 | z8 c4- | z4 B3 z4 z | z8 z3 B | x12 | z8 _d2>e2 | z3 g =e3 z B2>c2 | %19
+ z3 f _d3 z4 z | x12 | _d12- | x16 | x12 | A7 z4 z | z7 f b2>a2 | x19 | z8 z3 A | x12 | x12 | x12 | %31
+ x12 | x12 | D7 D G2>G2 | z4 A8- | z7 G c2>c2 | z4 D8 | x12 |] %38
+V:3
+ z E,G,B, E4 C4 | z B,,D,F, B,4 G,4 | z A,,C,E, A,4 F,4 | z C,E,G, C4 =A,4 | z B,,D,F, B,4 E,4 | %5
+ z A,,C,E, A,4 D,4 | z G,,B,,D, G,4 A,4 | z B,,F,A, B,4 B,,4 | z E,,G,,B,, E,4 C,4 | %9
+ z A,,C,E, A,4 F,4 | z F,A,C F4 z =B,=A,G, | CG,_A,F, G,4 G,,4 | z C,,E,,G,, C,4 E,,4 | %13
+ z F,,=A,,C, F,4 A,,4 | z B,,D,F, B,4 G,4 | z G,=A,B, F,4 F,,4 | z B,,D,F, B,4 D,4 | %17
+ z E,G,B, E4 G,4 | z A,,C,E, A,4 =E,4 | z F,,A,,C, F,4 _D,4 | z C,=E,G, C4 A,4 | %21
+ z B,,_D,F, B,4 G,4 | z C,,=E,,G,, C,4 _D,4 | z _D,C,B,, C,4 C,,4 | z F,,A,,C, F,4 A,,4 | %25
+ z B,,_D,F, B,4 D,4 | z E,G,B, E4 z G,F,E, | A,E,F,_D, E,4 E,,4 | z A,,C,E, A,4 F,4 | %29
+ z E,,G,,B,, E,4 C,4 | z B,,D,F, B,4 G,4 | z A,,C,E, A,4 F,4 | z C,E,G, C4 =A,4 | %33
+ z B,,D,F, B,4 E,4 | z A,,C,E, A,4 D,4 | z G,,B,,D, G,4 A,4 | z B,,F,A, B,4 B,,4 | E,,12 |] %38

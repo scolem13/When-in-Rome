@@ -1,0 +1,86 @@
+X:1
+T:3 Chansons de France
+T:Rondel: Pour ce que Plaisance est morte
+C:Claude Debussy
+Z:Charles d' Orléans
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=65
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+L:1/16
+V:3 treble 
+L:1/16
+V:6 treble 
+V:4 bass 
+L:1/16
+V:5 bass 
+V:1
+"^Très modéré" z8 | z8 |$ z4 z C E E | (3C D E E4 C2 |$ D2 A2 G D E G | C2 z2 z4 |$ %6
+w: ||Pour ce que|Plai- sance est mor- te|Ce may, suis ves- tu de|noir;|
+ z _E F G E D/ E/ F F | _G G (3_A B c G2 F2 |$ z2 _A =B c c =A A | %9
+w: C'est grand pi- tié de vé- oir mon|cœur qui s'en des- con- for- te.|Je m'a- bil- le de la|
+"^Cédez un peu" ^F F/ A/ !breath!F3/2 =F/ (3_E E D _D2 |$ z4 z C E E | (3C D E E4 C2 |$ %12
+w: sor- te Que doy, pour fai- re de- voir;|Pour ce que|Plai- sance est mor- te,|
+"^1° Tempo" z D A2 G D E G | C2 z2 z4 ||$"^Très retenu" z D F F/ F/ F/ F/ !tenuto!_A2 F | %15
+w: Ce may, suis ves- tu de|noir.|Le temps ces nou- vel- les por- te|
+ c c =B3/2 B/ c e B2 |$"^au Mouv.t" z _B/ B/ _A/ A/ A/ A/ F F/ F/ E (3E/ E/ E/ | %17
+w: Qui ne veut dé- duit a- voir;|Mais par for- ce du plou- voir Fait des champs clo- re la|
+"^Très retenu" C2- C z z C E E |$ (3C D E E4 C2 | z8 |$ z8 | z8 | z8 |] %23
+w: por- te, Pour ce que|Plai- sance est mor- te.|||||
+V:2
+"^Très modéré"!p! (DEF2- F2GA GFG2-!<(! G2EG!<)! |!>(! AcA2-!>)! AGAG EGE2- EDED) |$ %2
+!pp! (CDE2- EDED) (CDE2- EDED) | !tenuto![_A,C]16 |$!pp! (DEF2- F2GA GFG2- G2EG | %5
+ AcA2- AGAG EGE2- EDED) |$ %6
+"_poco  a  poco  cresc." ([_EG][FA][G=B]2-[GB][FA][GB][FA]) ([EG][FA][GB]2-[GB][DF][=EG][FA]) | %7
+ ([_GB][_Ac][Bd]2-[Bd][Ac][Bd][Ac]) ([GB][Ac][Bd]2-[Bd][FA][=GB][Ac]) |$ %8
+!mf!!<(! ([c_e][df][eg]2- [eg][df][eg][df]-!<)! [df][ce][df][ce]- [ce][Ac][_Bd][Ac]) | %9
+"^Cédez un peu" ([^FA]"_dim."[GB][Ac]2- [Ac][Bd][Ac]2- [Ac][GB][FA]2- [FA][=F_A][=EG][_E_G]) |$ %10
+!p! (.[_A,CDF]4 .[B,DE=G]4[K:bass] .[F,A,CD]4 .[G,B,DE]4) | z16[K:treble] |$ %12
+"^1° Tempo"!p! (DEF2- F2GA GFG2-!<(! G2EG!<)! |!>(! AcA2-!>)! AGAG EGE2- EDED) ||$ %14
+"^Très retenu"!p! z (DED) z (DED) z (DED) z (DED) | %15
+!mf! x!<(! (!tenuto!FGF-)!<)! F(!tenuto!FGF-)!mf!!<(! F(!tenuto!FGF-)!<)! F(!tenuto!FGF) |$ %16
+ z!f! (FGF) z (_F_GF) z (=F=GF) z!<(! (_F_G!<)!F) |!f!"^Très retenu" C8-"_dim." CDE2- EDED |$ %18
+!p! C4- C2 z2 z8 |!pp!"_doux et expressif" (D4 =A4 G2D2E2G2) |$ %20
+!p!!<(! (!tenuto![Dd][Ee][Ff]2- [Ff]2[Gg][Aa])!<)!!pp!!>(! (!tenuto![Gg][Ff][Gg]2- [Gg]2[Ee][Gg])!>)! | %21
+!pp!!>(! ([Aa]2 [cc']4 [Aa]2-)!>)! [Aa]8- | [Adfa]16 |] %23
+V:3
+ [A,C]4 [CE]4 [=B,D]4 [_B,D]4 | [CE]4 [B,D]4 [A,C]4 [G,B,]4 |$ %2
+ ([^F,A,]2>[G,B,]2 [^G,=B,]2>[=G,_B,]2) ([F,A,]2>[G,B,]2 [^G,=B,]2>[=G,_B,]2) | x16 |$ %4
+ [=A,C]4 [CE]4 [=B,D]4 [_B,D]4 | [CE]4 [B,D]4 [A,C]4 [G,B,]4 |$ A,2>C2 =B,2D2 A,2>C2 B,4 | %7
+ C2>_E2 D2F2 C2>E2 D4 |$ x16 | x16 |$ x8[K:bass] x8 | x12 x[K:treble] x x2 |$ %12
+ [_A,C]4 [=A,^C]4 [B,D]4 [B,D]4 | [CE]4 [B,D]4 C4 [G,B,]4 ||$ %14
+ x [F,=B,]3 x [F,B,]3 x [F,B,]3 x [F,B,]3 | z [A,CE]3 z =B,3 z [A,CE]3 z B,3 |$ %16
+ x [G,_D]3 x [_A,_B,]3 x [G,D]3 x [A,B,]3 | _G,16- |$ _G,4- G,2 x2 x8 | C16 |$ %20
+ !arpeggio![Fc]8 !arpeggio![Bd]8 | [ef]8 x8 | x16 |] %23
+V:4
+!pp! !tenuto!D,4 !tenuto!D,4 !tenuto!D,4 !tenuto!D,4 | %1
+ !tenuto!D,4 !tenuto!D,4 !tenuto!D,4 !tenuto!D,4 |$ D,6 z2 D,6 z2 | %3
+ (B,,C,D,2- D,C,D,E,!<(! _G,_A,B,2- B,[I:staff -1]_A,B,!<)!C) |$ %4
+[I:staff +1] !tenuto!F,4 !tenuto!F,4 !tenuto!F,4 !tenuto!E,4 | %5
+ !tenuto!A,4 !tenuto!G,4 !tenuto!E,4 !tenuto!D,4 |$ C,2>_E,2 [G,,F,]4 C,2>E,2 [G,,F,]4 | %7
+ _E,2>_G,2 [_B,,_A,]4 E,2>G,2 F,2A,2 |$[K:treble] ([F_A]2>[GB]2 [A=B]2[FA]2 G4- G2>F2) | %9
+ ([C_E]2>[DF]2 [E_G]2>[DF]2 [CE]2>[=B,D]2 _D2>_C2) |$ %10
+[K:bass] (B,,=C,D,2- D,E,D,C,) (B,,C,D,2- D,E,D,C,) | %11
+!<(! (B,,C,D,2- D,C,D,E,!<)!!>(! _G,_A,B,2- B,[I:staff -1]_A,B,!>)!C) |$ %12
+[I:staff +1] !tenuto!F,4 !tenuto!F,4 !tenuto!F,4 !tenuto!E,4 | A,4 E,4 A,4 F,4 ||$ %14
+ ^G,,4 G,,4 G,,4 G,,4 | (G,,4 D,4) (G,,4 D,4) |$ (B,,4 _D,4) (B,,4 D,4) | %17
+ (_A,,B,,C,2- C,B,,C,B,, =A,,8) |$ _A,,B,,C,2- C,B,,C,D,!>(! _F,2_G,2_A,2B,2!>)! | x16 |$ %20
+ !arpeggio!!tenuto![B,,F,C]8 !arpeggio!!tenuto![G,,D,G,B,D]8 | %21
+ !arpeggio![EF]8[K:treble] (DF-!ppp![I:staff -1]d-f-[I:staff +1] d'4-) | [DF]16 |] %23
+V:5
+ (D,>.A,,) (D,>.A,,) (D,>.A,,) (D,>.A,,) | (D,>.A,,) (D,>.A,,) (D,>.A,,) (D,>.A,,) |$ %2
+ (D,>G,,C,,>G,,) (D,>G,,C,,>G,,) | x8 |$ (G,,>D,,) (G,,>D,,) (G,,>D,,) (G,,>C,,) | %5
+ (C,>F,,) (D,>G,,) (E,>A,,) (D,>B,,) |$ (F,,2 D,,2) (F,,2 D,,2) | (_A,,2 F,,2) (A,,2 B,,2) |$ %8
+[K:treble] x4 (C>D _E>D) | x6 _B,>_C |$[K:bass] x8 | x8 |$ %12
+ (G,,>D,,) (G,,>D,,) (G,,>D,,) (G,,>C,,) | (E,>A,,) (E,>A,,) (E,>A,,) (F,>B,,) ||$ %14
+ (^G,,>^C,,) (G,,>C,,) (G,,>C,,) (G,,>C,,) | (=G,,>G,,, D,>G,,) (G,,>G,,, D,>G,,) |$ %16
+ (_B,,>_E,, _D,>_G,,) (B,,>E,, D,>G,,) | D,,8- |$ D,,2- D,, z z4 | x8 |$ x8 | %21
+ !arpeggio![D,,A,,F,A,]4[K:treble] D4- | d'8 |] %23
+V:6
+ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x4[K:bass] x4 | x13/2[K:treble] x3/2 |$ %12
+ x8 | x8 ||$ x8 | x2 z/ ED/ x2 z/ ED/ |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |] %23

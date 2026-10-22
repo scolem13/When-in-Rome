@@ -1,0 +1,106 @@
+% Gretchen am Spinnrade: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=503
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Gretchen am Spinnrade
+C:Franz Schubert (1798-1828)
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/8
+Q:1/4=110
+M:6/8
+I:linebreak $
+K:Dmin
+V:1 treble nm="mel" snm="Cl"
+V:2 treble nm="up" snm="Pno"
+L:1/16
+V:3 treble 
+L:1/4
+V:4 bass nm="down:1" snm="Pno"
+V:5 bass 
+V:1
+ z6 | z4 FG | A4 BA | A4 z A | d4- d A | A3 z2 A | c3 G2 c | =B4 cd | d3 c2 c | f4- f =B | c3 z3 | %11
+ z6 | z4 FG | A4 BA | A3 z2 c | =B4 A_A | =A3 z2 c | A4- A _G | =G4- G =B/A/ | _G4- G A/=G/ | %20
+ E3 z2 e | e4 fe | e4 z e | e4 fe | e4 z e | f4 gf | f4 z f | _d4 cB | F2 z4 | z6 | z4 FG | A4 BA | %32
+ A4 z A | d4- d A | A3 z2 A | c3 G2 c | =B4 cd | d3 c2 c | f4- f =B | c3 z3 | z6 | z4 FG | A4 BA | %43
+ c3 A2 A | =B4 A_A | =A3 z2 A | A4 BA | c3 A3 | =B4 A_A | =A3 z2 A | A4 Bc | c4 z c | G4 AB | %53
+ A3 z FG | A4 Bc | c2 B z BB | B4 c_d | c3 z2 c | c4 d_e | d3 B3 | f4 e_e | d3 z3 | z3 d3 | %63
+ f2 d d3 | z3 d3 | f6 | z3 d3 | g6 | z6 | z6 | z6 | z6 | z4 FG | A4 BA | A3 z2 A | d4- d A | %76
+ A4 z A | c3 G2 c | =B4 cd | d3 c2 c | f4- f =B | c2 z4 | z6 | z4 z A | B4 AB | c3 B2 z | c4 _dc | %87
+ c3 z2 c | d4 _d=d | _e2 d z2 d | =e4 fe | e3 z2 e | _g4 e_e | =e4 z e | _g4 e_e | =e3 z2 e | %96
+ e4 d_d | e2 =d z2 d | e4 d_d | =d3 z2 d | d4 ef | f3 d z d | d4 ef | f3 z2 d | d4 ef | f3 d z d | %106
+ a4- a e | f3 z2 d | d4 ef | f3 d z d | a4- a _d | =d3 z3 | z6 | z4 FG | A4 BA | A3 z2 A | %116
+ d4- d A | A6 |] %118
+V:2
+ FAFEDE FAFEDE | FAFEDE FAFEDE | FAFEDE FAFEDE | FAFEDE FAFEDE | FAFEDE FAFEDE | FAFEDE FAFEDF | %6
+ GcGFEF GcGFEG | _AdAGFG AdAGFA | GcGFEF GcGFEG | _AdAGFG AdAGFA | GcGFEF GcGFEF | GcGFEG ABAGFE | %12
+ FAFEDE FAFEDE | FAFEDE FAFEDF | EAEDCD EAEDCD | E_AED=B,D EAEDB,D | E=AECA,C EAECA,=B, | %17
+ C_EC=B,A,B, CECB,A,C | =B,=EB,A,G,A, B,EB,A,G,B, | C_EC=B,A,B, CECB,A,B, | %20
+ G,=E=B,A,G,A, B,EB,A,G,A, | =B,EB,A,_A,=A, B,EB,A,_A,B, | CEC=B,=A,B, CECB,A,C | %23
+ =B,EB,A,_A,=A, B,EB,A,_A,B, | CEC=B,=A,B, CECB,A,B, | CFC_B,A,B, CFCB,A,C | DFDCB,C DFDCB,C | %27
+ _DEDB,G,B, DEDB,G,B, | CFCB,A,B, CFCB,A,B, | CFCB,A,B, _D=DEFGA | FAFEDE FAFEDE | FAFEDE FAFEDE | %32
+ FAFEDE FAFEDE | FAFEDE FAFEDE | FAFEDE FAFEDF | GcGFEF GcGFEG | _AdAGFG AdAGFA | GcGFEF GcGFEG | %38
+ _AdAGFG AdAGFA | GcGFEF GcGFEF | GcGFEG ABAGFE | FAFEDE FAFEDE | FAFEDE FAFEDF | EAEDCD EAEDCD | %44
+ E_AED=B,D EAEDB,D | E=AECA,C EAEDCE | FAFEDE FAFEDF | EAEDCD EAEDCD | E_AED=B,D EAEDB,D | %49
+ E=AECA,C EAECA,C | FAFCA,C FAFCA,C | FAFCA,C FAFCA,C | EGECB,C EGECB,C | FAFCA,C FAFCA,C | %54
+ _GAGDCD GAGDCD | =GBGDB,D GBGDB,D | GBG_E_DE GBGEDE | _AcA_ECE AcAECE | =AcAF_EF AcAFEF | %59
+ BABFDF BdBFDF | AcAF_EF AcAFEF | BdBFDF AdAFDF | _AdAFDF =AdAFDF | BdBFDF AdAFDF | %64
+ _AdAFDF =AdAFDF | [DFBd]12 | [F_A]12 | =A6 B6 | z6 B,_DB,A,G,A, | B,2 z4 B,_DB,A,G,A, | %70
+ B,2 z4 B,_DB,A,G,A, | B,_DB,A,G,A, B,D=DEFG | FAFEDE FAFEDE | FAFEDE FAFEDE | FAFEDE FAFEDE | %75
+ FAFEDE FAFEDE | FAFEDE FAFEDF | GcGFEF GcGFEG | _AdAGFG AdAGFA | GcGFEF GcGFEG | _AdAGFG AdAGFA | %81
+ GcGFEF GcGFEF | GcGFEG ABAGFE | FAFEDE FAFEDE | FBF_EDE FBFEDF | GBGF_EF GBGFEF | GcGF=EF GcGFEG | %87
+ AcAGFG AcAGFG | AdAG_G=G AdAG_GA | BdBA=GA BdBAGA | =BeBA_A=A BeBA_AB | cec=B=AB cecBAB | %92
+ c_gc=BAB cgcBAc | =BeBA_A=A BeBA_AB | c_gc=B=AB cgcBAc | =BeBA_A=A BeBA_A=A | _B_dBAGA BdBAGB | %97
+ A=dAGFG AdAGFA | B_dBAGA BdBAGB | A=dAGFG AdAFDE | FBFEDE FBFEDE | FAFEDE FAFEDE | FGFEDE FGFEDE | %103
+ FAFEDE FAFEDE | FBFEDE FBFE z E | FAFEDE FAFEDF | EAED_D=D EAED_DE | FAFE=DE FAFEDE | %108
+ FBFEDE FBFEDE | FAFEDE FAFEDF | EAED_D=D EAED_DE | FAFE=DE FAFEDE | FAFEDE FAFEDE | %113
+ FAFEDE FAFEDE | FAFEDE FAFEDE | FAFEDE FAFEDE | FAFEDE FAFEDE | FAFEDE FAFEDE | FAFEDE FAFEDE | %119
+ F12 |] %120
+V:3
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %57
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | G3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %76
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %95
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %114
+ x3 | x3 | x3 | x3 | x3 | x3 |] %120
+V:4
+ A,/ z3/2 A,/ z/ A,/ z3/2 A,/ z/ | A, z A,/ z/ A,/ z3/2 A,/ z/ | A, z A, A, z A, | %3
+ [D,A,] A,3 z A, | A, D,6- A, A, A, | [D,A,] A,3 z A, | [E,C]/ z3/2 [G,C] [E,C] z [G,C] | %7
+ [F,=B,] z [_A,B,] [F,B,] z [A,B,] | [E,C] z [G,C] [E,C] z [G,C] | %9
+ [F,=B,] z [_A,B,] [F,B,] z [A,B,] | [E,C] z [G,C] [E,C] z [G,C] | [C,E,CG,C]3 [E,A,] z A, | %12
+ A, z A, A, z A, | A, z A, A, z A, | A, z A, A, z A, | E, z E, E, z E, | E, z E, E, z E, | %17
+ =B,, z B,, B,, z B,, | =B,, z B,, B,, z B,, | =B,, z B,, B,, z B,, | =B,, z B,, B,, z B,, | %21
+ E, z E, E, z E, | E, z E, E, z E, | E, z E, E, z E, | E, z E, E, z [E,A,,] | F, z F, F, z F, | %26
+ F, z F, F, z F, | F, z F, F, z F, | F, z F, F, z F, | [F,,F,F,]3 E, z A, | A, z A, A, z A, | %31
+ A, z A, A, z A, | [D,A,]2 A,2 z A, | A, D,6- A, A, A, | [D,A,]2 A,2 z A, | %35
+ [E,C]/ z3/2 [G,C] [E,C] z [G,C] | [F,=B,] z [_A,B,] [F,B,] z [A,B,] | %37
+ [E,C] z [G,C] [E,C] z [G,C] | [F,=B,] z [_A,B,] [F,B,] z [A,B,] | [E,C] z [G,C] [E,C] z [G,C] | %40
+ [E,C] z [G,C] [A,E,] z A, | A, z A, A, z A, | A, z A, A, z A, | A, z A, A, z A, | %44
+ E, z E, E, z E, | E, z E, E, z A, | A, z A, A, z A, | A, z A, A, z A, | E, z E, E, z E, | %49
+ E, z E, E, z E, | [F,,C,F,]6 | [F,,C,F,]6 | [F,,C,]6 | [F,,C,]6 | [D,,D,]6 | [G,,D,]6 | %56
+ [_E,,_E,]6 | [_A,,_E,]6 | [F,,F,]6 | [B,,F,]6 | [F,,F,]6 | [B,,F,]6 | [B,,B,]6 | [B,,B,]6 | %64
+ [B,,B,]6 | B,6 | [=B,D]6 | [_DE]6 | A,,,6 | A,,,6 | A,,,6- | A,,,6 A,,6 | D,6 | A, z A, A, z A, | %74
+ [D,A,]2 A,2 z A, | A, z A, A, z A, | A, z A, A, z A, | [E,C]/ z3/2 [G,C] [E,C] z [G,C] | %78
+ [F,=B,] z [_A,B,] [F,B,] z [A,B,] | [E,C] z [G,C] [E,C] z [G,C] | %80
+ [F,=B,] z [_A,B,] [F,B,] z [A,B,] | [E,C]/ z3/2 [G,C] [E,C] z [G,C] | [C,E,CG,C]3 [E,A,] z A, | %83
+ A, z A, A, z A, | B,,6 | _E,6 | C,6 | F,6 | D,6 | G,6 | E,6 | E,6 | E,6 | =E,6 | E,6 | =E,6 | %96
+ A,,6 | A,,6 | A,,6 | D,6 | G,,6 | A,,6 | B,,6 | A,,6 | G,,6 | A,,6 | A,,6 | D,6 | G,,6 | A,,6 | %110
+ A,,6 | [F,D,]2 z4 | A, z A, A, z A, | A, z A, A, z A, | A, z A, A, z A, | [D,A,]2 A,2 z A, | %116
+ A, z A, A, z A, | [D,A,]2 A,2 z [A,A,,] | [A,D,] z [A,A,,] [A,D,] z [A,A,,] | [A,D,]6 |] %120
+V:5
+ D,6 | D,6 | D,6- | z2 A,,/ z/ D,3- | x10 | z2 A,,/ z/ D,3 | C,6 | C,6 | C,6 | C,6 | C,6- | %11
+ z3 A,,3 | D,6 | D,6 | A,,6 | E,,6 | A,,6 | =B,,,6 | E,,6 | =B,,,6 | E,,6 | E,,6 | E,,6 | E,,6 | %24
+ E,,4- E,, z | F,,6 | F,,6 | F,,6 | F,,6- | z3 A,,3 | D,6 | D,6- | z2 A,,/ z/ D,3- | x10 | %34
+ z2 A,,/ z/ D,3 | C,6 | C,6 | C,6 | C,6 | C,6 | C,3 A,,3 | D,6 | D,6 | A,,6 | E,,6 | A,,6 | D,6 | %47
+ A,,6 | E,,6 | A,,6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %65
+ x6 | x6 | x6 | z2 A,,4 | z2 A,,4 | z2 A,,4- | x12 | z2 A, A, z A, | D,6- | z2 A,,/ z/ D,3 | D,6 | %76
+ D,6 | C,6 | C,6 | C,6 | C,6 | C,6- | z3 A,,3 | D,6 | z2 [_A,B,] [A,B,] z [A,B,] | %85
+ z2 [G,B,] [G,B,] z [G,B,] | z2 [B,C] [B,C] z [B,C] | z2 [A,C] [A,C] z [A,C] | %88
+ z2 [CD] [CD] z [CD] | z2 [B,D] [B,D] z [B,D] | z2 [DE] [DE] z [DE] | z2 [CE] [CE] z [CE] | %92
+ z2 [C_E] [CE] z [CE] | z2 [=B,E] [B,E] z [B,E] | z2 [C_E] [CE] z [CE] | z2 [=B,E] [B,E] z [B,E] | %96
+ z2 [E,A,] [E,A,] z [E,A,] | z2 [F,A,] [F,A,] z [F,A,] | z2 [E,A,] [E,A,] z [E,A,] | %99
+ z2 [F,A,] [F,A,] z [F,A,] | z2 [D,F,] [D,F,] z [D,F,] | z2 [D,F,] [D,F,] z [D,F,] | %102
+ z2 [D,F,] [D,F,] z [D,F,] | z2 [D,F,] [D,F,] z [D,F,] | z2 [D,F,] [D,F,] z [D,F,] | %105
+ z2 [D,F,] [D,F,] z [D,F,] | z2 [E,G,] [E,G,] z [E,G,] | z2 [F,A,] [F,A,] z [F,A,] | %108
+ z2 [D,F,] [D,F,] z [D,F,] | z2 [D,F,] [D,F,] z [D,F,] | z2 [E,G,] [E,G,] z [E,G,] | x6 | D,6 | %113
+ D,6 | D,6- | z2 A,,/ z/ D,3 | D,6- | z2 A,,/ z/ D, z2 | x6 | x6 |] %120

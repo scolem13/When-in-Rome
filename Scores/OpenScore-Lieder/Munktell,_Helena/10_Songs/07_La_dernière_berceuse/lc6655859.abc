@@ -1,0 +1,70 @@
+X:1
+T:10 Songs / 10 Mélodies
+T:La dernière berceuse
+C:Helena Munktell
+Z:Helena Munktell (original Swedish)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 6 ) }
+L:1/4
+Q:1/4=92
+M:2/4
+I:linebreak $
+K:E
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:6 bass 
+V:1
+"^Andante sostenuto" z2 | z2 | z2 | z2 |!p! (e f) | (c e) | B G/ F/ | G2 |!<(! (e f)!<)! | (c e) | %10
+w: ||||Dors, _|dors, _|dors en la|paix.|Dors, _|dors _|
+!>(! d (c/B/)!>)! | B3/2 z/ |!<(! B B/ G/!<)! | c2 |!<(! c c/ A/!<)! |!mf! e2- | e!>(! B- | %17
+w: en l’es- *|poir.|Vers l’in- fi-|– ni|prends ton es-|sor,|_ dors|
+ B!>)!!pp! G/ F/ | G2 | z2 | z2 | G A/ G/ |!<(! c!<)!!>(! c!>)! |"^cresc." G A/ G/ |!<(! c2!<)! | %25
+w: _ à ja-|mais.|||L’âme à son|rê- ve|bles- se son|vol;|
+ A G/ ^E/ | G G |!f! d ^B/ F/ | A A | G"^dim." F/ D/ |!<(! F2!<)! | F E/ C/ |!>(! !fermata!E2!>)! | %33
+w: rêve est chi-|mè- re,|l’heu- re l’em-|por- te––|Tout i- ci-|bas|est vi- si-|on!|
+!p! D"^cresc." E/ D/ | G2 | G A/ G/ |!mf! c2 |!p! G G/ G/ | G2 |!<(! D D/ D/!<)! | D2- |!>(! D2- | %42
+w: Mais sur ta|nuit|bril- le sou-|dain|l’as- tre di-|vin,|l’astre é- ter-|– nel|_|
+ D!>)! z |!pp! (e f) | (c e) | d c/ B/ | B2 |!>(! B2- | B G/ F/!>)! | G2 | z2 | z2 | z2 | z2 |] %54
+w: |Dors, _|dors, _|dors en la|paix.|Dors|_ à ja-|mais!|||||
+V:2
+"^Andante sostenuto"!p! ([EGB] [B,EG]/[A,DF]/ | [B,EG]2) | ([EGB] [B,EG]/[A,DF]/ | [G,EG]2) | %4
+!pp! [G,B,E] [A,CF] | [A,C] [A,CE] | z [B,EG]/[A,DF]/ | [G,EG]2 |!<(! [G,CE] [A,CF]!<)! | %9
+[K:bass] C [F,E] |!<(! [F,B,D][K:treble] [A,CF]!<)! |!>(! [B,DG] [CEA]/[DF]/!>)! | %12
+!<(! [B,DB] [B,-E-B]/[B,EG]/!<)! | c2 |!<(! [CFAc] [CEGc]/[A,A]/!<)! |!mf! [=G=ce] z | %16
+ [^G,E] [G,B,] |!pp! [A,C] [A,B,D] | [G,E]2 | ([EGB] [B,EG]/[A,DF]/ | [G,EG]2) |[K:bass] [G,^B,]2 | %22
+ [E,G,C] [E,C] |"_cresc." [D,F,^B,]2 |!<(! [E,A,C]!<)!!>(! [E,G,C]!>)! | %25
+[K:treble] [B,^EA] [B,EG]/[B,E]/ | [B,^EG] [B,EG] |!f! [A^Bd] B/F/ | [FA]"_dim." [FA] | G F | %30
+ [^B,F]2 | ^F E/C/ | !fermata![G,CE]2 | D"_cresc." E/D/ | [B,DG]2 | [^B,DG] [B,DA]/[B,DG]/ | %36
+!mf! [CGc] [CGc] |!p! [CG]2 | G2 | [=B,D] [B,D]/[B,DG]/ |!<(! [A,DB]2!<)! | %41
+ !arpeggio![DAdf] [DAd]/[DAc]/ |!>(! [DAB] z!>)! |!pp! ([GBe] [Fcf]) | ([EAc] [EAe]) | %45
+ [FAd] [EAc]/[DAB]/ | [DAB]2 | [EB-]2 | [CB] [A,DG]/[A,DF]/ | ([G,E-G-]2 | [A,EG]) [A,EG]/[A,EF]/ | %51
+ [G,EG]2- | [G,EG][K:bass]!ppp! ([E,G,]/[E,F,]/) | !fermata![E,G,]2 |] %54
+V:3
+ z2 | z B,,- | B,,2 | B,, B,, | B,, z | [E,,E,]2 | B,,2 | B,, B,, | [C,,C,] [F,,,F,,] | %9
+ [A,,,A,,]2 | [B,,,B,,-]2 | B,,2 | F, E, | [C,,G,,E,] C, | [F,,C,A,] [C,,E,] | [=G,,E,] ^F, | %16
+ [B,,,B,,]2- | [B,,,B,,]2 | B,, B,,- | B,,2 | B,, B,, | [D,,D,] G,, | [C,,C,]2 | G,, G,, | %24
+ A,, G,,/C,,/- | [C,,-C,]2 | =D, C,/C,/- | [C,-^B,]2 | !>!^B, A,/D,/ | E, D, | %30
+ (([A,,A,] [G,,G,])) | !>![^^F,^A,C]2 |!>(! [G,,C,]2!>)! | ^^F, x | !>!D, E,/D,/ | %35
+ [G,,F,] [G,,F,]/[G,,F,]/ | ^E, F,/E,/ | [G,,=E,]2 | [G,,D,]2 | [G,,D,] [G,,D,]/[G,,D,]/ | D,2- | %41
+ [F,,B,,D,]2- | [F,,B,,D,] [F,,B,,] | z [A,C] | z [A,C] | [E,,B,,]2- | [E,,B,,] B,,- | G,2 | A, z | %49
+ B,, B,, | =C,2 | B,, B,, | !>!=C,2 | !fermata![E,,B,,]2 |] %54
+V:4
+ x4 | x4 | z2 z B,,, | E,,4 | E,,4- | x4 | E,,3 B,,, | E,,4 | x4 | x4 | x4 | B,,,2 z2 | %12
+ A,,2 G,,E,, | x2 C,2 | x4 | =C,,4 | x4 | x4 | E,,4- | E,,3 B,,, | E,,4 | x4 | x4 | C,,4 | %24
+ C,,3 C,, | x4 | C,,3 C, | x4 | C,4 | G,,4 | C,,4 | [C,,^^F,,C,]4 | C,,2 !fermata!C,,2 | [D,,D,]4 | %34
+ G,,4 | x4 | G,,4 | x4 | x4 | x4 | F,,4- | x4 | x4 | [E,,B,,]4 | [E,,E,]4 | x4 | x4 | B,,4- | %48
+ B,,4 | E,,4- | E,,4 | E,,4- | E,,4 | x4 |] %54
+V:5
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |[K:bass] x C/=C/ | x[K:treble] x | x2 | x2 | C C | %14
+ x2 | E2- | x2 | x2 | x2 | x2 | x2 |[K:bass] x2 | x A,/G,/ | x2 | x2 |[K:treble] x2 | x2 | D2 | %28
+ x2 | ^B,2 | x2 | x2 | x2 | C[I:staff +1] [^^F,^A,]/[F,A,]/ | x2 | x2 | x2 | x2 | %38
+[I:staff -1] C ^B, | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | B,!>(! B, | x2!>)! | x2 | x2 | x2 | %52
+ x[K:bass] x | x2 |] %54
+V:6
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %19
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %38
+ x2 | x2 | B,, B,,- | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %54

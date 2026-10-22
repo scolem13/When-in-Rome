@@ -1,0 +1,112 @@
+% An den Mond: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1581
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:An den Mond
+C:SchubertF
+%%score ( 1 2 ) 3 ( 4 5 )
+L:1/4
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:none
+V:1 bass nm="pianoDown" snm="Pno"
+V:2 bass 
+V:3 treble nm="chant" snm="V"
+L:1/8
+V:4 treble nm="pianoUp" snm="Pno"
+L:1/8
+V:5 treble 
+V:1
+ x |[Q:1/4=46] z [_A,D,] A, |[M:3/4] G,/ z/ [_B,=E,] B, | _A,/ z/ [_DF,] D- | %4
+ _D _E/>=E/ [_A,_E]/[_D,D]/ | [_E,C] [E,_B,] G, | _A, [A,C] [G,_B,]- | %7
+ [G,_B,] [F,_A,_D]/[_D,F,B,]/ [C,A,] | [_B,,G,] [_E,_A,C,]/[A,_B,_D,]/ [A,C]/>[B,_D]/ | %9
+ [G,_B,] [_A,C] [G,B,]- | [G,_B,] [F,_A,_D]/[_D,F,B,]/ [A,C,_E,] | %11
+ [G,_B,,_E,]/[_A,C,E,]/ [A,CE,]/>[G,E,]/ G, | _A, [A,D,] A, | G,/ z/ [B,D,]/>[_B,F,]/ [_E,B,]- | %14
+ [_E,_B,]/ z/ [B,_DE,] [G,B,]- | [G,_B,]/[_A,C]/4[B,_D]/4 [C_E_E,]/[B,DF,]/4G,/4 [B,DA,] | %16
+ [_A,C] [_E_E,=A,] [_DE,_B,]/[DE,G,]/ | [C_E,_A,] =A, _B,- | _B, _D/B,/4C/4 D | %19
+ C [_G,A,C,]/>[G,A,C,]/ [G,A,]- | [_G,A,]/[F,_B,]/ [B,_E,] [E,_A,_A,,]- | %21
+ [_E,_A,_A,,] [_G,=A,C,]/>[G,A,C,]/ [G,A,]- | [_G,A,]/[F,_B,]/ [=G,B,_D_E,] [C_A,]- | %23
+ [C_A,] [A,C] [G,_B,]- | [G,B,] [F,_A,_D]/[_D,F,_B,]/ [C,A,] | %25
+ [_B,,G,] [_E,_A,C,]/[A,_B,_D,]/ [A,C]/>[B,_D]/ | [G,_B,] [_A,C] [G,B,]- | %27
+ [G,_B,] [F,_A,_D]/[_D,F,B,]/ [A,C,_E,] | [G,_B,,_E,]/[_A,C,E,]/ [A,CE,]/>[G,E,]/ G, | %29
+ _A, [A,D,] A, | G,/ z/ [B,D,]/>[_B,F,]/ [_E,B,]- | [_E,_B,]/ z/ [B,_DE,] [G,B,]- | %32
+ [G,_B,]/[_A,C]/4[B,_D]/4 [C_E_E,]/[B,DF,]/4G,/4 [B,DA,] | [_A,C] [_E_E,=A,] [_DE,_B,]/[DE,G,]/ | %34
+ [C_E,_A,] =A, _B,- | _B, _D/B,/4C/4 D | C [_G,A,C,]/>[G,A,C,]/ [G,A,]- | %37
+ [_G,A,]/[F,_B,]/ [B,_E,] [E,_A,_A,,]- | [_E,_A,_A,,] [_G,=A,C,]/>[G,A,C,]/ [G,A,]- | %39
+ [_G,A,]/[F,_B,]/ [=G,B,_D_E,] [C_A,]- | [C_A,] [A,C] [G,_B,]- | %41
+ [G,B,] [F,_A,_D]/[_D,F,_B,]/ [C,A,] | [_B,,G,] [_E,_A,C,]/[A,_B,_D,]/ [A,C]/>[B,_D]/ | %43
+ [G,_B,] [_A,C] [G,B,]- | [G,_B,] [F,_A,_D]/[_D,F,B,]/ [A,C,_E,] | %45
+ [G,_B,,_E,]/[_A,C,E,]/ [A,CE,]/>[G,E,]/ G, | _A, [A,D,] A, | G,/ z/ [B,D,]/>[_B,F,]/ [B,_E,]- | %48
+ [_B,_E,]/ z/ [B,_DE,] [G,B,]- | [G,_B,]/[_A,=B,]/4[_B,_D]/4 [=B,_E_E,]/[_B,DF,]/4G,/4 [B,D] | %50
+ =B, [_D=E_G,] [_B,D]- | [_B,_D]/[B,D]/ [_E_G_G,]/_A,/4[D=EB,]/4 [=B,_E]- | %52
+ [B,_E] [B,E] [B,_D=E]- | [B,DE] [B,=DF] [B,_E_G]- | [B,EG] [_A,B,]/>[F,B,_D]/ [_G,B,_E]- | %55
+ [G,B,E] [_G,_B,] [_E,G,=A,C]- | [E,G,A,C]2 [=E,_A,_D]- | [E,A,D] [C,_G,_A,] A,- | %58
+ _A, _B, [_E,=G,B,]- | [_E,G,_B,] [E,_A,C] [E,G,B,]- | [E,G,B,] [_E,_A,C] [E,G,_B,]- | %61
+ [E,G,B,] [G,_B,_D]- [G,B,D]- | [G,B,D] [_E_A,C] F- | F/_E/ [_DF,_A,]/[_B,_D,F,]/ [C,A,] | %64
+ [_B,,G,] [_A,C,_E,]/[_B,_D,A,]/ [A,C]/>[B,_D]/ | [G,_B,] [_E_A,C] F- | %66
+ F/_E/ [_DF,_A,]/[_B,_D,F,]/ [_E,A,C,] | [_E,G,_B,,]/[E,_A,C,]/ [CE,A,]/>[_DE,G,]/ [G,DE,] | %68
+ [C_A,] [_B,_D_E,] [G,B,]- | [G,_B,]/[_A,C]/4[B,_D]/4 [C_E_E,]/[B,DF,]/4G,/4 [B,D] | %70
+ C [_E_E,=A,] [E,_B,_D]/[E,G,D]/ | [_E,_A,C] [=A,E,] [_B,E,]- | [B,E,] _D/_B,/4C/4 D | %73
+ C [_G,A,C,]/>[G,A,C,]/ [G,A,]- | [_G,A,]/[F,_B,]/ [_E,B,] [E,_A,_A,,]- | %75
+ [_E,_A,_A,,] [_G,=A,C,]/>[G,A,C,]/ [G,A,]- |[Q:1/4=42] [_G,A,]/[F,_B,]/ [_E,=G,B,_D] [_A,C]- | %77
+[Q:1/4=34] [_A,C] [_A,,_E,A,] [A,,E,A,]- | [A,,E,A,]2 x |] %79
+V:2
+ x | z7/4 C/4 _E,- |[M:3/4] _E,/ z z/4 _D/4 F,- | F,/ z z/4 F/4 G,- | G,2 z | z2 [_A,,_E,]- | %6
+ [_A,,_E,] z2 | z2 _E,- | _E, z E,- | _E, z2 | z3 | z2 [_A,,_E,]- | [_A,,_E,] z3/4 C/4 E,- | %13
+ E,/ z2 z/ | z7/4 [_A,C]/4 _E,- | _E, z2 | z3 | z _E,- E,- | _E, =E, F,- | F, z _D,- | _D, z2 | %21
+ z2 _D,- | _D, z2 | z3 | z2 _E,- | _E, z E,- | _E, z2 | z3 | z2 [_A,,_E,]- | %29
+ [_A,,_E,] z3/4 C/4 E,- | E,/ z2 z/ | z7/4 [_A,C]/4 _E,- | _E, z2 | z3 | z _E,- E,- | _E, =E, F,- | %36
+ F, z _D,- | _D, z2 | z2 _D,- | _D, z2 | z3 | z2 _E,- | _E, z E,- | _E, z2 | z3 | z2 [_A,,_E,]- | %46
+ [_A,,_E,] z3/4 C/4 E,- | E,/ z2 z/ | z7/4 [_A,=B,]/4 _E,- | _E, z _A,- | _A, z3/4 [=B,_E]/4 _G,- | %51
+ _G, z2 | z3 | z3 | z3 | z3 | z3 | z2 [_D,E,]- | [_D,=E,]2 z | z3 | z3 | z3 | z7/4 F/4 [G,_B,]- | %63
+ [G,_B,] z _E,- | _E, z E,- | _E, z3/4 F/4 [G,_B,]- | [G,_B,] z2 | z3 | z7/4 [_A,C]/4 _E,- | %69
+ _E, z _A,- | _A, z2 | z3 | z =E, F,- | F, z _D,- | _D, z2 | z2 _D,- | _D, z2 | z3 | z2 x |] %79
+V:3
+ x2 |[K:Ab][M:3/4][M:3/4] x2[Q:1/4=46] x2 x2 |[M:3/4] x6 | x6 | x6 | x6 | x2 _e>f f2- | %7
+ f_e _d_B _A2 | G2 _A_B c>_d | _B2 _e>f f2- | f_e _d_B _A2 | G_A c>_B B2 | _A2 x4 | x6 | %14
+ x2 _d>c _B2- | Bc/_d/ _e>d d2 | c2 f>c _df/_e/ | c2 c>c _e2- | e_d _Bd/c/ B2 | _A2 =A>A A2- | %20
+ A_B _d>G _A2- | A2 x4 | x6 | x2 _e>f f2- | f_e _d_B _A2 | G2 _A_B c>_d | _B2 _e>f f2- | %27
+ f_e _d_B _A2 | G_A c>_B B2 | _A2 x4 | x6 | x2 _d>c _B2- | Bc/_d/ _e>d d2 | c2 f>c _df/_e/ | %34
+ c2 c>c _e2- | e_d _Bd/c/ B2 | _A2 =A>A A2- | A_B _d>G _A2- | A2 x4 | x6 | x2 _e>f f2- | %41
+ f_e _d_B _A2 | G2 _A_B c>_d | _B2 _e>f f2- | f_e _d_B _A2 | G_A c>_B B2 | _A2 x4 | x6 | %48
+ x2 _d>=B _B2- | B=B/_d/ _e>d d2 | =B2 =e>_e _d2- | d_d _g>=e _e2- | e2 _e>e =e2- | e=e f>f _g2 | %54
+ _e2 =B>_d e2- | e3 _d c2 | c>c cc _e>_d | _d2 _e>_A _g>=e | =e2 e>_d _B2- | B_B c/_e/_d/c/ B2 | %60
+ _B_d c/_e/d/c/ B2 | x6 | x2 _e>f f2- | f_e _d_B _A2 | G2 _A_B c>_d | _B2 _e>f f2- | %66
+ f_e e/_d/d/_B/ _A2 | G_A c>_B B2 | _A2 _E>E E2- | E_E EF/G/ _A2- | A2 =A>A _BG | _A2 _G>G F2- | %72
+ FF =G=E F2- | F2 _E2- E2- | E_D/C/ _B,_E _A,2 | x2 _e2- e2- | e_d/c/[Q:1/4=42] _B_e _A2- | %77
+ A2[Q:1/4=34] x4 |] %78
+V:4
+ x2 |[Q:1/4=46] z2 [cF]2 c2 |[M:3/4] _B z [_dG]2 [dG]2 | [c_A] z [fA]2 f2- | f=e _e_d [c_A][dF] | %5
+ [_A_E]2 [G_DE]2 [D_B]2 | [C_A]2 [_e_E]>[fF] [fF]2- | [fF][_e_E] _d_B _A2 | G2 _A_B c>_d | %9
+ _B2 [_e_E]>[fF] [fF]2- | [fF][_e_E] _d_B _A2 | G_A [_Ec]>[_DE_B] [DB]2 | [C_A]2 [cF]2 c2 | %13
+ _B z [f_A]2 [fA]2 | [_eG] z [_d_E]2 _B2- | _Bc/_d/ _ed d2 | c2 [fF]2 [_dF][f_E_B] | %17
+ [c_E]2 [c_G]2 _e2- | _e_d _Bd/c/ [B=G]2 | _A2 [_G=A]>[GA] [GA]2- | [GA][F_B] [_D=G]2 [C_A]2- | %21
+ [CA]2 [=A=a]>[Aa] [Aa]2- | [Aa][_B_b] [_d_d']>[Gg] [_A_a]2- | [Aa]2 [_e_E]>[fF] [fF]2- | %24
+ [fF][_e_E] _d_B _A2 | G2 _A_B c>_d | _B2 [_e_E]>[fF] [fF]2- | [fF][_e_E] _d_B _A2 | %28
+ G_A [_Ec]>[_DE_B] [DB]2 | [C_A]2 [cF]2 c2 | _B z [f_A]2 [fA]2 | [_eG] z [_d_E]2 _B2- | %32
+ _Bc/_d/ _ed d2 | c2 [fF]2 [_dF][f_E_B] | [c_E]2 [c_G]2 _e2- | _e_d _Bd/c/ [B=G]2 | %36
+ _A2 [_G=A]>[GA] [GA]2- | [GA][F_B] [_D=G]2 [C_A]2- | [CA]2 [=A=a]>[Aa] [Aa]2- | %39
+ [Aa][_B_b] [_d_d']>[Gg] [_A_a]2- | [Aa]2 [_e_E]>[fF] [fF]2- | [fF][_e_E] _d_B _A2 | G2 _A_B c>_d | %43
+ _B2 [_e_E]>[fF] [fF]2- | [fF][_e_E] _d_B _A2 | G_A [_Ec]>[_DE_B] [DB]2 | [C_A]2 [cF]2 c2 | %47
+ _B z [f_A]2 [fA]2 | [_eG] z [_d_E]2 _B2- | _B=B/_d/ [_e_E]2 d2 | =B2 [=e_G]2 _d2- | %51
+ _dd [_g_G]2 [G_e]e/=B/ | _G/=B/_e/B/ G/B/e/B/ G/_d/=e/d/ | _G/_d/=e/d/ G/=d/f/d/ G/_e/_g/e/ | %54
+ _G/=B/_e/B/ _E/_A/B/A/ G/B/e/B/ | _G/=B/_e/B/ =E/G/_B/G/ G/=A/c/A/ | %56
+ _G/=A/c/A/ G/A/c/A/ =E/_A/_d/A/ | =E/_A/_d/A/ _G/A/_e/A/ E/A/=e/A/ | %58
+ =E/_A/=e/A/ E/_B/_d/B/ _E/=G/B/G/ | _E/G/_B/G/ E/c/B/_A/ B2- | _B_d c/_e/d/c/ B2- | %61
+ _B/_d/c/B/ [fF]>[=e=E] [_e_E]2- | [_e_E]2 [e_e']>[ff'] [ff']2- | %63
+ [ff'][_e_e'] [_d_d'][_B_b] [_A_a]2 | [Gg]2 [_A_a][_B_b] [cc']>[_d_d'] | %65
+ [_B_b]2 [_e_e']>[ff'] [ff']2- | [ff'][_e_e'] [ee']/[_d_d']/[dd']/[_B_b]/ [_A_a]2 | %67
+ [Gg][_A_a] [cc']>[_B_b] [Bb]2 | [_A_a]2 [_d_E]2 _B2- | _Bc/_d/ _ed d2 | c2 [fFc]>c [_dF][f_E_B] | %71
+ [c_E]2 [c_G]2 _e2- | _e_d _Bd/c/ [B=G]2 | _A2 [_G=A]>[GA] [GA]2- | [GA][F_B] [_d_D=G]>G [C_A]2- | %75
+ [CA]2 [=A=a]>[Aa] [Aa]2- |[Q:1/4=42] [Aa][_B_b] [_d_d']>[Gg] [_A_a]2- | %77
+[Q:1/4=34] [Aa]2 [C_Ec]2 [CE_A]2- | [CEA]4 x2 |] %79
+V:5
+ x | z7/4 _A/4 _E- |[M:3/4] _E/ z z/4 _B/4 z | z7/4 _d/4 _B- | _B2 z/4 _e/4 z/4 B/4 | z2 _E- | %6
+ _E z2 | z3 | z3 | z3 | z3 | z2 _E- | _E z3/4 _A/4 E- | _E/ z z/4 =d/4 z | z7/4 c/4 _E- | _E E E- | %16
+ _E z3/4 c/4 z3/4 _e/4 | z2 F- | F G z | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z2 _E- | %29
+ _E z3/4 _A/4 E- | _E/ z z/4 =d/4 z | z7/4 c/4 _E- | _E E E- | _E z3/4 c/4 z3/4 _e/4 | z2 F- | %35
+ F G z | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z2 _E- | _E z3/4 _A/4 E- | _E/ z z/4 =d/4 z | %48
+ z7/4 =B/4 _E- | _E z3/4 _d/4 E- | _E z3/4 _e/4 _G- | _G z3/4 =e/4 z | z3 | z3 | z3 | z3 | z3 | %57
+ z3 | z3 | z2 _E- | _E E E- | E z2 | z3 | z3 | z3 | z3 | z3 | z3 | z7/4 c/4 _E- | _E E E- | %70
+ _E z7/4 _e/4 | z2 F- | F G z | z3 | z3 | z3 | z3 | z3 | z2 x |] %79

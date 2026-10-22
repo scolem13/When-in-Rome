@@ -1,0 +1,69 @@
+X:1
+T:6 Lieder, Op.16
+T:Rheinfahrt
+C:Johanna Kinkel (published as J. Mathieux)
+Z:Sebastian Longard
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=116
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+L:1/4
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:4 bass 
+L:1/4
+V:5 bass 
+L:1/4
+V:1
+"^Allegretto" C2 |: F2 A>G G2 B>A | (A2 d>)c c2 cf | fA Ac cE EG | F4 z2 FG | A2 A>c =B2 B>d | %6
+w: 1. Die|Nacht kommt * still ge- *|zo- * * gen mit *|ih- * rem * dun- * keln *|Haar; es *|kommt ihr * nach ge- *|
+w: 2.        |Wei- den- * bäu- me *|schwan- * * ken am *|Strand * in * sti- * ler *|Ruh', und *|rau- nen * duft'- ge Ge-|
+w: 3.        |steigt in * sei- nem *|Glan- * * ze der *|blei- * che * Mond * her- *|auf, * *|hin- ter dem Ber- ges- *|
+w: 4.        |treu- er * Buh- le *|grüsst _ _ er so *|recht * aus * vol- * lem *|Mut, und *|sanft er- * rö- tend *|
+ (c3 =B) A2 c2 | d2- d d d2 e=B | c4 z2 c2 | c2 G G G3 B | (_A3 G) F2 A A | %11
+w: flo- * gen der|Träu- * me bun- te *|Schaar. Ich|steu- re mit mei- ner|Sü- * ssen in die|
+w: dan- * ken der|spie- len- den Wo- ge *|zu. Am|Him- mel die Stern- lein|gau- * keln wie *|
+w: kran- * ze in|heim- * lich stil- lem *|Lauf. *|Hui, wie er schwelgt und|leuch- * tet in *|
+w: küsst _ er die|spie- * gel- hel- le *|Flut. Wir|a- ber im traum zer-|flos- * sen, * *|
+ f2- f _e (_d2{ed} c) =B | c6 BG | F2 A>G G2 B>A | (A2 d>)c c2 cf | fA A c cE EG | F4 z4 | z8 | %18
+w: blau- * e Flut * hin-|ein die *|A- bend- * win- de *|grü- * * ssen still *|flü- * sternd im blau- * en *|Rhein.||
+w: glän- zen- des E- del- ge-|stein, die *|träu- men- den Wel- len *|schau- * * keln den *|leuch- * ten- den Wie- * der- *|schein.||
+w: sei- * nem Zau- * ber-|schein und *|glü- hen- de Lie- be *|beich- * * tet dem *|fri- * schen * blau- * en *|Rhein.||
+w: schau- keln- in see- li- ger|Lust, und *|hal- ten uns lieb- um- *|schlo- * * sen, und *|leh- * nen * Brust * an *|Brust.||
+ z8 | z8 | z8 | z8 | z8 | z4 z2 C2 :| z8 | z4 z2 |] %26
+w: |||||2. Die|||
+w: |||||3. Da|||
+w: |||||4. Ein|||
+w: ||||||||
+V:2
+ x |: x4 | x4 | x4 | x2 x z | x A3/4 c/4 =B B3/4 d/4 | x4 | x4 | x3 z | x4 | x2 x _A | x4 | x4 | %13
+ x A3/4 G/4 x x | x4 | x A/c/ x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 :| x4 | x3 |] %26
+V:3
+ z2 |:!mf! (3AFA,"_simile" (3z FA (3GEB, (3z EG | (3AFA, (3z FA (3AFA, (3z FA | %3
+ (3AFA, (3z FA (3GEB, (3z EG | (3AFA, (3z FA (3AFA, (3z FA | (3AEC (3z CA (3=B^GE (3z GB | %6
+ (3cAC (3z Ac (3cAC (3z Ac | (3cGD (3z!<(! Gc!<)! (3=BGD (3z GB | (3cGE (3z EG (3cGE (3z!p! EG | %9
+ (3BGC (3z CG (3BGC (3z CG | (3_AFC (3z CF (3AFC (3z!<(! CF!<)! | %11
+!mf! (3_AF_D (3z DF (3AFC (3z F=B | (3cGE (3z!>(! EG!>)! (3cGE (3z EG | %13
+ (3AFA, (3z FA (3GEB, (3z EG | (3AFA,!<(! (3z FA!<)! (3AFA, (3z FA | %15
+!mf! (3AFA, (3z FA (3GEB, (3z EG | (3FCA, (3z F!<(!A (3c!<)!AF (3z Ac |!f! f4 f4 | f2 e2 d2 c2 | %19
+ d2 e2 f2 g2 | a4 f4 | f4 f4 |"_riten." f2 e2 d2 c2 |"_rall." ^c2 d2 !>!d2 E2 :| %24
+ (3FCA, (3CEF (3AFC (3FAc | !fermata!f6 |] %26
+V:4
+ z |: z C z C | z C z C | z C z C | z C z C | z E z E | z E z E | z =F z F | z C z C | %9
+ z C/ z/ z C/ z/ | z C/ z/ z C/ z/ | z _D/ z/ z D/ z/ | z _B, z C | z C z C | z C z C | z C z C | %16
+ z C z C | z B, z B, | z C z C | z C z C | z F, z A, | z B, z B, | z C z C | z B, z G, :| %24
+ [F,,F,]2 [F,,C,]2 | !fermata![F,A,]3 |] %26
+V:5
+ x |: F,2 C,2 | F,2 F,2 | C,2 C,2 | F,2 F,2 | E,2 E,2 | A,2 A,2 | G,2 G,2 | C,2 C,2 | E,2 E,2 | %10
+ F,2 F,2 | _D,2 D,2 | C,2 C,2 | F,2 C,2 | F,2 F,2 | C,2 C,2 | F,2 F,2 | B,,2 B,,2 | C,2 C,2 | %19
+ C,2 C,2 | F,,2 A,,2 | B,,2 B,,2 | C,2 C,2 | B,,2 C,2 :| x4 | x3 |] %26
+V:6
+ x2 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ (6:4:6f_dBFBd (6:4:6fdBFBd | (3fAF (3eAF (3dAF (3cAF | (3dBG (3eBG (3fBG (3gBG | %20
+ (6:4:6afcAcf (6:4:6fcAFAc | (6:4:6f_dBFBd (6:4:6fdBFBd | (3fAF (3eAF (3dAF (3cAF | %23
+ (3^cFD (3dFD (3dEB, (3E=CB, :| x8 | x6 |] %26

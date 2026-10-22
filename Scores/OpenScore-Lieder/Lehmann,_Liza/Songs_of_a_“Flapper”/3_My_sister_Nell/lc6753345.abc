@@ -1,0 +1,71 @@
+X:1
+T:Songs of a “Flapper”
+T:My sister Nell
+C:Liza Lehmann
+Z:Liza Lehmann
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 4 ) | ( 5 6 ) }
+L:1/4
+Q:1/4=76
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+L:1/8
+V:4 treble 
+L:1/8
+V:5 bass 
+V:6 bass 
+V:1
+"^Andantino grazioso e semplice (about)" z4 | z2 z!p! (A/B/) | c c d B | %3
+w: |My _|sis- ter Nell is|
+ c f !breath!!fermata!G A/ B/ | c c d (c/B/) | A e !breath!A (A/B/) | c c d (c/B/) | %7
+w: ve- ry fair, She has|twist- ed up her  _|wa- vy hair; Her  _|skirts are made with- *|
+ !tenuto!c !tenuto!f !breath!!tenuto!G F/!<(! G/ | %8
+w: out tucks now, She has|
+ A A/!<)! A/ !>!!breath!!fermata!d3/2"^dim." !tenuto!A/ | !tenuto!A !tenuto!A !tenuto!D2- | %10
+w: learnt to be- have, She|knows just how. |
+ D/ z/ z z2 | z2 z!mf! (A/B/) | c c d B | %13
+w: _|The *|neigh- bours call her:|
+!p! !tenuto!c"^poco rall." !tenuto!c/ !tenuto!f/ !breath!!tenuto!!fermata!G"^a tempo" F | %14
+w: "Sweet Sev- en- teen"; She|
+ c c d c/ B/ | A e !breath!A"^cresc." A/ B/ |!<(! c c !breath!d3/2 B/!<)! | %17
+w: dress- es just like a|fai- ry queen; She has|gowns of silk and|
+ c (g !breath!c)"^allarg." !tenuto!a | e g f/ d/ B | %19
+w: hats of lace, But|far the pret- ti- est|
+"^a tempo"!>(! !breath!G3!>)!!pp!"^fermata on breath mark" A | !tenuto!f4- |!>(! !fermata!f4!>)! |] %22
+w: is her|face. |_|
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x3 A | x4 | %19
+ x4 | F4- | F4 |] %22
+V:3
+!p!"^legato assai" C4 D4 | (E2 DE FGAB) | c4 d2 B2 | c4 !fermata!G2 z2 | c4 [Fd]2 cB | %5
+ A4 [FA]2 AB | c4 d2 cB | !tenuto!c2 !tenuto!f2 !tenuto!G2 F!<(!G | %8
+ AG!<)!FE !tenuto!D!tenuto!F!fermata!A"_dim."d | [^CA][B,G][A,F][G,E]!<(! [F,D]EFA!<)! | %10
+ z"^L.H." BAG z AGA | FD!>(![I:staff +1]A,G, F,2!>)![I:staff -1] B,2 | c4 DFBd | %13
+!p! c2"_poco rall." (!tenuto!c({/E}!tenuto!f)) !tenuto!!fermata!G2 z2 |"^a tempo" [Fc]AGF dd'c'b | %15
+ [^ca][Bg][Af][Ge] [FAf]2"_cresc." AB |!<(! c4 (dDF!<)!B) | %17
+ ([Ec]E!tenuto!G!tenuto!c !tenuto!e2)"^allarg." !tenuto![GAea]2 | %18
+ [eg]4 !tenuto![Fd]!tenuto![Af] !tenuto![db]2 |!>(! z (B,-DG- G4)!>)! | c8- | %21
+ c!tenuto!C!tenuto!F!tenuto!A !fermata!f4 |] %22
+V:4
+ A,G,A,F, B,A,B,G, | C2 B,2 [A,C]2 [CE]B, | !arpeggio![A,F]GFE D2 F2 | [CA]GFE D4 | [CF]AGF D2 ED | %5
+ ^CGFE D2 [=CE]B, | !arpeggio![A,F]G{F-G}FE D2 z2 | AGFE D4 | ^C4 x4 | x8 | agfe gfef | %11
+ dAFE D!mf!F- [FA][EB] | !arpeggio![A,F]GFE DFBd | [CA]GF{/E-}E D4 | C2 z2 [DF]2 ed | x6 [=CE]B, | %16
+ !arpeggio![A,F]G{F-G}FE DDFB | x8 | [GB]4 x4 | x2 (D2 [B,C]4) | !arpeggio![A,F]GFE DFCB, | %21
+ A,CFA x4 |] %22
+V:5
+!ped! C,4-!ped-up! | C,/ C,,3/2- C,, C,- | [F,,C,] [A,,F,] F,2 | %3
+ [F,,C,] [A,,F,] !fermata![B,,F,]2 | F, C F,2 | E,/B,/A,/G,/ !arpeggio![D,,A,,F,] [C,,C,] | %6
+ [F,,,F,,] [A,,F,] F,2 | [F,,C,] [A,,F,] F,3/2 E,/- | %8
+ E,/B,/A,/G,/ !tenuto!F,/!tenuto!A,/!fermata!D/F/ | [A,,,A,,] A,,- [D,,A,,]2- | [D,,A,,]4- | %11
+ [D,,A,,]3 [_D,,_D,]/[C,,C,]/ | [F,,,F,,] [A,,F,-] F,2 | [F,,C,] [A,,F,] !fermata![B,,F,]2 | %14
+ (F, C) F,2 | (E, ^C) D [=C,,=C,] | [F,,,F,,] [A,,F,] ([B,,F,]/F,/B,/D/) | %17
+ ([B,,G,]/G,/!tenuto!C/!tenuto!E/ !tenuto!G) !arpeggio![A,,E,^C] | %18
+ !arpeggio![^C,B,E]2 [D,A,D] [G,D] |"^a tempo" z (F, E,2) |!pp! z F,3- | %21
+!ped! [F,,C,F,]/!tenuto!F,/!tenuto!A,/(!tenuto!C/[I:staff -1] A2)!ped-up! |] %22
+V:6
+ x4 | x4 | x2 B,, D, | x4 | A,,2 B,, G,, | A,,2 x2 | x2 B,, D, | x2 B,,2 | A,,4 | x4 | x4 | x4 | %12
+ x2 B,, D, | x4 | A,,2 B,, G,, | A,,2 [D,A,] x | x4 | x4 | x4 | C,,4 | [F,,,F,,] A,, B,, D, | x4 |] %22

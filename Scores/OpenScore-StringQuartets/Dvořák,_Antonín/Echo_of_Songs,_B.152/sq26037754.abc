@@ -1,0 +1,53 @@
+X:1
+T:Echo of Songs, B.152
+C:Antonín Dvořák
+Z:OpenScore (CC0)
+%%score [ 1 | 2 | 3 | ( 4 5 ) ]
+L:1/4
+Q:1/4=114
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Violin 1"
+V:2 treble nm="Violin 2"
+V:3 alto nm="Viola"
+V:4 bass nm="Violoncello"
+V:5 bass 
+V:1
+"^IX.  Ó,duše drahá, jedinká\nThou only dear one, but for thee""^Moderato"!pp! (A3/2 c/ c F) | %1
+ (F3/2 B/ B E) | E4- | E4 | E4- |$ (E2 A2-) | A4 | A4- | A4 | A4 | E4- |$ (E A G F) | E4- | %13
+ (E A !fermata!G F/E/) | E4- | E2 (G F/E/) | (E4 |$!<(! !fermata!A3) A-!<)! |!f! (A3!>(! _F) | %19
+ (E3/2!>)! E/!p! =F B) | (A!<(! F E c)!<)! |!f! e4- | e4- |$ e4- | e2 a2- | a4- | a4- | a4- | a4 |$ %29
+"_dim." e'4- | e'4-!>(! | e'4-!>)! | !fermata!e'3!pp! e- | e4- | e4 |$ e3 a- | %36
+ !fermata!a3!<(! (a!<)! |!f!"_cresc." a'3) _f' |!>(! (e' e) (=f b)!>)! | %39
+!p! ((c'"_dim." f') (e' c'')) |!pp! !fermata!a'4 |] %41
+V:2
+!pp! (F3/2 E/ E F/E/) | D4 | (C4 | D4) | (C4 |$ D2 E2) | (C3/2 E/ D C) | (D E A,2) | %8
+ (C3/2 E/ D C) | (D E A, F) | D4- |$ D4 | D4- | !fermata!D4 | (C4 | D4) | C4 |$ %17
+!<(! (D E/D/) !fermata!_C (=C!<)! |!f! E D!>(! A, B,) | (=C!>)! E!p! D E/D/) | C3!<(! (E!<)! | %21
+!f! A E F G) | (F B E3/2 E/) |$ (A G F E) | (F d c2) | (e3/2 c/ B A) | (B c d3/2 A/) | %27
+ (e3/2 c/ B A) | (B c d3/2 f/) |$"_dim." (e B A =G) | ([A,F]3/2 [G,E]/ [G,E]) (f | e B A G) | %32
+ ([A,F]3/2 [G,E]/) !fermata![G,E]!pp! (E | A E F G) | (F d/>B/ E3/2 E/) |$ (A E F _G) | %36
+ (F e/d/ !fermata!_c)!<(! (=c!<)! |!f!"_cresc." e d A B) |!>(! (E =c d e/d/)!>)! | %39
+!p!"_dim." [Ec]4- |!pp! !fermata![Ec]4 |] %41
+V:3
+ z4 | z2 z z/!pp! (E,/ | A, E, F, G,) | (F, B, E,3/2 !tenuto!E,/) | (A, G, F, E,) |$ (F, D C2) | %6
+ (E3/2 C/ B, A,) | (B, C D3/2 A,/) | (E3/2 C/ B, A,) | (B, C D3/2 F/) | (E B, A, G,) |$ %11
+ (F,3/2 E,/ E,) (F | E B, A, G,) | (F,3/2 E,/ !fermata!E,) (E, | A, E, F, G,) | %15
+!<(! (F, C/>B,/!<)!!>(! E,3/2 E,/)!>)! | (A, E, F, _G,) |$!<(! (F,2 !fermata!_F, E,)!<)! | %18
+!f! (_G, =F,2!>(! D,) | (E,!>)! =C)!p! (B,/A,/=G,/F,/) | E,4!<)!!<(! |!f! (c4 | d4) |$ (c4 | %24
+ d2) A2 | (C3/2 A,/ D C) | (D E A, D) | (C3/2 A,/ D C) | (D E A, D) |$"_dim." D4- | D4- | D4- | %32
+ !fermata!D3!pp! (D | C4 | D4) |$ C4 | (D F !fermata!_F)!<(! (E!<)! |!f!"_cresc." _G =F2) D | %38
+!>(! (E c B/A/=G/F/)!>)! |!p! (E/C/"_dim."A,/A/) (E/C/A,/E,/) | %40
+!pp! !arpeggio![E,CA]"^pizz." !arpeggio![E,CA] !arpeggio![E,CA] !arpeggio!!fermata![E,CA] |] %41
+V:4
+ z2 z/!pp! (A,/D/C/) | (B, A,) (G, F,/G,/) | A,,4- | A,,4 | A,,4- |$ A,,4 | _G,4- | (G,2 F,2) | %8
+ _G,4- | (G,2 F,2) | [A,,-E,]4 |$ A,,4 | [A,,-E,]4 | !fermata!A,,4 | A,,4- | A,,4 | A,,4- |$ %17
+!<(! !fermata!A,,3 A,,-!<)! |!f! A,,4!>(! | E,,4!>)!!p! | A,,4!<)!!<(! |!f! [A,,E,]4- | [A,,E,]4 |$ %23
+ (E,4 | F,2 _G,2) | _G,4- | (G,2 F,2) | _G,4- | (G,2 F,2) |$"_dim." [A,,E,]4- | [A,,E,]4 | %31
+ [A,,E,]4- | !fermata![A,,E,]3!pp! A,- | A,4- | A,4 |$ A,4 | (A,2 !fermata!A,,)!<(! (A,,-!<)! | %37
+!f!"_cresc." [D,,A,,]4) |!>(! E,,4!>)! |!p!!>(! A,,4!>)! |!pp! !fermata!A,,4 |] %41
+V:5
+ x4 | x4 | x4 | x4 | x4 |$ (F,2 _G,2) | A,,4- | A,,4 | A,,4- | A,,4 | x4 |$ x4 | x4 | x4 | x4 | %15
+ x4 | x4 |$ x4 | D,,4 | x4 | x4 | x4 | x4 |$ A,,4- | A,,4 | A,,4- | (A,,2 A,,2) | A,,4- | %28
+ (A,,2 A,,2) |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |] %41

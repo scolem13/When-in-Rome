@@ -1,0 +1,33 @@
+% Applicatio: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=66
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Applicatio
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 3 ) ( 4 5 6 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="one"
+V:2 treble 
+V:3 treble 
+V:4 bass nm="two"
+V:5 bass 
+V:6 bass 
+L:1/4
+V:1
+ CD EF GA BG | cd ef g2 G2 | [ce]4 [Bd]4 | ^F4 [cAF] [BG]3 | g=f ed cB Aa | a3 ^g a4 | %6
+ [cE][c_B] [cA][c=G] [cA][cG] [cF][cE] | [cD]3 =B c4 |] %8
+V:2
+ x8 | x8 | z2 G2 z2 G2 | z A3 z2 D2 | x8 | z6 AB | x8 | z3 F2 E/D/ E2 |] %8
+V:3
+ x8 | x8 | x8 | z2 dc z4 | x8 | x8 | x8 | x8 |] %8
+V:4
+ [C,E,]4 [B,,D,]4 | [A,,C,]4 [G,,B,,]4 | C,D, E,F, G,A, B,C | D2 D,2 G,4 | [G,B,]4 [A,C]4 | %5
+ B,4 A,4 | A,G, F,E, F,G, A,G, | F,D, G,G,, C,4 |] %8
+V:5
+ x8 | x8 | x8 | z6 G,,2 | x8 | D4- D C/B,/ CD | x8 | z6 C,,2 |] %8
+V:6
+ x4 | x4 | x4 | x4 | x4 | z E, z2 | x4 | x4 |] %8

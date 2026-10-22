@@ -1,0 +1,63 @@
+X:1
+T:Myrthen, Op.25
+T:Setze mir nicht
+C:Robert Schumann
+Z:Johann Wolfgang von Goethe
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 6 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=110
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:6 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+V:1
+"^Rasch" z6 |!f! A3/2 E/ E ^F z ^G | A2 B c c c | d2 c B B A | (^G2 ^F) E d d | e2 c A3/2 A/ F | %6
+w: |Se- tze mir nicht, du|Gro- bi- an, mir den|Krug so derb vor die|Na- * se! Wer mir|Wein bringt, se- he mich|
+ D2 D E2 E | c3/2 c/ A F F D | (B,2 C) C3- | C3 z2 z | z2 z !fermata!z2!p! E || %11
+w: freund- lich an, sonst|trübt sich der Eil- fer im|Gla- * se.|_|Du|
+[K:A][Q:1/4=94]"^Etwas langsamer" A3/2 E/ E F F G | A2 B c2 A | d d c B B A | (G2 F) E2 z | %15
+w: lieb- li- cher Kna- be, du|komm her- ein, was|stehst du denn da auf der|Schwel- * le?|
+ !>!A E E F3/2 F/ G | A2 B c A A | f2 d B B A | G3 A z z | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %27
+w: Du sollst mir künf- tig der|Schen- ke sein, je der|Wein ist schmack- haft und|hel- le.|||||||||
+V:2
+!f! z2[K:bass] !>![E,E]- [E,E]2 !>![E,E]- | [E,E]2 !>![E,E]-!<(! [E,E]2 !>![E,E]- | %2
+ [E,E]2 !>![E,E]- [E,E]2!<)! !>![E,E]- | [E,E]2 !>![E,E]- [E,E]2 !>![E,E]- | %4
+ [E,E]2 !>![E,E]- [E,E] .[=G,B,D].[G,B,D] |!f! [G,CE]2 z!f! [A,C]2 z |!f! [G,B,]2 z!f! [E,B,E]2 z | %7
+[K:treble]!f! [CE]2 z!f! [A,DF]2 z |!f! [^G,B,E]2 z!f! [A,CE] z/ .E/.E | %9
+!f! .Az/.C/.C!f!"^ritard." Ez/[I:staff +1].A,/.A, | %10
+!f! .C[I:staff -1]z/[I:staff +1].^D,/.D, !fermata!E,2!p![I:staff -1] E || %11
+[K:A]!<(! [CA]z/E/E- (F2!<)! G | A2 B [Cc]2) [CA] | [Dd]A[Ec]!>(! [DB]F[=CA] | %14
+ [B,G]E[A,F]!>)! [G,E] z E | [CA]z/E/E- (F2 G | A2 B [Cc]2) [CA] | f3- [FBf] z z | %18
+ (([DEG]3 [CA])) z!mf! ([DE]- | [DEe]) z ([=GA]- [GAa]) z ([Ff]- | f>dB) [D^G] z ([DE]- | %21
+ [DEe]) z ([=GA]- [GAa]) z ([Ff]- | [Ff]>d[D^G]) [CA] z!p! ([DE]- | %23
+ [DEe]) z ([=GA]- [GAa]) z ([Ff]- | f>dB) [D^G] z ([DE]- | [DEe]) z ([=GA]- [GAa]) z ([Ff]- | %26
+ [Ff]>d[D^G]) [CA] z z |] %27
+V:3
+ .[C,,C,] [^G,,,^G,,]2 .[A,,,A,,] [E,,,E,,]2 | .[C,,C,] [^G,,,^G,,]2 .[A,,,A,,] [B,,,B,,]2 | %2
+ .[C,,C,] [D,,D,]2 .[E,,E,] [E,,E,]2 | .[F,,F,] [E,,E,]2 .[D,,D,] [C,,C,]2 | %4
+ .[B,,,B,,] [A,,,A,,]2 [^G,,,^G,,] .[=G,,,=G,,].[G,,,G,,] | [C,,C,]2 z [F,,F,]2 z | %6
+ [G,,G,]2 z [^G,,^G,]2 z | [A,,A,]2 z [D,A,]2 z | E,2 z A, z/ .E,/.E, | %9
+ .A,z/.C,/.C, E,z/.A,,/.A,, | x4 x E, ||[K:A] A,2 C, D,2 E, | F,2 G, A,2 [=G,A,] | %13
+ [F,A,]2 [E,A,] (D,2 ^D, | E,2 B,, E,,) z E, | A,2 C, D,2 E, | F,2 G, A,2 A,- | %17
+ A,2 ^A, [D,B,D] z z | ((!>![E,B,]3 [A,,A,])) z ([E,B,] | .G,,) z ([A,E] .C,) z ([A,-F] | %20
+ .[D,A,]2) B,- [E,B,] z ([E,B,] | .G,,) z ([A,E] .C,) z ([A,F] | .D,2) ([E,B,] .A,,) z ([E,B,] | %23
+ .G,,) z ([A,E] .C,) z ([A,-F] | .[D,A,]2) B,- [E,B,] z ([E,B,] | .G,,) z ([A,E] .C,) z ([A,F] | %26
+ .D,2) ([E,B,] A,,) z z |] %27
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | .C,z/.^D,,/.D,, !fermata!E,,2 z ||[K:A] A,,6- | %12
+ A,,3- A,,2 x | x6 | x6 | A,,6- | A,,3- A,,2 x | [D,D]3- x2 x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %25
+ x6 | x6 |] %27
+V:5
+ x2[K:bass] x4 | x6 | x6 | x6 | x6 | x6 | x6 |[K:treble] x6 | x6 | x6 | x6 ||[K:A] x3 E D2- | %12
+ DCB, x2 x | x A2 x F2 | x E2 x2 x | x3 E D2- | DCB, x2 x | F3- x2 x | x6 | x6 | F3 x3 | x6 | x6 | %23
+ x6 | F3 x3 | x6 | x6 |] %27
+V:6
+ x[K:bass] x2 | x3 | x3 | x3 | x3 | x3 | x3 |[K:treble] x3 | x3 | x3 | x3 ||[K:A] x3 | x3 | x3 | %14
+ x3 | x3 | x3 | F ^A/ x x/ | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %27

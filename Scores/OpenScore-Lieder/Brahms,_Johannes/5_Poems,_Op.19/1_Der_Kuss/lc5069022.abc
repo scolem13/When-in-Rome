@@ -1,0 +1,59 @@
+X:1
+T:5 Poems, Op.19
+T:Der Kuss
+C:Johannes Brahms
+Z:Ludwig Christoph Heinrich Hölty
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=58
+M:3/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Poco Adagio" z | z3 | z!p! F F | B c d | (BA) G | (FG) A | (Bc) d | (e2 d) | (de) f | (dc) B | %10
+w: ||Un- ter|Blü- ten des|Mai's * spielt|ich * mit|ih- * rer|Hand, *|kos- * te|lie- * bend,|
+ (AB) c | d e f | (g2 e) | c c"_cresc." d | e e e | e2 e | e d _d |!>(! c2 B!>)! | z!p! A c | %19
+w: kos- * te|lie- bend mit|ihr, *|schau- te mein|schwe- ben- des|Bild im|Au- ge des|Mäd- chens,|raubt ihr|
+ f f c | A2 G | F2 z | z3 |!f! g2 e | d e f | e2 z | A B c | d2 B | A2 z | a2 f | =e f g | f2 z | %32
+w: be- bend den|er- sten|Kuss.||Zu- ckend|fliegt nun der|Kuss,|wie ein ver-|sen- gend|Feur,|mir durch|Mark und Ge-|bein.|
+ z3 |!f! c c d | e2 e | e e e | e d _d |!>(! c2 B!>)! | z!p!!<(! A!<)! c |!>(! f f!>)! c | %40
+w: |Du, die Un-|sterb- lich-|keit durch die|Lip- pen mir|sprüh- te,|we- he,|we- he mir|
+!p! A2 G | F2 z | z3 |!p! (e3- | ed) c | (d f2-) | f3- | f2 z | z3 | !fermata!z2 |] %50
+w: Küh- lung|zu,||Küh-|* * lung|zu! *|||||
+V:2
+!pp!"_molto espressivo e dolce" z | z3 |[K:bass] z F, F, | ([D,B,][E,C][F,D]) | %4
+ ([D,B,][C,A,][B,,G,]) | ([A,,F,][B,,G,][C,A,]) | ([D,B,][E,C][F,D]) | ([G,E]2 [F,D]) | %8
+ ([B,D][CE][DF]) | ([F,D][E,C][D,B,]) | ([C,A,][D,B,][E,C]) | ([F,D][G,E][_A,F]) | ([B,G]2 [G,E]) | %13
+"^legato" (B,A,"_cresc."_A,) | (DCB,) | (B,A,/G,/[K:treble] [A,EF]) | [B,F]2 [B,FG] | %17
+!>(! [CG]2 [CG]!>)! |!p! ([CFA]2 [CGc] | [FAf]2 [CGc]) | ([CFA]2 [CG] |!>(! [A,F]2[K:bass] [G,C] | %22
+ [F,A,]2 [C,G,])!>)! |[K:treble][K:treble] ([G_eg][Fdf][Ece] | [D=Bd][Ece][Fdf]) | %25
+ ([Ece][D_Bd][CAc]) | ([A,^FA][B,GB][CAc] | [DBd][CAc][B,GB] | [A,^FA][G,=EG][^F,DF]) | %29
+!<(! ([=A,D=F][G,=EG][A,FA] | [^CA^c][D=Bd][=Ec=e])!<)! | ([Fdf][=EG^c][FAd]) | %32
+!>(! ([Adf][=EG^c][FAd])!>)! |!f! ([FBc][FAc][F_Ad] | dcB) | (BA/G/A) | [Be][Bd][B_d] | %37
+!>(! f=e/d/e!>)! |!p! ([Acfa]2 [Gcg] |"_dim." [FAf]2 [CGc]) | ([C_EA]2 [B,EG] | [A,EF]2 [B,EG]) | %42
+ ([A,EF]2 [B,EG]) | ([A,EF]2 [B,EG] | [A,EF]2 [A,EG]) | [B,DF]3- | [B,DF]2[K:bass] [F,B,D]- | %47
+!>(! [F,B,D]3- | [F,B,D]2 [F,B,D]- | !fermata![F,B,D]2!>)! |] %50
+V:3
+ (F,, | B,,,2) (F,, | B,,,2) (F,, | B,,,2) (F,, | B,,,2) (F,, | B,,,2) (F,, | B,,,2) (B,, | %7
+ E,,2) B,, | B,,,2 F,, | B,,,2 F,, | B,,,2 F,, | B,,,2 B,, | E,,2 E, | F,,2 F,, | C,,2 C,, | %15
+ F,,,2 F,, | B,,,2 B,, | C,,2 C, | C,,2 C, | C,,2 C, | C,,2 C, | C,,2 C, | C,,2 C, |!f! C,,2 C, | %24
+ G,,2 G, | C,2 C, | D,2 D,, | G,,,2 G,, | D,,2 D, | D,,2 D, | A,,,2 A,, | [D,,D,]2 (F,, | %32
+ [F,,F,]2) F,, | (B,A, [F,_A,D]) | (DCB,) | (B,A,/G,/A,) | [B,,F,B,]2 [B,,B,] | [C,C]2 C, | %38
+ (C,,2 C, | C,,2 C,) | (C,,2 C, | C,,2 C,) | C,,2 ([C,,C,] | [F,,,F,,]2) ([C,,C,] | %44
+ [F,,,F,,]2) (F,, | B,,,2) (F,, | B,,,2) (F,, | B,,,2) (F,, | B,,,2) (F,, | !fermata!B,,,2) |] %50
+V:4
+ x | x3 |[K:bass] x3 | x3 | x3 | x3 | x3 | x3 | F,3 | x3 | x3 | x3 | x3 | [F,C]2 [F,D] | %14
+ [E,G,E]2 [G,E] | [F,E]2[K:treble] x | (ED_D) | (F=E/D/E) | x3 | x3 | x3 | x2[K:bass] x | x3 | %23
+[K:treble][K:treble] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | [EGe]2 [E_Ge] | %35
+ [Fe]2 [Fef] | [Ff]2 [Gfg] | [Gcg]2 [GBg] | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x2[K:bass] x | %47
+ x3 | x3 | x2 |] %50
+V:5
+ x | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %20
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | [F,C]2 x | [C,G,]2 [C,_G,C] | %35
+ [F,C]2 [F,C] | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x2 |] %50

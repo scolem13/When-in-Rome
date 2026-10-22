@@ -1,0 +1,96 @@
+X:1
+T:5 Lieder, Op.4
+T:Ich ging im Walde den alten Steig
+C:Clara Faisst
+Z:Karl Stieler
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 5 ) | ( 3 6 ) }
+L:1/4
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/8
+V:4 treble 
+L:1/8
+V:5 treble 
+V:3 bass 
+L:1/8
+V:6 bass 
+V:1
+"^Andante" z3 | z z E | E2 F | F3/2 G/ G | E2 F | (F2 G) | z3 | z3 |!<(! B3 | G3/2 A/ B!<)! | d3 | %11
+w: |Ich|ging im|Wal- de den|al- ten|Steig, _|||einst|gin- gen wir|bei-|
+ B z z |!<(! d3 | ^A3/2 B/ d!<)! |!f! f3 | ^c z z | z3 | z3 | z3 | z z!>(! G | (G/F/)!>)! F z | %21
+w: de,|einst|gin- gen wir|bei-|de.||||Mein|Her- * ze,|
+ z z!pp! (^E- | E F) z | z3 | z z!p! B, | B,2 B, | z E2- | E2 z | z3 | z3 | z3 | z z E | %32
+w: schweig! |_ _||mein|Her- ze,|schweig! |_||||Es|
+ E3/2 F/ G | B G B | e2 e | ^d3 | z3 | B3 |!<(! (G3/2 A/) B | =d3!<)! | B z z |!<(! d3 | %42
+w: zit- tert der|Herbst- wind durch's|Gold- ge-|zweig:||einst|war  _ es|Som-|mer,|einst|
+ (^A3/2 B/) d!<)! |!f! f3 | ^c z z | z3 | z3 | z3 | z z"^rit." G | (G/F/) F z | z z (^E- | %51
+w: war  _ es|Som-|mer.||||Mein|Her- * ze,|schweig! |
+ E F/) z/ z | z3 | z z B, | B,2 B, | z E2- | E2 z | z3 | z3 | z3 | z3 | !fermata!z3 |] %62
+w: _ _||mein|Her- ze,|schweig! |_||||||
+V:2
+!p! z [EGB]2 [EGB]2 [EGB] | z [GB]2 [GB]2 [GB] | z [EGB]2 [EGB]2 [EGB] | z [GB]2 [GB]2 [GB] | %4
+ z [EGB]2 [EGB]2 [EGB] | z [GB]2 [GB]2 [GB] | z[I:staff +1] [D,F,A,]2 [D,F,A,]2 [D,F,A,]!pp! | %7
+[I:staff -1] z[I:staff +1] [G,B,]2 [G,B,]2 [G,B,] |[I:staff -1] x6 | ([^dgb]B [Bdg]G [GBd]^D) | %10
+ x6 | ([gbd']d [dgb]G [GBd]D) | x6 | ([df^a]^A [Adf]B [FBd]D) | z (^CF^A^cf) | (^c'2 c'f' c'2) | %16
+"_dim." ([f^c']^af^c^AF) | (^c2 cf c2) |!p! ([F^c]^AF^C^A,[I:staff +1]F,) | %19
+!p![I:staff -1] z [EG]2 [EG]2 [EG] | z [FA]2 [FA]2"^riten." [FA] | x2 B4- | %22
+ B2 ^A z (^C[I:staff +1][F,^A,] |!f!"^espress."[I:staff -1] F2"^l.H." f2"^r.H." ^d2 | %24
+ =c[^DF] B)[B,E] z[I:staff +1] [E,G,B,] |[I:staff -1] z[I:staff +1] [E,G,B,]2 [E,G,B,]2 [^D,A,B,] | %26
+[I:staff -1] z[I:staff +1] [E,G,B,]2 [E,G,B,]2 [E,G,B,] | %27
+[I:staff -1] z[I:staff +1] [E,G,B,]2 [E,G,B,]2 [E,G,B,] | %28
+[I:staff -1] z!pp![I:staff +1] [E,G,B,]2 [E,G,B,]2 [E,G,B,] | %29
+[I:staff -1] z[I:staff +1] [E,G,B,]2 [E,G,B,]2 [E,G,B,] | %30
+[I:staff -1] (3z!p!"^leggiero" (.B,.G (3.E.B.G (3.e.B.g) | (3z (B,G(3EBG(3eBg) | %32
+ (3z (EB(3GeB(3geb) | (3z (Ge (3Bge (3bge') | (3z (Ge(3Bge (3c'ge') | (3(^d'fb (3^dfB (3dFB | %36
+ (3^dFB(3^DFB,(3DF,B,) | x6 | ([^dgb]B [Bdg]G [GBd]^D) | x6 | ([gbd']d [dgb]B [Bdg]G) | x6 | %42
+ ([df^a]^A [Adf]B [FBd]D) |!f! z (^CF^A^cf) |!f! ^c'2 c'f' c'2 |"_dim." ([f^c']^af^c^AF) | %46
+ (^c2 cf c2) |!p! ([F^c]^AF^C^A,F,) |!p! z [EG]2 [EG]2 [EG] | z [FA]2 [FA]2 [FA] | %50
+ z!pp! [D^E]2 [DE]2 [DE] | B2 ^A z (^C[I:staff +1][F,^A,] | %52
+!f![I:staff -1] F2"^l.H." f2"^r.H." ^d2 | c[^DF] B)[B,E] x x | %54
+ z[I:staff +1] [E,G,B,]2 [E,G,B,]2 [E,G,B,] | %55
+[I:staff -1][K:bass] z [E,G,B,]2!pp! [E,G,B,]2 [E,G,B,] | z [E,G,B,]2 [E,G,B,]2 [E,G,B,] | %57
+ z [E,G,B,]2 [E,G,B,] z2 | z2 [E,G,B,]2 z2 |!ppp! z2"_rit." [E,G,B,]2 z2 | %60
+ [E,G,B,]2 z2 [E,G,B,]2- | !fermata![E,G,B,]6 |] %62
+V:3
+ .E,2 (C2 B,2) |[I:staff -1] (F4 E2) |[I:staff +1] .E,2 (C2 B,2) |[I:staff -1] (F4 E2) | %4
+[I:staff +1] .E,2 (C2 B,2) |[I:staff -1] (F4 E2) |[I:staff +1] .E,,2 (C,2 B,,2) | (F,4 E,2) | %8
+"_cresc." (^D,G,B,[I:staff -1]^DGB) |[I:staff +1] x6 | (=D,B,=D[I:staff -1]GB=d) |[I:staff +1] x6 | %12
+ (D,F,^A,[I:staff -1]DF^A) |[I:staff +1] x6 |!f! (^C,F,^A,^C[I:staff -1]F^A) | %15
+[I:staff +1][K:treble]!f! ([^GB]2 [F^A]2 [GB]2) |[K:bass][I:staff -1] [F^A]^cAF^C^A, | %17
+[I:staff +1] [^G,B,]2 [F,^A,]2 [G,B,]2 | [F,^A,]^CA,F,^C,^A,, | %19
+ .F,,2"^l.H."[I:staff -1] ^c2[I:staff +1] .F,,2 | %20
+ F, z"^l.H."[I:staff -1] f[I:staff +1] z[I:staff -1] B[I:staff +1] z | F,2 z2 F,,2 | F,4 =E,2 | %23
+[I:staff -1] F[I:staff +1][F,B,][I:staff -1] f[I:staff +1][F,B,]!<(![I:staff -1] ^d[^DF] | %24
+[I:staff +1] A,2!<)! G,2!p! B,,2- | B,,4 x2 | .E,,2 (C,2 B,,2) | (G,,4 F,,2) | .E,,2 (C,2 B,,2) | %29
+ (G,,4 F,,2) | .E,,2 (C,2 B,,2) | (G,4 F,2) | .E,2 (C2 B,2) |[I:staff -1] (F2 E2 B,2) | %34
+ .C2 .E2 .A,2 | B,2 (3FB^D B,2 |[I:staff +1] B,,2 (3F,B,^D, B,,2 |!p! (^D,G,B,^D[I:staff -1]GB) | %38
+"_cresc."[I:staff +1] x6 | (=D,B,=D[I:staff -1]GB=d) |[I:staff +1] x6 | (D,F,^A,[I:staff -1]DF^A) | %42
+[I:staff +1] x6 | ^C,F,^A,[I:staff -1]^CF^A |[I:staff +1][K:treble] ([^GB]2 [F^A]2 [GB]2) | %45
+[I:staff -1] [F^A]^cAF^C[I:staff +1]^A, | [^G,B,]2 [F,^A,]2 [G,B,]2 | [F,^A,]^CA,F,^C,^A,, | %48
+ F,,2"^l.H."[I:staff -1] ^c2[I:staff +1] F,,2 | %49
+ F,2[I:staff -1] .f[I:staff +1] z[I:staff -1] .B[I:staff +1] z | x2[I:staff -1] !>!B4- | %51
+[I:staff +1] F,4 =E,2 | %52
+[I:staff -1] F[I:staff +1][F,B,][I:staff -1] f[I:staff +1][F,B,]!<(![I:staff -1] ^d[^DF] | %53
+[I:staff +1] A,2!<)! G,2!p! B,,2- | B,,4 x2 | .E,,2 (C,2 B,,2) | (G,,4 F,,2) | .E,,2 (C,2 B,,2) | %58
+ z6 | .E,,2 z2 C,2- | (C,2 B,,2) z2 | !fermata!E,,6 |] %62
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | ^d^e f2 de | x6 | %17
+ ^D^E F2 DE | x6 | x6 | x6 | z [D^E]2 [DE]2 [DE] | z [^CF]2 [CF]2 x | x6 | c2 B2 x2 | x6 | x6 | %27
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | ^d^e f2 de | %45
+ x6 | ^D^E F2 DE | x6 | x6 | x6 | x6 | z [^CF]2 [CF]2 x | x6 | c2 B z z2 | x6 |[K:bass] x6 | x6 | %57
+ x6 | x6 | x6 | x6 | x6 |] %62
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x2 ^C | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x2 ^C | x3 | x3 | x3 | %55
+[K:bass] x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %62
+V:6
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:treble] x3 | %16
+[K:bass] x3 | x3 | x3 | x3 | x3 | x3 | x3 | ^D,2 B,, | x3 | B,,, G,, F,, | x3 | x3 | x3 | x3 | x3 | %31
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:treble] x3 | x3 | x3 | x3 | %48
+ x3 | x3 | F, x F,, | x3 | ^D,2 B,, | x3 | B,,, G,, F,, | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %62

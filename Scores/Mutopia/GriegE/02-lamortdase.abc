@@ -1,0 +1,71 @@
+% Ases Tod: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=246
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Ases Tod
+C:Edvard Grieg (1843 - 1907)
+%%score ( 1 2 ) ( 3 4 ) 5
+L:1/8
+Q:1/4=50
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="up" snm="Pno"
+V:2 treble 
+L:1/4
+V:3 bass nm="down" snm="Pno"
+V:4 bass 
+L:1/4
+V:5 bass 
+V:1
+ [D,F,]2 [F,B,]2 [F,^A,C]4 | [D,F,]2 [F,B,]2 [F,^A,C]4 | [D,D]2 E,F, [G,B,]2 F,2 | %3
+ [E,E]2 F,^G, [C,^A,C]3 z | [D,F,]2 [F,B,]2 [=F,B,C]4 | [D,^F,]2 [F,B,]2 [=F,B,C]4 | %6
+ [E,B,E]2 ^F,^G, [C,^A,C]2 [G,B,D][=G,CE] | F,E, [D,F,B,]4 z2 | [=A,C]2 [CF]2 [C=F^G]4 | %9
+ [A,C]2 [C^F]2 [C=F^G]4 | [A,A]2 B,C [D^F]2 C2 | [B,B]2 C^D [^G,=F^G]3 z | [A,C]2 [C^F]2 [=CF^G]4 | %13
+ [A,^C]2 [CF]2 [=CF^G]4 | [B,FB]2 ^C^D [^G,=F^G]2 [D^FA][=DGB] | CB, [A,CF]4- [A,CF] z | %16
+ [^F,B,D^F]2 [B,FB]2 [CFc]4 | [F,B,DF]2 [B,FB]2 [CFc]4 | [Dd]2 EF [GB,B]2 F2 | %19
+ [Ee]2 F^G [^ACc]3 z | [F,B,DF]2 [B,FB]2 [C=FBc]4 | [^F,B,D^F]2 [B,FB]2 [C=FBc]4 | %22
+ [EBe]2 ^F^G [^ACc]2 [DGBd][E=Gce] | FE [B,DFB]4 z2 | =f4 [d^f=a]4 | =f4 [d^f=a]4 | =f4 [^f=a]4 | %27
+ [B=f]4 [^A^c^f]3 z | ^A4 [GBd]4 | ^A4 [GB=d]4 | ^A4 [B=d]4 | [E^A]4 [=D^FB]3 z | =F4 [D^F=A]4 | %33
+ =F4 [D^F=A]4 | =F4 [^F=A]4 | [B,=F]4 [^A,^C^F]3 z | ^A,4 [G,B,D]4 | ^A,4 [G,B,=D]4 | %38
+ ^A,4 [B,=D]4 | [E,^A,]4 [=D,^F,B,]3 z | [E,^A,]4 [D,F,B,]3 z | [E,^A,]8 | [D,B,]4- [D,B,] z3 | %43
+ [D,B,]4- [D,B,] z3 | [D,B,]8 |] %45
+V:2
+ x4 | x4 | z C z C/D/ | z D z2 | x4 | x4 | z [B,D] z2 | ^A, z3 | x4 | x4 | z ^G z G/A/ | z A z2 | %12
+ x4 | x4 | z [FA] z2 | =F z3 | x4 | x4 | z [Cc] z [Cc]/[Dd]/ | z [Dd] z2 | x4 | x4 | z [Dd] z2 | %23
+ [^A,^A] z3 | [Bb] [c^a] z2 | [Bb] [c^a] z2 | [Bb] [c^a] d c/=c/ | =a g z2 | [Ee] [^F^d] z2 | %29
+ [Ee] [F^d] z2 | [Ee] [F^d] G F/=F/ | d c z2 | [B,B] [C^A] z2 | [B,B] [C^A] z2 | %34
+ [B,B] [C^A] D C/=C/ | =A G z2 | [E,E] [^F,^D] z2 | [E,E] [F,^D] z2 | [E,E] [F,^D] G, F,/=F,/ | %39
+ D C z2 | D C z2 | D2 C2 | x4 | x4 | x4 |] %45
+V:3
+ [B,,,B,,]2 [D,,B,,]2 [F,,C,]4 | [B,,,B,,]2 [D,,B,,]2 [F,,C,]4 | B,,,2 C,,D,, E,,2 D,,2 | %3
+ C,,2 D,,E,, F,,3 z | [B,,,B,,]2 [D,,B,,]2 [G,,C,]4 | [B,,,B,,]2 [D,,B,,]2 [G,,C,]4 | %6
+ [C,,C,]2 [D,,D,][E,,E,] [F,,F,]2 [E,,E,]2 | [D,,D,][C,,C,] [B,,,B,,]4 z2 | %8
+ [F,,F,]2 [A,,F,]2 [C,^G,]4 | [F,,F,]2 [A,,F,]2 [C,^G,]4 | F,,2 ^G,,A,, B,,2 A,,2 | %11
+ ^G,,2 A,,B,, C,3 z | [F,,F,]2 [A,,F,]2 [D,^G,]4 | [F,,F,]2 [A,,F,]2 [D,^G,]4 | %14
+ [^G,,^G,]2 [A,,A,][B,,B,] [C,C]2 [B,,B,]2 | [A,,A,][^G,,^G,] [F,,F,]4- [F,,F,] z | %16
+ [B,,,B,,]2 [D,,D,]2 [F,,C,^A,]4 | [B,,,B,,]2 [D,,D,]2 [F,,C,^A,]4 | %18
+ [B,,,B,,]2 C,,D,, [E,,B,,]2 [D,,B,,]2 | [C,,B,,]2 D,,E,, [F,,C,^A,]3 z | %20
+ [B,,,B,,]2 [D,,D,]2 [G,,C,B,]4 | [B,,,B,,]2 [D,,D,]2 [G,,C,B,]4 | %22
+ [C,,B,,C,]2 [D,,B,,D,][E,,E,] [F,,F,]2 [E,,E,]2 | [D,,D,][C,,C,] [B,,,F,,B,,]4 z2 | G4 D4 | %25
+ G4 D4 | G4 D4 | C4 F3 z | =C4 G,4 | =C4 G,4 | =C4 G,4 | F,4 B,3 z | [G,,G,]4 [D,,D,]4 | %33
+ [G,,G,]4 [D,,D,]4 | [G,,G,]4 [D,,D,]4 | [C,,C,]4 [F,,F,]3 z | [=C,,=C,]4 [G,,,G,,]4 | %37
+ [=C,,=C,]4 [G,,,G,,]4 | [=C,,=C,]4 [G,,,G,,]4 | [F,,,F,,]4 [B,,,B,,]3 z | %40
+ [F,,,F,,]4 [B,,,B,,]3 z | [F,,,F,,]8 | [B,,,F,,]4- [B,,,F,,] z3 | [B,,,F,,]4- [B,,,F,,] z3 | %44
+ [B,,,F,,]8 |] %45
+V:4
+ x4 | x4 | B,,2 B,,2 | B,,2 z2 | x4 | x4 | x4 | x4 | x4 | x4 | F,2 F,2 | F,2 z2 | x4 | x4 | x4 | %15
+ x4 | x4 | x4 | z B,, z2 | z B,, z2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %32
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %45
+V:5
+ z G, z G, z G,3 | z G, z G, z G,3 | z G, z3/2 G,/ z G, z G, | z G, z3/2 G,/ z G,2 z | %4
+ z G, z G, z G,3 | z G, z G, z G,3 | z G, z/ G,/ z/ G,/ z G, z/ G,/ z/ G,/ | %7
+ z/ G,/ z/ G,/ z G,3 z2 | z G, z G, z G,3 | z G, z G, z G,3 | z G, z3/2 G,/ z G, z G, | %11
+ z G, z3/2 G,/ z G,2 z | z G, z G, z G,3 | z G, z G, z G,3 | %14
+ z G, z/ G,/ z/ G,/ z G, z/ G,/ z/ G,/ | z/ G,/ z/ G,/ z2 G,2 G, z | z G, z G, z G,3 | %17
+ z G, z G, z G,3 | z G, z3/2 G,/ z G, z/ G,/ z/ G,/ | z G, z3/2 G,/ z G,2 z | z G, z G, z G,3 | %21
+ z G, z G, z G,3 | z G, z/ G,/ z/ G,/ z G, z/ G,/ z/ G,/ | z/ G,/ z/ G,/ z G,3 z2 | %24
+ z G, z G, z G,3 | z G, z G, z G,3 | z G, z G, z3 G, | z3 G, z G,2 z | z G, z G, z G,3 | %29
+ z G, z G, z G,3 | z G, z G, z3 G, | z G, z G, z G,2 z | z G, z G, z G,3 | z G, z G, z G,3 | %34
+ z G, z G, z3 G, | z3 G, z G,2 z | z G, z G, z G,3 | z G, z G, z G,3 | z G, z G, z3 G, | %39
+ z G, z G, z G,2 z | z G, z G, z G,2 z | z2 G,2 z2 G,2 | z2 G,2 G, z3 | z2 G,2 G, z3 | z2 G,6 |] %45

@@ -1,0 +1,56 @@
+X:1
+T:3 Lieder
+T:Sehnsucht
+C:Fanny (Mendelssohn) Hensel
+Z:Johann Gustav Droysen
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Singstimme\nVoice"
+L:1/4
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Andante"!p! d4- | d3/2 c/ (c/B/) A | G (F/A/) (F3/2 E/) | D z !>!G2 | F z (A c) | %5
+w: 1.
+  Fern
+|_ und fer- * ner|schallt der * Rei- *|gen. Wohl|mir! um mich|
+w: 2.  Horch!|_ die Nacht * schwebt|durch die * Räu *|me. *|wand durch- *|
+!<(! (d!<)!!>(! f2)!>)! (e/d/) | c (B/c/) d3/2 c/ | A z"^express." d =c | _B A G (A/F/) | G z A A | %10
+w: her _ ist *|Schwei gen * auf der|Flur; zu dem|vol len Her zen *|nur will nicht|
+w: \-   rauscht * die *|Bäu me * lis pelnd|leis. Ach, so|schweifen * lie be- *|heiss mei ne|
+ (!>!_B2 A) A | !>!_B2 A z |!<(! f2!<)!!>(! e2!>)! | d4- |"^dim." (d/c/) (B/A/)!pp! (G3/2 E/) | %15
+w: Ruh _ sich|nei   \-         \- gen,|will nicht|Ruh'|_ _ sich * nei- *|
+w: Wünsch' _ und|Träu  \-         \- me,|mei   \-      \- ne|Wänsch'|_ _ und * Träu- *|
+ D z z2 | !fermata!z4 |] %17
+w: gen.||
+w: me.||
+V:2
+ x8 | x8 | x8 | x4 G3 A | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %17
+w: |||||||||||||||||
+w: |||Ihr Ge||||||||||||||
+V:3
+!p! ([Fd]D[Fc]D [GB]DAD) | (BD[FA]D [GB]D[FA]D) | (GD F2 D2) [G,C]2 |!pp! [F,D]2 z2 z2 ([A,-EG]2 | %4
+ [A,DF]2) z2 z2 [Gc]2 | (d2 f4 ed) | [Ec]2 ([FB][Ec] [Fd]2) [DE]2 | %7
+ [CE]2 z2"^dolce" ([_Bd]2 [A=c]2 | [G_B]2 [FA]2 [_B,DG]2 [=C_E]2 | [_B,DG]2) z2 A4 | (!>!_B4 A4) | %11
+ (!>!d4 c4) |!pp! ([Fd][ce][Bd][Ac] [GB][Bd][Ac][GB]) | ([FA]cBA GFE[D=F]) | [D^F]2 z2 [G,C]4 | %15
+!pp! ([F,D]A,DF [DA]dfa | !fermata![fd']8) |] %17
+V:4
+ (B,2 A,2 G,2 F,2) | (G,2 D,2 G,,2 D,2) | [B,,D,]2 (D,F, A,2) A,,2- | (A,,B,,A,,B,, A,,B,,A,,B,,) | %4
+ (A,,B,,A,,B,, A,,B,,A,,B,,) | (A,,B,,A,,D, F,A,CB,) | A,2 A,4 [E,^G,]2 | [A,,A,]2 z2 [G,,G,]4- | %8
+ [G,,G,]4 [G,,-G,]4 | (G,,D,G,D) ^C4 | (!>!D4 ^C4) | (!>!G,4 A,4) | A,8- | (A,4 B,A,G,[^G,B,]) | %14
+ A,2 z2 A,,4 | D,,2 z2 [D,F,]2 z2 |[K:treble] !fermata![DA]8 |] %17
+V:5
+ x4 | x4 | x A,, x2 | D,,2 z (C,, | D,,2) z E,, | F,,2 z ^G, | x (D,/C,/ B,,) x | x4 | x4 | x4 | %10
+ x4 | x4 | x4 | x4 | x4 | x4 |[K:treble] x4 |] %17
+V:6
+ x8 | x8 | x8 | x8 | x8 | A6 E2 | x8 | x8 | D4 x4 | x4 EGEG | EGEG EGEG | EGEG EGAG | x8 | x8 | %14
+ x8 | x8 | x8 |] %17

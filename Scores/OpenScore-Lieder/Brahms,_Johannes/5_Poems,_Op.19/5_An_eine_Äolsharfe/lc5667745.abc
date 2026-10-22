@@ -1,0 +1,110 @@
+X:1
+T:5 Poems, Op.19
+T:An eine Aeolsharfe
+C:Johannes Brahms
+Z:Eduard Friedrich Mörike
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/4
+Q:1/4=115
+M:2/2
+I:linebreak $
+K:Ab
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:1
+"^Poco lento\nRecit.\n" e3 _c | A2 B _c | _c3 B | B2 B _c | d2 _c B | B2 A z | _f2 _c c | %7
+w: An- ge-|lehnt an die|E- pheu-|wand die- ser|al- ten Ter-|ras- se,|du, ei- ner|
+ _f3/2 d/ B _G | d2 _c[Q:1/4=115]"^in tempo" c | _g2 e2 | _c2 B2 | B3 =A | =A2 z2 | z4 | z4 | %15
+w: luft- ge- bor- nen|Mu- se ge-|heim- nis-|vol- les|Sai- ten-|spiel,|||
+ z2 =A2 | B2 z2 | =A A B =c | B2 z2 |"^sempre rit." B2 =c d | (e2 _f2-) | _f2 e d | (=c2 e2-) | %23
+w: fang|an,|fan- ge wie- der|an|dei- ne me-|lo- *|* di- sche|Kla- *|
+ e2 !fermata!e2 ||[Q:1/4=115]"^in tempo" z4 | z2 z A | A3 c | e3 f | e3 B | e2 d2 | z B c d | %31
+w: * ge.||Ihr|kom- met,|Win- de,|fern her-|ü- ber,|ach, von des|
+ A2 G2 | z d e f | d2 c2 | z2 a2 | (g f) e =d | f2 e2 | z2 z B | (c A) (A c) | e3 f | e B c e | %41
+w: Kna- ben,|der mir so|lieb war,|frisch|grü- * nen- dem|Hü- gel.|Und|Früh- * lings- *|blü- ten|un- ter- we- ges|
+ e2 d2 | z2 d d | =d2 d d | e3 e | ^f2 f2 | z2 =e2 | ^c2 z2 | z2 _e2 | =c3 _A | _c4 | B2 A2 | %52
+w: strei- fend|ü- ber-|sät- tigt mit|Wohl- ge-|rü- chen,|wie|süss,|wie|süss, be-|drängt|ihr dies|
+ E2 z2 | z2 z B | B3 B | __B2 e e | e2 A2 | z2 A A | =G2 d d | (d _g) (3._f .e .d | d2 _c2 | z4 | %62
+w: Herz!|Und|säu- selt|her in die|Sai- ten,|an- ge-|zo- gen von|wohl- * lau- ten- der|Weh- mut,||
+ ^c2 =B B | =c2 =B B | (=e3 =d) | c2 z2 | z2 c2 | _d4 | c2 c2 | e2 d2 | z4 | z4 | z4 | %73
+w: wach- send im|Zug mei- ner|Sehn- *|sucht|und|hin-|ster- bend|wie- der.||||
+[Q:1/4=115]"^Recit." z2 (3A A A | (3:2:2_c2 c (3z B A | f2 (3e e f | e2 =d2 | %77
+w: A- ber auf|ein- mal, wie der|Wind hef- ti- ger|her- stösst,|
+[Q:1/4=115]"^in tempo" z4 | z A A c | e3 f | f2 e z | z2 A A | d2 c B | (A G) G f | (e3 d) | %85
+w: |ein hol- der|Schrei der|Har- fe|wie- der-|holt mir zu|sü- * ssem Er-|schre- *|
+ c2 c c | a3 a | (g f) e =d | f2 e2 | z2 z B |[Q:1/4=105]"^Poco più lento" c2 z2 | z A e f | %92
+w: cken mei- ner|See- le|plötz- * li- che|Re- gung,|und|hier \-|die vol- le|
+ d2 d2 | z d2 A | B2 B z | z d =c B | (A B) c d | (f e2) d | A2 A2 | z4 | z4 | z4 | z4 | z4 |] %104
+w: Ro- se|streut ge-|schüt- telt|all ih- re|Blät- * ter vor|mei- * ne|Fü- sse.||||||
+V:2
+!p![I:staff +1] [A,_C]4- | [A,C]4 | [B,D]4- | [B,D]4 | ([G,D]4 | [A,_C]4) |[I:staff -1] [_C_F]4 | %7
+ [_D_F]4 | [_C_E]4 | [_C_G]3!pp! [_c_c'] | %10
+ (3(.[_g_c'_g'] .[gc'g'] .[gc'g'] (3.[gbg'] .[gbg'] .[gbg']) | %11
+ (3(.[_gb_g'] .[gbg'] .[gbg'] (3.[gbg'] .[gbg'] .[g=ag']) | %12
+ (3([_g=a_g'] .[gag'] [gag'] (3[g=f'] .[gf'] [gf']) | %13
+ (3([_ge'] .[ge'] [ge'] (3[gd'] .[gd'] [gd']) | %14
+!>(! (3([=c_g=c'] .[cgc'] [cgc'] (3[eb] .[eb] [eb])!>)! | %15
+!pp! (3([e=a] .[ea] [ea] (3[ea] .[ea] [ea]) | (3([eb] .[eb] [eb] (3[eb] .[eb] [eb]) | %17
+!<(! (3([e=a] .[ea] [ea] (3[ea] .[ea] [ea])!<)! |!>(! (3([eb] .[eb] [eb] (3[eb] .[eb] [eb])!>)! | %19
+"^sempre rit."!<(! (3([eb] .[eb] [eb] (3[e=c'] .[ec'] [ed']) | %20
+ (3[ee'] [ee'] [ee'] (3[_f_c'_f'] [fc'f'] [fc'f']!<)! | %21
+ (3[_f_c'_f'] [fc'f'] [fc'f'] (3[eae'] [eae'] [dad'] | %22
+!>(! (3[=ca=c'] [cac'] [cac'] (3[eae'] [eae'] [eae'] | %23
+ (3[eae'] [eae'] [eae'] (3[ege'] [ege'] [ege']!>)! ||!p!"^legato"!<(!!8va(! ([ea=c'e']3 [fac'f'] | %25
+ [eac'e']3 [fac'f'])!<)! | ([eac'e']3 [fac'f'] | [eac'e']3 [fac'f']) | [ebe']3 ([e-b] | %29
+ ([ea-e']2 [dad'])) z | [dad']4 | [dbd']4 | [=fd'=f']4 |!<(! [ec'e']4!<)! | [a=d'a']4 | [a=d'a']4 | %36
+ [ge'g']4 | [egbd'e']4 | ([eac'e']3 [fac'f'] | [eac'e']3 [fac'f']) | [ebe']4 | ([ea-e']2 [dad']2) | %42
+ [dad']4 |"^cresc. poco" [=d^g=b=d']4 |!<(! [^d=a=c'^d']4 | [^f=a=c'^f']4!<)! | [^g=b=d'^g']4 | %47
+ [=a^c'=a']4 | [=g_b_d'=g']4 |!<(! [_a=c'_a']4!8va)!!<)! | [A_cfa]4- |!>(! [Acfa]4!>)! | [GBeg]4 | %53
+ [Begb]4 | [Be_gb]4 | [__Be_g__b]4 | [Ae_ga]4 | [Ad_fa]4 |!<(! [=G^c=e=g]4 | [^A^c=e^f]4!<)! | %60
+ [^F=B^d^f]4 |!>(! [^d^f]4!>)! |!>(! [=e^g]4!>)! |!<(! [=e=g]4!<)! | [g=b]4 |!>(! [cgc']4!>)! | %66
+!>(! ([gg']2 c'2)!>)! |!>(! ([gg']2 _d'2)!>)! | ([gg']2"_dim." c'2) | ([gg']2 d'2) | %70
+ ([ee']2!>(! g2) | (b2 B2 | d2 G2)!>)! |!p! [_CA_c]2 z2 | z4 | ([Af]2 [Ae]2) | (e2 =d2) | %77
+ (e2 _d2) |!p!!8va(! [ea=c'e']3 [fac'f'] | [eac'e']3 [fac'f'] | ([fbf']2 [ee'])!8va)! (.b | %81
+ [ee']2 [dd']2) | [dad']4 | [Bb]4 |!8va(! [ebe']4 |!<(! [ec'e']4!<)! | [ac'a']4 | [a=d'a']4 | %88
+ [ge'g']4 |!>(! [egbd'e']4!8va)!!>)! | ([c'e'] [af'] [c'e'] [_gf'] | [c'e'] [af'] [c'e'] [_gf']) | %92
+ ([ad'] [fe'] [ad'] [d_c'] | [ad'] [fe'] [ad'] [d_c']) |!<(! ([_gb] [d_c'] [gb] [d-a]) | %95
+ ([d_g]!<)! [d_f] [=ce]) [Bd-] | [Ad]!<(! ([Bd] [ce] [df])!<)! |!>(! ([fa] [e_g]2 [df])!>)! | %98
+ ([ce]"_dim." [Af] [ce] [Af]) | ([ce] [Af] [ce] [Af]) | [ce]3 ([A-c] | [Ae]3) ([A-c] | [Ae-]4) | %103
+ e4 |] %104
+V:3
+ [A,,E,]4- | [A,,E,]4 | [A,,_F,]4- | [A,,F,B,D]4 | [A,,E,]4- | [A,,E,]4 | [A,,_F,A,]4 | [B,,_G,]4 | %8
+ [_C,_G,]4 | [E,,E,]3 z |[K:treble] (3(.[E_G_c] .[EGc] .[EGc] (3.[EGB] .[EGB] .[EGB]) | %11
+ (3(.[E_GB] .[EGB] .[EGB] (3.[EGB] .[EGB] .[EG=A]) | (3[E_G=A] [EGA] [EGA] (3[_DGA] [DGA] [DGA] | %13
+ (3[=C_G=A] [CGA] [CGA] (3[B,GB] [B,GB] [B,GB] | (3[=A,_G] [A,G] [A,G] (3[_DG] [DG] [DG] | %15
+ (3[C_G] [CG] [CG] (3[CG] [CG] [CG] | (3[D=G] [DG] [DG] (3[DG] [DG] [DG] | %17
+ (3[C_G] [CG] [CG] (3[CG] [CG] [CG] | (3[D=G] [DG] [DG] (3[DG] [DG] [DG] | %19
+ (3[DG] [DG] [DG] (3[DG] [DG] [DG] | (3[CA] [CA] [CA] (3[_C_FA] [CFA] [CFA] | %21
+ (3[A,_C_FA] [A,CFA] [A,CFA][K:bass] (3[D,A,F] [D,A,F] [D,A,F] | %22
+ (3[E,A,E] [E,A,E] [E,A,E][K:treble]"^rit." (3[E_c] [Ec] [Ec] | %23
+ (3[EB] [EB] [EB] (3[EB] [EB] [EB] || (3(A, E A c F) | (3(A, E A c F) | (3(A, E A c F) | %27
+ (3(A, E A c F) | (3(G, E G B G) | (3(F, D F A D) | (3(_F, D _F A D) | (3(E, D E G E) | %32
+ (3(G, E G d B) | (3(A, E A c A) | (3(B, F B f =d) | (3(B, F B =d B) | (3(E B e g e) | %37
+ (3(E, D G B E) | (3(A, E A c F) | (3(A, E A c F) | (3(G, E G B G) | (3(F, D F A D) | %42
+ (3(_F, D _F A F) | (3(=E, =B, =E ^G E) | (3(=E, =C ^F =A F) | (3(=E, =C =A =c ^D) | %46
+"^dolce" (3(=E, =D ^G =B =E) | (3(=E, ^C =A ^c =E) | (3(_E, _D =G _B E) | (3(E, C A c E) | %50
+[K:bass] (3(=D, _C F A F) | (3(=D, A, _C F C) | (3(E, B, E G E) | (3(E, B, E G E) | %54
+ (3(E, B, E _G E) | (3(D, __B, E _G E) | (3(C, A, E _G E) | (3(D, A, D _F D) | %58
+ (3(=B,, =G, ^C =E"^cresc. poco" C) | (3(^A,, ^F, ^C =E C) | (3(=A,, ^F, =B, ^D B,) | %61
+ (3(=A,, ^F, =B, ^D B,) | (3(^G,, =E, =B, =E B,) | (3(=G,, =E, =B, =E B,) | %64
+ (3(=F,, =D, G, =B, G,) | (3(=E,, C, G, C G,) | (3(_E,, C, G, C G,) | (3(E,, _D, G, B, G,) | %68
+ (3(E,, C, G, C G,) | (3(E,, D, G, B, G,) | (3(E,, D, G, B, G,) | (3(E,, D, G, B, G,) | %72
+ (3(E,, D, G, B, G,) | [=D,,F,]2 z2 | z4 | ([=D,_C]2 [E,C]2) | [F,_C]4 | [G,B,]4 | %78
+[K:treble] (3(A, E A c F) | (3(A, E A c F) | (3(G, E G B G) | (3(F, D F A D) | (3(_F, D _F A D) | %83
+ (3(E, D E G E) | (3(G, E G B E) | (3(A, E A c A) | (3(F, C F c A) | (3(B, A =d f B) | %88
+ (3(E B e g e) | (3(E, D G B E) | (3(A, E A (3c A E) | (3(A, E A (3c A E) | %92
+[K:bass] (3(D, A, D (3F D A,) | (3(D, A, D (3F D A,) | (3(_G,, D, _G, (3B, G, D,) | %95
+ (3(_G,, D, B, (3=G,, D, B,) | (3(A,, F, A, (3D A, F,) | (3(D,, A,, F, (3D A, D,) | %98
+ (3(A,, E, A, (3C A, F,) | (3(A,, E, A, (3C A, F,) | (3(A,, E, A, (3C A, F,) | %101
+ (3(A,, E, A, (3C A, F,) | (3(A,, E, A,[K:treble] (3C E A- | [Ac]4) |] %104
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 ||!8va(! x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %37
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2 x2 | x4 | x4 | x4 | x4!8va)! | x4 | x4 | x4 | x4 | x4 | %55
+ x4 | x4 | x4 | x4 | x4 | x4 | ([^c^c']2 [=B=b]2) | ([^c^c']2 [=B=b]2) | ([=c=c']2 [=B=b]2) | %64
+ ([=e=e']3 [=d=d']) | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | A4 | B4 |!8va(! x4 | %79
+ x4 | x3!8va)! x | a4 | x4 | (a2 g2) |!8va(! x4 | x4 | x4 | x4 | x4 | x4!8va)! | x4 | x4 | x4 | %93
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %104

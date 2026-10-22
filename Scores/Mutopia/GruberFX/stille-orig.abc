@@ -1,0 +1,25 @@
+% Stille Nacht: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=81
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Stille Nacht
+C:Franz Xavier Gruber
+%%score 1 2
+L:1/8
+Q:1/4=90
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="voice" snm="V"
+V:2 bass nm="guitar" snm="Ac Gtr"
+L:1/16
+V:1
+ [AF]>[BG][AF] [FD]2 z | [AF]>[BG][AF] [FD]2 z | [eG]>[^dF][eG] [cE]2 z | [=dF]>[cE][dF] [AF]2 z | %4
+ [BG]>[cA][BG] [dB]>[cA][BG] | [AF]>[BG][AF] [FD]2 z | [BG]>[cA][BG] [dB]>[cA][BG] | %7
+ [AF]>[BG][AF] [FD]2 z | [cE]>[cE][cE] [eG][dF][cE] | [dF]3 [fA]2 z | [dF]>[AF][FD] [AF]>[GE][EC] | %11
+ D2 z4 |] %12
+V:2
+ D,2[A,DF]2[A,DF]2 z6 | z12 | G,,2[G,B,G]2[G,B,G]2 z6 | D,2[A,DF]2[A,DF]2 z6 | %4
+ G,,2[G,B,G]2[G,B,G]2 z6 | D,2[A,DF]2[A,DF]2 z6 | G,,2[G,B,G]2[G,B,G]2 z6 | D,2[A,DF]2[A,DF]2 z6 | %8
+ A,,A,[CE]A,[CG]A, A,,A,[CE]A,[CG]A, | [F,,A,,D,A,DF]12 | [A,,D,A,DF]6 [A,,E,A,CG]6 | %11
+ A,,A,[CE]A,[CG]A, A,,A,[CE]A,[CG]A, | [DF]A,[CG,]A,[CE]A, [A,CG]2[D,A,DF]2 z2 |] %13

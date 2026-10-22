@@ -1,0 +1,91 @@
+X:1
+T:5 Gedichte für eine Frauenstimme (Wesendonck-Lieder)
+T:Der Engel
+C:Richard Wagner
+Z:Mathilde Wesendonck
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+"^Sehr ruhig bewegt" z8 | z8 | z4 z2 (D D | D2 D2 E3 F | G2 D2 E3 F | G3 G c4- | c6 B2 | %7
+w: ||In der|Kind- heit frü- hen|Ta- gen hört’ ich|oft von En-|* geln|
+ B2 A2) (c2 d2 | e3 d c2 B2 | B4 A2) (e2- | e2 d2 G3 A | B6 A2 | A2 G2) z2 D D | %13
+w: sa- gen, die des|Him- mels heh- re|Won- ne tausch-|* ten mit der|Er- den-|son- ne: Dass, wo|
+ G3/2 A/ _B3 A c2- | c _B A G =F!<(! E _E3/2 D/!<)! |!>(! D2!>)! ^C2 z2 E E | A3/2 =B/ c3 B d2- | %17
+w: bang ein Herz in Sor-|* gen schmach- tet vor der Welt ver-|bor- gen, dass, wo|still es will ver- blu-|
+ d c B A G!<(! ^F =F3/2 E/!<)! |!>(! E2 ^D2!>)! z2"^(gesteigert, aber zart)" B B | %19
+w: * ten, und ver- geh'n in Trä- nen-|flu- ten, dass, wo|
+ e4- e d c3/2 B/ | _B2 =f2- f!<(! d B3/2 A/!<)! |!>(! !>!A6!>)! ^G2 |"^poco riten." (B4 z _B2 B) | %23
+w: brün- * stig sein Ge-|bet ein- * zig um Er-|lö- sung|fleht, da der|
+"^a tempo" A3 (d d4- | d4 g3 B | A4) (^A2 A2 | B3"^(zart)" ^c d2 e2 |"^(sehr ruhig)" f4) z4 | %28
+w: En- gel nie-|* * der|schwebt, und es|sanft gen Him- mel|hebt.|
+ (F3 F ^G2 ^A2 | B3 B (e4- | e4 ^d2) ^c2 | ^c2 B2) z2 B B | =c4- c G c3/2 d/ | e4 c2 z2 | %34
+w: Ja, es stieg auch|mir ein En-|* * gel|nie- der, und auf|leuch- * tend- dem Ge-|fie- der|
+"^(mit Enthusiasmus)" c3 c!<(! =f4-!<)! | =f2!>(! e2 (d2 c)!>)! B | !>!B4 A2 A2 |"^(sanft)" d4 G4 | %38
+w: führt er, fer-|* ne je- * dem|Schmerz, mei- nen|Geist nun|
+ B6 A2 | G4 z4 | z8 | z8 | z8 | z8 | z8 |] %45
+w: him- mel-|wärts!||||||
+V:2
+!p! z ([B,D] [GB]3 D[Bd]G | [Bg]3 D [Bd]4) | z ([B,D]!p! [GB]3 D[Bd]G | [Bg]3 D [Bd]4) | %4
+ z (D [GB]3 D[Bd]G |!p! [ceg]3) (E [ce]4) | z (=F [c=f]3) (A[fa]c | [=fac']3) ([Ac] [fa]4) | %8
+!<(! z (E e3) (B[e^g]d!<)! |!>(! [e=gb]3) ([A^c] [ega]4)!>)! |!p! [DGd]3 ([GB] [dgb]3) ([^cga] | %11
+!p! [dgbd']3) ([Bd] [cdfc'd']3) (D | [GBd]3) (D- [DFcd]3) ([CD] | %13
+ (.[DG]).[DG].[DG].[DG] .[DG].[DG].[DG].[DG] | %14
+ .[DG].[DG].[DG].[DG] .[DG]!<(!.[DG].[_EG].[EG])!<)! |!>(! (!>!_B4!>)! A4) | %16
+!p! (.[EA].[EA].[EA].[EA] .[EA].[EA].[EA].[EA]) | %17
+ (.[EA].[EA].[DA].[DA] .[DA]!<(!.[DA].[^CA].[=CA])!<)! |!>(! (!>!c4!>)! B4) | %19
+!p! [EB][EB][EB][EB] [EB][EB][EB][EB] | [=F_B][FB][FB][FB] [FB][FB][FB][FB] | %21
+ [=FA][FA][FA][FA] [DA][DA][D^G][DG] |!<(! [DEB]3!<)!!>(! (D- [DE_B]4)!>)! | %23
+!p! z (D [Fd]3 A[fa]d- | [dgbd']3 [Bd]- [Bdgb]4) | z (D [Fd]3) (D [F^Ad]2) | %26
+ z!p! (D- [DBd]3) (B- [Bgb]2) | z (^c- [c^a^c']3) (^A- [Afa]2-) | %28
+!pp! [^Af^a] (F- [FA^cf]3) (F[Af]c) |!pp! z ((B- [Be^gb]3) (e- [egbe']2-)) | %30
+ [e^gbe'](^c- [cea^c']3 A- [Acea]2) | z (B- [Be^gb]3 ^G- [GBeg]2) | %32
+"_cresc." z ([E=G] [ce]3) (G[eg]c- | [cec']3) (G [ceg]4) |"_cresc." z (=F [Ac=f]3) (A[fa]d- | %35
+"_dim." [d^gb]3) (E [^Gde]4) | z (E- [EGe]3)!p! (G[^cga]A) | z ([Bd]- [Bdgb]3) ([GB][dg]B | %38
+!p! [Fcd]3) (c- [cdfc'd']3) (d- |!p! [dgbd']3)"_cresc." ([gb]- [gbd'g']4) | %40
+!<(!!8va(! ([ge'g']3 f'/4e'/4^d'/4e'/4!<)!!>(! [c'e'c'']3!8va)! [ec'e']!>)! | %41
+"_dim." [bd'])(d- [dgb]3 D[Bd]G- | [GBg]3 D [GB]4-) | [GB]!p!(D[Bd]G [Bg]2) z2 | %44
+ z (d!pp![bd']g [bg']4) |] %45
+V:3
+ (B,,3 D, [G,B,]4-) | [G,B,]([B,,D,] [G,B,]3 D,[B,D]G, | [B,G]3 D, [G,B,]4) | %3
+ z ([B,,D,] [G,B,]3 D,[B,D]G, | [B,G]3 D, [G,B,]4) | z ([E,G,] C3) (E,[CE]G, | %6
+!pp![I:staff -1] [CA]3)[I:staff +1] ([C,=F,] [A,C]4-) | [A,C]([C,=F,] [A,C]3) (A,[=FA]D | %8
+[I:staff -1] [^GB]3)[I:staff +1] ([^G,B,] [E^G]4) |!pp! z ([E,=G,] [^CE]3) [A,C][EG]C | %10
+ z ([D,G,] [B,D]2) z ([G,B,] [EG]2) | z ([G,B,] D3)[K:treble] (D [Fc]2) | %12
+[K:bass] z (D, B,3)!pp! (D,_B,A,) | (.[G,_B,].[G,B,].[G,B,].[G,B,] .[G,B,].[G,B,].[G,B,].[G,B,] | %14
+ .[G,_B,].[G,B,].[G,B,].[G,B,] .[G,B,].[G,B,].[G,B,].[G,B,]) | %15
+!>(! (.[G,A,].[G,A,]!>)!.[G,A,].[G,A,] .[G,A,].[G,A,].[G,A,].[G,A,]) | %16
+ (.[=F,A,].[F,A,].[F,A,].[F,A,] .[F,A,].[F,A,].[F,A,].[F,A,]) | %17
+ (.[=F,A,].[F,A,].[F,A,].[F,A,] .[F,A,].[F,A,].[F,A,].[F,A,]) | %18
+!>(! !>![^F,A,][F,A,][F,A,][F,A,]!>)! [F,A,][F,A,][F,A,][F,A,] | %19
+ [G,B,][G,B,][G,B,][G,B,] [G,B,][G,B,][G,B,][G,B,] | %20
+ [D,_B,][D,B,][D,B,][D,B,] [D,B,][D,B,][D,B,][D,B,] | %21
+ [D,=B,][D,B,][D,B,][D,B,] [B,,=F,][B,,F,][B,,F,][B,,F,] | z (E,- [E,^G,]2-) [E,G,]4 | %23
+ z2 z ([D,F,] [A,D]4) | z [D,G,] [B,D]3 [G,B,][DG]B, |!p! z2 z (F,- [F,=C]3) (D, | %26
+ F,3 E, D,2"^(sehr zart)" ^C,B,, | F,3) (^C, [F,^A,]3 C, | [^A,^C]3 F, [CE]4) | %29
+ z2 z (B,, [^G,B,]3 E,- | E,3 ^C, [A,^C]3 E,-) | z2 z (B,, [^G,B,]3 E,) | z2 z (G, [CE]4-) | %33
+ [CE]([E,G,] [CE]3) G,[EG]C | z2 z ([C,=F,] [A,C]4) | z (E,- [E,^G,B,]3) G,[DE]B, | %36
+ z2 z (E, [G,A,^C]4) |!p! z2 z ([D,G,] [B,D]4) | z ([D,F,] [F,C]3) ([A,C][DF]C) | %39
+ z ([B,,D,] [G,B,]3) ([D,G,][B,D]G,) | ([CEG]>[G,CE] [E,G,C]3 ([C,E,G,][E,G,C][G,CE])) | %41
+ !arpeggio![D,B,]3 (D, [G,B,]4) | z ([B,,D,] [G,B,]3) (D,[B,D]G, |[K:treble] [B,G]3) z z (D[Bd]G | %44
+ [Bg]3) z [Gd]4 |] %45
+V:4
+ G,,4- | G,,4- | G,,4 | G,,4- | G,,4 | G,,4 | =F,,4- | =F,,4 | E,,4 | [A,,,A,,]4 | %10
+ [B,,,B,,]2 [E,,E,]2 | [D,,D,]4[K:treble] |[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %21
+ x4 | E,,4 | A,,4 | B,,4 | [D,,D,]4 | G,,4 | F,,4- | F,, z z2 | ^G,,4 | A,,4 | [E,,E,]4 | %32
+ [=C,,=C,]4- | [C,,C,]4 | A,,4 | E,,4 | A,,4 | [D,,D,]4 | D,,4 | G,,4 | x4 | G,,4- | G,,4 | %43
+[K:treble] x4 | x4 |] %45
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %15
+ (.[D=E].[DE].[^CE].[CE] .[CE].[CE].[CE].[CE]) | x8 | x8 | [EA][EA][^DA][DA] [DA][DA][DA][DA] | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | [FA]4 x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | [Ac]2 x6 | x8 | %36
+ [^C=GB]2 x6 | x8 | x8 | x8 |!8va(! x3 c' x3!8va)! x | x8 | x8 | x8 | x8 |] %45

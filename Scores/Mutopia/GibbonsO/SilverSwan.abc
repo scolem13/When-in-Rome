@@ -1,0 +1,40 @@
+% The Silver Swan: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=302
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:The Silver Swan
+C:Orlando Gibbons
+%%score 1 2 3 4 5
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Cantus:cantus" snm="Rec"
+V:2 treble nm="Quintus:quintus" snm="Rec"
+L:1/8
+V:3 treble nm="Altus:altus" snm="Rec"
+V:4 bass nm="Tenor:tenor" snm="Rec"
+V:5 bass nm="Bass:bass" snm="Vc"
+V:1
+ z c c d | e3 f | d3/2 c/ B A | G3 G | B3/2 c/ d A | c F G3/2 F/ | F2 z2 | z f3/2 f/ e | d3 c | %9
+ =B c d3/2 c/ | c2 z g | c f B d | G A/B/ c3/2 B/ | A2 z2 | z f3/2 f/ e | d3 c | =B c d3/2 c/ | %17
+ c2 z g | c f B d | G A/B/ c3/2 B/ | A4 |] %21
+V:2
+ z2 C2 F2 F2 | E3 F G2 A2 | F3 E D2 C2- | CD EF G2 G,2- | G,2 D3 E F2 | E2 F4 E2 | F2 A3 A G2 | %7
+ F2 DE FG A2 | D3 E FG AF | G6 G2 | E2 F2 G3 G | A2 F2 G3 F | E2 F4 E2 | F2 A3 A G2 | F2 DE FG A2 | %15
+ D3 E FG AF | G6 G2 | E2 F2 G3 G | A2 F2 G3 F | E2 F4 E2 | F8 |] %21
+V:3
+ z C C =B, | C3 C | B, B, F F | E3 E | D3/2 C/ B, F, | G, A, G, G, | A,2 z C- | C/C/ B, A, A, | %8
+ B,3/2 C/ D/E/ F/C/ | _E E D2 | G C D C- | C D/F/ _E D | C2 C2 | C2 z C- | C/C/ B, A, A, | %15
+ B,3/2 C/ D/E/ F/C/ | _E E D2 | G C D C- | C D/F/ _E D | C2 C2 | C4 |] %21
+V:4
+ z A, A, G,/F,/ | G,3/2 F,/ E, C, | D,3/2 E,/ F,/G,/ A,/B,/ | C C,3/2 D,/ E,/F,/ | G,2 D,2 | %5
+ E,/C,/ C D C | C3 C, | F,3/2 G,/ A,/B,/ C | D2 z2 | G, C2 =B, | C A, _B, C | A, D G,/G,/ B,- | %12
+ B, A, G,2 | F,2 z C, | F,3/2 G,/ A,/B,/ C | D2 z2 | G, C2 =B, | C A, _B, C | A, D G,/G,/ B,- | %19
+ B, A, G,2 | F,4 |] %21
+V:5
+ z F, F, D, | C,3 A,, | B,,3/2 C,/ D, F, | C,3/2 D,/ E,/F,/ G, | G,, B,,3/2 C,/ D, | %5
+ C, A,, B,, C, | F,, F,3/2 F,/ E, | D,3 C, | B,,/B,,/ B,2 A, | G,4 | C, F,2 E, | F, D, _E, B,, | %12
+ C,3 C, | F,, F,3/2 F,/ E, | D,3 C, | B,,/B,,/ B,2 A, | G,4 | C, F,2 _E, | F, D, _E, B,, | C,3 C, | %20
+ F,,4 |] %21

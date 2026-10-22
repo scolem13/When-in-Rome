@@ -1,0 +1,28 @@
+X:1
+T:Ich hab mein Sach Gott heimgestellt
+T:Ich hab mein Sach Gott heimgestellt
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ G | G G ^F B | A G !fermata!^F F | ^F F G E | ^F F !fermata!G A | A c A =F | G A !fermata!B B | %7
+ A G !fermata!^F F | ^F F G E | ^F F !fermata!G x || %10
+V:2
+ D | D D/^C/ D G/F/ | _E/D/ =E !fermata!D D | C D D C | C/_E/ D !fermata!D F | F G F F | %6
+ _E/D/ C/E/ !fermata!D G- | G/^F/ G/G,/ !fermata!D D | C/D/ _E/D/ D =E | D D !fermata!D x || %10
+V:3
+ B | B/A/ G A d | c B/A/ !fermata!A A | A A G G | A/c/ c/ B/4A/4 !fermata!B c | c c c B | %6
+ B A/c/ !fermata!B d | d3/2 c/ !fermata!A A | A A G- G/4A/4B/ | A/G/ A/4B/4=c/ c/!fermata!=B/ x || %10
+V:4
+ G,2 | G,F, _E,2 D,=C, B,,G,, | C,2 ^C,2 !fermata!D,2 D,_E,- | E,D,- D,=C,- C,=B,, C,_B,, | %4
+ A,,2 D,2 !fermata!G,,2 F,2 | F,G,F,=E, F,_E,- E,D, | _E,=E, F,^F, !fermata!G,2 G,,2 | %7
+ D,2 _E,2 !fermata!D,2 D,2 | A,,B,, C,2 B,,=B,,C,^C, | D,2 D,,2 !fermata!G,,2 x2 || %10

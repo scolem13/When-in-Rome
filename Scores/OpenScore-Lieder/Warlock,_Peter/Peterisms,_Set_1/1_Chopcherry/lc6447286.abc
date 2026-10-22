@@ -1,0 +1,69 @@
+X:1
+T:Peterisms, Set 1
+T:Chopcherry
+C:Peter Warlock
+Z:George Peele
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=155
+M:6/8
+I:linebreak $
+K:A
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:6 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Very fast and light" z6 | z6 | z6 | z2 z z2 E | A2 c B2 e- | e c A B2 E | F2 G/ A/ G2 A/ B/ | %7
+w: |||When|as the rye reach|_ to the chin, And|chop- cher- ry, chop- cher- ry|
+ (c^A) F G3 | =A3/2 G/ A F B2- | B G E F2 A | G3 e3 | B2 A (GA) F | E3 z2 z | z6 | E3 F3 | G3 A3 | %16
+w: ripe _ wi- thin,|Straw- ber- ries swim- ming|_ in the cream And|school- boys|play- ing in _ the|stream,||Then, o|then o|
+ B2 d (c>B) c | B3- B z E | F2 A A2 G | A3 B3 | (cB) A (BA) G | (A3- A2 F) | E3 F3 | G3 A3 | %24
+w: then my true * love|said, _ Till|that time come a-|gain She|could * not live * a|maid. _ _|Then, o|then, o,|
+ B2 d (c>B) c | B3- B z E | F2 A A2 G | A3 e3 | c z/ (B/A) B z/ (A/G) | A3- A2 z | z6 | z6 | %32
+w: then my true _ love|said, _ Till|that time come a-|gain She|could not\ _ live a _|maid. _|||
+ !fermata!z6 |] %33
+w: |
+V:2
+!mf! [Ae]z/([ae']/[ec']) (b>af) | (e>fA) (c>AB) | [CE] z/ ([ae']/[ec']) (b>af) | %3
+ (e>fA)!>(! (c>AB)!>)! |!p! E>AE E>BE | E>cE E>eE | (FA)D (GB)E | %7
+ (^Ac)[I:staff +1]F[I:staff -1] G7/4c/4[I:staff +1]C | %8
+!mf![I:staff -1] .[=Acf] z .[Acf] .[B^df] z .[Bdf] | (g7/4b/4e) (f7/4b/4B) | !tenuto!e3 (F>GA) | %11
+ [EB]2 c E>F^D | [G,E] z/!f! ([ge']/[eb]) (g>ef) | [EGB] z/ (e'/[eb]) (g>ef) | %14
+!mp! (e>dc)!<(! (B>AF)!<)! | (E>FG) (A>Bc) | .[Adf] z .[GBe] (a>bc') | %17
+ [eab]z/(e'/b)"_(L. H.)"!>(! ez/(B/E)!>)! |!p! F>ED!<(! B,>ED!<)! | A>BA B3/2 (e/"_(L.H.)"e') | %20
+!f! .a z/ (A/e) .f z/ (B/e) | [Cc] z/ ([ae']/[ec'])"^rit." (b>af) | %22
+"^a tempo"!mp!!<(! (B>cB) (e>dB)!<)! | (d>ed) (f>e"_(L. H.)"a') |!mf! [Bdf] z [Be] (a>bc') | %25
+ z3/2 (b'/.b)"_(L. H.)" .e' z/ ([Ee]/.A) | (f>ed) (B>ed) |({/d} (c>)BA B) z/ (e/e') | %28
+ .c' z/ (A/.e) .f z/ (B/.g) |!f! [Aa] z/ ([ae']/[ec']) (b>af) | [Ae] z/ ([c'a']/[ae']) (c'>ab) | %31
+ ([Aa]3 a'3-) | !fermata!a'6 |] %33
+V:3
+ x3 (d2 B) | (B2 A) E3 | x3 (d2 B) | (B2 A) E3 | .C2 .C .B,2 .B, | C2 C x3 | x6 | x3 ^E3 | x6 | %9
+ G2 z ^d2 z | (G>FE) E3 | B,>DC F,2 B, | x3 [AB]3 | x3 [AB]3 | E3 =D3 | E3 A2 [CA] | x3 e2 c | %17
+ x3 G x2 | x6 | E2 ^D (A2 G) | x3 F z G | x3 (d2 B) | .E2 .E .F2 .F | G3 [Bc]2 A | x3 e2 c | %25
+ [Beab] z B G z x | F3- F2 G | E2 ^D E z z | x3 F z G | x3 (d2 B) | x3 [de]3 | x6 | x6 |] %33
+V:4
+"^Con ped." ([A,,E,C]2 A) ([B,F]2 [A,D]) | ([G,D]2 [F,C]) (A,2 G,) | ([A,,E,]2 A) ([B,F]2 [A,D]) | %3
+ ([G,D]2 [F,C]) (A,2 G,) | .[A,,E,]2 .[A,,E,] .[E,G,]2 .[E,G,] | %5
+ .[A,,E,A,]2 .[E,A,] .[E,G,B,]2 .[E,G,B,] | (A,2 F,) (B,2 G,) | (C2 F) G,2 x | %8
+ .[F,CF] z .[F,CF] [B,^DF] z [B,DF] | (B,2 E) (F2 ^D) | B,3 A,3 | G,,2 A,, B,,2 B,,, | %12
+ E,, z [E,B,] (E2 ^D) | [E,B,] z G, (E2 ^D) | z2 A, F,2 A, | E,3- E,2- E, | .[B,D] z .[DE] [EA]3 | %17
+[I:staff -1] [EAB]2[I:staff +1] B,- [E,B,]2 [C,A,-] | A,3- A,2 G, | !>!C>!>!B,!>!A, !>!E,3 | %20
+ .[A,,E,C] z .[C,A,E] .[D,A,B,] z .[E,D] | ([A,,E,]2 A) ([B,F]2 [A,D]) | %22
+ .[G,D]2 .[G,D] .[A,D]2 .[A,D] | [B,F]2 [B,F] =G3 | %24
+[I:staff -1] .[DFA][I:staff +1] x[I:staff -1] .[DEG][I:staff +1] [EA]2 [EA] | %25
+ [A,B,E]3 [E,G,] z [C,A,] | (A,3 A,2) B, | A,>B,C G, z .E,, | %28
+ .[A,,E,C] z .[C,A,E] .[D,A,B,] z .[E,DE] | ([A,,E,C]2 =G) ([B,F]2 D) | %30
+ [^G,CE] x"^(L. H.)"[I:staff -1] [^GAc][I:staff +1] [B,F]2 [DEG] |!ped! [A,,E,C]3 A,,,3- | %32
+ !fermata!A,,,6!ped-up! |] %33
+V:5
+ x6 | x3 E,3 | x6 | x3 E,3 | x6 | x6 | D,3 E,3 | F,3 C,3 | x6 | E,3 B,3 | (E,2 D,) (C,2 F,,) | x6 | %12
+ x3 B,3 | x3 B,3 |({/E,,} !>!E,6) | E,2 D, C,2 A,, | x3 C2 A, | x6 | D,2 B,, E,3 | F,3 x3 | x6 | %21
+ x6 | x6 | x3 A,3 | x3 C>B,A, | E,3- E, x2 | D,2 B,, E,3 | F,3 E, x2 | x6 | x3 A,3 | x3 E,3 | x6 | %32
+ x6 |] %33
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x3 =D3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %33

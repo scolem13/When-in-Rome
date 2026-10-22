@@ -1,0 +1,84 @@
+X:1
+T:6 Lieder, Op.5
+T:Auftrag
+C:Peter Cornelius
+Z:Ludwig Christoph Heinrich Hölty
+Z:OpenScore (CC0)
+Z:
+%%score 1 { ( 2 3 ) | ( 4 5 6 ) }
+L:1/8
+Q:1/4=52
+M:3/8
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+L:1/16
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+V:1
+"^Mässig langsam" z6 | z6 | z6 | z4 A2 | d2 A2 z2 | z F2 F (3F E F | A3/2 G/ E2 z2 | %7
+w: |||Ihr|Freun- de,|hän- get, wenn ich ge-|stor- ben bin,|
+ z3/2 E/ F2 G2 | B2 A2 (3E ^D E | A4 G2 | F6 | z2 F2 G F | =F4 F2 | B4- B _B | _B2 E2 (3E ^D E | %15
+w: die klei- ne|Har- fe hin- ter dem|Al- tar|auf,|wo an der|Wand die|To- * ten-|krän- ze man- cher ver-|
+ (3F ^E F A3 G | F2 =E2 z2 | z6 | z6 | z6 | z F B2 F2 | ^D2 D2 (3D ^E F || %22
+w: stor- be- ner Mäd- chen|schim- mern.||||Der Küs- ter|zeigt dann freund- lich dem|
+[K:Eb] ^G ^F ^E =B _B _A | _G2 z2 e2- | e2 _c A F3/2 c/ | B6 | (3G A B (cB) F2 | (3(GA) c B2 F z || %28
+w: Rei sen- den die klei- ne|Harf', rauscht|_ mit dem ro- ten|Band,|das, um die Har- * fe|fest * ge- schlun- gen,|
+[K:D] z2 (3=B ^A ^G G F | c B (3(B^A) ^G z2 |[Q:1/4=48]"_rit." z6 |[Q:1/4=52]"_im Tempo" z6 | z6 | %33
+w: un- ter den gold'- nen|Sai- ten flat- * tert.||||
+ c3 z A E | ^D2 F2 z2 | B4 ^G =D | F3/2 E/ C2 z E | (=F2>G2) F2 | =F2 D2 z2 | =F4 G F | %40
+w: Oft, sagt er|stau- nend:|tö- nen im|A- bend- gold von|selbst _ die|Sai- ten,|lei- se- wie|
+ _B3/2 =F/ F4 | z =C =F2 F2 | z2 =F F G A | G =F z2 z2 | _B2 B2 z2 | z =B B4- | B4 A F | %47
+w: Bie- nen- ton.|Die Kin- der,|her- ge- lockt vom|Kirch- hof,|hör- ten's|und sah'n|_ wie die|
+ (e2d2) F2 | c4 B2 | z6 | z6 | z6 | z6 |] %53
+w: Krän- * ze|beb- ten.|||||
+V:2
+ z2[K:bass] G,/-B,/- | [B,E]3 |[K:treble] [GBe]- (3[GBe]/(.[GBe]/.[GBe]/ (3.[GBe]/.[GBe]/.[GBe]/) | %3
+ !arpeggio![Gcea]3 |!p! !arpeggio![Fda]3 | !arpeggio![DAf]3 | !arpeggio![EBdg]3 | %7
+ !arpeggio![DG_Be]3 | !arpeggio![EAcg]3 | !arpeggio![CGAe]3 | !arpeggio![E^Acf]3 | %11
+ !arpeggio![=CF=A^d]3 | !arpeggio![=D^GB=f]3 | [B,=F^Gd]3 | [CG_Be]3 | [=CFd][B,Gd] z | %16
+ z2[K:bass] G,/-B,/- | [B,E]3 | %18
+[K:treble]!p! [GBe]- (3[GBe]/(.[GBe]/.[GBe]/ (3.[GBe]/.[GBe]/.[GBe]/) | !>![Gg]2 [Ff] | %20
+!p! [FBf]2 [FBf] | [FBf][FBf][FBf] ||[K:Eb] [A_c=f][Acf][Acf] | ([_GBe][GB_d][EGB]) | %24
+ [EA_c][_CEA][A,CF] | [B,FA]FD | [B,EG][A,CF]D | [B,EG][A,CF]D ||[K:D] ^F=E^C | FEC | FEB, | %31
+!p! [GBe]- (3[GBe]/(.[GBe]/.[GBe]/ (3.[GBe]/.[GBe]/.[GBe]/) | !>![=FB=f]2- [FBf] | ([EAe]3 | %34
+ [FA=c^d]3 | [=F^GB=d]3 | [EAc]3) | ([=FA=c][=CFA][A,CF] | D[_B,D=F][DF_B]) | (=cd/c/A/=F/ | %40
+ D[_B,D=F][DF_B]/d/) | [=FA=c][=CFc]/[CFc]/[EF^c]/[EFc]/ | [D=Fd][DF][DF]/[DF]/ | %43
+ [DG]/[DA]/[DG]/[D=F]/[DF] | z/ [D=F_B][DFB][DFB]/ | z/ [D=F=B][DBd][DBd]/ | [^Fd^f]2 z | z3 | %48
+ z2[K:bass] G,/-B,/- | [B,E]3 | %50
+[K:treble]!p! [GBe]- (3[GBe]/(.[GBe]/.[GBe]/ (3.[GBe]/.[GBe]/.[GBe]/) | [GB]3 | %52
+!p! !fermata![dfa]2 z |] %53
+V:3
+ x2[K:bass] G, | G,3 |[K:treble] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %15
+ x3 | x2[K:bass] G, | G,3 |[K:treble] x3 | (d c2) | x3 | x3 ||[K:Eb] x3 | x3 | x3 | x3 | x3 | x3 || %28
+[K:D] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | [=FA]2 [=CF]/[A,C]/ | x3 | x3 | x3 | %43
+ x3 | x3 | x3 | x3 | x3 | x2[K:bass] G, | G,3 |[K:treble] x3 | (e2 ^e) | F2 x |] %53
+V:4
+!p! z A,,/-D,/- [A,,D,]- | [A,,D,]3 | %2
+ [E,A,D]- (3[E,A,D]/!<(!(.[E,A,D]/.[E,A,D]/ (3.[E,A,D]/.[E,A,D]/.[E,A,D]/)!<)! | %3
+!>(! [A,,E,C]3!>)! | [D,,D,]3- | [D,,D,]3 | [D,,D,]3- | [D,,D,]3 | [D,,D,]3- | [D,,D,]3 | %10
+ [D,,D,]3- | [D,,D,]3 | [D,,D,]3- | [D,,D,]3 | [D,,D,]3- | [D,,D,] z z | %16
+!ped! z A,,/-D,/- [A,,D,]- | [A,,D,]3!ped-up! | %18
+ [E,A,D]- (3[E,A,D]/!<(!(.[E,A,D]/.[E,A,D]/ (3.[E,A,D]/.[E,A,D]/.[E,A,D]/)!<)! | %19
+!>(! !>![E,^A,]3!>)! | [^D,F,B,]2 [D,F,B,] | [^D,F,B,][D,F,B,][D,F,B,] || %22
+[K:Eb] [E,A,_C][E,A,C][E,A,B,] | [E,,E,] [E,,E,]2 |!ped! [E,,E,]3!ped-up! |!ped! E,,3!ped-up! | %26
+ E,,3 | E,,3 ||[K:D] ^D,,E,,F,, | ^D,,E,,F,, | [=D,,B,,=D,][E,,A,,D,][E,,A,,D,] | %31
+ [E,A,D]- (3[E,A,D]/!<(!(.[E,A,D]/.[E,A,D]/ (3.[E,A,D]/.[E,A,D]/.[E,A,D]/)!<)! |!>(! D3!>)! | %33
+ [A,,E,C]3 | [A,,A,]3- | [A,,A,]3- | [A,,A,]3 | [A,,,A,,]3- | [A,,,A,,]3 | [A,,,A,,]3- | %40
+ [A,,,A,,]3 | [A,,,A,,]3 | [_B,,,_B,,]3 | [_B,,=F,]/[B,,F,]/[B,,G,]/[B,,A,]/[B,,G,]/[B,,F,]/ | %44
+ [_B,,=F,][B,,F,][A,,F,] | [^G,,=F,][G,,^G,][G,,G,] | [A,,A,]2 z | z3 | z A,,/D,/- D,- | [A,,D,]3 | %50
+ [E,A,D]- (3[E,A,D]/!<(!(.[E,A,D]/.[E,A,D]/ (3.[E,A,D]/.[E,A,D]/.[E,A,D]/)!<)! | %51
+!>(! ([A,,G,C]3!>)! | !fermata![D,,A,,D,A,D]2) z |] %53
+V:5
+ E,,3- | E,,3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | E,,3- | %17
+ E,,3 | x3 | (D C2) | x3 | x3 ||[K:Eb] x3 | x3 | x3 | E,,B,,E, | E,,B,,E, | E,,B,,E, || %28
+[K:D] [^F,B,] x2 | [F,B,] x2 | [F,B,] x2 | x3 | !>!E,3 | x3 | x3 | x3 | x3 | x3 | [=F,_B,] x2 | %39
+ x3 | [=F,_B,] x2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | E,,3- | E,,3 | x3 | x3 | x3 |] %53
+V:6
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 ||[K:Eb] x3 | x3 | x3 | x [A,B,] [F,A,] | x2 [F,A,] | x2 [F,A,] || %28
+[K:D] x [^G,B,] [E,^A,] | x [^G,B,] [E,^A,] | x [=G,B,] G, | x3 | A, ^G,2 | x3 | x3 | x3 | x3 | %37
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x A,,- A,,- | x3 | x3 | x3 | x3 |] %53

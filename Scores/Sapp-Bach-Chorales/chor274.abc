@@ -1,0 +1,31 @@
+X:1
+T:O Ewigkeit, du Donnerwort
+T:O Ewigkeit, du Donnerwort
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+L:1/8
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ F3/2 G/ A B | c c d e | !fermata!f2 F3/2 G/ | A B c c | B A !fermata!G2 | A2 F F | B A G2 | %7
+ !fermata!F4 :| c2 G A | B B A3/2 G/ | !fermata!G2 c2 | d =e f A | G3/2 G/ !fermata!F2 || %13
+V:2
+ C2 DE F2 F2 | FG A2 AG BA | !fermata!F4 D3 E | F2 G2 ^FG A2 | AG G=F !fermata!C4 | C4 D=E F2 | %6
+ FE F2 F2 E2 | !fermata!C8 :| F4 FE _ED | D2 G2 G2 ^F2 | !fermata!D4 =F3 _E | DF B2 AG F2 | %12
+ F2 E2 !fermata!C4 || %13
+V:3
+ A B c d | c f f/g/ g/^c/ | !fermata!d2 A B | A d _e d | d c/d/ !fermata!=e2 | f _e d d/c/ | %6
+ B/c/ d d c/B/ | !fermata!A4 :| A/B/ c2 c | B B _e d/>c/ | !fermata!B2 A/c/ f- | f g f/=e/ d | %12
+ d c/B/ !fermata!A2 || %13
+V:4
+ F,,2 F,4 D,2 | A,,2 A,2 =B,2 ^CA, | !fermata!D4 D,4 | D2 CB, A,G, ^F,D, | G,2 A,B, !fermata!C4 | %5
+ F,4 B,C B,A, | G,2 D,C, B,,2 C,2 | !fermata!F,,8 :| A,3 B, C2 ^F,2 | G,=F, _E,D, C,2 D,2 | %10
+ !fermata!G,,4 A,,4 | B,,B, A,G, DD, DC | B,G, CC, !fermata!F,4 || %13

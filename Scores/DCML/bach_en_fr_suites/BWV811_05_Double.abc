@@ -1,0 +1,65 @@
+X:1
+T:English Suite No. 6
+T:Double
+C:Johann Sebastian Bach
+%%score { ( 1 2 3 4 ) | ( 5 6 7 8 ) }
+L:1/8
+Q:1/4=110
+M:3/2
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 treble 
+V:4 treble 
+L:1/4
+V:5 bass 
+V:6 bass 
+V:7 bass 
+L:1/4
+V:8 bass 
+L:1/4
+V:1
+ f4 e4- egfa | gbag ^f4 z cdf | g4 e4- ed^cd |$ ^ced=B cA^GB AcBd/c/ | Mc_edc =B4- BAB^c | %5
+ dfed ^c4- cdcd |$ efef f6 f2 |1 e4 z ea^g a3 =g :|2 e4 z ea^g a4 |:$ e4 e8- | e4 x{_e8} c3- c4 | %11
+ d4- dBde fefd |$ egfd ec=Bd cedf/e/ | f4 z cfg a4- | a2 g2 z dga bfge |$ f4 z cef gd e2 | %16
+ PAGAc f4- f4 | x4 z d^fg x4 |$ x12 | x12 | e^cAc EAGB AG^FG |$ A4 z ^FGA z4 | z GA=B z4 z G_B^c | %23
+ d4 d4- d3 ^c |1$ d4 z Ad^c dfed :|2 d4 z Ad^c !fermata!d4 |] %26
+V:2
+ z ^c d2 B4- B4 | A4 z D^FG A4 | z ^cdA B4 =B4 |$ A8 E4 | D4 z[I:staff +1] G,=B,[I:staff -1]D- D4 | %5
+ E4 z B3 ^C x x x |$ z4 x2[I:staff +1] A,2[I:staff -1] FAd^G |1 z ^GA=B ^c4- c4 :|2 %8
+ z ^GA=B ^c4- c4 |:$ z2 z F EAGB A4 | G4 z cAG F4- | FABF G4 A4 |$ G6 F2 E4 | z CFG A4 z efc | %14
+ d4 B4 z2 G2 |$ z cdB A4 z2 z B | x4 x c3- c4 | x4 z d3 x4 |$ x12 | x12 | x12 |$ x4 D4 x4 | %22
+ D4 x4 E4 | z ABE F4- F E3 |1$ z GFE F8 :|2 z GFE F8 |] %26
+V:3
+ A3 A z FGD E4 | E4 z D3- D4- | D4 z ^FGE E4 |$ E6 D2 x4 | x4 x4 G4 | ^G4 x2 =G2 x2 x2 |$ x12 |1 %7
+ x12 :|2 x12 |:$ x12 | x12 | x12 |$ x12 | x12 | x12 |$ x12 | x4 x cAF- F4 | x4 A4 abc'a |$ %18
+ bgeg ^c!courtesy!=fea gfef | ge^cd Adcf edcd | x12 |$ x12 | x4 x4 z G3 | x2 B2 x4 z2 G2 |1$ %24
+ x12 :|2 x12 |] %26
+V:4
+ z6 | x2 x2 x d | x6 |$ x6 | x6 | x6 |$ x6 |1 x6 :|2 x6 |:$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | %16
+ x2 x A- A2 | x/[I:staff +1] A,3/2[I:staff -1] x ^f x2 |$ x6 | x6 | x6 |$ x6 | x2 x2 x B | x6 |1$ %24
+ x6 :|2 x6 |] %26
+V:5
+"m" D4"m" x2[I:staff -1] G2- G4 |""[I:staff +1] x4"" x2[I:staff -1] ^F2- F4 | %2
+"m"[I:staff +1] x4"m" x4"" x4 |$"" x4 x4"" ^C4 |"" A,4"" x2 =B,2- B,4 | %5
+"" =B,4"" x[I:staff -1] BGE"m"[I:staff +1] x4 |$"" z4"m" z F,A,D- D2"m" =B,2 |1 %7
+"" z =B,^CD E4- E4 :|2"" z =B,^CD E4- E4 |:$"C{" z D ^C2-"""" C8- | %10
+"m" !courtesy!^C4"m" =C4"" z _EDC |"""" B,4"" B,4"" z C"m"D=B, |$"" C8"" C4 |"""" x12 | %14
+"m" z[I:staff -1] D"m"GA[I:staff +1] x4"m" z2"" C2- |$"" C2"" F2-"" F2 ED"""" C4 |"" x4 x4 C4 | %17
+"m" z A,D^F x4"" x4 |$"m""m""" G6 ^C2"m" z2"" D2 |"m" z2 G,2"m" z2 A,2"m" z2 B,2 | %20
+"" z2 E,2 A,2 E,2 ^C,2"" A,,2 |$"" z D,^F,A,- A,4"" z D,G,=B,- | B,4"m" z E,G,^C x4 | %23
+"" F,2"m" E,2 z ^CD^G,"" A,4 |1$"m" z B,A,G, A,8 :|2"m" z B,A,G, A,8 |] %26
+V:6
+ D,4 D8 | ^C4 =C8 | B,4 G,4 ^G,4 |$ A,8 G,4 | ^F,4 =F,8 | E,4 G,4 z _B,G,E, |$ %6
+ ^C,E,C,A,, x{D,8} F,3 x4 |1 A,8- A,!courtesy!=G,F,E, :|2 A,8- A,4 |:$ %9
+ A,4 G,4- G,B,A,!courtesy!=C | B,G,A,B, A,8 | B,2 A,2 G,4 F,4 |$ z2 G,2 C,2 G,2 B,4 | %13
+ A,6 G,2 F,2 A,2 | B,6 A,2 G,2 B,2 |$ A,2 B,2 C6 C,2 | F,4- F,4 z B,A,G, | ^F,4- F,G,A,B, CDE^F |$ %18
+ z2 G,2 A,4 B,4 | E,4 F,4 G,4 | ^C,12 |$ C,8 =B,,4- | B,,4 _B,,8 | A,,2 G,,2 A,, z D2 z2 A,,2 |1$ %24
+ D,8- D,D^C=B, :|2 D,12 |] %26
+V:7
+ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 |1 x6 :|2 x6 |:$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | %17
+ x6 |$ x6 | x6 | x6 |$ x/ D,3/2- D,2 x/ D,3/2- | D,2 x/ E,3/2- E,2 | x6 |1$ x6 :|2 x6 |] %26
+V:8
+ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 |1 x6 :|2 x6 |:$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | %17
+ x6 |$ x6 | x6 | x6 |$ x ^F,- F,2 x G,- | G,2 x G,- G,2 | x6 |1$ x6 :|2 x6 |] %26

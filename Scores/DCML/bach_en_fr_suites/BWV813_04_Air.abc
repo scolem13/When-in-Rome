@@ -1,0 +1,31 @@
+X:1
+T:French Suite No. 2
+T:Air
+C:Johann Sebastian Bach
+%%score { 1 | 2 }
+L:1/16
+Q:1/4=72
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ c=Bcd efg2 g2c2 c2c'g | _a2>g2 fedc =BABc defd |$ e2c2g2B2 _AGAf edcB |1 _afge gfed e8 :|2$ %4
+ _afge gfed e8 |: g_agf edcB ABcA F2f2- |$ f2ed cdec edcB b4- | b2ab c'bag ^fgaf dfac' |$ %8
+ Pb2>a2 Pa2>g2 g8 | =edef g_abg a2c2- cd_ec | dcde fg_af g2=B2- BcdB |$ cgfe fdec =Bfed ecd_B | %12
+ _Aedc d=BcA FcB=A BG_AF |$ EDEG c2E2 DEFd c=BAG | c=Bcd efg_a gfed cBAG |$ BGA2- Acde fde2- eefg | %16
+ _afgc' e2dc c8 :| %17
+V:2
+"m" C2C,2C2"m"B,2"m" _A,B,CB,"m" A,G,"m"F,"m"E, |"m" F,2G,2"m"_A,2"m"F,2"" G,2=A,2""=B,2""G,2 |$ %2
+"m" C,=B,,C,D,"" E,F,G,E,"m" F,2"m"_A,2""B,2""D,2 |1 %3
+"" E,2""_A,2""B,2""B,,2"" E,D,E,F,"" G,=A,=B,G, :|2$"" E,2""_A,2""B,2""B,,2"" E,2B,,2 E,,4 |: %5
+"" E,2F,2""G,2""E,2"" F,G,"m"A,B,"" CDEC |$"" D2""E2""F2""F,2"" B,2>A,2"m" G,F,""E,D, | %7
+"m" C,2D,2"m"E,2"m"C,2"" D,2=E,2""^F,2""D,2 |$"m" G,2"m"C,2""D,2D,,2"m" G,,2"C{"G,A,"" =B,CDB, | %9
+"" C2C,2C,2""C2"m" F,=E,F,G,"" _A,B,CA, |"" B,2B,,2B,,2""B,2"" E,D,"m"E,F,"" G,_A,B,G, |$ %11
+"" _A,2"m"G,2"m"A,2"m"F,2"" G,2"m"F,2"m"G,2""E,2 | %12
+"m" F,2"m"E,2"m"F,2"m"D,2"" G,2"m"F,2"m"E,2"m"D,2 |$ %13
+"m" C,=B,,C,D,"m" E,F,""G,2"" G,2"m"_A,,2"" G,,2CG, | %14
+"" _A,2>""G,2"m" F,E,D,""C,"" =B,,A,,B,,C,"" D,E,F,D, |$ %15
+"m" =E,G,""F,_E,"" D,C,"m"=B,,A,, B,,D,"m"C,_B,,"" _A,,"m"G,,"m"F,,"m"E,, | %16
+"m" F,,D,,"m"E,,C,,"" G,,2""G,,2"m" C,,8 :| %17

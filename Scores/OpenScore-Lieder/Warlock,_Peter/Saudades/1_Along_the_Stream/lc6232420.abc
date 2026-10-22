@@ -1,0 +1,86 @@
+X:1
+T:Saudades
+T:Along the stream
+C:Peter Warlock
+Z:Li Tai Po
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 7 8 ) | ( 4 5 6 9 ) }
+L:1/8
+Q:1/8=48
+M:none
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:7 treble 
+L:1/4
+V:8 treble 
+L:1/4
+V:4 bass 
+V:5 bass 
+V:6 bass 
+L:1/4
+V:9 bass 
+L:1/4
+V:1
+"^Andante  (about 96)" x8 x2 | x8 x2 |"^lunga" !fermata!z ^F ^G B ^c B c e | %3
+w: ||The rust- ling night- fall strews my|
+ ^f2 e !tenuto!B2 B z ^c | e e e A B =c | d3/2 d/ d3 ^c (3:2:2_B B2 A G | %6
+w: gown with ro- ses, And|wine- flush’d pe- tals bring for-|get- ful- ness Of sha- dow af- ter|
+ (3:2:2e d2 !tenuto!^c !tenuto!=B E2 z2 z4 | z2 (3:2:2B2 ^c d2 c ^A | %8
+w: sha- dow strid- ing past:|I a- rise with the|
+ (3:2:2B2 B (3^d3/2 ^A/ A z2 z B | B A/ A/ =d c/ c/ _B3/2 B/"^Più lento" A3/2 A/ ^G =B | %10
+w: stars ex- ult- ant- ly, And|fol- low the sweep of the moon a- long the hush- ing|
+ (A2 =G) z z2 z2 |!pppp! (_A3 _B) _c2 (B=G) | (=A6-!>(! AG)!>)! | !fermata!z4 !fermata!z4 | %14
+w: stream, _|Where _ no birds *|wake. _ _||
+ z2 z2!pp! ^G2 G G | ^G2 A2!ppp!!>(! (=f2!>)!"^Molto più lento" e2) (3:2:2z2 d (3:2:2c2 _B | %16
+w: On- ly the|long- drawn sigh _ of wa- ry|
+ (3:2:2_A2 F z2 z2 (3=G3/2 G/ G- G/ z/ G | _B4 z4 z2 z2 z2 | !fermata!z8 |] %19
+w: voi- ces whis- per- ing _ Fare-|well!||
+V:2
+!mp! z ((^fG) B^c=a"^ten." f[^F-d] [F^d]2) | %1
+"^ritenuto" z2 z2"^molto più lento" !tenuto!^c4 !tenuto!^G2 | %2
+!p!"^lunga" (!tenuto!!fermata!^F4 !tenuto!^G3 !tenuto!A | B4) (!tenuto!E3 !tenuto!^F | %4
+ !tenuto!G2) ^F4 |"_poco rit."!<(! (!tenuto!G3 !tenuto!A!<)!!>(! (!tenuto!_B2)!>)! B4) | %6
+ (=B2 _BA) e"_rit. molto" d3!>(! d4!>)! | %7
+!pp! (3([^^F,^E][^A,^A][=E^G] (3[B,^^F][^C^E][B,G] (3[=D=G][_B=e][^F=A] (3B_G=G | %8
+ (3([E^G]) [^A^g][Ge]- (3[Ge][^^F^d][=E-A] (3[EB]) [eb][Bg] !arpeggio![EAe] !arpeggio![^DB^f] | %9
+!p! (g^f_ed) (3:2:2!tenuto!^A2 !tenuto!=B !tenuto!c2 !tenuto!B!tenuto!^G | %10
+ z!p! (!>!_B2 !>!c!>(! !>!_d2 !>!c!>)!!>!A) |!pppp! (_B4 =A2 ^G2) | %12
+"_ritenuto"!<(! (!tenuto!=G3 !tenuto!A !tenuto!_B4)!<)! | %13
+!>(! (!tenuto!!fermata!A4 !tenuto!!fermata!^F4)!>)! |!pp! z!<(! (^c2 ^d!<)! e2!>(! d^B | %15
+ ^c2 =c!>)!A _B2) !tenuto!A2- (3:2:2A2 =B !>!c2- | (3:2:2c2 _A _c2- (3:2:2c2 (=G !>!_B2-) (3B GB | %17
+"^L.H." _b4!<(! x4!<)!"_pochiss."!sfz! x4 (3:2:2!tenuto!!fermata!^G2 z |!ppp! !fermata!^C8 |] %19
+V:3
+ x3 B2 ^A =A4 | x2 x2 ^F4 x2 | ^D4 D3 E | =G4 ^C4 | E2 (!tenuto!E3 !tenuto!_E) | %5
+ D4 [D_B][^CA] [DG]4 | F4 E3 E- E4 | ^E z x2 x2 (3:2:2(_D _B,2) | =B, x x6 | %9
+ (BAG^F/=F/ ^D2) !tenuto!=D2 ^D2 | !tenuto!A2 G x x4 | _E4 D4 | _E8 | C8 | ^^F4 ^G4- | %15
+ ^G^E =E2 ^D^C (=D=C) ED _G2 | (3:2:2F2 D F2- (3:2:2F2 [D=E] [C_E]2- (3[CE] [D=E][C_E] | %17
+ !arpeggio![_B,F_d]4 !tenuto!^C3 !tenuto!^D !tenuto!=E4- (3E2 D/^B,/ | x8 |] %19
+V:4
+"^cantabile" (!tenuto!^C3 !tenuto!^D !tenuto!E2 !tenuto!D!tenuto!^B, !tenuto!!fermata!C2 | %1
+ =CA,- (3A, CA, D2) ^CD- (3DCD | ^C4 C4 | D4 B,4 | B,2 !tenuto!A,4 | G,4 (G,2 F,3 E,) | %6
+ (D4 D3) D- D4 |!mf!"_marc. ma non pesante" [^C,,^C,]3 [^D,,^D,] [=E,,=E,]2 [D,,D,][^B,,,^B,,] | %8
+ z (!tenuto!B, !tenuto!^A,2) z !tenuto!^D !arpeggio!=D !arpeggio!=A, | %9
+ (E2 DC (3:2:2=B, ^A,2) =A,3 =C | _D4 =D3 E | _C4 =B,4 | =C8 | E8 | z2 (^B,2 =B,2 ^A,2 | %15
+ =A,4) G,2 ^F,2 A,2 (3_B,C[I:staff -1]_B |[I:staff +1] (3:2:2_A,2 C _E2- (3:2:2E2 A,- A,2- A,G, | %17
+!ped! z2 !>!F2 !>!_B,4!ped-up!!ped! [^D,,=B,,^G,]4 x2!ped-up! | [E,^G,^A,]8 |] %19
+V:5
+ x10 | x4 _B,2 A,B,- (3B,A,B, | A,4 (^G,3 ^F, | E,4) (=G,3 ^F, | [D,E,]2) C,4 | _B,,4 A,,2- A,,4 | %6
+ ^G,2 A,2 _B,3 A, G,2 A,2 | x8 | [^C,,^C,]2 z (!tenuto!^B,, !tenuto!C,2) [=C,=G,] [B,,^F,] | %9
+ (^C=C_B,A,/^G,/ (3:2:2=G, ^F,2) =F,2 ^F,2 | _B,4 (A,2 ^G,C) | F,4 E,4 | (=A,4 G,4) | (^F,4 A,4) | %14
+ ^D,4- D,4- | ^D,2 ^F,2 E,2 ^G,,2 =F,2 _E,2 | (3:2:2D,2 F, _A,2- (3:2:2A,2 [F,,_B,,]- [F,,B,,]4 | %17
+ [_E,,_A,,_G,]4 x4 x4 x2 | x8 |] %19
+V:6
+ x5 | x x z/ !tenuto!^G,,/- G,,2 | x4 | x4 | x3 | x5 | x6 | x4 | x4 | x5 | x4 | x4 | x4 | x4 | x4 | %15
+ x6 | x5 | x7 | x4 |] %19
+V:7
+ x5 | x5 | x4 | x4 | x3 | x5 | x2 G3/2 A/ _B !tenuto!A/!tenuto!E/ | x4 | x4 | x5 | x4 | x4 | x4 | %13
+ x4 | x4 | x6 | x5 | z2 z2 z!pp!!>(! !tenuto!^c!>)! x | x4 |] %19
+V:8
+ x5 | x5 | x4 | x4 | x3 | x5 | x6 | x3 (3:2:2=F =E/- | x4 | x5 | E2 F3/2 ^F/ | x4 | x4 | x4 | x4 | %15
+ x4 B, x | x5 | x7 | x4 |] %19
+V:9
+ x5 | x5 | x4 | x4 | x3 | x5 | x6 | x4 | x2 ^G, x | x5 | x4 | x4 | x4 | x4 | x4 | x6 | x5 | x7 | %18
+ x4 |] %19

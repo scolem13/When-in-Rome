@@ -1,0 +1,45 @@
+% Lute Suite BWV 997: 5. Double: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=54
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Lute Suite BWV 997: 5. Double
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 )
+L:1/16
+Q:1/4=80
+M:6/8
+I:linebreak $
+K:Amin
+V:1 bass nm="GuitarStaff" snm="Ac Gtr"
+V:2 bass 
+V:1
+ x8 x FED | CECA,^G,A, CECA,G,A, | CECA,^G,A, A2>A,2CE | FEDCB,A, ^G,FEDCB, | %4
+ CB,A,^G,A,E, C,E,D,C,B,,A,, | E,,B,,D,^G,^DE ^F,,A,,C,A,DE | ^G,,A,,B,,=D,B,D CB,A,^G,A,C | %7
+ D,CB,A,B,D FEDCB,A, | ^G,E,,^G,,B,,E,G, B,DE^GBd | cBA^GAc EF=G_BAG | FED^CDF A,=B,=CEDC | %11
+ B,A,G,^F,G,B, DE=FAGF | EDCB,CE ^G,A,B,DCB, | ^F,^G,A,B,C^D E,G,A,CDE | ^D,^G,A,C^F=G AF^DCB,A, | %15
+ G,4 ^FE B,2->F2E^D | EB,^G,E,B,,^G,, E,,2>c2BA | ^GBGE^DE FBF=DCB, | ^CECA,^G,A, _B,EB,=G,F,E, | %19
+ F,A,G,F,[E,F,,]2 ^C,_BAG[FA,,]2 | FED^CDA, F,A,[D,F,,]- z F,[A,F,,]- | %21
+ [A,F,,][B,G,,]2F,D,G,,2 [DB,,]2F,D,G,,- | G,,[EC,]2_B,G,C,2 [GE,]2B,G,C,- | %23
+ C,A,CDE[FD,]2 FEDC[GA,,]- | [GA,,] G4 F, G,B,DFGB | =F,E,2G,^F,G, C[DB,,]2EG,=F | %26
+ G,C,2DCD E[FD,]2GCA | C[GE,]2D_B,[A,C,]2 [A,F,,]2F,C,F,,- | %28
+ F,,[=B^G,,]2FD[CE,,]2 [CA,,]2A,E,A,,- | A,,^F=GAF^D =DCD^DCB, | A,B,CDB,^G, =G,=F,G,^G,F,E, | %31
+ D,E,G,A,B,[CE,]2 EGEC[DG,,]- | [DG,,]CGECG, E,2<C,2-cB | %33
+ A[^GB,,]2[EC,]2[ED,]2 [AC,]2[=G^C,]- z F | [ED,]2[^CE,]2[A,F,]2 [A,G,]2[DF,]2[=CD,]- z | %35
+ =B,[A,E,]2[B,^F,]2[=C^G,]2 [DA,]2[E=F,]2[FC,]- | z E[DD,]2B,A, ^G,^F,E,^D,[E,E,,]2 | %37
+ ^G,,-F[EE,,]2CE CA,^G,A,CE | CA,^G,A,CE CA,G,A,A2- | AA,CEFE DCB,A,^G,F | %40
+ EDCB,CB, A,^G,A,E,=G,_B, | ^CEFGFE DCDFA,=B, | =C^D=DCB,A, G,^F,G,B,DE | FAGFED CB,CEG,A, | %44
+ _B,DCB,A,G, F,E,F,A,C,D, | E,G,F,E,=B,,^C, D,E,F,^G,A,,C, | D,F,^G,A,^G,,^C, D,F,B,=CDB, | %47
+ ^G,F,E,D, C,4 [A,A,,]2CE | CA,[B,E,,]2AE CA,E,C,A,,2- | A,, x8 x3 |] %50
+V:2
+ x3 x9 | A,,4 z2 =G,,2->G,,2 z2 | F,,4 z2 C,A,,E, z3 | D,4 z2 E,2->E,2 z2 | A,,4 z8 | z12 | %6
+ z6 A,,2->A,,2 z2 | F,,4 z2 D,2->D,2 z2 | z12 | A,,4 z2 C,2->C,2 z2 | D,4 z2 F,2->F,2 z2 | %11
+ G,,4 z2 B,,2->B,,2 z2 | C,4 z2 E,2->E,2 z2 | z12 | z6 B,,3 z3 | z BAG z3 AGB, z2 | E,3 z8 z | %17
+ E,,4 z2 ^G,,2->G,,2 z2 | G,,4 z2 ^C,2->C,2 z2 | D,4 z D, E,,2->E,,2 z E | D,4 z6 [D,F,,] z | %21
+ =C z E, z3 C z E, z3 | D z A, z3 F z A, z3 | _B, F,4 z =B,2<C,2-C, z | ^F z G,,B,,D, z7 | %25
+ z2 C z4 z G, z3 | z2 E z4 z C z3 | z2 C z3 G, z E, z3 | A z E z3 B, z ^G, z3 | %29
+ ^G =D,4 z2 ^F,2->F,2 z | z =G,4 z2 B,,2->B,,2 z | z C,4 z D2<G,2-G, z | B, C,4 z4 z C, z | %33
+ z2 F z D z ^G z A, z2 [=G^C,] | z D z _B, z G, z ^C z A, z2 | [CD,] z ^G, z A, z B, z C z D z | %36
+ z [=FC,] z C E,,6 z2 | z ^G,, z =D A,,4 z2 =G,,2- | =G,,-G,, z2 F,,4 z2 C,A,, | %39
+ E, z3 D,4 z2 E,2- | E,-E, z2 A,,4 z4 | z4 D,4 z2 F,,2- | =F,,-F,, z2 G,,4 z2 B,,2- | %43
+ B,,-B,, z2 C,4 z2 E,,2- | E,,-E,, z2 F,,4 z2 A,,2- | A,,-A,, z8 z2 | z8 z2 E,,2- | %47
+ E,, z4 E, ^F,^G, z B,E,2- | E,-E, z ^G A,,6 z2 | z x8 x3 |] %50

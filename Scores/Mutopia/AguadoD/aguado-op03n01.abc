@@ -1,0 +1,39 @@
+% 8 Petites Pièces for Guitar, No. 1: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2041
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:8 Petites Pièces for Guitar, No. 1
+C:D. Aguado
+%%score ( 1 2 3 )
+L:1/16
+Q:1/4=90
+M:3/8
+I:linebreak $
+K:C
+V:1 bass nm="Guitar" snm="Ac Gtr"
+V:2 bass 
+V:3 bass 
+L:1/8
+V:1
+ [CC,]2[CE,]2[CG,]2 | (3:2:1[DEC,]/ [EC,]5/3E,2[CG,]2 | [CC,]2[CE,]2[CG,]2 | %3
+ (3:2:1[DGB,,]/ [GB,,]5/3D,2[DG,]2 | [DB,,]2D,2[^FG,]2 | [DC,]2E,2[EG,]2 | [D^F,,]2[CA,,]2[CD,]2 | %7
+ [G,G,,]4 z2 | [GB,,]2[FD,]2[FG,]2 | [EC,]2E,2[CG,]2 | [G,F,,]2B,,2[A,D,]2 | CB,CDEF | %12
+ [G^C,]2E,2[FA,]2 | GFEF[GF,]2 | [AG,] G,3 [EF,G,,]2 | [CE,C,]4 (3:2:1D/ z2 |[K:F] =B,CB,CB,C | %17
+ C2>D2[CA,F,]2 | =B,CDC(3:2:2B,2C- | A4 (3:2:1C/ [FA,F,]2 | CDEFGA | B4 [AB,G,]2 | B4 [AB,G,]2 | %23
+ F4 [CG,E,]2 | =B,CB,CB,C | C2>D2[CA,F,]2 | =B,CDC(3:2:2B,2C- | A4 (3:2:1C/ [FA,F,]2 | CDEFGA | %29
+ A4 [GG,E,]2 | G4 [FG,F,]2 | [CE,C,]4 z2 | BAcBGE | C2>_D2[CB,E,]2 | =B,C_D=D_E=E | F4 [CA,F,]2 | %36
+ FEGFAC | [D,=B,]6 | [D,=B,]6 | [CE,C,]4 z2 | =B,CB,CB,C | C2>D2[CA,F,]2 | =B,CDC(3:2:2B,2C- | %43
+ A4 (3:2:1C/ [FA,F,]2 | CDEFGA | B4 [AB,G,]2 | B4 [AB,G,]2 | [FA,F,]4 z2 |] %48
+V:2
+ (3:2:1z2 D (3:2:1z B, (3:2:2z2 D- | z3 D z2 | (3:2:1z2 D (3:2:1z B, (3:2:2z2 D- | z3 F z2 | %4
+ z3 E z G | z3 ^F z D | z [CD] z B, z A, | x6 | z [FG] z E z D | z3 D z2 | z3 G, z [B,D] | E,,6 | %12
+ z3 G z E | D,4 z A- | z CB,C (3:2:2z2 D- | x19/3 |[K:F] x6 | F,,6 | x6 | F,,6 x/3 | x6 | C,6 | %22
+ C,6 | F,,6 | x6 | F,,6 | x6 | F,,6 x/3 | x6 | C,6 | =B,,6 | x6 | x6 | C,6 | x6 | F,,6 | x6 | %37
+ z2 [F,_A,]G,[F,A,]G, | z2 [F,_A,]G,[F,A,]G, | x6 | x6 | F,,6 | x6 | F,,6 x/3 | x6 | C,6 | C,6 | %47
+ x6 |] %48
+V:3
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x19/6 |[K:F] x3 | %17
+ z [A,F,] z | x3 | z [A,F,] z x/6 | x3 | z [B,G,] z/ G/ | z [B,G,] z/ G/ | z [G,E,] z | x3 | %25
+ z [A,F,] z | x3 | z [A,F,] z x/6 | x3 | z [G,E,] z/ E/ | z [G,F,] z/ D/ | x3 | x3 | z [B,E,] z | %34
+ x3 | z [A,F,] z | x3 | x3 | x3 | x3 | x3 | z [A,F,] z | x3 | z [A,F,] z x/6 | x3 | %45
+ z [B,G,] z/ G/ | z [B,G,] z/ G/ | x3 |] %48

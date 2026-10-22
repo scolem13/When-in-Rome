@@ -1,0 +1,58 @@
+X:1
+T:Keyboard Sonata in C major
+T:Grave
+C:Wilhelm Friedemann Bach
+%%score { ( 1 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=84
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+L:1/16
+V:2 treble 
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+!p!"^Grave." [ce]4 !turn![df]4 z3 [df] |{eg} [df]4 [ce]4 z3 a | (c4 B2>)f2{g/4} fe z B | %3
+ (d4 c2>)a2 (a3b/c'/) |$ (c'f) z2 z3 f f2eB |$ Pc2->B2 [CA]4 z4 | [ec']4 [ce]4 z3 e | %7
+{df/} e4 d4 z3 G | (c2>g2) (f2>e2) (dc) z G |$ (_B2A)a (g2>f2) (ed) z A |$ %10
+ c4- (3cBd(3fed{e/4} (3dce(3gfe |{f} Pe4 d4 z4 | (G3A/B/) B3c/d/ d3e/f/ |$ fg/a/.a.a z a z a a4 |$ %14
+ g2!turn!af e6 d2 | (^c3d/e/) d2a2 f2A2 | B3c/d/ c3d/e/ d3e/f/ | f2G2 G4 z4 |$ %18
+!f! [EG]4 !turn![FA]4 z3 [FA] |{G_B/} [FA]4 [EG]4 z3 G |$ G4 g4 z3 g | (g3f/e/) (d4 ^c2) z A | %22
+ A4 a4 z3 a | (a3g/^f/){e2} ^d8 |$!p! B4 !turn!c4 z3 c |({Bd/} c4) B4 z3 e |$ (G4 ^F4) z3 d | %27
+ (F4 E4) z3 c | (E4 ^D2) A4 a2 | a3b/c'/ c'2c'2 z3 c' |$ (c'4 b2)d'2 c'2b2 |{b} a4 !turn!^g4 z4 |$ %32
+ [ce]4 !turn![df]4 z3 [df] |{eg/} [df]4 [ce]4 z3 a | c4 B4 z3 g | _B4 A4 z3 f | A4 G2 f4 e2 |$ %37
+{d} c4 !turn!B4 z4 |$ (E3^F/^G/) G3A/B/ B3c/d/ | de/f/.f.f z f z f (f4 | e2)!turn!fd c4 B2>^c2 |$ %41
+ ^c8- cdf>^g | aefd{c2} B8 | A8 !fermata!z4 |] %44
+V:2
+ A2 ^G2 z3/2 G/ | A2 x2 z2 | z [DA] [DA][DA] z [E^G] | z [FA] [FA][FA] z C |$ %4
+ z [DA] [DA][DA] z [E^G] |$ AE x4 | A2 G2 z3/2 c/ | c2 B2 z3/2 x/ | x6 |$ x6 |$ x4 E(3e/d/c/ | %11
+{d} c2 B2 z2 | z2 G3/2A/4B/4 B3/2c/4d/4 |$ d/e/4f/4f/f/ z/ f/ z/ f/ f2 |$ %14
+ ef/d/ [Gc][Gc] [G_B][GB] | [GA][GA] [FA]2 z2 | [FG][FG] [EG][EG] [B,G][B,G] | %17
+ [B,G][B,F] [B,F]2 z2 |$ C2 B,2 z3/2 B,/ | C2 x2 z2 |$ z [CE] [CE][CE] [B,D][_B,D] | z ^C EE GG | %22
+ z F FF EE | z ^D ^FF AA |$ G2 A2 z3/2 A/ | A2 G2 z2 |$ x6 | x6 | x6 | ^f3/2g/4a/4 aa x3/2 a/ |$ %30
+ (a2 ^g)f ed |{d} c2 B2 z2 |$ A2 ^G2 z3/2 G/ | A2 x2 z3/2 x/ | z [DA] [DA][DA] [EG][DG] | %35
+ z [^CG] [CG][CG] [DF][=CF] | z ^F D d2 c |${B} A2 ^G2 z2 |$ z2 E3/2^F/4^G/4 G3/2A/4B/4 | %39
+ B/c/4d/4d/d/ z/ d/ z/ d/ (d2 | c)d/B/ AA AG |$ A4- AB | A4 ^G2 | x6 |] %44
+V:3
+"m""m" x4 x2 |"m" x2"m" A,2 z2 |"m""m" x4"" x2 |"""" x4"m" x2 |$"m""m" x4"" x2 |$"m" A,2 z A, CE | %6
+"""" x4 z3/2"m" ^F/ |"" G2"" G,2 z2 |"" G,""E,"" z"" G, z"" C |$"" C/^C/"m"D"m" z"m" D z"" D |$ %10
+"" z E"" D""B,"" x2 |"m" ^F,2"" G,G,, B,,D, |"C{" G,G,, z G,, z G,, |$"""m" z2 B,B, B,B, |$ %14
+"" C"m"F"" x2"m""m" x2 |"""m" x4 x2 |"""" x4"" x2 |"" x4 x2 |$"""m" x4 x2 |"" x2"" C,2 x2 |$ %20
+"C{" x4"""m" x2 |"" z A,"" A,A,"" A,A, |"m" z D DD"" ^C"m"=C |"" z B,"" B,B,"" B,B, |$ %24
+"m" E2"m" ^D2 z3/2 D/ |"m" E2"m" E,2 z2 |$"m" z E"m" EE"m" DD |"" z D"" DD"m" CC | %28
+"m" z C"m" z"" C C"m"C |"" B,B,"m" z ^D DD |$"" EE,"" z2 z"" E |"m" ^D2"" E2 z2 |$"m""m" x4 x2 | %33
+"m" x2"m" A,2 z2 |"m""m" x4"m" x2 |"""" x4"m" x2 |"" z B,"" B,"m"A,"m""" ^G,2 |$ %37
+"m" A,2"" E,E,, ^G,,B,, |$"C{" E,E,, z E,, z E,, |"""m" z2 ^G,G, G,G, |"m" A,"m"D"" EE"" E"m"E |$ %41
+"m" F4-"m" F"m""m"D |"m" C"m"D"" E2"" E,2 |"m" A,4 !fermata!z2 |] %44
+V:4
+ x6 | x6 | x6 | x5 E |$ x6 |$ x6 | x6 | x6 | x6 |$ x6 |$ x6 | x6 | x6 |$ x6 |$ x6 | x6 | x6 | x6 |$ %18
+ x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 |$ x6 | x6 | x6 | x6 | %36
+ x6 |$ x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |] %44
+V:5
+ x6 | x6 | x6 | x6 |$ x6 |$ x6 | x6 | x6 | E,C, z C, z E, |$ F,F, z D, z ^F, |$ G,G, G,G, G,G, | %11
+ x6 | x6 |$ x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 |$ z A, A,A, B,A, | %27
+ z ^G, G,G, A,=G, | z ^F, z =F, F,E, | ^D,D, z x3 |$ x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 |$ %38
+ x6 | x6 | x6 |$ x6 | x6 | x6 |] %44

@@ -1,0 +1,43 @@
+X:1
+T:Jesu, nun sei gepreiset
+T:Jesu, nun sei gepreiset
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ e | e c d e | f2 !fermata!d d | d c c B | !fermata!c2 z d | d d d e | c2 !fermata!c c | B c d d | %8
+ !fermata!c3 x :: B x3 | B B B B | c2 !fermata!c B | B B B B | c2 !fermata!c x || e x2 | %15
+ x e d c x | d2 e x | f3 x | !fermata!e2 e x | d2 d x | ^c2 c x | d3- x | !fermata!d2 e x | %23
+ e d c x | d2 e x | f3 x | !fermata!e2 e x | d2 d x | ^c2 c x | d3- x | !fermata!d2 x || x e x3 | %32
+ e c d e | f2 !fermata!d d | d c c B | !fermata!c3 x || %36
+V:2
+ G | G G G G | F/G/ A !fermata!_B A | G G A G | !fermata!G2 z G/^F/ | G3/2 ^F/ G G | %6
+ G =F/E/ !fermata!F G | G/F/ E A G/F/ | !fermata!E3 x :: G x3 | G A G ^G | A2 !fermata!A A | %12
+ A G D G | G2 !fermata!G x || G x2 | x G2 G x | G A B x | c B A x | !fermata!G2 c x | B A G x | %20
+ A _B G x | F2 _B x | !fermata!A2 A x | B2 A x | A2 =G x | A2 G x | !fermata!G2 G x | F G A x | %28
+ G A _B x | A _B G x | !fermata!^F2 x || x A x3 | G G G G | A2 !fermata!G G | G G G/A/ G/F/ | %35
+ !fermata!E3 x || %36
+V:3
+ c | c/d/ e d c | c f !fermata!f A | =B c f/e/ d | !fermata!e2 z B/A/ | B/A/B/c/ d c/_B/ | %6
+ _B A/G/ !fermata!A e | d c c =B | !fermata!G3 x :: d x3 | d/e/ ^f e e | e2 !fermata!e =f | %12
+ e e/f/ g f- | f e/d/ !fermata!e x || c x2 | x c d e x | d2 g x | c2 d x | !fermata!e2 g x | %19
+ g f e x | f e2 x | d2 e x | !fermata!f2 c x | B e e x | A B c- x | c B/A/ B x | !fermata!c2 A x | %27
+ A2 d x | e2 e x | A d _B x | !fermata!A2 x || x c x3 | c c B c | c/e/d/c/ !fermata!B B | %34
+ B c/d/ e d/G/ | !fermata!G3 x || %36
+V:4
+ C, | C, C B, _B, | A, G,/F,/ !fermata!_B, ^F, | G,/=F,/ E, F, G, | !fermata!C,2 z G,, | %5
+ G,/^F,/G,/A,/ B,/G,/ C | =F,2 !fermata!F, E,/F,/ | G, A,/G,/ F, G,/G,,/ | !fermata!C,3 x :: %9
+ G,, x3 | G,/^F,/E,/^D,/ E,/=D,/C,/B,,/ | A,,2 !fermata!A,, D, | E,/F,/G,/A,/ G,/F,/E,/D,/ | %13
+ C,2 !fermata!C, x || C, x2 | x C B, A, x | B, A, G, x | A,2 B, x | !fermata!C2 C, x | %19
+ G, A, _B, x | A, G, A, x | _B, A, G, x | !fermata!D,2 A, x | ^G,2 A, x | F,2 E, x | D,2 G, x | %26
+ !fermata!C,2 ^C, x | D, E, F, x | E, F, G, x | ^F, G, G,, x | !fermata!D,2 x || x A,,/B,,/ x3 | %32
+ C,/D,/E,/C,/ F,/G,/F,/E,/ | D,/E,/F,/D,/ !fermata!G,/A,/G,/F,/ | E,/D,/E,/F,/ G,/F,/G,/G,,/ | %35
+ !fermata!C,3 x || %36

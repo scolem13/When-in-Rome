@@ -1,0 +1,56 @@
+% Six Progressive Studies: No. I: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1058
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Six Progressive Studies: No. I
+C:KnjzeF
+%%score ( 1 2 )
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="A" snm="Ac Gtr"
+V:2 treble 
+L:1/8
+V:1
+ x3 G | [cGC] [cGE] [cGD] [BGF] | [cGE] [cGC] [dGB,]- [dGB,] | [ecGC] [ecGC] [^fcAD] [fcAD] | %4
+ G,/G/ B/g/ =f/D/ G/B/ | [cGC] [cGE] [BGF] [BGD] | [cGE] [cGC] [dGB,]- [dGB,] | %7
+ [ecGC] [ecGC] [BGDG,] [BGDG,] | [cEC] [eG] [cEC] G | [cGC] [cGE] [cGD] [BGF] | %10
+ [cGE] [cGC] [dGB,]- [dGB,] | [ecGC] [ecGC] [^fcAD] [fcAD] | G,/G/ B/g/ =f/D/ G/B/ | %13
+ [cGC] [cGE] [BGF] [BGD] | [cGE] [cGC] [dGB,]- [dGB,] | [ecGC] [ecGC] [BGDG,] [BGDG,] | %16
+ [cEC] [eG] [cEC] G | [BG] [BGF] [cGE] [cGC] | [dGB,] [dGG,] [ecGC]- [ecGC] | F2 F- d/A/ | %20
+ [eB^GE]2 f/D/ =G/B/ | [cGE] [cGE] [ec_BC] [ecBC] | [fcAF] [fcAF] [g^cAA,]- [gcAA,] | %23
+ [fdAD] [fdAD] [BGDG,] [BGDG,] | [cEC] [eG] [cEC] G | [BG] [BGF] [cGE] [cGC] | %26
+ [dGB,] [dGG,] [ecGC]- [ecGC] | F2 F- d/A/ | [eB^GE]2 f/D/ =G/B/ | [cGE] [cGE] [ec_BC] [ecBC] | %30
+ [fcAF] [fcAF] [g^cAA,]- [gcAA,] | [fdAD] [fdAD] [BGDG,] [BGDG,] | [cEC] [eG] [cEC] G | E2 F D | %34
+ E2 B,- d/G/ | C2 D- c/^f/ | G,2 D- B/=f/ | E2 F D | E2 B,- d/G/ | C2 G,- G/B/ | C2 C G | E2 F D | %42
+ E2 B,- d/G/ | C2 D- c/^f/ | G,2 D- B/=f/ | E2 F D | E2 B,- d/G/ | C2 G,- G/B/ | C2 C G | %49
+ F2 E- c/G/ | B,2 C- c/e/ | F2 F- d/A/ | E2 D- B/f/ | E2 C- c/e/ | F2 A,- ^c/g/ | D2 G,- G/B/ | %56
+ C2 C G | F2 E- c/G/ | B,2 C- c/e/ | F2 F- d/A/ | E2 D- B/f/ | E2 C- c/e/ | F2 A,- ^c/g/ | %63
+ D2 G,- G/B/ | C2 C G | C E D F | E C B,- (3f/G/d/ | C2 D- (3^f/A/c/ | G,2 G,- (3=f/G/B/ | %69
+ C E D F | E C B,- (3f/G/d/ | C2 G,- (3B/D/G/ | C2 C G | C E D F | E C B,- (3f/G/d/ | %75
+ C2 D- (3^f/A/c/ | G,2 G,- (3=f/G/B/ | C E D F | E C B,- (3f/G/d/ | C2 G,- (3B/D/G/ | C2 C G | %81
+ G, F, E, C | B, G, C (3e/G/c/ | F F F F | E2 =D- (3f/G/B/ | E2 C- (3e/_B/c/ | F2 A,- (3g/A/^c/ | %87
+ D2 G,- (3B/D/G/ | C2 C G | G, F, E, C | B, G, C (3e/G/c/ | F F F F | E2 =D- (3f/G/B/ | %93
+ E2 C- (3e/_B/c/ | F2 A,- (3g/A/^c/ | D2 G,- (3B/D/G/ | C2 C x |] %97
+V:2
+ x2 x6 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %19
+ z A dA z A F2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z A dA z A F2 | z8 | z8 | z8 | z8 | z8 | %33
+ z G cG z [BG] z [BG] | z G cG z G B,2 | z G ce z A D2 | z G Bg z G D2 | z G cG z [BG] z [BG] | %38
+ z G cG z G B,2 | z G ce z D G,2 | z E Gc z4 | z G cG z [BG] z [BG] | z G cG z G B,2 | %43
+ z G ce z A D2 | z G Bg z G D2 | z G cG z [BG] z [BG] | z G cG z G B,2 | z G ce z D G,2 | %48
+ z E Gc z4 | z G BG z G E2 | z G dG z G C2 | z A dA z A F2 | z ^G Be z =G D2 | z G cG z _B C2 | %54
+ z A =cf z A A,2 | z A df z D G,2 | z E Gc z4 | z G BG z G E2 | z G dG z G C2 | z A dA z A F2 | %60
+ z ^G Be z =G D2 | z G cG z _B C2 | z A =cf z A A,2 | z A df z D G,2 | z E Gc z4 | %65
+ (3z Gc (3z Gc (3z GB (3z GB | (3z Gc (3z Gc (3z Gd B,2 | (3z Gc (3eGc (3z Ac D2 | %68
+ (3z GB (3gGB (3z GB G,2 | (3z Gc (3z Gc (3z GB (3z GB | (3z Gc (3z Gc (3z Gd B,2 | %71
+ (3z Gc (3eGc (3z DG G,2 | (3z EG (3cEG z4 | (3z Gc (3z Gc (3z GB (3z GB | %74
+ (3z Gc (3z Gc (3z Gd B,2 | (3z Gc (3eGc (3z Ac D2 | (3z GB (3gGB (3z GB G,2 | %77
+ (3z Gc (3z Gc (3z GB (3z GB | (3z Gc (3z Gc (3z Gd B,2 | (3z Gc (3eGc (3z DG G,2 | %80
+ (3z EG (3cEG z4 | (3z GB (3z GB (3z Gc (3z Gc | (3z Gd (3z GB (3z Gc z2 | %83
+ (3z Ad (3z Ad (3z A^d (3z Ad | (3z ^GB (3eGB (3z =GB D2 | (3z Gc (3eGc (3z _Bc C2 | %86
+ (3z A=c (3fAc (3z A^c A,2 | (3z Ad (3fAd (3z DG G,2 | (3z EG (3cEG z4 | %89
+ (3z GB (3z GB (3z Gc (3z Gc | (3z Gd (3z GB (3z Gc z2 | (3z Ad (3z Ad (3z A^d (3z Ad | %92
+ (3z ^GB (3eGB (3z =GB D2 | (3z Gc (3eGc (3z _Bc C2 | (3z A=c (3fAc (3z A^c A,2 | %95
+ (3z Ad (3fAd (3z DG G,2 | (3z EG (3cEG z2 x2 |] %97

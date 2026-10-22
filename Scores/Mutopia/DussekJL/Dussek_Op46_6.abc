@@ -1,0 +1,174 @@
+% Six sonates faciles pour le Piano Forte (VI): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1611
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Six sonates faciles pour le Piano Forte (VI) (1)
+C:J. L. Dussek (1760-1812)
+%%score 1 ( 2 3 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:G
+V:1 bass nm="down"
+V:2 treble nm="up"
+V:3 treble 
+L:1/8
+V:1
+ x12 G,,2G,2 | D,2B,,2 G,,2G,2 D,2B,,2 G,,4 | x16 | D,4 E,4 F,4 G,4 | x16 | D,4 E,4 F,4 G,DB,D | %6
+ G,DB,D G,DB,D G,DB,D G,DB,D | G,DB,D G,DB,D G,DB,D F,DA,D | F,DA,D F,DA,D F,DA,D F,DA,D | %9
+ F,DA,D F,DA,D F,DA,D [G,B,]4 | x4 [A,C]4 x4 [G,B,]4 | x4 [D,A,C]4 x4 [G,B,]4 | %12
+ G,A,B,C D2B,2 A,2G,2 D,2D2 | A,2F,2 D,4 x4 D2A2 | F2A2 D2A2 F2A2 E2A2 | G2A2 A,2G2 E2G2 D2A2 | %16
+ F2A2 D2A2 F2A2 E2A2 | G2A2 A,2G2 E2G2 D2A2 | F2A2 D2B2 G2B2 D2A2 | F2A2 ^C2A2 E2A2 D2A2 | %20
+ F2A2 D2B2 G2B2 [FD]4 | G,4 [A,D]4 [A,^C]4 D4- | D4 D4 ^C4 B,4- | B,4 B,4 A,4 G,2G,2 | %24
+ G,2G,2 G,2G,2 G,2G,2 A,2A,2 | A,2A,2 A,,2A,,2 A,,2A,,2 D,4- | D,4 D,4 ^C,4 B,,4- | %27
+ B,,4 B,,4 A,,4 G,,2G,,2 | G,,2G,,2 G,,2G,,2 G,,2G,,2 A,,2A,,2 | A,,2A,,2 A,2A,2 A,2A,2 D,4 | %30
+ x8 [GA]4 [FA]4 | x8 [GA]4 [FA]4 | [D,D]4 [D,D]4 x4 D,2D2 | A,2F,2 D,2D2 A,2F,2 D,4 | x16 | %35
+ A,4 B,4 ^C4 D4 | x16 | A,,4 B,,4 ^C,4 D,A,F,A, | D,A,F,A, D,A,F,A, D,A,F,A, D,A,F,A, | %39
+ D,A,F,A, D,A,F,A, D,A,F,A, ^C,A,E,A, | ^C,A,E,A, C,A,E,A, C,A,E,A, C,A,E,A, | %41
+ ^C,A,E,A, C,A,E,A, C,A,E,A, =C,A,F,A, | C,A,F,A, C,A,F,A, C,A,F,A, C,A,F,A, | %43
+ C,A,F,A, C,A,F,A, C,A,F,A, B,,A,F,A, | B,,A,F,A, B,,A,F,A, B,,A,F,A, B,,A,F,A, | %45
+ B,,A,F,A, B,,A,F,A, B,,A,F,A, [G,E,]4 | x4 [A,F,B,,]4 x4 [G,E,]4 | x4 [A,F,B,,]4 x4 [G,E,]4 | %48
+ E,F,G,A, B,2G,2 F,2E,2 B,,2B,2 | F,2^D,2 B,,4 x4 E,4- | E,4 ^G,4 B,4 E4 | D4 C4 B,4 A,2A,2 | %52
+ A,2A,2 A,2A,2 A,2A,2 A,2A,2 | A,2A,2 A,2A,2 A,2A,2 D,4- | D,4 F,4 A,4 D4 | C4 B,4 A,4 G,2G,2 | %56
+ G,2G,2 G,2G,2 G,2G,2 G,2G,2 | G,2G,2 G,2G,2 G,2G,2 CGEG | x4 CAFA x4 B,GDG | x4 F,DA,D x4 G,4 | %60
+ G,4 F,4 G,4 D,4 | x16 | x12 G,,2G,2 | D,2B,,2 G,,2G,2 D,2B,,2 G,,4 | x16 | D,4 E,4 F,4 G,4 | x16 | %67
+ D,4 E,4 F,4 G,DB,D | G,DB,D G,DB,D G,DB,D G,DB,D | G,DB,D G,DB,D G,DB,D F,DA,D | %70
+ F,DA,D F,DA,D F,DA,D F,DA,D | F,DA,D F,DA,D F,DA,D G,4 | G,A,B,C D2B,2 A,2G,2 D,2D2 | %73
+ A,2F,2 D,4 x4 G,2D2 | B,2D2 G,2D2 B,2D2 A,2D2 | C2D2 A,2D2 C2D2 G,2D2 | B,2D2 G,2D2 B,2D2 A,2D2 | %77
+ C2D2 A,2D2 C2D2 G,2D2 | B,2D2 G,2C2 G,2C2 G,2D2 | B,2D2 F,2D2 A,2D2 G,2D2 | %80
+ B,2D2 G,2C2 G,2C2 [G,B,]4 | C,4 [D,G,]4 [D,F,]4 G,4- | G,4 G,4 F,4 E,4- | E,4 E,4 D,4 C,2C,2 | %84
+ C,2C,2 C,2C,2 C,2C,2 D,2D,2 | D,2D,2 D,,2D,,2 D,,2D,,2 G,,4- | G,,4 G,,4 F,,4 E,,4- | %87
+ E,,4 E,,4 D,,4 C,,2C,2 | C,2C,2 C,2C,2 C,2C,2 D,2D,2 | D,2D,2 D,,2D,,2 D,,2D,,2 G,,2G,2 | %90
+ D,2B,,2 G,,4 x8 |] %91
+V:2
+ x12 [Bdg]4- | [Bdg]4 [Bdg]8 [Bdg]4 | [BG]4 [Ac]4 [Bd]4 [Bd]4- | [Bd]8 [Ac]4 [GB]4 | %4
+ g2f2 a2g2 f2e2 [dB]4- | [dB]8 [Ac]4 [GB]4 | z6 de d2d2 d'4 | b4 a4 g4 [ad]4 | z6 de d2d2 d'4 | %9
+ c'4 b4 a4 (3b2d'2c'2 | (3b2a2g2 (3f2a2g2 (3f2e2d2 (3z2 d'2c'2 | (3b2a2g2 (3z2 a2g2 (3f2e2d2 g4 | %12
+ GABc d2B2 A2G2 F4 | [Fd]4 [Fd]4 z4 a4- | a4 g2f2 e2d2 ^cded | ^c4 z2 e'2 ^c'2a2 d'4- | %16
+ d'2a2 g2f2 e2d2 ^cded | ^c4 z2 e'2 ^c'2a2 d'4- | d'2a2 b2ba b2^c'2 d'2a2 | z2 a2 agfg a2g2 f4 | %20
+ z2 a2 b2ba b2^c'2 d'2a2 | ^c' z ag f4 e4 fd'fd' | fd'fd' fd'fd' fd'fd' fd'fd' | %23
+ fd'fd' fd'fd' fd'fd' [gb]2 z2 | [bd']2 z2 [gb]2 z2 [eg]2 z2 fd'fd' | %25
+ fd'fd' e^c'ec' ec'ec' fd'fd' | fd'fd' fd'fd' fd'fd' fd'fd' | fd'fd' fd'fd' fd'fd' [gb]2 z2 | %28
+ [bd']2 z2 [gb]2 z2 [eg]2 z2 fd'fd' | fd'fd' e^c'ec' ec'ec' [d'f]4 | a2f2 a2f2 g2e2 d4 | %31
+ a2f2 a2f2 g2e2 d4 | [fd']4 [fd']4 z4 [Fd]4- | [Fd]4 [Fd]8 [Fd]4 | [df]4 [eg]4 [fa]4 [fa]4- | %35
+ [fa]8 [eg]4 [df]4 | d'2^c'2 e'2d'2 c'2b2 [fa]4- | [fa]8 [eg]4 [df]4- | [df]4 z2 AB A2A2 a4 | %39
+ f4 e4 d4 e4 | z6 AB A2A2 a4 | g4 f4 e4 d4- | d4 z2 AB A2A2 a4 | g4 f4 e4 ^d4- | d4 z2 Bc B2B2 b4 | %45
+ a4 g4 f4 (3g2b2a2 | (3g2f2e2 (3^d2f2e2 (3d2^c2B2 (3z2 b2a2 | (3g2f2e2 (3z2 f2e2 (3^d2=c2B2 e4 | %48
+ EFGA B2G2 F2E2 ^D4 | [^DB]4 [DB]4 z4 ^ge'ge' | ^ge'ge' ge'ge' ge'ge' ge'ge' | %51
+ ^ge'ge' ge'ge' ge'ge' [c'a]4- | [c'a]4 [c'e']2 z2 [bd']2 z2 [ac']2 z2 | %53
+ [gb]2 z2 [af]2 z2 [ge]2 z2 fd'fd' | fd'fd' fd'fd' fd'fd' fd'fd' | fd'fd' fd'fd' fd'fd' [bg]4- | %56
+ [bg]4 [d'b]2 z2 [ac']2 z2 [gb]2 z2 | [fa]2 z2 [eg]2 z2 [df]2 z2 [ce]4 | e^def [=df]4 fefa g4 | %59
+ gfgb a4 a^gac' [b=g]4 | d'4 c'4 b4 [fa]4 | d'4 d'4 d'4 ^c'2d'2 | e'2d'2 d'2=c'2 b2a2 [gB]4- | %63
+ [gB]4 [gB]8 [gB]4 | [GB]4 [Ac]4 [Bd]4 [Bd]4- | [Bd]8 [Ac]4 [GB]4 | g2f2 a2g2 f2e2 [dB]4- | %67
+ [dB]8 [cA]4 [GB]4- | [GB]4 z2 de d2d2 d'4 | b4 a4 g4 [ad]4 | z6 de d2d2 d'4 | c'4 b4 a4 g4 | %72
+ GABc d2B2 A2G2 F4 | [Fd]4 [Fd]4 z4 d4- | d4 c2B2 A2G2 FGAG | F4 z2 a2 f2d2 g4- | %76
+ g2d2 c2B2 A2G2 FGAG | F4 z2 a2 f2d2 g4 | z2 d2 e2ed e2f2 g2d2 | z2 d2 dcBc d2c2 B4 | %80
+ z2 d2 e2ed e2f2 g z d2 | f z dc B4 A4 BgBg | BgBg BgBg BgBg BgBg | BgBg BgBg BgBg [ec]2 z2 | %84
+ [eg]2 z2 [ce]2 z2 [Ac]2 z2 BgBg | BgBg AfAf AfAf BgBg | BgBg BgBg BgBg BgBg | %87
+ BgBg BgBg BgBg [ec]2 z2 | [eg]2 z2 [ce]2 z2 [Ac]2 z2 BgBg | BgBg AfAf AfAf [gB]4 | %90
+ [gB]4 [gB]4 x8 |] %91
+V:3
+ x2 x6 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %19
+ z8 | z8 | b z7 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %38
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %57
+ z8 | z8 | z8 | bd ad gd z2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %75
+ z8 | z8 | z8 | z8 | z8 | z8 | e z7 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 x4 |] %91
+
+X:2
+T:Six sonates faciles pour le Piano Forte (VI) (2)
+C:J. L. Dussek (1760-1812)
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="up"
+L:1/4
+V:2 treble 
+V:3 bass nm="down"
+V:1
+ G [Bd]2 | [cA] G B/c/ | d [ce] [ce] | [ce] [ce]2 | [Bd] [Ac] A | [Ac] [GB] G | [GB] A A/G/ | %7
+ A/B/ G2 | d/B/ A A | B c c/d/ | c B B | c ^c2 | d e f/g/ | f/g/ d f/g/ | f/g/ d [ac'] | %15
+ [gb] [fa]2 | z [Bd]2 | [Ac] [BG]/A/ B/c/ | d [ce] [ce] | [ce] [ce]2 | [Bd] [Ac] [Ac]/d/ | %21
+ [cA] [GB] [GB]/c/ | [GB] A A/G/ | A/B/ G2 |] %24
+V:2
+ x6 | z2 BA z2 | x6 | x6 | z4 cd | z4 Bc | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %17
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %24
+V:3
+ z2 G,,2 B,,2 | D,2 G,4- | G,2 C,2 C,D, | E,F, G,F, G,F, | G,2 F,2 D2 | D2 G,2 D2 | D2 [D,A,C]4- | %7
+ [D,A,C]2 G,2 G,,2 | z2 D,D F,D | G,D A,D A,D | A,D G,D G,D | A,D A,D A,D | B,D C2 z2 | %13
+ z2 [G,B,]2 z2 | z4 F,2 | G,2 D,2 D,C, | B,,A,, G,,2 B,,2 | D,2 G,4- | G,2 C,2 C,D, | %19
+ E,F, G,F, G,F, | G,2 F,2 D2 | D2 G,2 D2 | D2 [CA,D,]4- | [CA,D,]2 G,2 G,,2 |] %24
+
+X:3
+T:Six sonates faciles pour le Piano Forte (VI) (3)
+C:J. L. Dussek (1760-1812)
+%%score 1 2
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="up"
+V:2 bass nm="down"
+L:1/4
+V:1
+ D2 [dB]D [dB]D | [cA]D BG cA | dB [ce]2 [ce]2 | [ce]2 [ce]4 | [Bd]2 z c ac | ac z B gB | %6
+ gB z A/ z/ AG | AB G4 | dB AD AD | dD cB cd | c2 BD BD | cD ^c4 | d2 z e ^de | c'e z =d ^cd | %14
+ bd [bd']d [a=c']d | [gb]d [fa]2 z2 | z2 [dB]D [dB]D | [Ac]D BG cA | dB [ce]2 [ce]2 | [ce]2 [ce]4 | %20
+ [Bd]2 z c ac | ac z B gB | gB z A AG | AB G4 |] %24
+V:2
+ z G,, B,, | D, G,2 | z E,/D,/ C,/D,/ | E,/F,/ G,/F,/ G,/F,/ | G, F, D | D G, D | D D, [CA,] | %7
+ [CA,] G, G,, | z F, D, | G, [D,A,] A,/B,/ | A, G, D, | A, ^A,/D,/ A,/D,/ | B,/D,/ C z | %13
+ z [G,B,] z | z G, F, | G, D, D,/C,/ | B,,/A,,/ G,, B,, | D, G,2 | z E,/D,/ C,/D,/ | %19
+ E,/F,/ G,/F,/ G,/F,/ | G, F, D | D G, D | D D, [CA,] | [CA,] G, G,, |] %24
+
+X:4
+T:Six sonates faciles pour le Piano Forte (VI) (4)
+C:J. L. Dussek (1760-1812)
+%%score 1 2
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="up"
+V:2 bass nm="down"
+L:1/4
+V:1
+ d2 z b db | ca Bg ca | db [c'e]2 [c'e]2 | [c'e]2 [c'e]4 | [bd]2 z c df | ac z B df | gB z A dc | %7
+ BA G4 | bg fd fd | gd a2 ab | a2 gd gd | ad ^ad ad | bd z e ^de | ge z =d ^cd | %14
+ gb [bd']d [a=c']d | [gb]d [fa]2 z2 | z3 b db | ca Bg ca | db [c'e]2 [c'e]2 | [c'e]2 [c'e]4 | %20
+ [bd]2 z c df | ac z B df | gB z A dc | BA G4 |] %24
+V:2
+ z G,, B,, | D, G, z | z C,/E,/ G,/C/ | B,/C/ G,,/B,,/ D,/G,/ | F,/G,/ F, z | z E, z | %6
+ z [D,A,C]2- | [D,A,C] G, G,, | z [D,A,] A, | B, C/D/ C/D/ | C/D/ B, B, | C ^C2 | D =C z | %13
+ z [G,B,] z | z G, F, | G, D, D,/C,/ | B,,/A,,/ G,, B,, | D, G, z | z C,/E,/ G,/C/ | %19
+ B,/C/ G,,/B,,/ D,/G,/ | F,/G,/ F, z | z G, z | z [D,A,C]2- | [D,A,C] G, G,, |] %24
+
+X:5
+T:Six sonates faciles pour le Piano Forte (VI) (5)
+C:J. L. Dussek (1760-1812)
+%%score 1 2
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="up"
+V:2 bass nm="down"
+V:1
+ d2 [d'b]4 | [c'a]2 [bg]2 ab | c'd' [c'e']2 [c'e']2 | [c'e']2 [c'e']4 | [bd']2 [ac']2 c'd' | %5
+ c'2 [bg]2 bc' | b2 a2 ag | ab g4 | (3dbg (3afd (3afd | (3bgd [ac']2 c'd' | c'2 (3bgd (3bgd | %11
+ (3c'ad [^a^c']4 | [bd']2 (3z ^de (3=c'ge | (3c'ge (3z ^c=d (3bgd | (3bgd (3d'bd (3=c'ad | %15
+ (3bgd [fa]4 | d2 [bd']4 | [c'a]2 [gb]a bc' | d'2 [c'e']2 [c'e']2 | [c'e']2 [c'e']4 | %20
+ [bd']2 [ac']2 c'd' | c'2 [gb]2 bc' | b2 a2 ag | ab g4 |] %24
+V:2
+ z2 (3G,B,D (3G,B,D | (3F,A,D (3G,B,D (3G,B,D | (3G,B,D (3G,CE (3G,CE | (3G,CE (3G,CE (3G,CE | %4
+ (3G,B,D (3F,A,D (3F,A,D | (3F,A,D (3G,B,D (3G,B,D | (3G,B,D (3D,CD (3D,CD | (3D,CD (3G,B,D G,2 | %8
+ z2 D,4 | z2 (3F,A,D (3F,A,D | (3F,A,D G,4 | z2 (3G,B,D (3G,B,D | (3G,B,D C2 z2 | z2 [G,B,]2 z2 | %14
+ z2 G,2 F,2 | G,2 D,2 (3DED | (3CB,A, (3G,B,D (3G,B,D | (3F,A,D (3G,B,D (3G,B,D | %18
+ (3G,B,D (3G,CE (3G,CE | (3G,CE (3G,CE (3G,CE | (3G,B,D (3F,A,D (3F,A,D | (3F,A,D (3G,B,D (3G,B,D | %22
+ (3G,B,D (3D,CD (3D,CD | (3D,CD (3G,B,D G,2 |] %24

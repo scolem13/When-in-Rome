@@ -1,0 +1,55 @@
+X:1
+T:Variations on a Theme of Corelli
+T:Variation 1
+C:Sergei Rachmaninoff
+%%score { ( 1 4 6 ) | ( 2 3 5 ) }
+L:1/8
+Q:1/4=96
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+L:1/4
+V:6 treble 
+V:2 bass 
+L:1/16
+V:3 bass 
+L:1/16
+V:5 bass 
+L:1/4
+V:1
+"^Poco piu mosso\n\n"!p! D2 (!tenuto!D3 E | ^C6) | D2 !tenuto!D2- D/(CD/ |$ E6) | %4
+"_cresc." F2 (!tenuto!F3 G | E4)"_dim." !tenuto!E2 |$ D>^C (D3 E) |[K:bass]!p! ^C6 | %8
+[K:treble]!p! D2 (!tenuto!D3 E |$ ^C4) (!tenuto!C2 | D2) !tenuto!D2- D/(CD/) | E4 (!tenuto!E2 |$ %12
+ F2) (!tenuto!F3 G | E3) (E F2) |!p! D2 (!tenuto!D3 ^C) |$[K:bass]!p! D6 |] %16
+V:2
+"m" z"^m.d.""_il basso poco marcato" (F,A,F,)"m" z (A,FA,"m" B,)E,[I:staff -1]E[I:staff +1]B, | %1
+"" z (E,A,E) z (EA,E,) z (E,A,^C) | %2
+"m" z (F,A,F,)"m" z (A,F)A,"" F,[I:staff -1]C[I:staff +1]A,=B, |$ z (G,CG) z (GCG,) z (G,CE) | %4
+"" z (A,CA,)"" z (CA)C"" DG,[I:staff -1]G[I:staff +1]D |"" z (G,CG, GG,=B,G,)"m" z (^F,_B,F,) |$ %6
+ z (F,A,)[I:staff -1]=C"m"[I:staff +1] z (E,B,E,)"m" z (G,[I:staff -1]E[I:staff +1]G,) | %7
+"" x4[I:staff -1] C,"^dim."[I:staff +1]B,,=G,,E,, _E,,B,,,A,,,=E,, | %8
+ z (F,A,F,) z (A,FA,"m" B,)E,[I:staff -1]E[I:staff +1]B, |$ z (E,A,E) z (EA,E,) z (E,A,E,) | %10
+"m" z (F,"^cresc."A,F,)"m" z (A,F)A,"" F,[I:staff -1]C[I:staff +1]A,=B, | %11
+"^dim." z (G,CG) z (GCG,)"^cresc." z (G,CG,) |$ %12
+!mf! z (A,CA,)"" z (CA)C"" DG,[I:staff -1]G[I:staff +1]D | %13
+"" z (G,CG,"m""^dim." =B,G,_B,^F,) z (=F,A,F,) | %14
+"m" z (E,B,E,) z (=G,A,E z A,[I:staff -1]=C[I:staff +1]G,) |$ %15
+"m" x4[I:staff -1] D,"^dim."[I:staff +1]^C,B,,G,, E,,_E,,D,,2 |] %16
+V:3
+ z .D,,3 z .F,,3 z .G,,3 | z .A,,3 x4 .A,,,4 | z .D,,3 z .F,,3 z .G,,3 |$"" z .C,3 x4 .C,,4 | %4
+ z .F,,3 z .A,,3 z .=B,,3 | z .C,3 z .C,,3 z .^C,,3 |$"m" z .D,,3 z .G,,3 z .B,,3 | x12 | %8
+"m" z .D,,3"m" (!tenuto!E,,F,,) z2 z .G,,3 |$"" z (^G,,.A,,2) x4 z .A,,,3 | %10
+ z .D,,3 (!tenuto!E,,F,,) z2 z .G,,3 |"" z (=B,,.C,2) x4 z .C,,3 |$ %12
+"" z .[F,,,F,,]3 (!tenuto![^G,,,^G,,][A,,,A,,]) z2 z .[=B,,,=B,,]3 | %13
+ z .[C,,C,]3 z [^C,,^C,]3"m" z ([C,,C,].[D,,D,]2) | %14
+ z .[G,,,G,,]3"" (!tenuto![^G,,,^G,,][A,,,A,,]) z2"" z4 |$ x12 |] %16
+V:4
+ x3 | x"^m.g.\n" A/ x/ x | x3 |$ x"^m.g." c/ x/ x | x3 | x3 |$ x3 |[K:bass] x3 |[K:treble] x3 |$ %9
+ x"^m.g.\n" A/ x/ x | x3 | x"^m.g.\n" c/ x/ x |$ x3 | x3 | x x"^m.g." A/ x/ |$[K:bass] x3 |] %16
+V:5
+ x3 | x3 | x2 F, |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x2 F, | x3 |$ x2 x | x2 x | x3 |$ x3 |] %16
+V:6
+ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 |[K:bass] z/!<(! (^G,/!<)!F,/)D,/ C,4 |[K:treble] x6 |$ x6 | %10
+ x6 | x6 |$ x6 | x6 | x6 |$[K:bass] z/!<(! (=C/!<)!^G,/)F,/ D,4 |] %16

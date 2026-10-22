@@ -1,0 +1,26 @@
+% Lágrima: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2103
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Lágrima
+C:Francisco Tárrega
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:E
+V:1 treble nm="up:1" snm="Pno"
+V:2 treble 
+V:3 bass nm="dn:2" snm="Pno"
+L:1/4
+V:1
+ G2 A2 B2 | F6 | G2 A2 B2 | F6 | e2 d2 c2 | B2 CE FA | G2 C F2 [DA,] | [EG,]4 z2 | %8
+[K:Emin] Gc BE FG | E6 | B,2 z c z A | [F^D]4 z F | G2 A2 B2 | dc BA GF | E2 F2 B,2 | [EG,]4 z2 |] %16
+V:2
+ z B, z B, z B, | x6 | z B, z B, z B, | x6 | x6 | z G z4 | z E z4 | x6 |[K:Emin] z4 ^D2 | %9
+ z C B,A, G,A, | z e z4 | x6 | z B, z B, z B, | x6 | z B, z C z A, | x6 |] %16
+V:3
+ E, F, G, | D,2 B,/ A,/ B,/ B,, B,/ | E, F, G, | D,2 B,/ A,/ B,/ B,, B,/ | C E/ B, E/ A, F/ | %5
+ B, C2 | B, ^A, B,, | E, E,, z |[K:Emin] [B,E,,]2 [A,B,,] | E,,3 A,/ G,/ F,/ E,/ F,/ | %10
+ [G,E,,] A, F, | B,,2 B,/ C/ B,/ B, | E, F, G, | A,,3 | G,, G,/ A,, A,/ B,, ^D,/ | E, E,, z |] %16

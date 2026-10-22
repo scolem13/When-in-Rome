@@ -1,0 +1,56 @@
+X:1
+T:6 Lieder, Op.7
+T:An den Mond
+C:Johanna Kinkel (originally published under the name J. Mathieux)
+Z:Johann Wolfgang von Goethe
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=94
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:1
+"^Andante quasi allegretto" B3 c d2 G2 | ^A3 A B4 | d3 d c2 B2 |!<(! (A7!<)! ^A) | =B3 c d2 G2 | %5
+w: Fül- lest wie- der|Busch und Tal|still mit Ne- bel-|glanz, _|lö- sest end- lich|
+w: Flies- se, flies- se,|lie- ber Fluss!|nim- mer werd' ich|froh, _|so ver- rausch- te|
+w: Rau- sche, Fluss, das|Tal ent- lang,|oh- ne Rast und|Ruh, _|rau- sche flüst- re|
+w: See- lig, wer sich|vor der Welt|oh- ne Hass ver-|schliesst, _|ei- nen Freund am|
+ ^A2 AB ^c4 | B3 B B3 A |!<(! B8!<)! | G3 G"^cresc." ^G3 G | ^G2 AB A4 |"^rall." A3 A ^ce dB | %11
+w: auch ein- * mal|mei- ne See- le|ganz.|Je- den Nach- klang|fühlt mein _ Herz|froh und trü- * ber _|
+w: Scherz und _ Kuss,|und die Treu- e|so.|Ich be- sass es|doch ein- * mal,|was so köst- * lich _|
+w: mei- nem _ Sang|Me- lo- die- en|zu,|wenn du in der|Win- ter- * nacht,|wü- tend ü- * ber- *|
+w: Bu- sen _ hält|und mit dem ge-|niesst,|was, von Men- schen|nicht ge- * wusst|o- der nicht _ be- *|
+!<(! (A7!<)! ^A) |!p!"^a tempo" B2 G2 D2 G2 |"^rall." B2 d2 (!fermata!_e3 !fermata!c) | %14
+w: Zeit, _|wand’- le zwi- schen|Freud’ und Schmerz _|
+w: ist! _|Dass man doch zu|sei- ner Qual, _|
+w: schwillst, _|o- der um die|Früh- lings- pracht _|
+w: dacht, _|durch das La- by-|rinth der Brust _|
+ B2 G2 D3 D | !fermata!D8 :| %16
+w: in der Ein- sam-|keit.|
+w: nim- mer es ver-|gisst!|
+w: jun- ger Knos- pen|quillst.|
+w: wan- delt in der|Nacht.|
+V:2
+!pp! (.[dgb].[Bdg].[GBd].[DGB]) (.[dgb].[Bdg].[GBd].[DGB]) | %1
+ [eg^a][^ceg][G^Ae][EGA] [dgb][Bdg][GBd][DGB] | [^gbd'][dgb][Bdg][^GBd] [eac'][cea][deb][Gde] | %3
+ [cea][Ace][EAc][CEA] [cfa][Acf][FAd][FAc] | [dgb][Bdg][GBd][DGB] [dgb][Bdg][GBd][DGB] | %5
+ [eg^a][^ceg][G^Ae][EGA] [efa][cef][Ace][FAc] | [^dfb][Bdf][FBd][DFB] [cfa][Acf][FA=d][FAc] | %7
+ [Bdg][Bdf][Bdg][G^A^c] [GBd][DGA][DGB][B,DF] | z [B,DG][DGB][B,DG] z"_cresc." [B,D^G][DGB][B,DG] | %9
+ z [B,^C^G][CGB][B,CG] z [A,C^F][CFA][A,CF] | %10
+!f! z"^rall." [C_EA][EAc][CEA] z !arpeggio![A,=EA^c] z !arpeggio![^G,DEB] | %11
+ z"_dim." [A,^CE][CEA][A,CE] z [A,=C^F][CFA][CF] |!pp! B,^CDF G[^GA][GB][GA^c] | %13
+"^rall."!<(! [Bd][Bdf][Bdg]!<)![Bd=fb]!f! !arpeggio!!fermata![Gc_egc']4 | %14
+!p! !>![Bdb]!>![Bdf]!>![Bdg]!>![Bd] [Fce][Fc_e][FAd][FAc] | [DGB][DGB][DGB][DGB] !fermata![DGB]4 :| %16
+V:3
+!ped! !>![G,D]4 !>![G,D]4 | !>![G,^C]4 [G,D]4!ped-up! | [E,^G,E]4 [E,A,E]2 [E,B,E]2 | %3
+ [A,E]4 [D,D]4 | [G,D]4 [G,D]4 | [G,^C]4 [F,C]4 | !arpeggio![B,,F,B,^D]4 [=D,=D]4 | %7
+ [G,D][G,D][G,D][G,D] [G,D][G,,G,][G,,G,][G,,G,] | [G,,G,]4 [=F,,=F,]4 | %9
+ [^E,,^C,^E,]4 [^F,,C,^F,]4 | !>![=F,,=F,]4 [=E,,=E,]2 [E,,E,]2 | [A,,E,]4 [D,,D,]4 | %12
+ [G,,G,][G,^A,][G,B,][G,B,D] [G,B,D][G,B,D][G,B,D][G,B,D] | %13
+ [G,B,DG][G,B,DG][G,B,DG][G,B,DG] !arpeggio!!fermata![C,G,C_E]4 | %14
+ [D,G,D][D,G,D][D,G,D][D,G,D] [D,A,D][D,A,D][D,A,D][D,A,D] | %15
+ [G,,G,][G,,G,][G,,G,][G,,G,] !fermata![G,,G,]4 :| %16

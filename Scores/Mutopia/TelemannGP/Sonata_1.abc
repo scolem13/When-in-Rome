@@ -1,0 +1,133 @@
+% Sonatas for two recorders: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=885
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonatas for two recorders (1)
+C:G.P. Telemann
+%%score 1 2
+L:1/16
+Q:1/4=50
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Clavichord" snm="Clv"
+V:2 treble nm="Recorder" snm="Rec"
+V:1
+ fgab c'2d'e' f'2f2 z2 e2 | defg a2bc' d'2d2 z2 c2 | Bcde f2ga b2B2 z2 A2 | GdcB bdcB egfe bgfe | %4
+ aAGF cAGF bagf d'c'ba | b4 z2 ag abc'd' e2>f2 | fgab c'2d'e' f'2f2 z2 e2 | %7
+ dcd=B cBcA BAG2 z2 _g2 | =g_g=gf g_g=gg gef2 z2 f2 | fefG feff fde2 z2 e2 | %10
+ edeA dcd=B cgc'd' =b2>c'2 | c'4 z6 ef gefd | edc2 z2 _d2 =defg a[bc']ba | %13
+ bd'ad' bd'_gd' =g2_g2 =g2a2 | bd'ad' bd'ad' baga a2>g2 | g4 z4 cdef gabc' | %16
+ abc'2 z abg fgab c'2d'e' | f'2f2 z2 e2 defg a2bc' | d'2d2 z2 c2 Bcde f2ga | b2B2 z2 a2 gfge fefd | %20
+ edc2 z2 c2 dcdB dcdf | efg2 z fge cefc fefF | B4 BABG Aefb g2>f2 | fd_d=d d'dc=B ecBc c'c_BA | %24
+ dBAB _bBAG cAGA aAGF | Bbab d'bab e'4 z bag | aefd e2>f2 f4 z4 |] %27
+V:2
+ z8 fgab c'2d'e' | f'2f2 z2 e2 defg a2bc' | d'2d2 z2 c2 Bcde f2ga | bBAG dBAG bedc gedc | %4
+ FcBA bcBA d'c'ba bagf | edc2 z2 fe fcdB c2c2 | F4 z4 fgab c'2d'e' | f'2f2 z2 e2 dcd=B cBcA | %8
+ =BAG2 z2 g2 agaf agac' | =bc'd'2 z c'd'b gbc'g c'bc'c | f4 fefd ecef g2G2 | %11
+ c2ef gefd edc2 z2 =B2 | cdef g[a_b]ag fed2 z2 _g2 | =g2_g2 =g2a2 bd'ad' bd'_gd' | %14
+ =g2>_g2 =g2_g2 =gd_ec d2d2 | GA=Bc d=efg efg2 z fge | fga_b c'2d'e' f'2f2 z2 e2 | %17
+ defg a2bc' d'2d2 z2 c2 | Bcde f2ga b2B2 z2 a2 | gfge fefd edc2 z2 =b2 | %20
+ c'=bc'g c'bc'c' c'a_b2 z2 b2 | babc babb bga2 z2 a2 | agad gfge fcdB c2_d2 | %23
+ =dfef =B=bag cede Aagf | _Bdcd Ggfe AcBG Ffed | Gg_g=g bg_g=g c4 z gfe | fcdB c2c2 F4 z4 |] %27
+
+X:2
+T:Sonatas for two recorders (2)
+C:G.P. Telemann
+%%score 1 2
+L:1/16
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Clavichord" snm="Clv"
+V:2 treble nm="Recorder" snm="Rec"
+V:1
+ z16 | z16 | z16 | z8 f4 c'4 | a2=bc' d'2c'2 b2g2 e'2g2 | a2f2 d'2f2 g2e2 c'2e2 | %6
+ f2d2 =b2d2 e2c'2 d2b2 | c'cde fga=b c'4 z4 | z cde fa=bc' d'de_g =ggab | %9
+ c'cde _gg=ga =b=Bcd ee_g=g | aga=b abc'd' g2ab c'4 | c'4 =b4 c'2c2 A2F2 | _B4 _b4 z2 ag f2ga | %13
+ B2gf e2fg A2fe d2ef | F2ed c2de F2GA B2AG | A2Bc d2cB c2de f2ed | e2fg a2gf g2c2 z4 | %17
+ z2 c'2 c'2c'2 abc'2 c'2c'2 | _g2c'2 c'2c'2 d2d'c' d'c'ba | b4 z4 B4 z4 | A4 z4 _d4 z4 | %21
+ =d_d=de de_d=d edef efde | f2e2 f2d2 g2f2 g2e2 | a4 d2f2 g4 c2e2 | f4 B2d2 e4 A2_d2 | %25
+ =d2ef g2fe f2d'2 e2_d'2 | =d2ef g2fe f2>g2 e4 | d4 a2 z2 _g2 z2 d2 z2 | %28
+ e2 z2 _g2 z2 =gd'c'd' bd'c'd' | gd'c'd' =bd'c'd' fefg fagf | e4 z4 f4 _b4 | %31
+ g2ab c'2b2 a2f2 d'2f2 | g2_e2 c'2e2 f2d2 b2d2 | _e2c2 a2c2 d2b2 c2a2 | B2d'2 A2c'2 d2b2 c2a2 | %35
+ b2>c'2 a2>b2 b4 z4 | z fga bc'd'e' f'8 | f'4 e'8 d'4 | d'4 c'4 c'4 =b4 | %39
+ c'a_bc' d'def gfga ga=bc' | f4 c'4 a2=bc' d'2c'2 | =b2g2 e'2g2 a2f2 d'2f2 | %42
+ g2e2 c'2e2 f2d2 =b2d2 | e2c'2 d2=b2 c2de f2ed | e2c'2 d2=b2 c2de f2ed | e4 z2 A2 _BABc dcde | %46
+ fefg agab c'2e2 f2d'2 | a4 g4 f4 z FGA | BABc dcde fABc dcde | fefg acde fefg agab | %50
+ c'2d'e' f'2b2 a4 g4 | f8 z8 |] %52
+V:2
+ c4 f4 d2ef g2f2 | e2c2 a2c2 d2B2 g2B2 | c2A2 f2A2 B2G2 e2G2 | A2f2 G2e2 F2f2 e2c2 | %4
+ f4 f'4 z2 e'd' c'2d'e' | f2d'c' =b2c'd' e2c'b a2bc' | d2=ba g2ab c2de f2ed | e4 z4 z cde fga=b | %8
+ c'8 c'4 =b4 | _b4 a4 a4 g4 | g4 _g4 =gefg aA=Bc | dcde defg c4 f4 | d2ef g2f2 e2c2 a2c2 | %13
+ d2B2 g2B2 c2A2 f2A2 | B2G2 e2G2 A2f2 G2e2 | F2GA B2AG A2Bc d2cB | c2de f2ed e2fg a2gf | %17
+ g2c2 z4 _e4 z4 | d4 z4 _g4 z4 | z2 =g2 g2g2 efg2 g2g2 | _d2g2 g2g2 A2ag agfe | %21
+ fefg fgef gfga gafg | a4 d'4 =b2c'd' e'2d'2 | _d'2a2 f'2a2 _b2g2 e'2g2 | a2f2 =d'2f2 g2e2 _d'2e2 | %25
+ f2=d'2 e2_d'2 =d2ef g2fe | f2d'2 e2_d'2 =d2B2 G2A2 | daga faga daga _ga=ga | %28
+ c=Bcd c_edc _B4 d2 z2 | =B2 z2 G2 z2 A2 z2 B2 z2 | c4 f4 d2ef g2f2 | e2c2 _e'4 z2 d'c' b2c'd' | %32
+ _e2c'b a2bc' d2ba g2ab | c2ag f2ga B2d'2 A2c'2 | d2b2 c2a2 B2d'2 A2c'2 | d2B2 f2F2 BFGA Bcde | %36
+ f4 z4 z FGA Bdef | ggab c'cde ffga bBcd | eefg aA=Bc dcde defg | c2de f8 e4 | z2 f2 e2c2 f4 f'4 | %41
+ z2 e'd' c'2d'e' f2d'c' =b2c'd' | e2c'=b a2bc' f2ba g2ab | c2de f2ed e2c'2 d2=b2 | %44
+ c2de f2ed e2fg a2gf | g2c2 z2 A2 BABc dcde | fefg agab c'2c2 d2B2 | c2A2 B2c2 z FGA BABc | %48
+ fFGA BABc dcde fABc | dcde fefg acde fefg | a2g2 a2d2 c2f2 B2c2 | F8 z8 |] %52
+
+X:3
+T:Sonatas for two recorders (3)
+C:G.P. Telemann
+%%score 1 2
+L:1/8
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Clavichord" snm="Clv"
+V:2 treble nm="Recorder" snm="Rec"
+V:1
+ z2 a2 a2 | d'6 | d'_d' =d'e' ag | fe fe dc | BA GA BG | A2 z2 _d2 | =d2 b3 b | bg a3 a | %8
+ d'b g3 a | a6 | z _e' d'c' ba | b2 _e'2 c'2 | a2 d'2 b2 | g2 c'a b2 | z c' b2 a>g | g6 | %16
+ z d' c'b ag | ac' ba gf | gb ag fe | f3 g a2 | z b g3 f | eA GB Ad | _d2 z =d _df | ea gb a=d' | %24
+ _d'2 d'3 =b/d'/ | =d'a dc _BG | cg cB AF | BA G_d =dF | BG AF GA | d2 b2 g2 | e2 a2 f2 | %31
+ d2 ge f2 | fg e3 d | d6 |] %34
+V:2
+ de fe dc | BA GA BG | A2 z2 _d2 | =d2 a2 a2 | d'6 | d'_d' =d'e' ag | fe dc dB | ce fe fF | %8
+ B2 B3 A | Ad _df eg | _g2 g3 e/g/ | =gd' gf _ec | fc' f_e dB | _ed c_g =gB | _ec dB cd | %15
+ Gc =B=e df | e2 e3 d/e/ | fc f3 f | fd e3 e | e_d =de fe | fd ed _d=d | A2 z4 | z A GB Ad | %23
+ _d2 z =d _df | eb ag fe | f2 b2 g2 | e2 a2 f2 | d2 ge f2 | z g f2 e>d | da dc BG | cg cB AF | %31
+ BA G_d =dF | BG A4 | d6 |] %34
+
+X:4
+T:Sonatas for two recorders (4)
+C:G.P. Telemann
+%%score 1 2
+L:1/16
+Q:1/4=80
+M:3/8
+I:linebreak $
+K:F
+V:1 treble nm="Clavichord" snm="Clv"
+V:2 treble nm="Recorder" snm="Rec"
+V:1
+ ab b4 | c'[ba][ba][gf]c'f | d'2 b4 | g2 z4 | fcacfc | gcbcgc | acc'cbc | abagfg | ab b4 | %9
+ c'[ba][ba][gf]c'f | d'2 b4 | g2 z4 | c2d2e2 | f2 z4 | (3[ef]2[gf]2[ga]2(3:2:2[ga]2[ba]- | %15
+ (3:2:2[ba][bg]2(3[ab]2[ga]2[ga]2 | (3[ga]2[ba]2[=bc']2(3:2:2[bc']2[d'c']- | %17
+ (3:2:2[d'c'][d'=b]2(3[c'd']2[bc']2[bc']2 | d'c'=bagf | c'=bagfe | f2 z4 | e2 z4 | dcfedc | %23
+ =bgabc'2 | c'd'2<=b2c' | c'[=ba][gf][ed][gf][ed] | egegeg | c'[=ba][gf][ed][gf][ed] | ec'2<d2c | %29
+ c6 | ef f4 | g[fe][fe][dc]gc | fg g4 | a2 z4 | add'dad | b2g2b2 | adbdad | b2g2b2 | _e'd'c'bag | %39
+ c'2>d'2b2 | ba2<a2c' | g2>_g2=g2 | gfed_d=B | A=B_dA=da | d'e'2<_d'2=d' | %45
+ d'[c'b][ag][fe][d'c'][=bc'] | =b2 z4 | c'[_ba][gf][ed][c'b][ab] | %48
+ (3[ab]2[c'b]2[c'd']2(3:2:2[c'd']2[_e'd']- | (3:2:2[e'd'][_e'c']2(3[d'e']2[c'd']2[c'd']2 | f2g2a2 | %51
+ b2 z4 | (3[ab]2[c'b]2[c'd']2(3:2:2[ga]2[ba]- | (3:2:2[ba][bg]2(3[ab]2[ga]2[ga]2 | b2 z4 | a2 z4 | %56
+ d'c'bagf | c'bagfe | bagfba | b2>a2ga | ab2<g2f | f'[e'd'][c'b][ag][c'b][ag] | ac'ac'ac' | %63
+ f'[e'd'][c'b][ag][c'b][ag] | af'2<g2f | f6 |] %66
+V:2
+ fg g4 | a2 z4 | b2 g4 | e[fg][fe][dc]gc | A2f2A2 | e2g2e2 | f2a2g2 | fABGAc | fg g4 | a2 z4 | %10
+ b2 g4 | e[fg][fe][dc]gc | (3[ef]2[gf]2[ga]2(3:2:2[ga]2[ba]- | (3:2:2[ba][bg]2(3[ab]2[ga]2[ga]2 | %14
+ c2d2e2 | f2 z4 | (3[ef]2[gf]2[ga]2(3:2:2[de]2[fe]- | (3:2:2[fe][fd]2(3[ef]2[de]2[de]2 | f2 z4 | %19
+ e2 z4 | agfedc | gfedc=B | fedcfe | f2>d2e2 | ef2<d2c | cgegeg | c'[=ba][gf][ed][gf][ed] | %27
+ egegeg | c'c2<=B2c | c6 | cd d4 | e2 z4 | de e4 | f[ga][gf][ed]ad | _g2d2g2 | =gdbdc'd | _g2d2g2 | %37
+ =gdbdgd | c'bag_ge | de_gd=gG | BcdcdB | ed_d=d_de | bagfe=d | g2>a2f2 | gg2<e2d | d2 z4 | %46
+ g[fe][dc][=BA][gf][ef] | e2 z4 | f2g2a2 | b2 z4 | (3[ab]2[c'b]2[c'd']2(3:2:2[c'd']2[_e'd']- | %51
+ (3:2:2[e'd'][_e'c']2(3[d'e']2[c'd']2[c'd']2 | (3[cd]2[_ed]2[=ef]2(3:2:2[ef]2[gf]- | %53
+ (3:2:2[gf][ge]2(3[fg]2[ef]2[ef]2 | gfedcB | fedcBA | B2 z4 | A2 z4 | gfbagf | ecdef2 | fg2<e2f | %61
+ fc'ac'ac' | f'[e'd'][c'b][ag][c'b][ag] | ac'ac'ac' | f'fB2c2 | F6 |] %66

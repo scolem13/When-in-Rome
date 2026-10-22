@@ -1,0 +1,35 @@
+% Op. 35, Study No. 22: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1850
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Op. 35, Study No. 22
+C:Fernando Sor
+%%score 1 2 3
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:Bmin
+V:1 treble nm="upperVoice"
+V:2 treble nm="lowerVoice"
+L:1/8
+V:3 bass nm="middleVoice"
+V:1
+ D2 D | F2 F | E2 E | D2 D | C2 C | D2 D | E2 =F | ^F2 ^F, | D2 D | F2 F | E2 E | D2 D | E2 E | %13
+ D2 D | C2 C | B,2 z | F2 F | E2 E | D2 D | C2 C | D2 F | E2 C | D2 D | C2 z | ^D2 D | E2 B, | %26
+ C2 C | D2 D | =C2 C | G E =C | B,2 B, | ^A,2 z | D2 D | F2 F | E2 E | D2 D | C2 C | D2 D | E2 =F | %39
+ ^F2 z | F2 G | ^G2 G | ^A2 A | B2 B | G2 G | F2 F | F2 F/^A,/ | [B,D,B,,]2 z |] %48
+V:2
+ DB, F,B, DB, | FD F,D FD | EC F,C EC | DB, F,B, DB, | C^A, F,A, CA, | DB, F,B, DB, | %6
+ EB, G,B, =FB, | ^FC ^A,C ^F,A, | DB, F,B, DB, | FD F,D FD | EC F,C EC | DB, G,B, DB, | EC G,C EC | %13
+ DB, F,B, DB, | C^A, F,A, CA, | B,D F,B, B,,2 | FD F,D FD | EA, F,C EC | DB, F,B, DB, | %19
+ C^A, F,A, CA, | DB, F,B, FD | EC F,^A, CA, | DB, F,B, DB, | CF ^A,C F,2 | ^D=A, F,A, DA, | %25
+ EG, E,G, B,G, | CG, E,G, CG, | DD, F,A, DA, | =CG, E,G, CG, | E,G, E,G, E,G, | B,^G, D,G, B,G, | %31
+ ^A,C, F,A, CF | DB, F,B, DB, | FD F,D FD | EC F,C EC | DB, F,B, DB, | C^A, F,A, CA, | %37
+ DB, F,B, DB, | EB, G,B, =FB, | ^F^F, ^A,C E,C | FD B,D GD | ^G=F B,F GF | ^AE CE AE | %43
+ BB, DB, BB, | GC B,C GC | FD B,D FD | FC ^A,C z2 |] %47
+V:3
+ B,,3- | B,,3 | z F,2 | z F,2 | z F,2 | z F,2 | z G,2 | z3 | B,,2 z | z F,2 | z F,2 | z G,2 | %12
+ z2 E, | z F,2 | z F,2 | z F, z | z F,2 | z F,2 | z F,2 | z F,2 | z F,2 | z F,2 | z F,2 | z3 | %24
+ C,3 | E,,3 | A,,3 | z3 | E,,3 | z3 | =F,,3 | ^F,,3 | B,,3 | z F,2 | z F,2 | z F,2 | z F,2 | %37
+ z F,2 | z G,2 | z2 E, | D,3 | C,3 | F,3 | G,3 | E,3 | F,3 | F,,2 E, |] %47

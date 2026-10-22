@@ -1,0 +1,62 @@
+X:1
+T:Lyric Pieces
+T:Norsk
+C:Edvard Grieg
+%%score { ( 1 2 ) | ( 3 4 5 ) }
+L:1/4
+Q:1/4=150
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Klavier linke Hand"
+V:2 treble 
+L:1/8
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+"^Presto marcato" a3- | a3 | d3- | d3 | A3- | A3 |$ D3- | [A,D]3 || E3 | D2 .[CE] | %10
+ .[A,F] .[B,DG] .[A,F] |!f! [A,E]2 e- |$ e3 | d2 .[ce] | .[Af] .[Bg] .[Af] | [Ae]2 a- | a3- | a3 |$ %18
+ d3- | d3 | A3- | A3 | D3- | [A,D]3 ||$[K:F]!pp! d/e/ f g/a/ | b/a/ g .[^c^c'] | b/a/ g .[^c^c'] | %27
+ a/g/ f .[dd'] | d/e/ f g/a/ | b/a/ g .[^c^c'] |$ b/a/ g .[^c^c'] | .[dd'] z2 |!pp! d/e/ f g/a/ | %33
+ b/a/ g .[^c^c'] | b/a/ g .[^c^c'] | a/g/ f .[dd'] |$ d/e/ f g/a/ | b/a/ g .[^c^c'] | %38
+ b/a/ g .[^c^c'] | .[dd'] z2 |!pp! E3 |$ D2 .[^CE] | .[A,F] .[B,DG] .[A,F] | [A,E]2 e- | e3 | %45
+ d2 .[^ce] |$ .[Af] .[Bg] .[Af] | [Ae]2 a- ||[K:D]!ff! a3- | a3 | d3- |$ d3 | %52
+"^sempre ritard." A3- | A3 | D3- | !fermata![A,D]3 |] %56
+V:2
+ a2 ge (3fdf | e2 c2 A2 | B2 cA (3BGB | A2 F2 D2 | F2 GE (3FDF | E2 C2 A,2 |$ x6 | x6 || %8
+ E2 DB, (3CA,C | B,2 A,2 G,2 | ED x2 ED | (D2 C2) e2- |$ e2 dB (3cAc | B2 A2 G2 | ed ed ed | %15
+ (d2 c2) a2- | a2 ge (3fdf | e2 c2 A2 |$ B2 cA (3BGB | A2 F2 D2 | F2 GE (3FDF | .E2 C2 A,2 | x6 | %23
+ x6 ||$[K:F] x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | %40
+ E2 D=B, (3^CA,C |$ _B,2 A,2 G,2 | ED x2 ED | (D2 ^C2) e2- | e2 d=B (3^cAc | _B2 A2 G2 |$ %46
+ ed ed ed | (d2 ^c2) a2- ||[K:D] a2 ge (3fdf | e2 c2 A2 | B2 cA (3BGB |$ A2 F2 D2 | F2 GE (3FDF | %53
+ E2 C2 A,2 | x6 | x6 |] %56
+V:3
+"""""" [D,,A,,]3- |"" [D,,A,,]3- |"m""""" [D,,A,,]3- |"" [D,,A,,]3 |"""" [D,,A,,]3- | %5
+"" [D,,A,,]3- |$"m" B,"" C/A,/"" (3B,/G,/B,/ |"" G,"" F,2 ||"""""" A,,3- | %9
+"""" [F,,A,,]2"" .[E,,A,,] |"""" .[D,,A,,]"" .[G,,,G,,]"""" .[D,,A,,] |"""" [A,,,A,,]2"C{" z |$ %12
+"""" A,,3- |"""" [F,,A,,]2"" .[E,,A,,] |"""" .[D,,A,,]"m""" .[G,,,G,,]"""" .[D,,A,,] | %15
+"""" [A,,,A,,]2"C{" z |"""""" [D,,A,,]3- |"" [D,,A,,]3- |$"m""""" [D,,A,,]3- |"" [D,,A,,]3 | %20
+"""" [D,,A,,]3- |"" [D,,A,,]3- |"m" B,"" C/A,/"" (3B,/G,/B,/ |"" G,"" F,2 ||$ %24
+[K:F][K:treble]"m" .[DFA] .[DFA] .[DFA] |"m" .[DEGA] .[DEGA]"" .[DEGA] | %26
+"m" .[DEGA] .[DEGA]"" .[DEGA] |"m" .[DFA] .[DFA] .[DFA] | .[DFA] .[DFA] .[DFA] | %29
+"m" .[DEGA] .[DEGA]"" .[DEGA] |$"m" .[DEGA] .[DEGA]"" .[DEGA] |"m" .[DFA] .[DA] .[DA] | %32
+"C{" .[DFA] .[DFA] .[DFA] |"m" .[DEGA] .[DEGA]"" .[DEGA] |"m" .[DEGA] .[DEGA]"" .[DEGA] | %35
+"m" .[DFA] .[DFA] .[DFA] |$ .[DFA] .[DFA] .[DFA] |"m" .[DEGA] .[DEGA]"" .[DEGA] | %38
+"m" .[DEGA] .[DEGA]"" .[DEGA] |"m" .[DFA] .[DA] .[DA] |"""""" A,,3- |$ %41
+"m""m" [F,,A,,]2"" .[E,,A,,] |"m""m" .[D,,A,,]"m" .[G,,,G,,]"m""m" .[D,,A,,] |"""" A,2"C{" x | %44
+"""" A,,3- |"m""m" A,,2"" .[E,,A,,] |$"m""m" .[D,,A,,]"m""m" .[G,,,G,,]"m""m" .[D,,A,,] | %47
+"""" [A,,,A,,]2"C{" z ||[K:D]"""""" [D,,A,,]3- |"" [D,,A,,]3- |"m""""" [D,,A,,]3- |$"" [D,,A,,]3 | %52
+"""" [D,,A,,]3- |"" [D,,A,,]3- |"m" !>!B,"" !>!C/!>!A,/"" (3!>!B,/!>!G,/!>!B,/ | %55
+"" G,"" !fermata!F,2 |] %56
+V:4
+ x3 | x3 | x3 | x3 | x3 | x3 |$ [D,,A,,]3- | [D,,A,,]3 || A,,2 G,, | x3 | x3 | x3 |$ (A,,2 G,,) | %13
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | [D,,A,,]3- | [D,,A,,]3 ||$[K:F][K:treble] x3 | x3 | %26
+ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | A,,2 G,, |$ x3 | x3 | %43
+ [A,,,A,,]2 z | A,,2 G,, | F,,2 x |$ x3 | x3 ||[K:D] x3 | x3 | x3 |$ x3 | x3 | x3 | [D,,A,,]3- | %55
+ !fermata![D,,A,,]3 |] %56
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 |$ x2 (3:2:2x/ G, | x3 || x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | %16
+ x3 | x3 |$ x3 | x3 | x3 | x3 | x2 (3:2:2x/ G, | x3 ||$[K:F][K:treble] x3 | x3 | x3 | x3 | x3 | %29
+ x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | %47
+ x3 ||[K:D] x3 | x3 | x3 |$ x3 | x3 | x3 | x2 (3:2:2x/ G, | x3 |] %56

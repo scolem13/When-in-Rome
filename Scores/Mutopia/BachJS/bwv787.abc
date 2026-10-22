@@ -1,0 +1,43 @@
+% Sinfonia 1: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=142
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sinfonia 1
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="up"
+V:2 treble 
+V:3 bass nm="down"
+V:4 bass 
+V:1
+ z GAB cdef gfga fagf | e12 ^f4 | [gB]2f2 e4 d2ef d4- | d2 [Bgfe]4 e4 e2 d4- | [dGFE]6 E2 D8- | %5
+ [DG-] G3- G cde ABAB B2>[AB]2 | c2G2 c6 BA d4- | [dG-] G3- G GcB c4 B4 | %8
+ [gA-]2 A6- A cBA G[g^F][aE]b | e^fef f2>[ef]2 gagf edcB | ABAG A^FGA B4- B GA_B | %11
+ AE=FG A=B^cd edef e_bag | fg[fE][eF] [dG][^cA][d=B][ec] f4 ^f4 | g4 =f6 ed e4- | %14
+ [eF]2 F2 E2 c4 =BA B2d2 | g4- g [ac][fd][ge] a4 b4 | c'4 _b4 a4 f4- | [f=Bde]2>f2 g8- g cfe | %18
+ [Af]2 f2 e4 d6 d2- | [dG] G3 c8 B4 | [cE]16 |] %21
+V:2
+ x16 | z CDE =FGAB cBcd cedc | z2 d4 c6 B4- | z4 z dcB A6 A2 | z6 c4 BA BcdB | z FED C z8 z3 | %6
+ z6 E2 ^F4 z cBA | z Bcd e6 a4 g2- | z2 ^fe fgaf d4- d z3 | x16 | x16 | x16 | z8 d^cde =c^d=dc | %13
+ _BABc AcBA G6 G2 | z2 d4 z8 z2 | z FGA B z3 fefg fagf | e2 a4 g3 cde z edc | z4 z fed cdc_B A4- | %18
+ z2 d4 c4 =BA Bc z B | z fed z _BAG FGFE FDEF | x16 |] %21
+V:3
+ C,4 z2 C2 B,2G,2 A,2B,2 | C4 z2 B,2 A,2G,2 A,2D,2 | G,,G,A,B, CDEF GFGA FAGF | %3
+ EFED CB,A,G, F,G,F,E, F,D,E,F, | E,G,,A,,B,, C,D,E,F, G,F,G,A, F,A,G,F, | %5
+ E,8- E,3 E, [D,F,]2<D,2 | C,D,C,B,, A,,G,,^F,,E,, D,,E,D,C, B,,A,,G,,F,, | %7
+ E,,=F,E,D, C,B,,A,,G,, ^F,,D,,E,,F,, G,,A,,B,,C, | D,C,D,E, C,E,D,C, B,,4 B,4- | %9
+ [B,CDC]2>B,2 [A,C]2<A,2 E,2D,2 C,4 | %10
+ [D,^F,]2F,E, D,C,B,,A,, G,,[A,,D][G,,E][=F,,=F] G,,E,,F,,G,, | %11
+ ^C,,2 E D,2 ^C,2 B,,2 A,,2 [G,A,]2 [F,B,]2 [E,^C]2 | [D,D]D z7 GFE D=C_B,A, | %13
+ G,C,D,E, F,G,A,_B, CB,CD B,DCB, | A,G,A,=B, CDEF GFGA FAGF | E4 z4 z cBA GFED | %16
+ CDC_B, CA,B,C F,G,F,E, D,C,=B,,A,, | G,,A,G,F, E,D,C,_B,, A,,_B,A,G, F,E,D,C, | %18
+ =B,,G,,A,,B,, C,D,E,F, G,F,G,A, F,A,G,F, | E,2F,G, A,2C,2 D,2E,F, G,2G,,2 | C,16 |] %21
+V:4
+ x16 | x16 | x16 | x16 | x16 | z4 z B,A,G, F,G,F, z3 E,F, | E,4 z12 | x16 | z15 D | %9
+ z6 B,C B,4- B, B,A,G, | z G, z8 z2 E4- | x17 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | %20
+ x16 |] %21

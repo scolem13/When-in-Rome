@@ -1,0 +1,31 @@
+X:1
+T:Wo soll ich fliehen hin
+T:Wo soll ich fliehen hin
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ F | F G A B | !fermata!c2 z c | c3/2 B/ A B | !fermata!G2 z G | A B c c | B2 !fermata!c c | %7
+ A B c _d/e/ | c B/A/ !fermata!A c | e c c c | B2 !fermata!B B | c3/2 B/ A B/A/ | %12
+ G2 !fermata!F x || %13
+V:2
+ C | C D/=E/ F/E/ F/G/ | !fermata!=E2 z _E | E/F/ G- G/F/ =E/F/ | !fermata!=E2 z E | F _E E F | %6
+ F E !fermata!E E | F F/G/ A A | A G !fermata!E A | B A A A- | A G/F/ !fermata!G G | G/F/ =E F2- | %12
+ F =E !fermata!C x || %13
+V:3
+ A/B/ | c B c _d | !fermata!G2 z A | A G c _d | !fermata!c2 z c | c/_d/c/B/ A A- | %6
+ A G !fermata!A A | A _d c f | e _d/c/ !fermata!c e | e e f e | f/e/ d !fermata!e e/_d/ | %11
+ c c c B/c/ | _d c/B/ !fermata!=A x || %13
+V:4
+ F,/G,/ | A, G, F, _D, | !fermata!C,2 z A,,/B,,/ | C,/D,/ =E, F, B,, | !fermata!C,2 z C, | %5
+ F, G, A,/G,/F,/E,/ | _D, E, !fermata!A,, A,, | _D,/C,/ B,, F,/E,/ D, | E,2 !fermata!A,, A, | %9
+ G, A,/G,/ F,/E,/_D,/C,/ | =D, B,, !fermata!E, G,/F,/ | =E,/D,/ C, F,/_E,/_D,/C,/ | %12
+ B,, C, !fermata!F,, x || %13

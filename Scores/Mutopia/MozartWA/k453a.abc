@@ -1,0 +1,31 @@
+% Marche funebre KV 453a: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=446
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Marche funebre KV 453a
+C:Wolfgang Amadeus Mozart (1756-1791)
+%%score ( 1 2 ) 3
+L:1/4
+Q:1/4=60
+M:2/2
+I:linebreak $
+K:Cmin
+V:1 treble nm="upper"
+L:1/8
+V:2 treble 
+V:3 bass nm="lower"
+V:1
+ [CEGc]2 [CEG]>[CEG] [CEG]2 [DFG]2 | [CEG]2 [eG][d_G] [fA][e=G][dF][cE] | %2
+ [=Bdg]2 [DG]>[DG] [EG]2 [C_G]2 | [=B,=G]2 [d=B][ec] [ge][fd][ec][dB] | %4
+ [ce] [Ge]2 [Ge]2 [Ae]2 [=Ae] | [Bd] [d_a]2 [ea]2 [=ea]2 [fa] | ag z [Af] [Af][G_e] z [Fd] | %7
+ [FAd]4 [GBe]2 z2 | [=Bdg]2 [=B,DG]>[B,DG] [CEA]4 | [=Bdg]2 [DFB]>[DFB] [EGc]4 | %10
+ G2 [gG]>G [_g=G]2 [dfG]>G | [_d=eG]2 [c_e_G]>G [=B=d=G]2 z2 | [cgc']2 [_EGc]>[EGc] [EGc]2 [EGc]2 | %13
+ [_DA_d]2 [f_d']2 [af']2 [=d=b]2 | d'c' z [fa] [fa][eg] z [D=B] | [F=Bd]4 [Ec]2 z2 |] %16
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | B z3 | x4 | x4 | x4 | z e2 z | x4 | x4 | x4 | x4 | G3 z |] %16
+V:3
+ [C,,C,] [C,,C,] [E,,E,] [=B,,,=B,,] | [C,,C,] z3 | [G,,,G,,] [=B,,,=B,,] [C,,C,] [A,,,A,,] | %3
+ [G,,,G,,] z3 | [C,,C,] [C,,C,] [=B,,,=B,,] [B,,,B,,] | [_B,,,_B,,] [C,,C,] [_D,,_D,] [=D,,=D,] | %6
+ [E,,E,] A, B, B,, | E, B,, E,, z | [G,,,G,,] z [G,,G,] [G,,G,]/>[G,,G,]/ | %9
+ [G,,G,] z [G,,G,] [G,,G,]/>[G,,G,]/ | [G,,G,] z3 | z3 [F,,F,]/>[F,,F,]/ | %12
+ [E,,E,] [E,,E,]/>[E,,E,]/ [E,,E,] [E,,E,] | [F,,F,] z2 [FA] | [EG] F G G, | C G, C, z |] %16

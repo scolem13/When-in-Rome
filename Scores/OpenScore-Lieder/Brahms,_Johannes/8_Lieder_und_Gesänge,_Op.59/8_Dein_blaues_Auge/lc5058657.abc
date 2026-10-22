@@ -1,0 +1,56 @@
+X:1
+T:8 Lieder und Gesänge, Op.59
+T:Dein blaues Auge
+C:Johannes Brahms
+Z:Klaus Groth
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Ziemlich langsam" z8 | z8 | z8 | z4 z2 B2 | c3 c B2 B2 | e3 e d2 c2 | B2 A2 G2 F2 | E4 z2 G2 | %8
+w: |||Dein|blau- es Au- ge|hält so still, ich|bli- cke bis zum|Grund. Du|
+ G2 G2 z2 G G | c3 F F2!f! B2 | B3 B F3 F | B,4 z4 | z4 z2 B2 | _c3 c B2 B2 | e3 e e3 _d | %15
+w: fragst mich, was ich|se- hen will? Ich|se- he mich ge-|sund.|Es|brann- te mich ein|glü- hend Paar, noch|
+ (_d_c) z B (BA) z =A | (B4 !turn!_c3) A | _G4 z2 B2 | B2 B2 z2 B B | e3 A A4 | z4 z2!f! e2 | %21
+w: schmerzt, * noch schmerzt * das|Nach- * ge-|fühl: das|dei- ne ist wie|See so klar|und|
+ e3 e B3 B | G4 z2 g2 | e3 e B3 B | E4 z4 | z8 | z8 | z8 | !fermata!z8 |] %29
+w: wie ein See so|kühl, und|wie ein See so|kühl.|||||
+V:2
+!f! (b3 g e2!>(! B2) | (=A2 c6)!>)! | ([F_Af]3 d B2!>(! A2) | (=G2 B6)!>)! |!p! (c4 B4 | %5
+ e4 d2) (c2 | B2 A2 G2 F2) |!>(! E4 G4!>)! | (G4 G4 | [EF]4 [DF]4) | B4 F4 | B,4 z4 | %12
+!>(! z2 ((_g4!>)! f2)) |!p! _c4 B4 | e3 x x4 | (__E[_GA_c]_D[=GB] _C[GA]=C[G=A]) |!>(! B4 A4!>)! | %17
+!p! (_G4 B4-) | B4 B4 | [GA]4 A3 _d |!>(! d3 _G G4!>)! | =A4 B4 |!<(! G4!<)!!>(! e4!>)! | c4 B4 | %24
+ (b3 g!>(! e2 B2) | (=A2 c6)!>)! |!>(! ([F_Af]3 d B2 A2)!>)! | (=G2 B4) (G2 | %28
+ !arpeggio!!fermata![G,EB]8) |] %29
+V:3
+ ([E,,B,,]E,G,B,[I:staff -1] EGEG) |[I:staff +1] [E,_G,=A,]8 | (D,,B,,D,F, B,DB,D) | [E,=G,]8 | %4
+ ([E,_G,=A,]4 [D,F,]4 | [C,E,=A,]4 [B,,F,B,]2) [_A,C]2 | %6
+ [B,,G,B,]2 [B,,-E,A,]2 [B,,E,G,]2 [B,,D,F,]2 | %7
+ G,B,G,B, G,[I:staff -1]E[I:staff +1]G,[I:staff -1]E | %8
+[I:staff +1] G,[I:staff -1]E[I:staff +1]G,[I:staff -1]E[I:staff +1] G,[I:staff -1]E[I:staff +1]G,[I:staff -1]E- | %9
+[I:staff +1] F,CF,C F,B,F,B, |!f![I:staff -1] B,=EB,E[I:staff +1] F,[B,C]E,[=A,C] | %11
+ (D,F,=A,B,[I:staff -1] DF=AB) |[I:staff +1] (E_GEG DFDF) |!<(![I:staff -1] E_GEG DFDF | %14
+[I:staff +1] [C,E,_G,=A,]2 !arpeggio![B,,E,G,B,]2!<)! !arpeggio![=A,,E,G,C]2 [B,,_D,G,B,]2 | %15
+ ([_C,__E,_G,A,]2 [_D,G,B,]2 [E,G,A,]2 [=E,G,=A,]2) | [_D,_G,B,]4 [_D,,D,]4 | %17
+ ([_G,,-_G,]4 [F,,G,,F,]4 | [E,,_G,,-E,]4 [_D,,G,,_D,]4) | [C,,A,,C,]4 [_D,,A,,_D,]4 | %20
+ [B,,,B,,]4 [_C,,_C,]4 | [=C,,=C,]4 [D,,D,]4 | [E,,E,]4 [G,,,G,,]4 | [=A,,,=A,,]4 [B,,,B,,]4 | %24
+ ([E,,B,,]E,G,B,[I:staff -1] EGEG) |[I:staff +1] [E,_G,=A,]8 | (D,,B,,D,F, B,DB,D) | %27
+ [E,=G,]4 [E,,,E,,]4 | !arpeggio!!fermata![E,,B,,E,]8 |] %29
+V:4
+ x8 | C_GCG CGCG | x8 | B,EB,E B,EB,E | C_GCG B,FB,F | E=AEADB D_A | EGCF B,EA,D | x8 | x8 | x8 | %10
+ x8 | x8 | (_c3 =A B4) | x8 | E[_G=A]E[GBe] E[Gce]_D[GB_d] | x8 | _D_GDG _CFCF | B,_DB,D B,_GB,G | %18
+ B,_GB,G B,GB,G- | A,EA,!<(!E A,F_DF!<)! | _DFDF _G,EG,E | =A,EA,E B,FB,F | G,EG,E EBEB | %23
+ CECE B,[EF]_A,[DF] | x8 | C_GCG CGCG | x8 | B,EB,E B,EB,E | x8 |] %29
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | ([E,,E,]2 [D,,D,]2 | [C,,C,]2 [B,,,B,,]2) | %9
+ [=A,,,=A,,]2 [B,,,B,,]2 | [G,,,G,,]2 [F,,,F,,]2 | [B,,,B,,]2 z2 | x4 | x4 | x4 | x4 | x4 | x4 | %18
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %29

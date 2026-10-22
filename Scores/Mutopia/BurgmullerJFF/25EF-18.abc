@@ -1,0 +1,30 @@
+% Inquiétude: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=230
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Inquiétude
+C:Johann Friedrich Franz Burgmüller (1806-1874)
+%%score 1 2
+L:1/16
+Q:1/4=138
+M:2/4
+I:linebreak $
+K:Emin
+V:1 treble nm="up" snm="Pno"
+V:2 bass nm="down" snm="Pno"
+L:1/8
+V:1
+ z gfe z edc | z B^AB z BcB | z gfe z edc | z B^AB z BcB | z Bgf z Bgf | z Bfe z Bfe | %6
+ z ded z ^cdc | z B^AB b z3 | z b=ag z gfe | z d^cd z ded | z bag z gfe | z d^cd z ded | %12
+ z =cba z cba | z Bag z Bag | z Bgf z Bgf | z Bfe z Bfe | z gfe z edc | z B^AB z BcB | %18
+ z gfe z edc | z B^AB z BcB | z Bgf z Bgf | z Bfe z Bfe | z BcB z FGF | z E^DE e z3 | %24
+ z EFE z C=DC | z A,B,A, z B,CB, | z EFE z CDC | z A,B,A, z B,CB, | E4 z BcB | e z4 bc'b | e' z7 |] %31
+V:2
+ [E,G,B,]/ z3/2 [E,A,C]/ z3/2 | [E,G,B,]/ z3/2 [E,G,B,] z | [E,G,B,] z [E,A,C] z | %3
+ [E,G,B,] z [E,G,B,] z | [^D,A,B,] z [D,A,B,] z | [E,G,B,] z [E,G,B,] z | [F,B,] z [F,^A,E]2 | %7
+ [B,D] z B,,/ z3/2 | [G,B,D] z [G,^A,^C] z | [G,B,D] z [G,B,D] z | [G,B,D] z [G,^A,^C] z | %11
+ [G,B,D] z [G,B,D] z | [F,CD] z [F,CD] z | [G,B,D] z [G,B,D] z | [B,^DA] z [B,DA] z | %15
+ [EG] z [EG] z | [E,G,B,] z [E,A,C] z | [E,G,B,] z [E,G,B,] z | [E,G,B,] z [E,A,C] z | %19
+ [E,G,B,] z [E,G,B,] z | [^D,A,B,] z [D,A,B,] z | [E,G,B,] z [E,G,B,] z | %22
+ [B,,^D,A,] z [B,,D,A,] z | [E,G,] z E,,/ z3/2 | [E,G,] z C,2 | A,,2 B,,2 | E,2 C,2 | A,,2 B,,2 | %28
+ E,2 z2 | [E,G,B,]/ z7/2 | E,,/ z7/2 |] %31

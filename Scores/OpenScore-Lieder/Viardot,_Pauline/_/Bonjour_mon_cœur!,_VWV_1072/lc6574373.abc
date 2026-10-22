@@ -1,0 +1,71 @@
+X:1
+T:Bonjour mon cœur!
+C:Pauline Viardot
+Z:Pierre de Ronsard
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/8
+Q:1/4=116
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+"^Allegretto" z4 | z4 | z4 | z4 | z!p! G A B | F2 z F | G A B c | G2 G z | z G G !^!c | %9
+w: ||||Bon- jour mon|cœur, bon-|jour ma dou- ce|vi- e,|Bon- jour mon|
+ !^!c z (!^!c2 | (F) G A B | A2 G) z | !>!d2 (!>!d2 | G)!<(! =A B e!<)! |!>(! (d4 |({cd)} c4!>)! | %16
+w: œil, bon-|– jour ma chère a-|mi- e,|Hé, bon-|jour ma tou- te|bel-||
+ B2) z2 | c2 d c | (e2 B)!<(! G | B4-!<)! | B2 z2 |!f! c2 d2 | (!>!f!>!e) B2 | z (B2 F) | G4 | %25
+w: le!|Ma    mi- gnar-|– di- se, bon-|jour. |_|Mes  dé-|li- * ces,|mon a-|– mour. |
+ z !^!_d c =B | c2 z G | (G =A B c | B2 =A) z |!<(! e2!<)! !>!d !>!^c |!>(! (d3!>)! =A) | %31
+w: Mon doux prin-|temps, ma|dou- ce fleur nou-|vel- le,|Mon doux plai-|– sir,  ma|
+ (=A =B =c d |"_dim.""^dim. e rit." c4 | =B4) |"^a Tempo" z _B c d | c2 z B | c d e f | g4- | g4- | %39
+w: dou- ce co- lom-|bel-|– le. |Mon pas- se-|reau, ma|gen- te tour- te-|rel-||
+ (g2 B/) !fermata!z/[Q:1/4=52]"^Lent" B | !fermata!_d2 z"^a Tempo""^avec feu" d |!<(! f3 f!<)! | %42
+w: * le, Bon-|– jour! Bon-|jour,  ma|
+"^retenez" (!^!gf) c A |"^animez" G!f! !^!e2 !^!c- | c!^!d (!^!!fermata!f2 | e4-) | e z z2 | z4 | %48
+w: dou- * ce re-|– bel- * *||le! |_||
+ z4 | z4 |] %50
+w: ||
+V:2
+"^Allegretto" z[I:staff +1] (G,/B,/[I:staff -1] E/G/B/e/ | [_gc']) z [db] z | z4 | z .E.[EG] z | %4
+ z E[EG] z | z F[FA] z | z F[FA] z | z F[FG] z | z E[EG] z | z E[EF] z | z D[DF] z | z E[EG] z | %12
+ z D[DG] z | z E[EG] z | z .[DF].[DF=B].[FBd] | ([F=Af]ecA) | B .D.[DF].[DFB] | z/ (C/E/A/ c) z | %18
+ z/ (B,/E/G/ B) z |!<(! (Bc!<)!Bc | Bed_d) | (!arpeggio![=DAc]FGA) |!p! ([B,EG]A=AB) | %23
+ ([D_A=B]c^cd) | z/"_cresc." (B,/E/B,/ G/E/B/G/) | z/ (_D/F/A/ _d/A/F/D/) | z/ (C/=E/G/ c/G/E/C/) | %27
+ z/ (C/=E/B/ c/B/E/C/) | z/!<(! (C/F/C/ =A/F/c/A/)!<)! | z/ (E/G/B/ e/B/G/E/) | %30
+ z/ (D/^F/=A/ d/A/F/D/) | z/ (D/^F/=c/ d/c/F/D/) | z/ (D/G/c/ d/c/G/D/) | z/ (D/G/=B/ d) z | %34
+"^a Tempo" z !arpeggio![_B,DF]!arpeggio![DFB] z | z !arpeggio![B,EG]!arpeggio![EGB] z | %36
+ z !arpeggio![B,DA]!arpeggio![DAB] z | z4 | z (=E/G/ B/_d/=e/g/ | b) z !fermata!z2 | %40
+"^a Tempo" !fermata!z4 | z/!<(! (_D/F/A/!<)! _d) z |!f! gfcA |"^animez" !^![B,EB] z !^![CE=A] z | %44
+ !^![CE_A] z !^![DABd] !fermata!z |!f! !arpeggio![EGBe][I:staff +1] (G,/B,/[I:staff -1] E/G/B/e/) | %46
+ (g/e/B/G/ B/e/g/b/ | e') z [_gc'] z | z2!f! [DB] z | E2 z2 |] %50
+V:3
+!mf!!ped! (E,,B,,/E,/ G,/B,/[I:staff -1]E/G/!ped-up! | %1
+ [=Ae])[I:staff +1] z[I:staff -1] [B,_A][I:staff +1] z | z4 |!p! E,,2 z .B,, | E,,2 z B,, | %5
+ E,,2 z C, | E,,2 z C, |!ped! E,,2 z D,!ped-up! | E,,2 z C, | F,,2 z F, |!ped! _C,2 z B,,!ped-up! | %11
+ E,2 z E, | B,,2 z G, | C,2 z C, |!ped! F,,2 z F,!ped-up! | F,, [E,=A,][F,CE] F, | B,,2 z2 | %17
+ A,2 z B,, | G,2 z B,, | (B,,/F,/A,/B,/ D) z | (B,,/E,/G,/B,/ E) z | %21
+!ped! (B,,/F,/A,/B,/ D) z!ped-up! |!ped! (B,,/G,/B,/E/ G) z!ped-up! | %23
+!ped! (_B,,/F,/A,/_B,/ D) z!ped-up! | E,2 z2 |!ped! !^![F,A,]4!ped-up! | [=E,G,-]4 | [C,G,]4 | %28
+ F,2 z C, |!ped! !^![G,B,]4!ped-up! |!ped! [^F,=A,-]4!ped-up! | [D,=A,]4 |!ped! G,2 z G,,!ped-up! | %33
+"^suivez"!ped! G,4!ped-up! | A, z z B,, | G, z z B,, | F, z z B,, | z4 | %38
+!p!!ped! =E,, (G,/B,/[I:staff -1] _D/_E/G/B/!ped-up! | _d)[I:staff +1] z"^suivez" !fermata!z2 | %40
+ !fermata!z4 |!ped! A,,/ (F,/A,/_D/ F) z!ped-up! |!ped! F,,/ (E,/F,/A,/ C) z!ped-up! | %43
+ !^!G, z !^!_G, z | !^!F, z!ped! !^![F,B,] !fermata!z!ped-up! | %45
+!ped! [E,,E,] (B,,/E,/ G,/B,/[I:staff -1]E/G/)!ped-up! | (B/G/E/B,/[I:staff +1] G,/E,/B,,/G,,/ | %47
+ E,,) z!p![I:staff -1] [=Ae][I:staff +1] z | z2 [B,,_A,] z | [E,,E,]2 z2 |] %50
+V:4
+ x4 | x4 | x4 | x [G,B,]B, x | x [G,B,]B, x | x [A,C]C x | x [A,C]C x | x [G,=B,]B, x | %8
+ x [G,C]_B, x | x [F,B,]B, x | x [F,A,]A, x | x [G,B,]B, x | x G, x2 | x [G,B,]B, x | x .^G, x2 | %15
+ x4 | x4 | x4 | x4 |[I:staff -1] [DA]2 z2 | [EG]2 z2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %30
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %49
+[I:staff +1] G,2 x2 |] %50
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x [F,B,] B, x | %17
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %36
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | B,,4- | B,, x B,, x | x4 | x4 | x4 | x4 | x4 |] %50

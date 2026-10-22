@@ -1,0 +1,91 @@
+X:1
+T:Echo of Songs, B.152
+C:Antonín Dvořák
+Z:OpenScore (CC0)
+%%score [ 1 | ( 2 3 ) | ( 4 5 ) | ( 6 7 ) ]
+L:1/8
+Q:1/4=78
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Violin 1"
+V:2 treble nm="Violin 2"
+V:3 treble 
+L:1/4
+V:4 alto nm="Viola"
+V:5 alto 
+L:1/4
+V:6 bass nm="Violoncello"
+V:7 bass 
+L:1/4
+V:1
+"^X.  Tam stojí stará skála\nThere stands an ancient crag""^Andante maestoso" z2!p!"^molto espressivo"!<(! b>b e3 e!<)! | %1
+!>(! c'4 (b3 a) | a2!>)! z2 z!<(! (!tenuto!a!tenuto!b!tenuto!c') | (d3!<)!!>(! e f4)!>)! | %4
+ g2!pp! ((e'd') (d'^c') (d'>g)) | (a3 !tenuto!a) (c'3 !tenuto!c') | (=e2 f2 g2)!<(! (a>g)!<)! |$ %7
+!>(! g4!>)! z2!<(! (g>!tenuto!g)!<)! | a4"_dim." a3!<(! a | (c'3 b a2)!<)! (c'e') | %10
+!f! (e'2 _d'2)"_dim." (c'3 b) |!>(! b4 z2 b2!>)! |$!pp! (f'3!<(! e') (e'3 _d')!<)! | %13
+!>(! (_d'4 c'2) c'2!>)! |!pp! (=b3 c') (c'2 ^f2) | (g4 !tenuto!g2 !tenuto!g2) | %16
+[Q:1/4=88]"^Più mosso" (g3!<(! e') (e'3 _g)!<)! | (_g4!>(! f2)!>)! (f!tenuto!f) |$ %18
+!p!!<(! (f3 _d')!<)! (d'2!>(! _f2) | (_f2 e2)!>)! z2 e2 |!p!"^accel."!<(! (=f3 .f) (=g2 c'2)!<)! | %21
+!f!!<(! (c'3 f) (!tenuto!f2 !tenuto!g2)!<)! |$!ff!!<(! a4 (b3 e')!<)! | (e'3!>(! a) (a2 _d'2)!>)! | %24
+[Q:1/4=84]"^Poco meno mosso"!pp! (_d'3 d' !tenuto!d'2 !tenuto!d'2) | %25
+!<(! (_d'3 c')!<)!!>(! (.c'2 .c'2)!>)! |!>(! (f2 g2) (a3 !tenuto!a)!>)! |$!pp! a4 z2 g2 | %28
+[Q:1/4=78]"^Andante. Tempo 1" (g2!<(! c'2) (e'3!<)! =d') | (c'3!>(! g) (g2 fg)!>)! | %30
+ (a2!pp! b2) c'3- .c' | b4 z2 b2 |$!<(! (b2 e'2) (_g'2 f'2)!<)! |!ff! (e'3 b)!>(! b2 (ab)!>)! | %34
+!p! (_c'2!>(! _d'2) (e'3 c')!>)! |!pp! b8- | b2 z2 !fermata!z4 |] %37
+V:2
+!pp!!<(! (!tenuto![G,B]4 !tenuto![G,c]4)!<)! |!>(! [A,F]8!>)! | z2!p!!<(! E4- [CE]2!<)! | [DB]8 | %4
+!pp! [G,G]8 | (F4 A4) | (G4 =E2 F2) |$!<(! (G2 F2 =E2)!<)! (_d>c) |!>(! (F3 G) (A2 B2)!>)! | %9
+!p!!<(! (cEBE) (AEAc)!<)! |!f! (cFBF)"_dim." (AEFB) | (B2"_dim." _d2 G2 B2) |$ %12
+!pp! (A4!<(! _d4)!<)! |!>(! (e2 _G4) G2!>)! | (^F2!pp! =d4 c2) | [G,G]8 | %16
+ (3AAA!<(! (3AAA (3BBB (3BBB!<)! | (3ccc!>(! (3_GGG (3FFF (3FFF!>)! |$ %18
+!p!!<(! (3_GGG (3GGG (3AAA (3AAA!<)! | %19
+!>(! (3BBB (3[B,_F][B,F][B,F] (3[B,E][B,E][B,E] (3[B,E][B,E][B,E]!>)! |!p!!<(! !>!=F4 !>!=G4!<)! | %21
+!f!!<(! !>!A2 !>!B2 !>!c2 !>!B2!<)! |$!ff! !>!A4 !>!B4 | !>!c2!>(! !>!_d2 !>!e2 d2!>)! | %24
+ z!pp! B2- .B z A2- .A | z!<(! (!tenuto!G2 !tenuto!G2!<)!!>(! !tenuto!G2 !tenuto!G)!>)! | %26
+!>(! F4- F4!>)! |$!pp! (c3 A) G3- .G | G4!<(! (G3!<)! F) | E6!>(! (BE)!>)! | (EA!pp!GE CEC=D) | %31
+ (EGeB geBG) |$ (.[G,E].[G,E]"_cresc.".[G,E].[G,E]) (.[=A,E].[A,E].[A,E].[A,E]) | %33
+!ff! (.[B,E].[B,E].[B,E].[B,E])!>(! (.[B,E].[B,E].[B,E].[B,E])!>)! |!p! (E2!>(! F2 _G2 E2)!>)! | %35
+!pp! (=GB, EG, GB, EG,) | !fermata![B,G]8 |] %37
+V:3
+ x4 | x4 | x A, B, x | x4 | x4 | x4 | x4 |$ _D3 x | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | %17
+ x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x/ (G3/2 B/ G B,/) |$ %32
+ x4 | x4 | x4 | (=G E G E) | x4 |] %37
+V:4
+!pp!!<(! (!tenuto![G,E]4 !tenuto![G,E]4)!<)! |!>(! [CE]8!>)! | z2!p!!<(! F,6!<)! | [B,F]8 | %4
+!pp! D8 | (=B,4 C4) | (G,6 D,2) |$!<(! (=E,2 F,2 G,2)!<)! B,2 |!>(! _D8!>)! | %9
+!p!!<(! (E,A,E,G,) (C,=F,C,E,)!<)! |!f! (F,B,F,B,)"_dim." (E, A,2 F,) | %11
+!>(! (G,B,A,B, G,B,E,G,)!>)! |$!pp! _G4-!<(! G4!<)! |!>(! (_G2 E4) E2!>)! | (=D2!pp! ^F4 C2) | %15
+ (=D6 D2) | (3[EG][EG][EG]!<(! (3[EG][EG][EG] (3[_D_G][DG][DG] (3[DG][DG][DG]!<)! | %17
+ (3[E_G][EG][EG]!>(! (3[CE][CE][CE] (3[CE][CE][CE] (3[CE][CE][CE]!>)! |$ %18
+!p!!<(! (3[_DF][DF][DF] (3[DF][DF][DF] (3[_C_F][CF][CF] (3[CF][CF][CF]!<)! | %19
+!>(! (3[_D_F][DF][DF] (3DDD (3DDD (3DDD!>)! | %20
+!p!!<(! (3[CE][CE][CE] (3[CE][CE][CE] (3[B,E][B,E][B,E] (3[B,E][B,E][B,E]!<)! | %21
+!f!!<(! (3[CE][CE][CE] (3[CE][CE][CE] (3[CE][CE][CE] (3[_DG][DG][DG]!<)! |$ %22
+!ff! (3[EG][EG][EG] (3[EG][EG][EG] (3[_DG][DG][DG] (3[DG][DG][DG] | %23
+ (3[EG][EG][EG]!>(! (3[EG][EG][EG] (3[EG][EG][EG] (3[B,F][B,F][B,F]!>)! | z!pp! G2- .G z F2- .F | %25
+ z!<(! (!tenuto!=E2 !tenuto!E2!<)!!>(! !tenuto!E2 !tenuto!E)!>)! |!>(! (C4 =B,4)!>)! |$ %27
+!pp! _E4 (F2 ED) | (E4!<(! =B,4)!<)! | (C2!>(! G,2 _B,4)!>)! | %30
+ !tenuto!E,!pp! (!tenuto!E,2 !tenuto!E,2 !tenuto!E,2 F,) | (G, B,2 E2 B,2 E, |$ %32
+ (.B,).B,"_cresc.".B,.B,) (._G,.G,.G,.G,) |!ff! (._G,.G,.G,.G,)!>(! (.G,.G,.G,.G,)!>)! | %34
+!p! ([E,_C]A,!>(! [E,C])A, ([E,C]A, [E,C])A,!>)! |!pp! [E,=G,]8- | !fermata![E,G,]8 |] %37
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | (F,2 _F,2) | x4 | x4 | x4 |$ x4 | x4 | x4 | (C2 =B,2) | %16
+ x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %35
+ x4 | x4 |] %37
+V:6
+!pp!!<(! (!tenuto![E,,B,,]4 !tenuto![E,,C,]4)!<)! |!>(! [A,,E,]8!>)! | %2
+ z2!p!!<(! (C,2 G,,2 A,,2)!<)! | [A,,F,]8 |!pp! B,,8 | ([D,F,]4 [C,E,]4) | [D,B,]6 B,,2 |$ %7
+!<(! B,,6!<)! =E,,2 |!>(! A,,8!>)! |!p!!<(! A,,E,G,,E, F,,C,E,,A,,!<)! | %10
+!f! (_D,,2 B,,2)"_dim." (C,2 _D,2) |!>(! (E,G,_F,A, E,G,_D,E,)!>)! |$!pp! (C,4!<(! B,,4)!<)! | %13
+!>(! =A,,2 =A,4 A,2!>)! | (_A,4 _A,,4)!pp! | G,,8 | (C,4!<(! B,,4)!<)! | %17
+ =A,,4 z!>(! (A,,C,F,)!>)! |$!p!!<(! (A,,4 _A,,4)!<)! |!>(! G,,4 z (G,,B,,E,)!>)! | %20
+!p!!<(! !>!A,,4 !>!G,,4!<)! |!f!!<(! !>!F,,2 !>!G,,2 !>!A,,2 !>!B,,2!<)! |$!ff! !>!C,4 !>!B,,4 | %23
+ !>!A,,2!>(! !>!B,,2 !>!C,2 _D,2!>)! |!pp! =E,4 F,4 |!<(! B,8!>)!!>(!!<)! |!>(! (A,4 =D,4)!>)! |$ %27
+!pp! (C,4 =B,,4) |"^pizz." C,G,C z"_cresc." A,,E,A, z | E,,!>(!C,E, z D,,D,E,!>)! z | %30
+"^arco" (C,2!pp! B,,2 A,,4) | E,,4 z4 |$!p!!<(! (B,,4 _C,4)!<)! |!ff! (=C,2 C,,2)!>(! _D,,4!>)! | %34
+!p! A,,8!>)!!>(! | (E,,2 B,,2)!pp! (E,,2 B,,2-) | !fermata![E,,B,,]8 |] %37
+V:7
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | (A,, G,,) (F,, E,,) | x4 | x4 |$ x4 | x4 | x4 | x4 | %16
+ x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %35
+ E,,2 E,,2- | x4 |] %37

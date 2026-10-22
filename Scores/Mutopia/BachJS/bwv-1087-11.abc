@@ -1,0 +1,34 @@
+% 14 Canons - 11: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1443
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:14 Canons - 11
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 2 3 4 5
+L:1/8
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble nm="Violin" snm="Vln"
+V:3 treble nm="Violin" snm="Vln"
+V:4 treble nm="Viola" snm="Vla"
+V:5 bass nm="Violoncello" snm="Vc"
+L:1/4
+V:1
+ z4 | z4 | z3 d | ^de =f^f | g/f/g/a/ b z | z f B/^c/d/e/ | f2 z d | ^de =f^f | g/f/g/a/ b z | %9
+ z f B/^c/d/e/ | f2 z d | ^de =f^f | g/f/g/a/ b z | z f B/^c/d/e/ | f2 z d | ^de =f^f | g4 |] %17
+V:2
+ z3 B | ^A=A ^G=G | F/G/F/E/ D z | z G d/c/B/A/ | G2 z B | ^A=A ^G=G | F/G/F/E/ D z | %7
+ z G d/c/B/A/ | G2 z B | ^A=A ^G=G | F/G/F/E/ D z | z G d/c/B/A/ | G2 z B | ^A=A ^G=G | %14
+ F/G/F/E/ D z | z G d/c/B/A/ | G4 |] %17
+V:3
+ z4 | z4 | z4 | z4 | z4 | z4 | z3 D | C^A, =A,D/C/ | B,E D/^C/D/E/ | F2 z B- | B/B,^C/ D/E/D | %11
+ =C^A, =A,D/C/ | B,E D/^C/D/E/ | F2 z B- | B/B,^C/ D/E/D | =C^A, =A,D/C/ | B,4 |] %17
+V:4
+ z4 | z4 | z4 | z4 | z3 B | ^c^d eB/=c/ | =dA B/c/B/A/ | G2 z D- | D/dc/ B/A/B | ^c^d eB/=c/ | %10
+ =dA B/c/B/A/ | G2 z D- | D/dc/ B/A/B | ^c^d eB/=c/ | =dA B/c/B/A/ | G2 z D- | D4 |] %17
+V:5
+ z G, | F, E, | D, B,, | C, D, | G,, G, | F, E, | D, B,, | C, D, | G,, G, | F, E, | D, B,, | %11
+ C, D, | G,, G, | F, E, | D, B,, | C, D, | G,,2 |] %17

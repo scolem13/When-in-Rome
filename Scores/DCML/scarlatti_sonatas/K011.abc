@@ -1,0 +1,46 @@
+X:1
+T:Sonata
+C:Domenico Scarlatti
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=128
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Harpsichord" snm="Hch."
+L:1/16
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Allegro" G4 T=B3=A/B/ c6 d2 | [Ge]2f2g2c2 =B2=A2G2F2 | E2F2G2C2 =B,2=A,2G,2d2 |$ %3
+ [Ge]2f2g2c2 =B2=A2G2d2 | g2 x2 f2 x2 e2 x2 d2 x2 | g2 x2 f2 x2 e2 x2 d2 x2 |$ %6
+ a2 x2 g2 x2 f2 x2 e2 x2 | a2 x2 g2 x2 f2 x2 e2 x2 | c'2b2 =a2g2 ^f2=e2 d2c2 |$ %9
+ B2 x2 d2c2 TB3=A/G/ TA3G/^F/ | GDGB d2c2 TB3=A/G/ TA3G/^F/ | dGBd g2c2 TB3=A/G/ TA3G/^F/ |$ %12
+ Ggfedc=B=A GGFEDC=B,=A, | z4 [G=Bd]4 [GBdg]4 !fermata!z4 ::$ =B4 Tc3B/c/ d6 e2 | %15
+ [df]2 [ce]4 [=Bd]2 Te3d/e/ c2G2 | f2 x2 e2 x2 d2 x2 c2 x2 |$ d4 edc2 g2G2G2g2 | %18
+ fed2 edc2 dc=B2 cde2 | d/e/f3 Te3d/e/({e/4} Td6) e2 |$ a2 x2 g2 x2 f2 x2 e2 x2 | %21
+ a2 x2 g2 x2 f2 x2 e2e2 | f2e2 d2c2 =B2=A2 G2F2 |$ E2 z2 G2F2 TE3D/C/ TD3C/=B,/ | %24
+ cGce g2f2 Te3d/c/ Td3c/=B/ |$ gceg c'2f2 Te3d/c/ Td3c/=B/ | cc'ba gfed ccBA GFED | %27
+ C z3 [ceg]4 [cegc']4 !fermata!z4 :| %28
+V:2
+ E2 [DF]2 [EG] [DF][CE]D | EDEF G x3 | x7 D |$ EDEF G x3 | eG dG c=B/=A/ B/G/B/d/ | %5
+ eG dG c=B/=A/ B/G/B/d/ |$ fG eG dc/=B/ c/G/c/e/ | fG eG dc/=B/ c/B/c/d/ | %8
+ e/d/c/=B/ c/_B/=A/G/ A/G/^F/=E/ F/D/E/F/ |$ G/D/G/B/ d x5 | x3 E D2 x2 | x3 E D2 x2 |$ x8 | x8 ::$ %14
+ D2 F2 D2 E2 | [DF]2 [DG]2 x4 | AF GE FD E/D/C |$ x7 G | F2 E2 D2 x2 | x8 |$ %20
+ fG eG dc/=B/ c/G/c/e/ | fG eG dc/=B/ c/_B/A/G/ | A/G/F/E/ F/E/D/C/ x4 |$ x8 | x8 |$ x8 | x8 | %27
+ x8 :| %28
+V:3
+"m" C2"m" z2"m" z2 z"" =B, |"m" C"m" z2"m" z"" G,=A,=B,""G, |"m" C"m""m" x3"" G, z z"" =B, |$ %3
+"m" C"m""m" z3"" G,2 z2 |"""""""" z8 |"m""""""" z8 |$"m""m""""" z8 |"m""m""""" z8 | %8
+"m""m""m""" z8 |$"m" z3"m" C"" D2"m" C2 |"m" B,3"m""" z3"m" C2 |"m" B,3"m" C,"" D,2"" D,,2 |$ %12
+"" G,,2 z2 z2 z2 | G,/D,/=E,/^F,/ G,/=B,,/C,/D,/ G,,2 !fermata!z2 ::$ %14
+"m" G,2"" =A,2"" =B,G,"m""m" C2 |"m" z2"""" G,2"m" C2 z2 |"m""m""m""m" z8 |$ %17
+"" =B,G,"m" C2"" G,3"C{" G, |"m" A,2"m" G,2"m" F,2"m" [E,C]2 | %19
+"" [D,F,G,=B,]2"m" [C,G,C]2"" [G,,G,]2 z2 |$"""m""""" z8 |"m""m""""m""" z8 | %22
+"m""m" z4"m" D/C/=B,/=A,/"" B,/G,/A,/B,/ |$"m" C/G,/C/E/ G"m"F,"" G,2"m" F,2 | %24
+"m" C3"m" D"" E2"m" D2 |$"m" C3"m" D"" G,2"" G,,2 |"m" C,2 z2 z4 | %27
+ z/ G,/=A,/=B,/ C/E,/F,/G,/ C,,2 !fermata!z2 :| %28
+V:4
+ x8 | x8 | C,D,E,F, G,,3 x |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 ::$ x8 | x8 | %16
+ x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | E,3 F, G,2 F,2 |$ E,3 F, x4 | x8 | x8 :| %28

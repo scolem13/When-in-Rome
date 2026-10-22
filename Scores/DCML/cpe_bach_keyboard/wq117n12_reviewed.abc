@@ -1,0 +1,29 @@
+X:1
+T:Fantasia in D Minor
+C:Carl Philipp Emanuel Bach
+Z:IOO
+%%score { 1 | ( 2 3 ) }
+L:1/16
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Harpsichord" snm="Hch."
+V:2 bass 
+V:3 bass 
+L:1/4
+V:1
+"^Allegro di molto" abag afed abag afed | a2A2 z2 A2 z2 A^G A=B^cd | ed^cd efgf edc=B AGFE |$ %3
+ FDEF GA=B^c defg afed | ^cdef gfed cded c=BAG | Fd=c_B AGFE D2ag fedc |$ %6
+ B2dc BAGF !wedge!E2gf edcB | !wedge!A2cB AGFE !wedge!D2fe dcBA | %8
+ !wedge!G2BA GFED !wedge!^C2!wedge!e2!wedge!^c2!wedge!G2 |$ %9
+ F2fe dcBA !wedge!G2!wedge!g2!wedge!e2!wedge!^c2 | !wedge!A2ag fedc !wedge!B4 !wedge!d4 | %11
+ !wedge!f4 !wedge!^g4 !wedge!d'4 z4 | z4 z2 A/=B/^c/d/4e/4 Me8 | d4 z4 z8 |] %14
+V:2
+"m" !wedge!D,4 !wedge!D4 z4 !wedge!D,4 |"" !wedge!^C,4 E,2A,2 ^C4 z4 |"" z4 A,,4 =B,,4 ^C,4 |$ %3
+"m" !wedge!D,4 !wedge!D,,4 z8 |"" z4 !wedge!A,,4 !wedge!A,4 !wedge!A,,4 | %5
+"m" D,DCB, A,G,F,E,"C|PAC" D,2"C{" z2 z4 |$"m" z2 B,A, G,F,E,D,"" !wedge!C,2 z2 z4 | %7
+"" z2 A,G, F,E,D,C,"" !wedge!B,,2 z2 z4 |"m" z2 G,F, E,D,^C,=B,,"" A,,8- |$"m""" A,,16- | %10
+"m" A,,8"" B,,8 |"CGer6" B,,16 | z8 [^C,E,G,]8 | F,4 z4 z8 |] %14
+V:3
+ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x2 z ^G, |"" A,,2 A,,2 |"m" D, x3 |] %14

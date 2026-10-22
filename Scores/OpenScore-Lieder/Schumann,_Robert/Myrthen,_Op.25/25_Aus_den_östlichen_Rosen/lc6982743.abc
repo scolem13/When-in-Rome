@@ -1,0 +1,92 @@
+X:1
+T:Myrthen, Op.25
+T:Aus den östlichen Rosen
+C:Robert Schumann
+Z:Friedrich Rückert
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 5 ) | ( 3 6 ) }
+L:1/16
+Q:1/4=71
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:5 treble 
+V:3 bass 
+V:6 bass 
+L:1/8
+V:1
+"^Ruhig, zart" z4 z2!p! B2 | B3!<(! B (Bc2) B!<)! | B3 B c3 G | A2 c2 z4 | z4 z2 B2 | %5
+w: Ich|sen- de ei- * nen|Gruss wie Duft der|Ro- sen,|ich|
+ G3 G!<(! (GB2) A!<)! | F3 F (FG2) D | E4 z4 | z4 z2 B2 | B3 B!<(! (Bc2) B!<)! | B3 B c3 G | %11
+w: send’ ihn an _ ein|Ro- sen- an- * ge-|sicht.|Ich|sen- de ei- * nen|Gruss wie Früh- lings-|
+ A2 c2 z4 | z4 z2 B2 | G3 G!<(! (=A2B) c!<)! |"^ritard." B3 B ^F3 F | G4 z4 | z4 z2 G2 | %17
+w: ko- sen,|ich|send’ ihn an _ ein|Aug’ voll Früh- lings-|licht.|Aus|
+ G3 G!<(! (G_A2) G!<)! | G3 G =B3 B | c2 G2 z4 | z8 | G2 G G (GA2) G | %22
+w: Schmer- zen- stür- * men,|die mein Herz durch|to- sen,||send’ ich den Hauch, * dich|
+ G3 G"^ritard." (!invertedturn!=A2G) A | B8 | z8 |!p! B2 B B!<(! (Bc2) B!<)! | B3 B c3 G | %27
+w: un- sanft rühr’ _ er|nicht!||Wenn du ge- den- * kest|an den Freu- de-|
+ A2 c4 z2 | z4 z2 e2 |!>(! e2 c2 A2 F2!>)! | G3 G F3 F | E8- | E2!<(! E2 =E2 F2 | %33
+w: lo- sen,|so|wird der Him- mel|mei- ner Näch- te|licht,|_ so wird der|
+ G2 G2 A2 =A2!<)! |"^ritard." B6 D2 | E4 z4 | z8 | z8 | z4 |] %39
+w: Him- mel mei- ner|Näch- te|licht.||||
+V:2
+!p!!>(! z8!>)! | z (G[EB][I:staff +1]B,)[I:staff -1] z (A[FB][I:staff +1]B,) | %2
+[I:staff -1] z (G[EB][I:staff +1]B,)[I:staff -1] z (B[Gc][I:staff +1]C) | %3
+[I:staff -1] x2 (c2- c2_dc) | z (A[Fc][I:staff +1]C)[I:staff -1] z (A[FB][I:staff +1]B,) | %5
+[I:staff -1] z (G[EB][I:staff +1]B,)[I:staff -1] z (G[EA][I:staff +1]A,) | %6
+[I:staff -1] z (F[DA][I:staff +1]A,)[I:staff -1] z (F[DG][I:staff +1]G,) |[I:staff -1] x2 (G4 F2) | %8
+ z (D[B,F][I:staff +1]F,)[I:staff -1] z (F[DB][I:staff +1]B,) | %9
+[I:staff -1] z (G[EB][I:staff +1]B,)[I:staff -1] z (A[FB][I:staff +1]B,) | %10
+[I:staff -1] z (G[EB][I:staff +1]B,)[I:staff -1] z (B[Gc][I:staff +1]C) |[I:staff -1] x2 (c4 _dc) | %12
+ z (A[Fc][I:staff +1]C)[I:staff -1] z (A[FB][I:staff +1]B,) |[I:staff -1] x4 z (=ABc) | %14
+"^ritard." z (F[DB][I:staff +1]B,)[I:staff -1] z (D[C^F][I:staff +1]=A,) |[I:staff -1] x4 z D3 | %16
+ z E3 z D3 | x4 z (F_AG) | z (E[CG][I:staff +1]G,)[I:staff -1] z (G[D=B][I:staff +1]G,) | %19
+[I:staff -1] x4 z (FAG) | z (E[CG][I:staff +1]G,)[I:staff -1] z (F[DG][I:staff +1]G,) | %21
+[I:staff -1] x4 z (DAG) | x4"^ritard." z =A2 x | z F3 z!<(! ^F3 | z G3 z _A3!<)! | %25
+!p! z (G[EB][I:staff +1]B,)[I:staff -1] z (A[FB][I:staff +1]B,) | %26
+[I:staff -1] z (G[EB][I:staff +1]B,)[I:staff -1] z (B[Gc][I:staff +1]C) |[I:staff -1] x2 (c4 _dc) | %28
+!<(! z (A[Fc][I:staff +1]C)[I:staff -1] z (_d[Be][I:staff +1]E)!<)! | %29
+[I:staff -1] z (!>!c[Ae][I:staff +1]E)[I:staff -1] z (!>!_c[Ae][I:staff +1]E) | %30
+[I:staff -1] z (B[Ge][I:staff +1]E)[I:staff -1] z (B[F=d][I:staff +1]D) | %31
+[I:staff -1] x2 (e2_d'2c'2 | b2a2[Bg]2[Af]2) | z B3 z (A2=A) | %34
+ z (G[EB][I:staff +1]B,)[I:staff -1] z (=F[DB][I:staff +1]_A,) |[I:staff -1] z2 (E2_d2c2 | %36
+ B2A2"^ritard."G2F2 | [G,E]2) z2!>(! z2 (3(B,EG | .e2)!>)! z2 |] %39
+V:3
+ z!ped! (B,GE B,G,E,B,,!ped-up! | E,,2) z x D,2 z x | E,2 z x =E,2 z x | F,2 z x =E,2 z x | %4
+ F,2 z x =D,2 z x | E,2 z x C,2 z x | D,2 z x =B,,2 z x | C,2 z x F,,2 z x | B,,2 z x B,,2 z x | %9
+ E,2 z x D,2 z x | E,2 z x =E,2 z x | F,2 z x =E,2 z x | F,2 z x =D,2 z x | E,2 z x C,2 z x | %14
+ D,2 z x D,2 z x | G,,2 z x =F,2 z x | E,2 z x D,2 z x | C,2 z x =B,,2 z x | C,2 z x F,2 z x | %19
+ E,2 z x D,2 z x | C,2 z x =B,,2 z x | C,2 z x F,2 z x | C,2 z x F,,2>F,2 | B,,2 z x _A,2 z x | %24
+ G,2 z x F,2 z x | E,2 z x D,2 z x | E,2 z x =E,2 z x | F,2 z x =E,2 z x | F,2 z x G,2 z x | %29
+ A,2 z x A,2 z x | B,2 z x A,2 z x | G,2 z x G,2 z x | A,4 C=EF,F | (B,4 C2>_C2) | %34
+ B,2 z x B,,2 z x |!ped! E,,2 z x E,,2!ped-up! z x | z2 A,2 B,,4- |!ped! [E,,B,,] (B,GE B,G,E,B,, | %38
+ .E,,2)!ped-up! z2 |] %39
+V:4
+ x8 | x8 | x8 | z AF[I:staff +1]C[I:staff -1] z BG[I:staff +1]C | x8 | x8 | x8 | %7
+[I:staff -1] z EC[I:staff +1]G,[I:staff -1] z E=A,[I:staff +1]F, | x8 | x8 | x8 | %11
+[I:staff -1] z AF[I:staff +1]C[I:staff -1] z BG[I:staff +1]C | x8 | %13
+[I:staff -1] z (G[EB][I:staff +1]B,)[I:staff -1] x GE[I:staff +1]C | x8 | %15
+[I:staff -1] z (D[B,G][I:staff +1]G,)[I:staff -1] x D!<(![=B,G][I:staff +1]G, | %16
+[I:staff -1] x E[CG]!<)![I:staff +1]G,[I:staff -1] x D[=B,G][I:staff +1]G, | %17
+[I:staff -1] z (E[CG][I:staff +1]G,)[I:staff -1] x FD[I:staff +1]G, | x8 | %19
+[I:staff -1] z (G[Cc][I:staff +1]G,)[I:staff -1] x F=B,[I:staff +1]G, | x8 | %21
+[I:staff -1] z (E[CG][I:staff +1]G,)[I:staff -1] x D=B,[I:staff +1]G, | %22
+[I:staff -1] z (E[CG][I:staff +1]G,)[I:staff -1] x ([EG][DF][CE]) | %23
+ x F[DB][I:staff +1]B,[I:staff -1] x ^F[DB][I:staff +1]B, | %24
+[I:staff -1] x G[EB][I:staff +1]B,[I:staff -1] x A[DB][I:staff +1]B, | x8 | x8 | %27
+[I:staff -1] z (AF[I:staff +1]C)[I:staff -1] z (BG[I:staff +1]C) | x8 | x8 | x8 | %31
+[I:staff -1] z!<(! _dB[I:staff +1]E!<)![I:staff -1] z ed[I:staff +1]B | %32
+[I:staff -1] z ec[I:staff +1]A C2 F,2 |[I:staff -1] x B[G_e][I:staff +1]_E[I:staff -1] x A[^Fe] z | %34
+ x8 | z (_DB,[I:staff +1]G,)[I:staff -1] z (ED[I:staff +1]G,) |[I:staff -1] BCA_C G[B,E]F[A,=D] | %37
+ x8 | x4 |] %39
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x E3 x4 | %37
+ x8 | x4 |] %39
+V:6
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %36
+ A,,>F,, B,,B,,, | x4 | x2 |] %39

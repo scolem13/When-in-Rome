@@ -1,0 +1,80 @@
+% Wiegenlied: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=887
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Wiegenlied
+C:Ferdinand Ries (1784–1838)
+%%score ( 1 2 3 ) ( 4 5 ) ( 6 7 8 )
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:F
+V:1 bass nm="lhStaff"
+V:2 bass 
+V:3 bass 
+V:4 treble nm="melStaff:mel"
+L:1/8
+V:5 treble 
+L:1/8
+V:6 treble nm="rhStaff"
+L:1/8
+V:7 treble 
+L:1/8
+V:8 treble 
+V:1
+ x | F,,2 A,,- A,, | G,,2 B,,- C,/C,/- | C,2 [D,G,]- [D,G,] | C,3- G, | F,,2 A,,- A,, | %6
+ G,,2 B,,- C,/C,/ | [A,,E,]/ z3/2 [D,A,]/ z3/2 | [A,,E,A,]/ z7/2 | [C,B,]2 [C,B,]- [C,B,] | %10
+ [C,A,]3 z | C,3- C, | [F,A,] z F, E, | [D,A,]2 [G,,F,]- [G,,F,] | C,3- C, | [C,=G,]3 z | %16
+ B,,3- _A, | [_E,G,]3 z | _E,3- E, | [_E,B,]3 z | _D,3- D, | %21
+ [_G,_B,]/_G,,/ _D,/G,/ (3:2:1B,/_D/ (12:7:1z2 | C,3- C, | C,3- C, | C,3- A,/ z/ | %25
+ G,/ z/ F,/ z/ E,- C, | F,,2 A,,- A,, | G,,2 B,,- B,, | [A,,C,]2 [D,G,]- [D,G,] | C,3- G, | %30
+ F,,2 A,,- A,, | G,,2 B,,- C,/ z/ | [A,,E,]/ z3/2 [D,A,]/ z3/2 | [A,,E,A,]/ z7/2 | %34
+ [C,B,]2 [C,B,]- [C,B,] | [C,A,]3 z | C,3- C, | F,,3- F,, | F,,3- F,, | F,,3- C,/D,/ | %40
+ C,3/2 z/ [F,,C,]/ z/ [F,,C,]/ z/ | [F,,C,]2 x2 |] %42
+V:2
+ x | z/ C, C, C,/- C,/C,/- | C,/ C, C, C,/- B,, | A,,2 z2 | G, B, A, C, | z/ C, C, C,/- C,/C,/- | %6
+ C,/ C, C, C,/- B,, | z4 | z4 | z4 | z4 | =B,2 _B,- B, | z2 G,- G, | z4 | G,2 _G,- G, | z4 | %16
+ G,3 B,, | z4 | B,2 A,- A, | z4 | B,2 =B,- B, | z4 | z =G, =D- D/B,/ | G, B, D- D/B,/ | %24
+ G,2 B,/ z/ C,- | C,3- E, | C,3- C, | C,3- C, | z4 | G, B, A, C, | z/ C, C, C,/- C,/C,/- | %31
+ C,/ C, C, C,/- B,, | z4 | z4 | z4 | z4 | =B,2 _B,- B, | z/ C,2- C,/- C, | z/ C,2- C,/- C, | %39
+ [C,F,]2- [C,F,]/ D,/ F,,- | F,,3/2 z2 z/ | z2 x2 |] %42
+V:3
+ x | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %20
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z F, E,- E, | %38
+ z F, E,- E, | z4 | z4 | z2 x2 |] %42
+V:4
+ x6 C2 | A2 A2 c2 c2 | c/ z/ A Bd G2- Gc | f3 F A2- AG | G4 z2 C2 | A2 A2 c2 c2 | %6
+ c/ z/ A Bd G2- G2 | A2 AA A2- AA | A6 A2 | G3 G d2- dd | c6 A2 | G3 G c2- cc | F4 z4 | z7 G | %14
+ G3 G _AA cA | G6 z2 | B2 c_e cB GF | _E4 z3 B | B>B BB _e2- e=B | _B6 B2 | _d3 B _G2 _A2 | B6 z2 | %22
+ z8 | z8 | z8 | z6 C2 | A2 A2 c2 c2 | c/ z/ A Bd G2- Gc | f3 F A2- AG | G4 z2 C2 | A2 A2 c2 c2 | %31
+ c/ z/ A Bd G2- GG | A3 A A2 A2 | A6 A2 | G3 G d2- dd | c6 A2 | G3 G c2- cc | F4 z2 c2 | c4 z2 c2 | %39
+ f6- f2- | f6- f2- | f4 x4 |] %42
+V:5
+ x2 x6 | z8 | B z7 | z8 | z8 | z8 | B z7 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %18
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | B z7 | z8 | z8 | z8 | B z7 | z8 | z8 | z8 | z8 | z8 | %37
+ z8 | z8 | z8 | z8 | z4 x4 |] %42
+V:6
+ x2 | [A,FA]4 [CFc]2- [CFc]2 | [DB]4 [EG]2- [EG]2 | [CFc]4 A2- =B,2 | G d2 c2 d- [E_B]2 | %5
+ [FA]4 [CFc]2- z2 | [CFc]2 [DB]4 [EG]2- | [EG]2 [_DA] z3 [=DFA] z | z2 [_DEA] z4 z | %9
+ z2 [=DFG]4 [EGd]2- | [EGd]2 [Fc]c' af cA | FC [DFG]4 E2- | E2 F2 FC =B,A | G c2 c AF E2 | %14
+ D2 (3[EG]C[EG] (3[EG]C[EG] (3[_E_A]C[EA] | (3[_E_A]C[EA] (3[=EG]C[EG] g2 c'2 | %16
+ (3[EG]C[EG] (3[_EB]B,[EB] (3[EB]B,[EB] (3[EB]B,[EB] | (3[_EB]B,[EB] (3[EB]B,[EB] b2 _e'2 | %18
+ (3[_EB]B,[EB] (3[_GB]E[GB] (3[GB]E[GB] (3[G=B]E[GB] | (3[_G=B]_E[GB] (3[G_B]E[GB] _b2 _e'2 | %20
+ (3[_GB]_E[GB] (3[G_d]_D[Gd] (3[Gd]D[Gd] (3[Gd]E[Gd] | (3[_A_d]F[Ad] [_GBd]6 | %22
+ G/B z/ [=dB]3 B =G2 | B2 [=dB]3 B G2 | B2 [dB]2 B2 [DG] z | [CF] z [B,E] z [B,D] z [B,C]2- | %26
+ [B,C]2 [FA]4 [Fc]2- | [Fc]2 [DB]4 [EG]2- | CC [CFc]4 A2- | =B,2 G d2 c2 d- | %30
+ [E_B]2 [FA]4 [CFc]2- | z2 [CFc]2 B4 | [=EG]2- [EG] z [_DA] z3 | [=B,FA] z3 [_DEA] z3 | %34
+ z4 [=DFG]4 | [EGd]2- [EGd]2 [Fc]c' af | cA FC [DFG]4 | [Ec]2- [Ec]2 [A,F]2 A,2- | %38
+ A,2- ED [A,C]2 A,2 | B,2- ED [A,C][B,D] [A,C][B,D] | [A,C]B, A,B, A,3 z | %41
+ [A,F] z [A,F] z [A,F]4 |] %42
+V:7
+ x2 | z8 | z8 | z4 F2- AG | E2 E2 F2 dc- | c4 z4 | z8 | z8 | z8 | z8 | z8 | z6 c2- | c3 A z4 | %13
+ C6 [=B,G]2- | [=B,G]2 z6 | z4 (3[EG]C[EG] (3[EG]C[EG] | z8 | z4 (3[_EB]B,[EB] (3[EB]B,[EB] | z8 | %19
+ z4 (3[_GB]_E[GB] (3[GB]E[GB] | z8 | z15/2 _G/- | (3:2:2z2 _d E4 E2- | E2 E4 E2- | E2 E4 z2 | z8 | %26
+ z3 C2 C2 C- | C C2 C2 C2 C- | [EG]2 z4 F2- | AG E2 E2 F2 | d c4- c z2 | z4 D2 _E2 | z8 | z8 | z8 | %35
+ z8 | z8 | z7 A- | AG A,2 z3 A- | AG B,2 z4 | z8 | z8 |] %42
+V:8
+ x | z4 | z4 | z2 C F | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z F3/2 z3/2 | z4 | z4 | z4 | %17
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z3 C | F z3 | z4 | z4 | z4 | z4 | z4 | z4 | %36
+ z4 | z4 | z4 | z4 | z4 | z4 |] %42

@@ -1,0 +1,63 @@
+X:1
+T:Sonata in A Major
+T:Poco adagio
+C:Carl Philipp Emanuel Bach
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=52
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Harpsichord" snm="Hch."
+L:1/16
+V:2 bass 
+V:3 bass 
+V:1
+"^Poco adagio" !turn!c2a^e (g<f)(=e<d) (c4 PB3) z/ b/ | b2-Pb>d' (c'<b)(a<g) (c'a^ef) z2 F>f |$ %2
+ A2-(3AGd F2-(3F^EB- B(3A/G/F/F2 z2 !turn!c2 | a2Pa2- ag/f/e/^d/c/B/ A4- (5:4:5APGFGB |$ %4
+ (13:8:13AcBdcedcBAGFE D4 PC2 z2 | (ecGA) z (A,E=G) (FACD) z[I:staff +1] (A,C,D,) | %6
+[I:staff -1] (f^d^AB) z (B,F=A) (GB^DE) z[I:staff +1] (B,^D,E,) |$ %7
+[I:staff -1] z (e'gb) (ae{/d}c{/B}A){/=g} f2-f/^d/^A/B/{/a} ^g2-(g/e/=c/^c/) |$ %8
+ c/b/a-a/f/c/^d/ !wedge!b/g/d/e/ !wedge!c'/a/d/e/ !wedge!d'/c'/d'/e'/ d'/!wedge!c'/b/^a/ c'/b/=a/!wedge!g/ Pf/e/b/=d/ | %9
+ c/e/g/a/f/d/c/B/ PB3A/B/ A2e2 (d<=c)(PB<A) |$ G4 z ([GB][Bd][A=c]) z4 z ([Ac][ce][Bd]) | %11
+ z4 z ([Bd][d=f][=ce]) ([Bd]2!turn![Ac]2) [GB]2 z2 |$ %12
+ (e'/c'/g/a/) (e/a/)(c/e/) (A/c/)(E/A/) (C/E/)(A,/=G/) (!wedge!F/D/G,/A,/) (F/D/)(A/F/) (d/A/)(f/d/) a3/2 [Ac]/ | %13
+ ([Ac]3[ce]/[Bd]/) ([Ac]2!turn![GB]2) A4 z4 |$ !turn!c2(a^e) (g<f)(=e<d) (c4 PB2) z3/2 b/ | %15
+ !turn!b2-b>d' (c'<b)(a<g) (c'a^ef) z2 (PF>f) |$ %16
+ A2-A/^^F/G/e/ ^F2-F^E/B/- BA/4G/4F/4G/4F2 z2 !turn!c2 | %17
+ a4- ab/c'/e'/d'/c'/b/ (a2(3=gfg) f2!turn![F=G]2 |$ f4- f^a c'/b/=a/=g/ (f2(3ede) d2 (f/d/^A/B/) |$ %19
+ z/[I:staff +1] (A,/G,/F,/) (G,/B,/)(E,/[I:staff -1]D/) (^B,C) (e/c/G/A/) z/[I:staff +1] (G,/F,/^E,/) (F,/A,/)(D,/C/) (^A,B,)[I:staff -1] (d/B/=G/^G/) |$ %20
+ z/[I:staff +1] (F,/^E,/^D,/)(E,/G,/)(C,/B,/) (B,/A,/)[I:staff -1](F/C/)(E/D/[I:staff +1]B,/G,/) (F,2PE,2)[I:staff -1] z4 | %21
+ (c'a^ef) z (Fc=e) (df^AB) z (F^A,B,) |$ (^d'^b^^fg) z (G^d^f) (^eg^Bc) z (G^B,C) | %23
+ z (c'^eg) (fcAF) =e^d- d/(B/=G/^G/) f^e- e/(c/G/A/) |$ %24
+ gf- f/(^d/^A/^B/) (a/g/B/c/) (b/a/B/c/) (b/^a/c'/b/d'/c'/e'/d'/) (c'/b/=a/g/f/^e/g/=B/) |$ %25
+ (A/c/^e/f/=e/d/c/B/) (A2PG2) F2c2 (B<A)(G<F) | ^E4 z ([EG][GB][FA]) z4 z ([FA][Ac][GB]) |$ %27
+ z4 z ([GB][Bd][Ac]) ([GB]2[FA]2) [^EG]2 z2 | %28
+ (c'/a/^e/f/) (c/f/)(A/c/) (F/A/)(C/F/)[I:staff +1] (A,/C/)(F,/E/) (D/B,/^E,/F,/)[I:staff -1] (D/B,/)(F/D/) (B/F/)(d/B/) (f/d/)(b/f/) |$ %29
+ d'3c'/4b/4a/4g/4 f2!turn!g2 f(A^EF) z/ (a/^e/f/) z2 | %30
+ z (c/A/^EF) z/ (c'/4a/4^e/f/) z2 z3/2 [fa^d']<[fad'][A^df]/ [Adf]>[^DFA][DFA]>[A,DF] |$ %31
+ [A,CF]4 PG3F/G/ F4 z4 |] %32
+V:2
+"m" [F,A,]2 z2"m" z [G,^E]"m"[G,E][G,E] |"" z [^E,G,][E,G,][E,C]"m" A,,2 A,[A,C] |$ %2
+"m" [B,D]"m"[B,D]"" C""C,"m" F,,A,,/>C,/"C|PAC""C{" F,2 | %3
+"" z [F,A,^D][F,A,D][F,A,]"" z E,,""E,E, |$"" F,F,"" G,G,"" z A,,/>G,,/"" A,,/>C,/B,,/>D,/ | %5
+"" C,2"" C,C,"" D,2 D,,2 |"" ^D,2"" D,D,"" E,2 E,,2 |$"" [D,,D,]2"" [C,,C,]2"m" z D,"m" z E, |$ %8
+"m" z"m" F,""G,""A,"m" B,2"" G,2 |"" A,"m"D,"" E,E,,"""C{" A,,2"m" z2 |$ %10
+"" (B,/4G,/4^D,/4E,/4) (B,,/4E,/4)(G,,/4B,,/4) E,,2"m" (=C/4A,/4D,/4E,/4) (=C,/4E,/4)(A,,/4C,/4) E,,2 | %11
+"" (D/4B,/4^D,/4E,/4) (B,,/4E,/4)(G,,/4B,,/4) E,,2- E,,"m"^D,,"" E,,/E,/4F,/4E,/=D,/ |$ %12
+"""" C,4"" D,4 |"m" z ^D,,""E,,""E,,"" A,,A,/>B,/ C/>B,/A,/>G,/ |$ %14
+"m" [F,A,]2 z2"m" z [G,^E]"m"[G,E][G,E] |"" z [^E,G,][E,G,][E,C]"m" A,,2 A,[A,C] |$ %16
+"m" [B,D]"m"[B,D]"" C""C,"m" F,,A,,/>C,/"C|PAC" F,"C{" z | z x x"" D-"m" D"m"C""D z |$ %18
+ z x x"m""m" B,2"m" ^A,"m"B,"C{" z |$"" E,,E,,"" A,, z"" D,,D,,"m" G,, z |$ %20
+"" C,,C,,"m" F,,"m"B,,,"" z"" (G,,/4^E,,/4^B,,,/4C,,/4)"" (G,,/4E,,/4)(C,,/4B,,/4) (G,,/4=D,/4C,/4B,,/4) | %21
+"m" A,,2"" ^A,A,"m" B,2 B,,2 |$"" ^B,,2"" ^B,B,"" C2 C,2 | %23
+"" [B,,B,]2"m" [A,,A,]2"m" z B,,"" z C, |$"m" z ^D,""^E,"m"F,"m" G,2"" E,""C, |$ %25
+"m" F,"m"B,,"" C,""C,,"m""C{" F,,2 z2 | %26
+"" (G,/4^E,/4^B,,/4C,/4)(G,,/4C,/4)(^E,,/4G,,/4) C,,2"m" (A,/4F,/4B,,/4C,/4)(A,,/4C,/4)(F,,/4A,,/4) C,,2 |$ %27
+"" (B,/4G,/4^B,,/4C,/4)(G,,/4C,/4)(^E,,/4G,,/4) C,,2- C,,"m"^B,,,"" C,,/C,/4D,/4C,/=B,,/ | %28
+"m" A,,4"m" B,,4 |$ z B,,""C,""C,"" D,2 D,, (D,/4A,/4^E,/4F,/4) | %30
+"" C,2 C,, (C,/4C/8A,/8^E,/4F,/4)"m" ^B,,2- B,,/>B,,/B,,/>B,,/ |$"" C,2"" C,,2"m" F,,2 z2 |] %32
+V:3
+ x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 |$ x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | %17
+ x F,F,F, E,2 D, z |$ x D,D,D, C,2 B,, z |$ x8 |$ x8 | x8 |$ x8 | x8 |$ x8 |$ x8 | x8 |$ x8 | x8 |$ %29
+ x8 | x8 |$ x8 |] %32

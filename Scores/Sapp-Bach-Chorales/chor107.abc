@@ -1,0 +1,37 @@
+X:1
+T:Herzlich lieb hab ich dich, o Herr
+T:Herzlich lieb hab ich dich, o Herr
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ e | d c B A/G/ | c c !fermata!B e | d c B A/G/ | c c !fermata!B B | c d e/f/ g | f e2 =d | %7
+ !fermata!e3 x :: e x3 | e f e/d/ c/d/ | e e !fermata!d d | e f e/d/ c/d/ | e/g/ f !fermata!d g | %13
+ g g f e | e d !fermata!e d | e d c B | B =A !fermata!B g | f e !fermata!d g | a/g/ f g e | %19
+ e d !fermata!e e | e e f e | e3 d | !fermata!e3 x || %23
+V:2
+ B | B G G F/E/ | E A !fermata!G G | G/F/ E/F/ G/F/ E/D/ | E/F/ F !fermata!G G | A/c/ B/A/ G/F/ E | %6
+ F2 G A | !fermata!G3 x :: G x3 | A A G3/2 G/ | F/G/ =A !fermata!B B | B _A G A | %12
+ B c !fermata!B B | B c c A | G F !fermata!G A | G F/B/ G G | G F !fermata!F E | %17
+ F/ G/4A/4 G/=A/ !fermata!=B c | c =B/c/ G G | _G/F/ F !fermata!=G G | A A A G | F2 F2 | %22
+ !fermata!G3 x || %23
+V:3
+ g | f e d _d | c/B/c/=d/ !fermata!e G/A/ | B c/d/ e A/B/ | c/e/ d/c/ !fermata!d e | %5
+ e/a/ g/f/ e/B/ _d | c2 B2 | !fermata!B3 x :: B x3 | c c c/d/ e/d/ | c f !fermata!f f | B B B f | %12
+ e/d/ c !fermata!f e | e e f f | B B !fermata!B f | B/c/ d e d | e/d/ c !fermata!d B/c/ | %17
+ d e/c/ !fermata!g c | f/e/ d/c/ d c | c B !fermata!B _d | c/=d/ e B B | c2 B2 | !fermata!B3 x || %23
+V:4
+ E, | B, C G, B, | A, A,, !fermata!E, C, | G, A, E,/D,/C,/B,,/ | A,, A, !fermata!G, E, | %5
+ A, B, C/D,/ E, | A,, =A,, B,,2 | !fermata!E,3 x :: E, x3 | A,/G,/ F, C, C/B,/ | %10
+ =A,/G,/ F, !fermata!B, B,/_A,/ | G,/F,/E,/D,/ E, F, | G, =A, !fermata!B, E, | %13
+ E/D/C/B,/ _A,/B,/C/A,/ | B, B,, !fermata!E, F, | G,/=A,/ B,/G,/ E,/F,/ G,/E,/ | %16
+ C, F, !fermata!B,, E, | B,/=B,/ C !fermata!G, =E, | F,/G,/ A, =B,, C, | =A, _B, !fermata!E, E, | %20
+ _A,/B,/ C D, E, | =A,,2 B,,2 | !fermata!E,,3 x || %23

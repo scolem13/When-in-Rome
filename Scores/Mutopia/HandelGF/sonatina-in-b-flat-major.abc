@@ -1,0 +1,28 @@
+% Sonatina in B-flat Major: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=98
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonatina in B-flat Major
+C:G. F. Handel
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="treble"
+V:2 treble 
+V:3 bass nm="bass" snm="B"
+V:1
+ z3 f dc dB | c2 z f BA Bc | A2 z f ge ce | fd Bd ec Ac | df cf Bf Af | Gf Ff G/A/B FA | %6
+ B2 z d ec Ff | dB z f bg c[c'=E] | a2 Ac' dc' =ec' | fb ag a>b g>f | f2 z F Bc dB | G2 z G cd ec | %12
+ A2 z A de fd | B2 z B eg/f/ e/d/c/B/ | A2 z f ge ca | bB Be dc/B/ A>B | B2 z A GB FB | %17
+ EA Be d2 c>B | [BDF]8 |] %19
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | FG z6 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %19
+V:3
+ B,,B, A,F, B,2 z G, | A,G, A,F, G,2 z C, | F,E, F,D, E,2 z C | D,2 z B, C,2 z A, | %4
+ B,2 A,2 G,2 F,2 | E,2 D,2 E,2 F,2 | B,C DB, C2 A,2 | B,D FA, G,2 z2 | z3 A, B,2 C2 | %9
+ D2 z B, CB, CC, | F,G, A,F, D,2 z D, | E,F, G,E, C,2 z E, | F,G, A,F, D,2 z F, | %13
+ G,A, B,G, C2 z E, | F,E, F,D, E,2 z F, | G,2 z A, B,E, F,F,, | B,,C, D,B,, E,2 D,2 | %17
+ C,2 B,,G, F,E, F,F,, | B,,8 |] %19

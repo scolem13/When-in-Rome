@@ -1,0 +1,53 @@
+X:1
+T:Myrthen, Op.25
+T:Im Westen
+C:Robert Schumann
+Z:Wilhelm Gerhard (after Robert Burns)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=110
+M:6/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+"^Einfach"!p! c2 | c3 A F2 B4 B2 | B3 G E2 A4 A2 | A3 A =B2 c4 A2 |!<(! A4 =B2 c4!<)!!<(! c2 | %5
+w: Ich|schau’ ü- ber Forth, hin-|ü- ber nach Nord: was|hel- fen mir Nord und|Hoch- lands Schnee? Was|
+ c3 c d2!<)! e4!<(! c3/2 c/ | c4 d2 e4!<)! e2 | (e3 c) A2!<(! A2 =B2"^ritard." d2!<)! | %8
+w: Os- ten und Süd, wo die|Son- ne glüht, das|fer- * ne Laud und die|
+ c4 ^G2{/A} !fermata!A4"^lebhafter" _B2 || (_B3 c) d2 G4 B B | (B3 c) d2 G6 | A2 A2 B2 c2 F2 G2 | %12
+w: wil- de See? Aus|We- * sten winkt, wo die|Son- * ne sinkt,|was mich im Schlum- mer und|
+"^ritard." A2 F2 A2 G4 B2 | (_B3 c) d2 G4 B B | (B3 c) d2 G6 | A3"^ritard." A c2 f2 A2 B2 | %16
+w: Trau- me be- glückt. Im|We- * sten wohnt, der mir|Lie- * be lohnt,|mich und mein Kind- lein an’s|
+ G4- !fermata!G F F6 |] %17
+w: Herz * ged- rückt.|
+V:2
+!p! [Ac]2 | ([Ac]3 [FA] [A,F]2) [DB]4 [DB]2 | ([DFB]3 [B,G] [G,E]2) [CA]4 [FA]2 | %3
+ [FA]3 [FA] [FG=B]2 [EGc]4 [FA]2 | [FA]3 [FA] [FG=B]2 [EGc]4!<(! [EAc]2 | %5
+ [EAc]3 [Ac] [A=Bd]2!<)! [^GBe]4 [EAc]>[EAc] |!<(! [EAc]3 [Ac] [A=Bd]2 [^GBe]4!<)!!f! [Ace]2 | %7
+ ([Ace]3 [EAc] [CEA]2)!<(! [CEA]2 [DF=B]2"^ritard." [FBd]2!<)! | %8
+ [EAc]4 [=B,E^G]2{/A} !fermata![CEA]4"^lebhafter" _B2- || (BDGBdg bgcBGC) | z (DGBdg bgcBGC) | %11
+ z (CACBC cCFCGC |"^ritard." ACFCA=B, GCEG_BD) | z (DGBdg bgcBGC) | z (DGBdg bgcBGC) | %15
+ z (CA"^ritard."C!<(! c2{/F} fFAF!<)! [D^FB]A) | ([EG]4- !fermata![EG]=F) [CF]6 |] %17
+V:3
+ z2 | [F,,F,]6- [F,,F,]6 | [F,,F,]6- [F,,F,]4 [F,,F,]2 | %3
+ ([F,,F,]3 [E,,E,] [D,,D,]2) [C,,C,]4 [F,,F,]2 | ([F,,F,]3 [E,,E,] [D,,D,]2) [C,,C,]4 [A,,A,]2 | %5
+ ([A,,A,]3 [G,,G,] [F,,F,]2) [E,,E,]4 [A,,A,]>[A,,A,] | %6
+ ([A,,A,]3 [G,,G,] [F,,F,]2) [E,,E,]4 [C,E,A,]2 | [C,E,A,]6- [C,E,A,]2 [D,F,=B,]2 [F,B,D]2 | %8
+ [E,A,C]4 [E,,=B,,E,]2{/A,} [A,,E,A,]4 (_B,2- || B,3 C D2)!ped! G6!ped-up! | %10
+ (B,3 C D2)!ped! G6!ped-up! |!<(! ([F,A,]3 [F,A,] [G,B,]2 [A,C]2 [A,,F,]2!<)! [C,G,]2 | %12
+ [F,A,]2 [A,,F,]2 [F,A,]2 [C,G,]4) B,2 | (B,3 C D2)!ped! G6!ped-up! | (B,3 C D2)!ped! G6!ped-up! | %15
+ ([F,A,]3 [F,A,] [G,B,]2) [A,C]2 [D,A,D]2 ^F,G, | !fermata![C,B,]6 [F,A,]6 |] %17
+V:4
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 || G,3 !arpeggio![E,B,C]3 | G,3 !arpeggio![E,B,C]3 | %11
+ F,2 F, F, x x | x3 x2 G, | G,3 !arpeggio![E,B,C]3 | G,3 !arpeggio![E,B,C]3 | x3 x2 B,, | x6 |] %17
+V:5
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 || x6 | x6 | x F F F F E | F F F E x x | x6 | x6 | %15
+ x F E/D/ x2 x | x6 |] %17

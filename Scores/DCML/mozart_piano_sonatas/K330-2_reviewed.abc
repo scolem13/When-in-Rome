@@ -1,0 +1,84 @@
+X:1
+T:Piano Sonata no. 10 in C major
+T:Andante cantabile
+C:Wolfgang Amadeus Mozart
+%%score { ( 1 3 5 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=48
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano, Piano right" snm="Pno."
+V:3 treble 
+V:5 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ (.c .c.c) | c3/2({d/c/)=B/c/}f/ .c(AcE) | (G2 F)(F!f! [EG][FA]) | (B3/2c/4)d/4!p! .cF EF | %4
+ ([FA]2 [EG])!f!(.G.G.G) |$({G/} (g3/2)d/4=B/4) G(.G.G.G) | %6
+({G/} g2-) g3/4(a/8=b/8!p! c'/).b/ .a/.g/.f/.e/ | (^c/d/f/a/) (=c3 e/)d/ | c2 z :: %9
+ c({d/} c)({B/}A) |$ (G2 ^F)"_cresc."(F G).[FA] | (([^FA]2 [GB]))!p!"_cresc."(E=F[EG] | %12
+ ABc^c)({e/} d)!p!({=c/}B) | (([FA]2 [EG]))!f!(.c .c.c) |$!f! b3 a gf | f2 e"^dolce"(._e.e.e) | %16
+ T_e>f g(f/e/) (e/d/)(d/^c/) | (^c2 d)(f/=e/ g/f/e/d/) |$!p! d2 c"_cresc."(f/>c/) (a/>f/)(c/>A/) | %19
+!f! (c>=B) _B(G AB) | c/!p!.d/.e/.f/ F3 E | F2 z ::[K:Ab]!pp! (.[CA] .[CA].[CA]) |$ %23
+ [CA]3 ([B,G] [DB][G,=E]) | [A,F]3 (.[Ac] .[Ac].[Ac]) | (c3 d cB) |({c/} (B)A) z (ABc) |$ %27
+ (ed)"_cresc." z({c/} d)({c/} d)({c/}d) |!f! d3/2({e/d/)c/d/}e/ f3!p! (e/d/) | %29
+ (c/e/d/B/) A3 (c/B/) | A2 z :: (E Ac) |$ (e3 d/c/ B).A | (c2 B)!f!(CFA) | (c3 B/A/ G)!p!.F | %35
+ ([FA]2 [=EG])"_cresc." (cfa) | (gf) z (cfa) |$ (gf) z!f! (.[=Acef].[Acef].[Acef]) | %38
+ ([df]/[Bd]/)([Bd]/[GB]/) [FA]2!p!({A/} G)F/G/ | F2 z :|!pp! (.[CA].[CA] .[CA]) | %41
+ [CA]3 ([B,G] [DB][G,=E] |$ [A,F]3) (.[Ac].[Ac].[Ac]) | [Ac]3 ([GB] [Bd][C=E]) | [A,CF]2 z || %45
+[K:F] (.c .c.c) | c3/2({d/c/=B/c/)}f/ .c(AcE) |$ (G2 F)!f!(F[EG][FA]) | (B3/2c/4d/4)!p! .cF =B,2 | %49
+ ([FA]2 [EG])!f!(.G.G.G) |({G/} (g3/2)d/4=B/4) G(.G.G.G) |$ %51
+({G/} g2-) g3/4(a/8=b/8!p!c'/).b/ .a/.g/.f/.e/ | (^c/d/f/a/) (=c3 e/.d/) | c2 z c({d/} c)({B/}A) | %54
+ (G2 ^F)"_cresc."(FG).[FA] |$ (A2 B)!p! (E"_cresc."=FG | AB c^c)({e/} d)!p!({=c/}B) | %57
+ (A2 G)!f!(.c.c.c) |!f! b3 agf | f2 e"^dolce" (._e.e.e) |$ T_e>f g(f/e/) (e/d/)(d/^c/) | %61
+ (^c2 d)(f/=e/ g/f/e/d/) |!p! (d2 =c)"_cresc."(f/>c/) (a/>f/)(c/>A/) |!f! (c>=B _B) (G AB) |$ %64
+ c/!p!.d/.e/.f/ (F3 A/G/) | F2 z!pp! (.[CA].[CA].[CA]) | [CA]3 ([A,F] [GB][EG]) | %67
+ [Ac]3 (.[Af] .[Af].[Af]) |$ [FA]3 ([Ac][GB][B,EG]) | [A,F]2 z |] %70
+V:2
+"""^dolce" z2 z |""!p! [F,A,C]4"" [C,G,B,]2 |"m" (B,2"m" A,)""([A,,A,]"" [G,,G,]""[F,,F,]) | %3
+"" ([D,D]""[B,,B,])"" .[A,,A,] z"m"!p! D,2 |"""""C{" C,4 [CE]2 |$"" [=B,DF]4"" [CE]2 | %6
+"" ([D,F,=B,]2"" [E,G,C]2) z2 |"m" z!p! [A,D]"" ([CE]2"" [DF]2) |"" [CE]2 C, ::"" z z2 |$ %10
+"m""m" _E3 ((E"m" D))""D |"m" (C2"m" B,)"m"(_D""C)""C |"" [A,C]"" x"" (A,,2"" B,,)"m".G,, | %13
+"""""C{" C,4 z2 |$""!f! .[C,,C,]>.[D,,D,]"" .[E,,E,]"".[F,,F,]"" .[G,,G,]"".[A,,A,] | %15
+"""""" [B,,B,]4 z2 | [A,CF]2 [A,CF]2 [A,_EF]2 |"""" [B,DF]4 z2 |$"" ([B,D]2"" [A,C]2) z2 | %19
+""""!f! [E,G,C]3"" [B,,B,]"" [A,,A,]""[G,,G,] |"" [F,,F,] z""!p! (A,2"" B,2) |"" A,2 F,, :: %22
+[K:Ab]"m" z z2 |$!pp! F,,/F,/F,/F,/ F,/F,/"m"F,/F,/ F,/F,/"m"F,/F,/ | %24
+"m" F,,/F,/F,/F,/ F,/F,/F,/F,/ F,/F,/F,/F,/ |"" =E,,/=E,/E,/E,/ E,/E,/E,/E,/ E,/E,/"m"E,/E,/ | %26
+"m" F,,/F,/"m"F,/F,/ F,2 z2 |$"" z"" [F,A,D] [F,A,D][F,A,D] [F,A,D][F,A,D] |"" [G,B,DE]4 z2 | %29
+""!p! z"m" B,"" (C2"""" D2) |"" C2 A,, ::"C{" z z2 |$ z (A,CE""F,=D) |"" z2"" z"m" (B,"m" A,2) | %34
+"" z!f! (D, F,""A,"m" B,""!p!=B,) |"""" [C,C]3"C{" z"m" z"_cresc." (A,, | %36
+"m" B,,"m"B,)"m" (=B,""C)"m" z (C, |$"" D,""D"" _E) .[C,C].[=A,,=A,].[F,,F,] | %38
+"m""m" [B,,B,]2"" [C,C]2"" [C,B,]2 |"m" F,2 F,, :|"C{" z z2 | %41
+!pp! F,,/F,/F,/F,/ F,/F,/"m"F,/F,/ F,/F,/"m"F,/F,/ |$"m" F,,/F,/F,/F,/ F,/F,/F,/F,/ F,/F,/F,/F,/ | %43
+"m" F,,/F,/F,/F,/ F,/F,/"m"F,/F,/"m" F,/F,/""F,/F,/ |"m" F,2 z ||[K:F]"""^dolce" z2 z | %46
+""!p! [F,A,C]4"" [C,G,B,]2 |$"m" (B,2"m" A,)""([A,,A,]""[G,,G,]""[F,,F,]) | %48
+"" (.[D,D]""[B,,B,])"" .[A,,A,] z"m" D,2 |"""""C{" C,4 [CE]2 |"" [=B,DF]4"" [CE]2 |$ %51
+"" ([D,F,=B,]2"" [E,G,C]2) z2 |"m" z [A,D]"" ([CE]2"""" [DF]2) |"" [CE]2 C,"" z z2 | %54
+"m""m" _E3 (E"m"D)""D |$"m" (C2"m" B,)"m" (_D""C)""C |"" [A,C]"" x"" (A,,2"" B,,)"m".G,, | %57
+"""""C{" C,4 z2 |""!f! .[C,,C,]>.[D,,D,]"" .[E,,E,]"".[F,,F,]"" .[G,,G,]"".[A,,A,] | %59
+"""""" [B,,B,]4 z2 |$!p! [A,CF]2 [A,CF]2 [A,_EF]2 |"""" [B,DF]4 z2 |"" ([B,D]2"" [A,C]2) z2 | %63
+""""!f! [E,G,C]3"" [B,,B,]""[A,,A,]""[G,,G,] |$"" [F,,F,] z""!p! (A,2"""" B,2) | %65
+"" A,2 F,,"C{" z z2 |!pp! F,,/F,/F,/F,/ F,/F,/F,/F,/"m" F,/F,/F,/F,/ | %67
+"" F,,/F,/F,/F,/"m" D,,/D,/D,/D,/"m" =B,,,/=B,,/B,,/B,,/ |$ %68
+"" C,,/C,/C,/C,/ C,/C,/C,/C,/"" C,/C,/C,/C,/ |"" F,,2 z |] %70
+V:3
+ x3 | x6 | x3 C2 C | F3 x =B,2 | C4 x2 |$ x6 | x6 | x5 =B | x3 :: x3 |$ x6 | x6 | F4 FG | x6 |$ %14
+ c6- | c4 x2 | x6 | x6 |$ x6 | x3 E/>C/ F/>C/G/>C/ | A z C3 A/G/ | x3 ::[K:Ab] x3 |$ x6 | x6 | G6 | %26
+ (GF) x4 |$ x6 | x6 | x5 G | x3 :: x3 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x4 =E2 | x3 :| x3 | x6 |$ %42
+ x6 | =E4- EB, | x3 ||[K:F] x3 | x6 |$ x3 C2 C | F3 z EF | C4 x2 | x6 |$ x6 | x5 =B | x6 | x6 |$ %55
+ (^F2 G) x2 E | F4- FG | (F2 E) x3 | c6- | [Gc]4 x2 |$ x6 | x6 | x6 | x3 E/>C/ F/>C/G/>C/ |$ %64
+ A z C3 E | x6 | x6 | x6 |$ x6 | x3 |] %70
+V:4
+ x3 | x6 | D,4 x2 | x6 | x6 |$ x6 | x6 | x F, G,4 | x3 :: x3 |$ C3 (C B,[A,C]) | %11
+ [G,D]3 (B,A,[G,B,]) | F,D, x4 | x6 |$ x6 | x6 | x6 | x6 |$ F,4 x2 | x6 | x2 C,4 | F,2 x :: %22
+[K:Ab] x3 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | A,D, E,4 | A,2 x :: x3 |$ x6 | z (E,G,=E,) F,2 | %34
+ x D,- D,4 | x6 | x6 |$ x6 | x6 | x3 :| x3 | x6 |$ x6 | x6 | x3 ||[K:F] x3 | x6 |$ D,3 x3 | x6 | %49
+ x6 | x6 |$ x6 | x F, G,4 | x6 | C3 (C B,[A,C]) |$ [G,D]3 (B, A,[G,B,]) | (F,D,) x4 | x6 | x6 | %59
+ x6 |$ x6 | x6 | F,4 x2 | x6 |$ x2 C,4 | F,2 x4 | x6 | x6 |$ x6 | x3 |] %70
+V:5
+ x3 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x3 :: x3 |$ x6 | x6 | x6 | x6 |$ x5 A | G4 x2 | x6 | %17
+ x6 |$ x6 | x6 | x6 | x3 ::[K:Ab] x3 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x3 :: x3 |$ x6 | x6 | %34
+ x6 | x6 | x6 |$ x6 | x6 | x3 :| x3 | x6 |$ x6 | x6 | x3 ||[K:F] x3 | x6 |$ x6 | x6 | x6 | x6 |$ %51
+ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x5 A | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | %69
+ x3 |] %70

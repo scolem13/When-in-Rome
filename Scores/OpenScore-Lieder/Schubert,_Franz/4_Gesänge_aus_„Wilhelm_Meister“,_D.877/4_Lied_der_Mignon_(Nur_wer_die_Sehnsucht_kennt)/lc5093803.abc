@@ -1,0 +1,75 @@
+X:1
+T:Vier Gesänge aus 'Wilhelm Meister' (D.877), Op.62
+T:Lied der Mignon (Nur wer die Sehnsucht kennt)
+C:Franz Schubert
+Z:Johann Wolfgang von Goethe
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 6 ) | ( 3 4 ) }
+L:1/8
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Mignon"
+V:2 treble nm="Pianoforte"
+L:1/16
+V:5 treble 
+V:6 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+V:1
+"^Langsam" z6 | z6 | z6 | z6 | z6 | z6 | A3 B2 B | c2 c/B/ A3 | B3 c>B c | (e2 d) B2 z | %10
+w: ||||||Nur wer die|Sehn- sucht * kennt,|weiss, was * ich|lei- * de,|
+!<(! c3 d2 d!<)! |!>(! e2- e/ f/!>)! (e2 d) | c3 PBA B | d3 c2 z | z2 z z2 G | c2 c _e2 e | %16
+w: nur wer die|Sehn- * sucht kennt, *|weiss, was * ich|lei- de!|Al-|lein und ab- ge-|
+ d2 d d_e c | c3 _B2 B | A2 A!<(! ^c2 c!<)! |!>(! d2 d!>)! f>e d/=c/ | (B3{dc)} B2 z | z6 | %22
+w: trennt von al- * er|Freu- de, seh'|ich an’s Fir- ma-|ment nach je- * ner *|Sei- te.||
+"^sehr leise" B2 z c2 B | e2 c A2 z |"^dim." (f2 e) B>c B | (e2 c) A2 z | z2 z z2 ^c | %27
+w: Ach, der mich|liebt und kennt|ist _ in _ der|Wei- * te.|Es|
+ ^c3/4 d/4 d z z2 f | f3/2 f/ f3/4 f/4 f c z/ c/ | c3/4 =B/4 B z z2 B | B2 B c2- c/ A/ | %31
+w: schwin- delt mir, es|brennt mein Ein- ge- wei- de, es|schwin- delt mir, es|brennt mein Ein- * ge-|
+{A/} ^G G z z2 z | z2 z z2 !fermata!z | A3 B2 B | c2 c/B/ A3 | B3 c>B c | (e2 d) B3 | c3!<(! d2 d | %38
+w: wei- de.||Nur wer die|Sehn- sucht * kennt,|weiss, was * ich|lei- * de,|nur wer die|
+ e2 e!<)!!>(! f3!>)! |!pp! A ^G A c2- c/B/ | A2 z z2 z | z6 | z6 | z6 | z6 | !fermata!z6 |] %46
+w: Sehn- sucht kennt,|weiss, was ich lei- * *|de!||||||
+V:2
+!pp! [Aa]4"^ligato" [Aa]2 [Bb]4 [Bb]2 | [cc']4 [cc'][Bb] [Aa]6 |!>(! [_B_b]4!>)! [Bb][Aa] [Gg]6 | %3
+"_cresc." [Ff]2>[Ee]2[Dd][Cc] [B,B]4 [Ee]2 |!pp! [Ece]6- [Ece]4 [EAc]2 | [CEA]12 | %6
+ (C2E2A2 D2E2B2) | (^D2E2c2 C2E2A2) | =D2E2^G2 C2E2A2 | B,2E2^G2 D2E2G2 | C2E2A2!<(! D2A2d2!<)! | %11
+!>(! ^G2B2!>)!e2 A2D2d2 | E2=G2c2 F2G2d2 | F2G2-B2 c2G2E2 | G6- G4 z2 | %15
+!pp! z2 !>![Gc]4 z2 !>![Gc_e]4 | z2 [^FAd]4 z2 [_EAc]4 | z2 [DAc]4 z2 [DG_B]4 | %18
+ z2!<(! [^CEA]4 z2 [EA^c]4!<)! |!>(! z2 [FAd]4 z2!>)! [FBd]4 | z2 [E-^GB-]4 [EGB]6 | %21
+ z2!ppp! [E^GB]4 z2 [EGB]4 | z2 [E^GB]4 z2 [EGB]4 | z2 [EAc]4 z2 [EAc]4 | %24
+ z2"_dim." [E^GB]4 z2 [EGB]4 | z2 [EAc]4 z2 [EAc]4 | %26
+ (6:4:6z [EG^c][EGc][EGc][EGc][EGc] (3z [EGc][EGc] (6:4:6z [EGc][EGc][EGc][EGc][EGc] (3z [EGc][EGc] | %27
+ (6:4:6z [F^Gd]"_cresc."[FGd][FGd][FGd][FGd] (3z [FGd][FGd] (6:4:6z [FGd][FGd][FGd][FGd][FGd] (3z [FGd][FGd] | %28
+!f! (6:4:6z [F_Ad][FAd]!<(![FAd][FAd][FAd] (3z [FAd][FAd]!<)!!>(! (6:4:6z [FAc][FAc][FAc][FAc][FAc] (3z [FAc][FAc]!>)! | %29
+"_dim." (6:4:6z [F_A=B][FAB][FAB][FAB][FAB] (3z [FAB][FAB] (6:4:6z [F^GB][FGB][FGB][FGB][FGB] (3z [FGB][FGB] | %30
+!p! (6:4:6z [^FAB][FAB][FAB][FAB][FAB] (3z [FAB][FAB] (6:4:6z [FAc][FAc][FAc][FAc][FAc] (3z [CFA][CFA] | %31
+ (6:4:6z"_dim." [B,E^G][B,EG][B,EG][B,EG][B,EG] (3z [B,EG][B,EG]!>(! (6:4:6z [=FBd][FBd][FBd][FBd]!>)![FBd] (3z [FBd][FBd] | %32
+ (6:4:6z [EBc][EBc][EBc][EBc][EBc] (3z [EAc][EAc] (6:4:6z [DEAB][DEAB][DEAB][DEAB][DEAB] (3z !fermata![DE^GB][DEGB] | %33
+ (C2E2A2 D2E2B2) | (^D2E2c2 C2E2A2) | =D2E2^G2 C2E2A2 | B,2E2^G2 D2E2G2 |!<(! C2E2A2 D2A2d2 | %38
+ E2A2c2!<)!!f!!>(! F2A2B2!>)! |!p! C2E2A2 D2E2^G2 | [Aa]4 [Aa]2 [Bb]4 [Bb]2 | %41
+ [cc']4 [cc'][Bb] [Aa]6 |!>(! [_B_b]4!>)! [Bb][Aa] [Gg]6 | %43
+"_cresc." [Ff]2>[Ee]2[Dd][Cc] [B,B]4 [Ee]2 |!pp! [Ece]6- [Ece]4 [EAc]2 | !fermata![CEA]12 |] %46
+V:3
+ C,E,A, D,E,B, | ^D,E,C C,E,A, | ^C,E,_B, C,E,A, | D,F,A, D,E,^G, | A,E,C, A,,C,E, | [A,,C,E,A,]6 | %6
+!pp! [A,,E,]6 | [A,,E,]6 | E,6 | [E,,E,]6 | [A,,E,]3 F,3 | [E,B,]3 A,3 | G,6 | [C,G,]6- | %14
+ [C,G,]3- [C,G,]2 z | (_E,3 C,3) | (D,3 ^F,3) | (G,3 G,,3) | (A,,3 G,,3 | F,,3) D,,3 | E,,6 | %21
+ (.D,,3 .D,,3) | D,,3 D,,3 | C,,3 C,,3 | D,,3 D,,3 | C,,3 C,,3 | (_B,,,2 !>!_B,,) (B,,,2 !>!B,,) | %27
+ (_B,,,2 !>!_B,,) (B,,,2 !>!B,,) | (=B,,,2 !>!=B,,) (C,,2 !>!C,) | (D,,2 D,) (D,,2 D,) | %30
+ (^D,,2 ^D,) (D,,2 D,) | (E,,2 E,) (E,,2 E,) | (E,,2 E,) ((E,,2 !fermata![E,,E,])) |!pp! [A,,E,]6 | %34
+ [A,,E,]6 | E,6 | [E,,E,]6 | A,3 [F,A,]3 | [C,E,A,]3 [D,F,A,B,]3 | E,3 [E,,E,]3 | C,E,A, D,E,B, | %41
+ ^D,E,C C,E,A, | ^C,E,_B, C,E,A, | D,F,A, D,E,^G, | A,E,C, A,,C,E, | !fermata![A,,C,E,A,]6 |] %46
+V:4
+ A,,6 | A,,6 | A,,6 | A,,6 | A,,6 | x6 | x6 | x6 | E,,3 A,,3 | x6 | x3 F,2 A, | x3 F,2 ^F, | %12
+ G,3 G,,3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %30
+ x6 | x6 | x6 | x6 | x6 | E,,3 A,,3 | x6 | x6 | x6 | x6 | A,,6 | A,,6 | A,,6 | A,,6 | A,,6 | x6 |] %46
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | F3 G2 C | [DF][CE][B,D] [CE]2 x | %15
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %46
+V:6
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x/ G E x/ | x3 | x3 | x3 | x3 | %18
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %37
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %46

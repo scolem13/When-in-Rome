@@ -1,0 +1,69 @@
+X:1
+T:Variations on a Theme of Corelli
+T:Variation 16
+C:Sergei Rachmaninoff
+%%score { ( 1 3 5 ) | ( 2 4 6 ) }
+L:1/8
+Q:1/4=144
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+L:1/16
+V:3 treble 
+V:5 treble 
+V:2 treble 
+V:4 treble 
+V:6 treble 
+V:1
+"^Allegro vivace" z2 | [Ad]6 z2 !tenuto![B,F]6 z2 | [A,EA]8[K:bass] x8 |$ %3
+[K:treble] [Ad]6 z2 !tenuto![DA]6 z2 | !tenuto![CGc]8[K:bass] x8[K:treble] |$ %5
+!f! !>![A,CFA]6"^dim." [^G,^C^E^G]2 !tenuto![A,C^FA]6[K:bass]!f! .[_E,_A,=C_E]2 | %6
+ !>![F,_A,_DF]6[K:treble][K:bass]"^dim." .[=E,=A,^C=E]2 !tenuto![F,A,=DF]6[K:treble] .[B,C]2 |$ %7
+ .[B,D]2 !tenuto![A,^C^D]4 !tenuto![A,=C=E]4 .[_A,CF]2.[=A,C^F]2 (G^G | %8
+ !>![A,EA]2) (3(A,^CE x x z/ f/^g/b/ (3!>!a e=c!>!A2) z2[K:bass] .E,2 |$ %9
+ !>![E,DE]6[K:treble][K:bass] x2 !tenuto![E,E]4 .!tenuto![E,E]4 | %10
+ z2[K:treble] (3(CEG x x z/ _a/=b/_d'/ (3!>!c' ge!>!c2) z2 A,2 |$ %11
+ !>![A,GA]6 x2 !tenuto![A,A]4 !tenuto![A,A]4 | %12
+ z2 (3(F,A,C x x z/ _d/=e/_g/ (3!>!f cA!>!F2) z2 .[_A,_DF_A]2 |$ %13
+!f! !>![B,_D_GB]6 [=A,=D^F=A]2 !tenuto![B,D=GB]6!f! .[C=FAc]2 | %14
+ !>![DFBd]6"^dim." .[^C^F^A^c]2 !tenuto![DF=Bd]6!p! .[_e^f]2 |$ %15
+ .[=ce]2!<(! !tenuto![Adfa]4 !tenuto![B_e_gb]4!<)! .[c_ac']2.[^c=a^c']2.[dbd']2 |] %16
+V:2
+"m"!mf! .[DA] | z (A/F/D)[K:bass]"m" .[F,B,] z (^C/B,/F,)"" .[E,A,E] | %2
+ z (E/^C/A,)!<(! (3([A,,,E,,]/!<)!A,,/^C,/ (6:4:6!>!E,/F,/E,/!>(!C,/!>)!A,,/E,,/"C}" .A,,,)[K:treble]"m" .[DA] |$ %3
+ z (A/F/D)[K:bass]"m""m" .[A,D] z (F/D/=B,)"" .[G,CG] | %4
+ z[K:treble] (G/E/C)[K:bass] (3([C,,G,,]/C,/E,/ (6:4:6!>!G,/_A,/G,/E,/C,/G,,/"C}" .C,,)"C{" .[C,,C,] |$ %5
+"" !>![F,,C,]3[K:treble][K:bass]"" .[^C,,^C,]"m" !tenuto![^F,,C,]3"" .[_A,,,_A,,] | %6
+"" !>![_D,,_A,,]3"" .[=A,,,=A,,]"m" !tenuto![=D,,A,,]3"" .[^G,,E,] |$ %7
+"m" .[G,,D,F,]"m""^cresc." !tenuto![^F,,^C,^F,]2"" !tenuto![=F,,=C,G,]2"m" .[=E,,C,]"m".[_E,,C,]"" ([D,,F,,]/^C,,/ | %8
+""!f! !>![A,,,E,,A,,]) x"^m.g.\n"[I:staff -1] (3.F/^G/_B/^c[I:staff +1] x"C}" x z"" .[E,,,E,,] |$ %9
+""!f! !>![A,,,E,,A,,]3"" .[F,,,F,,]"" !>![B,,,F,,B,,]"".[^F,,,^F,,]"m" !>![=B,,,F,,=B,,]"".[G,,,G,,] | %10
+"" x x"^m.g.\n"[I:staff -1] (3._A/=B/_d/f[I:staff +1] x"C}" x z"" [A,,,A,,] |$ %11
+"m" !>![D,,A,,D,]3"" [B,,,B,,]"" !>![_E,,B,,_E,]""[=B,,,=B,,]"m" !>![=E,,B,,=E,]""[C,,C,] | %12
+"" x x"^m.g.\n"[I:staff -1] (3._D/=E/^G/=B[I:staff +1] x"C}" x z"" .[_D,,_D,] |$ %13
+"" !>![_G,,_D,]3[K:treble][K:bass]"""^dim." .[=D,,=D,]"m" [=G,,D,]3"" .[F,,F,] | %14
+"" !>![B,,F,]3[K:treble][K:bass]"" .[^F,,^F,]"m" !tenuto![=B,,F,]3[K:treble]"m" .[^C^FA] |$ %15
+"m" [DGB]"" !tenuto![G,=B,DF]2"" !tenuto![_A,C_E_G]2"" .[_B,D=F_A]"".[=B,^D^F=A]"m".[^C=E=GB] |] %16
+V:3
+ x | z (a/f/d) x z (^c/B/F) x | %2
+ z (e/^c/A)[K:bass] (3(E,/F,/^G,/ (6:4:6!>!A,/B,/A,/G,/F,/E,/ .^C,) x |$ %3
+[K:treble] z (a/f/d) x z (f/d/=B) x | %4
+ z (g/e/c)[K:bass]!<(! (3(G,/_A,/=B,/!<)! (6:4:6!>!C/_D/C/B,/!>(!A,/G,/ .E,)[K:treble]!>)! .[G,CEG] |$ %5
+ z (c'/a/f) x z (^c/A/^F)[K:bass] x | z[K:treble] (f/_d/_A)[K:bass] x z[K:treble] (=A/F/D) x |$ %7
+ x7 [=B,^F] | x7[K:bass] x |$ A,3[K:treble][K:bass] .F, ._B,.^F, .=B,.G, | %10
+ !>![E,CE]4[K:treble] x4 |$ D3 ._B, ._E.=B, .=EC | !>![A,FA]4 x4 |$ z (_d'/b/_g) x z (d/B/G) x | %14
+ z (f'/d'/b) x z (^f/d/=B) x |$ x8 |] %16
+V:4
+ x | x3[K:bass] x5 | x7[K:treble] x |$ x3[K:bass] x5 | x[K:treble] x2[K:bass] x5 |$ %5
+ z[K:treble] (c/A/F)[K:bass] x z (^C/A,/^F,) x | z (F/_D/_A,) x z (=A,/F,/D,) x |$ x8 | x8 |$ %9
+ z (E/D/A,) x x4 | x8 |$ z (A/G/D) x x4 | x8 |$ z[K:treble] (_d/B/_G)[K:bass] x z (D/B,/G,) x | %14
+ z[K:treble] (f/d/B)[K:bass] x z (^F/D/=B,)[K:treble] x |$ x8 |] %16
+V:5
+ x | x8 | x3[K:bass] x5 |$[K:treble] x8 | x3[K:bass] x4[K:treble] x |$ x7[K:bass] x | %6
+ x[K:treble] x2[K:bass] x2[K:treble] x3 |$ x8 | x7[K:bass] x |$ z[K:treble] (.e/d/)A[K:bass] x x4 | %10
+ x8[K:treble] |$ z (a/g/d) x x4 | x8 |$ x8 | x8 |$ x8 |] %16
+V:6
+ x | x3[K:bass] x5 | x7[K:treble] x |$ x3[K:bass] x5 | x[K:treble] x2[K:bass] x5 |$ %5
+ x[K:treble] x2[K:bass] x5 | x8 |$ x8 | x8 |$ x8 | !>![C,,G,,C,]4 x4 |$ x8 | !>![F,,C,F,]4 x4 |$ %13
+ x[K:treble] x2[K:bass] x5 | x[K:treble] x2[K:bass] x4[K:treble] x |$ x8 |] %16

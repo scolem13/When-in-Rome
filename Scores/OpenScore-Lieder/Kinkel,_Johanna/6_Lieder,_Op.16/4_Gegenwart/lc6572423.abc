@@ -1,0 +1,44 @@
+X:1
+T:6 Lieder, Op.16
+T:Gegenwart
+C:Johanna Kinkel
+Z:Johann Wolfgang von Goethe
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=130
+M:6/8
+I:linebreak $
+K:A
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 bass 
+V:1
+"^Con fuoco"!f! c2 B B A =G | F3 z2 F | ^A A B c A F | (^d2 c) B2 z | B F G A F B | G3 z2 z | %6
+w: 1. Al- les kün- det dich|an! Er-|schei- net die herr- li- che|Son- * ne,|folgst du, so hoff’ ich es,|bald.|
+w: * * Tan- ze dich|regst, so|re- gen sich al- le Ge-|stir- * ne,|mit dir und um dich um|her.|
+w: * * lieb- lich bist|du und|Blu- * men Mond und Ge-|stir- * ne|hul- di- gen, Son- ne, nur|dir.|
+ B3/2 B/ B d B G | (=F3 E2) E | A3/2 B/ =c d3/2 c/ B | (=c2 B) A2 z | %10
+w: Trittst du im Gar- ten her-|vor _ so|bist du die Ro- se der|Ro- * sen,|
+w: Nacht! und so wär’ es denn|Nacht! _ _|Nun ü- ber- scheinst du des|Mon- * des|
+w: Son- ne, so sei du auch|mir _ die|* * * herr- li- cher|Ta- * ge;|
+ A3/2 B/ ^c"^molto ritenuto" e3/2 d/ B | A3 !fermata!z3 :| %12
+w: Li- lie der Li- lien zu-|gleich.|
+w: la- den- den lieb- li- chen|Glanz.|
+w: Le- ben und E- wig- keit|ist’s.|
+V:2
+ c c B x2 x | x6 | ^A2 B x3 | x6 | x6 | x6 | x6 | x3 x2 z | A2 B/ =c/ x2 x | x6 | x6 | x6 :| %12
+w: ||||||||||||
+w: 2. Wenn du im||||||||||||
+w: 3. La- dend und||||||||Schö- pfer- inn||||
+V:3
+!f! [Ac][CE][Ac] [=Gc][CE][Gc] | [Ad][DF][Ad] [Ad][DF][Ad] | [^Ac][EF][Ac] [Ac][EF][Ac] | %3
+ [B^d][^DF][Bd] [Bd][DF][Bd] |!>(! [A^d][^DF]!>)![Ad] [Ad][DF][Ad] | [Be][EG][GB] [GB][B,E][EG] | %6
+!mf! [GB][B,D][GB] [GB][B,E][GB] | [GB][B,=F][GB] [GB][B,E][GB] | [A=c][=CE][Ac] [GB][B,D][GB] | %9
+ [A=c][=CE][Ac] [Ac][C=F][Ac] | [A^c][^CE][Ac] [Gc][B,D][GB] | [Ac][CE][Ac] !fermata![CA]3 :| %12
+V:4
+ .A,,(A,E,) .A,,(A,E,) | D,(A,F,) D,(A,F,) | [F,,F,](^A,F,) F,,A,F, | B,,B,F, B,,B,F, | %4
+ B,,B,F, B,,B,F, | [E,,E,](B,E,) E,,(G,E,) | !>![=F,,=F,](G,F,) !>![E,,E,](G,E,) | %7
+ !>![D,,D,](G,D,) !>![E,,E,](G,E,) | A,,(A,E,) E,,G,E, | A,,A,E, =F,,A,=F, | %10
+ E,,A,"^colla parte"E, E,,G,E, | A,,A,E, !fermata![A,,E,]3 :| %12

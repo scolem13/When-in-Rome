@@ -1,0 +1,60 @@
+X:1
+T:Walzer-Gesänge, Op.6
+T:Fensterlein, nachts bist du zu
+C:Alexander von Zemlinsky
+Z:Ferdinand Gregorovius
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=172
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Leicht bewegt" A3/2 A/ A | c c c | A2 A | B A B | d ^c d |$ (f"^rit." e) d | f e d | %7
+w: Fen- ster- lein,|nachts bist du|zu, tust|auf dich am|Tag mir zu|Lei- * de|Lei- de; mit|
+w: Case- ment so|hum- ble and|small, Each|night thou art|closed, to my|sor- row, my|sor- row, In|
+[Q:1/4=172]"^a tempo" c3/2 c/ c | _d d d | c2 ^c | d e f |$ (g f) e | g2 f | z3 | z3 | z3 | z3 |$ %17
+w: Nel- ken um-|rin- gelt bist|du: o,|öff- ne dich,|Au- * gen-|wei- de!|||||
+w: vain for my|dar- ling I|call, O|let me but|wish her good|mor- row!|||||
+[Q:1/4=172]"^leise und einfach" _A A F | _A A _G | (F2 _E) | _A"^poco rit." c _d | B2 _A |$ z z F | %23
+w: Fen- ster aus|köst- li- chem|Stein, _|drin- nen die|Son- ne,|die|
+w: Case- ment so|jea- lous and|blind, _|Guard- ing my|sun- light,||
+ B F _D | F2 =E | z3 | z !fermata!z C |[Q:1/4=172] A3/2 A/ A |$ c c c | A3 | B A B | d ^c d | %32
+w: Ster- ne da|draus- sen||o|Fen- ster- lein|heim- lich und|klein,|Son- ne da|drin- nen und|
+w: |||O|give me but|one glance be-|hind!|Hide her not|from me, O|
+ f e d |$ g3 | f z z | z3 | z3 | z3 | z3 | z3 |] %40
+w: Ro- sen da|draus-|sen.||||||
+w: case- * ment|cru-|el!||||||
+V:2
+!p! z (.[CF] .[CFA]) | z [C^G] [CGc] | z [CF] [CFA] | z!<(! [B,F] [B,FB]!<)! | %4
+ z!<(! [B,F] [B,FB]!<)! |$ z"_rit." [=B,FA] [B,FA=B] | z [=B,F] [B,FA=B] | %7
+[Q:1/4=172]"_a tempo"!p! z [EA] [EAc] | z [_DFA] [FA_d] | z [EAc] [EA^c] |!<(! z [DA] [DAd]!<)! |$ %11
+ z [B,FG] [B,FB] | z"_rit." [_DFB] [FG_d] |"_ruhig" (_e2 _d) | (c2 B) | ._e (!>!e _d) | %16
+ (c B) (=A |$[Q:1/4=172]!pp! _A) (!>![_A,F] A) | ([_A,B,F] _A) [B,_E_G] | (F2 _E) | %20
+!<(! z!<)!"_poco rit." [_A,_DF] [=A,D=G] | z [B,C_G]!>(! [_A,CG]!>)! |$ z [_A,_C_G] [A,CF] | %23
+ (!>![_G,B,_G] [F,F]2) | z [G,B,F] [G,B,=E] | [B,_D]3 | ([B,B]2 !fermata!=E) | %27
+!pp![Q:1/4=172]"_a tempo" (f3/2 a/f/A/) |$ c3/2 e/c/E/ | A3/2 c/A/C/ |"_cresc." F3/2 B/e/d/ | %31
+ F3/2 B/g/f/ | F3/2 =B/a/f/ |$ E3/2 c/b/g/ |!>(! f3/2!>)! a/f/A/ | c3/2 e/c/E/ | f3/2 a/f/A/ | %37
+ b3/2 f'/b/f/ | (a'2 [cfc']-) | [cfc']2 z |] %40
+V:3
+ F,2 z | E,2 z | _E,2 z | D,2 z | B,,2 z |$ [D,,D,]2 z | [A,,A,]2 z | A,2 z | F,2 z | A,2 G, | %10
+ F,2 D, |$ _D,2 z | _B,,2 z | G,,2 z | B,,2 z | [G,,,G,,]2 z | [B,,,B,,]2 [_D,,_D,]- |$ %17
+ [D,,D,]2 z | [=D,,=D,]2 [_E,,_E,] | _A,,2 _G,, | F,,2 _F,, | _E,,3 |$ =D,,3 | [_D,,_D,]3 | %24
+ [C,,C,]3 | [_D,,_D,]3 | !fermata![C,,C,]3 | z [A,C]2 |$ z [^G,C]2 | z [F,A,]2 | z [F,B,]2 | %31
+ z [F,B,D]2 | G,, [F,=B,D]2 |$ [C,,C,] [C,B,E]2 | z [A,C]2 | z [^G,C]2 | z [A,C]2 | z [F,B,]2 | %38
+ F,,2 [F,CA]- | [F,CA]2 z |] %40
+V:4
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | z [FB] [FB] | z [_DF] [DF] | %15
+ x [FB]2 | [_DF]2 x |$ x3 | x3 | z [=G,B,] [_A,C] | x3 | x3 |$ x3 | x3 | x3 | %25
+ [_A,_A] [_G,_G] [F,F] | z G E | x3 |$ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | %39
+ x3 |] %40
+V:5
+ x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | %19
+ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | F,3 |$ E,3 | _E,3 | D,3 | B,,3 | x3 |$ x3 | F,3 | E,3 | %36
+ _E,3 | D,2 _D, | x3 | x3 |] %40

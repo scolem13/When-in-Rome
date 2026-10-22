@@ -1,0 +1,30 @@
+% 13. A Prelude for the Violin: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=95
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:13. A Prelude for the Violin
+C:Thomas Baltzar
+%%score ( 1 2 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="one" snm="Vln"
+V:2 treble 
+L:1/4
+V:1
+ G4 A4 B4 c4 | d4 A4 B2G2 g2a2 | b2D2 E2F2 G2B,2 C2D2 | G,2D2 G2A2 B2G2 B2c2 | %4
+ d2D2 f2^g2 a2d2 b2c2 | B2a2 =g2A2 G2=f2 e2=F2 | E2d2 ^c4 d2D2 ^f2d2 | B2g2 G2=f2 e2=C2 E2B,2 | %8
+ A,2G2 =F2dc B2g^f e2cB | A2ag f2AG ^F2FE D2dc | B2B,A, G,fga bdef gBcd | Ggcg BgAf gGdF Ed^ce | %12
+ dDfg a=cBg AfGe FdE^c | DB=CA B,GCA B,GA,F GG,Bc | dBGB AFDa FaEg fADf | dGB,d eGCe cGA,G cGFd | %16
+ BDG,B AECG FDac BgAf | g4 G4 B4 A2B2 | G2E2 c2>[dcB]2 A2F2 d2>[edc]2 | %19
+ B2G2 g2>[ag=f]2 [ec]2>[dcB]2 [Aa]2>[bag]2 | [^fd]2>[edc]2 B2g2 A2g2 f2g2 | [eBG]4 [dF]4 d4 ^c4 | %22
+ f2b2 a2g2 [fA]2[gB]2 [fA]2[eBG]2 | [fAD]2[BG]2 A4 A4 DFEG | FAGB AcBd ^cdec dAde | %25
+ fefd gfgB ede^c aeca | fefd bfdb gfge ^caga | dfef Bgfg ^cede Afef | Bd=cd Gede AcBc Fdcd | %29
+ BGEc AFDd BGEe cAFf | dBGg ecAa fdBb gecc' | afdb geca geca gdBg | cgBg Agfe DFCF B,GG,B, | %33
+ DGB,D G,DGB dgbd gBdG | [ec]2[ecGG,]2 [BD]2[cE]2 [BD]4 [AEC]4 | [G,DBg]16 |] %36
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | z2 D A | z2 E2 | [AD] z3 | z F/E/ F/A,/ z | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z D z2 | %33
+ x4 | x4 | x4 |] %36

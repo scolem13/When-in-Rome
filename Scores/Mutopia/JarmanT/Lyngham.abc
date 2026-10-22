@@ -1,0 +1,40 @@
+% Lyngham: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=178
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Lyngham
+C:T. Jarman (1776--1861)
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/8
+Q:1/4=100
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="Acoustic Guitar" snm="Ac Gtr"
+V:2 treble nm="upper:sop"
+V:3 treble 
+V:4 bass nm="lower:tenor"
+V:5 bass 
+V:1
+ [FAc][FAc] [FAc][_B,DF] | [FAc][FAc] [FAc][_B,DF] | [CFAc][CFAc] [CEG][CEG] | %3
+ [FAc][FAc] [FAc][FAc] | [GBd][GBd] [CEG][DFA] | [CEG][CEG] [CEG][CEG] | [FAc][FAc] [FAc][_B,DF] | %7
+ [CEG][CEG] [G=Bdf][GBdf] | [CEG][CEG] [CEG][CEG] | [FAc][FAc] [CEG][CEG] | [FAc][FAc] [FAc][FAc] | %11
+ [CEG_B][FAc] [CEG][DG=Bdf] | [CEG][CEG] [CEG][CEG] | [FAc][FAc] [FAc][FAc] | %14
+ [_B,DF][B,DF] [B,DF][B,DF] | [FAc][FAc] [FAc][FAc] | [CEG][CEG] [CEG][CEG] | %17
+ [FAc][FAc] [FAc][FAc] | [_B,DF][B,DF] [B,DF][B,DF] | [CFG][CFG] [CEG][CEG_B] | %20
+ [FAc][FAc] [FAc][FAc] |] %21
+V:2
+ [FC]2 [AF]>[BF] | c/d/c/B/ A[BD] | AF GE | [FC]3 A | BA GF | G3 [GE] | A/G/A/B/ c[dF] | %7
+ [cE]2 [=BD]2 | [cE]4 | [cF]2 [cG][cE] | [AF]>[GE] F[AF] | [BE][AF] [GC][FD] | [GE]3 z | z3 F | %14
+ BB B[BB,] | A3 [AC] | GG G[GE] | c3 c | d F2 c [BE] [AF] | G3 G | F4 |] %21
+V:3
+ x4 | F3 z | C2 C2 | x4 | x4 | x4 | F3 z | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | CC C z | E3 z | %17
+ F4- | x6 | F2 E2 | x4 |] %21
+V:4
+ [A,F,]2 [CF,]>[B,F,] | A,/B,/A,/G,/ F,[F,B,,] | F,A, B,G, | [A,F,,]3 F, | G,F, E,D, | C,3 [CC,] | %6
+ C>B, A,[A,D,] | G,2 [G,G,,]2 | [G,C,]4 | [A,F,]2 [G,E,][CC,] | C3 [CF,] | C3 [=B,D,] | [CC,]3 C, | %13
+ F,G, A,F, | D,3 B,, | F,G, A,[A,F,] | CC CC | C3 [A,F,] | B, C2 [CF,] | [CC,]3 [B,C,] | %20
+ [A,F,,]4 |] %21
+V:5
+ x4 | F,2 z2 | C,2 C,2 | x4 | x4 | x4 | F,3 z | x4 | x4 | x4 | F,>G, A, z | G,F, E, z | x4 | x4 | %14
+ x4 | x4 | C,3 z | A,G, A, z | z A, G, z | x4 | x4 |] %21

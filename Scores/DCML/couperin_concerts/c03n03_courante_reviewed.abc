@@ -1,0 +1,52 @@
+X:1
+T:Concert Royal no. 3
+T:Courante
+C:François Couperin
+Z:© Les Éditions Outremontaises, 2006
+%%score { ( 1 3 4 ) | ( 2 5 ) }
+L:1/4
+Q:1/4=152
+M:3/2
+I:linebreak $
+K:C
+V:1 treble nm="Clavecin"
+L:1/8
+V:3 treble 
+V:4 treble 
+V:2 bass 
+V:5 bass 
+V:1
+"m" c |: c3 B""A^G"" MAB"m" PB3 A |"" P^G3 B"m" e2"m" d2"" Pc3"" B | %3
+"m"({B} Mc4)({B} A2)"C{" cd""({d} Me2) (fe) |$"" Pd3 ^c"" Md2"" e2"m"({e} Mf3) g | %5
+"m" Pe3 e"" ^f2"m" g2"""m" a3 b |"" P^g4 z"m" ^f"m" M=ga"m"({a} (Mb2) c'b) |$ %7
+"m" Pa3 g"" (^fg)"" (fg) (a"m"g)"m" (fe) |"" P^d2({^c} B2)"m" (^f3 (3:4:3g/4f/4g/4)"" (P^g3 f/g/) | %9
+"""" a3 b"m""m" Pg3 ^f"" Pf3 e |1$"" !fermata![^GBe]6- [GBe]4- [GBe]"m"c :|2 %11
+"" !fermata![^GBe]6- [GBe]4- [GBe]"C{"E |:"m""_Reprise" P^G3 A"" B2"m" (cA)"m""" PA3 G | %13
+"m" A3"C{" B"m" ^c2"m" d2"""m"({d} e3) f |$"" Pe2({d} ^c2)"m"({c} Md3) e"" Pe3 d | %15
+"m" [FAd]4 z"C{" (d"" cB)"""" PA3 d |"" PB4 z (g"" fe)"""" Pd3 e | %17
+"" Pe3 d"m"cB"m" Mcd"" P[Bd]3 c |$"" c3"C{" B Mc2"m" !turn!d2"m""m" e3"m" A | %19
+"" P^G3"C{" E"" A2"" (=G^F)""({F} MG3) A |"" P^F6"C{" z/ (A/B/c/"m" Pc3 B/c/) |$ %21
+"m"({c} d2) z c"" (Bc) (Bc) (d"m"c)"m" (BA) |"" P^G2({^F} E2)"m" [Ace]4"m" PB3 B | %23
+"" [AB]2""({A} ^G2)"m""m"({G} MA3) B"" P[GB]3 A |1$"m" [CEA]6- [CEA]4- [CEA]"C{"E :|2 %25
+"m" [CEA]4- [CEA]4"m""_Petite reprise" PB3 B ||"" [AB]2""({A} ^G2)"m""m"({G} MA3) B"" P[GB]3 A | %27
+"m" [CEA]12 |] %28
+V:2
+ A,/ |: A,3/2 G,/ F, E, D,3/2 C,/4D,/4 | E,/F,/E,/D,/ C, D, E, E,, |"^" MA,,2 A,,, A,/B,/ C C, |$ %4
+ G,3/2 A,/ B, ^C D D, | A,2 A, G, F,2 | E,2 z/ ^D,/ (E,/^F,/ G, A,/G,/) |$ %7
+ ^F, E, (^D, B,,) E, A,, | B,,2 B,2 E, E,, | A,, ^F,, G,, A,, B,,2 |1$ E,, ^G,, B,, E,2- E,/A,/ :|2 %11
+ E,, ^G,, B,, E,2- E,/E,/ |: E,2 D, C, B,, E, | A,, A, G, F, E, D, |$ G, G,, F, G, A, A,, | %15
+ MD,3/2 (^C,/ D, E,) (^F, D,) | G,3/2 ^F,/ G, A, B, G, | C B, A, F, G,2 |$ MC, z z B,, C, D, | %19
+ E,/F,/E,/D,/ ^C,- [C,E,]2 A,, | (D,3/2 ^C,/ D, E, PD, =C,) |$ B,, A,, ^G,, E,, A,, D,, | %22
+ E,,2 C,2 D,3/2 D,/ | ^D, E, F, =D, E,2 |1$ A,, C, E, A,2- A,/E,/ :|2 A,, C, E, A, D,3/2 D,/ || %26
+ ^D, E, F, =D, E,2 | A,,6 |] %28
+V:3
+ x/ |:({^G} A) x5 | x2 c B A ^G | A2 x4 |$ x6 | c2 ^f/d/ g/e/ a/e/ d | e2 x4 |$ x6 | %8
+ x2 [B=d] z d2 | ^c M^d e2 d x |1$ x6 :|2 x6 |: x6 | [CE] x5 |$ x6 | x6 | x6 | x6 |$ [EG] x5 | x6 | %20
+ x6 |$ x6 | x6 | ^F x5 |1$ x6 :|2 x6 || ^F x5 | x6 |] %28
+V:4
+ x/ |: E x5 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |1$ x6 :|2 x6 |: x6 | x6 |$ x6 | x6 | x6 | %17
+ x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |1$ x6 :|2 x6 || x6 | x6 |] %28
+V:5
+ x/ |: x6 | x6 | x6 |$ x6 | A, A,, x4 | E, E,, x4 |$ x6 | x6 | x4 B,, B,,, |1$ %10
+ E,,3- E,,2- E,,/ x/ :|2 E,,3- E,,2- E,,/ x/ |: x6 | x6 |$ x6 | x6 | x6 | x4 G, G,, |$ x6 | x6 | %20
+ x6 |$ x6 | x6 | x4 E, E,, |1$ A,,3- A,,2- A,,/ x/ :|2 A,,2- A,,2 x2 || x4 E, E,, | x6 |] %28

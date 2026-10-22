@@ -1,0 +1,99 @@
+X:1
+T:2 Lieder, Op.8
+T:Das mitleidige Mädel
+C:Clara Faisst
+Z:Gustav Falke
+Z:OpenScore(CC0)
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=144
+M:3/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+V:1
+"^Rasch und gut deklamiert" F2 F | (F>G) F | F2 B | G2 z |!<(! ^F3/2 G/ A | B2 B | c2 F!<)! | %7
+w: Trug mein|Herz _ ich|auf der|Hand,|weh- te ein|Wind her|ü- ber's|
+ d2 z | f _A3/2 F/ | z3 | z3 | z3 |"^etwas langsamer" F2 F | G3/2 F/ G | z A3/2 D/ | B2 z | %16
+w: Land,|weg war es!||||Kam ein|Müt- ter- chen.|Mit Ver-|laub,|
+"^rit."!<(! A !>!c3/2 F/ | d2!<)! !fermata!z | z z!p! D | D3/2 D/ D | G3- | G2 z | _A3/2 A/ D- | %23
+w: habt ihr mein|Herz?|Die|Al- te war|taub, |_|nick- te nur. |
+ D z z | z3 | z3 |"^Tempo I" G2 G | (G>c) G | z3 | =B3/2 B/ B | z3 | z d G | A3 | z z!<(! G | %34
+w: _|||Kam der|Jä- * ger,||brumm- te was;||so ein|Herz,|was|
+ G2!<)! F | c3 | z3 | z z c | d3 | B z z | z3 | z z A | G3- | G2 C | z3 | z3 | z3 | z3 | %48
+w: schert mich|das?||frag'|wei-|ter,||frag'|wei-|* ter!|||||
+ !fermata!z3 | z3 | z3 | d3/2 d/ d | _A2 A | F2 F | _A2 z |"^ruhig" G3/2 G/ G | G2 c | (=B>c) d | %58
+w: |||Fragt' ich die|We- ge|auf und|ab,|kei- ner mein|Herz mir|wie- * der-|
+ G2 z | !>!c !>!A3/2 !>!^F/ | z3 | z3 | z3 |"^nach und nach rascher werdend" z =F F | (F>G) F | %65
+w: gab,|weg war es!||||Kam zu-|letzt  _ des|
+ B2 F | G2 z | A2!<(! A | B3/2 A/ B | c2!<)! F | !fermata!d2 z |!pp! _A3/2 A/ A | _A3- | A3 | z3 | %75
+w: Huf- schmieds|Kind,|Mä- del,|sahst du kein|Herz im|Wind?|lach- te sie|leis': |_||
+"^a tempo" B F3/2 F/ | _A2 G | =A3/2 ^F/ D | B3 |"^crescendo" d3/2 c/ F | d2 z | =e z A |!ff! f3- | %83
+w: Hat's auch der|Wind nicht,|hast du doch|keins,|dau- erst mich,|Bub,|da, nimm|mein's. |
+ f3- | f3 | z3 | z!mf! F/ F/ F | d2 z | z D/ D/ D | B3 |!f!"^rit." g3 | G2"^a tempo" d | B2 z |] %93
+w: _|||A- ber halt's|fest,|a- ber halt's|fest,|a-|ber halt's|fest!|
+V:2
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %57
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %76
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | e3 | x3 | x3 |] %93
+V:3
+ z3 | z3 | z3 | z3 | z (.[A,D^F].[DFA] | .[DGB].[GBd].[Bdg]) | x3 | x3 | !arpeggio![_Af] z z | z3 | %10
+"^poco ritard." z [DF_A] z | z [DF=A] z | x3 | x3 | x3 | x3 |!<(! x3!<)! | %17
+ !arpeggio![F_Adf]2 !fermata!z |!p! !>![G,D]3- | [G,D]3- | [G,D]3- | [G,D]3 | ([F_A]3 | [=B,D]3) | %24
+ (.[DF]z/[DF]/[I:staff +1].[_A,=B,]) | (.[=B,D][I:staff -1]z/[I:staff +1][B,D]/.[F,_A,]) | %26
+!f! [G,D]>[G,D][G,D] |[I:staff -1] .[C=E].[G,D].[CE] | [=B,^F]>[B,F][B,F] | .[=EG].[=B,^F].[EG] | %30
+ (A>_BA) | .G.d.G | (A>BA) |!<(! (Ge[Gd]) | (c>dc)!<)! |!f! .f.c.A | (c>dc) | .f.c.F | %38
+!mf! .D.A.[cd] |"_poco accel." .D.G.[Bd] | .C.G.[Bc] | .C.F.[Ac] | !arpeggio![DFGd] z z | %43
+ !arpeggio![C=EGc] z z |!f! [A,F]>[A,F][A,F] | (.[CG].[A,F].[CG]) | !^![Af]>[Af][Af] | %47
+ (!tenuto![cg]!tenuto![Af]!tenuto![cg]) | !fermata![fa]3 | x3 | (=E/G/F/E/F/G/) |!p! ([F_Ad]3 | %52
+ [F_Ac]3 | =B2 c | [F_Ad]3) | ([FG]>[FG][FG] | [G=e]2 [Gc] |!>(! =B>A!>)!G | [Gc]2 [=EG]) | %59
+ !arpeggio!!>![_Ec] z z | (.c.A>.^F) |"_rit."[I:staff +1] .C[I:staff -1]z[I:staff +1].A, | %62
+ .^F,[I:staff -1] z z | z (.[A,EF].[A,EF]) | z (.[B,DF].[A,EF]) | z [F,B,F][F,B,F] | %66
+ z [G,B,G][G,B,G] | z (.[A,D^F].[DFA] |!<(! .[DGB].[GBd].[Bdg]) | z [Fcef]!<)![Fcef] | %70
+ !arpeggio!!fermata![F_Adf]2 z | .[_Af]>.[=B_a].[Ba] | .[d=b].[fd'].[fd'] | .[_a=e'].[af'].[af'] | %74
+!ppp! .[_af'].[af'].[af'] |"^a tempo" (._B .[DF_A])[I:staff +1] B, | %76
+[I:staff -1] z (.[B,E_A].[B,G]) | z (.[D^F=A].[DFA]) | z [DGB][DGB] |"_crescendo" z [FAc][FAc] | %80
+ z [DFd][DFd] | !arpeggio!.[=EA=e] z z |!ff! [FAdf]>[fa][ad'] | [d'f']3- | [d'f']3- | [d'f']3 | %86
+!mf! .F.c.f | (d>ed) | .D.A.d | (B>cB) |"^ritard." [GBg]3- | [GBg]2!f!"^a tempo" !>![FAf] | %92
+ !>![Bdb] z z |] %93
+V:4
+!p! (.B,, .[F,B,D] .B,,) | (.C, .[F,A,E] .C,) | D,"^simile" [F,B,F] D, | E, [G,B,G] E, | D, z ^F, | %5
+ G, z z | A,[I:staff -1] [Fcef][I:staff +1] A, | B,[I:staff -1] [FBdf][I:staff +1] B, | %8
+ !arpeggio![=B,DF] z z | z3 | ._B, z z | .A, z z | _A,[I:staff -1] [DFB][I:staff +1] A, | %13
+ G,[I:staff -1] [EB][I:staff +1] G, | ^F,[I:staff -1] [DAcd][I:staff +1] F, | %15
+ G,[I:staff -1] [DGBd][I:staff +1] G, |"^rit." A,[I:staff -1] [Fce][I:staff +1] F, | %17
+ !arpeggio![B,,F,B,]2 !fermata!z | !>![=B,,F,]3- | [B,,F,]3- | [B,,F,]3- | [B,,F,]3 | ([F,_A,]3 | %23
+ [=B,,D,]3) | [D,F,]z[_A,,=B,,] | [=B,,D,]z[F,,_A,,] | [G,,D,]3 | [C,,C,] z z | [=B,,^F,]3 | %29
+ [=E,,=E,] z z | [^F,C]2 [F,C] | [G,B,]2 [G,B,] | [^F,C]2 [F,C] | [G,B,]2 [G,B,] | [A,E]2 [A,E] | %35
+ .F,.A,.C | [A,E]2 [A,E] | .F,.A,.E | ^F, z z | G, z z | =E, z z | F, z z | !arpeggio![B,,B,] z z | %43
+ !arpeggio![C,B,] z z | [F,,C,]3- | [F,,C,]3 |!f![I:staff -1] F3- |"^rit." F3- | !fermata!F3 | %49
+[I:staff +1] z/!p!"^poco rit." (F,/G,/B,/A,/C/) | x3 |[I:staff -1] =B,3 | C3 | _D2 C | =B,3 | %55
+[I:staff +1] [G,=B,D]>[G,B,D][G,B,D] | [G,C]2 [G,=E] | D>C=B, | [G,=E]2 [G,C] | %59
+ !arpeggio![^F,A,C] z z | (.C.A,>.^F,) | .C,z.A,, | .^F,, z z |!p! .=F,, z z | .B,, z .C, | %65
+ .D, z z | .E, z z | D, z z | G, z z | A, z z | !arpeggio![B,D]2 z | %71
+!pp![I:staff -1] .[=B,D]>.[DF].[DF] |[I:staff +1][K:treble] .[F_A].[A=B].[AB] | %73
+ .[=Bd].[Bdf].[Bdf] | .[=Bdf].[Bdf].[Bdf] |[K:bass] x3 | ._E, z z | .D, z z | G, z z | F, z z | %80
+ B,3 | !arpeggio![A,^C] z z |!ped! [D,A,D]>[I:staff -1][FA][Ad] |[I:staff +1] z3/2 [F,A,]/[A,D] | %84
+ !^![DF]3- | [DF]3!ped-up! | .E.A,.F, | [B,D]2 [B,D] | .C.^F,.D, | [G,B,]2 [G,B,] | [E,B,E]3- | %91
+ [E,B,E]2 !>![F,A,E] | !>![B,,F,D] z z |] %93
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | G3- | G3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | D2 D | D2 D | D2 D | D2 D | G2 F | x3 | %36
+ G2 F | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | [F_A]3 | %54
+ x3 | x3 | x3 | F2 F | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %73
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | [df]>[FA][Ad] | !^![df]3- | [df]3 | x3 | F2 F | %88
+ x3 | D2 D | x3 | x3 | x3 |] %93
+V:6
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %57
+ G,2 G, | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:treble] x3 | x3 | %74
+ x3 |[K:bass] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %92
+ x3 |] %93

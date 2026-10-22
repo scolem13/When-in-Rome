@@ -1,0 +1,29 @@
+X:1
+T:French Suite No. 3
+T:Trio
+C:Johann Sebastian Bach
+%%score { ( 1 2 ) | 3 }
+L:1/4
+Q:1/4=112
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+L:1/8
+V:2 treble 
+V:3 bass 
+V:1
+ FG A2 G2 | =c2 B2 A2 | G2 BA GF | AG FG EG |$ ^AB cA Bd | e/f/g f3 e | dc ed cB | f6 ::$ %8
+ a2 f2 e2 | ^d6 | e2 f2 g2 | cB dc BA |$ de fd eg | b2 a2 g2 | fe gf ef | d6 |$ ag f2 g2 | %17
+ e2 f2 g2 | f2 ed cB | B^A ^GA FA |$ cd ec df | g2 f2 e2 | dc ed cd | B6 :| %24
+V:2
+ D ^D E | F3 | E2 ^D | E3 |$ z E D | z z/ c/ F | B3 | ^A3 ::$ c =c B | A/G/ G/F/ F/E/ | B3 | %11
+ z E G |$ F/G/ A G- | G F E | D d c | d3 |$ f/e/ d e | c d e- | e/d/ c/B/ ^A/B/ | z B, ^A,- |$ %20
+ A,/B,/ C/^A,/ B,/D/ | E D C | B, B ^A | B3 :| %24
+V:3
+"m""""m" B,3 |"m""""m" ^D,3 |"m" E,"m" A,,"" B,, |"m" E,, B,, E, |$"m""" G,3 |"m""""" ^A,,3 | %6
+"m" B,,"m" A,,"" G,, |"" F,,3 ::$"m" F,/G,/"m" A,"m" G, |"m" =C"" B,"m" A, | %10
+"m" G,/F,/"m" A,/G,/"m" F,/E,/ |"""" A,3- |$"""""" A,3- |"" A,"m" B,"m" C |"" D"" G,"" A, | %15
+"" D, A,, D,, |$"C{" D,/"m"E,/"" F,/E,/"m" F,/G,/ |"" A,/B,/"m" C/B,/"m" ^A,/C/ | %18
+"m" D,"" G,"m" E, |"""m""" F,3- |$"m""""m" F,3- |"m" F,"m" ^G,"m" ^A, |"m" B,"m" E,"" F, | %23
+"m""_Menuett da capo." B,,3 :| %24

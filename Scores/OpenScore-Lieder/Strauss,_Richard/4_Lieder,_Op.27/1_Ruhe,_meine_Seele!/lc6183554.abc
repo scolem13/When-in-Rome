@@ -1,0 +1,69 @@
+X:1
+T:4 Lieder, Op. 27
+T:Ruhe, meine Seele!
+C:Strauss, Richard
+Z:Henckell, Karl
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=53
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+L:1/4
+V:5 treble 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+"^Langsam" z8 | z8 | z8 | z2 ^C ^G ^D2 ^E2 | ^E ^F ^G4 G2 | ^G3 G G G ^A B | ^C8 | %7
+w: |||Nicht ein Lüft- chen|regt sich lei- se,|sanft ent- schlum- mert ruht der|Hain;|
+ z2 ^F ^G ^A A B ^B | ^c2 ^F2 z2 c2- | ^c3 c ^d2 e2 | ^f6 ^d2 | B8 | z8 | G4 C2 z2 | c4 G2 G A | %15
+w: durch der Blät- ter dun- kle|Hül- le stiehlt|_ sich lich- ter|Son- nen-|schein.||Ru- he,|ru- he, mei- ne|
+ _B4 B2 z2 | z4 _B3 B | A6 A2 | A4 A2 z2 | c8- | c2 z2 c3 c | c4- c c c3/2 c/ | %22
+w: See- le|dei- ne|Stür- me|gin- gen|wild,|_ hast ge-|tobt _ und hast ge-|
+ .B2 .B2 z2 ^F3/2 F/ | =F4 _B2 B3/2 c/ |!<(! _d8!<)! | z4 z2 =d d | f4 f2 _A c | _e4 e2 _A _B | %28
+w: zit- tert, wie die|Brand- ung, wenn sie|schwillt!|Die- se|Zei- ten sind ge-|wal- tig, brin- gen|
+ c3 c _e3 e |!<(! ^f6!<)! z2 |!p! G4 C2 z2 | c4 G2 G A | _B4 B2 z2 | z4 A2 A2 | A6 z2 | z2 F4 _A2 | %36
+w: Herz und Hirn in|Not|Ru- he.|ru- he, mei- ne|See- le,|und ver-|giss,|und ver-|
+ _E6 z2 | G2 G4 G2 | C8 | z8 | z8 | z8 | !fermata!z8 |] %43
+w: giss,|was dich be-|droht!|||||
+V:2
+!mf!!>(! ([G,_B,CG]2!>)! [^F,A,^C^F]2) |!mf!!<(! ([G,_B,=CG]2!<)! [^F,A,^C^F]2) | !>![=C=F=c]4 | %3
+!pp! [^E,^G,^C]4 | [^E,^G,^C]4- | [^E,^G,^C]4 |!pp! z"^r.H." ^c"_l.H." ^F"^r.H." e | [^F,^A,^C]4 | %8
+ z"^r." e"^l." ^c"^r." ^a | [^F,^A,^C]4 | z"^r." !tenuto!b"^l." ^d z | %11
+ z"^r."!8va(! ^f'!8va)!"^l." a"^r."!8va(! b'!8va)! |!>(! z"^l." ^f'"^r."!8va(! ^d''2!>)!!8va)! | %13
+!p! [G,_B,CG]4 | [G,_B,CG]4 | [G,_B,FG]4 | [G,_B,FG]4 | [G,A,EG]4 | [G,A,EG]4 |!sfz! [=C_E^FA=c]4 | %20
+[K:bass]!pp! [C,_E,^F,A,C]4 |[K:treble]!p! [C_E=Fc]4 |!<(! [B,D^FB]4!<)! | %23
+"_cresc." !>![=F_B-_d-=f-]4 | [FBdf]4 | [FG=B=dg]4 |!f! [_Acf_a]4 | [_Ac_e_g_a]4- | %28
+!<(! [Acega]4!<)! |!ff!!>(! [=Ac_e^f=a]4!>)! |!p! [G,_B,CG]4 | [G,_B,CG]4 | [G,_B,FG]4 | %33
+"_dim." [G,A,EG]4 | [F,A,DF]4 | [F,_A,CF]4 |!pp! [G,C_E]4 | [G,B,D]4 | ([G,_B,CG]4 | %39
+ [^F,A,^C^F]4) |!>(! [=C=F=c]4!>)! | z"^r.H." e"^l." G"^r." c' | z"_l." e"^r." !fermata!g'2 |] %43
+V:3
+ ([_B,,C,]4 [A,,^C,]4) | ([_B,,=C,]4 [A,,^C,]4) |!ped! !>![D,,_A,,=C,=F,_A,]8!ped-up! | %3
+ [^C,,B,,]8 | [^C,,B,,]8- | [C,,B,,]8 |!ped! [^F,,=E,]8!ped-up! | [^F,,E,]8 |!ped! [^F,,=E,]8- | %9
+ [F,,E,]8!ped-up! |!pp!!ped! [B,,=A,]8- | [B,,A,]8- | [B,,A,]8!ped-up! | [E,,_B,,C,]8 | %14
+ [E,,_B,,C,]8 | [D,,_B,,F,]8 | [D,,_B,,F,]8 | [^C,,A,,E,]8 | [^C,,A,,E,]8 | %19
+!<(!!ped! [=C,_E,^F,A,]4!<)!"^r.""_l."({F,/G,/^G,/} A,4) | z4!ped-up!({^F,,/G,,/^G,,/} A,,4-) | %21
+ [A,,_E,=F,]8 | [A,,D,^F,]8 |!ped! !>![G,,-_D,-=F,_B,-_D-]8 | %24
+ z2({F,/G,/_A,/=A,/} _B,) z z2({B,/C/_D/_E/} F) z!ped-up! | %25
+!ped! z2({D,/E,/^F,/} G,) z({G,/A,/B,/C/} D) z({G,/A,/B,/C/D/_E/F/} G) z!ped-up! | %26
+!ped! [F,CF]8!ped-up! |!ped! [_E,_A,C_G]8- | [E,A,CG]8!ped-up! |!ped! [=A,C_E^F]8!ped-up! | %30
+ [E,,_B,,C,]8 | [E,,_B,,C,]8 | [D,,_B,,F,]8 | [^C,,A,,E,]8 | [D,,A,,D,]8 | [F,,C,]8 | [G,,C,_E,]8 | %37
+ [G,,F,]8 |!mp! [C,,_B,,=E,]8- | [C,,-B,,E,]8 | [C,,_A,,C,D,F,]8 |!pp!!ped! [C,,G,,C,]8- | %42
+ !fermata![C,,G,,C,]8!ped-up! |] %43
+V:4
+ (E,,2 E,,2) | (E,,2 E,,2) | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %16
+ x4 | x4 | x4 | =C,, z({^F,,/G,,/^G,,/} A,,2) | x4 | x4 | x4 | z3({_B,,/C,/_D,/_E,/} F,/-) z/ | %24
+ [G,,D,F,B,D]4 | [G,,D,G,=D]4 | [F,,C,] x3 | [_E,,_A,,] x3 | %28
+ z({_E,/F,/_G,/} _A,/) z/ z({A,/_B,/C/_D/} _E/) z/ | [=D,,,=D,,] x3 | x4 | x4 | x4 | x4 | x4 | x4 | %36
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %43
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | [^F,^A,^C]8 | x8 | [^F,^A,^C]8- | x8 | [B,^D^FB]8- | [B,DFB]8- | %12
+ [B,DFB]8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:bass] x8 |[K:treble] x8 | x8 | %23
+ z6({_B,/C/_D/_E/} F-) z | z2({F/G/_A/=A/} _B) z z2({B/c/_d/_e/} f) z | %25
+ z2({D/E/^F/} G) z({G/A/B/c/} d) z({G/A/B/c/d/_e/f/} g) z | x8 | x8 | %28
+ z2({_E/F/_G/} _A) z z2({A/_B/c/_d/} _e) z | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %40
+ x8 | [=E,G,C=E]8- | !fermata![E,G,CE]8 |] %43

@@ -1,0 +1,110 @@
+% Der Musensohn: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1558
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Der Musensohn
+C:SchubertF
+%%score 1 ( 2 3 ) 4
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:none
+V:1 treble nm="chant" snm="V"
+V:2 treble nm="pianoUp" snm="Pno"
+V:3 treble 
+V:4 bass nm="pianoDown" snm="Pno"
+L:1/4
+V:1
+ z6 |[K:G][M:6/8][Q:1/4=160] z6 | z6 | z6 | z6 | z6 | z4 z B | B2 B B2 B | d3 G2 d | e2 e g2 e | %10
+ d3 B2 B | c2 B A2 d | B3 z2 B | c2 B Aed | G3 z2 B | B2 B B2 B | d3 G2 d | e2 e g2 e | d3 B2 B | %19
+ ^c2 c cBA | d4- d d | e2 e e2 e | f3 g2 B | d2 B c2 F | G2 z4 | z6 | z6 | z6 | z6 | z4 z B | %30
+[K:B] B2 B B2 B | A3 B2 F | F2 G A2 B | c3 B2 d | e3 d3 | c3 d2 B | c3 z3 | z4 z F | B2 B dcB | %39
+ A3 B2 F | F2 G A2 B | c3 B2 d | e3 d3 | c3 d2 B | c3 z2 d | f2 e d3 | c3 d2 B | d4- d c | B3 z3 | %49
+ z4 z B |[K:G] B2 B B2 B | d3 G2 d | e2 e g2 e | d3 B2 B | c2 B A2 d | B3 z2 B | c2 B Aed | %57
+ G3 z2 B | B2 B B2 B | d3 G2 d | e2 e g2 e | d3 B2 B | ^c2 c cBA | d4- d d | e2 e e2 e | f3 g2 B | %66
+ d2 B c2 F | G2 z4 | z6 | z6 | z6 | z6 | z4 z B |[K:B] B2 B B2 B | A3 B2 F | F2 G A2 B | c3 B2 d | %77
+ e3 d3 | c3 d2 B | c3 z3 | z4 z F | B2 B dcB | A3 B2 F | F2 G A2 B | c3 B2 d | e3 d3 | c3 d2 B | %87
+ c3 z2 d | f2 e d3 | c3 d2 B | d4- d c | B3 z3 | z4 z B |[K:G] B2 B B2 B | d3 G2 d | e2 e g2 e | %96
+ d3 B2 B | c2 B A2 d | B3 z2 B | c2 B Aed | G3 z2 B | B2 B B2 B | d3 G2 d | e2 e g2 e | d3 B2 B | %105
+ ^c2 c cBA | d4- d d | e2 e e2 e |[Q:1/4=120] f3 g2 B |[Q:1/4=160] d2 B c2 F | G2 z4 | z6 | z6 | %113
+ z6 | z6 | z6 |] %116
+V:2
+ z6 |[K:G][M:6/8][Q:1/4=160] z [B,D][B,DG] z [GBe][GBd] | z [Acdg][Acdf] z [Fce][Fcd] | %3
+ z [GBe][GBd] z [DGc][DGB] | z [CFd][CFc] z [CFB][CFA] | z [B,DA][B,DG] z [B,DA][B,DG] | %6
+ z [B,DA][B,DG] z [B,DA][B,DG] | z [B,D][B,DG] z [DGc][DGB] | z [B,D][B,DG] z [GBe][GBd] | %9
+ z [CE][CEG] z [cea][ceg] | z [B,D][B,DG] z [GBe][GBd] | z [CD][CDF] z [Fce][Fcd] | %12
+ z [B,D][B,DG] z [GBe][GBd] | z [CD][CDF] z [Fce][Fcd] | z [B,D][B,DG] z [GBe][GBd] | %15
+ z [B,D][B,DG] z [GBe][GBd] | z [B,D][B,DG] z [GBe][GBd] | z [CE][CEG] z [cea][ceg] | %18
+ z [B,D][B,DG] z [GBe][GBd] | z [A,^CG,][CGA] z [^cgb][cga] | z [A,DF][DFA] z [dfb][dfa] | %21
+ z [^CG][CGA] z [^cgb][cga] | z [=cf][fc'] z [Bg][gb] | z [GBe][GBd] z [Fce][Fcd] | %24
+ z [B,D][B,DG] z [GBe][GBd] | z [Acdg][Acdf] z [Fce][Fcd] | z [GBe][GBd] z [DGc][DGB] | %27
+ z [CFd][CFc] z [CFB][CFA] | z [B,DA][B,DG] z [B,DA][B,DG] | z [B,DA][B,DG] z [B,DA][B,DG] | %30
+[K:B] z [DF][DF] z [DF][DF] | z [EF][EF] z [DF][DF] | z [DF][DF] z [DF][DF] | %33
+ z [EF][EF] z [DF][DF] | z [CF][CF] z [B,F][B,F] | z [A,F][A,F] z [B,F][G,F] | %36
+ z [A,F][A,F] z [B,DF][G,B,F] | z [F,A,F][A,CF] F2 [FCE] | z [DF][DF] z [DF][DF] | %39
+ z [EF][EF] z [DF][DF] | z [DF][DF] z [DF][DF] | z [EF][EF] z [DF][DF] | z [CF][CF] z [B,F][B,F] | %43
+ z [A,F][A,F] z [B,F][G,F] | z [A,F][A,F] z [A,F][B,F] | z [CF][CF] z [B,F][B,F] | %46
+ z [A,F][A,F] z [B,F][G,F] | z [B,DF][B,DF] z [A,EF][A,EF] | z [B,D][B,DF] z [B,DF][B,DB] | %49
+ z [B,D][B,DF] z [B,DF][B,DB] |[K:G] z [B,D][B,DG] z [GBe][GBd] | z [B,D][B,DG] z [GBe][GBd] | %52
+ z [CE][CEG] z [cea][ceg] | z [B,D][B,DG] z [GBe][GBd] | z [CD][CDF] z [Fce][Fcd] | %55
+ z [B,D][B,DG] z [GBe][GBd] | z [CD][CDF] z [Fce][Fcd] | z [B,D][B,DG] z [GBe][GBd] | %58
+ z [B,D][B,DG] z [GBe][GBd] | z [B,D][B,DG] z [GBe][GBd] | z [CE][CEG] z [cea][ceg] | %61
+ z [B,D][B,DG] z [GBe][GBd] | z [A,^CG,][CGA] z [^cgb][cga] | z [A,DF][DFA] z [dfb][dfa] | %64
+ z [^CG][CGA] z [^cgb][cga] | z [=cf][fc'] z [Bg][gb] | z [GBe][GBd] z [Fce][Fcd] | %67
+ z [B,D][B,DG] z [GBe][GBd] | z [Acdg][Acdf] z [Fce][Fcd] | z [GBe][GBd] z [DGc][DGB] | %70
+ z [CFd][CFc] z [CFB][CFA] | z [B,DA][B,DG] z [B,DA][B,DG] | z [B,DA][B,DG] z [B,DA][B,DG] | %73
+[K:B] z [DF][DF] z [DF][DF] | z [EF][EF] z [DF][DF] | z [DF][DF] z [DF][DF] | %76
+ z [EF][EF] z [DF][DF] | z [CF][CF] z [B,F][B,F] | z [A,F][A,F] z [B,F][G,F] | %79
+ z [A,F][A,F] z [B,DF][G,B,F] | z [F,A,F][A,CF] F2 [FCE] | z [DF][DF] z [DF][DF] | %82
+ z [EF][EF] z [DF][DF] | z [DF][DF] z [DF][DF] | z [EF][EF] z [DF][DF] | z [CF][CF] z [B,F][B,F] | %86
+ z [A,F][A,F] z [B,F][G,F] | z [A,F][A,F] z [A,F][B,F] | z [CF][CF] z [B,F][B,F] | %89
+ z [A,F][A,F] z [B,F][G,F] | z [B,DF][B,DF] z [A,EF][A,EF] | z [B,D][B,DF] z [B,DF][B,DB] | %92
+ z [B,D][B,DF] z [B,DF][B,DB] |[K:G] z [B,D][B,DG] z [GBe][GBd] | z [B,D][B,DG] z [GBe][GBd] | %95
+ z [CE][CEG] z [cea][ceg] | z [B,D][B,DG] z [GBe][GBd] | z [CD][CDF] z [Fce][Fcd] | %98
+ z [B,D][B,DG] z [GBe][GBd] | z [CD][CDF] z [Fce][Fcd] | z [B,D][B,DG] z [GBe][GBd] | %101
+ z [B,D][B,DG] z [GBe][GBd] | z [B,D][B,DG] z [GBe][GBd] | z [CE][CEG] z [cea][ceg] | %104
+ z [B,D][B,DG] z [GBe][GBd] | z [^CG][CGA] z [^cgb][cga] | z [DF][DFA] z [dfb][dfa] | %107
+ z [^CG][CGA] z [^cgb][cga] |[Q:1/4=120] z [=cf][fc'] z [Bg][gb] | %109
+[Q:1/4=160] z [GBe][GBd] z [Fce][Fcd] | z [B,D][B,DG] z [GBe][GBd] | z [Acdg][Acdf] z [Fce][Fcd] | %112
+ z [GBe][GBd] z [DGc][DGB] | z [CFd][CFc] z [CFB][CFA] | z [B,DA][B,DG] z [B,DA][B,DG] | %115
+ z [B,DA][B,DG] z [B,DA][B,DG] |[Q:1/4=60] [GBdg]2 z4 |] %117
+V:3
+ x6 |[K:G][M:6/8] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %17
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[K:B] x6 | x6 | x6 | x6 | x6 | %35
+ x6 | x6 | z3 [=CD][^CE] z | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[K:G] x6 | %51
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %70
+ x6 | x6 | x6 |[K:B] x6 | x6 | x6 | x6 | x6 | x6 | x6 | z3 [=CD][^CE] z | x6 | x6 | x6 | x6 | x6 | %86
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 |[K:G] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %104
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %117
+V:4
+ z3 |[K:G][M:6/8][Q:1/4=160] [G,,,G,,] z/ [G,,D,] z/ | [D,,D,] z/ [D,A,] z/ | %3
+ [G,,,G,,] z/ [G,,D,] z/ | [D,A,] z/ [D,,D,] z/ | [G,,,G,,] z/ [G,,D,] z/ | %6
+ [G,,,G,,] z/ [G,,D,] z/ | [G,,,G,,] z/ [G,,D,] z/ | [G,,,G,,] z/ [G,,D,] z/ | %9
+ [G,,,G,,] z/ [G,,C,E,] z/ | [G,,,G,,] z/ [G,,D,] z/ | [D,,D,] z/ [D,A,] z/ | %12
+ [G,,,G,,] z/ [G,,D,] z/ | [D,,D,] z/ [D,A,] z/ | [G,,,G,,] z/ [G,,D,] z/ | %15
+ [G,,,G,,] z/ [G,,D,] z/ | [G,,,G,,] z/ [G,,D,] z/ | [G,,,G,,] z/ [G,,C,E,] z/ | %18
+ [G,,,G,,] z/ [G,,D,] z/ | E,, z/ E, z/ | F,, z/ F, z/ | [A,,,A,,] z/ [A,,E,] z/ | %22
+ [D,,D,] z/ [E,,E,] z/ | [D,G,B,] z/ [D,A,C] z/ | [G,,,G,,] z/ [G,,D,] z/ | [D,,D,] z/ [D,A,] z/ | %26
+ [G,,,G,,] z/ [G,,D,] z/ | [D,A,] z/ [D,,D,] z/ | [G,,,G,,] z/ [G,,D,] z/ | %29
+ [G,,,G,,] z/ [G,,D,] z/ |[K:B] B,, z/ B, z/ | B,, z/ B, z/ | B,, z/ B, z/ | B,, z/ B, z/ | %34
+ F,, z/ F, z/ | F,, z/ F, z/ | F,, z/ F, z/ | F,, z/ F, z/ | B,, z/ B, z/ | B,, z/ B, z/ | %40
+ B,, z/ B, z/ | B,, z/ B, z/ | F,, z/ F, z/ | F,, z/ F, z/ | F,, z/ F, z/ | F,, z/ F, z/ | %46
+ F,, z/ F, z/ | F,, z/ F, z/ | B,,, z/ B,, z/ | B,,, z/ B,, z/ |[K:G] [G,,,G,,] z/ [G,,D,] z/ | %51
+ [G,,,G,,] z/ [G,,D,] z/ | [G,,,G,,] z/ [G,,C,E,] z/ | [G,,,G,,] z/ [G,,D,] z/ | %54
+ [D,,D,] z/ [D,A,] z/ | [G,,,G,,] z/ [G,,D,] z/ | [D,,D,] z/ [D,A,] z/ | [G,,,G,,] z/ [G,,D,] z/ | %58
+ [G,,,G,,] z/ [G,,D,] z/ | [G,,,G,,] z/ [G,,D,] z/ | [G,,,G,,] z/ [G,,C,E,] z/ | %61
+ [G,,,G,,] z/ [G,,D,] z/ | E,, z/ E, z/ | F,, z/ F, z/ | [A,,,A,,] z/ [A,,E,] z/ | %65
+ [D,,D,] z/ [E,,E,] z/ | [D,G,B,] z/ [D,A,C] z/ | [G,,,G,,] z/ [G,,D,] z/ | [D,,D,] z/ [D,A,] z/ | %69
+ [G,,,G,,] z/ [G,,D,] z/ | [D,A,] z/ [D,,D,] z/ | [G,,,G,,] z/ [G,,D,] z/ | %72
+ [G,,,G,,] z/ [G,,D,] z/ |[K:B] B,, z/ B, z/ | B,, z/ B, z/ | B,, z/ B, z/ | B,, z/ B, z/ | %77
+ F,, z/ F, z/ | F,, z/ F, z/ | F,, z/ F, z/ | F,, z/ F, z/ | B,, z/ B, z/ | B,, z/ B, z/ | %83
+ B,, z/ B, z/ | B,, z/ B, z/ | F,, z/ F, z/ | F,, z/ F, z/ | F,, z/ F, z/ | F,, z/ F, z/ | %89
+ F,, z/ F, z/ | F,, z/ F, z/ | B,,, z/ B,, z/ | B,,, z/ B,, z/ |[K:G] [G,,,G,,] z/ [G,,D,] z/ | %94
+ [G,,,G,,] z/ [G,,D,] z/ | [G,,,G,,] z/ [G,,C,E,] z/ | [G,,,G,,] z/ [G,,D,] z/ | %97
+ [D,,D,] z/ [D,A,] z/ | [G,,,G,,] z/ [G,,D,] z/ | [D,,D,] z/ [D,A,] z/ | [G,,,G,,] z/ [G,,D,] z/ | %101
+ [G,,,G,,] z/ [G,,D,] z/ | [G,,,G,,] z/ [G,,D,] z/ | [G,,,G,,] z/ [G,,C,E,] z/ | %104
+ [G,,,G,,] z/ [G,,D,] z/ | E,, z/ E, z/ | F,, z/ F, z/ | [A,,,A,,] z/ [A,,E,] z/ | %108
+[Q:1/4=120] [D,,D,] z/ [E,,E,] z/ |[Q:1/4=160] [D,G,B,] z/ [D,A,C] z/ | [G,,,G,,] z/ [G,,D,] z/ | %111
+ [D,,D,] z/ [D,A,] z/ | [G,,,G,,] z/ [G,,D,] z/ | [D,A,] z/ [D,,D,] z/ | [G,,,G,,] z/ [G,,D,] z/ | %115
+ [G,,,G,,] z/ [G,,D,] z/ |[Q:1/4=60] [G,,,G,,] z2 |] %117

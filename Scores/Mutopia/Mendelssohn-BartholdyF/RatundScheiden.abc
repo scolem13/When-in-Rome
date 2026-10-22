@@ -1,0 +1,40 @@
+% Gottes Rat und Scheiden: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1707
+% Licence: Creative Commons Attribution 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Gottes Rat und Scheiden
+C:Felix Mendelssohn Bartholdy (1809–1847), 1839
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 bass nm="men:Tenor" snm="V"
+V:2 bass 
+V:3 treble nm="women:Sopran" snm="V"
+V:4 treble 
+V:1
+ x3 [CA,] | [CG,]3/2 [CF,]/ [CF,] [CA,] | [CB,]3/2 [B,B,,]/ [B,B,,] [DB,] | %3
+ [DB,] [CA,] [B,G,] [A,F,] | C3/2 C/ [CF,] [CA,,] | [DB,,] [CC,] [CF,] [CA,,] | %6
+ [DB,,] [CC,] [CF,] [CF,] | [DD,] [CE,] [A,F,] [FD,] | [EG,]3/2 [DG,]/ [DG,] [D=B,,] | %9
+ [CC,] [FD,] [EE,] [DE,] | [DF,]3/2 [CF,]/ [CF,] [CA,,] | [DB,,] [CC,] [CF,] [CA,,] | %12
+ [DB,,] [CC,] [CF,] [CF,] | [CC,]3- [CC,] | [CF,]3 [CA,] | [CG,]3/2 [CF,]/ [CF,] [CA,] | %16
+ [CB,]3/2 [B,B,,]/ [B,B,,] [DB,] | [G,E,] [A,_G,] [B,=G,] [A,F,] | [G,E,] [CC,] [CF,] [_DE,] | %19
+ [=D=D,] [A,E,] [A,F,] [FD,] | [EG,]3/2 [DG,]/ [DG,] [=B,F,] | [CE,] [CF,] [CG,] [F_A,] | %22
+ [F=A,]3 [EA,] | [EA,]2 z [CA,,] | [DB,,] [CC,] [CF,] [CA,,] | [DB,,] [CC,] [CF,] [CA,,] | %26
+ [CC,]2 [CC,]- [CC,] | [CF,]3 x |] %28
+V:2
+ x x3 | z4 | z4 | z4 | E, C, z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %18
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z3 x |] %28
+V:3
+ x3 [cF] | [BF]3/2 [AF]/ [AF] [fF] | [eF]3/2 [dF]/ [dF] [dF] | [GE] [A_G] [B=G] [dA] | %4
+ c3/2 B/ [AF] [cF] | G3/2 B/ [AF] [cF] | G3/2 B/ [AF] [AF] | [fF] [eG] d- A | %8
+ [cG]3/2 [=BG]/ [BG] [GF] | [eE] [d=B] c- _A | [=B_A]3/2 =A/ A [cF] | G3/2 _B/ [AF] [cF] | %12
+ G3/2 B/ [AF] [AF] | G3 B | [AF]3 [cF] | [BF]3/2 [AF]/ [AF] [fF] | [eF]3/2 [dF]/ [dF] D | %17
+ D C B, [dD] | c3/2 B/ [AF] [AG] | [fF] [eG] d- A | [cG]3/2 [=BG]/ [BG] [dG] | [gG] [fA] [eG] =B | %22
+ [dA]3 [cA] | [cA]2 z [cF] | G3/2 B/ [AF] [cF] | G3/2 B/ [AF] [cF] | G3 B | [AF]3 x |] %28
+V:4
+ x x3 | z4 | z4 | z4 | G E z2 | F E z2 | F E z2 | z2 A d/c/ | z4 | z2 =A c/=B/ | z4 | F E z2 | %12
+ F E z2 | F2 E- E | z4 | z4 | z4 | z4 | G E z2 | z2 A d/c/ | z4 | z7/2 d/ | z4 | z4 | F E z2 | %25
+ F E z2 | F2 E- E | z3 x |] %28

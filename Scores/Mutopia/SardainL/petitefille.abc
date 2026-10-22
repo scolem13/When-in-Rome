@@ -1,0 +1,428 @@
+% La petite fille aux allumettes: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1199
+% Licence: Creative Commons Attribution 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:La petite fille aux allumettes (1)
+C:SardainL
+%%score ( 1 2 ) 3 4 5
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 bass nm="basse" snm="B"
+V:2 bass 
+V:3 treble nm="soprano" snm="S"
+L:1/8
+V:4 treble nm="alto" snm="A"
+L:1/8
+V:5 bass nm="tenor" snm="T"
+V:1
+ x3 A,, | ^C, =C, _B,, A,, | ^C, =C, _B,, A,,/=B,,/ | C,3/2 B,,/ C,- C, | B,,/C,/ ^C, _B,, A,, | %5
+ ^C, =C, _B,, A,, | ^C, =C, _B,, A,,/=B,,/ | C,3/2 B,,/ C,- C, | B,,/C,/ ^C, _B,, A,, | %9
+ ^C, =C, _B,, A,, | ^C, =C, _B,, A,,/=B,,/ | C,3/2 B,,/ C,- C, | B,,/C,/ ^C, B,, ^F,,- | %13
+ F,,3- F,,- | F,,3- F,, | ^F, =F, E, ^D, | =D, ^C, =C, B,,- | B,,3- B,,- | B,, ^G,, ^C, ^F, | %19
+ =F, E, ^D, =D, | ^C, =C, _B,,/A,,/ G,,- | G,, A,, _B,, =B,,- | B,, ^C, D, G,,- | %23
+ G,, A,, _B,, [^D,,^D,]- | [D,,D,] [F,,F,] [G,,G,] ^G,,- | ^G,,3 A,,- | A,,3- A,,- | A,,3 B,,- | %28
+ B,,3 E, | ^G, =G, F, E, | ^G, =G, F, E, | F, G, F, E, | D, C, _B,, A,, | ^C, =C, _B,, A,, | %34
+ ^C, =C, _B,, A,,/=B,,/ | C,3/2 B,,/ C,- C, | B,,/C,/ ^C, _B,, A,, | ^C, =C, _B,, A,, | %38
+ ^C, =C, _B,, A,,/=B,,/ | C,3/2 B,,/ C,- C, | B,,/C,/ ^C, _B,, A,, | ^C, =C, _B,, A,, | %42
+ ^C, =C, _B,, A,, | ^C, =C, _B,, x |] %44
+V:2
+ x x3 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %19
+ z4 | z4 | z4 | z4 | z4 | z3 ^G, | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %38
+ z4 | z4 | z4 | z4 | z4 | z3 x |] %44
+V:3
+ x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | G3 ^G =G2- G^G | _B^G =G3 A B2- | B=B _B3 =B ^cB | %12
+ _B=B _B^G =GF ^FF | ^c3 d c=c ^c^F | A4 ^F2- F2- | F6- F2- | F6 ^GA | B3 c ^G2- GA | %18
+ Bc B2 A^G AG | ^F3 A F2- FA | ^FA F4 G2- | G2 x4 x B, | ^F3 G FD G2- | G2 x4 x ^D | %24
+ _B3 =B _B2 =BB | e3 ^d ^cB =c2- | c6- cc | f3 e dc- cB | AB AG FA B2- | B4- B c B2- | %30
+ B3 c Bc B2- | B6 E2- | E6- E2 | x2 G3 ^G =G2- | G3 ^G =GA _B2- | B=B _B3 =B ^cB | %36
+ _B=B _B^G =GF E2- | E4- E F E2- | E3 F E^F G2- | G^G =G3 ^G _BG | =G^G =GF ED E2- | E4- E F E2- | %42
+ E6- E2- | E6- E2- | E4 x4 |] %45
+V:4
+ x2 | x8 | x8 | x8 | x8 | x2 E3 F E2- | E3 F E^F G2- | G^G =G3 ^G _BG | =G^G =GF ED E2- | %9
+ E x E3 F E2- | E3 F E^F G2- | G^G =G3 ^G _BG | =G^G =GF ED ^C2 | ^F2 =F2 E2 ^D2 | %14
+ =D2 ^C2 =CB, A,2- | A,6- A,2 | B,2 C2 D2- D2- | D2 ^D4 =D2- | D6 ^C2- | C6- C2- | C2 A,4 _B,G, | %21
+ D3 ^D =D^C D2- | D^C B,4 _B,G, | D3 ^D =D_B, ^D2- | D4 F^D E2- | EE B4- B2 | A2 ^G2 ^F2 =F2- | %27
+ FF c2 F2 ^D2- | D6 E2- | E4- E F E2- | E3 F EF E2- | E6- E2- | E2 x4 E2- | E4- E F E2- | %34
+ E3 F E^F G2- | G^G =G3 ^G _BG | =G^G =GF ED E2- | ED E4- E2- | E3 D ^C^D E2- | EF E3 F GF | %40
+ EF ED ^CD E2- | E6- E2- | E4- E F E2- | E6- E2- | E4 x4 |] %45
+V:5
+ x3 ^C, | F, E, D, ^C, | F, E, D, ^C,/^D,/ | E,3/2 ^D,/ E,- E, | ^D,/E,/ F, =D, ^C, | %5
+ F, E, D, ^C, | F, E, D, ^C,/^D,/ | E,3/2 ^D,/ E,- E, | ^D,/E,/ F, =D, ^C, | F, E, D, ^C, | %10
+ F, E, D, ^C,/^D,/ | E,3/2 ^D,/ E,- E, | ^D,/E,/ F, =D, ^C,- | C,3- C,- | C,3 x/ ^F,/ | %15
+ ^C3/2 D/ C/=C/ ^C/^F,/ | A,2 ^F,- F,- | F, A,2 ^F,- | F,2 =F, ^F,- | F,3- F,- | F, D,2 D,- | %21
+ D,/D,/ G,2 ^F,- | F,3 D,- | D,/D,/ G,2 ^F,- | F,/^F,/ ^G, =G, ^G, | B,3/2 B,/ E,- E,/E/ | %26
+ D/C/ B,/C/ B,/A,/- A, | C3/2 C/ F,/G,/ A,/G,/ | F,/G,/ F,/B,/ A,/B,/ ^G, | C B, A, ^G, | %30
+ C B, A, ^G, | A, B, A, ^G, | ^F, E, D, ^C, | =F, E, D, ^C, | F, E, D, ^C,/^D,/ | %35
+ E,3/2 ^D,/ E,- E, | ^D,/E,/ F, =D, ^C, | F, E, D, ^C, | F, E, D, ^C,/^D,/ | E,3/2 ^D,/ E,- E, | %40
+ ^D,/E,/ F, =D, ^C, | F, E, D, ^C, | F, E, D, ^C, | F, E, D, x |] %44
+
+X:2
+T:La petite fille aux allumettes (2)
+C:SardainL
+%%score 1 2 3 4
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="soprano" snm="S"
+V:2 treble nm="alto" snm="A"
+V:3 bass nm="tenor" snm="T"
+V:4 bass nm="basse" snm="B"
+V:1
+ F2 [FA]2 F[FG] [FA]2 | F[FG] [FA][FG] F[FG] [FA]2 | [F_G]2 [GB]2 G[GA] [GB]2 | %3
+ _G[GA] [GB][GA] G[GA] [GB]2 | [_GB][Ac] [Bd]2 [GB][Ac] [Bd]2 | [_GB][Ac] [Bd][ce] [Bd][Ac] [GB]2 | %6
+ [Ac]2 [FA]2 F[F=G] [FA]2 | F[FG] [=EA][EB] [EA][EB] [E_G]2 | [Cc]2 [Fc]6- | [Fc]8 | %10
+ [Fc]2 [_Gd]6- | [Gd]8 | [_Gd]2 [Bd]6- | [Bd]8 | [Ac]2 [=EA]6 | =E2 C4 z2 | z8 | z8 | z8 | z8 | %20
+ z8 | z6 =e2- | e2 c2 cc c2 | cc cc cc c2 | c2 c2 cc c2 | c2 cc cc c2 | c2 A2 FG A2 | FG AG FG A2 | %28
+ _GA B2 GA B2 | _GA BA GA B2 | A2 c2 AB c2 | AB cB AB c2 | Bc d2 Bc d2 | Bc de [d=e][c_e] [Bd]2 | %34
+ c2 A2 =E_G A2 | =E_G AB A=G F2 | z8 | z8 | z8 | z8 | F2 _G2 G2 G2 | _G2 G6 | _G2 G2 =G2 _G2 | %43
+ =G2 =A6 | =A2 A2 A2 A2 | =A2 A6 | =A2 =B2 c2 B2 | c2 =d6 | =dd d2 dd d2 | =dd d2 dd d2 | %50
+ =dd d2 dd d2 | =dd c2 cc c2 | cc c2 cc c2 | cc B2 BB =A2 | GG F2 FF F2 | FF F2 F2 =E2 | %56
+ z =E AA AA A2 | z A AA AA A2 | z A AA AA A2 | A2 AA AA A2 | A2 A2 FG A2 | FG AG FG A2 | %62
+ _GA B2 GA B2 | _GA BA GA B2 | A2 c2 AB c2 | AB cB AB c2 | Bc d2 Bc d2 | Bc de [d=e][c_e] [Bd]2 | %68
+ c2 A2 =E_G A2 | =E_G A2 GA B2 | A2 c6- | c2 z6 |] %72
+V:2
+ F2 C2 CC C2 | CC CC CC C2 | C2 D2 DD D2 | DD DD DD D2 | DD =E2 EE E2 | =EE EE EE E2 | %6
+ =E2 F2 CC C2 | CC CC CC C2 | C2 C6- | C8 | C2 D6- | D8 | D2 _G6- | G8 | =E2 C6 | C2 C4 z2 | z8 | %17
+ z8 | z8 | z6 A2- | A2 =E6- c2- | =E8 c2 A6 | [=EA]2 [EA]2 [EA][EA] [EA]2 | %23
+ [=EA][EA] [EA][EA] [EA][EA] [EA]2 | [=EA]2 [EA]2 [EA][EA] [EA]2 | [=EA]2 [EA][EA] [EA][EA] [EA]2 | %26
+ C2 F2 CC F2 | CC FF CC F2 | FF _G2 DD G2 | DD _GG DD G2 | _G2 A2 F=G A2 | FG AG FG A2 | %32
+ _GA B2 GA B2 | _GA Bc BA G2 | C2 =E2 EE E2 | =EE EE EE F2 | z8 | z8 | z8 | z8 | F2 =D2 D2 D2 | %41
+ =D2 D6 | =D2 _D2 D2 D2 | D2 =E6 | =E2 E2 E2 E2 | =E2 _G6 | _G2 =G2 =A2 G2 | =A2 =B6 | %48
+ =BB =E2 EE E2 | =EE E2 EE E2 | =EE F2 FF F2 | FF F2 FF F2 | FF E2 EE E2 | EE E2 EE E2 | %54
+ EE D2 DD D2 | DD C2 C2 C2 | z C =EE EE E2 | z =E EE EE E2 | z =E EE EE E2 | =E2 EE EE E2 | %60
+ =E2 F2 CC F2 | CC FF CC F2 | FF _G2 DD G2 | DD _GG DD G2 | _G2 A2 F=G A2 | FG AG FG A2 | %66
+ _GA B2 GA B2 | _GA Bc BA G2 | C2 =E2 EE E2 | =EE E2 EE E2 | =E2 F6- | F2 z6 |] %72
+V:3
+ F,2 F,2 F,F, F,2 | F,F, F,F, F,F, F,2 | F,2 F,2 F,F, F,2 | F,F, F,F, F,F, F,2 | %4
+ F,F, F,2 F,F, F,2 | F,F, F,F, F,F, F,2 | F,2 F,2 F,F, F,2 | F,F, _G,G, G,G, B,2 | %8
+ C2 [F,A,]2 F,[F,=G,] [F,A,]2 | F,[F,G,] [F,A,][F,G,] F,[F,G,] [F,A,]2 | %10
+ [F,_G,]2 [G,B,]2 G,[G,A,] [G,B,]2 | _G,[G,A,] [G,B,][G,A,] G,[G,A,] [G,B,]2 | %12
+ [_G,B,][A,C] [B,D]2 [G,B,][A,C] [B,D]2 | [_G,B,][A,C] [B,D][CE] [B,D][A,C] [G,B,]2 | %14
+ [A,C]2 [=E,A,]2 E,[E,_G,] [E,A,]2 | =E,[E,_G,] [E,A,][E,B,] [E,A,][E,=G,] F,2 | z8 | z6 C2- | %18
+ C2 A,6- =E2- | A,8- =E2 C6- | A,8- C8- | A,8 C8 | [A,C]2 [B,D]2 [B,D][B,D] [B,D]2 | %23
+ [B,D][B,D] [B,D][B,D] [B,D][B,D] [B,D]2 | [B,D][B,D] [B,D]2 [B,D]2 [B,D]2 | %25
+ [B,D][B,D] [B,D][B,D] [B,D][B,D] [B,D]2 | C2 C2 A,A, C2 | A,A, CC A,A, C2 | CC D2 B,B, D2 | %29
+ B,B, DD B,B, D2 | D2 C2 CC F2 | CC FF CC F2 | CC _G2 DD G2 | DD =EE EE E2 | C2 C2 A,B, C2 | %35
+ A,B, CC CC C2 | CC C2 CC C2 | CC C2 CC C2 | CC C2 CC C2 | CC C2 CC C2 | CC =B,2 B,B, B,2 | %41
+ =B,B, B,2 B,B, B,2 | =B,B, =A,2 A,A, A,2 | =A,A, D2 DD D2 | DD D2 DD D2 | DD D2 DD D2 | %46
+ DD =D2 DD D2 | =D,D, G,2 G,G, G,2 | G,2 B,2 B,2 B,2 | B,2 B,6 | B,2 =A,2 A,2 A,2 | =A,2 A,6 | %52
+ =A,2 _A,2 A,2 A,2 | A,2 A,4 A,2 | A,2 G,2 G,2 G,2 | G,2 G,6 | z G, CC CC C2 | z C B,B, B,B, B,2 | %58
+ z B, CC CC C2 | C2 B,B, B,B, B,2 | C2 C2 A,A, C2 | A,A, CC A,A, C2 | CC D2 B,B, D2 | %63
+ B,B, DD B,B, D2 | D2 C2 CC F2 | CC FF CC F2 | CC _G2 DD G2 | DD =EE EE E2 | C2 C2 A,B, C2 | %69
+ A,B, C2 B,C D2 | C2 C6- | C2 z6 |] %72
+V:4
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | C,2 [F,,C,]2 [F,,C,][F,,C,] [F,,C,]2 | %9
+ [F,,C,][F,,C,] [F,,C,][F,,C,] [F,,C,][F,,C,] [F,,C,]2 | %10
+ [F,,C,]2 [F,,D,]2 [F,,D,][F,,D,] [F,,D,]2 | %11
+ [F,,D,][F,,D,] [F,,D,][F,,D,] [F,,D,][F,,D,] [F,,D,]2 | %12
+ [F,,D,][F,,D,] [F,,=E,]2 [F,,E,][F,,E,] [F,,E,]2 | %13
+ [F,,=E,][F,,E,] [F,,E,][F,,E,] [F,,E,][F,,E,] [F,,E,]2 | %14
+ [F,,=E,]2 [_G,,C,]2 [G,,C,][G,,C,] [G,,C,]2 | [_G,,C,][G,,C,] C,C, C,C, F,2 | %16
+ [E,F,]2 [D,F,]2 [D,F,][D,F,] [D,F,]2 | [D,F,][D,F,] [D,F,][D,F,] [D,F,][D,F,] [D,F,]2 | %18
+ [D,F,]2 [D,F,]2 [D,F,][D,F,] [D,F,]2 | [D,F,][D,F,] [D,F,][D,F,] [D,F,][D,F,] [D,F,]2 | %20
+ [D,F,]2 [D,F,]2 [D,F,][D,F,] [D,F,]2 | [D,F,][D,F,] [D,F,][D,F,] [D,F,][D,F,] [D,F,]2 | %22
+ [D,F,]2 [D,_G,]2 [D,G,][D,G,] [D,G,]2 | [D,_G,][D,G,] [D,G,][D,G,] [D,G,][D,G,] [D,G,]2 | %24
+ [D,_G,][D,G,] [D,G,]2 [D,G,]2 [D,G,]2 | [D,_G,][D,G,] [D,G,][D,G,] [D,G,][D,G,] [C,G,]2 | %26
+ C,2 F,2 F,F, F,2 | F,F, F,F, F,F, F,2 | F,F, F,2 F,F, F,2 | F,F, =E,E, E,E, E,2 | %30
+ =E,2 F,2 F,F, F,2 | F,F, F,F, F,F, F,2 | F,F, F,2 F,F, F,2 | F,F, C,C, C,C, C,2 | %34
+ C,2 D,2 D,D, D,2 | D,D, C,C, C,C, F,2 | F,F, F,2 F,F, F,2 | F,F, F,2 F,F, F,2 | %38
+ F,F, F,2 F,F, F,2 | F,F, F,2 F,F, F,2 | F,F, =E,2 E,E, E,2 | =E,E, E,2 E,E, E,2 | %42
+ =E,E, E,2 E,E, E,2 | =E,E, E,2 E,E, E,2 | =E,E, =D,2 D,D, D,2 | =D,D, D,2 D,D, D,2 | %46
+ =D,D, D,2 D,D, D,2 | =D,D, D,2 D,D, D,2 | =D,2 C,2 C,2 C,2 | C,2 C,6 | C,2 C,2 C,2 C,2 | C,2 C,6 | %52
+ C,2 C,2 C,2 C,2 | C,2 C,4 C,2 | C,2 C,2 C,2 C,2 | C,2 C,6 | z C, D,D, D,D, D,2 | %57
+ z D, _G,G, G,G, G,2 | z _G, D,D, D,D, D,2 | D,2 C,C, C,C, C,2 | C,2 F,2 F,F, F,2 | %61
+ F,F, F,F, F,F, F,2 | F,F, F,2 F,F, F,2 | F,F, =E,E, E,E, E,2 | =E,2 F,2 F,F, F,2 | %65
+ F,F, F,F, F,F, F,2 | F,F, F,2 F,F, F,2 | F,F, C,C, C,C, C,2 | C,2 D,2 D,D, D,2 | %69
+ D,D, _G,2 G,G, G,2 | _G,2 F,6- | F,2 z6 |] %72
+
+X:3
+T:La petite fille aux allumettes (3)
+C:SardainL
+%%score 1 2 3 4
+L:1/8
+Q:1/4=60
+M:6/4
+I:linebreak $
+K:Amin
+V:1 treble nm="soprano" snm="S"
+V:2 treble nm="alto" snm="A"
+V:3 treble nm="tenor" snm="T"
+V:4 bass nm="basse" snm="B"
+V:1
+ E^F G3 G FG F2 F2 | E^F G3 G FG F4 | GA _B2 BB AB A2 A2 | GA =B3 B _B=B ^c4 | B^c d4 c2 e3 d | %5
+ ^cB c8- c2 | ^F^G A4 G2 B3 A | ^GA G8- G2- | G2 ^c2 =c2 _B2 A4 | =G2 ^F8 z2 | %10
+ _Bc ^c3 c =c^c =c2 c2 | _Bc ^c3 c =c^c c3 c | =c^c ^d3 d =d^d d2 d2 | =d^d f3 f ef f4 | %14
+ ^df ^f4 =f2 ^g3 ^f | =f^d f8- f2 | f^c _B4 =c2 ^d3 ^c | =c^c =c8- c2- | c2 f2 e2 d2 ^c4 | %19
+ B2 _B8 z2 | ^DF ^F3 F =F^F =F2 F2 | ^DF ^F3 F =F^F F4 | =F^F ^G3 G =G^G F2 F2 | %23
+ ^FF F2 FF =F^F F4 | ED C4 B,2 D3 C | B,C B,8- B,2 | E^F G4 F2 A3 G | ^FG F8- F2- | %28
+ F2 B2 _B2 ^G2 =G4 | =F2 E8- E2- | E2 B2 _B2 ^G2 =G4 | F2 E8 z2 |] %32
+V:2
+ EE E3 E EE D2 D2 | DD ^C3 C CC =C4 | CC G2 GG GG G2 G2 | GG G3 G GG ^F4 | ^G=G ^F4 F2 =F3 F | %5
+ FF ^G6 ^F4 | ^FF F4 F2 F3 F | ^FF F8- F2- | F2 ^F6 =F4- | F2 ^F8 z2 | ^FF _B3 B BB G2 G2 | %11
+ GG _B3 B BB A3 A | AA _B3 B BB =B2 B2 | BB B3 B BB _B4 | _BB B4 B2 A3 A | AA c6 _B4 | %16
+ _BB ^F4 F2 E3 E | EE =F8- F2- | F2 ^F6 =F4- | F8- F2 z2 | FF ^D3 D DD D2 D2 | ^DD D3 D DD =D4 | %22
+ DD ^C3 C CC C2 C2 | ^CC B,2 B,B, B,B, _B,4 | _B,B, A,4 A,2 A,3 A, | A,A, A,6 ^G,4 | %26
+ EE E4 E2 E3 E | EE E6 ^D4- | D2 E6 ^D4- | D2 E8- E2- | E2 E6 ^D4- | D2 E8 z2 |] %32
+V:3
+ B,B, B,3 B, B,B, _B,2 B,2 | _B,B, A,3 A, A,A, A,4 | A,A, D2 DD DD ^D2 D2 | ^DD E3 E B,B, _B,4 | %4
+ E_B, =B,4 B,2 ^C3 C | ^CC C6 ^D4 | ^DD =D4 D2 ^D3 D | ^DD =D8- D2- | D2 D6 ^C4- | C2 ^C8 z2 | %10
+ ^CC F3 F FF E2 E2 | EE F3 F FF ^F3 F | ^FF G3 G GG F2 F2 | ^FF F3 F FF D4 | DD ^D4 D2 =F3 F | %15
+ FF ^F6 G4 | GG ^C4 C2 _B,3 B, | _B,B, B,6 A,4- | A,2 _B,6 A,4- | A,2 _B,8 z2 | %20
+ _B,B, B,3 B, B,B, A,2 A,2 | A,A, _B,3 B, B,B, ^G,4 | ^G,G, A,3 A, A,A, A,2 A,2 | %23
+ A,A, =G,2 G,G, G,G, E,4 | C,C, F,4 F,2 F,3 F, | F,F, E,8- E,2 | CC C4 C2 C3 C | CC B,8- B,2- | %28
+ B,2 C6 B,4- | B,2 C8- C2- | C2 C6 B,4- | B,8- B,2 z2 |] %32
+V:4
+ E,E, E,3 E, E,E, E,2 E,2 | E,E, E,3 E, E,E, E,4 | E,E, G,2 G,G, G,G, G,2 G,2 | %3
+ G,G, E,3 E, E,E, E,4 | ^F,F, B,4 B,2 B,3 B, | B,B, A,8- A,2 | A,A, D4 D2 C3 C | CC C8- C2- | %8
+ C2 B,6 ^C4- | C2 ^F,8 z2 | ^F,F, _B,3 B, B,B, ^C2 C2 | ^CC _B,3 B, B,B, ^F,3 F, | %12
+ ^F,F, ^D,3 D, D,D, =B,2 B,2 | B,B, A,3 A, A,A, _B,4 | _B,B, =B,4 B,2 B,3 B, | B,B, _B,8- B,2 | %16
+ _B,B, ^F,4 F,2 F,3 F, | ^F,F, =F,8- F,2- | F,2 ^D,6 F,4- | F,2 _B,,8 z2 | %20
+ _B,,B,, =B,,3 B,, B,,B,, F,2 F,2 | F,F, B,,3 B,, B,,B,, E,4 | E,E, A,,3 A,, A,,A,, D,2 D,2 | %23
+ D,D, G,,2 G,,G,, G,,G,, C,4 | C,C, F,4 F,2 ^D,3 D, | ^D,D, E,8- E,2 | CC C4 C2 _B,3 B, | %27
+ _B,B, =B,8- B,2- | B,2 A,6 B,4- | B,2 C6 _B,4- | B,2 A,6 =B,4- | B,2 E,8 z2 |] %32
+
+X:4
+T:La petite fille aux allumettes (4)
+C:SardainL
+%%score 1 2 3 4
+L:1/16
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:Dmin
+V:1 treble nm="soprano" snm="S"
+V:2 treble nm="alto" snm="A"
+V:3 bass nm="tenor" snm="T"
+L:1/8
+V:4 bass nm="basse" snm="B"
+L:1/8
+V:1
+ ABAGFG A6 | ABAGFG A6 | ABAGAB cdcBAG | ABAGFG E6 | ABAGFG A6 | ABAGFG A6 | ABAGAB cBA2G2 | %7
+ F2 E4 D6 | ABAGFG A6 | ABAGFG A6 | ABAGAB cdcBAG | ABAGFG E6 | ABAGFG A6 | ABAGFG A6 | %14
+ ABAGAB cBA2G2 | F2 E4 D6 | B=B_B_A_GA B6 | =ABA=GFG A6 | B=B_B_A_GA B2B2_e2 | _g2 f4 _e6 | %20
+ B=B_B_A_GA B6 | =ABA=GFG A6 | ABAGFG ABcBAG | ABAGFG A6 | ABAGFG A6 | ABAGFG A6 | ABAGAB cBA2G2 | %27
+ F2 E4 D6 |[K:Bbmin] FGFEDE D6 | FGFEDE D6 | A2E2A2 E2A2E2 | FGFEDE F6 | FGFEDE D6 | FGFEDE D6 | %34
+[K:Dmin] A2F2A2 F2A2F2 | DEFGAB A6 | cd_edc=B c6 | cd_edc=B c6 | cd_edc=B cdedcB | cd_efed _d6 | %40
+ =d8- d2 d2 | d8- d2 d2 | d12- | d6 d6 | d8- d2 d2 | d8- d2 d2 | d8 d2d2 | d2 _d4 =d6 | ABAGFG A6 | %49
+ ABAGFG A6 | ABAGAB cdcBAG | ABAGFG E6 | ABAGFG A6 | ABAGFG A6 | ABAGAB cBA2G2 | F2 E4 D6 |] %56
+V:2
+ D8- D2 D2 | D8- D2 D2 | D12- | D6 D6 | D8- D2 D2 | D8- D2 D2 | D8 D2D2 | D2 _D4 =D6 | D8- D2 D2 | %9
+ D8- D2 D2 | D12- | D6 D6 | D8- D2 D2 | D8- D2 D2 | D8 D2D2 | D2 _D4 =D6 | _E8- E2 E2 | D8- D2 D2 | %18
+ _E8 E2_G2 | B2 _A4 _G6 | _E8- E2 E2 | D8- D2 D2 | FGFEDE FGAGFE | FGFEDE _D6 | =D8- D2 D2 | %25
+ D8- D2 D2 | D8 D2D2 | D2 _D4 =D6 |[K:Bbmin] D4 D2 FGFEDE | D6 FGFEDF | E2=B,2E2 B,2E2B,2 | %31
+ DEDC_B,C =A,6 | D4 D2 FGFEDE | D6 FGFEDF |[K:Dmin] F2D2F2 D2F2D2 | D_D=DEFG F6 | c4 c2 cd_edc=B | %37
+ c6 cd_edc=B | A=BcBA_A =ABcBA_A | =A=BcdcB A6 | A_BAGFG A6 | ABAGFG A6 | ABAGAB cdcBAG | %43
+ ABAGFG E6 | ABAGFG A6 | ABAGFG A6 | ABAGAB cBA2G2 | F2 E4 D6 | D8- D2 D2 | D8- D2 D2 | D12- | %51
+ D6 D6 | D8- D2 D2 | D8- D2 D2 | D8 D2D2 | D2 _D4 =D6 |] %56
+V:3
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | F,4- F, E, | F,4 E,G, | F,2 G, A,2 F, | F, G,2 A,2 A, | %12
+ F,4- F, E, | F,3 E,F,G, | F,4 F,G, | A, A,2 A,3 | _G,4- G, G, | F,4- F, F, | _G,4 G,B, | %19
+ B, B,2 B,2 B, | _G,4- G, G, | F,4- F, F, | A,6- | A,3 A,3 | F,4- F, E, | F,3 E,F,G, | F,4 F,G, | %27
+ A, A,2 A,3 |[K:Bbmin] F,F,F, F,F,F, | F,F,F, F,F,F, | G,G,G, G,G,G, | F,F,F, F,2 F, | %32
+ F,F,F, F,F,F, | F,F,F, F,F,F, |[K:Dmin] A,A,A, A,A,A, | A,A,A, A,2 A, | G,G,G, G,G,G, | _EEE EEE | %38
+ =B,B,B, B,B,B, | =B,B,B, A,3 | F,4- F, E, | F,4 E,G, | F,2 G, A,2 F, | F, G,2 A,2 A, | %44
+ F,4- F, E, | F,3 E,F,G, | F,4 F,G, | A, A,2 A,3 | F,4- F, E, | F,4 E,G, | F,2 G, A,2 F, | %51
+ F, G,2 A,2 A, | F,4- F, E, | F,3 E,F,G, | F,4 F,G, | A, A,2 A,3 |] %56
+V:4
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | D,4- D, D, | D,4- D, D, | D,4- D, D, | B,,2 B,, A,,2 A,, | %12
+ D,4- D, D, | D,4- D, D, | D,4 D,B,, | A,, A,,2 D,3 | _E,4- E, E, | D,4- D, D, | _E,4 E,E, | %19
+ B,, B,,2 _E,2 B,, | _E,4- E, E, | D,4- D, D, | A,,6- | A,,3 A,,3 | D,4- D, D, | D,4- D, D, | %26
+ D,4 D,B,, | A,, A,,2 D,3 |[K:Bbmin] B,,B,,B,, B,,B,,B,, | B,,B,,B,, B,,B,,B,, | %30
+ =B,,B,,B,, B,,B,,B,, | _B,,B,,B,, F,,2 F,, | B,,B,,B,, B,,B,,B,, | B,,B,,B,, B,,B,,B,, | %34
+[K:Dmin] D,D,D, D,D,D, | D,D,D, D,2 D, | C,C,C, C,C,C, | _A,A,A, A,A,A, | E,E,E, E,E,E, | %39
+ E,E,E, A,,3 | [D,,D,]4- [D,,D,] [D,,D,] | [D,,D,]4- [D,,D,] [D,,D,] | [D,,D,]4- [D,,D,] [D,,D,] | %43
+ B,,2 B,, A,,2 A,, | [D,,D,]4- [D,,D,] [D,,D,] | [D,,D,]4- [D,,D,] [D,,D,] | [D,,D,]4 [D,,D,]B,, | %47
+ A,, A,,2 [D,,D,]3 | D,4- D, D, | D,4- D, D, | D,4- D, D, | B,,2 B,, A,,2 A,, | D,4- D, D, | %53
+ D,4- D, D, | D,4 D,B,, | A,, A,,2 D,3 |] %56
+
+X:5
+T:La petite fille aux allumettes (5)
+C:SardainL
+%%score 1 2 3 4
+L:1/8
+Q:1/4=60
+M:7/8
+I:linebreak $
+K:Eb
+V:1 treble nm="soprano" snm="S"
+V:2 treble nm="alto" snm="A"
+V:3 bass nm="tenor" snm="T"
+L:1/16
+V:4 bass nm="basse" snm="B"
+L:1/4
+V:1
+ z B z B z B z |[M:4/4] z B z B B2 z2 |[M:7/8] z B z B z B z | z B z B z B z | z B z B z B z | %5
+ z _d z d z d z | [B=d][Bd] [Bd][Bd] [cd][cd] z | [Bd][Bd] [Bd][Bd] [cd][cd]d | %8
+[M:4/4] cB AB cB cd | =ed cB c2 c2 |[M:7/8] [Ac][Ac] [Ac][Ac] [Bc][Bc] z | %11
+ [Ac][Ac] [Ac][Ac] [Bc][Bc]c |[M:4/4] BA _GA BA Bc | B A _G A3 B2 [AB]2 |[M:7/8] z B z B z B z | %15
+[M:4/4] z B z B B2 z2 |[M:7/8] z B z B z B z | z B z B z B z | z B z B z B z | z _d z d z d z | %20
+ [B=d][Bd] [Bd][Bd] [cd][cd] z | [Bd][Bd] [Bd][Bd] [Bd][Bd]d | eB z B B2 z |] %23
+V:2
+ z G z G z A z |[M:4/4] z G z G A2 z2 |[M:7/8] z G z G z A z | z G z G z A z | z G z G z A z | %5
+ z B z B z B z | GG GG AA z | GG GG AAA |[M:4/4] AG FG AG AB | cB AG A2 A2 |[M:7/8] FF FF _GG z | %11
+ FF FF _GGG |[M:4/4] _GF EF GF GA | =GF EF D2 D2 |[M:7/8] z G z G z A z |[M:4/4] z G z G A2 z2 | %16
+[M:7/8] z G z G z A z | z G z G z A z | z G z G z A z | z B z B z B z | GG GG AA z | GG GG AAA | %22
+ GG z A G2 z |] %23
+V:3
+ z14 |[M:4/4] z16 |[M:7/8] G,A,B,2 G,A,B,2 G,A,B,C_DC | B,=A,2<B,2 A,G,A, B,6 | %4
+ G,_A,B,2 G,A,B,2 G,A,B,C_DC | B,C2<_D2 CDC D4 z2 | z14 | z14 |[M:4/4] z2 C2 z2 C2 z2 C2 z2 C2 | %9
+ z2 C2 z2 C2 z2 C2 z2 C2 |[M:7/8] z14 | z14 |[M:4/4] z2 B,2 z2 B,2 z2 B,2 z2 B,2 | %13
+ z2 B,2 z2 B,2 =E,4 E,4 |[M:7/8] z14 |[M:4/4] z16 |[M:7/8] G,A,B,2 G,A,B,2 G,A,B,C_DC | %17
+ B,=A,2<B,2 A,G,A, B,6 | G,_A,B,2 G,A,B,2 G,A,B,C_DC | B,C2<_D2 CDC D4 z2 | z14 | z12 B,2 | %22
+ G,A,B,2 G,A,B,A, G,4 z2 |] %23
+V:4
+ E, B,, =E, B,,/ |[M:4/4] _E, B,, =E, z |[M:7/8] _E, B,, =E, B,,/ | _E, B,, =E, B,,/ | %4
+ _E, B,, =E, F,/ | _G, _D, G, z/ | z7/2 | z7/2 |[M:4/4] F, C, F, C, | F, C, F, C, |[M:7/8] z7/2 | %11
+ z7/2 |[M:4/4] E, B,, E, B,, | =E, B,, B,, B,, |[M:7/8] _E, B,, =E, B,,/ |[M:4/4] _E, B,, =E, z | %16
+[M:7/8] _E, B,, =E, B,,/ | _E, B,, =E, B,,/ | _E, B,, =E, F,/ | _G, _D, G, z/ | z7/2 | z3 B,/ | %22
+ E, B,, E, z/ |] %23
+
+X:6
+T:La petite fille aux allumettes (6)
+C:SardainL
+%%score 1 2 3 4
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="soprano" snm="S"
+V:2 treble nm="alto" snm="A"
+V:3 treble nm="tenor" snm="T"
+V:4 bass nm="basse" snm="B"
+V:1
+ B3 B | B2 A2 | B3 B | B2 G2 | G F G F | G F G F | G4 | A2 F2 | B3 B | B2 A2 | B3 B | B2 G2 | %12
+ G F G F | G F G F | G4- | G2 B2 | =c ^c =c ^A | =c d ^A2 | =c ^c =c ^A | =c d ^A2 | =c2 ^A2 | %21
+ =c2 ^A2 | G4 | G2 F2 | G3 B | B2 A2 | G3 B | B2 G2 | G F G F | G F G F | E B, F E | G4 |] %32
+V:2
+ G3 G | G2 F2 | G3 G | G2 E2 | E D E D | E D E D | E4 | E2 D2 | G3 G | G2 F2 | G3 G | G2 E2 | %12
+ E D E D | E D E D | E4- | E3 G | G ^A G =G | ^G =c =G2 | ^G ^A G =G | ^G =c =G2 | ^G2 =G2 | %21
+ ^G2 =G2 | D4- | D4 | E3 G | G2 F2 | E3 G | G2 E2 | E D E D | E D E D | E4 | E4 |] %32
+V:3
+ z B, F E | D2 C =C | B, B, F E | D2 C =C | ^C4 | =C4 | B, B, F E | D C =C B, | z B, F E | %9
+ D2 C =C | B, B, F E | D2 C =C | ^C4 | =C4 | B, B, F E | B,2 G, B, | D2 =F2- | F3 D | D2 =G2- | %19
+ G2 =F E | =F4 | D3 C | =C4 | B,2 A,2 | z B, F E | D2 C =C | B, B, F E | D2 C =C | ^C4 | =C2 B,2 | %30
+ B,4 | B,4 |] %32
+V:4
+ E,3 E, | E,2 E,2 | E,3 E, | E,2 E,2 | A,4 | A,4 | E,4 | F,2 B,,2 | E,3 E, | E,2 E,2 | E,3 E, | %11
+ E,2 E,2 | A,4 | A,4 | E,4 | E,4 | D,4- | D,4 | D,4- | D,4 | D,4- | D,4 | G,,3 A,, | B,,4 | %24
+ E,3 E, | E,2 E,2 | E,3 E, | E,2 E,2 | A,4 | A,2 B,2 | E,4 | [E,,E,]4 |] %32
+
+X:7
+T:La petite fille aux allumettes (7)
+C:SardainL
+%%score 1 2 3 4 5
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="fille"
+L:1/8
+V:2 treble nm="soprano" snm="S"
+V:3 treble nm="alto" snm="A"
+V:4 treble nm="tenor" snm="T"
+V:5 bass nm="basse" snm="B"
+V:1
+ z8 | z6 A2 | c4- c A Bc | c6 AB | c2 c2 c2 c2 | c4 F2 GA | B6 B2 | A6 F2 | A2 A2 A2 A2 | %9
+ G4 A2 B2 | c4- c A Bc | c6 AB | c2 c2 d2 c2 | c4 F2 GA | B4 B2 B2 | A6 F2 | A2 A2 A2 A2 | A4 G4 | %18
+ F4 z2 DE | F2 ED E2 DE | F2 ED E2 DE | F2 F2 F2 F2 | F6 FG | A2 GF G2 FG | A2 GF G2 FG | %25
+ A2 A2 A2 A2 | A6 A2 | c3 c BA GA | B4 BG GA | B3 B AG FG | A4 A2 D2 | F4- F _D _EF | F6 F2 | %33
+ A4- A F GA | A6 A2 | c6 A2 | c6 c2 |] %37
+V:2
+ A4- | A4- | A4- | A4- | A4- | A2 F2 | G4 | A4 | F4 | F2 E2 | A4- | A4- | A4- | A2 F2 | G4 | A4 | %16
+ F4- | F2 E2 | F2 E2 | F2 E2 | F2 E2 | F4- | F4- | F2 G2 | A2 G2 | A2 A2 | A4 | A4 | B4 | G4 | A4 | %31
+ F4- | F4- | F4- | F4 | A4 | G3 c |] %37
+V:3
+ F4- | F4- | F4 | E4 | _E4 | D2 F2- | F4- | F4 | D4 | C4 | F4 | E4 | _E4 | D2 F2- | F4- | F4 | D4 | %17
+ D2 E2 | F2 _D2 | =D4- | D4- | D2 E2 | E2 D2 | C2 E2 | F2 _E2 | F2 =E2 | E4 | G2 _G2 | A =G _G F | %29
+ F2 E2 | E2 F2 | _D4 | C2 _D2 | =D4 | C4 | E4 | F2 E c |] %37
+V:4
+ C4- | C4- | C4- | C4- | C4 | B,4 | _D4 | C4 | G,4- | G,2 C2 | C4- | C4- | C4 | B,2 D2 | _D4 | %15
+ C4- | C4 | B,4 | A,4 | A,2 _A,2 | =A,2 _A,2 | =A,4- | A,2 D2 | C2 _D2 | =D2 A,2 | D4 | D2 _D2 | %27
+ C2 =D2 | D4 | B,2 C2 | C2 D2 | B,2 F,2 | F,2 A,2 | A,4- | A,4- | A,4 | A,2 B, C |] %37
+V:5
+ F,4- | F,4- | F,4- | F,4- | F,4 | B,4 | B,,4 | C,4 | =B,,4 | C,2 C2 | F,4- | F,4- | F,4 | B,4 | %14
+ B,,4 | C,4- | C,4- | C,4 | F,2 A,,2 | D,4- | D,4- | D,2 _D,2 | =D,4 | F,4- | F,4 | B,4 | A,4 | %27
+ _E,2 D,2 | G,4 | _D,2 C,2 | F, E, =D, C, | B,,4 | A,,4 | D,4 | _E,4 | =E,4 | D,2 C, C |] %37
+
+X:8
+T:La petite fille aux allumettes (8)
+C:SardainL
+%%score 1 2 3 4 5
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="fille"
+V:2 treble nm="soprano" snm="S"
+L:1/8
+V:3 treble nm="alto" snm="A"
+L:1/8
+V:4 bass nm="tenor" snm="T"
+V:5 bass nm="basse" snm="B"
+V:1
+ c4 |] %1
+V:2
+ c>d c>d e4 | c>d c>d e4 | d2 c2 B4 | B8 | A>B A>B c4 | A>B A>B c4 | B2 A2 G4 | G8 | F>G F>G A4 | %9
+ A>B A>B c4 | B2 c2 d4 | e8 | =e>f e>f e4 | f>g f>g f2 _ed | c6 c2 | B4 B4 |[K:F] A>B A>B c4 | %17
+ A>B A>B c4 | B2 A2 G4 | G8 | F>G F>G A4 | F>G F>G A4 | G2 F2 E4 | E8 | D>E D>E F4 | F>G F>G A4 | %26
+ G2 A2 B4 | c8 | _d>=d _d>=d _d4 | =d>e d>e d2 cB | A6 A2 | G8 | F8- | F8- | F8 |] %35
+V:3
+ A>B A>B c4 | A>B A>B c4 | B2 A2 A4 | A4 G4 | F>G F>G A4 | F>G F>G A4 | G2 F2 F4 | F4 =E4 | %8
+ F>_E D>E F4 | F>G F>G A4 | A2 A2 A4 | A4 G4 | c>=d c>d c4 | _d>e d>e d2 cB | A6 A2 | A4 G4 | %16
+[K:F] F>G F>G A4 | F>G F>G A4 | G2 F2 F4 | F4 E4 | D>E D>E F4 | D>E D>E F4 | E2 D2 D4 | D4 _D4 | %24
+ =D>C B,>C D4 | D>E D>E F4 | F2 F2 F4 | F4 E4 | A>=B A>B A4 | _B>c B>c B2 AG | F6 F2 | F4 E4 | %32
+ F8- | F8- | F8 |] %35
+V:4
+ E2 E2 | F C A,2 | D D F2 | E4 | C2 C2 | D A, F,2 | B, B, D2 | C4 | A,2 A,/>B,/ A,/>B,/ | %9
+ A,2 A,/>B,/ A,/>E,/ | F, F, B,2 | B,4 | B,2 B,2 | A,2 B,2 | A,3 A, | B,2 E2 |[K:F] C2 C2 | %17
+ D A, F,2 | B, B, D2 | C4 | A,2 A,2 | B, F, D,2 | G, G, B,2 | A,4 | F,2 F,/>G,/ F,/>G,/ | %25
+ F,2 F,/>G,/ F,/>C,/ | D, D, G,2 | G,4 | G,2 G,2 | F,2 G,2 | F,3 F, | G,2 B,2 | %32
+ A,/>B,/ A,/>B,/ C2 | A,/>B,/ A,/>B,/ C B, | A,4 |] %35
+V:5
+ A,2 G,2 | F,2 E,2 | B,, C, D,2 | E,4 | F,2 E,2 | D,2 C,2 | G,, A,, B,,2 | C,4 | D,2 D,2 | %9
+ C,2 A,,2 | D, D, B,,2 | E,3 D, | C,2 C,2 | D,2 D,2 | E,3 E, | E,2 E,2 |[K:F] F,2 E,2 | D,2 C,2 | %18
+ G,, A,, B,,2 | C,4 | D,2 C,2 | B,,2 A,,2 | E,, F,, G,,2 | A,,4 | B,,2 B,,2 | A,,2 F,,2 | %26
+ B,, B,, G,,2 | C,3 B,, | A,,2 A,,2 | B,,2 B,,2 | C,3 C, | C,2 C,2 | F,2 _E,2 | D,2 _D,2 | %34
+ [F,,C,]4 |] %35
+
+X:9
+T:La petite fille aux allumettes (9)
+C:SardainL
+%%score 1 2 3 4
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:none
+V:1 bass nm="tenor" snm="T"
+V:2 bass nm="basse" snm="B"
+V:3 treble nm="alto" snm="A"
+L:1/8
+V:4 treble nm="soprano" snm="S"
+L:1/8
+V:1
+ ^C, F, E, D, | ^C, F, E, D, | ^C,/^D,/ E,3/2 D,/ E,- | E, ^D,/E,/ F, =D, | ^C, F, E, D, | %5
+ ^C, F, E, D, | ^C,/^D,/ E,3/2 D,/ E,- | E, ^D,/E,/ F, =D, | ^C, F, E, D, | ^C, F, E, D, | %10
+ ^C,/^D,/ E,3/2 D,/ E,- | E, ^D,/E,/ F, =D, | ^C, F, E, D, | ^C, F, E, D, | ^C, F, E, D, | z4 | %16
+ ^C, F, E, D, | ^C, F, E, D, | ^C, F, E, D, | ^C,4 |] %20
+V:2
+ A,, ^C, =C, _B,, | A,, ^C, =C, _B,, | A,,/=B,,/ C,3/2 B,,/ C,- | C, B,,/C,/ ^C, _B,, | %4
+ A,, ^C, =C, _B,, | A,, ^C, =C, _B,, | A,,/=B,,/ C,3/2 B,,/ C,- | C, B,,/C,/ ^C, _B,, | %8
+ A,, ^C, =C, _B,, | A,, ^C, =C, _B,, | A,,/=B,,/ C,3/2 B,,/ C,- | C, B,,/C,/ ^C, _B,, | %12
+ A,, ^C, =C, _B,, | A,, ^C, =C, _B,, | A,, ^C, =C, _B,, | z4 | A,, ^C, =C, _B,, | %17
+ A,, ^C, =C, _B,, | A,, ^C, =C, _B,, | A,,4 |] %20
+V:3
+ z4 E3 F | E4- E F E^F | G3 ^G =G3 ^G | _B^G =G^G =GF ED | E3 z E3 F | E4- E F E^F | G3 ^G =G3 ^G | %7
+ _B^G =G^G =GF ED | E3 D E4- | E4- E D ^C^D | E3 F E3 F | GF EF ED ^CD | E8- | E7 F | E8 | z8 | %16
+ E8- | E7 F | E8- | E8 |] %20
+V:4
+ z8 | z8 | z8 | z8 | z2 G3 ^G =G2- | G^G _BG =G3 A | _B3 =B _B3 =B | ^cB _B=B _B^G =GF | E7 F | %9
+ E4- E F E^F | G3 ^G =G3 ^G | _B^G =G^G =GF ED | E7 F | E8- | E8 | z8 | E7 F | E8- | E8- | E8 |] %20

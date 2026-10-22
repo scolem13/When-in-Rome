@@ -1,0 +1,51 @@
+X:1
+T:6 Songs, Op.7
+T:Die Trauernde
+C:Johannes Brahms
+Z:Volkslied
+Z:OpenScore (CC0)
+Z:
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=68
+M:3/4
+I:linebreak $
+K:C
+U:s=!stemless!
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+L:1/4
+V:4 bass 
+L:1/4
+V:1
+"^Langsam"!p! A2 |:"^espressivo" c4 B2 | A A E2 z2 | F F G2 A A | E4 z2 | c4 B B | A A E2 z2 | %7
+w: Mei|Mue- ter|mag mi net,|und kei Schatz han i|net,|ei war- um,|sterb i net,|
+w: |Ge- *|Kirch- weih g’wä,||g’seh,|denn mir ischs|gar so weh,|
+ F2 G2 A2 | E6 | z6 :|!p!"^sostenuto"!<(! c4 (.d!<)! .d) |!f! (.e!>(! .e) ^c4!>)! | %12
+w: was tu i|do?||Lasst die drei|Ro- se stehn,|
+w: i tanz ja|net.||||
+!p!!<(! =c4 (.d!<)! .d) |!f! (.e .e)!>(! ^c4!>)! |!p! =c4 B B | A A E2 z2 |"^dim." F2 G2 A2 | E6 | %18
+w: die an dem|Kreuz- le blühn:|hent ihr das|Mäd- le kennt,|die drun- ter|liegt?|
+w: ||||||
+ z6 |] %19
+w: |
+w: |
+V:2
+ x2 |: x4 B B | x6 | F2 G G sA sA | x6 | x6 | x6 | x6 | x6 | x6 :| x6 | x6 | x6 | x6 | x6 | x6 | %16
+w: ||||||||||||||||
+w: |stern isch||mi hot mer g’wis net|||||||||||||
+ x6 | x6 | x6 |] %19
+w: |||
+w: |||
+V:3
+ z |: ([Ac]2 [GB] | [FA] E2) | ([DF] [C-G] [CA]) | (([CE] [B,E]2)) | ([Ac]2 [GB] | [FA] E2) | %7
+ ([DF] [CG] [B,A]) | ([B,E-] [CE]2) | ([E-^GBe-] [EAce]2) :|"^sostenuto" [Ac]2 [Ad] | [^ce] c2 | %12
+ [A=c]2 [Ad] | [^ce] c2 | ([EA=c]2 [DGB] | [CFA] [CE]2) | ([DF] [CG] [B,A]) | ([B,E-] [CE]2) | %18
+ ([E-^GBe-] [EAce]2) |] %19
+V:4
+ z |:!p! ([A,E]2 [B,D] | [F,C] [A,C]2) | ([D,A,] [E,G,] F,) | ([E,-A,] [E,^G,]2) | ([A,E]2 [B,D] | %6
+ [F,C-] [C,G,C]2) | ([D,A,] [E,G,] F,) |!>(! ([E,-^G,] [E,A,]2)!>)! |!pp! ([E,,E,-] [A,,E,]2) :| %10
+!p!!<(! [A,E]2!<)! [A,F] |!f!!>(! ([A,-^CA-] [A,EA]2)!>)! |!p!!<(! [A,E]2 [A,F]!<)! | %13
+!f!!>(! ([A,-^CA-] [A,EA]2)!>)! |[K:bass]!p! (A, A,, B,, | [F,,C,-] [C,,G,,C,]2) | %16
+"_dim." ([D,,A,,] [E,,G,,] F,,) |!>(! (([E,,^G,,]!>)! [E,,A,,]2)) |!pp! E,,- [A,,,E,,A,,]2 |] %19

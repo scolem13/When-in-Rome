@@ -1,0 +1,31 @@
+X:1
+T:Nouveau Concert, ou Les Goûts-Réunis no. 12
+T:Pointé-coulé
+C:François Couperin
+%%score { 1 | 2 }
+L:1/4
+M:3/2
+I:linebreak $
+K:A
+V:1 alto nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ E,2 | A, G, A, B, C D | PB,2 E,2 E2 | PD C B, C D E | PC2({B,} A,2) E,2 | A, G, A, B, C D | %6
+ PB,2({A,} G,2)({G,} MA,2) |$ B,3/2 PB,3 A,3/2 |$ A,4 E2 | F E D (F PE) D | E2 A,2 C2 | %11
+ D C B, (D PC) B, | C B, C ^D E F | P^D C D E F G |$ E ^D E F G A | PF E F G A B | PG F E F G A |$ %17
+{A} (MB6{A/G/F/E/} | (P^D3/2) E/ PE3 D/E/) | (F G/4F/G/4 PG3 F/G/) |({G} MA3) C ^D B, | %21
+ (E3/2 (3F/4E/4F/4) PF3 E | E2 z4 |$ z E D C B, D | (C3/2 (3D/4C/4D/4) PD3 C |$ %25
+ (B,3/2 (3C/4B,/4C/4 PC3 B,) | (A,3/2 (3B,/4A,/4B,/4 PB,3 A,) | PG,3/2 (3(G/4F/4G/4 PG3 F/G/) | %28
+ A3/2 E/ M=G3 A | (PF A) (G B) (E2 | PD3/2) C/ PB,3 A, |$ A, E D C B, D |$ %32
+ (C3/2 B,/4A,/4 PG,3 F,/)G,/ | A, E D C B, D | C2 (PC3 B,/C/) | D2 (PD3 C/D/) | E2 (PE3 D/E/) | %37
+ F2 (PF3 E/F/) |$ G2 (PG3 F/G/) |({G} MA4-) A3/2 G/ |$ F/E/D/C/ PB,3 A, | !fermata!A,6 :| %42
+V:2
+ z2 | z4 A,,2 | E, D, E, F, G, E, | F,2 G,2 E,2 | A,2 A,,2 z2 | z4 A,,2 | E, F, E, D, C, B,, |$ %7
+ A,,2 E,2 E,,2 |$ A,,4[K:alto] C2 | D C B, (D PC) B, | C B, C D E C | F E D (F PE) D | %12
+ E2 A,3[K:bass] A,, | B,,2 B,3 B,, |$ C,2 C3 C, | ^D,2 B,3 B,, | E,6- |$ E, ^D, E, F, G, A, | %18
+ (B,6{A,/G,/F,/E,/} | ^D,2) =D,4 | PC, B,, A,,3 A, | G,3/2 A,/ B,2 B,,2 | E, E D C B, D |$ %23
+ (C2 PB,) A, G, B, | A, =G, F, E, F, D, |$ =G, F, E, D, E, C, | F, E, D, C, D, B,, | %27
+ E,3/2 E,/ D, C, B,, D, | PC,3 A, B, C | D C B, D (C2{B,2A,2} | G,3/2) A,/ E,2 E,,2 |$ %31
+ A,, C B, A, G, B, |$ A, E D C B, D | (C3/2 B,/4A,/4) (PG,3 F,/G,/) | A,2 (PA,3 G,/A,/) | %35
+ B,2 (PB,3 A,/B,/) | C D C B, C A, | D E D C D B, |$ E F E D E C | F E D C D2 |$ D,2 E,2 E,,2 | %41
+ !fermata!A,,6 :| %42

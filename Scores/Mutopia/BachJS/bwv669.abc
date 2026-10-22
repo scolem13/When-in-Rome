@@ -1,0 +1,79 @@
+% Kyrie, Gott Vater in Ewigkeit: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1274
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Kyrie, Gott Vater in Ewigkeit
+C:Johann Sebastian Bach
+%%score 1 ( 2 3 ) 4 5 6
+L:1/4
+Q:1/4=60
+M:4/2
+I:linebreak $
+K:Cmin
+V:1 treble nm="Recorder" snm="Rec"
+V:2 treble nm="right" snm="P Org"
+V:3 treble 
+V:4 treble nm="left" snm="P Org"
+V:5 bass nm="Pipe Organ" snm="P Org"
+V:6 bass nm="Tuba" snm="Tba"
+V:1
+ z8 | z8 | z8 | z8 | z4 b4 | c'4 d'4- | d'8 | z8 | z8 | z8 | z8 | c'3 d' e'4 | e'4 d'4 | c'4 c'4 | %14
+ b8 | z8 | z8 | z8 | c'4 c'4 | b4 a4 | g4 g4 | f8 | z8 | z8 | z8 | f4 c'4 | c'4 b4 | c'4 d'4 | %28
+ e'4 d'4 | c'8 | b8 | z8 | z8 | z8 | z8 | z4 b4 | a4 b4 | c'4 b4- | b4 a4 | g8- | g8- | %41
+ g8[Q:1/4=116][Q:1/4=76][Q:1/4=48] |] %42
+V:2
+ z4 F2 G2 | A3 G/F/ G =A B2- | B3 _A G F G2 | F2 E3 D/C/ D G- | G F B, C/D/ B4 | c4 d4- | %6
+ =A2 d8 B2 c3 B/ A/ | B c d4- d c | B =A B2 A d G c- | c B =A d B G F E | D2 =E2 F3 _E/D/ | %11
+ c3 d _e4 | e4 d4 | [Bc] c3 c4 | [AB]6 B2 | F2 G2 A3 G/F/ | G =A B4- B _A | G F G2 F G/A/ G F | %18
+ c4 c4 | B4 A4 | [CG]3 G G4 | F8 | C3 =B,/C/ =D4- | D C2 =B, C c F2- | F G C D/=E/ F G A G | %25
+ F2 F4- F _E/D/ | c4 B4 | c4 d4 | [Ae]3 e d4 | c7 c | B4- B B3 | F2 z3 B A G | %32
+ F G A2- A/ B/A/G/ A B | c2 z2 F2 E2 | D3 E/F/ E _D C2- | C3 =D B4 | A2 A3 B B2 | c4 B4- | %38
+ [BGFG]4 G F/G/ F _E | G8- | [GEF]2 G6- | E G8 D[Q:1/4=116] E2[Q:1/4=76][Q:1/4=48] D4 |] %42
+V:3
+ x8 | x8 | x8 | x8 | z4 E F/G/ F2 | E3 F/E/ D =E _G =G | x16 | x8 | x8 | x8 | x8 | E F G4- G F | %12
+ E D E F G =A B2- | z =A B3 _A/G/ A2- | z6 G2 | x8 | x8 | x8 | =E C D E F2 _E2 | _D3 E/F/ E D C2- | %20
+ z3 =D =E F E2 | z3 _E _D4 | x8 | x8 | x8 | z =E z2 c4 | _E2 z2 E2 F2 | G3 F/E/ F G A2- | %28
+ z3 G F E F G | E F G2 F G =A z | F E D _A2 z/ A/ G2 | x8 | x8 | x8 | x8 | z4 =E F E2 | %36
+ F G z2 B z/ c/ z A | G F =E F2 E/D/ E F | z4 A4 | D2 E2 F3 E/D/ | z7 F | x16 |] %42
+V:4
+ B,2 C2 D3 C/B,/ | C D E4- E D | C B, C2 B,2 E2- | E D G, =A, B, F, B,2 | _A,3 G,/F,/ G, =A, B,2- | %5
+ B, =A,/G,/ A,2 B, z3 | z D C B, =A, D/C/ D z | G2 F2 E3 F/G/ | F E D4- D =E | %9
+ _G =G _G2 =G _E D C | B, =A, G, C2 D G, A,/=B,/ | C D E G, C =B, C2- | C3 _B,/=A,/ B, C D E/F/ | %13
+ G2 C4 z F/E/ | F D E F B,2 E2- | E D2 _D C2 =D2 | E3 D/C/ D =E F2- | F3 _E _D C D2 | %18
+ C =E F G C2 z2 | F,2 G,2 A,3 G,/F,/ | G, A, B,4- B, =A,/G,/ | =A, B, C4- C B, | %22
+ _A, G, A,3 D, G, F, | E,2 F,2 G,2 =A,2 | B,3 _A,/G,/ A, B, C2- | C3 B, A, G, A,2 | %26
+ G, E, A,3 G, F, B,- | B, A,/G,/ A,3 z3 | B,2 C2 D3 C/B,/ | C D E4- E D/C/ | D E F4- F E | %31
+ D B, C D E B, E2- | E3 D/C/ D =E F2- | F _E/D/ E C D3 C | B,2 A,2 G,3 A,/B,/ | %35
+ A, G, F,2 G,/A,/B,/_D/ C/B,/A,/G,/ | F,2 z C F2 z2 | z B,/C/ B, A, G,3 F, | C _D2 C2 =D/E/ D C | %39
+ =B,2 C2 D3 C/B,/ | C D E4- E D | C =B,[Q:1/4=116] C2[Q:1/4=76] _G,[Q:1/4=48] [B,=G,]4 |] %42
+V:5
+ z8 | z8 | z8 | B,,2 C,2 D,3 C,/B,,/ | C, D, E,4- E, D, | C, B,, C,2 B,, B, =A, G, | %6
+ _G, D, =G,3 _G,/=E,/ G,2 | =G, =A, B, =B, C C,/_B,,/ C, =A,, | D, C, B,, =A,, G,, _G,, B,,2 | %9
+ =A,, =G,, D, D,, G,,2 A,,2 | B,,3 =A,,/G,,/ A,, =B,, C,2- | C,3 _B,, _A,, G,, A,,2 | %12
+ G,,2 z2 G,2 F,2 | =E,3 F,/G,/ F, _E, D,2- | D, B,, C, D, E, F, G, =A, | %15
+ B,, B,/=A,/ B, =E, z F,/E,/ F, B,, | _E, F, G, E, F,2 F,,2 | C,2 C4 B,2- | %18
+ B,2 A, G, A, F, G, =A, | _D, C, B,, C,/D,/ C, F,, F,2- | F, =E,/=D,/ E, G, C, B,, C, _D, | %21
+ _E,2 =A,,2 B,, C, _D, E, | F, E, =D, C, =B,,2 z2 | C,2 D,2 E,3 D,/C,/ | D, =E, F,4- F, _E, | %25
+ _D, C, D,2 C,4- | C, B,, C, =D, E,3 D, | =E, C, F,3 B,, B, A, | G, F, _E,2 B,4- | %29
+ B,3 =A,/G,/ A, C F, E, | D, C, B,, C,/D,/ E, F, G, =A, | B,2 _A,2 G,3 A,/B,/ | A, G, F,4- F, G, | %33
+ =A, B, A,2 B, D, G,2- | G, F,/E,/ F, B,, E,2 =E, C, | F,, G,, A,, B,,/A,,/ G,,2 z2 | %36
+ F,2 E,2 D,3 =E,/F,/ | =E, D, C,4- C, D, | =E, F, E,2 F, F,, F,2- | %39
+ F, _E, D, C, =B,, =B,/=A,/ B, G, | C3 C,/=B,,/ C, D, E, F, | %41
+ G,4[Q:1/4=116][Q:1/4=76][Q:1/4=48] G,,4 |] %42
+V:6
+ z8 | z8 | z8 | B,,,2 C,,2 D,,3 C,,/B,,,/ | C,, D,, E,,4- E,, D,, | %5
+ C,, B,,, C,,2 B,,, B,, =A,, G,, | _G,, D,, =G,,3 _G,,/=E,,/ G,,2 | %7
+ =G,, =A,, B,, =B,, C, C,,/_B,,,/ C,, =A,,, | D,, C,, B,,, =A,,, G,,, _G,,, B,,,2 | %9
+ =A,,, =G,,, D,, D,,, G,,,2 A,,,2 | B,,,3 =A,,,/G,,,/ A,,, =B,,, C,,2- | %11
+ C,,3 _B,,, _A,,, G,,, A,,,2 | G,,,2 z2 G,,2 F,,2 | =E,,3 F,,/G,,/ F,, _E,, D,,2- | %14
+ D,, B,,, C,, D,, E,, F,, G,, =A,, | B,,, B,,/=A,,/ B,, =E,, z F,,/E,,/ F,, B,,, | %16
+ _E,, F,, G,, E,, F,,2 F,,,2 | C,,2 C,4 B,,2- | B,,2 A,, G,, A,, F,, G,, =A,, | %19
+ _D,, C,, B,,, C,,/D,,/ C,, F,,, F,,2- | F,, =E,,/=D,,/ E,, G,, C,, B,,, C,, _D,, | %21
+ _E,,2 =A,,,2 B,,, C,, _D,, E,, | F,, E,, =D,, C,, =B,,,2 z2 | C,,2 D,,2 E,,3 D,,/C,,/ | %24
+ D,, =E,, F,,4- F,, _E,, | _D,, C,, D,,2 C,,4- | C,, B,,, C,, =D,, E,,3 D,, | %27
+ =E,, C,, F,,3 B,,, B,, A,, | G,, F,, _E,,2 B,,4- | B,,3 =A,,/G,,/ A,, C, F,, E,, | %30
+ D,, C,, B,,, C,,/D,,/ E,, F,, G,, =A,, | B,,2 _A,,2 G,,3 A,,/B,,/ | A,, G,, F,,4- F,, G,, | %33
+ =A,, B,, A,,2 B,, D,, G,,2- | G,, F,,/E,,/ F,, B,,, E,,2 =E,, C,, | %35
+ F,,, G,,, A,,, B,,,/A,,,/ G,,,2 z2 | F,,2 E,,2 D,,3 =E,,/F,,/ | =E,, D,, C,,4- C,, D,, | %38
+ =E,, F,, E,,2 F,, F,,, F,,2- | F,, _E,, D,, C,, =B,,, =B,,/=A,,/ B,, G,, | %40
+ C,3 C,,/=B,,,/ C,, D,, E,, F,, | G,,4[Q:1/4=116][Q:1/4=76][Q:1/4=48] G,,,4 |] %42

@@ -1,0 +1,31 @@
+X:1
+T:Jesu, der du meine Seele
+T:Jesu, der du meine Seele
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ e e B c | d c/B/ B !fermata!A | c c B A | ^G A !fermata!B2 :| B c d/c/ B | c B/A/ A !fermata!G | %6
+ c d e/d/ c | f e d !fermata!c | B c d e | d c !fermata!B2 | A B c/B/ d | c B/A/ !fermata!A2 || %12
+V:2
+ AB c2 B2 A^G | AB A2- A^G !fermata!E2 | E2 A=G F E2 D | D E/F/ E^F !fermata!^G4 :| ^G2 A2 A2 =G2 | %5
+ G^F G2 F2 !fermata!D2 | C2 G2 G2 AG | AB c2 B2 !fermata!G2 | G2 FE D2 GA | B2 A2 !fermata!^G4 | %10
+ A=G FE EF ED | E2- E>D !fermata!^C4 || %12
+V:3
+ cB A2 e2 e2 | dB cd e2 !fermata!c2 | cB A2- A^G A2 | B c/d/ c e/^d/ !fermata!e4 :| e2 e2 =d2 d2 | %5
+ cd e2 dc !fermata!B2 | e2 B2 cB A2 | d2 G2 gf !fermata!e2 | d2 c2 gf e2 | f2 e2 !fermata!e4 | %10
+ e2 d2 cd ^GA | A2 ^G2 !fermata!E4 || %12
+V:4
+ A,,2 A,2 ^G,2 ^F,E, | ^F,^G, A,2 E,2 !fermata!A,,2 | A,=G, =F,E, D,E, F,2 | %3
+ B,,2 C,A,, !fermata!E,4 :| E,2 A,=G, ^F,D, G,F, | E,2 D,C, D,2 !fermata!G,,2 | A,2 G,F, E,2 F,E, | %7
+ D,2 E,F, G,2 !fermata!C,2 | G,2 A,2 B,2 CB, | A,^G, A,2 !fermata!E,4 | C,B,, A,,^G,, A,,D, E,F, | %11
+ E,D, E,2 !fermata!A,,4 || %12

@@ -1,0 +1,73 @@
+X:1
+T:Songs of a “Flapper”
+T:In the garden
+C:Liza Lehmann
+Z:Liza Lehmann
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 7 ) | ( 4 6 ) }
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble 
+L:1/8
+V:3 treble nm="Piano"
+L:1/8
+V:5 treble 
+V:7 treble 
+L:1/8
+V:4 bass 
+V:6 bass 
+V:1
+"^Moderato" z | z4 | z2 !fermata!z"^semplice" F | B c d e/ f/ | B2 !breath!F E/ F/ | B c d f/ d/ | %6
+w: ||The|white rose nods to the|musk- rose, And the|musk- rose nods to the|
+ !breath!G3 G | e d c F | e d c/ B/ c/ A/ | !>!d3/4 A/4 !breath!A B G | %10
+w: white, But|I am friends with|ev- ’ry flow- er, And I|nod to them left and|
+ !breath!d3"^poco cresc." F | B c/ d/ f d | B/4 d7/4 !breath!c!<(! F | B c/ d/!<)! f/ d3/2 | %14
+w: right. Oh,|tall is the ti- ger-|li- * ly, And|state- ly the hol- ly-|
+ !breath!G3!pp! G | e d c F | e d/ e/ c/ B/ c/ A/ | d A B/ A/ G | d3 z/"^cresc. e poco accel." F/ | %19
+w: – hock, But|I love best the|dear lit- tle dai- sy In her|sim- ple work- a- day|frock. Hal-|
+ B3/2 c/ (3d e f | B2 !breath!F B/ B/ | =B3/2 d/ g3/2 d/ | !breath!G3"^rall. con intenzione" G | %23
+w: – lo! ‘Red Ad- mir- al’|there sir, You are|ear- ly out to-|– day! And|
+ !>!e d !>!!breath!c B/ A/ |!p! (b2 B2-) |"^a tempo" B z z"^vivace" F |!<(! !>!f3!<)! .e/ .d/ | %27
+w: I am too, so be-|ware, sir,|_ For|this is a|
+ !>!c/ B/ B3- | B/ z/ z z2 |] %29
+w: ho- li- day!|_|
+V:2
+ x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x3 =B d3 d | x8 | x8 | B4 x4 | x8 | x8 | x8 | x8 |] %29
+V:3
+!mp! (F2- |!<(! B2 c2 d2 f2!<)! | b2 ag!>(! !fermata![cef]2-!>)! [cef]) z | B2 c2 d2 ef | %4
+ B4 F2 EF | B2 c2 d2 fd | [Fg]8 | [EGe]4 [Fc]4 | [Ge]4 cBcA | [^Fd]4 B2 G2 | %10
+ [^Fd]4"_poco cresc." [D=F]2 [C_E]2 | B2 cd f2 d2 | b2 ag f2!<(! DC | B2 cd!<)! f2 d2 | %14
+!>(! [Fg]8!>)! | [EGe]4 [Fc]4 | [ge']4 c'bc'a | [^fd']4 ba g2 | [^fd']4 [d=f]3 e | %19
+ [DFBd]4 !trill(!Tb4 | b4!trill)!({ab} f') z [B,DFB]2 | [=B,DF=B]4 !trill(!Td'4 | %22
+ d'4!trill)!({^c'd'} g') z"^rall." z2 | !>![ce]2 d2 !>![FAc]2 BA | %24
+"^L.H."!p! !arpeggio!b4 [B,DGB]4 |"_cresc. a tempo" !>!B2 !>!c!>!d !>!f2 z2 | %26
+!<(! (3.b2 .c'2 .d'2!<)! !>!.f'2 z2 | [B,DFB]4- [B,DFB]!f!!8va(! (c'/d'/ e'/f'/g'/a'/ | %28
+ b')!8va)! z z2 [B,D]4 |] %29
+V:4
+!ped! z | [F,B,]4!ped-up! | %2
+"^rall." !arpeggio![G,,E,B,]2 !arpeggio!!fermata![A,,F,C]"^a tempo" D/C/ | [B,,F,B,]2 [A,B,D]2 | %4
+ [G,B,]2 A, F, | [B,,F,]2 [_A,B,D]2 | [G,D]4 | [C,G,C]2 [E,A,]2 | [C,G,C]2 A,/B,/C/A,/ | %9
+ [D,A,D]2 G,/A,/ B, | [D,A,]2 [=F,,=F,]2 | !arpeggio![B,,,F,,D,]2 [A,B,D]2 | [G,B,E]2 [A,CE] z | %13
+ !arpeggio![B,,,F,,D,]2 [_A,CD]2 | [G,D]4 | [C,G,C]2 [E,A,]2 |[K:treble] [CGc]2 A/B/c/A/ | %17
+ A2 G/A/ B | A2[K:bass] [F,,,F,,]2 |({/B,,,-} ([B,,,F,,D,]2)[I:staff -1] [_A,B,DF]2) | %20
+ [DF_AB]3[I:staff +1] [_A,,,_A,,] | ([G,,,G,,]2[I:staff -1] [CDF!courtesy!=A]2) | [=B,DFG]4 | %23
+[I:staff +1] !arpeggio!!>![C,,G,,E,]2 !>![E,,E,]2 | [D,,D,]2 [G,,D,G,]2 | %25
+ !>![F,,D,F,] !>!C/!>!D/ !>!F z |"^vivace"[I:staff -1] (3.B .c .d !>!.f[I:staff +1] z | %27
+ !arpeggio![B,,,F,,D,]2[K:treble] [GBce]2 | [FBd]2[K:bass] [B,,,F,,B,,]2 |] %29
+V:5
+ x | [DF]2 [FB]2 | B A/G/ F- F/ x/ | [DF]2 [FB]2 | E2 D C | [B,D]2 [FB]2 | (c2 =B2) | x4 | E2 G2 | %9
+ x2 D =E | D2 A,2 | [B,DF]2 [FB]2 | B A/G/ [Fce] z | [B,DF]2 [Fc]2 | (c2!pp! =B2) | x4 | e2 g2 | %17
+ d2 d =e | d2 F"_cresc. e poco accel." _E | x4 | x4 | x4 | x4 | E D C B,/A,/ | [B,FAB]2 x2 | %25
+ [B,DF] z z2 | x4 | x5/2!8va(! x3/2 | x2!8va)![I:staff +1] [D,F,]2 |] %29
+V:6
+ x | B,,2 A,,2 | x2 x z | x4 | x4 | x4 | (C2 =B,2) | x4 | x2 E,2 | x2 D,2 | x4 | x4 | x4 | x4 | %14
+ (C2 =B,2) | x4 |[K:treble] x2 E2 | D2 D2 | D2[K:bass] x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %27
+ x2[K:treble] x2 | x2[K:bass] x2 |] %29
+V:7
+ x2 | x8 | e4 x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | e4 x4 | x8 | x8 | x8 | x8 | x8 | %18
+ x4 A4 | x8 | x8 | x8 | x8 | G4 x4 | x8 | x8 | x8 | x5!8va(! x3 | x!8va)! x7 |] %29

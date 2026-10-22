@@ -1,0 +1,54 @@
+% Allegro: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=160
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Allegro
+C:Georg Friedrich Händel (1685-1759)
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=112
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="up" snm="Hpschd"
+V:2 treble 
+L:1/8
+V:3 bass nm="down" snm="Hpschd"
+V:4 bass 
+L:1/8
+V:1
+ dAde defd eAef efge | f2A z d6 _d=d _d=de_d | =dAde fgaf bdbd bdbd | eGAB cdec acac acac | %4
+ dFGA Bcdf gabg efge | _degb a=dg_d fd=dG FdE_d | [FA=d]4 z2 [DA]2 [GA]4 z2 [_DE]2 | %7
+ A=DA=B ABcA BEBc BcdB | c z A z c4 a2_a2 z2 [a=B]2 | aece Aaeg [Adf]4 z2 f z | %10
+ gd=Bd Ggdf [Gce]4 z eAe | fAfA fAfA =BDEF GABG | eGeG eGeG ACDE FGAF | defd =BcdB _ABdf e=Ad_A | %14
+ c_A=AD CA=B,_A =ACDE z EAc | _GAc_e d=Gc_G _BD=EG =GABG | EGBd cFBE A4 f4- | %17
+ [fB] B3 e4 fcAc FAGF | cGcd cdec dAde defd | eGA=B cdec acac acac | _Baga _bagf gBgB gBgB | %21
+ Agfg agfe fAfA fAfA | Gfef gfed efge cdec | ABcA FGAF Ddcd BcdB | Gede cdec Afef defd | %25
+ Bgfg efge caga Bbag | caga Bbag aefA GfeB | fcAc FAGF [EG]4 z4 | gdBd GBAG [FA]4 z4 | %29
+ ae_de Agfe f2A z =d4- | [dg]4 _d4 aA=Bd =defd | _bdbd bdbd eGA_B cdec | acac acac dFGA Bcdf | %33
+ gabg efge _degb a=dg_d | fABg eGAf =dcBA GFED | _DEGB A=DG_D FD=DG, F,DE,_D | %36
+ =D4- D FED [EG_d]4 [DFA=d]2>E2 | [DF]4 [_DE]4 [F,A,=D]8 |] %38
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | z4 =D_D z2 | x8 | E2 z =a/ z/ d2 z2 | x8 | x8 | x8 | x8 | x8 | x8 | %15
+ x8 | z4 z c z c/ z/ | z f/ z3/2 G/ z4 z/ | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %29
+ z7 a/ z/ | z3 e z4 | x8 | x8 | x8 | x8 | x8 | z/ A,/B,/_G,/ =G,2 z4 | A,3 G, z4 |] %38
+V:3
+ z16 | DA,DE DEFD EA,EF EFGE | F z D z3 D2 G, z A, z B, z G, z | C z C, z3 C2 F, z G, z A, z F, z | %4
+ B, z B,, z3 B,2 E, z F, z G, z E, z | A, z G2 F2E2 D2G,2 A,2A,, z | %6
+ D,A,,D,E, D,E,F,D, E,A,,E,F, E,F,G,E, | A,4 C4 =B,4 [E_A,]4 | A,E,A,=B, A,B,CA, B,E,B,C B,CDB, | %9
+ C4 z2 C z DA,F,A, D,DA,C | =B,4 z2 B, z CG,E,G, C, z C2 | D, z E, z F, z D, z G, z G,, z3 G,2 | %12
+ C, z D, z E, z C, z F, z F,, z3 F,2 | =B,, z C, z D, z B,, z E, z D2 C2=B,2 | %14
+ A,2D,2 E,2E,,2 A,,4 A,4 | D, z C2 B,2A,2 G, z G,, z3 G,2 | C,2B,2 A,2G,2 F,C,F,G, F,G,A,F, | %17
+ G,C,G,A, G,A,B,G, A, z F, z A, z B, z | E4 C8 [=B,G,]4 | C2G,2 E,2C,2 F, z G, z A, z F, z | %20
+ D, z B, z3 D,2 E, z F, z G, z E, z | C, z A, z3 C,2 D, z E, z F, z D, z | %22
+ B,, z G, z3 B,,2 C, z D, z E, z C, z | F, z F,, z A,, z F,, z B,,B,A,B, G,A,B,G, | %24
+ E,CB,C A,B,CA, F,DCD B,CDB, | G,EDE CDEC A,FEF G,GFE | A,FEF G,GFE F2D2 B,2C z | %27
+ F,4 z4 CG,E,G, C,E,D,C, | G,,4 z4 DA,F,A, D,F,E,D, | A,,4 z4 DA,DE DEFD | EA,EF EFGE F z D z3 D2 | %31
+ G, z A, z B, z G, z C z C, z3 C2 | F, z G, z A, z F, z B, z B,, z3 B,2 | %33
+ E, z F, z G, z E, z A, z G,2 F,2E,2 | D,2D2 C2C,2 B,,4 E,4 | %35
+ A,,4 F,2E, z D, z G,, z A,, z A,,, z | [D,,D,]4 z2 B,,2 [E,G,A,,]4 [D,F,A,,]2>G,,2 | %37
+ A,,8 [D,D,,]8 |] %38
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | F,D, =A,4 z2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 | CG, A,E, F,D, z2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %34
+ z4 z D,/ z3/2 G,, | z E, z6 | x8 | z2 A,,,2 z4 |] %38

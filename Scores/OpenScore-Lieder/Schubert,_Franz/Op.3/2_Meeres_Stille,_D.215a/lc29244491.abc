@@ -1,0 +1,47 @@
+X:1
+T:Op.3
+T:Meeres Stille, D.216
+C:Franz Schubert
+Z:Johann Wolfgang von Goethe
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/4
+Q:1/4=108
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:1
+"^Sehr langsam, ängstlich ( = 54)" E3 E | E2 E2 | G3 G | E2 C2 | E3 E | A2 ^F2 | (^D2{ED} ^C) D | %7
+w: Tie- fe|Stil- le|herrscht im|Was- ser,|oh- ne|Re- gung|ruht _ das|
+ E3 z |$ =F3 ^G | (A3/2 E/) E2 | (B2{cB} A) B |{d2} c2 c2 | c3 A | c3 A | G2 A2 | F4 | ^D3 D |$ %17
+w: Meer,|und be-|küm- * mert|sieht _ der|Schif- fer|glat- te|Flä- che|rings um-|her.|Kei- ne|
+ A3 A | c3 c |{B2} A2 A2 | A3 A | A2 ^F2 | G3 E | !fermata!B,4 | E3 E | A2 A2 |$ B3 ^F | ^G2 E2 | %28
+w: Luft von|kei- ner|Sei- te!|To- des-|stil- le|fürch- ter-|lich!|In der|un- ge-|heu- ern|Wei- te|
+ =G3 G | G2 G2 | G3 G | C2 !fermata!z2 |] %32
+w: re- get|kei- ne|Wel- le|sich.|
+V:2
+!pp! !arpeggio![G,CE]4 | !arpeggio![G,CE]4 | !arpeggio![G,DF]4 | !arpeggio![G,CE]4 | %4
+ !arpeggio![G,CE]4 | !arpeggio![A,C^FA]4 | !arpeggio![A,B,^D^F]4 | !arpeggio![^G,B,E]4 |$ %8
+ !arpeggio![^G,B,=F]4 | !arpeggio![A,CE]4 | !arpeggio![F,B,D]4 | !arpeggio![E,A,C]4 | %12
+ !arpeggio![A,CF]4 | !arpeggio![A,CF]4 | !arpeggio![G,_B,_DE]4 | !arpeggio![F,A,CF]4 | %16
+ !arpeggio![A,^CD]4 |$ !arpeggio![A,CE]4 | !arpeggio![A,CF]4 | !arpeggio![A,C^F]4 | %20
+ !arpeggio![A,^C^F]4 | !arpeggio![A,^D^F]4 | !arpeggio![G,^CE]4 | !arpeggio!!fermata![^F,B,^D]4 | %24
+ !arpeggio![G,B,E]4 | !arpeggio![A,C^FA]4 |$ !arpeggio![A,B,^D^F]4 | !arpeggio![^G,B,E]4 | %28
+ !arpeggio![=G,B,E]4 | !arpeggio![G,CE]4 | (C2 B,2) | !arpeggio!!fermata![E,G,C]4 |] %32
+V:3
+ !arpeggio![C,,C,]4 | !arpeggio![C,,C,]4 | !arpeggio![B,,,B,,]4 | !arpeggio![C,,C,]4 | %4
+ !arpeggio![C,,C,]4 | !arpeggio![A,,,A,,]4 | !arpeggio![B,,,B,,]4 | !arpeggio![E,,B,,E,]4 |$ %8
+ !arpeggio![=D,,=D,]4 | !arpeggio![C,,C,]4 | !arpeggio![^G,,,^G,,]4 | !arpeggio![A,,,A,,]4 | %12
+ !arpeggio![F,,,F,,]4 | !arpeggio![F,,,F,,]4 | !arpeggio![F,,,F,,]4 | !arpeggio![F,,,F,,]4 | %16
+ !arpeggio![F,,F,]4 |$ !arpeggio![E,,E,]4 | !arpeggio![_E,,_E,]4 | !arpeggio![D,,D,]4 | %20
+ !arpeggio![^C,,^C,]4 | !arpeggio![B,,,B,,]4 | !arpeggio![^A,,,^A,,]4 | %23
+ !arpeggio!!fermata![B,,,B,,]4 | !arpeggio![E,,E,]4 | !arpeggio![C,,C,]4 |$ !arpeggio![B,,,B,,]4 | %27
+ !arpeggio![E,,E,]4 | !arpeggio![E,,E,]4 | !arpeggio![C,,C,]4 | !arpeggio![G,,,G,,]4 | %31
+ !arpeggio!!fermata![C,,G,,C,]4 |] %32
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | !arpeggio![G,D]4 | x4 |] %32

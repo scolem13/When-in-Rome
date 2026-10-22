@@ -1,0 +1,35 @@
+% Sonata in C major (fragment): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=241
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonata in C major (fragment)
+C:W. A. Mozart (1756-1791)
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="up" snm="Pno"
+L:1/16
+V:2 treble 
+V:3 bass nm="down" snm="Pno"
+V:1
+ [Gceg]4 fedc c'2b2 | a6 ga g4 | z dfd z cec z BdB | z cBA GAGF EFED | C2 z2 fedc c'2b2 | %5
+ a6 ga g4 | z dfd z cec z BdB | z cBA GAGF EFED | C4 z4 [cd] z2 [dc] | B4 [GBdf]8 | %10
+ e4 z4 [cd] z2 [dc] | B4 [GBdf]8 | e4 z Gce gedc | d4 z GBd gdBG | c4 z Ac^f afdc | %15
+ BGga =fgef decd | BdGA FGEF DECD | B,4 [GBdg]4 z4 | d4 e z cB g2g2 | g2e2 e4 z4 | %20
+ a4 b z g^f d'2d'2 | d'2b2 b4 z4 | d4 e z cB g2f2 | z GeG z GeG z GeG | z ec'e ^f4 z ec'e |] %25
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z4 e3/2 z/ | x6 | z4 e3/2 z/ | x6 | x6 | x6 | x6 | x6 | %16
+ x6 | x6 | z2 d z3 | x6 | z2 a z3 | x6 | z2 d z3 | x6 | z2 z/ e/c'/e/ z2 |] %25
+V:3
+ [CE][CE] [CE][CE] [CE][CE] | [CF][CF] [CF][CF] [CE][CE] | F z G z G, z | C z4 z | %4
+ z [CE] [CE][CE] [CE][CE] | [CF][CF] [CF][CF] [CE][CE] | F z G z G, z | C z4 z | %8
+ C,/G,/E,/G,/ C,/G,/E,/G,/ C,/G,/E,/G,/ | D,/G,/F,/G,/ B,,/G,/D,/G,/ B,,/G,/D,/G,/ | %10
+ C,/G,/E,/G,/ C,/G,/E,/G,/ C,/G,/E,/G,/ | D,/G,/F,/G,/ B,,/G,/D,/G,/ B,,/G,/D,/G,/ | %12
+ z/ C,/E,/G,/ C2 z2 | z/ B,,/D,/G,/ B,2 z2 | z/ A,,/C,/^F,/ A,2 z2 | G,E DC B,A, | %16
+ G,E, D,C, B,,A,, | G,,2 z4 | [G,B,][G,B,] [G,B,][G,B,] [G,B,][G,B,] | %19
+ [G,C][G,C] [G,C][G,C] [G,C][G,C] | [^F,D][F,D] [F,D][F,D] [F,D][F,C] | %21
+ [G,B,][G,B,] [G,B,][G,B,] [G,B,][G,B,] | [G,B,][G,B,] [G,B,][G,B,] [G,B,][G,B,] | %23
+ C2 [C,C]2 [B,,B,]2 | [A,,A,]2 z2 [A,,A,]2 |] %25

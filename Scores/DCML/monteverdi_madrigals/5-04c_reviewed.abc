@@ -1,0 +1,54 @@
+X:1
+T:Il quinto libro de madrigali
+T:Dorinda, ah dirò mia, se mia non sei
+C:Claudio Monteverdi
+%%score 1 2 3 4 5
+L:1/4
+Q:1/4=144
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Soprano I" snm="S. I"
+V:2 treble nm="Soprano II" snm="S. II"
+V:3 treble nm="Alto" snm="A."
+V:4 treble-8 nm="Tenor" snm="T."
+V:5 bass nm="Bass" snm="B."
+V:1
+ z d _e2 | f4 | z f g2 | a4- | a g g2 | f/>g/ a- a2- |$ a g g2 | f g a2- | a2- a f | e2 d2 | %10
+ z/ A/A/A/ A/A/d/c/ |$ B A/G/ A2 | G2 z/ d/d/d/ | d/d/g/f/ _e d/c/ | d2 c2 | z2 z/ c/c/c/ |$ %16
+ c c/c/ c B | A2 G2 |$ z d d3/2 d/ | d e f2 | f2 z/ f/f/f/ | g g a2 | g2 z d | d2 d2 |$ f2 d2 | %25
+ _e2 d c | d4- | d2 f d- | d c2 B- | B A A G | ^F2 F2 |$ z4 | z4 | z4 | z2 d f- | f e2 d- | %36
+ d c2 c- |$ c B A2- | A2 A2 | z A/A/ A A/A/ | A B c c | d2 c2 |$ c d2 G | G G A2 | G2 z d/d/ | %45
+ d d/d/ d e | f f g2 |$ f2 g a- | a d d d | e2 d2 | c d2 G | G G A2 | !fermata!=B4 |] %53
+V:2
+ z =B c2 | d4 | z d _e2 | f4- | f d e2 | f4- |$ f e e2 | d e f2- | f2 e d- | d ^c d2 | %10
+ z/ F/F/F/ F/F/F/F/ |$ G G/G/ ^F2 | G2 z/ =B/B/B/ | =B/B/B/B/ c c/c/ | =B2 c2 | z/ A/A/A/ A A/A/ |$ %16
+ G2 ^F G- | G ^F G2 |$ z =B B3/2 B/ | =B c d2 | d/d/d/e/ f d- | d g2 ^f | g2 z =B | =B2 B2 |$ %24
+ d2 =B2 | c2 =B A | =B4- | B2 d f- | f e2 d- | d c c B | A2 A2 |$ z4 | z4 | z4 | z2 f d- | %35
+ d c2 B- | B A2 A- |$ A G ^F2- | F2 ^F2 | z ^F/F/ F F/F/ | ^F G A/B/ c- | c =B c2 |$ A2 G3/2 A/ | %43
+ B G ^F2 | G2 z =B/B/ | =B B/B/ B c | d/e/ f2 e |$ f2 e2 | d3/2 e/ f d | ^c2 d2 | A2 G3/2 A/ | %51
+ B G ^F2 | !fermata!G4 |] %53
+V:3
+ z G G2 | B4 | z B B2 | d4- | d d c2 | F4 |$ z4 | z4 | z4 | z4 | z4 |$ z4 | z2 z/ D/D/D/ | %13
+ D/D/D/D/ _E F/G/ | G2 G2 | z4 |$ z4 | z4 |$ z G G3/2 G/ | G G B2 | B2 z/ B/B/c/ | d c A2 | %22
+ =B2 z G | G2 G2 |$ A2 G2 | G2 G G | G4- | G2 z2 | z4 | z4 | z4 |$ A G2 F- | F _E D D- | D C D2 | %34
+ D A A2 | A2 F2- | F F D2- |$ D D D2- | D2 D2 | z4 | z4 | z4 |$ z4 | z4 | z2 z G/G/ | G G/G/ G G | %46
+ B A c2 |$ c3 A | D3/2 D/ D D | A2 A2 | A D G,3/2 G,/ | G, G, D2 | !fermata!D4 |] %53
+V:4
+ z d c2 | f4 | z d g2 | f4- | f g e2 | c2 d2 |$ e2 e2 | A4- | A =B ^c d | e2 ^f2 | %10
+ z/ d/d/d/ d/d/d/d/ |$ G G/G/ d2 | G2 z/ g/g/g/ | g/g/g/g/ g f/_e/ | d2 =e2 | z4 |$ z4 | z4 |$ %18
+ z d d3/2 d/ | d c f2 | f/f/f/e/ d2 | g2 d2 | d2 z2 | z4 |$ z4 | z4 | z2 z d | d2 d2 | A2 d2 | %29
+ G2 G G | d4 |$ f d2 c- | c B2 A | A G A2 | A2 z2 | z4 | z4 |$ z4 | z4 | z d/d/ d d/d/ | d g f a | %41
+ g2 c2 |$ f2 _e3/2 e/ | _e e d2 | G2 z d/d/ | d d/d/ d c | f d g2 |$ a2 z e | f3/2 f/ f g | %49
+ e2 f2- | f A B3/2 B/ | B c A2 | !fermata!G4 |] %53
+V:5
+ z"" G,"m" C,2 |"" B,,4 | z"" B,"" _E,2 |"m" D,4 |"m""" =B,,2"" C,2 |"m" F,3/2 E,/"m" D, D, |$ %6
+"""" C,4 |"m" D,3 E, |"" F, G,"""" A,2- |"""" A,2"" D,2 |"m" z4 |$"m""" z4 |"m" z2 z/"" G,/G,/G,/ | %13
+ G,/G,/G,/G,/"m" C, C,/C,/ |"" G,2"" C,2 | z/"m" F,/F,/F,/ F, F,/F,/ |$"m" _E, E,"""" D,2 | %17
+"""" D,2"m" z2 |$ z"" G, G,3/2 G,/ | G,"" C"" B,2 | B,2 z/ B,/B,/A,/ |"m" G,"m" _E"""" D2 | %22
+"" G,2 z"" G, | G,2 G,2 |$"m" D,2"" G,2 |"m" C,2"" C,"m" C, |"""" G,4- | G,2"m" z2 |"m""" z4 | %29
+"m" z4 |"" z4 |$"m" D"m" B,2"" A,- | A,"""m" G,2"m" F, | F,"m" _E,"m" D,2 |"m" D,2 D D- | %35
+ D"m" A,"" B,2 |"" F,2"m" G,2- |$ G,"m" G,"" D,2- | D,2 D,2 |"" z4 |"m""""m" z4 |"""""" z4 |$ %42
+"m""m""""" z4 |"" z4 |"m" z2 z"" G,/G,/ | G, G,/G,/ G,"" C |"" B,"m" D"""" C2 |$"" F,2"m""m" C2 | %48
+"""" B,3/2 B,/ B,"m" B, |"" A,2"m" D,2 |"m""m" F,2"""" _E,3/2 E,/ | _E,"m" E,"" D,2 | %52
+"" !fermata!G,4 |] %53

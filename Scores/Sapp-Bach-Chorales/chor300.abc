@@ -1,0 +1,27 @@
+X:1
+T:Warum betr&uuml;bst du dich, mein Herz
+T:Warum betr&uuml;bst du dich, mein Herz
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ A | A/B/ c B e | d c !fermata!B c/B/ | A e d e | A/B/ ^c !fermata!d =c | B e d c | %6
+ !fermata!B3 A/B/ | c c d d | =e e !fermata!c e | d c B A/B/ | c B !fermata!A x || %11
+V:2
+ E | E3/2 A/ A/^G/ =G | F ^F !fermata!B, E | =F =G G G | F E !fermata!F E | E E/^F/ ^G A | %6
+ !fermata!^G3 A/G/ | A A/=G/ F _B | _B A/G/ !fermata!A c | =B A/G/ ^F/^G/ A | A ^G !fermata!E x || %11
+V:3
+ c/d/ | e A B _B | A A !fermata!^G A | A c- c/ B/4A/4 B/^c/ | d A !fermata!A A | ^G A B c/d/ | %6
+ !fermata!e3 e/d/ | c _e d g | g f/=e/ !fermata!f g | g/f/ e d c/d/ | e3/2 d/ !fermata!^c x || %11
+V:4
+ A,,/B,,/ | C, A,, E, ^C, | D, ^D, !fermata!E, A,, | =D, C, G, E, | F,/G,/ A, !fermata!D, A,, | %5
+ E, C, B,, A,, | !fermata!E,3 C/B,/ | A,/G,/ F, _B,/A,/ G, | C C, !fermata!F, C, | %9
+ G, A, D,/E,/ =F, | C,/D,/ E, !fermata!A,, x || %11

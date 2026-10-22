@@ -1,0 +1,34 @@
+% Ich dank dir, lieber Herre: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=379
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Ich dank dir, lieber Herre
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=72
+M:4/4
+I:linebreak $
+K:A
+V:1 bass nm="TenorStaff:Tenor" snm="Pno"
+V:2 bass 
+L:1/4
+V:3 treble nm="SopraneStaff:Soprane" snm="Pno"
+L:1/4
+V:4 treble 
+V:1
+ x6 C2 | [CF,]2 CB, A,G, [F,^D,]2 | B,3 A, [G,E,,]2 [EE,]2 | [EA,]2 [^DB,]2 C2- B,A, | %4
+ B,3 A, [G,E,]2 [G,C,]2 | [A,F,][B,G,] CD [EE,]2 E2 | [DD,]2 E2 [EE,]2 [EC,]2 | %7
+ F B,2 ^A, B,2 [CF,]2 | [DB,,]6 [^G,C,]2 | [A,F,]2 [G,E,][F,D,] E,E [DB,,]2 | %10
+ [CA,,][DB,,] [EC,][FD,] [GE,]2 [FB,,]2 | [FF,][EG,] DC B,2 CD | E3 D [CE,][FD,] B,E/D/ | %13
+ [CA,,]6 x2 |] %14
+V:2
+ x3 A,/G,/ | z C, =D, z | E, B,, z2 | z3 C | z B,, z2 | z A, z C,/A,,/ | z C,/D,/ z2 | %7
+ B,, C, D,/=G,/ z | z4 | z2 C, z | z4 | z A, G,/E,/ A,- | A,/G,/ F, z E, | z3 x |] %14
+V:3
+ x3 [AE] | [AF] [AE] [AF] [BF] | [=GE] [F^D] [EB,] [B^G] | [cA] B A G/F/ | G [F^D] [EB,] e | %5
+ [=dA] [cA] [BG] A | [AF]/[B^G]/ [cA] [BG] [c^A] | d [c=G] B [^AF] | [BF]3 E | [AC] [BD] [cE] d | %10
+ e d/c/ [BE] [dB] | c [BF] e- F/[dG]/ | c/B/ A [cA] [BG] | [AE]3 x |] %14
+V:4
+ x2 x6 | z8 | z8 | z2 GF E2- E2- | E2 z4 cB | z7 =G | z8 | B=A z2 FE z2 | z7 D | z6 FG | A4 z4 | %11
+ AG z2 E2 e z | A2 z B z4 | z6 x2 |] %14

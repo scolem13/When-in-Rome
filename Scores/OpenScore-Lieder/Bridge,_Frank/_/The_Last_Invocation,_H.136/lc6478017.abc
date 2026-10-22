@@ -1,0 +1,98 @@
+X:1
+T:The Last Invocation, H.136
+C:Frank Bridge
+Z:Walt Whitman
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 7 ) }
+L:1/4
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:E
+U:s=!stemless!
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble 
+V:3 treble nm="Piano"
+V:6 treble 
+L:1/8
+V:4 bass 
+V:5 bass 
+L:1/8
+V:7 bass 
+V:1
+"^Andante moderato e tranquillo" z8 | z8 |!p! (3z G A B2- B4 | c3 B B4 | (3z G A B4 c B | %5
+w: ||At the last, _|ten- der- ly,|From the walls of the|
+"^comodo" (3(e=d) e (3:2:2B A2 B4 | (3z B c e4!<(! =d e!<)! | f/ f3/2 e4 A B | %8
+w: power- * ful fort- ress’d house,|From the clasp of the|knot- ted locks, from the|
+"^cresc." c2- (3c B c!<(! e2 e2!<)! | d8- |"^più tranquillo" d z d2!>(! e2 f2!>)! |!pp! g6 G2 | %12
+w: keep _ of the well closed|doors,|_ Let me be|waft- ed.|
+ z8 | !fermata!z8 |[Q:1/4=92]"^Tempo I" z8 | z8 |!pp! (3z G A B2- B4 | c2- (3c B B B4 | %18
+w: ||||Let me glide _|noise- * less- ly forth;|
+ (3z G A B4 (cB) |"^comodo" e2 =d e B3/2 A/ B2 | (3z B c"^poco a poco rit." e4 =d2 | %21
+w: with the key of _|soft- ness un- lock the locks,|with a whisp- er,|
+ f2!<(! e3/2 =d/!<)!!>(! e3!>)!"^ten."!<(! A!<)! |"^a tempo" c8- | c2 z2 z4 | %24
+w: Set ope the doors, O|Soul.|_|
+ z2!pp! d2- d3/2 G/ G2 | z!p! c- (3c B A c3 F ||[M:6/4]"^Risoluto" z2!mf! B2 =G B!<(! e4 e2!<)! || %27
+w: Ten- * der- ly|be _ not im- pa- tient,|Strong is your hold O|
+[M:4/4]!f!"^Poco animato" =g3 =f f4- | f8 | z2"^largamente" ^e4 c e | g6!<(! =e2!<)! | %31
+w: Mor- tal flesh,|_|Strong is your|hold, O|
+"^a tempo" e8- | e8- | e6 z2 | z8 | z8 | z8 | z8 | !fermata!z8 |] %39
+w: Love.|_|||||||
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 ||[M:6/4] x6 ||[M:4/4] x4 | x2 x x/ s^e/ | x4 | x4 | x4 | x4 | %33
+ x4 | x4 | x4 | x4 | x4 | x4 |] %39
+V:3
+!p!"^semplice" !tenuto![EG] !tenuto![FA] !tenuto![EB] !tenuto![=DA] | %1
+ !tenuto![EB] !tenuto![=DA] !tenuto![EB] !tenuto![Fc] | [EG] [FA] [EB] [=DA] | %3
+ [EB] [=DA] [EB] [Fc] | [EG] [FA] [EB] [=DA] |"^colla parte" [EB] [=DA] [EB] [cfc'] | %6
+ [Gcg] [A=df]!<(! [EBe] [=DAd]!<)! | [FAc] [FGB] [EFA] [=DEF] | %8
+"_cresc." [CEG] [B,CEB]!<(! [A,CEA] [CEGc]!<)! | z!mf! [^B,^E^^G^B]!<(! [CF^Ac] [DEGd]!<)! | %10
+"^più tranquillo" !>![=E=G^A]4 | !arpeggio![^Gd^g]3!ped!!p! x!ped-up! | %12
+!pp! ([gg']3!ped!!pp! g)!ped-up! | !fermata![gg']4!ped!!ped-up! |!pp! [^cg] [=da] [eb] [da] | %15
+ [eb] [=da] [eb] [fc'] | [cg] [=da] [eb] [da] | [eb] [=da] [eb] [fc'] | [cg] [=da] [eb] [da] | %19
+"^colla parte" [eb] [=da] [eb] [fc'] |!>(! [Bcg]2!>)!"^colla parte" [AB=df]2 | %21
+ z!<(! [FGB]!<)!!>(! [EFA]!>)!"^ten." [=DF] |!pp! [^d^a] [eb] [fc'] [eb] | %23
+!<(! [fc'] !arpeggio![be'b']!<)!!>(! !arpeggio![fc'f'] !arpeggio![dgd']-!>)! | [dgd']4 | %25
+ [fc'f']4 ||[M:6/4]!mf! !>![CEB]4 [E=G=c]2 || %27
+[M:4/4]!f! !tenuto![=G_B=d=g] !tenuto![_A=c] !tenuto![GB=f] !tenuto![=FA_e] | %28
+ !tenuto![=G_B=f] !tenuto![=F_A_e] !tenuto![=DG=d] !tenuto![=CF=c] | %29
+"^largamente" !>![^D^E^G^d]2 !>![CEG^c]2 | %30
+ !>![C=E^G]!ped! !>![cegc'] [ege']-!ped-up! (3[ege']/[ff']/[gg']/ | %31
+!f! !tenuto![B,CEG] !tenuto![=A,=DF=A] !tenuto![CEB] !tenuto![B,DA] | %32
+ !tenuto![CEB] !tenuto![B,=DA] !tenuto![CEB] !tenuto![DFc] | %33
+ (3z/ [gg']/[aa']/"_dim." [bb']- [bb']2 | (([c'c'']3/2"^rall."!>(! [bb']/)) [bb']2!>)! | %35
+!p!"_dim." [eg] [=dfa]2 [ceb]- |!>(! [ceb]2!>)!!ppp! [b=d'a']2 | [c'e'b']4- | %38
+ [c'e'b'] z !fermata!z2 |] %39
+V:4
+ [B,C] [A,=D] [G,C] [F,B,] | [G,C] [F,B,] [G,C] [A,=D] | [B,C] [A,=D] [G,C] [F,B,] | %3
+ [G,C] [F,B,] [G,C] [A,=D] | [B,C] [A,=D] [G,C] [F,B,] | [G,C] [F,B,] [G,C] [A,=DF] | %6
+ [B,CE] [A,=DF] [G,C] [F,B,] | [E,A,C] [=D,G,B,] [C,F,A,] [B,,F,A,] | %8
+ [A,,E,G,] [G,,E,] [F,,E,] [A,,G,] | z [D,^E,^^G,] [C,F,^A,] [^B,,E,G,] | %10
+ !>!C2-!>(! C/ (D C/)!>)! | !arpeggio![E,^B,F]3 x | z/ (E,,/ C,/^A,/[I:staff -1] F/c/ G) | %13
+[I:staff +1] z/ (E,,/ =C,/=A,/- A,/[I:staff -1]=F/ !fermata!=c) | %14
+[I:staff +1] [B,EG] [A,=D^F] [G,CE] [F,B,D] | [G,CE] [F,B,=D] [G,CE] [A,DF] | %16
+ [B,EG] [A,=DF] [G,CE] [F,B,D] | [G,CE] [F,B,=D] [G,CE] [A,DF] | [B,EG] [A,=DF] [G,CE] [F,B,D] | %19
+ [G,CE] [F,B,=D] [G,CE] [A,DF] | [B,EG]2 [A,=DF]2 | z [=D,G,B,] [C,F,A,] [B,,A,] | %22
+ [C^DF^A] [B,CEG] [^A,CDF] !arpeggio![G,CEB] | %23
+ [^A,CDF] !arpeggio![G,CEB] !arpeggio![A,CDF] !arpeggio![B,CEG]- | [B,CEG]4 | [A,B,=DF]4 || %26
+[M:6/4] [=G,,E,B,]4 [F,,^A,]2 ||[M:4/4] =F _E =D =C | =D =C [=F,_B,] [_E,_A,] | %29
+ !>![=B,,^E,^G,]2 !>![^A,,E,G,]2 | !>![=A,,=E,G,] !>![CEG] A- (3:2:2A/ ^A | E,,2- G, F, | %32
+ G, F, G, A, | [B,CEG] [A,=DFA] !arpeggio![G,CEB] !arpeggio![F,B,DA] | %34
+ !arpeggio![G,CEB] !arpeggio![F,B,=DA] !arpeggio![G,CEB] !arpeggio![A,DFc] | %35
+[I:staff -1] [Bc] [AB]2 [GB]- | [GB]2 [fa]2 | [gb]4- | [gb][I:staff +1] z !fermata!z2 |] %39
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | [=B,,=G,]8 | x x7 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 ||[M:6/4] x12 ||[M:4/4]({/=F,,} =F,8-) | F,4 x4 | x8 | %30
+ x4 [=CG]4 |{/E,,,-} E,,,8 |({/E,,-} E,,8) | x8 | x8 | x8 | x8 | x8 | x8 |] %39
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %11
+ z[I:staff +1] (E,, ^B,,!pp!G, DG[I:staff -1] (3!tenuto![dd']!tenuto![ee']!tenuto![ff']) | x8 | %13
+ x8 |{/B-} B4{/B-} B4 |{/B-} B4{/B-} B4 |{/B-} B4{/B-} B4 |{/B-} B4{/B-} B4 |{/B-} B4{/B-} B4 | %19
+{/B-} B4{/B-} B4 | x8 | x8 |{/c-} c4{/c-} c4 |{/c-} c2 x6 | x8 | x8 ||[M:6/4] x12 ||[M:4/4] x8 | %28
+ x8 | x8 | x4 a2 (3:2:2a ^a2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %39
+V:7
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 ||[M:6/4] x6 ||[M:4/4] x4 | x4 | x4 | x4 | x2 E,,2 | x4 | x4 | %34
+ x4 | x4 | x4 | x4 | x4 |] %39

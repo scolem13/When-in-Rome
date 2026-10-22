@@ -1,0 +1,44 @@
+X:1
+T:Was willst du dich, o meine Seele
+T:Was willst du dich, o meine Seele
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ A | D3/2 E/ F G | A/B/ =c B A | A ^G !fermata!A A | =G G c A | _B/A/G/F/ G3/2 F/ | %6
+ !fermata!F2 z A | D E F G | A/B/ =c B3/2 A/ | !fermata!A2 z A | G G c A | _B/A/G/F/ E3/2 D/ | %12
+ !fermata!D2 z A | G/A/ F/G/ E3/2 D/ | !fermata!D2 z A | A B c c | B2 !fermata!A A | G G c A | %18
+ _B/A/G/F/ G3/2 F/ | !fermata!F2 z A | D E F/G/ A | !fermata!D2 z E | F E F G | A B c/B/ A | %24
+ d c _B/A/ G/F/ | E3/2 D/ !fermata!D2 || %26
+V:2
+ A,2 | A,2 B,^C D F2 E | FG GA GF E2 | F2 E2 !fermata!E2 EF- | F E/D/ EF GE F2 | %5
+ F2 =EF- F E/D/ E2 | !fermata!C4 z2 D2- | DA, _B,A,- A,D- D^C | D2 GF- FD =B, E/D/ | %9
+ !fermata!C4 z2 =F2- | F E/D/ EF GE FA | GF ED D ^C/B,/ C2 | !fermata!A,4 z2 F2 | %13
+ E2 D2- D ^C/B,/ C2 | !fermata!D4 z2 =C2 | C D/E/ F E/D/ G F/G/ A2 | A ^G/^F/ G2 !fermata!E2 =F2 | %17
+ =F2- F E/D/ E2 F2 | F/E/F EF- F E/D/ E2 | !fermata!C4 z2 C2 | B,2 ^C2 D2 C2 | !fermata!D4 z2 ^C2 | %22
+ D2 ^C2 D=C _B,C | C D/E/ F E/D/ E F/G/ AG | ^FG AF D2 ED- | D ^C/=B,/ C2 !fermata!A,4 || %26
+V:3
+ FG | A2 G2 A2 =c2 | cd e2 d3 c | B3 d !fermata!c2 c2 | dG c2 c2 c2 | dA c2 d_B G c/B/ | %6
+ !fermata!A4 z2 FG | A2 G2 F_B- B2 | AG GA- A ^G/^F/ G2 | !fermata!E4 z2 c2 | dG c2 c2 cf | %11
+ d^c- cd _BG- G A/G/ | !fermata!F4 z2 d=c | _BA A G/A/ BG E A/G/ | !fermata!F4 z2 FG | %15
+ A =B/c/ dB G c/B/ Ac | fd B e/d/ !fermata!^c2 d2- | d =c/B/ c2 c2- c d/c/ | %18
+ _Bc c/B/A G/A/ B2 c/B/ | !fermata!A4 z2 F2 | G3 F/G/ A3 G | !fermata!F4 z2 A2 | A2 A2 A2 d c/_B/ | %23
+ A =B/c/ dB Gd c2- | c_B Ad- dcB=B | E2- E/F/G !fermata!^F4 || %26
+V:4
+ D,E, | F,G,F,E, D,2 C,2 | F,2 E,^F, G,^G, A,C, | D,B,, E,2 !fermata!A,,2 A,,2 | %4
+ B,,2 C,D, E,C,F,_E, | D,C,_B,,A,, B,,G,, C,2 | !fermata!F,,4 z2 D,E, | F,2 ^C,2 D,2 E,2 | %8
+ F, G,/F,/ E, F,/E,/ D,=B,, E,2 | !fermata!A,,4 z2 A,,2 | B,,2 C,D, E,C, F,D, | %11
+ G,A, _B,A, G,E, A,A,, | !fermata!D,4 z2 D,2- | D,^C, D,_B,, G,,E,, A,,2 | !fermata!_B,,4 z2 F,2 | %15
+ F,E, D,G, E, A,/G,/ F,E, | D,B,, E,2 !fermata!A,,2 D,C, | B,,G,, C,_B,, A,,G,, F,,2 | %18
+ G,, A,,/_B,,/ C,D, B,,G,, C,C,, | !fermata!F,,4 z2 F,2- | F,2 E,2 D,2 A,,2 | %21
+ !fermata!_B,,4 z2 A,,2 | D,F, A,G, F,3 E, | F,E, D,G, C, D,/E,/ F,E, | D,E, ^F,D, G,3 ^G, | %25
+ A,2 A,,2 !fermata!D,4 || %26

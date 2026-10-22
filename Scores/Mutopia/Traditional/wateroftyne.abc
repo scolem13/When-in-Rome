@@ -1,0 +1,32 @@
+% The Water of Tyne: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=889
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:The Water of Tyne
+C:trad., arr. J.A. Fuller Maitland
+%%score ( 1 2 ) 3 ( 4 5 )
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:D
+V:1 bass 
+V:2 bass 
+V:3 treble nm="singer" snm="Fl"
+V:4 treble 
+V:5 treble 
+V:1
+ x | [D,F,A,]3 [A,,G,A,]2- [A,,G,A,] | D,4- D,- D, | [D,,A,,]F, z [D,,A,,]F,G, | %4
+ [D,,A,,]F,D, [D,,A,,D,]2 z | [E,G,]2 [D,A,] C,D,[C,A,] | [B,,F,]E,E,, A,,2- G, | %7
+ [D,F,]2 [=G,,=G,] [D,A,]2- [D,A,] | F,2 G, [G,,G,]2- [G,,G,] | A,,3 A,,2- G, | D,4- D, x |] %11
+V:2
+ x | z6 | [F,A,][G,B,][E,G,] [F,A,]2- [F,A,] | z6 | z6 | z3 A,2 z | z ^G,2 A,2 A,, | z6 | z6 | %9
+ z F,2 z F,A,, | z F, G, F,2 x |] %11
+V:3
+ x | x6 | x4 x A | AFF AFE | DD>D D2 E/F/ | GGF EFA | BB>B A2 F/E/ | Ddd def | dA>B B2 c/d/ | %9
+ AFA A>FE | DD3/2 D/ D2 x |] %11
+V:4
+ x4 x A | D3 C2- E | D2 D D2- D | z A,[DA] z A,[EA] | z A,[B,G] [A,F]2 z | B,CD EF[EA] | %6
+ [DB]2 [DB] [CA]2 z | A2 B FED- | DAB [DB]2- z | [DB] z D A z C | A z [A,D] [A,D] [A,D]2 |] %11
+V:5
+ x x5 | AFF AFC | z6 | z6 | z6 | z6 | z6 | z6 | z D2 z3 | z2 A,2 z A,- | A, z4 z |] %11

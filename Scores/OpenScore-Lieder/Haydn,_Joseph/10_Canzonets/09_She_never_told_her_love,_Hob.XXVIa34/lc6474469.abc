@@ -1,0 +1,82 @@
+X:1
+T:10 Canzonets
+T:She never told her love, Hob.XXVIa:34
+C:Joseph Haydn
+Z:William Shakespeare
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Voice"
+V:2 bass nm="Piano"
+V:5 bass 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+"^Largo assai e con espressione" z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %13
+w: |||||||||||||
+ z4 z2 c2 | B3 c d2 G2 | A6 A2 | f3 d B2 (e>c) | A4 z E E E | (F>E) E2 z2 E3/2 E/ | A4 A3 B | %20
+w: She|ne- ver told her|love, she|ne- ver told her _|love; But let con-|\- ceal- * ment, like a|worm in the|
+ G4 z4 | c4 =d2 e2 | B6 =D2 | E4 z4 | z8 | z8 | z4 z2 E2 | _F6 =G2 | A2 A2 z2 !fermata!_c3/2 A/ | %29
+w: bud,|Feed on her|da- mask|cheek.|||She|sat, like|Pa- tience on a|
+ !fermata!G3 A !fermata!B4 | d4 c4 | ((B2 B/)c/d/B/) A2 (G>A) | A4 z4 | z8 | %34
+w: mo- nu- ment,|Smil- ing,|smi- * * * * ling at _|grief:||
+ (!fermata!e3 c) !fermata!A4 | ((B2 B/)c/d/B/) A2 G2 | A4 z4 | z8 | z8 |] %39
+w: Smi- * ling,|smi- * * * * ling at|grief.|||
+V:2
+!f! !fermata![C,E,A,]8 |[K:treble]!p! .[A,C] z .[CE] z .[CEA] z z2 | %2
+ .[DG] z .[DGB] z .[GBd] z z3/2!f! [DG]/ | .[CEA] z .[EAc] z .[Ace] z z3/2 a/ | %4
+!p! (g2 f) z/ !wedge!a/!p! (f2 e) z/ !wedge!a/ |!p! (e =d2 _d2 c B{c/B/=A/B/}f) | %6
+ (_A7/2 B/4A/4 G)!p! (.[G,E].[G,E].[G,E]) |!<(! ([G,B,D_F]4 [B,DFG]4 | [_CEA]4 [=CE_G=A]4!<)! | %9
+!f! .[DFB]) z .[E=Ac] z !fermata![FBd]4 | %10
+!p! z!<(! (B/=A/ c/B/d/c/ e/d/f/=e/!<)!!>(! g/f/e/d/)!>)! |!p! .A z .[Ac] z .[ce] z z2 | %12
+"_cresc." .[Ac] z .[ce] z .[cea] z z2 |!f! .[Ace] z .[cea] z .[eac'] z!p! [Ec]2 | ([DGB]6 [DG]2) | %15
+ .[CA] z .[Ac] z .[ce] z .[CA] z | !>![FAf]4!p! [DG]4 | %17
+ (.[CA].[A,CE].[A,CE].[A,CE])!pp! z (.[A,CE].[A,CE].[A,CE]) | %18
+ z (.[B,DE].[B,DE].[B,DE]) z (.[B,DE].[B,DE].[B,DE]) | %19
+ [CEA]4[I:staff +1] (F,/[I:staff -1]=D/[I:staff +1]A,/[I:staff -1]D/[I:staff +1] F,/[I:staff -1]D/[I:staff +1]A,/[I:staff -1]D/) | %20
+ (G,/B,/E/=D/ E/D/E/D/) (EG).[GB].[GB] | (.[Ec].[Ec].[Ec].[Ec]) (.[F=d].[Fd].[_Ge].[Ge]) | %22
+!p! [E=GB]4 [D=FB]4 |!<(! (E>G) (F/B/)(B/e/) (e/g/)(g/b/) (.b/.b/.b/.b/)!<)! | %24
+!f! (b/a/)(a/g/) (g/f/)(f/e/)"_dim."({f/} (e/)=d/)!>(!({e/}(d/)c/)({d/} c/).B/.B/.B/!>)! | %25
+!<(! (!invertedturn!B/e/e/e/!<)!!>(! e/c/A/F/)!>)!!p! (!invertedturn!E2({G/} F>)E) | %26
+ E!pp!(.[G,E].[G,E].[G,E]) (.[G,E].[G,E].[G,E].[G,E]) | %27
+ (.[A,_F].[A,F].[A,F].[A,F])"_cresc." (.[D=G].[DG].[DG].[DG]) | %28
+ (.[A,EA].[A,EA].[A,EA].[A,EA])!f! !fermata![=DA]4 | !fermata![B,EG]8 |!p! ([FAd]4 [EAc]4 | %31
+ [DFB]4 [EA]2 [DG]2) |!f! (=D/F/)(F/A/) (A/_c/)(c/=d/) (d/f/)(f/a/) (a/_c'/)(c'/a/) | %33
+"_dim." (g/b/)!>(!(b/_d'/) (d'/=c'/)(c'/b/) (b/a/)(a/g/) (g/f/)(f/!>)!e/) | %34
+!p! !arpeggio!!fermata![EAe]8 | ([DFB]4 [CEA]2 [B,DG]2) |[K:bass] (CCCC [B,D][B,D][B,D][B,D] | %37
+ CCCC [G,B,][G,B,][G,B,][G,B,]) |!pp! .[C,E,A,] z .[C,E,A,] z !fermata![C,E,A,]4 |] %39
+V:3
+ !fermata![A,,,A,,]8 | .[A,,,A,,] z .[A,,,A,,] z .[A,,,A,,] z z2 | %2
+ .[A,,,A,,] z .[A,,,A,,] z .[A,,,A,,] z z2 | .[A,,C,E,A,] z .[A,,C,E,A,] z .[A,,C,E,A,] z z2 | %4
+[K:treble] [DA]2 z2 [CA]2 z2 | ([FA]2 [EG]2 [A,EA]2 [DF]2) |[K:bass] ([E,-C]4 [E,B,]2) z2 | %7
+ z E,E,E, z E,E,E, | z E,E,E, z E,E,E, | [D,,D,] z [C,,C,] z !fermata![B,,,B,,]4 | %10
+[K:treble] [DF]8 |[K:bass] .[E,A,C] z .[E,A,C] z .[E,A,C] z z2 | %12
+ .[E,A,C] z .[E,A,C] z .[E,A,C] z z2 | .[E,A,C] z .[E,A,C] z .[E,A,C] z z2 | [E,G,B,]6 [E,B,]2 | %15
+ .[A,,A,] z .[A,,A,] z .[A,,A,] z .[A,,A,] z | [D,A,D]4 [E,B,]4 | A,,4 [A,,,A,,]4 | %18
+ [G,,,G,,]4 [G,,,G,,]4 | (A,,/E,/C,/E,/ A,,/E,/C,/E,/) B,,4 | [E,,E,]4 z4 | %21
+ (.[A,,A,].[A,,A,].[A,,A,].[A,,A,]) (.[A,,A,].[A,,A,].[=A,,=A,].[A,,A,]) | %22
+ [B,,E,G,B,]4 [B,,F,A,]4 | [E,G,][E,G,B,][E,G,B,][E,G,B,] [E,G,B,][E,G,B,][E,G,B,][E,G,B,] | %24
+ [E,F,A,=D]8 | [E,G,B,E]2 [A,C]2 G,2 B,2 | %26
+ [E,G,] (.[E,,E,].[E,,E,].[E,,E,]) (.[E,,E,].[E,,E,].[E,,E,].[E,,E,]) | %27
+ (.[_D,,_D,].[D,,D,].[D,,D,].[D,,D,]) (.[B,,,B,,].[B,,,B,,].[B,,,B,,].[B,,,B,,]) | %28
+ (.[_C,,_C,].[C,,C,].[C,,C,].[C,,C,]) !fermata![_F,,_F,]4 | !fermata![E,,E,]8 | %30
+ ([F,A,D]4 [E,A,C]4 | [D,F,B,]4 C2) B,2 | %32
+ [=D,F,A,_C][D,F,A,C][D,F,A,C][D,F,A,C] [D,F,A,C][D,F,A,C][D,F,A,C][D,F,A,C] | [_D,E,G,B,]8 | %34
+ !arpeggio!!fermata![C,E,A,C]8 | [D,F,B,]4 E,4 | %36
+ [A,,,A,,][A,,,A,,][A,,,A,,][A,,,A,,] [A,,,A,,][A,,,A,,][A,,,A,,][A,,,A,,] | %37
+ [A,,,A,,][A,,,A,,][A,,,A,,][A,,,A,,] [A,,,A,,][A,,,A,,][A,,,A,,][A,,,A,,] | %38
+ .[A,,,A,,] z .[A,,,A,,] z !fermata![A,,,A,,]4 |] %39
+V:4
+ x4 | x4 | x4 | x4 |[K:treble] x4 | B,2 x2 |[K:bass] x4 | E,,2 E,,2 | E,,2 E,,2 | x4 | %10
+[K:treble] x4 |[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %25
+ x2 B,,2 | x4 | x4 | x4 | x4 | x4 | x2 E,2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %39
+V:5
+ x8 |[K:treble] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x6 =D2 | x8 | x8 | x4 _C2 !fermata!A,2 | x8 | x8 | x8 | %32
+ x8 | x8 | x8 | x8 |[K:bass] A,/E,/A,/E,/ A,/E,/A,/E,/ G,/E,/G,/E,/ G,/E,/G,/E,/ | %37
+ A,/E,/A,/E,/ A,/E,/A,/E,/ E,/D,/E,/D,/ E,/D,/E,/D,/ | x8 |] %39

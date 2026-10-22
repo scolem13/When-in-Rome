@@ -1,0 +1,38 @@
+% Preludio: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=156
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Preludio
+C:Georg Friedrich Händel (1685-1759)
+%%score ( 1 2 ) 3
+L:1/16
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="up" snm="Hpschd"
+V:2 treble 
+L:1/8
+V:3 bass nm="down" snm="Hpschd"
+V:1
+ df_de =dfAd BdAd BdFA | GBFA GBEF GAEG FADF | EFED _D=D_D=B, A, z7 | z16 | z16 | %5
+ z DFG AGAE F4 E4 | DABc dcdA [GB] z [FA] z [EG]4 | Fcde fefc [FBd]4 dcdA | Bdef gfgd [A_d]4 afga | %9
+ bagf e2>=d2 dAFA D4 | d z f z e z d z afef gfga | f=BAB _dBd=d AFEF GFGA | FD_D=D EDEF DGFG EFGA | %13
+ FGAB [_DG]2[=DF] z [_DE] z _d z =B z A z | =d=BAB _dBd=d efde _d2>=d2 | %15
+ d4 E z D z A z _d z =B z A z | d=BAB _dBd=d e4 GFGA | F z f z e z =d z afef gfga | %18
+ f z e z [dFA]2>=B2 [A_dE]2[AE]F [G=D]2[A_D]2 | F=D_D=D EDEF A2_d z =B z A z | %20
+ =d=BAB _dBd=d [fA]2[eG]2 [_dEA]4 | d8 z8 |] %22
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | =D/ z/ F/ z4 z2 z/ | %16
+ z4 _dE/F/ z2 | x8 | x8 | x8 | z4 z3/2 =d/ z3/2 d/ | z/ A/F/A/ D2 z4 |] %22
+V:3
+ z16 | z16 | z8 z E,F,G, F,G,F,E, | D,F,_D,E, =D,F,A,,D, B,,D,A,,D, B,,D,F,,D, | %4
+ G,,B,,A,,G,, F,,G,,F,,E,, D,,F,,G,,E,, A,,2>A,,2 | D,,4 z4 z D,F,G, A,G,A,E, | %6
+ F, z E, z D,2>F,2 G,G,,A,,B,, C,B,,C,G,, | A,, z G,, z F,,4 B,,F,G,A, B,A,B,F, | %8
+ G, z F, z E,2>G,2 A,B,A,G, F,D,E,F, | G,A,B,G, A,2A,, z D,4 z2 D,,2 | z8 A z _d z =B z A z | %11
+ =D z F z E z D z A, z _D z =B, z A, z | =D=B,A,B, _DB,D=D B,EDE _D2A, z | %13
+ =D, z F, z E, z D, z A,F,E,F, G,F,G,A, | F,D,_D,=D, E,D,E,F, G,A,B,G, A,2A,, z | %15
+ D,4 z4 AFEF GFGA | F z G z A2>=B2 A,, z _D, z =B,, z A,, z | %17
+ =D,=B,,A,,B,, _D,B,,D,=D, _D,2>=D,2 E,2>_D,2 | =D,_D,=D,E, F,E,F,G, A, z _D z =B, z A, z | %19
+ =D=B,A,B, _DB,D=D _D2A, z B, z D z | F,=D,_D,=D, E,D,E,F, D, z G, z A, z A,, z | %21
+ D,8 A, F, A, D,4 D,,2 z2 |] %22

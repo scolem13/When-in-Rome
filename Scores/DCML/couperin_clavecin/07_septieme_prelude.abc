@@ -1,0 +1,64 @@
+X:1
+T:L’Art de toucher le clavecin
+T:Seventh Prelude
+C:François Couperin
+C:
+Z:© Les Éditions Outremontaises, 2005 (CC BY-NC 4.0)
+%%score { ( 1 4 5 ) | ( 2 3 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Harpsichord" snm="Hch."
+L:1/16
+V:4 treble 
+L:1/16
+V:5 treble 
+V:2 bass 
+V:3 bass 
+V:1
+ z4 z[Q:1/4=40] A,PB,C({C} PD2)ED({D} PE2>)F2 | %1
+({D} !^!C2>)C2 F3(5:4:5E/4D/4C/4B,/4A,/4({A,} PB,3)(3B,/C/D/({D} !^!C2>)D2 |$ %2
+ !^!A,2({G,}F,2) z z/ G,/A,/B,/C/D/({D} PE3)(3E/F/G/({G} !^!F2>)G2 | %3
+ !^!D2({C}B,2) PB3(5:4:5A/4G/4F/4=E/4D/4 !^!E2({D}C2) Pc3(5:4:5B/4A/4G/4F/4E/4 |$ %4
+({=E} PF2)({E}D2) Pd3(5:4:5c/4B/4A/4G/4F/4 !^!ECF2 F2F>E |({=E} F4-) F APBc- c2<c2- cAPBc- |$ %6
+ c2<c2- cFBA GFED({D} !^!C2)B,C |({C} PD2)({C}B,2) z dPef- f2<f2- fdPef- |$ %8
+ f2<f2- fBed cB_AG({G} !^!F2)EF |({F} PG2)({F}E2) z2 B2 z2 =B2 z2 B2 |$ %10
+ z2 d2 z2 F2[K:bass] z2 D2 z2 G,2- | G,4- G,[K:treble] =BPcd- ddeG- GG_AG- |$ %12
+ GG^FA- AAPBc- c(cd)=F- FFGF- | FF=EG- GGPAB- B_E^Fc- cEGc- |$ cDAc- cBcA B^FG2- G2GF | %15
+({^F} G4) z def- f(fe2-) ecde- |$ eed2- dBcd- ddc2- c2c2- | c2>c2 z FPG_A- A2<A2- AFPGA- |$ %18
+ A_A,B,F- FFPG_A- A[K:bass]A,2A,- A,A,B,2- | B,4- B,[K:treble] GPAB- B2<B2- BGPAB- |$ %20
+ BB,CG- GGPAB- B[K:bass]B,2B,- B,B,C2- | %21
+ C4 z (F/E/D/C/B,/A,/) (B,/C/B,/A,/G,/) z/ z z (G/F/E/D/C/B,/) |$ %22
+ (A,/B,/A,/G,/F,/) z/ z[K:treble] z F2G !arpeggio!A2!arpeggio!B2- B2BA |({A} B4) [FB]4- [FB]8 |] %24
+V:2
+"" z4"" B,,3"" B,/>(B,/ |"" A,2) z A,,"m"({A,,} G,,2)"" z/ (F,/""=E,) |$ %2
+"" z2"C{" F,2"" G,B,"" A,C |"" B, z/4 C,/4B,,/4A,,/4"m" z G,"" C z/4 D,/4C,/4B,,/4"m" z A, |$ %4
+"m" D x"" z B,"""""" x2""""""({B,,} PC,2) |"""" z2"" F,4 F,2- |$"" F,2 F,"""""" x3"" F,2 | %7
+"" z2"" B,4 B,2- |$"" B,2 B,"""""" x3"" B,2 |"" E,2"C{" (E2"m" !^!D2)"m" PF2 |$ %10
+"m" =B,2"" G,2"m" =B,,2"" G,,2 |"m" z2"m" G,,2"m" C2- C z |$"m" C2- C z"m" =B,2- B, z | %13
+"m""m" _B,2- B, z"m" A,2"m" (G,2 |$"""" !^!^F,4)"m""m" G,2"""" D,2 | %15
+"m""m" G,,2[K:treble]"" B z"m" B z"m" A z |$"" B z"" D z"m" E z"" =E z | %17
+"" F"" z[K:bass] F, z"" D,2- D, z |$ D,2- D, z D,2- D, z |"" E, z E,, z"" =E,2- E, z |$ %20
+ =E,2- E, z E,2- E, z |"" F, z"" D, z"m" (G, z/4 F,/4E,/4D,/4"m" C,) z |$ %22
+"" (F, z/4 G,/4F,/4E,/4"m" (D,2)"m" !^!C,)""B,,"""" F,2 |"""" z2 z F,- [F,B,]4 |] %24
+V:3
+ x8 | x8 |$ F,,4 G,2 A,2 | x2 G,,2 x2 A,,2 |$ z z/4 E,/4D,/4C,/4 B,,2- B,,A,,/B,,/ C,C,, | %5
+ F,,4 F,,4 |$ F,,2- F,,D, E,B,, F,F,, | B,,4 B,,4 |$ B,,2- B,,G, _A,E, B,B,, | x8 |$ x8 | %11
+ C,,4 x2 C, z |$ x2 C, z x2 =B,, z | x2 _B,, z x4 |$ ^F,2 D,2 G,C, D,D,, | x2[K:treble] x6 |$ x8 | %17
+ x2[K:bass] x2 D,2 D,, z |$ D,2 D,, z D,2 D,, z | x4 =E,2 =E,, z |$ =E,2 =E,, z E,2 E,, z | %21
+ z2 D,, z x4 |$ x6 F,F,, | B,,4- B,,4 |] %24
+V:4
+ x16 | x16 |$ x16 | x16 |$ x9 C- C>D x2 A,>B,- | B,B,A,2- [A,C] x4 cA_E- [EA] x3 |$ %6
+ x cFD- [DF] x11 | x9 fd_A- x x3 |$ z fBG- [GB] x11 | x4 z G2G z F2F z _A2A |$ %10
+ z F2F z =B,2B,[K:bass] z F,2F, z F,G,D,- | D,D,E,C,- [C,E,][K:treble] x5 e2- e4 |$ %12
+ x2 ^F2 x6 d2 x4 | x2 =E2- E x4 _E3 x E3 |$ x D3- [DA] x5 G x B,A,-A,2 | %15
+ z CB,2 x d3- d2>c2- c2<c2- |$ c2>B2- B2<B2- B2>B2- BB2B- | BBA2 x5 _A x B,- [B,F] x3 |$ %18
+ x _A,3- [A,B,] x4[K:bass] x F,2- F,2>F,2- | F,F,G,E,- [E,G,][K:treble] x4 BGC- [CG] x3 |$ %20
+ x B,3- [B,C] x4[K:bass] x G,2- G,2>G,2- | G,(G,A,)F, x12 |$ x4[K:treble] x4 C2D2- D2<C2 | %23
+ z ED2- D4- D8 |] %24
+V:5
+ x8 | x8 |$ x8 | x8 |$ x8 | z A,/C/- C2 z A- A2 |$ x F- x6 | x5 d- x2 |$ x B- x6 | x8 |$ %10
+ x4[K:bass] x4 | x E,- x/[K:treble] x11/2 |$ x8 | x5 ^F x G |$ x A- x6 | x B,/D/ x6 |$ x8 | %17
+ x5 F- x2 |$ x B,- x5/2[K:bass] x7/2 | x G,- x/[K:treble] x5/2 G- x2 |$ x C- x5/2[K:bass] x7/2 | %21
+ x A, x6 |$ x2[K:treble] x2 EF- FE | z D/F/- x6 |] %24

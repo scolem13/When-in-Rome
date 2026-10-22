@@ -1,0 +1,58 @@
+% Liebster Jesu, wir sind hier: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=708
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Liebster Jesu, wir sind hier
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 ) 5 6
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="right" snm="P Fl"
+L:1/4
+V:2 treble 
+V:3 treble nm="left" snm="Rec"
+V:4 treble 
+V:5 bass nm="Recorder" snm="Rec"
+V:6 bass nm="Recorder" snm="Rec"
+V:1
+ [cc'] [Bb]/[Aa]/ [GBgb] [Fef]/[Ee]/ | [Fcfc'] [Bb] [Gg] [Ff]/[Ee]/ | [Ff]2 [EAea] [EAea] | %3
+ [EBeb] [Ee] [Ff] [Gg]/[Aa]/4[Ff]/4 | [Ff]2 [Ee]2 | [cc'] [Bb]/[Aa]/ [GBgb] [Fef]/[Ee]/ | %6
+ [Fcfc'] [Bb] [Gg] [Ff]/[Ee]/ | [Ff]2 [EAea] [EAea] | [EBeb] [Ee] [Ff] [Gg]/[Aa]/4[Ff]/4 | %9
+ [Ff]2 [Ee]2 | [Ee] [Ee] [B,EBe] [B,EBe] | [B,FBf]/>[Gg]/ [B,ABa] [CGcg] [EGeg] | %12
+ [^DA^da] [DAda] [EAea] [EAea] | [EBeb] [Ee] [Ff] [Gg]/[Aa]/4[Ff]/4 | %14
+[Q:1/4=40][Q:1/4=16] [Ff]2 [Ee]2 |] %15
+V:2
+ z6 e'2 | z3 [Aa] [Bb]4 | [Aa]2 [Aa]2 z4 | z2 [cc'][dd']/[Bb]/ [Bb]4 | [Aa]8 | z6 e'2 | %6
+ z3 [Aa] [Bb]4 | [Aa]2 [Aa]2 z4 | z2 [cc'][dd']/[Bb]/ [Bb]4 | [Aa]8 | x8 | z4 z3/2 [^D^d]/ z2 | %12
+ x8 | z2 [cc'][=d=d']/[Bb]/ [Bb]4 | [Aa]8 |] %15
+V:3
+ [EA,eA][DB,dB] [ECec][F^Df^d] [G,G]2 [A,F,AF][B,G,BG] | [CcA][Aa] [Gg][Ff] [Ee]2 [G,G]2 | %2
+ [CcA,A][B,G,BG] [CA,cA][DB,dB] [Ee]2 [DG,dG][CA,cA] | %3
+ [DE,dE][CG,cG] [Ee][E,E] [D,D][Dd] [Cc][B,B] | [CA,cA][DE,dE] [Dd]3 [Cc]/[B,B]/ [Cc]2 | %5
+ [EA,eA][DB,dB] [ECec][F^Df^d] [G,G]2 [A,F,AF][B,G,BG] | [CcA][Aa] [Gg][Ff] [Ee]2 [G,G]2 | %7
+ [CcA,A][B,G,BG] [CA,cA][DB,dB] [Ee]2 [DG,dG][CA,cA] | %8
+ [DE,dE][CG,cG] [Ee][E,E] [D,D][Dd] [Cc][B,B] | [CA,cA][DE,dE] [Dd]3 [Cc]/[B,B]/ [Cc]2 | %10
+ [A,C,AC][C^D,c^D] [B,E,BE][A,F,AF] [Ee][E,E] [F,A,FA][G,B,GB] | [A,F,AF][CA,cA] [B,B]6 | %12
+ [A,F,AF][EG,eG] [FA,fA][GB,gB] [ACac][EF,eF] [DG,dG][CA,cA] | %13
+ [DE,dE][CG,cG] [Ee][E,E] [D,D][Dd] [Cc][B,B] | %14
+[Q:1/4=40][Q:1/4=16] [CA,cA][DE,dE] [Dd]3 [Cc]/[B,B]/ [Cc]2 |] %15
+V:4
+ z4 [Ee][E,E] z2 | A,2 [B,B]4 [Cc]2- | z4 E,[F,F] z2 | z3/2 [B,B]/ [A,A]4 [G,G]2 | %4
+ z3/2 [Cc]/ [F,F][G,G] [A,A]4 | z4 [Ee][E,E] z2 | A,2 [B,B]4 [Cc]2- | z4 E,[F,F] z2 | %8
+ z3/2 [B,B]/ [A,A]4 [G,G]2 | z3/2 [Cc]/ [F,F][G,G] [A,A]4 | z4 [G,G]2 z2 | %11
+ z2 [G,G][F,F] [E,E][G,G] [F,F][E,E] | x8 | z3/2 [B,B]/ [A,A]4 [G,G]2 | %14
+ z3/2 [Cc]/ [F,F][G,G] [A,A]4 |] %15
+V:5
+ A,,A, G,F, E,4- | E,2 ^D,2 E,,E, =D,C, | F,,F, E,D, C,C B,A, | G,E, D,C, D,B,, E,E,, | A,,8 | %5
+ A,,A, G,F, E,4- | E,2 ^D,2 E,,E, =D,C, | F,,F, E,D, C,C B,A, | G,E, D,C, D,B,, E,E,, | A,,8 | %10
+ A,,A, G,F, E,4- | E,2 ^D,2 E,,E, D,C, | F,4 C,C B,A, | G,E, D,C, D,B,, E,E,, | %14
+ A,,8[Q:1/4=40][Q:1/4=16] |] %15
+V:6
+ A,,,A,, G,,F,, E,,4- | E,,2 ^D,,2 E,,,E,, =D,,C,, | F,,,F,, E,,D,, C,,C, B,,A,, | %3
+ G,,E,, D,,C,, D,,B,,, E,,E,,, | A,,,8 | A,,,A,, G,,F,, E,,4- | E,,2 ^D,,2 E,,,E,, =D,,C,, | %7
+ F,,,F,, E,,D,, C,,C, B,,A,, | G,,E,, D,,C,, D,,B,,, E,,E,,, | A,,,8 | A,,,A,, G,,F,, E,,4- | %11
+ E,,2 ^D,,2 E,,,E,, D,,C,, | F,,4 C,,C, B,,A,, | G,,E,, D,,C,, D,,B,,, E,,E,,, | %14
+ A,,,8[Q:1/4=40][Q:1/4=16] |] %15

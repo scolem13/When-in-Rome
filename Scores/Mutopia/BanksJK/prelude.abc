@@ -1,0 +1,56 @@
+% Prelude in G minor: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=785
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Prelude in G minor
+C:James Banks
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm="Electric Organ" snm="Elec Org"
+V:2 treble 
+V:3 treble nm="Reed Organ" snm="R Org"
+V:4 treble 
+V:1
+ z2 G,2 [CG,]4 | [G,D]4 [G,E]4 | z2 G,2 _G3 G | GD [CA,][B,G,] B,2 A,2 | z2 G,2 CD [EA,]2 | %5
+ DC ED D B,3 | z2 [G,B,DG]2 A4 | B4 A2 c2 | z2 =G,2 [CG,]4 | [G,D]4 [G,E]4 | z8 | z6 d2 | %12
+ e2 dc B2 d2 | e2 dc G4 | e2 dc b2 c'b | a2 b[_gD] a=g dB | e6 ec | dc ed dc AB | G8 | G8 | G8 | %21
+ [AG]8 | [BG]8 | A8 | G6 [dc][cG] | d8 | G6 [dc][cG] | d8 | G6 [dc][cG] | d8 | G8 | G8 | %32
+ [GC]4 G2 z2 | z2 g4 a2 | [bB]4 _g2 =g2 | [ge]8 | g8 | g8 | g8 | g8 | g8 | [gC]4 [gB,]4 | g8 | g8 | %44
+ g8 | g8 | g8 | [gc]8 | g8 | g8 | g8 | g8 | g8 | g8 | g8 | g8 | g8 | g8 | g8 | g8 | [gG]8 | [gG]8 | %62
+ z2 G,2 [CG,]4 | [G,D]4 [G,E]4 | z2 G,2 _G3 G | GD [CA,][B,G,] B,2 A,2 | G,8 |] %67
+V:2
+ x8 | x8 | z4 =G,2 A,2 | B,2 z2 G,4 | z4 G,2 z2 | B,2 B,2 A,3 G, | z4 G2 _G2 | E2 D2 _G4 | x8 | %9
+ x8 | x8 | x8 | x8 | z6 gf | G8 | A3 z B2 G,2 | z2 GA B4 | B4 B3 z | x8 | x8 | z2 Bc d2 dB | x8 | %22
+ x8 | G4 F4 | z2 Bc e2 z2 | B4 A4 | z2 Bc e2 z2 | B4 A4 | z2 Bc e2 z2 | B4 A4 | z4 F4 | E4 D4 | %32
+ x8 | z2 B6 | z4 d4 | x8 | d4 c B3 | A4 F4 | F4 E4 | E4 D4 | D4 C4 | x8 | B2 GA B2 AG | %43
+ c2 AB c2 BA | G4 FA Bc | G2 GA/B/ ce f2 | e4 d4 | x8 | B2 GA B2 AG | c2 AB c2 BA | d2 ed c2 BA | %51
+ B4 F4 | F4 E4 | E2 C2 D4 | c2 AB c2 BA | B4 A4 | c2 AB d2 cB | A4 d4 | c2 AB GB de | c4 A2 BF | %60
+ x8 | x8 | x8 | x8 | z4 =G,2 A,2 | B,2 z2 G,4 | x8 |] %67
+V:3
+ z4 e3 d | dc BA BA G2 | z4 G,2 D2 | =G,4 D,4 | z4 E,=D, C,2 | [=G,D,]2 [G,C,][F,D,] F,2 _G,2 | %6
+ z4 (3[D=E][_G=G][AB] (3[cA][_Gd][cA] | %7
+ (3[B=G][DB,][DG] (3[BG][DB,][C_E] (3[A_G][DB,][DG] (3[AB,][DA][=G_G] | %8
+ (3[BA][=GF][ED] (3[CG,C,][D,E,][D,C,] (3[A,C,][D,E,][D,C,] (3[B,D,][=E,_G,][E,D,] | %9
+ (3[CD,][_E,C][B,A,] (3[B,D,][=G,A,][B,D] (3[GA,][B,D][GA] (3[BD][CA][G_E] | %10
+ (3[DD,][_G,A,][DB,] (3[ED,][G,A,][EC] (3[_GD,][G,C][GD] (3[BA][=GF][ED] | %11
+ (3[ED][CB,][A,G,] (3[B,A,][G,D,][A,_G,] =G,4 | G,8 | C2 B,A, G,2 G,2 | C4 D4 | E4 _G4 | %16
+ z2 [G,DG][cC] [B,Fd]4 | [BGG,]4 [G,EB]4 | z2 G,A, B,2 DE | [CA,]2 DA, CB, A,G, | z2 G,A, B,2 DE | %21
+ DF,/A,/ C/E/D/C/ DE,/G,/ B,/D/C/A,/ | [B,_D,]2 (3G,A,B, B,2 A,G, | [A,=D,]8 | %24
+ z2 [G,D,][A,E,] [B,G,]2 [DA,][EB,] | D3 B, D2 B,2 | z2 [G,D,][A,E,] [B,G,]2 [DA,][EB,] | %27
+ D3 B, D2 B,2 | z2 [G,D,][A,E,] [B,G,]2 [DA,][EB,] | D3 B, D2 B,2 | z2 G,A, B,2 DE | %31
+ [DG,]3 [B,_G,] [DE,]2 [B,D,]2 | A,3 B, C2 B,A, | G,2 D2 E4 | D2 C6 | C4 B,4 | B,6 DE- | G,8 E8 | %38
+ [GG,]8 | [FG,]8 | [EG,]8 | [DG,]4 [G,D,]4 | E4 D4 | [CG,]8 | CD E4 D2 | FD CD E2 D2 | B,4 F4 | %47
+ E4 C2 E2 | D4 E4 | _G4 A,4 | B,4 E4 | [FG,]8 | [GG,]8 | A4 B4 | C4 D4 | E2 DE DC B,A, | D4 E4 | %57
+ C2 DF ED CB, | E4 C4 | D2 CB, A,2 B,A, | G,8 | [G,D,]8 | z4 e3 d | dc BA BA G2 | z4 G,2 D2 | %65
+ =G,4 D,4 | G,8 |] %67
+V:4
+ z4 c4 | G6 z A | z4 z _G, E,D, | D,E, D,_D, z4 | z4 C,2 z _G, | z4 D,4 | x8 | x8 | x8 | x8 | x8 | %11
+ x8 | z4 B,2 B,2 | G,4 z4 | G,8 | =G,8 | x8 | x8 | z4 G,4 | z2 _G,2 =G,3 z | x8 | x8 | z4 _D,4 | %23
+ x8 | x8 | G,4 G,4 | x8 | G,4 G,4 | x8 | G,4 G,4 | z2 D,2 E,4 | x8 | C,6 z2 | z2 G,6 | A,8 | G,8 | %36
+ G,8 | x16 | x8 | x8 | x8 | x8 | G,8 | x8 | G,8 | G,8 | G,8 | G,8 | G,8 | =G,8 | G,8 | x8 | x8 | %53
+ G,8 | G,8 | G,8 | G,8 | G,8 | G,8 | G,8 | z4 C,2 E,2 | x8 | z4 c4 | G6 z A | z4 z _G, E,D, | %65
+ D,E, D,_D, z4 | x8 |] %67

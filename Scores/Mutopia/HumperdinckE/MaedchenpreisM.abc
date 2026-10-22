@@ -1,0 +1,32 @@
+% Mädchenpreis des fahrenden Sängers: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1702
+% Licence: Creative Commons Attribution 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Mädchenpreis des fahrenden Sängers
+C:Volksweise, 1460 aufgezeichnet,
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=138
+M:6/8
+I:linebreak $
+K:F
+V:1 bass nm="BassStaff:BassA" snm="V"
+V:2 bass 
+V:3 bass nm="TenorStaff:TenorA" snm="V"
+V:4 bass 
+V:1
+ x4 x C, | F,2 F, F,2 F, | F,3 F, z [A,F,] | [G,E,]2 [G,E,] [F,D,]2 [F,B,,] | F,4 z C, | %5
+ F,2 F, E,2 D, | [E,C,]3 [E,C,] z [E,=B,,] | [E,A,,]2 A, G,2 [F,G,,] | E,4- E, [E,G,,] | %9
+ [A,F,,]2 [A,F,] [CA,,]2 [B,B,,] | [A,F,]3 F, z [A,F,] | [G,E,]2 [G,E,] [F,D,]2 [F,G,,] | %12
+ [E,C,]3 D,2 [D,G,,] | [C,A,,]2 [F,B,,] F,D,[E,C,] | F,4 z C, | F,4 x2 |] %16
+V:2
+ x x5 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | C,2 B,, A,,2 z | z6 | z6 | z6 | z6 | z3 C,2 z | z6 | %15
+ z4 x2 |] %16
+V:3
+ x4 x C, | F,2 F, A,2 A, | [CA,]3 [CA,] z [CF,] | [CG,]2 [CG,] [DA,]2 [DB,] | [CA,]3 [A,F,] z C, | %5
+ F,2 F, [A,F,]2 [A,F,] | [CG,]3 [CG,] z [CG,] | [CA,]2 C D2 [D=B,] | C4- C [C_B,] | %9
+ [FC]2 [FC] [EA,]2 [DF,] | [CF,]3 [A,F,] z [A,F,] | [CG,]2 C D2 [D=B,] | [CG,]3 [_B,F,]2 [B,F,] | %13
+ [A,F,]2 [A,D,] G,2 G, | F,4 z C | F,4 x2 |] %16
+V:4
+ x x5 | z6 | z6 | z6 | z6 | z6 | z6 | z3 CA, z | z2 G, A,2 z | z6 | z6 | z3 CA, z | z6 | z6 | z6 | %15
+ z4 x2 |] %16

@@ -1,0 +1,100 @@
+X:1
+T:Liederkreis
+T:Zwielicht
+C:Robert Schumann
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+Z:
+%%score 1 { ( 2 3 7 8 ) | ( 4 5 6 ) }
+L:1/8
+Q:1/4=70
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:7 treble 
+L:1/4
+V:8 treble 
+L:1/4
+V:4 bass 
+V:5 bass 
+V:6 bass 
+L:1/4
+V:1
+"^Langsam" z2 z2 z2 z2 | z2 z2 z2 z2 | z2 z2 z2 z2 | z2 z2 z2 z2 |$ z2 z2 z2 z2 |$ z2 z2 z2 z2 | %6
+w: ||||||
+ z2 z2 z2 z2 |!p! G3 G G2 ^c2 | d3 ^c B2 A2 |$ ^G3 G G2 B2 |$ (B =c2) B A2 =G2 | ^F3 F F2 F2 | %12
+w: |Dämm'- rung will die|Flü- gel sprei- ten,|schau- rig rüh- ren|sich * die Bäu- me,|Wol- ken zieh'n wie|
+[Q:1/4=67]"^ritard." G3 G[Q:1/4=64] G2 E2 |[Q:1/4=60] z2 E E E E E ^D |$ %14
+w: schwe- re Träu- me,|was will die- ses Grau'n be-|
+ G2 F2[Q:1/4=54] z2 z2[Q:1/4=57]"_ritard." | %15
+w: deu- ten?|
+!p![Q:1/4=70]"^Im Tempo"[Q:1/4=70]"_Im Tempo" G3 G G2 ^c2 | d3 ^c B2 A2 | ^G2 z G G2 B2 |$ %18
+w: Hast ein Reh du|lieb vor an- dern,|lass es nicht al-|
+ =c3 B A2 =G2 | F3 F F2 F2 | G3[Q:1/4=66]"^ritard." G G2[Q:1/4=62] E2 | z2 E E E E E ^D |$ %22
+w: lei- ne gra- sen,|Jä- ger zieh'n im|Wald und bla- sen,|Stim- men hin und wie- der|
+[Q:1/4=58] G2[Q:1/4=58] F2[Q:1/4=58] z4 |$ %23
+w: wan- dern.|
+!p![Q:1/4=70]"^Im Tempo"[Q:1/4=70]"_Im Tempo" G3 G G2 ^c2 | d3 ^c B2 A2 | ^G3!<(! G G2!<)! ^d2 | %26
+w: Hast du ei- nen|Freund hie- nie- den,|trau' ihm nicht zu|
+ (e ^G2) ^d ^c3 B |$ A3 B ^G3 G | A3 B ^G3 G | F3 ^G E3 E | F3 ^G E3 E |$ z8 |!p! =G2 G2 G3 ^c | %33
+w: die- * ser Stun- de,|freund- lich wohl mit|Aug' und Mun- de,|sinnt er Krieg im|tück'- schen Frie- den.||Was heut' ge- het|
+ d3 ^c B2 A2 | ^G3 G G2 B2 |$ =c3 B A2 =G2 |$ F3 F F2 F2 | (A G2) G G2 G2 | %38
+w: mü- de un- ter,|hebt sich mor- gen|neu ge- bo- ren.|Man- ches geht in|Nacht * ver- lo- ren,|
+ G3/2 ^A,/ A,2 z A, A, A, | B, B, z2 z4 | z2 |] %41
+w: hü- te dich, sei wach und|mun- ter!||
+V:2
+ z!p! (GED ^CEG-^c | d3 ^c B3 A | ^G) (=FDC B,DFB | c3 B A3 =G) |$ [A,^F]6- [A,F]^D |$ %5
+[K:bass] ([G,E]3 [G,E] [F,^D]3 [=F,=D]- | [F,D] [E,C]2 [=F,A,]2 [E,G,]2 [^D,^F,]) | %7
+[K:treble] z (GED ^CEG-^c | d3 ^c B3 A) |$ ^G4- G3 B |$ (c3 B A3 =G) | [A,^F]8 | %12
+"_ritard." [^A,G]8- | [A,G-]8 |$ x G3- G2 F2 |!p! z (GE=D ^CEG^c | d3 ^c B3 A | %17
+ [B,^G]) (=FDC B,DF-B |$ c3 B A3 =G) | [A,^F]8 | [^A,G]8- | [A,G-]8 |$ x"_ritard." G3- G2 F2 |$ %23
+ z (GE=D!<(! ^CEG-!<)!^c | d3 ^c!<(! B3!<)! A | ^G4)!<(! (FA-^B^d!<)! | e3 ^d ^c3 =B) |$ %27
+ A3 (A ^G3) (G | A3) (A ^G3) (G | F3) (F E3) (E | F3) (F E3) E- |$!pp! [E=G]8 | %32
+ e [^A,^CEG][A,CEG][A,CEG] [A,CEG]!<(![A,CEG][A,CEG][A,CEG] | %33
+ [B,DF][B,DF][B,DF][B,DF] [B,DF][B,DF][B,DF]!<)![B,DF] | %34
+!>(! [^G,B,D=F][G,B,DF][G,B,DF][G,B,DF] [G,B,DE][G,B,DE][G,B,DE][G,B,DE]!>)! |$ %35
+ [A,CE][A,CE][A,CE][A,CE] [A,CE][A,CE][A,CE][A,CE] |$!<(! [A,C^F]8!<)! | %37
+{[G,-A,-C]} !>![G,A,A]4 [G,G]4- | [G,CG]2 z2 z4 | z8 | z2 |] %41
+V:3
+ x6 G2 | GF E2- ED =C2 | B, x3 x2 =F2- | FE D2- DC B,2 |$ x8 |$[K:bass] x8 | x8 |[K:treble] x6 G2 | %8
+ GF E2- ED =C2 |$ B,2 x6 |$ x8 | x8 | x8 | z4!pp! E4- |$ [EG] G^D-B,- [B,D]4 | x6 G2- | %16
+ GF E2- ED =C2 | x =F3 x2 F2 |$ FE D2- DC B,2 | x8 | x8 | z4!pp! E4- |$ [EG] G^D-B,- [B,D]4 |$ %23
+ x G3 x2 G2 | GF E2- ED ^C2- | C^C^B,^D x A3 | A^G F2- FE =D2- |$ D^C ^B,2- B,^D C2- | %28
+ C^C ^B,2- B,^D C2- | C^C ^B,2- B,B, C2- | C^C ^B,2- B,B, C2 |$ z!<(! =B,^A,^C E^G^A!<)!^c | x8 | %33
+ x8 | x8 |$ x8 |$ x8 | C8- | x8 | x8 | x2 |] %41
+V:4
+"m""m""m" z8 |"""m""m""m" z8 |"m""m""m" z8 |"""m""m""" z8 |$ %4
+"m" z!p! (C,A,,G,, F,,A,,"m"C,-)[I:staff -1]F, |$""[I:staff +1] C,C,"m" ^A,,2-"" A,,B,,"m" ^G,,2 | %6
+"m" =A,,2"" =F,,2"" B,,2"" B,,,2 |"m""m" [E,,E,]8- |"" [E,,E,]2"m" [B,,,B,,]2"m""m" z4 |$ %9
+"m" z =F3"m" x2"m" F-[I:staff -1]B |$""[I:staff +1] [DF]E"m" D2-"m" DC"" B,2 | %11
+"m" z!p! (C,A,,G,, ^F,,A,,"m"C,^D, |"CGer6" E,)!<(! (C,G,,F,, E,,G,,C,E, | G,2)!<)! z2 C,,4 |$ %14
+"""" B,,,4!>(! =A,^D,""B,,F,,!>)! |"m""m" E,,8- |"" E,,2"m""m""m" [B,,,B,,]6- | %17
+"m" [B,,,B,,]2"m""m" [E,,,E,,]6- |$"" [E,,,E,,]2"m" [A,,,A,,]2"m""" z4 | %19
+"m" z!p! (C,A,,G,,"m" F,,A,,C,^D, |"CGer6" E,)!<(! (C,G,,F,, E,,G,,C,E,!<)! | G,2) z2 C,,4 |$ %22
+"""" B,,,4!>(! =A,^D,""B,,F,,!>)! |$"m""m" E,,8- |"" E,,"m""m" B,,,2"m" ^C,,2"m" D,,2 F,,- | %25
+"m" F,,2"""" [^G,,,^G,,]6- |"m" [G,,,G,,]"m" [^C,,^C,]2"m" [^D,,^D,]2"m" [E,,E,]2 [^E,,^E,]- |$ %27
+"m" [E,,E,](F,,"m" F,2-"" F,=E,,"m" (=E,2 |"m" F,)F,,"m" F,2-"" F,E,,"m" E,2-) | %29
+"m" E,(^D,,"" ^D,2-"m" D,^C,,"m" ^C,2-) |"m" C,(^D,,"" ^D,2-"m" D,^C,,"m" ^C,2-) |$ %31
+"m" C,F,,,-""!ped! [F,,,F,,]6- |"" [F,,,F,,]4 ([F,,,F,,]4!ped-up! |"m" [B,,,B,,]4"m" [D,,D,]4 | %34
+"m" [=F,,=F,]4"" [E,,E,]4) |$"m" [A,,,A,,]4"m" [C,,C,]4 |$"m" [^D,,^D,]8 |"""" [E,,E,]8- | %38
+"CGer6" [E,,E,]2 z2 [E,G,^A,] z z2 |"" z2 .[E,G,B,] z z2"" .[^D,F,B,] z |"m" .[E,G,B,] z |] %41
+V:5
+ x8 | x8 | x8 | x8 |$ x6 C,2 |$ x8 | x8 | x8 | x8 |$ x =FDC B,D-F x |$ x8 | x4 F,,4 | x8 | x8 |$ %14
+ x8 | x8 | x8 | x8 |$ x8 | x4 F,,4 | x8 | x8 |$ x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ %31
+ x8 | x8 | x8 | x8 |$ x8 |$ x8 | x8 | x4 [C,,C,] z z2 | z2 .[B,,,B,,] z z2 .[B,,,B,,] z | %40
+ .[E,,B,,] z |] %41
+V:6
+ x4 | x4 | x4 | x4 |$ x4 |$ x4 | x4 | x4 | x4 |$ x D x/ D3/2 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %17
+ x4 |$ x4 | x4 | x4 | x4 |$ x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ %35
+ x4 |$ x4 | x4 | x4 | x4 | x |] %41
+V:7
+ x4 | x4 | x4 | x4 |$ x4 |$[K:bass] x4 | x4 |[K:treble] x4 | x4 |$ x4 |$ x4 | x4 | x4 | x4 |$ %14
+ x ^D x2 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x ^D x2 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %30
+ x4 |$ x2 E2 | x4 | x4 | x4 |$ x4 |$ x4 | x4 | x4 | x4 | x |] %41
+V:8
+ x4 | x4 | x4 | x4 |$ x4 |$[K:bass] x4 | x4 |[K:treble] x4 | x4 |$ x4 |$ x4 | x4 | x4 | x4 |$ B4 | %15
+ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ B4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | %33
+ x4 | x4 |$ x4 |$ x4 | x4 | x4 | x4 | x |] %41

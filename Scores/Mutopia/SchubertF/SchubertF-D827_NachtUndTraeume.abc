@@ -1,0 +1,88 @@
+% Nacht und Träume: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1548
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Nacht und Träume
+C:SchubertF
+%%score 1 ( 2 3 ) 4 5
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:none
+V:1 bass nm="pianoDown" snm="Ac Gtr"
+L:1/16
+V:2 treble nm="chant" snm="V"
+V:3 treble 
+V:4 bass nm="pianoUpI" snm="Ac Gtr"
+V:5 bass nm="pianoUp" snm="Ac Gtr"
+L:1/16
+V:1
+ x8 |[K:B][M:4/4][M:4/4][Q:1/4=25] B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, | %2
+[M:4/4] A,,,F,,A,,,F,, A,,,F,,A,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, | %3
+ D,,=G,,D,,G,, D,,G,,D,,G,, ^G,,,^G,,G,,,G,, G,,,G,,G,,,G,, | %4
+ A,,,F,,A,,,F,, A,,,F,,A,,,F,, A,,,F,,A,,,F,, A,,,F,,A,,,F,, | %5
+ B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, | %6
+ B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, | %7
+ B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, | %8
+ B,,,=G,,B,,,G,, B,,,G,,B,,,G,, B,,,^G,,B,,,G,, B,,,G,,B,,,G,, | %9
+ C,,C,C,,C, C,,C,C,,C, F,,C,F,,C, F,,C,F,,C, | %10
+ A,,,=G,,A,,,G,, A,,,G,,A,,,G,, B,,,^G,,B,,,G,, B,,,G,,B,,,G,, | %11
+ C,,C,C,,C, C,,C,C,,C, F,,C,F,,C, F,,C,E,,C, | %12
+ D,,B,,D,,B,, D,,B,,D,,B,, C,,A,,C,,A,, =C,,=A,,C,,A,, | %13
+ ^C,,G,,C,,G,, C,,G,,C,,G,, F,,,F,,F,,,F,, F,,,F,,F,,,F,, | %14
+ B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,F,,B,,,F,, | %15
+ =G,,,=G,,G,,,G,, G,,,G,,G,,,G,, G,,,G,,G,,,G,, G,,,G,,G,,,G,, | %16
+ =G,,,=G,,G,,,G,, G,,,G,,G,,,G,, G,,,G,,G,,,G,, G,,,G,,G,,,G,, | %17
+ =C,,=G,,C,,G,, C,,G,,C,,G,, C,,G,,C,,G,, C,,G,,C,,G,, | %18
+ =C,,=G,,C,,G,, C,,G,,C,,G,, C,,G,,C,,G,, C,,G,,C,,G,, | %19
+ =G,,,=G,,G,,,G,, G,,,G,,G,,,G,, G,,,G,,G,,,G,, G,,,G,,G,,,G,, | %20
+ A,,,=G,,A,,,G,, A,,,G,,A,,,G,, A,,,G,,A,,,G,, A,,,G,,A,,,G,, | %21
+ A,,,=G,,A,,,G,, A,,,G,,A,,,G,, B,,,^G,,B,,,G,, B,,,G,,B,,,G,, | %22
+ C,,C,C,,C, C,,C,C,,C, F,,C,F,,C, F,,C,F,,C, | %23
+ A,,,=G,,A,,,G,, A,,,G,,A,,,G,, B,,,^G,,B,,,G,, B,,,G,,B,,,G,, | %24
+ C,,C,C,,C, C,,C,C,,C, F,,C,F,,C, F,,C,E,,C, | %25
+ D,,B,,D,,B,, D,,B,,D,,B,, C,,A,,C,,A,, =C,,=A,,C,,A,, | %26
+ ^C,,G,,C,,G,, C,,G,,C,,G,, F,,,F,,F,,,F,, F,,,F,,F,,,F,, | %27
+ B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,=G,,B,,,G,, B,,,G,,B,,,G,, | %28
+ B,,,F,,B,,,F,, B,,,F,,B,,,F,, B,,,=G,,B,,,G,, B,,,G,,B,,,G,, | [B,,,F,,]8- [B,,,F,,]8 |] %30
+V:2
+ x4 |[K:B][M:4/4][Q:1/4=25] z8 |[M:4/4] z8 | z8 | z8 | d4- d3 A | B4- BB cd | F4 D2 z2 | %8
+ d3 c cB AG | c4 A2 z2 | d3 c cB AG | c4 A2 z2 | FB cd e2 d2 | d2 c2 B2 A2 | B4 z4 | %15
+ z7 (3:2:2B z/ | B2 B2 B=G B=d | e4- e2 z (3:2:2e z/ | e2 e2 e=c =Ge | =d4- d2 z2 | %20
+ e2 cc/c/ e>=d c2 | ^d7/2 c/ cB AG | c4- c2 z e | d7/2 c/ cB AG | c4 A2 z2 | FB cd e2 d2 | %26
+ d2 c2 B2 A2 | B4 x4 |] %28
+V:3
+ x4 |[K:B][M:4/4] z8 |[M:4/4] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %15
+ z15/2 B/ | z8 | z15/2 e/ | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 x4 |] %28
+V:4
+ x4 |[K:B][M:4/4][M:4/4][Q:1/4=25] x4 x4 |[M:4/4] F2 E2 E2 D2 | D2 C2 CB, A,G, | %4
+ G,3 =G, F,F, F,F, |] %5
+V:5
+ x8 |[K:B][M:4/4][M:4/4][Q:1/4=25] [B,D]F,[B,D]F, [B,D]F,[B,D]F, [B,D]F,[B,D]F, [B,D]F,[DF]F, | %2
+[M:4/4] DF,DF, CF,CF, CF,CF, B,F,B,F, | B,D,B,D, A,D,A,D, A,D,G,D, B,,D,B,,D, | %4
+ E,C,E,C, E,C,E,C, E,C,E,C, E,C,E,C, | %5
+ [B,D]F,[B,D]F, [B,D]F,[B,D]F, [B,D]F,[B,D]F, [B,D]F,[B,D]F, | %6
+ [B,D]F,[B,D]F, [B,D]F,[B,D]F, [B,D]F,[B,D]F, [B,D]F,[B,D]F, | %7
+ [A,E]F,[A,E]F, [A,E]F,[A,E]F, [B,D]F,[B,D]F, [B,D]F,[B,D]F, | %8
+ [B,D]=G,[B,D]G, [B,D]G,[B,D]G, [B,D]^G,[B,D]G, [B,D]G,[B,D]G, | %9
+ [B,=F]G,[B,F]G, [B,F]G,[B,F]G, [A,^F]^F,[A,F]F, [A,F]F,[A,F]F, | %10
+ [CD]=G,[CD]G, [CD]G,[CD]G, [B,D]^G,[B,D]G, [B,D]G,[B,D]G, | %11
+ [B,=F]G,[B,F]G, [B,F]G,[B,F]G, [A,^F]^F,[A,F]F, [A,F]F,[A,F]F, | %12
+ [B,F]F,[B,F]F, [B,F]F,[B,F]F, [A,F]F,[A,F]F, [=A,F]F,[A,F]F, | %13
+ [G,F]F,[G,F]F, [G,E]E,[G,E]E, [F,D]D,[F,D]D, [F,C]E,[F,C]E, | %14
+ [D,B,]F,[B,D]F, [B,D]F,[B,D]F, [B,D]F,[B,D]F, [B,D]F,[B,D]F, | %15
+ [B,=D]=G,[B,D]G, [B,D]G,[B,D]G, [B,D]G,[B,D]G, [B,D]G,[B,D]G, | %16
+ [B,=D]=G,[B,D]G, [B,D]G,[B,D]G, [B,D]G,[B,D]G, [B,D]G,[B,D]G, | %17
+ [=CE]=G,[CE]G, [CE]G,[CE]G, [CE]G,[CE]G, [CE]G,[CE]G, | %18
+ [=CE]=G,[CE]G, [CE]G,[CE]G, [CE]G,[CE]G, [CE]G,[CE]G, | %19
+ [B,=D]=G,[B,D]G, [B,D]G,[B,D]G, [B,D]G,[B,D]G, [B,D]G,[B,D]G, | %20
+ [=G,C]E,[G,C]E, [G,C]E,[G,C]E, [G,C]E,[G,C]E, [G,C]E,[G,C]E, | %21
+ [=G,CD]D,[G,CD]D, [G,CD]D,[G,CD]D, [^G,B,D]D,[G,B,D]D, [G,B,D]D,[G,B,D]D, | %22
+ [B,=F]G,[B,F]G, [B,F]G,[B,F]G, [A,^F]^F,[A,F]F, [A,F]F,[A,F]F, | %23
+ [CD]=G,[CD]G, [CD]G,[CD]G, [B,D]^G,[B,D]G, [B,D]G,[B,D]G, | %24
+ [B,=F]G,[B,F]G, [B,F]G,[B,F]G, [A,^F]^F,[A,F]F, [A,F]F,[A,F]F, | %25
+ [B,F]F,[B,F]F, [B,F]F,[B,F]F, [A,F]F,[A,F]F, [=A,F]F,[A,F]F, | %26
+ [G,F]F,[G,F]F, [G,E]E,[G,E]E, [F,D]D,[F,D]D, [F,C]E,[F,C]E, | %27
+ [D,B,]F,[B,D]F, [B,D]F,[B,D]F, [A,CE]=G,[A,CE]G, [A,CE]G,[A,CE]G, | %28
+ [B,D]F,[B,D]F, [B,D]F,[B,D]F, [A,CE]=G,[A,CE]G, [A,CE]G,[A,CE]G, | [F,B,D]8- [F,B,D]8 |] %30

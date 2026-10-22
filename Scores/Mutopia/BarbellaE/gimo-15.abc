@@ -1,0 +1,99 @@
+% Sonata a Due Mandolini (Gimo 15): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=320
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonata a Due Mandolini (Gimo 15) (1)
+C:Emmanuele Barbella (1718-1777)
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="II"
+V:2 treble 
+L:1/8
+V:3 treble nm="I"
+V:4 treble 
+L:1/8
+V:1
+ x | z15 E | A2A2 A2B2 B4 c2 z2 | CA,CA, CA,CA, DCDC DCDC | G2 A4 B2 B2>G2 A2 z2 | %5
+ CA,CA, CA,CA, DA,DA, DA,DA, | G2 A4 B2 [AB]2<c2 z2 A,-A, | %7
+ [cA] z [cA] z [cA] z [cA] z [BG] z [BG] z [BG] z [BG] z | [^DB,]2[DB,]2 [DB,]2[DB,]2 [EB,]6 z2 | %9
+ G2>[AB]2 A2G2 G4 A2 z2 | ^A2>[Bc]2 B2A2 A4 B2 z2 | fe^dc B=AGF fedc BAGF | E4 z2 G2 A2G2 A2G-G | %13
+ A4 ^d2>[ef]2 e2c2 A2B-B | E4 z2 [GA]B A2[GA]B A2[GA]B | A4 ^d2>[ef]2 e2c2 A2B-B | %16
+ E2(3:2:2g2 z2 ^dBf eBGe AGFA | GEge f^dBf eBGe AGFA | G2(3:2:2[EG,]2 z [EG,]2[EG,]2 [EG,]4 z4 | %19
+ z15 B | e2e2 e2f2 [fB]4 g2 z2 | GEGE GEGE AEAE AEAE | ^d2 e4 f2 f2d2 e2 z2 | GEGE GEGE AEAE AEAE | %24
+ ^D2 E4 F2 [EF]2<G2 z4 | B8 B7- E | bagf edcB [AB]2<c2 z2 f-f | fddB B2A2 A2G2 z4 | %28
+ GBEB GBEB AcEc AcEc | GBEB GBEB AcEc AcEc | DA,DA, DA,DA, CA,CA, CA,CA, | D2D2 E2E2 A2A,2 cBcA | %32
+ dB z2 bg z2 cA z2 ac z2 | dB z2 bg z2 cA z2 ae z2 | =f4 ^f2a2 ^d4 =f2a-a | %35
+ [^fe][=dc] z [dB] B4 A2A,2 z4 | G2 A4 B2 A2 c4 A-A | G2 A4 B2 A2 c4 A-A | G2 A4 B2 A2G2 z4 | %39
+ [dFA,]2>e2 f2f2 f2>[ed]2 c2B-B | A2F2 D2E2 D2A,2 z4 | [dFA,]2>e2 f2f2 f2>[ed]2 c2B-B | %42
+ A2F2 D2E2 A2F2 D2E-E | A,2D2 E2E2 [AEA,]2[AEA,]2 [AEA,]2[AEA,]-[AEA,] | Acea Acea [AEA,]4 x4 |] %45
+V:2
+ x/ | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z3/2 [ef]/ z6 | %17
+ z8 | z3/2 [EG,]/ z6 | z8 | z8 | z8 | z8 | z8 | z8 | G/E/G/E/ G/E/G/E/ G/E/G/E/ G/E/G/B/ | z8 | %27
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | A3 z4 z | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z6 x2 |] %45
+V:3
+ x15 E | A2A2 A2B2 B4 c2 z E | c z c z c z d4- d ^d e2 z2 | ae e4 a2 gf f4 a-a | %4
+ B2 c4 d2 [dF]4 c2 z2 | ^ae e4 a2 af f4 a-a | B2 c4 d2 [cB]2<A2 z2 a-a | agfe dcBA [eBG]6 gb | %8
+ agfe dcBA A4 G2 z2 | B2>[cd]2 c2B2 [BE]4 c2 z2 | ^c2>[^de]2 d2c2 c2>=d2 ^d2 z2 | %11
+ agfe ^dcBA agfe dcBA | G2bg e4 z2 =d2 cdcd | [ec]4 f2>[ga]2 [gf][ea] z [gf] f2->f2 | %14
+ e2bg e4 e7- e | [ec]4 f2>[ga]2 [gf][ea] z [gf] f2->f2 | e2bg afBa geBg fe^df | %17
+ eBbg afBa geBg fe^df | e2(3:2:2[BE]2 z [BE]2[BE]2 [eBE]4 z3 B | e z e z e z f z f4 g2 z c | %20
+ g z g z g z a z a2>^a2 b2 z2 | e'b b4 e'2 e'c' c'4 e'-e' | f z g4 a2 a2>f2 g2 z2 | E8 E7- E | %24
+ D8 [GF]2<E2 z2 b-b | b2g2 z2 d4 B2 z2 e'-e' | d'c'ba gfed [cB]2<A2 z2 a-a | %27
+ affd d2c2 c2B2 z2 E-E | dB z2 bg z2 cA z2 ae z2 | dB z2 bg z2 cA z2 ae z2 | =f4 ^f2a2 ^d4 =f2a-a | %31
+ [^fe][=dc] z [dB] B4 A2A,2 z4 | GBDB GBDB AcDc AcDc | GBDB GBDB AcDc AcDc | %34
+ DA,DA, DA,DA, CA,CA, CA,CA, | D2D2 E2E2 A2A,2 z4 | B2 c4 d2 c2 e4 c-c | B2 c4 d2 c2 e4 c-c | %38
+ B2 =c4 d2 ^c2B2 z4 | [fAD]2>g2 a2a2 a2>[gf]2 e2d-d | [cB][Ad] z [cB] B4 A2A,2 z4 | %41
+ [fAD]2>g2 a2a2 a2>[gf]2 e2d-d | [cB][Ad] z [cB] B4 [cB][Ad] z [cB] B2->B2 | %43
+ [cd][ef] z [ga] B4 Acea Acea | A2[EA,]2 [EA,]2[EA,]2 [AEA,]4 x4 |] %45
+V:4
+ x/ x15/2 | z8 | E4 E2 z2 | A4 A7/2- A/ | F4 z3/2 =c/ z2 | =A4 A7/2- A/ | E4 z4 | z8 | z8 | %9
+ E4 z3/2 =c/ z2 | F4 F3 z | z8 | z8 | z8 | z3 d cd cd/-d/ | z8 | z8 | z8 | z3/2 [BE]/ z6 | z8 | %20
+ B4 B3 z | z8 | B4 B3 z | e/B/ B2 e e/c/ c2 e/-e/ | F G2 A z4 | z8 | z8 | z8 | z8 | z8 | A3 z4 z | %31
+ z8 | z8 | z8 | z8 | z8 | E4 E7/2- E/ | E4 E7/2- E/ | E2 z6 | z8 | z8 | z8 | z8 | z8 | z6 x2 |] %45
+
+X:2
+T:Sonata a Due Mandolini (Gimo 15) (2)
+C:Emmanuele Barbella (1718-1777)
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=144
+M:3/4
+I:linebreak $
+K:A
+V:1 treble nm="I"
+V:2 treble 
+L:1/8
+V:3 treble nm="II"
+V:4 treble 
+L:1/4
+V:1
+ [AEC]8 B2>[AB]2 | [cEA,]8 d2>[cd]2 | e4 a z g z f z e z | e z7 c4 | (3B2c2d2 d8 | (3c2d2e2 e8 | %6
+ a z g z f z e z d z c z | e6 dc B2 z2 | e4 e4 e4 | (3^d2c2B2 B8 | f z B z g z B z a z B z | %11
+ g z B z a z B z b z B z | g z B z a z B z g z B z | g2f2 f8 | A12 | G4 B4 e4 | c2f2 e z7 | %17
+ [eB]4 g2a2 b2b2 | b4 a2fg a2a2 | a4 g2ga b2b2 | c2a2 g2f2 e2^d2 | e8 E4 | [eBE]8 f2>[ef]2 | %23
+ [gBE]8 a2>[ga]2 | b4 a2g2 f2e2 | e4 d4 B2>[AB]2 | c2e2 a2e2 d2c2 | c z B z B8 | d12 | c4 d4 e4 | %30
+ (3f2e2d2 c4 B4 | A8 A,4 | BEEE cEEE dEEE | cEEE dEEE eEEE | eEEE dEEE cEEE | c2B2 B8 | %36
+ a2g2 a2=g2 f2=f2 | ^f2=f2 ^f2d2 c2B2 | [cB]2<A2 B8 | A6 cd e2e2 | e4 d2Bc d2d2 | d4 c2ag a z a z | %42
+ f2d2 c2B2 A2G2 | A6 cd e2e2 | e4 d2Bc d2d2 | d4 c2ag a z a z | f2d2 c2B2 A2G2 | A4 A,8 |] %48
+V:2
+ x6 | x6 | x6 | d4 z2 | E6 | E6 | x6 | E4 z2 | x6 | x6 | x6 | x6 | x6 | B6 | x6 | x6 | z2 ^d4 | %17
+ x6 | B6 | B6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | E6 | %36
+ A4 z2 | x6 | x6 | z3 E2 z | E6 | x6 | x6 | z3 E3 | E6 | E3 z3 | x6 | x6 |] %48
+V:3
+ z12 | [AEC]8 B2>[AB]2 | c4 f z e z d z c z | c z7 A4 | (3G2A2B2 [BG]8 | (3A2B2c2 [cA]8 | %6
+ f z e z d z c z B z A z | [cE]6 BA G2 z2 | c4 B4 A4 | B4 B,8 | ^d z B z e z B z f z B z | %11
+ e z B z f z B z g z B z | g z B z f z B z e z B z | e2^d2 d8 | F4 E4 ^D4 | E8 G4 | A4 B4 A4 | %17
+ G6 ef g z g z | g4 f2^de f z f z | f4 e2ef g z g z | A z c z B z A z G z F z | G8 E4 | %22
+ E2F2 G4 [^DB,]4 | [eBE]8 f2>[ef]2 | g4 f z e z d z c z | c4 B4 G2>[FG]2 | A2c2 c z c z B z A z | %27
+ A2G2 G8 | F4 G4 E4 | A4 B4 c4 | (3d2c2B2 A4 G4 | A8 A,4 | GEEE AEEE BEEE | AEEE BEEE cEEE | %34
+ cEEE BEEE AEEE | A2G2 G8 | [cA]12 | d2c2 d2B2 A2G2 | A2>A2 A4 G2>[FG]2 | A6 AB c z c z | %40
+ c4 B2GA B z B z | B4 A2cB c2c2 | d z F z E z D z C z B, z | C6 AB c2c2 | c4 B2GA B2B2 | %45
+ B4 A2cB c z c z | d2F2 E2D2 C2B,2 | A,12 |] %48
+V:4
+ x3 | x3 | x3 | B2 z | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %48

@@ -1,0 +1,35 @@
+% Twelve Monferrine: No. 8: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1071
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Twelve Monferrine: No. 8
+C:KnjzeF
+%%score ( 1 2 )
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:E
+V:1 treble nm="Acoustic Guitar" snm="Ac Gtr"
+V:2 treble 
+L:1/16
+V:1
+ x3 [bg]2 [bg] | [gBE,]2 [eGE,] [fAB,]2 [fAB,] | [eGE,]2 [eGE,] [ge]2 [ge] | %3
+ [gBD]2 [gBD] [^acD]2 [acD] | [gdBG,]3 [bg]2 [bg] | [gBE,]2 [eGE,] [fAB,]2 [fAB,] | %6
+ [eGE,]2 [eGE,] [ge]2 [ge] | [bgE,]2 [eGE,] [fAB,]2 [fAB,] | [eBGE,]3 [bg]2 [bg] | %9
+ [gBE,]2 [eGE,] [fAB,]2 [fAB,] | [eGE,]2 [eGE,] [ge]2 [ge] | [gBD]2 [gBD] [^acD]2 [acD] | %12
+ [gdBG,]3 [bg]2 [bg] | [gBE,]2 [eGE,] [fAB,]2 [fAB,] | [eGE,]2 [eGE,] [ge]2 [ge] | %15
+ [bgE,]2 [eGE,] [fAB,]2 [fAB,] | [eBGE,]3 z c/ z ^A/ | B [f=AB,]2 [fAB,] [fAB,]2 | %18
+ [gB] [eGE,]2 [eGE,]f/ z d/ | e [fAA,]2 [fAA,] [=gAA,]2 | [=gAA,] [^gd=c^G,]2- z [gdcG,][bg]- | %21
+ [bg][bg] [gBE,]2 [e^GE,][fAB,]- | [fAB,][fAB,] [eGE,]2 [eGE,][ge]- | %23
+ [ge][ge] [gBE,]2 [eBE,][fAB,]- | [fAB,][fAB,] [eBGE,]2- z [eBGE,] | z c/ z ^A/ B[f=AB,]-[fAB,] | %26
+ [fAB,] [fAB,]2 [gB][eGE,]-[eGE,] | [eGE,]f/ z d/ e[fAA,]-[fAA,] | %28
+ [fAA,] [=gAA,]2 [gAA,][^gd=c^G,]-[gdcG,]- | [gd=cG,] [bg]2 [bg][gBE,]-[gBE,] | %30
+ [eGE,] [fAB,]2 [fAB,][eGE,]-[eGE,] | [eGE,] [ge]2 [ge][gBE,]-[gBE,] | %32
+ [eBE,] [fAB,]2 [fAB,][eBGE,]-[eBGE,]- | [eBGE,] x4 x |] %34
+V:2
+ x6 x6 | z3 B z4 z B z2 | z3 B z8 | z3 d z4 z d z2 | z12 | z3 B z4 z B z2 | z3 B z8 | z8 z B z2 | %8
+ z12 | z3 B z4 z B z2 | z3 B z8 | z3 d z4 z d z2 | z12 | z3 B z4 z B z2 | z3 B z8 | z8 z B z2 | %16
+ z8 B3 z | z4 z B z4 z B | z4 z B z2 [eE,]4 | z4 z c z4 z c | z12 | z7 B z4 | z B z4 z B z4 | %23
+ z7 B z4 | z B z8 z2 | z2 B3 z6 B | z4 z B z4 z B | z2 [eE,]4 z4 z c | z4 z ^c z6 | z8 z3 B | %30
+ z4 z B z4 z B | z8 z3 B | z4 z B z6 | z2 x8 x2 |] %34

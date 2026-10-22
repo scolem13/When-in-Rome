@@ -1,0 +1,234 @@
+% String Quartet KV. 428 (nr. 16): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=274
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:String Quartet KV. 428 (nr. 16) (1)
+C:W. A. Mozart (1756-1791)
+%%score ( 1 2 )
+L:1/16
+Q:1/4=120
+M:2/2
+I:linebreak $
+K:Eb
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble 
+L:1/8
+V:1
+ x8 x3 _E4- E- | _E3 _e8 =A4- A- | A7 _B4 =B4 c- | c3 =E4 F4 _A4- A- | _A3 G4 z4 F4- F- | %5
+ F7 _B _AGA F4- F- | F7 _B _AGA F4 c- | c3 _B4 _A4 G4 B- | _B3 z8 F4- F- | F7 _B _AGA F4- F- | %10
+ F7 _B _AGA F4 c- | c3 _B4 [_A,D]4 [G,_E]4- [G,E]- | [G,_E]3 _e8 =A4- A- | A7 _B4 =B4 c- | %14
+ c3 =E4 F4 _A4- A- | _A3 G4 z4 G4 g- | g4- g _a[g_b]a2 gff2_e2e- | _e4- e e z e z e z e2>f2f- | %18
+ f7 _e4 _d4 c- | c2_e e6 dc c4 _B- | _Bg z f z _e z _d z c z B4 _A- | %21
+ _Af z _e z d z c z _B z A4 G- | G_e z d z c z _B z _A z GFAGB | _Ac_B_dcBAG FAF _E4 D- | D z15 | %25
+ z16 | z c' z _b z =a z g z f z =efgfe | fgf f8- f4- f- | f8- f3- f4 _e- | %29
+ _e z4 d z d z d z d4 c- | c z4 c z c z c z _Bdfd_b- | _bc' z b z =a z g z f z f4 b- | %32
+ _bc' z b z =a z g z f z f4 b- | _bc' z b z =a z g z f z f z4 | z8 z3 _b4- b- | _b8- b3- b4- b- | %36
+ _b8- b3- b4- b- | _b=a z b z c' z _d' z =e z f4 f'- | f'7 _e' z c'_b c'4- c'- | %39
+ c'7 [_bc'] z3 b4 z | z3 _B2[cB]=AB2 c z d2 z2 d- | d z2 d2 z2 d2 z2 d_g=g_ed- | %42
+ d3 _B4 [cB=AB] z d2 c4- c- | c2d2<c2_B2<=A2 GG2A2F- | F3F2>G2=A3 =B c4 c- | c7 d3 =B c4 _e- | %46
+ _e7 (3e2 g2e2 d4 d- | (3:2:2d/f-(3:2:2fd2 (3:2:5c4- c2c2 _e2c2 _B4 _b- | _b z15 | z3 _G8 =G4 z | %50
+ z8 z3 F4- F- | F2_B2<=A2G2<F2 =EE2F2 z | z16 | z16 | z16 | z16 | z8 z3 _e4- e- | _e3 d8 c4- c- | %58
+ c4- c d_ef2 f z _B4 z | z16 | z8 z3 _g4- g- | _g3 f8 _b4- b- | _b3 _d'8 f'4 z | z3 =A8 _B_B,CD_E | %64
+ FG=A_Bcd_ef g=a_bg2f2f- | f4- f _e2c2 =A2_B_B,CD_E | FG=A_Bcd_ef g=a_bg2f2f- | %67
+ f4- f _e2c2 =A2 _B4 [DB_b]- | [D_B_b]3 _B,4 z4 B4- B- | _B3 _b8 =e4- e- | e7 f4 _g4 =g- | %71
+ g3 =B4 c4 _e4- e- | _e7 d4 z2 _A3- | _AG2 z2 _d4 c2 z2 F3- | F F4 F4 F2_E2FDE- | %75
+ _EF z G2 z6 _e2fde- | _ef z g4 (3z8 _A,2=B,2D- | %77
+ (3:2:2D/F-(3:2:2F_A2(3=B2d2f2(3_a2 f2d2(3f2d2B2A- | %78
+ (3:2:2_A/F-(3:2:2FD2(3F2D2=B,2(3_A,2 G,2F2_E2FDE- | _EF z G4 z4 _e2fde- | %80
+ _ef z g4 (3z8 G,2_B,2=E- | (3:2:2E/G-(3:2:2G_B2(3=e2g2_b2(3_d'2 b2g2(3b2g2e2_d- | %82
+ (3:2:2_d/_B-(3:2:2BG2(3B2G2=E2(3_D2 C2B2_A2BGA- | _A_B z c4 z4 _a2_bga- | _a_b z c'4 z4 =A2_BGA- | %85
+ A_B z c4 z4 =a2_bga- | a_b z c'4 (3z8 =A,2C2_G- | %87
+ (3:2:2_G/=A-(3:2:2Ac2(3_g2=a2g2(3c'2 a2g2(3a2g2c2g- | %88
+ (3:2:2_g/c-(3:2:2c=A2(3c2A2_G2(3_E2 D2c2_B2cAB- | _Bc z d4 z4 _b2c'=ab- | %90
+ _bc' z d'4 z4 G2=A_G=G- | G=A z _B4 z4 g2=a_g=g- | g=a z _b4 z8 b- | _b z2 b2 z2 b2 z2 b4 z | %94
+ z15 d- | d z2 d2 z2 d2 z2 d4 z | z15 d- | d3 d4 _d4 c4 z | z15 c- | c3 c4 =B4 _B4 z | %100
+ z8 z3 _E4- E- | _E3 _e8 =A4- A- | A7 _B4 =B4 c- | c3 =E4 F4 _A4- A- | _A3 G4 z4 F4- F- | %105
+ F7 _B _AGA F4- F- | F7 _B _AGA F4 c- | c3 _B4 _A4 G4 B- | _B3 z8 z4 z | z8 z3 f4- f- | %110
+ f7 _b _aga f4- f- | f7 _b _aga f4 c'- | c'3 _b4 d4 _e4- e- | _e3 _e'8 =a4- a- | a7 _b4 =b4 c'- | %115
+ c'3 =e4 f4 _a4- a- | _a3 g4 z8 z | z c' z _b z _a z g z f z f4 b- | %118
+ _bb z _a z g z f z _e z e4 a- | _aa z g z f z _e z d z f2e2d | z c z c2_B2B2 =A2 B4 z | z16 | %122
+ z c'2_b z =a z g z f z fgf=ef | gfg _a8- a4 g- | g_b2 _d8- d4 c- | c z4 _B z B z B z B4 =A- | %126
+ A z4 _A z A z A z G2>_B2G- | G z4 F z _E z D z EFGE_B | z _B z B8- B4 z | %129
+ z f' z _e' z d' z c' z _b z e'4- e'- | _e'8- e'3- e'4- e'- | _e'8- e'3- e'4- e'- | %132
+ _e'8- e'3- e'4- e'- | _e'd' z e' z f' z _g' z =a z _b4 _b'- | _b'7 _a' z f'_e' f'4- f'- | %135
+ f'7 [_e'f'] z3 e'4 z | z3 _e2[fe]de2 f z g2 z2 g- | g z2 g2 z2 g2 z2 g=bc'_ag- | %138
+ g3 _e4 f2 g2 f4- f- | f2g2<f2_e2<d2 cc2d2_B- | _B3B2>c2d3 =e f4 f- | f7 g3 =e f4 _a- | %142
+ _a7 (3a2 c'2a2 g4 g- | (3:2:2g/_b-(3:2:2bg2 (3:2:5f4- f2f2 _a2f2 _e4 _e'- | _e' z15 | %145
+ z3 =B,8 C4 z | z8 z3 _B,4- B,- | _B,3D2>C2B,3 =A,A,2B,2 z | z16 | z16 | z16 | z16 | %152
+ z8 z3 _A4- A- | _A3 G8 F4- F- | F4- F G_A_B2 B z _E4 z | z16 | z8 z3 =B4- B- | B3 _B8 _e4- e- | %158
+ _e3 _g8 _b4 z | z3 D8 _E2FG_A | _Bcd_efg_a_b2 b2b2f2a- | _a4- a _bag f_ede_EFG_A | %162
+ _Bcd_efg_a_b2 b2b2f2a- | _a4- a _bag f_ed e4 [G,_E]- | [G,_E]2[G,E] [G,E]4 x8 x |] %165
+V:2
+ x2 x/ x11/2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %18
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z3/2 _b2- b/- | %34
+ _b4- b3/2- z2 z/ | z8 | z8 | z8 | z7/2 d' z7/2 | z8 | z8 | z8 | z7/2 c z7/2 | z8 | z8 | z8 | z8 | %47
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %66
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z2 z/ _E/ z | z4 z2 z/ _e/ z | z8 | z8 | %78
+ z4 z2 z/ _E/ z | z4 z2 z/ _e/ z | z8 | z8 | z4 z2 z/ _A/ z | z4 z2 z/ _a/ z | z4 z2 z/ =A/ z | %85
+ z4 z2 z/ =a/ z | z8 | z8 | z4 z2 z/ _B/ z | z4 z2 z/ _b/ z | z4 z2 z/ G/ z | z4 z2 z/ g/ z | z8 | %93
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %112
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %131
+ z8 | z8 | z8 | z7/2 g' z7/2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %148
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z7/2 x4 x/ |] %165
+
+X:2
+T:String Quartet KV. 428 (nr. 16) (2)
+C:W. A. Mozart (1756-1791)
+%%score ( 1 2 )
+L:1/8
+Q:1/4=45
+M:6/8
+I:linebreak $
+K:Ab
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble 
+V:1
+ E6 | E A3 G2- | G F3 E2- | E D3 C2 | DEF E2 (3:2:2D z/ | A,2 z4 | a3 e'3- | e' d'3 =b2- | %8
+ b_ba g2 a | edc d/ z/ _Bg | B4- B a | B4- B b | d4 cB | Ab/a/g/f/ e=d z | z2 g a3- | a2 g a3- | %16
+ a2 =a b_ag | g/f/e=d e2 c | _d4- d c | d4- d c | d4- d c | =ABG B(3:2:1_AG/ (6:5:1z | F6 | %23
+ BAG (3:2:2c z/ GF | f=ac' fb=d' | e'g_a =ab=b | c'=ef _a2 (3:2:2a z/ | %27
+ (3:2:1_eg/ (3:2:1z2 g/ _e'>bg' | z/ G/A/=A/B/=B/ (3:2:2c z e/e/e/ | %29
+ e2 (3:2:1EF/ (12:11:1z2 [EF]/ z/ | E2 z4 | c/c'/b/a/g/f/ B/a/g/f/e/=d/ | (3:2:1bg/ (48:29:1z8 | %33
+ c/c'/b/a/g/f/ B/a/g/f/e/=d/ | e[G,E][G,E] [G,E] z2 | z6 | e3 b3- | b a3 g2 | z6 | d3 a3- | %40
+ ag _g2 fb- | b=a _a2 =gc'- | c'=a b2 g_a- | af _g2 =ef | f=g=e f z2 | z6 | bf=d afd | _geB z3 | %48
+ aec _gec | =edA =GB_e | =dAF _EB_d | cAE FA=B | _B z2 c z2 | B z4 z | bge dBG | E6 | E A3 G2- | %57
+ G F3 E2- | E D3 C2 | DEF E2 (3:2:2D z/ | A,2 z4 | a3 e'3- | e' d'3 =b2- | b_ba g2 a | %64
+ edc d/ z/ _Be | E4- E e | E4- E e | =E4 Ff | _G4 =Gg | BAb dc=e- | eg/f/_e/d/ cBB | B2 B B2 e | %72
+ =d/f/a/f/e/d/ de z | z2 c _d3- | d2 c d3- | d2 =d e_dc | c/B/AG A>[BAG]A/B/ | c z4 F | _G4- G F | %79
+ _G4- G f | _g4- g f | =dec e(3:2:1_dc/ (6:5:1z | B6 | edc (3:2:2f z/ cB | b=d'f' be'g' | %85
+ a'c'_d' =d'e'=e' | f'=ab _d'2 (3:2:2d' z/ | (3:2:1_ac'/ (3:2:1z2 c'/ e'2 (3:2:2e' z/ | %88
+ e' z/ c/(3:2:1ec/ z3/2 C/ (3:2:1z/ C/ | E=EF _G=GA | A/ z2 z/ B,2 [A,B,]/ z/ | A,2 z4 | %92
+ F/f/e/d/c/B/ E/d/c/B/A/G/ | (3:2:1ec/ (48:29:1z8 | F/f/e/d/c/B/ B/d'/c'/b/a/g/ | %95
+ aA/ z/ A/ z/ A/ z2 z/ |] %96
+V:2
+ x6 | x6 | x6 | x6 | z4 z3/2 B,/ | x6 | x6 | x6 | x6 | z3 c z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %17
+ x6 | x6 | x6 | x6 | z4 z F | x6 | z7/2 A/ z2 | x6 | x6 | (12:7:1z8 f/ (3:2:1z/ f/ | z b3/2 z7/2 | %28
+ z7/2 [=de]/ z2 | z3 F2 z | x6 | x6 | z e z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %43
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z4 z3/2 B,/ | x6 | %61
+ x6 | x6 | x6 | z3 c z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %79
+ x6 | x6 | z4 z B | x6 | z7/2 d/ z2 | x6 | x6 | (12:7:1z8 b/ (3:2:1z/ b/ | %87
+ z e'3/2 (24:13:1z4 c'/ (3:2:1z/ c'/ | z3 e z (3:2:2E z/ | x6 | A,3 z3 | x6 | x6 | z A z4 | x6 | %95
+ x6 |] %96
+
+X:3
+T:String Quartet KV. 428 (nr. 16) (3)
+C:W. A. Mozart (1756-1791)
+%%score ( 1 2 )
+L:1/16
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble 
+L:1/4
+V:1
+ z [G,E] z3 [G,E]7- | [G,E] [G,E] z3 [A,F]7- | [A,F]c2B2 B2A2 A2G- | GA2G2 G2F2 F2E- | %4
+ EF2E2 E2D2 D2F- | FA2F2 F2G2E3- | E [G,E] z3 [G,E]7- | [G,E] [G,E] z3 [CE]7- | %8
+ [CE]g2f2 f2e2 e2d- | de2d2 d2c2 c2B- | Bc2B2 =A4 f3- | f f4 f3 [g=a]2<b2- | b2<B2 d f4 f3- | %13
+ f f4 f3 [g=a]2<b2- | b2<B2 d2<c2 [ef]2<g2- | g2<=A2 c B6 c- | cd2e2 f2b2 f z e | %17
+ z d z e z f2b2 f z e | z d z e z f2b2 f z e | z d z e z f2b2 b2=a- | ag2f2 f2e2d3- | %21
+ d c4 c2B2 B z B | z B z B z B2c z c z c | z c z d z c2B2B3- | B z8 z3 | z12 | z4 z B2 z2 e2 z | %27
+ z B2 z2 c2 z2 e2 z | z4 z c2 z2 A2 z | z G2 z2 F2 z2 B2 z | z4 z G2 z2 E2 z | z A2 z2 F2 z2 B2 z | %32
+ z G2 z2 c2 z2 A2 z | z G2 z2 F z F2 G2A- | AB2G2 F z F2 G2A- | AB2G2 F7- | F[G,E] z3 [G,E]7- | %37
+ [G,E] [G,E] z3 [A,F]7- | [A,F]c2B2 B2A2 A2G- | GA2G2 G2F2 F2E- | EF2E2 E2D2 D2F- | FA2F2 F2G2E3- | %42
+ E [G,E] z3 [G,E]7- | [G,E] [G,E] z3 [A,E]7- | [_A,E] [Fc] z3 [=A,F]7- | [=A,F] [EB] z3 [B,G]7- | %46
+ [B,G] B8 _A3- | A F4 E4 z3 | z E3 G B4 B3- | B B4 B3 [cd]2<e2- | e2<E2 GB2B2 B2B- | %51
+ BB2B2 B2>[cd]2e3- | e2<E2 G2<F2 [AB]2<c2- | c2<D2 F E6 F- | FG2A2 B2e2 B z A | %55
+ z G z A z B2e2 B z A | z G z A z B2e2 B z A | z G z A z B2e2 e2d- | dc2B2 B2A2G3- | %59
+ G F4 E z B z e z f | z g z a z b2e'2 b z a | z g z a z b2e'2 b z a | z g z a z b2e'2 b z a | %63
+ z g z a z b2e'2 e'2d'- | d'c'2b2 b2a2g3- | g f4 f2e2 e z e | z e z e z e2f2 f z f | %67
+ z f z g z f2e2e3- | e z8 z3 | z12 |[K:Bb] z e3 f g4 e3- | e d4 c6 e- | ec2e2 d2f2 d2f- | %73
+ f=B2d2 c2e2 g2_g- | gf2e2 d2f2 _a2f- | fd2=B2 c2=g2 _g2f- | fe2d2 d2c2 c2_B- | BB2=A2 g2>f2f3- | %78
+ fe2d2 d2c2 e2c- | cB2=A2 B4 z3 | z4 z =a7- | ac'2=a2 b7- | b4- b =a2b2 c'2a- | ae'2c'2 b4 z3 | %84
+ z12 | z4 z D7- | D4- D E7- | E4- E D7- | D4- D E7- | E4- E D4 z3 | z4 z D4 C3- | C B,4 C7- | %92
+ C4- C _D7- | D4- D f6 =a- | af2=a2 g2b2 g2b- | b=e2g2 f2=a2 c'2=b- | b_b2=a2 b2c'2 _d'2b- | %97
+ bg2=e2 f7- | f3g2 =a2b2 c'2d'- | d'e'2=a2 b6 d'- | d'b2d'2 c'2e'2 c'2e'- | %101
+ e'=a2c'2 b2d'2 f'2=e'- | e'_e'2d'2 c'2d'2 e'2c'- | c'=a2c'2 b4 z3 |] %104
+V:2
+ z/4 e z7/4 | z/4 e z7/4 | x3 | x3 | x3 | x3 | z/4 e z7/4 | z/4 e z7/4 | x3 | x3 | x3 | x3 | x3 | %13
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %32
+ x3 | x3 | x3 | x3 | z/4 e z7/4 | z/4 e z7/4 | x3 | x3 | x3 | x3 | z/4 e z7/4 | z/4 e z7/4 | %44
+ z/4 f z7/4 | z/4 g z7/4 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %60
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:Bb] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %78
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %97
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %104
+
+X:4
+T:String Quartet KV. 428 (nr. 16) (4)
+C:W. A. Mozart (1756-1791)
+%%score ( 1 2 )
+L:1/16
+Q:1/4=144
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble 
+L:1/8
+V:1
+ B2G2 z4 | e2c2 z4 | A2F2 F z F z | F4 B2 z2 | B2G2 z4 | e2c2 z4 | A2F2 F z F z | F4 E2 z2 | %8
+ G,B,EE DFAA | GBee edcB | =ABcB B_AGF | AGFE EDCB, | G,B,EE DFAA | GBee defg | gfed dcB=A | %15
+ =A4 B2 z2 | _d2B2 z4 | G2A2 c2A2 | F2G2 B2G2 | =E8 | GFAG BAcB | _d2c2 B2A2 | G2F2 G2E2 | %23
+ D2F2 F z F z | F2B2 B z B z | B=AcA BAcA | B2G2 z4 | e2c2 z4 | A2F2 F z F z | F4 B2 z2 | %30
+ G,B,EE DFAA | GBee edcB | =Bcec _BAGF | F4 E2 z2 | [G,E]6 G2 | F z E z F z G z | A z G z A z G z | %37
+ F z E z4 z | [B,G]6 B2 | A z G z A z B z | c z B z c z B z | A z G z4 z | [Ecg]6 ec | c4 =B4 | %44
+ d'6 =bg | f4 e4- | e2_g=g fedc | B=AcB dced | fedc B=AGF | EDFE GF_AG | BAGF EDCB, | A,2G,2 g4- | %52
+ g=aga b2B2 | =Acfg fecA | Bdfg fdcB | =Acfg fecA | Bdfg fdcB | =A2f2 [=A,F]2[A,F]2 | [=A,F]4 z4 | %59
+ d8 | c2[dc]B c2d2 | e z e2 e4- | e4 d4 | d2c z c2B z | B2=A z c2B z | c z c z c4- | c4 =A2F2 | %67
+ d8 | c2[dc]B c2d2 | e z e2 e4- | e4 d4 | d2c z c2B z | d2c z c2=A z | B2f2 f z f z | %74
+ B2b2 b z b z | d'8 | c'2[d'c']b c'2d'2 | e' z e' z e'4- | e'4 d'4 | d'2c' z c'2b z | %80
+ b2=a z c'2b z | c' z c' z c'4- | c'4 =a2f2 | d'8 | c'2[d'c']b c'2d'2 | e' z e'2 e'4- | e'4 d'4 | %87
+ d'2c' z c'2b z | d'2c' z c'2=a z | bc'd'c' b=agf | edcB =AGFE | D2 f4 f2- | f2 f4 =a2 | %93
+ bc'd'c' b=agf | edcB =AGFE | D2 f4 f2- | f2 f4 =a2 | b4 z4 | z8 | gfef g=aba | b=agf edcB | %101
+ F2f2 e z cB | c6 [Bc] z | B4 b4 | z4 A4 | z4 G4 | z4 g4 | z4 f4 | z4 c4 | B4 z4 | B2b2 =a2_a2- | %111
+ a2g2 f2=e2 | f z d_e f2e2 | _d4 =d2 z2 | B2b2 =a2_a2- | a2g2 f2=e2 | f2d2 _e2c2 | B4 z4 | %118
+ B2b2 =a2_a2- | a2g2 f2=e2 | f z d_e f2e2 | _d4 =d2 z2 | B2b2 =a2_a2- | a2g2 f2=e2 | f2d2 _e2c2 | %125
+ B4 z4 | f2d2 e2c2 | d4 z4 | f2d2 e2c2 | B4 z4 | B2d2 c2e2 | _d2=d2 z4 | d2f2 e2g2 | =e2f2 z4 | %134
+ f2a2 g2b2 | g2a2 z4 | g2a2 z4 | g2a2 z4 | z8 | B2G2 z4 | e2c2 z4 | A2F2 F z F z | F4 B2 z2 | %143
+ B2G2 z4 | e2c2 z4 | A2F2 F z F z | F4 E2 z2 | G,B,EE DFAA | GBee edcB | =ABcB B_AGF | AGFE EDCB, | %151
+ G,B,EE DFAA | GBee defg | gfed dcB=A | =A4 B2 z2 | _d2B2 z4 | G2A2 c2A2 | F2G2 B2G2 | =E8 | %159
+ GFAG BAcB | _d2c2 B2A2 | G2F2 G2E2 | D2F2 F z F z | F2B2 B z B z | B=AcA BAcA | B2G2 z4 | %166
+ e2c2 z4 | A2F2 F z F z | F4 B2 z2 | G,B,EE DFAA | GBee edcB | =Bcec _BAGF | F4 E2 z2 | [G,E]6 F2 | %174
+ G z A z B z c z | _d z B z d z B z | _d z B z4 z | [G,=E]6 F2 | G z A z B z c z | %179
+ _d z B z d z B z | _d z B z4 z | [=A,_G]6 =G2 | =A z B z c z d z | e z c z e z c z | e z c z4 z | %185
+ d'6 bg | g4 _g4 | =a6 _gd | c4 B4 | _d'6 bg | f4 =e4 | g6 =ec | B4 A4 | A2=bc' _bagf | edfe gfag | %195
+ bagf edcB | AGBA cB_dc | e_dcB AGFE | _D2C2 c4- | c=dcd e2E z | DBbb bagf | edcB AGFE | %202
+ DBbb bagf | edcB AGFE | D2b2 B, z B, z | B,4 z4 | G8 | F2[GF]E F2G2 | A z A z A4- | A4 G4 | %210
+ G2F z F2E z | E2D z F2E z | F z F z F4- | F4 D2B,2 | g8 | f2[gf]e f2g2 | a z a z a4- | a4 g4 | %218
+ g2f z f2e z | g2f z f2d z | e2b2 b z b z | e2e' z e' z (3:2:2e'2 z | (3z2 G,2B,2 (3E2G2=A2 | %223
+ (3B2D2F2 (3B2c2_d2 | (3c2f2f2 (3f2a2a2 | (3a2c'2c'2 (3c'2c'2c'2 | (3z2 c'2a2 (3z2 b2g2 | %227
+ (3z2 a2f2 (3z2 g2e2 | (3f2b2=a2 (3_a2g2_g2 | (3f2=e2_e2 (3d2c2B2 | g8 | f2[gf]e f2g2 | %232
+ a z a z a4- | a4 g4 | g2f z f2e z | g2f z f2d z | efgf edcB | AGFE DFAF | E2 B4 B2- | B2 B4 fd | %240
+ efgf edcB | AGFE DFAF | E2 B4 B2- | B2 B4 d2 | e4 z4 | z8 | cBAG ABcd | edcB AGFE | B,2B2 A z FE | %249
+ F6 [EF] z | E4 e4 | z4 _d4 | z4 c4 | z4 c'4 | z4 b4 | z4 d4 | e4 z4 | E2e2 d2_d2- | d2c2 B2=A2 | %259
+ B z G_A B2A2 | _G4 =G2 z2 | E2e2 d2_d2- | d2c2 B2=A2 | B2G2 _A2F2 | E4 z4 | e2e'2 d'2_d'2- | %266
+ d'2c'2 b2=a2 | b z g_a b2a2 | _g4 =g2 z2 | e2e'2 d'2_d'2- | d'2c'2 b2=a2 | b2g2 _a2f2 | e4 z4 | %273
+ b2g2 a2f2 | g4 z4 | B2G2 A2F2 | E4 z4 | E2G2 F2A2 | _G2=G2 z4 | G2B2 A2c2 | =A2B2 z4 | %281
+ B2_d2 c2e2 | c2_d2 z4 | =B2c2 z4 | _B2=B2 z4 | =A2_B2 z4 | e2=A2 z4 | c2B2 z4 | _g2=A2 z4 | %289
+ c2B2 z4 | =a2b2 z4 | =a2b2 z4 | z8 | g2a2 z4 | G2A2 z4 | z8 | B2G2 z4 | e2c2 z4 | A2F2 F z F z | %299
+ F4 B2 z2 | B2G2 z4 | e2c2 z4 | A2F2 F z F z | F4 E2 z2 | b4 =b4 | d' z3 a2>g2 | f2b2 b2b2 | %307
+ b2>[c'b]2 e'2 z2 | e6 =e2 | f6 ga | B6 cd | e4 z4 | _d2B2 z4 | e2c2 z4 | a2f2 f z f z | f4 b2 z2 | %316
+ _d2B2 z4 | e2c2 z4 | a2f2 f z f z | e8- | e8- | e8- | e8 | e'8- | e'8- | e'8- | e'8- | %327
+ e'2g2 g z g z | z8 | e2B2 G z G z | z8 | E2B,2 G, z G, z | z8 | z8 | b2 z6 | g2 z6 | f2 z6 | %337
+ e2 z6 | [DBb]2 z6 | [EBg]2 z6 | [DBf]2 z6 | [G,Ee]2 z6 |] %342
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %57
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %76
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %95
+ x4 | x4 | x4 | x4 | x4 | x4 | z2 d z | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | e z3 | %113
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | e z3 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %132
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %151
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %170
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %189
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %208
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %227
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %246
+ x4 | x4 | z2 G z | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | A z3 | x4 | x4 | x4 | x4 | %264
+ x4 | x4 | x4 | a z3 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %283
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %302
+ x4 | x4 | x4 | c'2 z2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %321
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %340
+ x4 | x4 |] %342

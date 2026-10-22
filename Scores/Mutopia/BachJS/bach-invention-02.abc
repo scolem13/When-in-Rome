@@ -1,0 +1,32 @@
+% Invention 2: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=58
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Invention 2
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 2
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Cmin
+V:1 treble nm="one" snm="Hpschd"
+V:2 bass nm="two" snm="Hpschd"
+V:1
+ z2 c=B cdeG A_BAF fedc | =Bagf edcB cdcd d2>[cd]2 | edcd efg2 g2f2 z2 f2 | f2e2 z2 d2 e2A3 FBF | %4
+ G2e3 deB ceag fedc | Bdgf edcB Acfc d2>d2 | eBcB g4- g BcB a4- | aBed gfag c'bag fbab | %8
+ gbab egfg cdef defg | efga bac'b agfa d4- | ddgd ecdB c4- c g_g=a | cB2<c2 _g=ed b2>e2 g2>=g2 | %12
+ g2G_G =G=ABD _EFEC cBAG | _Gedc B=A=G_G =GAGA A2>[GA]2 | B=AGA Bcd2 d2c2 z2 c2 | %15
+ c2B2 z2 =A2 B2E3 CFC | D2B3 =ABF GBed cBAG | F=Adc BAGF EGcG A2>A2 | BFGF d4- d FGF e4- | %19
+ eFB=A dced gfed cfef | dcB=A dced cBAc f4- | fGc=B edfe _agfe dgfg | edc=B cdeG A_BAF fedc | %23
+ =Bagf edcB cdcd d2>[cd]2 | edcd efg2 g2f2 z2 f2 | f2ed gfag g2>a2 d2>c2 | c16 |] %27
+V:2
+ z16 | z16 | z2 C=B, CDEG, A,_B,A,F, FEDC | =B,AGF EDCB, CDCD D2>[CD]2 | EDCD EFG2 G2F2 z2 F2 | %5
+ F2E2 z2 D2 E2A,3 F,B,F, | G,2E3 DEB, CEAG FEDC | B,DGF EDCB, A,CFC D2>D2 | %8
+ EB,CB, G4- G B,CB, A4- | AB,ED GFAG cBAG FBAB | G2E,F, G,=A,B,D, E,F,E,C, CB,A,G, | %11
+ _G,EDC B,=A,=G,_G, =G,A,G,A, A,2>[G,A,]2 | B,=A,G,A, B,CD2 D2C2 z2 C2 | %13
+ C2B,2 z2 =A,2 B,2E,3 C,F,C, | D,2B,3 =A,B,F, G,B,ED CB,A,G, | F,=A,DC B,A,G,F, E,G,CG, A,2>A,2 | %16
+ B,F,G,F, D4- D F,G,F, E4- | EF,B,=A, DCED GFED CFEF | DFEF B,DCD G,=A,B,C A,B,CD | %19
+ B,CDE FEGF EDCE =A,4- | A,D,G,_G, B,=A,CB, EDCB, A,DCD | =B,FED C_B,_A,=G, F,E,D,C, G,2G,,2 | %22
+ C,2>D,2 E,F,G,2 G,2F,2 z2 F,2 | F,2E,3 F,E,D, C,B,,A,,G,, F,,E,,F,,G,, | %24
+ C,,2C,=B,, C,D,E,G,, A,,_B,,A,,F,, F,E,D,C, | =B,,A,G,F, E,D,C,B,, C,G,,A,,F,, G,,2G,,2 | C,,16 |] %27

@@ -1,0 +1,60 @@
+% Die Liebe hat gelogen: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1587
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Die Liebe hat gelogen
+C:SchubertF
+%%score ( 1 2 ) ( 3 4 ) ( 5 6 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:none
+V:1 bass nm="pianoDown" snm="Pno"
+L:1/4
+V:2 bass 
+V:3 treble nm="chant" snm="V"
+V:4 treble 
+V:5 treble nm="pianoUp" snm="Pno"
+L:1/16
+V:6 treble 
+V:1
+ x2 |[K:Cmin][M:4/4][Q:1/4=40] C, C,/C,/ [F,,A,,F,]2 | %2
+[M:4/4] [G,,C,=D,] [A,,D,]/[A,,D,]/ [G,,D,]2 | C, C,/C,/ A,,2 | F,, A,,/A,,/ G,,2 | %5
+ [C,,C,] [C,,C,]/[B,,,B,,]/ [=A,,,=A,,]2 | [F,,,F,,] [G,,,G,,]/[G,,,G,,]/ [C,,C,] C, | %7
+ [F,,C,] [=E,,C,]/[G,,D,]/ [C,,G,,C,]2 | [G,C,] [F,D,]/>_E,/ [CF,] [B,B,,F,] | %9
+ [F,A,] [E,A,] [G,E,] [A,A,,E,] |[K:C] [^G,^C,] [^F,^D,]/>E,/ [^CF,] [B,B,,F,] | %11
+ [A,^F,] [A,E,] [^G,E,] [A,A,,E,] | [A,C] [^G,B,] [A,C] [A,C] | %13
+[Q:1/4=20][Q:1/4=40] [^G,C] [=G,C^D] [G,B,=D]3/2 z/ |[K:Cmin] C, C,/C,/ A,,2 | %15
+ F,, G,,/G,,/ =E,, F,, | [F,,C,] [F,,C,]/[F,,C,]/ [=E,,C,]2 | %17
+ [D,,C,]/>[=E,,F,,]/ G,,/G,,/ [C,,C,] C, | %18
+[Q:1/4=35][Q:1/4=30][Q:1/4=20] [F,,C,] [=E,,C,]/[G,,D,]/ [C,,G,,C,]2 |] %19
+V:2
+ x4 |[K:Cmin][M:4/4] z4 _D,3 C, |[M:4/4] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z3/2 B,/ z2 | %10
+[K:C] z8 | z4 z3/2 B,/ z2 | z8 | z8 |[K:Cmin] z8 | z8 | z8 | z8 | z8 |] %19
+V:3
+ x4 |[K:Cmin][M:4/4][Q:1/4=40] z8 |[M:4/4] z7 G | e>e e>e e2 cc | d>d d>d d2 GG | =e>e e>e e2 =AA | %6
+ f>f =e=B c4 | z8 | z c c/ z/ B B/=A/G/[Ac]/ BB | z _d d/ z/ c c/B/c/G/ _A2 | %10
+[K:C] z ^c c/ z/ B B/_B/^G/[Bc]/ =BB | z d d/ z/ ^c c/B/c/^G/ A>A | e>e e>e e2 =cc | %13
+[Q:1/4=20][Q:1/4=40] f>f f/^d/=d/^d/ =d3 G |[K:Cmin] e>e e>e e2 cc | _d>d d>e c3 c | %16
+ c>c c>c =e2 cc | f>f =e=B c4 |[Q:1/4=35][Q:1/4=30][Q:1/4=20] z3 x4 x |] %19
+V:4
+ x4 |[K:Cmin][M:4/4] z8 |[M:4/4] z8 | z8 | z8 | z8 | z8 | z8 | z2 B z4 z | z2 c z4 z | %10
+[K:C] z2 B z4 z | z2 ^c z4 z | z8 | z8 |[K:Cmin] z8 | z8 | z8 | z8 | z3 x4 x |] %19
+V:5
+ x8 |[K:Cmin][M:4/4][Q:1/4=40] [G,CE]4 [G,CE]2[G,CE]2 [A,F]8 | %2
+[M:4/4] [G,C=D]4 [_G,CD]2[G,CD]2 [=G,=B,D]8 | [G,CE]4 [G,CE]2[G,CE]2 [A,CE]8 | %4
+ [A,CD]4 [_G,CD]2[G,CD]2 [=G,=B,D]8 | [G,C=E]4 [G,CE]2[G,CE]2 [=A,_DE]8 | %6
+ [CF]4 [G,C=E]2[F,G,=D]2 [=E,C]8 | [CF=A,]2>_A,2 [G,CG]2[F,G,=B,]2 [=E,G,C]8 | %8
+ z [_Ec] z [Ec] z [D_B] z [DB] z [EF=A] z [EFA] z [DFB] z [DFB] | %9
+ z [_D_d] z [Dd] z [Ec] z [Ec] z [DEB] z [DEG] z [CE_A] z [CEA] | %10
+[K:C] z [E^c]2[Ec] z [^DB]2[DB] z [E^F_B]2[EFB] z [DF=B]2[DFB] | %11
+ z [=D=d]2[Dd] z [E^c]2[Ec] z [DEB]2[DE^G] z [^CEA]2[CEA] | %12
+ z [E=ce]2[Ece] z [Ede]2[Ede] z [Ece]2[Ece] z [Ece]2[Ece] | %13
+[Q:1/4=20][Q:1/4=40] z [Fcf]2[Fcf] z [Gc^d]2[Gcd] z [GB=d]2[GBd] [GBd]2 z2 | %14
+[K:Cmin] [G,CE]4 [G,CE]2[G,CE]2 [A,CE]8 | [A,C_D]4 [G,B,D]2[G,B,D]2 C8 | %16
+ [F,A,CE]4 [F,A,CE]2[F,A,CE]2 [=E,A,C=E]8 | [=A,CF]4 [G,C=E]2[F,G,=B,D]2 [=E,C]8 | %18
+[Q:1/4=35][Q:1/4=30][Q:1/4=20] [CF=A,]2>_A,2 [G,CG]2[F,G,=B,]2 [=E,G,C]8 |] %19
+V:6
+ x4 |[K:Cmin][M:4/4] z4 _D3 C |[M:4/4] z8 | z8 | z8 | z8 | =A,_A, z2 G,3 B, | z8 | z8 | z8 | %10
+[K:C] z8 | z8 | z8 | z8 |[K:Cmin] z8 | z4 [G,B,]2 A,2 | z8 | z4 G,3 _B, | z8 |] %19

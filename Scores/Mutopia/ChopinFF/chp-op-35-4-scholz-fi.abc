@@ -1,0 +1,86 @@
+% Sonate 2 b-moll: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1727
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonate 2 b-moll
+C:ChopinFF
+%%score 1 2
+L:1/8
+Q:1/4=60
+M:2/2
+I:linebreak $
+K:Bbmin
+V:1 treble nm="up"
+V:2 bass nm="down"
+V:1
+ (3F,=G,B,(3D=E,G, (3F,G,B,(3DE,G, | (3=G,=A,C(3_E_G,A, (3=G,A,C(3E_G,A, | %2
+ (3B,CE(3_G=A,C (3DEG(3=ACE | (3DEG(3=ACE (3GBc(3eFA | (3Bdg(3fcd (3=ecd(3=ABG | %5
+ (3=EFB(3_A=Ad (3ABd(3=Bcf | (3_A=B=e(3_e_B=B (3=d_B=B(3=GA=E | (3=D_EA(3=EF=B (3F_GB(3=A_B_e | %8
+ (3_dFB(3_D=E=A (3c_E_A(3=B,=D=G | (3=B=D_G(3_B,_DG (3_BG=B(3c_d_e | %10
+ (3=e=Gc(3_E_G=B (3=dF_B(3_D=E=A | (3c_E_A(3=B,=D=G (3=B_G_d(3=d_e=e | %12
+ (3f=A_e(3=ef_g (3f_B_d(3efg | (3=g=Bf(3_g=g_a (3gc_e(3_g=ga | (3ecf(3eAd (3cE_B(3ACF | %15
+ (3EA,D(3C=G,A, (3C_G,=D(3CF,G, | (3=G,=A,=B,(3C=DE (3_A,_B,=B,(3C_DE | %17
+ (3=A,_B,C(3DEF (3B,=B,C(3DEF | (3CD=D(3EFG (3=A,_D=D(3EFG | (3=AG=E(3=DEG (3=A,_D=D(3EFG | %20
+ (3=A_A=G(3_G_EC (3GEC(3B,=A,_A, | (3=G,A,=A,(3F,_G,_A, (3=E,F,G,(3=D,E,F, | %22
+ (3=G,,_A,,B,,(3C,_D,_E, (3F,_G,=G,(3A,F,B, | (3A,FE(3DCB, (3A,F,_G,(3A,F,B, | %24
+ (3A,E,F,(3G,E,B, (3A,D,E,(3F,D,B, | (3A,C,D,(3E,C,F, (3E,B,,F,(3E,A,,B,, | %26
+ (3A,,D,E,(3F,G,A, (3B,CD(3EFG | (3Afe(3dcB (3AFG(3AFB | (3AEF(3GEB (3ADE(3FDB | %29
+ (3ACD(3ECF (3EB,F(3EA,F | (3GFE(3DCB, (3=A,FC(3EDB, | (3=A,FC(3EDB, (3A,FC(3EDB, | %32
+ (3_A=GF(3E=DC (3=B,GD(3FEC | (3=B,=G=D(3FEC (3B,GD(3FEC | (3_dc_B(3A=GF (3B=EG(3_DEC | %35
+ (3dcB(3A=GF (3B=EG(3DEC | (3B=E=G(3DEC (3GDE(3CEB, | (3=EB,D(3=A,B,_A, (3DA,B,(3=G,B,_G, | %38
+ (3F,=G,B,(3D=E,G, (3F,G,B,(3DE,G, | (3=G,=A,C(3_E_G,A, (3=G,A,C(3E_G,A, | %40
+ (3B,CE(3_G=A,C (3DEG(3=ACE | (3DEG(3=ACE (3GBc(3eFA | (3Bdg(3fcd (3=ecd(3=ABG | %43
+ (3=EFB(3_A=Ad (3ABd(3=Bcf | (3_A=B=e(3_e_B=B (3=d_B=B(3=GA=E | (3=D_EA(3=EF=B (3F_GB(3=A_B_e | %46
+ (3_dFB(3_D=E=A (3c_E_A(3=B,=D=G | (3=B=D_G(3_B,_DG (3_BG=B(3c_d_e | (3dc=B(3_B=Af (3e=d_d(3cBg | %49
+ (3fe=d(3_dc=a (3cd_b(3=deb | (3c'b_a(3gf=e (3c'ba(3gfe | (3gf=e(3_e=d_d (3e=Bc(3d=A_B | %52
+ (3c=G_A(3=B_Ge (3_BFG(3=A=Ed | (3_A_E=E(3=G=D=B (3_G_D=D(3FC=A | (3=d=A_B(3_d_Af (3c=GA(3=B_G_e | %55
+ (3_BFG(3=A=Ed (3_A_E=E(3=G=D=B | (3=e=Bc(3_e_B=g (3=d=AB(3_d_Af | (3c=GA(3=B_Ge (3_BFe(3BFd | %58
+ (3GF=E(3_EDC (3GFE(3DC_B, | (3GFE(3DC=B, (3GFE(3DB,_B, | (3=A,B,C(3EDA, (3CB,F,(3_A,G,F, | %61
+ (3E,F,G,(3B,A,G, (3F,D,E,(3F,=E,F, | (3G,F,=E,(3_E,D,C, (3G,F,E,(3D,C,B,, | %63
+ (3G,F,E,(3D,C,=B,, (3G,F,E,(3D,B,,_B,, | (3=A,,B,,=B,,(3D,E,F, (3G,_A,_B,(3=B,DE | %65
+ (3F=ED(3C_B,G, (3F,=E,D,(3C,_B,,G,, | (3F,,B,,A,,(3=A,,D,A,, (3B,,_E,=B,,(3C,F,C, | %67
+ (3D,G,=D,(3E,=A,F, (3G,_DA,(3CGF | (3=A,DA,(3CGF (3A,DA,(3CGF | (3CGF(3CGF (3CGF(3B,GF | %70
+ (3DF,E(3[FF,]ED (3B,F,C(3DCB, | (3DF,E(3[FF,]ED (3B,F,C(3DCB, | (3E,F,B,(3DD,F, (3E,F,B,(3DD,F, | %73
+ (3C,D,F,(3B,B,,D, (3C,D,F,(3B,B,,D, | z4 (3C,D,F,(3B,B,,D, | z4 (3C,D,F,(3B,B,,D, | z4 [bb']4 |] %77
+V:2
+ (3F,,=G,,B,,(3D,=E,,G,, (3F,,G,,B,,(3D,E,,G,, | (3=G,,=A,,C,(3_E,_G,,A,, (3=G,,A,,C,(3E,_G,,A,, | %2
+ (3B,,C,E,(3_G,=A,,C, (3D,E,G,(3=A,C,E, | (3D,E,G,(3=A,C,E, (3G,B,C(3EF,A, | %4
+ (3B,DG(3FCD (3=ECD(3=A,B,G, | (3=E,F,B,(3_A,=A,D (3A,B,D(3=B,CF | %6
+ (3_A,=B,=E(3_E_B,=B, (3=D_B,=B,(3=G,A,=E, | (3=D,_E,A,(3=E,F,=B, (3F,_G,B,(3=A,_B,_E | %8
+ (3_DF,B,(3_D,=E,=A, (3C_E,_A,(3=B,,=D,=G, | (3=B,=D,_G,(3_B,,_D,G, (3_B,G,=B,(3C_D_E | %10
+ (3=E=G,C(3_E,_G,=B, (3=DF,_B,(3_D,=E,=A, | (3C_E,_A,(3=B,,=D,=G, (3=B,_G,_D(3=D_E=E | %12
+ (3F=A,_E(3=EF_G (3F_B,_D(3EFG | (3=G=B,F(3_G=G_A (3GC_E(3_G=GA | (3ECF(3EA,D (3CE,_B,(3A,C,F, | %15
+ (3E,A,,D,(3C,=G,,A,, (3C,_G,,=D,(3C,F,,G,, | (3=G,,=A,,=B,,(3C,=D,E, (3_A,,_B,,=B,,(3C,_D,E, | %17
+ (3=A,,_B,,C,(3D,E,F, (3B,,=B,,C,(3D,E,F, | (3C,D,=D,(3E,F,G, (3=A,,_D,=D,(3E,F,G, | %19
+ (3=A,G,=E,(3=D,E,G, (3=A,,_D,=D,(3E,F,G, | (3=A,_A,=G,(3_G,_E,C, (3G,E,C,(3B,,=A,,_A,, | %21
+ (3=G,,A,,=A,,(3F,,_G,,_A,, (3=E,,F,,G,,(3=D,,E,,F,, | %22
+ (3=G,,,_A,,,B,,,(3C,,_D,,_E,, (3F,,_G,,=G,,(3A,,F,,B,, | %23
+ (3A,,F,E,(3D,C,B,, (3A,,F,,_G,,(3A,,F,,B,, | (3A,,E,,F,,(3G,,E,,B,, (3A,,D,,E,,(3F,,D,,B,, | %25
+ (3A,,C,,D,,(3E,,C,,F,, (3E,,B,,,F,,(3E,,A,,,B,,, | (3A,,,D,,E,,(3F,,G,,A,, (3B,,C,D,(3E,F,G, | %27
+ (3A,FE(3DCB, (3A,F,G,(3A,F,B, | (3A,E,F,(3G,E,B, (3A,D,E,(3F,D,B, | %29
+ (3A,C,D,(3E,C,F, (3E,B,,F,(3E,A,,F, | (3G,F,E,(3D,C,B,, (3=A,,F,C,(3E,D,B,, | %31
+ (3=A,,F,C,(3E,D,B,, (3A,,F,C,(3E,D,B,, | (3_A,=G,F,(3E,=D,C, (3=B,,G,D,(3F,E,C, | %33
+ (3=B,,=G,=D,(3F,E,C, (3B,,G,D,(3F,E,C, | (3_DC_B,(3A,=G,F, (3B,=E,G,(3_D,E,C, | %35
+ (3DCB,(3A,=G,F, (3B,=E,G,(3D,E,C, | (3B,=E,=G,(3D,E,C, (3G,D,E,(3C,E,B,, | %37
+ (3=E,B,,D,(3=A,,B,,_A,, (3D,A,,B,,(3=G,,B,,_G,, | (3F,,=G,,B,,(3D,=E,,G,, (3F,,G,,B,,(3D,E,,G,, | %39
+ (3=G,,=A,,C,(3_E,_G,,A,, (3=G,,A,,C,(3E,_G,,A,, | (3B,,C,E,(3_G,=A,,C, (3D,E,G,(3=A,C,E, | %41
+ (3D,E,G,(3=A,C,E, (3G,B,C(3EF,A, | (3B,DG(3FCD (3=ECD(3=A,B,G, | %43
+ (3=E,F,B,(3_A,=A,D (3A,B,D(3=B,CF | (3_A,=B,=E(3_E_B,=B, (3=D_B,=B,(3=G,A,=E, | %45
+ (3=D,_E,A,(3=E,F,=B, (3F,_G,B,(3=A,_B,_E | (3_DF,B,(3_D,=E,=A, (3C_E,_A,(3=B,,=D,=G, | %47
+ (3=B,=D,_G,(3_B,,_D,G, (3_B,G,=B,(3C_D_E | (3DC=B,(3_B,=A,F (3E=D_D(3CB,G | %49
+ (3FE=D(3_DC=A (3CD_B(3=DEB | (3cB_A(3GF=E (3cBA(3GFE | (3GF=E(3_E=D_D (3E=B,C(3D=A,_B, | %52
+ (3C=G,_A,(3=B,_G,E (3_B,F,G,(3=A,=E,D | (3_A,_E,=E,(3=G,=D,=B, (3_G,_D,=D,(3F,C,=A, | %54
+ (3=D=A,_B,(3_D_A,F (3C=G,A,(3=B,_G,_E | (3_B,F,G,(3=A,=E,D (3_A,_E,=E,(3=G,=D,=B, | %56
+ (3=E=B,C(3_E_B,=G (3=D=A,B,(3_D_A,F | (3C=G,A,(3=B,_G,E (3_B,F,E(3B,F,D | %58
+ (3G,F,=E,(3_E,D,C, (3G,F,E,(3D,C,_B,, | (3G,F,E,(3D,C,=B,, (3G,F,E,(3D,B,,_B,, | %60
+ (3=A,,B,,C,(3E,D,A,, (3C,B,,F,,(3_A,,G,,F,, | (3E,,F,,G,,(3B,,A,,G,, (3F,,D,,E,,(3F,,=E,,F,, | %62
+ (3G,,F,,=E,,(3_E,,D,,C,, (3G,,F,,E,,(3D,,C,,B,,, | %63
+ (3G,,F,,E,,(3D,,C,,=B,,, (3G,,F,,E,,(3D,,B,,,_B,,, | %64
+ (3=A,,,B,,,=B,,,(3D,,E,,F,, (3G,,_A,,_B,,(3=B,,D,E, | %65
+ (3F,=E,D,(3C,_B,,G,, (3F,,=E,,D,,(3C,,_B,,,G,,, | %66
+ (3F,,,B,,,A,,,(3=A,,,D,,A,,, (3B,,,_E,,=B,,,(3C,,F,,C,, | %67
+ (3D,,G,,=D,,(3E,,=A,,F,, (3G,,_D,A,,(3C,G,F, | (3=A,,D,A,,(3C,G,F, (3A,,D,A,,(3C,G,F, | %69
+ (3C,G,F,(3C,G,F, (3C,G,F,(3B,,G,F, | (3D,F,,E, (3z E,D, (3B,,F,,C,(3D,C,B,, | %71
+ (3D,F,,E, (3z E,D, (3B,,F,,C,(3D,C,B,, | (3E,,F,,B,,(3D,D,,F,, (3E,,F,,B,,(3D,D,,F,, | %73
+ (3C,,D,,F,,(3B,,B,,,D,, (3C,,D,,F,,(3B,,B,,,D,, | z4 (3C,,D,,F,,(3B,,B,,,D,, | %75
+ z4 (3C,,D,,F,,(3B,,B,,,D,, | [B,,,B,,] z3 [F,B,DF]4 |] %77

@@ -1,0 +1,73 @@
+% La Bayadère - Variation de Nikya: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=894
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:La Bayadère - Variation de Nikya
+C:Ludwig MINKUS
+%%score ( 1 2 ) 3 ( 4 5 ) 6
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="flute" snm="Fl"
+V:2 treble 
+V:3 treble transpose=-7 nm="cor" snm="Hn"
+L:1/8
+V:4 treble nm="uppera"
+L:1/8
+V:5 treble 
+L:1/4
+V:6 bass nm="lowera"
+L:1/4
+V:1
+ g z3 g z3 | g z3 g z3 | G z3 G z2 g | a6 z [gf] | e z3 _G z2 d | e6 z [d=B] | G z3 G z2 g | %7
+ b6 z [ag] | f z2 [efe] d2>g2 | c8 | z3 [c'c'] a'4 | z3 [c'c'] g'2>[cc]2 | f2>=e2 (3f2 z2 g2 | %13
+ _e7 e | _d4- d [dfa](3:2:2_d'2 z | (3:2:1z2 _d z3 (3:2:2[GEG]2[ceg]2 | c' z2 g c'2>_g2 | %17
+ _g2[fg] z =g z3 | z de[fG] g4 | G z2 g a4- | (3:2:1a4 (3:2:1[gf]2 e z3 | _G z2 d e4- | %22
+ (3:2:1e4 (3:2:1[d=B]2 =G z3 | G z2 g c'4- | c'agf e2>[efe]2 | d z2 g c2 z2 | c z3 c z3 | %27
+ c z3 c z2 g | bagf agfe | gfed fedc | dcBA AG_G=G | edc=B c2 z2 | c z3 c z3 | c z3 c z2 g | %34
+ bagf agfe | gfed fedc | dcBA AG_G=G | edc=B c2 z2 | d4 e4 | _g=gag c'4 | d4 e4 | %41
+ _g=gag c' z =b z | c' z =b z c' z b z | c' z =b z c'2 z2 | c'2 z6 |] %45
+V:2
+ g'4 g'4 | g'4 g'4 | g4 g3 z | x8 | d4 d3 z | x8 | g4 g3 z | x8 | e3 z4 z | x8 | x8 | x8 | x8 | %13
+ x8 | z4 [AFA] z3 | z2 c4- c z | x8 | x8 | x8 | g3 z4 z | z4 d4 | d3 z4 z | z4 g4 | g3 z4 z | x8 | %25
+ x8 | c'2 z2 c'2 z2 | c'2 z2 c' z3 | x8 | x8 | x8 | x8 | c'2 z2 c'2 z2 | c'2 z2 c' z3 | x8 | x8 | %36
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %45
+V:3
+[K:Bb] (3:2:1z2 D (3c z D- | (3B D/ z D (3A z D- | (3:2:2D/ z z3 | z4 | z4 | z4 | z4 | A4 | %8
+ D2 _G2 | =G2 z3/2 G/ | e2 z3/2 G/ | d2 z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %23
+ G4 | D2 _G2 | =G z3 | z4 | z2 A2 | B2 _G2 | =G2 C2 | D2 D2 | G2 z2 | z4 | z2 A2 | B2 _G2 | %35
+ =G2 C2 | D2 D2 | G2 c2 | B2 A2 | G2 c2 | B2 A2 | (3G z D (3G z D | (3G z D (3G z D | G z G z |] %44
+V:4
+ z4 | z4 | (3:2:1z2 [EGc] z (3:2:1[F=B]- | (3:2:2[FB]/ z (3:2:1z/ [Gc] z (3:2:1[CGc]- | %4
+ (3:2:2[CGc]/ z (3:2:1z/ [Ad] z (3:2:1[=Ad]- | (3:2:2[Ad]/ z (3:2:1z/ [Gce] z (3:2:1[G=Bd]- | %6
+ (3:2:2[GBd]/ z (3:2:1z/ [EGc] z (3:2:1[Gc]- | (3:2:2[Gc]/ z (3:2:1z/ [Ad] z (3:2:1[Ad]- | %8
+ (3:2:2[Ad]/ z (3:2:1z/ [Gce] z (3:2:1[G=Bd]- | [Ec]4 (3:2:1[G=Bd]/ | %10
+ (3:2:1z2 [CFA] z (3:2:1[CFA]- | (3:2:2[CFA]/ z (3:2:1z/ [EGc] z (3:2:1[EGc]- | %12
+ (3:2:2[EGc]/ z (3:2:1z/ [F=B] z (3:2:1[DG]- | (3[DG]/ z z/ [EGc] z (3:2:1[Gceg]- | %14
+ (3:2:2[Gceg]/ z (3:2:1z/ [A_d] z (3:2:1[Ad]- | (3:2:2[Ad]/ z (3:2:1z/ [Gc] z (3:2:1[Gc]- | %16
+ (3:2:2[Gc]/ z (3:2:1z/ [=D_Gc] z (3:2:1[DGc] | (3:2:2z [=G,=B,][DG]/ (3z/4 g/-g z | %18
+ (3:2:1z2 [EGc] z (3:2:1[F=B]- | (3:2:2[FB]/ z (3:2:1z/ [Gc] z (3:2:1[CGc]- | %20
+ (3:2:2[CGc]/ z (3:2:1z/ [Ad] z (3:2:1[=Ad]- | (3:2:2[Ad]/ z (3:2:1z/ [Gce] z (3:2:1[G=Bd]- | %22
+ (3:2:2[GBd]/ z (3:2:1z/ [EGc] z (3:2:1[=EG_Bc]- | (3:2:2[EGBc]/ z (3:2:1z/ [FAc] z (3:2:1[FAc]- | %24
+ (3:2:2[FAc]/ z (3:2:1z/ [Gc_e] z (3:2:1[G=Bd]- | (3:2:2[GBd]/ z (3:2:1z/ [EGc] z (3:2:1[FAc]- | %26
+ (3:2:2[FAc]/ z (3:2:1z/ [EGc] z (3:2:1[FAc]- | (3:2:2[FAc]/ z (3:2:1z/ [EGc] z (3:2:1[F=B]- | %28
+ (3:2:2[FB]/ z (3:2:1z/ [Gc] z (3:2:1[FGd]- | (3:2:2[FGd]/ z (3:2:1z/ [EGc] z (3:2:1[CFA]- | %30
+ (3:2:2[CFA]/ z (3:2:1z/ [CEG] z (3:2:1[=B,DFG]- | (3:2:2[B,DFG]/ z (3:2:1z/ [CEG] z (3:2:1[FAc]- | %32
+ (3:2:2[FAc]/ z (3:2:1z/ [EGc] z (3:2:1[FAc]- | (3:2:2[FAc]/ z (3:2:1z/ [EGc] z (3:2:1[F=B]- | %34
+ (3:2:2[FB]/ z (3:2:1z/ [Gc] z (3:2:1[FGd]- | (3:2:2[FGd]/ z (3:2:1z/ [EGc] z (3:2:1[CFA]- | %36
+ (3:2:2[CFA]/ z (3:2:1z/ [CEG] z (3:2:1[=B,DFG]- | (3:2:2[B,DFG]/ z (3:2:1z/ [CEG] z (3:2:1[Ad]- | %38
+ (3:2:2[Ad]/ z (3:2:1z/ [EGc] z (3:2:1[FG=B]- | (3:2:2[FGB]/ z (3:2:1z/ [EGc] z (3:2:1[Ad]- | %40
+ (3:2:2[Ad]/ z (3:2:1z/ [EGc] z (3:2:1[FG=B]- | (3:2:4[EGc] [FG=B]/ z [FGB] (3[EGc] z [FGB] | %42
+ (3[EGc] z [FG=B] (3[EGc] z [FGB] | [EGc] z [EGc] z |] %44
+V:5
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | G G x/6 | x2 | x2 | x2 | z (3:2:2[Gce]/ z | x2 | x2 | %16
+ x2 | z3/4 [=Bd]/4 z | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %33
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x13/6 | x2 | x2 |] %44
+V:6
+ z2 | z2 | C D | E E, | F, _G, | =G, G, | C, =E, | F, F, | G, G, | C,2 (3:2:1G,/ C/4 E/4 | F, F, | %11
+ E, E, | D, G,, | C,2 | F, F, | E, E, | A,, A,, | G,, G, | C D | E E, | F, _G, | =G, G, | C, =E, | %23
+ F, D, | G, G, | C, C, | C, C, | C, D, | E, =B,, | C, F,, | G,, G,, | C, C, | C, C, | C, D, | %34
+ E, =B,, | C, F,, | G,, G,, | C, F, | G, G, | C, F, | G, G, | (3[C,C]/ z/ G,/ (3[C,C]/ z/ G,/ | %42
+ (3[C,C]/ z/ G,/ (3[C,C]/ z/ G,/ | [C,C]/ z/ [C,C]/ z/ |] %44

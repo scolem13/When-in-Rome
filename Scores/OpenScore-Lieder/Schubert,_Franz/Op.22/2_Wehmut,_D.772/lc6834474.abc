@@ -1,0 +1,75 @@
+X:1
+T:Wehmut, D.772
+C:Franz Schubert
+Z:Matthäus Casimir von Collin
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 5 ) | 3 }
+L:1/16
+Q:1/4=50
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+V:4 treble 
+L:1/4
+V:5 treble 
+L:1/4
+V:3 bass 
+V:1
+"^Langsam" z8 | z8 | D2 D D A3 A | d3 e ^c3 c | ^c3 c c2 c2 | d3 A A3 A | e3 d e3 d | A4 z2 ^c2 | %8
+w: ||Wenn ich durch Wald und|Flu- ren geh’, es|wird mir dann so|wohl und weh in|un- ruh vol- ler|Brust, so|
+ d3 A A3/2 A/ A =B | ^c4- c c c c | ^c3 ^A ^G=BA G | ^F6 A2 | A3 ^F E=G{AG}F E | D4 z4 | z8 | %15
+w: wohl, so weh, wenn ich die|Au’ _ in ih- rer|Schön- heit Fül- * * le|schau’ und|all’ die Früh- * * lings-|lust.||
+ z4 z2 z A | A3 A A3 A | B3 A A3 A | B3 B B3 B | _c3 B B3/2 B/ B3/2 B/ | =B4- B3/2 B/ B3/2 A/ | %21
+w: Denn|was im Win- de|tö- nend weht, was|auf- ge- türmt gen|Him- mel steht, und auch der|Mensch, _ so hold ver-|
+ G3 =B B3 A | ^Ge ^d^c =B3 c/A/ | ^G6 A2 | A6 A2 | (d4 f3) e | ^c8 | z4 ^c4 | (d3 A) A4 | z8 | %30
+w: traut mit all’ der|Schön- * heit, _ die er _|schaut, ent-|schwin- det|und _ ver-|geht,|ent-|schwin- * det||
+ =B8 | ^c8 | d8- | d8 | _B8 | A8 | D8 | z8 | !fermata!z8 |] %39
+w: und|ver-|geht,|_|und|ver-|geht.|||
+V:2
+ [F,A,D]8 [A,EA]8 |!>(! ([DF]6!>)! ED ^C8) | [F,A,D]8!<(! [A,EA]8!<)! |!>(! d8!>)! [A^c]8 | %4
+ ([GB^c]6 [GBc]2 [GBc]4 [GBc]4) | ([^FAd]8 [=FAd]8) | %6
+!>(! [GA^ce]6 [FAd]2!>)!!>(! [GAce]4 [FAd]4!>)! | ([EA^c]6 [GBc]2 [GBc]4 [GBc]4) | %8
+ ([^FAd]8 [=FAd]8) | [EA^c]8 [^C^E=Bc]8 | ((!arpeggio![^C^F^A^c]8 !arpeggio![C^E^Gc]8)) | %11
+!<(! !arpeggio![^A,^F^c]8 !arpeggio![=A,^CF=A]8!<)! | %12
+!>(! !arpeggio![A,D^FA]8 !arpeggio![G,^CEA]8!>)! | (A6 ^F2) ([^CE]2G2{A2G2}F2E2) | %14
+ [^F,D]8!>(! (=F6 E2)!>)! | %15
+!pp! (3:2:6[^CE]A,[CE]"^6"A,[CE]A, (3[CE]A,[CE](3A,[CE]A, (3[CE]A,[CE](3A,[CE]A, (3[CE]A,[CE](3A,[CE]A, | %16
+ (3[^CE]A,[CE](3A,[CE]A, (3[CE]A,[CE](3A,[CE]A, (3[CE]A,[CE](3A,[CE]A, (3[CE]A,[CE](3A,[CE]A, | %17
+ (3[DF]A,[DF](3A,[DF]A, (3[DF]A,[DF](3A,[DF]A, (3[DF]A,[DF](3A,[DF]A, (3[DF]A,[DF](3A,[DF]A, | %18
+ (3[DF]B,[DF](3B,[DF]B, (3[DF]B,[DF](3B,[DF]B, (3[DF]B,[DF](3B,[DF]B, (3[DF]B,[DF](3B,[DF]B, | %19
+!<(! (3:2:6[_E_G]B,[EG]B,[EG]B, (3[EG]B,[EG](3B,[EG]B, (3[EG]B,[EG](3B,[EG]B, (3[EG]B,[EG](3B,[EG]B,!<)! | %20
+!>(! (3:2:6[^D^F]=B,[DF]B,[DF]B, (3[DF]B,[DF](3B,[DF]B, (3[DF]B,[DF](3B,[DF]B, (3[DF]B,[DF](3B,[DF]B,!>)! | %21
+ (3:2:6[EG]=B,[EG]B,[EG]B, (3[EG]B,[EG](3B,[EG]B, (3[^D^F]B,[DF](3B,[DF]B, (3[DF]B,[DF](3B,[DF]B, | %22
+ (3[E^G]=B,[EG](3B,[EG]B, (3[EG]B,[EG](3B,[EG]B, (3[^D^F]B,[DF](3B,[DF]B, (3[DF]B,[DF](3B,[DF]B, | %23
+ (3:2:6[E^G]=B,[EG]B,[EG]B, (3:2:6[EG]^B,[EG]B,[EG]B,!<(! (3:2:6[EG]^C[EG]C[EG]C (3[E=GA]A,[EGA](3A,[EGA]A,!<)! | %24
+ [A,D=FA]8!<(! [A,EA]8!<)! |!>(! A8 ^G8!>)! |!pp! [EA^c]16 | ([EB^c]16 | [DAd]16) | (d8 A8) | %30
+ ([D^G]16 | [A,E=G]16) | ([A,-^F]16 | [A,=F]16) | ([G,_E]16 | [=E,^C]16) | [F,A,D]16 | %37
+!>(! (F12!>)! E4) | !fermata![F,A,D]16 |] %39
+V:3
+ [D,,D,]8 [C,,C,]8 | [B,,,B,,]8 [A,,,A,,]8 | [D,,D,]8 [C,,C,]8 | [B,,,B,,]8 [A,,,A,,]8 | %4
+ [A,,,A,,]16 | [A,,,A,,]16 | [A,,,A,,]8 [A,,,A,,]8 | [A,,,A,,]8 [A,,,A,,]4 [A,,,A,,]4 | %8
+ [A,,,A,,]8 [A,,,A,,]8 | [A,,,A,,]8 [^G,,,^G,,]8 | [^F,,,^F,,]8 [^C,,^C,]8 | %11
+ [^F,,,^F,,]8 [F,,,F,,]8 | [A,,,A,,]8 [A,,,A,,]8 | [D,,D,]8 [D,,A,,]8 | [D,,A,,D,]8 [=B,,,=B,,]8 | %15
+ (3:2:6A,,,A,,A,,,"^6"A,,A,,,A,, (3:2:6A,,,A,,A,,,A,,A,,,A,, (3A,,,A,,A,,,(3A,,A,,,A,, (3A,,,A,,A,,,(3A,,A,,,A,, | %16
+ (3A,,,A,,A,,,(3A,,A,,,A,, (3A,,,A,,A,,,(3A,,A,,,A,, (3A,,,A,,A,,,(3A,,A,,,A,, (3A,,,A,,A,,,(3A,,A,,,A,, | %17
+ (3:2:6A,,,A,,A,,,A,,A,,,A,, (3A,,,A,,A,,,(3A,,A,,,A,, (3:2:6A,,,A,,A,,,A,,A,,,A,, (3A,,,A,,A,,,(3A,,A,,,A,, | %18
+ (3:2:6B,,,B,,B,,,B,,B,,,B,, (3B,,,B,,B,,,(3B,,B,,,B,, (3:2:6B,,,B,,B,,,B,,B,,,B,, (3B,,,B,,B,,,(3B,,B,,,B,, | %19
+ (3B,,,B,,B,,,(3B,,B,,,B,, (3B,,,B,,B,,,(3B,,B,,,B,, (3B,,,B,,B,,,(3B,,B,,,B,, (3:2:6B,,,B,,B,,,B,,B,,,B,, | %20
+ (3:2:6=B,,,=B,,B,,,B,,B,,,B,, (3:2:6B,,,B,,B,,,B,,B,,,B,, (3:2:6B,,,B,,B,,,B,,B,,,B,, (3:2:6B,,,B,,B,,,B,,B,,,B,, | %21
+ (3:2:6=B,,,=B,,B,,,B,,B,,,B,, (3:2:6B,,,B,,B,,,B,,B,,,B,, (3:2:6B,,,B,,B,,,B,,B,,,B,, (3:2:6B,,,B,,B,,,B,,B,,,B,, | %22
+ (3B,,,B,,B,,,(3B,,B,,,B,, (3B,,,B,,B,,,(3B,,B,,,B,, (3:2:6B,,,B,,B,,,B,,B,,,B,, (3:2:6B,,,B,,B,,,B,,B,,,B,, | %23
+ (3:2:6=B,,,=B,,B,,,B,,B,,,B,, (3:2:6^B,,,^B,,B,,,B,,B,,,B,, (3:2:6^C,,^C,C,,C,C,,C, (3C,,C,C,,(3C,C,,C, | %24
+ [D,,D,]8 [C,,C,]8 | [B,,,B,,]16 | ([A,,,A,,]16 | ([G,,,G,,]16) | ([^F,,,^F,,]16) | %29
+ [=F,,,=F,,]16) | (E,,16 | [A,,,A,,]16) | D,,16- | D,,16 | ([G,,,G,,]16 | [A,,,A,,]16) | %36
+ [D,,D,]16 | [D,,D,]16 | !fermata![D,,A,,D,]16 |] %39
+V:4
+ x4 | A, ^G, A,2 | x4 | A ^G E2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %13
+ !arpeggio![^F,D]2 [G,^C]2 | x2 [^G,D]2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | [Dd]4 | %26
+ x4 | x4 | x4 | [DA]4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | [G,B,^C]4 | x4 |] %39
+V:5
+ x4 | x4 | x4 | D2 x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 |] %39

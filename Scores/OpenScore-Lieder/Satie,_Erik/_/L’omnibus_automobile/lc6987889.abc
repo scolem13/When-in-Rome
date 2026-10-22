@@ -1,0 +1,42 @@
+X:1
+T:L’omnibus automobile
+C:Erik Satie
+Z:Vincent Hyspa
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=52
+M:2/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Chant\nVoice"
+L:1/16
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Pas vite" z8 | z8!fine! || z F G A B G F2 | z D E F G E C2 | z B, C D F G B G | F G F D C2 B,2 | %6
+w: ||C’é- tait pen- dant l’hor- reur|du Qua- tor- ze Juil- let,|Il fai- sait chaud, très chaud sur|la pla- ce Pi- gal- le|
+ z C D =E F G A2 | z B A B A G c2 | z A G F =E D F2- | F C D =E D E D D | z C D =E G A c2 | %11
+w: Un gros bal- lon, sans bruit,|gra- ve- ment am- bu- lait|Par la rou- te cé- les-|\- te. u- nique et na- tio- na- le|Il fai- sait soif, trés soif,|
+ z F G F _E D B2 | z B, C D F G B G |1,2,3,4,5 F G F D B4 :|6 F G F D B4!D.C.! |] %15
+w: et le pe- tit jet d’eau|Es- cla- ve du des- tin Mon-|tait de bas en haut.|\- tait de bas en haut.|
+V:2
+"^Pas vite"!f! z/ (F/G/A/ B/G/F) | [B,DFB]2 !arpeggio![Bdfb]2 ||!p! [B,F] z .[B,G].[A,F] | %3
+ [B,F] z [B,E] z | F4- | F2[I:staff +1] ([E,A,C][B,,B,]) |[I:staff -1] z4 | ([B,D]2 [B,=E]2 | %8
+ [=Fc]2 [FB]2) | ([FA]2 [DFG]2) | ([CFc]2 [B,G][A,_G]) | ([B,F]2 [B,_E][G,EB]) | F4- | %13
+ [B,F][I:staff +1]([E,A,C] [D,B,])[I:staff -1]!arpeggio![Bdfb] :| %14
+ [B,F][I:staff +1]([E,A,C] [D,B,])[I:staff -1]!arpeggio![Bdfb] |] %15
+V:3
+ [B,F] z [B,E][A,E] | x2 [B,DF]2 || x4 | x4 | (B,2 G,>A, | B,2) x2 | x4 | x4 | x4 | F/C/D/=E/ x2 | %10
+ x4 | x4 | B,2 =G,>A, | x4 :| x4 |] %15
+V:4
+ [D,F,] z [C,G,][F,,,F,,] |!8vb(! [B,,,,B,,,]2- [B,,,,B,,,]!8vb)! z || [D,F,] z .E,.[C,E,] | %3
+ [D,F,] z [C,G,] z | F,,4- | F,,2 ([F,,,F,,-][B,,,F,,]) | [B,C]2 [B,F]2 | (F,^F, G,2) | %8
+ ([A,C]2 [G,D]2) | ([C,-A,]2 [C,B,]2) | [C,A,]2 [D,F,][C,_E,] | F,2 G,_G, | F,,4- | [F,,D,]2 x2 :| %14
+ [F,,D,]2 x2 |] %15
+V:5
+ x4 |!8vb(! x3!8vb)! x || x4 | x4 | D,2 E,2 | D,2 x2 | [C,=E,]2 [C,D,]2 | C,4 | x4 | x4 | x4 | %11
+ D,2 C,2 | ([D,F,]2 E,2) | F,,([F,,,F,,-] [B,,,F,,])[I:staff -1][B,DF] :| %14
+[I:staff +1] F,,([F,,,F,,-] [B,,,F,,])[I:staff -1][B,DF] |] %15

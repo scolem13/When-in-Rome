@@ -1,0 +1,71 @@
+X:1
+T:8 Lieder und Gesänge, Op.58
+T:Schwermut
+C:Johannes Brahms
+Z:Carl Candidus
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 5 6 7 ) }
+L:1/4
+M:4/4
+I:linebreak $
+K:Gb
+U:s=!stemless!
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+L:1/8
+V:4 bass 
+L:1/8
+V:5 bass 
+V:6 bass 
+V:7 bass 
+L:1/8
+V:1
+"^Sehr Iangsam." z4 | z4 | z4 | z4 | z2 z B | B3 B | e2 d2 | A2 z A | B3 c | c3 c | d3 e | e2 e z | %12
+w: ||||Mir|ist so|weh ums|Herz, mir|ist als|ob ich|wei- nen|möch- te,|
+ z2 f2 | B2 z2 | z4 | z4 | z2 G2 | G3 ^F | ^F2 z F | ^F3 =D | =D2 z2 | z4 | z2 =d2 || %23
+w: Vor|Schmerz!|||Ge-|dan- ken-|satt und|le- bens-|matt||möcht|
+[M:4/2] B2 =A2 A2 =G2 | (=G3 F) E2 E2- | E2 E2 _G2 G2 | c4 B2 B2- | B2 _c2 _d2 e2 | %28
+w: ich das Haupt hin-|le- * gen in|* die Nacht der|Näch- te, in|* die Nacht der|
+ (e2 B2- B2 =D2) | E2 z2 z4 | x4 z4 | !fermata!z4 x4 |] %32
+w: Näch- * * *|te!|||
+V:2
+!p!"^sotto voce" B,2 B,2 | B,2 B,2 | [B,E]2 D2 | z4 | z4 |!pp![I:staff +1] B,2 B,2 | %6
+ [G,B,E]2 [D,G,D]2 | A,3 A, | [=D,B,]2 [G,B,C]2 |"_poco a poco cresc."[I:staff -1] C2 C2 | %10
+ D2 [DE]2 |!<(! E2 E2 | E2!<)!!f! [EF]2 |!p! B,3"_dimin." sB, | sE2 sD2 |[I:staff +1] A,3 A, | %16
+ [=D,B,]2 [E,G,]2 |[I:staff -1] z2 z!pp! =D | =D3/2 ^C/ C =E |"^dimin." =D2 D2 | =D2 z2 | %21
+[I:staff +1] [=D,=G,_B,]2 [_B,,F,B,]2 | [B,,_G,]2 [B,,F,]2 || %23
+[M:4/2][I:staff -1] z2 [=D^F=c]2 z2 [D=G_B]2 | z2!>(! [B,=D_A]2 x2 [E=G]2!>)! | %25
+!<(! z2 [E_G]2 z2 [EG]2!<)! |!>(! ([Gc]2 [Fc]2)!>)! z2 [D_GB]2 | %27
+ z2!<(! ([_G_c]2 [_FB_d]2 [E=Ae]2)!<)! |!>(! ([B,E=GB-]2 [=A,E_GB]2 [B,EF-]2 [_A,=DF]2)!>)! | %29
+!p! z2 [=G,B,_DE]2 z2 [A,=CE]2 |!>(! z2 [F,A,_CE]2- [F,A,CE]2 [=G,B,E]2!>)! | %31
+!pp! !fermata![=G,B,E]8 |] %32
+V:3
+ B,,4 B,,4 | B,,4 B,,4 | G,4 [D,G,]4 | A,,4 A,,4 | [=D,B,]4 [E,G,]4 | B,,4 B,,4 | %6
+ [E,,B,,]4 [B,,,B,,]4 | A,,4 A,,4 | [B,,,B,,]4 E,,4 | A,3 G, G,2 A,2 | =F,4 B,4 | E,4 E,4 | %12
+ E,4 [=C,F,=A,]4 | [E,G,]3 [=D,F,] [D,F,]2 [F,A,]2 | [E,G,]4 [D,G,]4 | A,,4 A,,4 | %16
+ [B,,,B,,]4 [E,,B,,]4 | z4 z2 ^F,2 | ^F,4 F,4 | [^F,=B,]4 [=D,=A,]4 | %20
+ [=D,_B,]3 [D,=A,] [D,A,]2 [D,=C]2 |!>(! [=G,,,=G,,]4 [=D,,,=D,,]4 | %22
+ [_E,,,_E,,]4 [=D,,,=D,,]4!>)! ||[M:4/2] (=D,,=D,^F,=C) z4 (=G,,,=G,,D,=G,) z4 | %24
+ (B,,,B,,=D,_A,) z4 (B,,,B,,E,=G,) z4 | (_C,,_C,E,_G,) z4 (=C,,=C,E,=A,) z4 | %26
+ (_D,,_D,_A,_C) z4 (_F,,_F,_G,B,) z4 | (E,,E,_G,_C) z4 (_C,,_C,G,C) z4 | %28
+ (3(B,,,2 B,,2 E,2) z4 (3(B,,,2 B,,2 F,2) z4 | (E,,,E,,B,,E,) z4 (E,,,E,,A,,E,) z4 | %30
+ (3(E,,,2 E,,2 A,,2) z4 (3(E,,,2 E,,2 B,,2) z4 | !fermata!B,,16 |] %32
+V:4
+ z4 z2 E,,2 | E,,3 =D,, D,,2 F,,2 | [E,,B,,]4 [B,,,B,,]4 | D,,3!>(! C,, C,,2 D,,2 | %4
+ [B,,,B,,]4 [E,,B,,]4!>)! | E,,3 =D,, D,,2 F,,2 | x8 | D,,3 C,, C,,2 D,,2 | x8 | %9
+ _F,,3 E,, E,,2 F,,2 | D,,4 =G,,4 | B,,3 A,, A,,3 G,, | G,,3 F,, !arpeggio![F,,,=F,,]4 | %13
+ [B,,,B,,]4 [B,,,B,,]4 | [B,,,B,,]4 [B,,,B,,]4 | D,,3!>(! C,, C,,2 D,,2 | x8!>)! | %17
+ z4 z2 [=B,,,=B,,]2 | [=B,,,=B,,]3 [^A,,,^A,,] [A,,,A,,]2 [^C,,^C,]2 | [=B,,,=B,,]4 [^F,,,^F,,]4 | %20
+ [=G,,,=G,,]3 [^F,,,^F,,] [F,,,F,,]2 [=A,,,=A,,]2 | x8 | x8 ||[M:4/2] x16 | x16 | x16 | x16 | x16 | %28
+ x16 | x16 | x16 | E,,16 |] %32
+V:5
+ z2 z G, | G,3/2 F,/ F, A, | x4 | A,3 A, | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %15
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 ||[M:4/2] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %32
+V:6
+ x4 | x4 | x4 | F,3/2 E,/ E, F, | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ x4 | x4 | x4 | x4 | x4 | x4 ||[M:4/2] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %32
+V:7
+ x8 | x8 | x8 | x8 | x8 | G,3 F, F,2 A,2 | x8 | F,3 E, E,2 F,2 | x8 | x8 | x8 | %11
+[I:staff -1] D3 C C3 B, | B,3 =A, =C4 | x8 | x8 |[I:staff +1] F,3 E, E,2 F,2 | x8 | x8 | x8 | x8 | %20
+ x8 | x8 | x8 ||[M:4/2] x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 |] %32

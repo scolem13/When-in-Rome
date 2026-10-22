@@ -1,0 +1,75 @@
+X:1
+T:3 Songs
+T:Italien
+C:Fanny (Mendelssohn) Hensel
+Z:Franz Grillparzer
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=116
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:1
+"^Allegretto" z2 z B c ^c | !>!e2 d =c B A | G2 z({A/} G) F G | B2 A G F E | D2 z!f! f e d | %5
+w: Schö- ner und|schö- ner  schmückt  sich der|Plan, schmei- cheln- de|Lüf- te we- hen mich|an, fort aus der|
+ (^cB) A G F E | D3!p! ^D ^C D | F2"^cresc." E({/G} F) E F | G2 z ^G F G | %9
+w: Pro- * sa La- sten und|Müh' zieh' ich zum|Lan- de der Po- e-|sie; gold'- ner die|
+ B2 A"^cresc."({c/} B) A B | c2 z ^c B c | e2 d ^c"^dim." =c A | G3 z z2 | z6 | %14
+w: Son- ne, blau- er die|Luft, grü- ner die|Grü- ne, würz'- ger der|Duft!||
+[Q:1/4=120]"^a tempo" z2 z!p! B c ^c | !>!e2 d =c B A | G2 z G F G | B A ^G =G F E | D2 z f e d | %19
+w: Dort an dem|Mais- halm, schwel- lend von|Saft, sträubt sich der|A- lo- e stör- ri- sche|Kraft! Oel- baum, Cy-|
+ (^cB) A"^ritard." G E A |[Q:1/4=120]"^a tempo" D2 z ^D ^C D | F E E({G/} F) E F | %22
+w: pres- * se, blond du, du|braun, nickt ihr wie|zier- li- che, grü- ssen- de|
+ G2 z"^cresc." ^G F G | B2 A({c/} B) A B | c2 z ^c B c |!f!"^ritard." e2 d ^c"^dim." =c A | G2 z4 | %27
+w: Frau'n? Was  glänzt im|Lau- be fun- kelnd wie|Gold? Ha! Po- me-|ran- ze, birgst du dich|hold?|
+ z6 |[Q:1/4=120]"^a tempo" z2 z B c d | e2 A A ^G A | d2 z d ^c d | (dA) F G E A | D2 z!f! f e d | %33
+w: |Trotz'- ger Po-|sei- don, wa- rest du|dies, der un- ten|scherzt * und mur- melt so|süss? Und dies, halb|
+ ^c B A G F E | ^D3!p! E D E | !>!G2 F G F G |"^molto cresc." ^G2 z A G A | c2 B c B c | %38
+w: Wie- se, halb Ae- ther zu|schau'n, es war des|Mee- res furcht- ba- res|Grau'n? Hier will ich|woh- nen, Gött- li- che|
+!f! ^c2 z c B c |!f!"^ritard.molto" g3/2 ^c/ c c B c | d2 z[Q:1/4=120]"^a tempo"!p! d ^c d | %41
+w: du! Bringst du, Par-|the- no- pe, Wo- gen zur|Ruh'? Nun dann ver-|
+ (!>!_ed) =c _B A G | F2 z d ^c d | =f3 e2 e |!<(! g6-!<)! | g3- g ^f e | d3-!>(! (dc) A!>)! | %47
+w: such' * es, E- den der|Lust, eb'- ne die|Wo- gen, die|Wo-|* * gen auch|die- * * ser|
+!p! G2 z z2 z | z6 | !fermata!z6 |] %50
+w: Brust!|||
+V:2
+!p! z [DGB][DGB] z [DGB][DGB] | z [DFc][DFc] z [DFc][DFc] | z [DGB][DGB] z [B,EG][B,EG] | %3
+ z [A,DF][A,DF] z [A,^CG][A,CG] | z [A,DF][A,DF] z [A,DF][A,DF] | z [A,^CG][A,CG] z [A,CG][A,CG] | %6
+ z [A,D][A,D] z [F,=C^D][F,CD] | z [G,B,E][G,B,E] z [A,DF][A,DF] | %8
+ z [B,DG][B,DG]"^cresc." z [B,E^G][B,EG] | z [CEA][CEA] z [DGB][DGB] | %10
+ z [EGc][EGc]!<(! z [EG^c][EGc] | z"^ritard." [DGBd][DGB]!<)!!>(! z [DF=c][DFc]!>)! | %12
+!p! z [DGB][DGB] (g2 f) | (e2 d) (^c2 =c) |"^a tempo" B3 z [DGB][DGB] | z [DFc][DFc] z [DFc][DFc] | %16
+ z [DGB][DGB] z [B,EG][B,EG] | z [A,DF][A,DF] z [A,^CG][A,CG] | z [A,DF][A,DF] z [A,DF][A,DF] | %19
+ z [A,^CG][A,CG]"^ritard." z [A,CG][A,CG] | z [A,D][A,D] z [F,=C^D][F,CD] | %21
+ z [G,B,E][G,B,E] z [A,DF][A,DF] | z [B,DG][B,DG]"_cresc." z [B,E^G][B,EG] | %23
+ z [CEA][CEA] z [DGB][DGB] | z [CGc][CGc]!f! z [EG^c][EGc] | z [DGBd][DGB]"_dim." z [CDFA][CDFA] | %26
+ z [B,DG][B,DG]!p! (g2 f) | (e2 d) (^c2 =c) |"^a tempo" B3!p! z [DGB][DGB] | %29
+ z [EG_B][EGA] z [_EFA][DFA] | z [DG][DG] z [G,DG][G,DG] | z [A,DF][A,DF] z [A,^CG][A,CG] | %32
+ z [A,DF][A,DF] z [A,DF][A,DF] | z [A,^CG][A,CG] z [A,CG][A,CG] | %34
+!f! z [A,=C^D][A,CD]!p! z [B,E][B,E] | z [C_EF][CEF] z [DG][DG] | %36
+"_cresc." z [D=F^G][DFG] z [EA][EA] | z [=F_AB][FAB]!f! z [Gc][Gc] | z [=EG^c][EGc] z [EGc][EGc] | %39
+"^colla voce" z [EG^c][EGc] z [EGc][EGc] | z [DF=c][DFc]"_a tempo"!p! z [DFc][DFc] | %41
+ z [DG_B][DGB] z [_B,EG][B,EG] | z [A,DF][A,DF] z [G,DG][G,DG] | z [B,D^G][B,DG] z [A,EA][A,EA] | %44
+ z!<(! [^A,E=G][A,EG] z [B,=FG][B,FG]!<)! | z [CEG][CEG] z [^CEGA][CEGA] | %46
+ z!>(! [B,DGB][B,DGB] z [=CDF][CDF]!>)! | z [B,DG][B,DG]!p! (e2 d) | (^c2"^rit." =c) (B2 A) | %49
+ [B,DG]3 !fermata!z2 z |] %50
+V:3
+ [G,,G,]2 z [D,,D,]2 z | [A,,A,]2 z [D,,D,]2 z | [G,,G,]2 z [G,,,G,,]2 z | A,,,2 z A,,2 z | %4
+ [D,,D,]2 z [A,,,A,,]2 z | [E,,E,]2 z [A,,,A,,]2 z | F,,3 A,,3 | G,,3 C,3 | B,,3 D,3 | C,3 =F,3 | %10
+ E,3 A,3 | D,3 D,,3 | [G,,G,]2 z [D,D]2 z | [D,D]2 z [D,D]2 z | G,3 G,,3 | D,3 D,,3 | G,,3 G,,,3 | %17
+ A,,,3 A,,3 | [D,,D,] z z [A,,,A,,] z z | [E,,E,] z z [A,,,A,,] z z |"^a tempo" F,,3 A,,3 | %21
+ G,,3 C,3 | B,,3 D,3 | C,3 =F,3 | E,3 A,3 |"^ritard." D,3 D,,3 | G,,2 z [D,D]2 z | %27
+ [D,D]2 z [D,D]2 z | G,3 G,,3 | ^C,3 =C,3 | B,,3 _B,,3 | A,, z z A,,, z z | %32
+ [D,,D,]2 z [A,,,A,,]2 z | [E,,E,]2 z [A,,,A,,]2 z | (F,,3 G,,3 | A,,3 !>!_B,,3 | !>!=B,,3 !>!C,3 | %37
+ !>!D,3 !>!_E,3 | A,3 A,,3 | A,3 A,,3 | D,3) D,3 | D,3 ^C,3 | =C,3 B,,3 | D,3 C,3 | (^C,3 D,3 | %45
+ E,3) [A,,A,] z z | [D,,D,] z z [D,,D,] z z | G,, z z D,3 | D,3 D,3 | G,,3 !fermata!z2 z |] %50
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 z [GB][GB] | %13
+ z [FA][FA] z [EG][FA] | z [DG][DG] x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %26
+ x3 z [GB][GB] | z [FA][FA] z [EG][FA] | z [DG][DG] x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 z [FA][FA] | z [EG][FA] z [DG][CF] | x6 |] %50

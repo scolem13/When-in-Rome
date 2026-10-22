@@ -1,0 +1,39 @@
+X:1
+T:Ludions
+T:Spleen
+C:Erik Satie
+Z:Léon-Paul Fargue
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | 4 }
+L:1/4
+Q:1/4=70
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Chant"
+L:1/8
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:1
+"^Modéré" z8 | z8 | z (B e d c2 B) z | z (d e g f d e B |$[K:treble] G F G E G2) z2 | %5
+w: ||Dans un vieux squa- re|où l’o cé- an Du mau- vais|temps met son sé- ant|
+ z (g e c =A F =B G) | G G z !courtesy!_A !courtesy!_B F E G |$ (3=B c d e c (3=A c d _B G/ B/ | %8
+w: Sur un banc triste aux yeux de|plui- e C’est d’u- ne blon- de|Ro- se et gi- ron- de Que tu t’en- nui- es Dans|
+ d f g c d f g2 | z c c _B c2 c z |] %10
+w: ce ca- ba- ret du Né- ant|Qu’est no- tre vi- e?|
+V:2
+!f! [G,G]2 [Cc] [B,B] | [A,D]2 [G,E]- [G,E]/ z/ | [Gg]2 [cc'] [Bb] | [Ba] [Bg] [Af] [Ge] |$ %4
+ .!tenuto!G2 .!tenuto!G2 |!<(! .!tenuto!G2 .!tenuto!G2!<)! | %6
+!p! [e!courtesy!_be'] [e_ac'] [dfb] [egb] |$!mf! [=B,FA] [CGc] [D=Ac] [DG_B] | %8
+!f!!<(![I:staff +1] [=F,_A,] [G,B,]/[A,C]/ [B,D]2!<)! |!ff! !>![G,C=E]2- [G,CE][I:staff -1] z |] %10
+V:3
+ F E E E | B,2 B,- B,/ x/ | f e e e | d e d e |$ [=B,_D] C [DF]!mf! [CE] | %5
+ [G,_B,] [A,C] [=A,^C]!f! [=B,!courtesy!=D] | x4 |$ x4 | x4 | x4 |] %10
+V:4
+ [F,,F,] [E,,E,] [A,,A,] [G,,G,] | [B,,,B,,]2 [E,,,E,,]- [E,,,E,,]/ z/ |[K:treble] F E A G | %3
+ F E B, E |$[K:bass] [F,,F,] [E,,E,] [=B,,,=B,,] [C,,C,] | %5
+ [!courtesy!=D,,!courtesy!=D,] [E,,E,] [F,,F,] [G,,G,] |[I:staff -1] G A B E |$ %7
+[I:staff +1] [D,,D,] [E,,E,] [^F,,^F,] [G,,G,] | %8
+ .!tenuto![C,,C,]/.!tenuto![D,,D,]/.!tenuto![E,,E,]/.!tenuto![F,,F,]/ .!tenuto![G,,G,] .!tenuto![G,,,G,,] | %9
+ !>![C,,C,]2- [C,,C,] z |] %10

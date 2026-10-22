@@ -1,0 +1,78 @@
+X:1
+T:3 Lieder, Op.44
+T:Gruss
+C:Laura Netzel (originally published as “Lago”)
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 7 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=94
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:6 treble 
+L:1/4
+V:7 treble 
+L:1/4
+V:4 bass 
+V:5 bass 
+V:1
+"^Andantino" z4 | z4 | z4 | z4 | z4 | z4 |!p! (F F ^E F) | A A =E2 | (G G D E) | F2 A z | %10
+w: ||||||Lei- se zieht durch|mein Ge- müt|lieb- li- ches Ge-|läu- te,|
+w: ||||||Stil- le ly- der|i mit Bryst|yn- de- ful- de|To- ner,|
+ B3/2 B/ F F | B B G2 |!<(! B z/ B/ c d | e2 (c!<)!B) | (A F G ^G) | (A A E2) |!<(! =G B d e!<)! | %17
+w: klin- ge klei- nes|Früh- lings- lied,|kling’ hin- aus in’s|Wei- te. _|Zieh’ hin- aus bis|an das Haus,|wo die Veil- chen|
+w: kling du lil- le|For- aars- sang,|kling til fjer- ne|Zo- ner _|Til Vi- o- lens|Hjem drag hen,|hvor den smukt ud-|
+"^cresc." f2 F z |!p! (F=c) (BA) | G2 z B | ^c3 ^G | c2- c z | z2 d2- |!<(! d B c d!<)! |!>(! e4 | %25
+w: sprie- ssen,|zieh _ hin- *|aus bis|an das|Haus, _|wo|_ die Veil- chen|sprie-|
+w: sprin- ger|til Vi- o- lens|Hjem drag|hen, drag|hen, _|hvor|_ den smukt ud-|sprin-|
+ e2 d c | f3!>)! e | d c B2 | z2 d2 | z B c d |!p! A4- | A2 (AB) |!pp! (A F ^E F) | (A A =E2) | %34
+w: ssen, wenn du|ei- ne|Ro- se schaust,|sag,|ich lass’ sie|grü-|* ssen. _|Lei- se zieht durch|mein Ge- müt|
+w: ger Naar du|der en|Ro- se ser,|sig,|du Hil- sen|brin-|* ger. _|Stil- le ly- der|i mit Bryst|
+ (G B d e) | (f2 F) z | F3/2 F/!<(! B B | B B!<)!!f! !fermata!e2 |!>(! d!>)! z/ B/"^dim." G F | %39
+w: lieb- li- ches Ge-|läu- te,|klin- ge klei- nes|Früh- lings- lied,|kling’ hin- aus in’s|
+w: yn- de- ful- de|To- ner,|kling du lil- le|For- aars- sang,|kling til fjer- ne|
+"^rit." E4 | D z z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |] %48
+w: Wei-|te.||||||||
+w: Zo-|ner.||||||||
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %18
+ F =c B A | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %36
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %48
+V:3
+ z4 | z2 [DE] z | z2 [DG] z | z [D^Gd]2 [D=Gd] | [DFd]>A([DG]F) |"_dim." (A3 F | %6
+!p! [F,A,D] [F,A,D]2) [A,DF] | z [A,CG]2 [A,CGA] | z [B,DG]2 [_B,DG] | [A,DF] [DFA]2 [DFA] | %10
+ z [DFB]2 [=B,DA] | z [B,DG]2 z |!<(! z [EGB]2!<)! [EGB] | z [EGA]2 (([CE] | %14
+ [DF])) [A,DF]2 [A,DF] | z [A,CA]2 [A,CG] | z [B,DG]2 [DGB] | [CFc] [CEFc]2 [CEFc] | z!p! (F2 A) | %19
+ [EG] [EG]2 [EG] | C G2 ^G | [A,A] [CFA]2 [CFA] | D [DFA]2 [CFA] | [D^G] [DF]2 [DF] | %24
+ [B,DE] [DEB]2 [DE^B] | [CEc] [E=G]2 [EG] | z [EF]2 [EF] | z (([EG][DF])) z |!<(! z [DEG]2 [DEGB] | %29
+ [EGe]!<)! z z2 |!p! z ([FA]GF) | (([DE]2 [CA])) z |!pp! [A,D] [A,D]2 [A,D] | %33
+ [A,DG] [A,CG]2 [A,CG] | z [B,DG]2 [_B,DG] | [A,DF] [A,DF]2 [DF] |!<(! z [FA]G[^DF] | %37
+ [=DE]F!<)! [DEB] !fermata!z | z2"_dim." [B,DE]2 | [A,A]4- | %40
+!p! ([A,DA]"^a tempo"[A,DF][A,DG][A,D^G]) | [A,CA]2 (EA) | [=CEA]2 (D[Bd]) | [DAd] =G2 z | %44
+ z2!<(! (E[Bde]) | [^EB^e]!<)! z"_dim." [FAf]2- | [FAf] z z A |!pp! !fermata![da]4 |] %48
+V:4
+ z2 D2 | _B,>A, [G,B,] z | G,>=F, [E,_B,] z | z [B,,E,]2 [_B,,E,] | A,2 B,A, | [A,,G,]4 | %6
+ [D,,A,,]2- [D,,A,,] z | [D,,A,,]2- [D,,A,,] z | (D,4 | D,,) z z2 | z2 D,2 | E,3 E, | D2 (CB,) | %13
+ [A,C]3 ([G,A,-] | [F,A,]) z z2 | [E,G,]2- [E,G,] z | D,2 B,,2 | [^A,,F,]2- [A,,F,] z | z2 (B,,2 | %19
+ E,) z [E,,G,]2- | [E,,G,]3 ([^E,,C,-] | [F,,C,]) z z2 | z2 (([F,,A,]2 | [^G,,B,])) z z2 | %24
+ z2 (([^G,,E,]2 | [^A,,G,])) z z2 | z F,^G,^A, | [B,,B,]3 B,, | ((B,4 | [E,B,D])) z z2 | %30
+ (F,=A,B,A,) | =G,3 G, | [A,,F,]2- [A,,F,] z | [E,,A,,E,]2- [E,,A,,E,] z | [D,,D,]4- | %35
+ [D,,A,,D,]2 A,2- | A,=CB,A, | ^G,A, [E,,B,,G,] !fermata!z | z2 E,2 | %39
+"^rit." !arpeggio![A,,,A,,E,=G,]4 | ([D,,A,,F,] A,,3) | ([D,,A,,G,] A,,2) z | (F,2 =C2) | %43
+ [D,B,] z ([D,,B,,D,]E,) | ([G,B,]D) z2 | ^G, z (A,[D,,A,,]) | F, [A,D]3- | !fermata![A,D]4 |] %48
+V:5
+ x4 | x4 | x4 | x4 | A,,4- | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | ^A,,4 | x4 | x4 | x4 | =A,,4- | A,, A,,3 | x4 | x4 | x4 | x4 | %36
+ B,,3 B,, | E,2 x2 | x4 | x4 | x4 | x4 | [D,,A,,] D,3- | x4 | x4 | x4 | x4 | x4 |] %48
+V:6
+ x2 | x2 | x2 | x2 | x2 | D C | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %18
+ z/ E/^D/F/ | z =D | C/D/C/B,/ | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %34
+ x2 | x2 | x2 | x2 | x2 | D ^C | x2 | x2 | x2 | x2 | x2 | x2 | x F- | F2 |] %48
+V:7
+ x2 | x2 | x2 | x2 | x2 | A,2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %19
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %38
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %48

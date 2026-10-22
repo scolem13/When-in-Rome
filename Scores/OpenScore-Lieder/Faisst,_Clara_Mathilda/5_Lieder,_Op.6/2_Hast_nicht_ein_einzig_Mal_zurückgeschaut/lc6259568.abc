@@ -1,0 +1,79 @@
+X:1
+T:5 Lieder, Op. 6
+T:Hast nicht ein einzig Mal zurückgeschaut
+C:Clara Faisst
+Z:Anna Ritter
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/16
+M:2/4
+I:linebreak $
+K:A
+V:1 treble nm="Voice\nGesang"
+V:2 treble nm="Piano"
+V:4 treble 
+L:1/4
+V:3 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Sostenuto" z8 | z2!p!!<(! F2 A2 c2!<)! | d3 B G2 ^E2 | G3 C C2 C2 | C6 ^D2 | E8 | %6
+w: |Hast nicht ein|ein- zig Mal zu-|rück ge- schaut, den|lan- gen|Weg!|
+!mf! c4 A B c d | c2 e2 (B2 c) d |!<(! c2 c2 c3 c!<)! | c8 | z8 | z8 | z8 | z8 | z8 | %15
+w: Froh schrit- test du da-|hin und san- * gest|laut im Wald- ge-|heg.||||||
+"^più lento" C4"^espr." C2 C2 | D3 D D2!<(! D2!<)! | (=c4 B2) A2 | G4 z2 E2 |!p! E3 E F G A B | %20
+w: Ich a- ber|nes- tel- te in|bit- * trem|Leid den|klei- nen Strauss ver- welk- ter|
+ d2 =c2 B A E A | F4 z4 | z8 | z4 z!p! A A =c | ^D4 z4 | z8 | z4"^più vivo" z2!p! B2 | B6 B2 | %28
+w: Veil- chen von dem wei- ssen|Kleid ||es war ja|aus!||Und|rings auf|
+ =c3!<(! c c2 c2 | d4-!<)! (d2 e) d | d4 z2!<(! ^d2 | e6 B2!<)! | c6 z2 | z4 z2!p! E2 | E6 E2 | %35
+w: Er- den war es|Früh- * * ling|doch. auf|al- len|Höhn,|in|al- len|
+ F3 F F2 F2 | A6 F2 | E6!<(! c2!<)! |!f! c6 C2 | C6!p! (c2 |"^poco rit." c4- cA GF | F6) z2 | z8 | %43
+w: Tä- lern lag die|Son- ne|noch, so|wun- der-|\- schön, so|wun- * * der- *|\- schön!||
+ z8 | z8 | z8 | z8 | !fermata!z8 |] %48
+w: |||||
+V:2
+!p! !^![A,CF]8 | !^![CFc]8 | (!>!d2>B2 G2^E2 | G6) C2 | C6 ^D2 | [G,CE]8 | %6
+!p!!<(! ([A,CE]4 [CA][EB][Ac][Bd]) | ([ce]2!<)!.[ca]2) (e2>e2 | %8
+!<(! .[ce]2.[EAc]2) ([^EBc]2>[EBc]2!<)! |"^più vivo" [F^Ac]4) ([^A,F][CG][FA][GB] | %10
+ ([^Ac]2.[FAf]2) [^EBc]2>[EBc]2 |!>(! [F^Ac]4) ([Af][cg][f^a][gb] | [^ac']2.[faf']2) (c'2>c'2!>)! | %13
+ [f^ac']4) (c2>c2 |"_rit." [F^Ac]4)[I:staff +1] [^E,B,C]2>C2 | %15
+!p!"^più lento"[I:staff -1] ([=A,C]4 C2C2 | =D2>D2!<(! D2D2!<)! | [_E=c]4 [DB]2[=CA]2 | %18
+ [B,=EG]4)!>(! (=F2!>)!E2 | E2>E2 .^F.G.A.B | d2=c2 [DB][=CA][CE][CA]) | %21
+ [B,^DF]4 z!p!!<(! ([FA][A=c][ce]!<)! |!>(! !>!e2!>)!^d2) z!pp! ([FA][A^c][ce] | e2^d2) z4 | %24
+ z4 x!<(![I:staff +1] ([F,A,][A,=C][CE]!<)! | %25
+!>(![I:staff -1] E2!>)!^D2) x[I:staff +1] ([F,A,][A,=C][CE] | [B,^D]4)"^più vivo"[I:staff -1] x4 | %27
+!pp! (3(BGE(3B,EB, (3EB,E(3B,EB,) | (3(=c=GE!<(!(3=CEC (3ECE(3CEC) | (3(d=cA(3F!<)!ED (3FDF(3DFD) | %30
+ (3(dB=G(3DGD (3G!<(!DG (3^dA^D) | (3(eB!<)!^G(3EGE (3GEG(3EGE) | (3(e!>(!cA(3ECE (3CEC(3E!>)!CE) | %33
+ (3(ecA(3ECE!pp! (3CEC(3ECE) | (3(ECE(3CEC (3ECE(3CEC) | (3(FCA,(3CA,C (3A,CA,(3CA,C) | %36
+ (3(AFD(3A,DA, (3DA,D(3A,DA,) | (3(AEC!<(!(3A,CA, (3CA,C) [^EBc]2!<)! | %38
+ ([c^ac']2[cfa]2[^Acf]2[FAc]2)!f! | ([c^ac']2[cfa]2[^Acf]2[FAc]2) | %40
+!p!"^poco rit." ([c=ac']2[cfa]2[=Acf]2[FAc]2) | ([cac']2[cfa]2[Acf]2[FAc]2) | %42
+"_dimin." ([cac']4 [cfa]4 |!>(! [Acf]4 [FAc]4)!>)! |!pp! (c4"^ritard." A4- | A4 F4- | [A,CF]8) | %47
+ !fermata![A,CF]8 |] %48
+V:3
+ [F,,F,]8 | [F,A,]8 | [G,B,]8 | F,4 ^E,4 | [F,,C,F,]8 | [C,,C,]8 | (A,,E,A,E, A,E,A,E,) | %7
+ (A,,E,A,E, G,E,G,E,) | A,,E,A,E, G,,C,G,C, | F,,C,F,C, F,C,F,C, | F,,C,F,C, G,C,G,C, | %11
+ F,,C,F,C, F,C,F,C, | F,,C,F,C, G,C,G,C, | F,,C,F,C, G,C,G,C, | F,,C,F,C, G,C,G,C, | %15
+ F,,C,F,C, F,C,F,C, | F,,D,F,D, F,D,F,D, | =F,,=C,=F,C, F,C,^D,,^D, | E,,B,,F,B,, G,E,G,E, | %19
+ G,,E,G,E, G,E,G,E, | A,,E,A,E, A,E,A,A,, | B,,4 x[I:staff -1] ^DFA | %22
+ [A=c]4[I:staff +1] x[I:staff -1] ^DFA |[I:staff +1] z8 | z4 z ^D,F,A, | %25
+[I:staff -1] [A,=C]4[I:staff +1] z ^D,F,A, | (3(A,F,^D, (3B,,D,F,) (3(A,B,=D[I:staff -1] (3FAB) | %27
+[I:staff +1] (3E,,B,,E,(3G,E,G, (3E,G,E,(3G,E,G, | (3(E,,=G,,=C,(3E,=G,E, (3G,E,G,(3E,G,E,) | %29
+ (3(D,,A,,D,(3F,A,=C (3A,CA,(3CA,C) | (3(=G,,B,,D,(3=G,B,G, (3B,G,G,,) (3=F,,=F,A, | %31
+ (3(E,,B,,E,(3^G,E,G, (3E,G,E,(3G,E,G,) | (3(A,,C,E,(3A,E,A, (3E,A,E,(3A,E,A,) | %33
+ (3(A,,C,E,(3A,E,A, (3E,A,E,(3A,E,A,) | (3(A,,C,E,(3A,E,A, (3E,A,E,(3A,E,A,) | %35
+ (3(F,,C,F,(3C,F,C, (3F,C,F,(3F,,C,F,) | (3(D,,A,,D,(3F,D,F, (3D,F,D,(3F,D,F,) | %37
+ (3(A,,C,E,(3C,E,C, (3E,C,E,) (3(G,,C,G,) | (3(F,,C,F,(3^A,F,A, (3F,A,F,(3A,F,C,) | %39
+ (3(F,,C,F,(3^A,F,A, (3F,A,F,(3A,F,C,) | (3(F,,C,F,(3=A,F,A, (3F,A,F,(3A,F,C,) | %41
+ (3(F,,C,F,(3A,F,A, (3F,A,F,(3A,F,C,) | (3(F,,C,F,(3A,F,A, (3F,A,F,(3A,F,C,) | %43
+ (3F,,C,F,(3A,F,A, (3F,A,F,(3A,F,C, | [F,,C,A,]8- | [F,,C,A,]8 | [F,,C,F,]8 | %47
+ !fermata![F,,C,F,]8 |] %48
+V:4
+ x2 | x2 | D2 | B,2 | A,2 | x2 | x2 | x [Bd]/c/4d/4 | x2 | x2 | x2 | x2 | x [^eb] | x [^EB] | x2 | %15
+ x A, | [A,C]2 | x2 | x [B,=D] | [B,D] D | [EA] x | x2 | x2 | [A=c] x | x2 | x2 | x2 | x2 | x2 | %29
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | [C-F]2 | C2 | x2 | %47
+ x2 |] %48
+V:5
+ x2 | x2 | ^E, D, | C,2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %18
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %37
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %48

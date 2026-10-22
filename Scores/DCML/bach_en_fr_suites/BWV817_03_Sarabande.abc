@@ -1,0 +1,39 @@
+X:1
+T:French Suite No. 6
+T:Sarabande
+C:Johann Sebastian Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:E
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+L:1/16
+V:1
+ G>A (TF3 E/F/) | E2 A4 | A>B (TG3 F/G/) | [B,DF]2 [B,DF]4 |$ MB>c A3 G | cd/e/ [Fce]3 [FBd] | %6
+ c/^A/B A3 B | B2 [DFB]4 :: d>e Tc3 ^B |$ x2 x4 | g>a f3 ^e | x2 x4 | a>b g3 a |$ b>g ^e3 f | %14
+ ca ag fg/^e/ | f2 f4 | c>d Td3 c/d/ |$ e2 x4 | f2 ed ec | d3 c B2 | g>a Ta3 g/a/ |$ %21
+ b3 a/g/ f/e/d/c/ | B/a/g/f/ e2 Pd>e | e2 [EBe]4 :| %24
+V:2
+ E x2 | C E2 | F E2 | x3 |$ D E2 | F x2 | E/D/ C/D/ E- | E/C/ x2 :: [FB] F2 |$ %9
+ [G^B] !arpeggio![Bdfa]2 | c2 B | [c^e] !arpeggio![cegb]2 | [cf] [=df] [c^e] |$ [Bf] [GB]2 | %14
+ z/ c/ B2- | B/G/ [Ac]2 | A A2 |$ B [ceg]2 | d c/B/ ^A | B2 x | [Be] e2 |$ [Be] c- c/ z/ | B B2- | %23
+ B x2 :| %24
+V:3
+"""" x6 |"m" G,2-"" G,/B,/A,/G,/ F,/E,/D,/E,/ |"" x2"" [G,B,]2"m" [^A,C]2 |"" x6 |$ %4
+"m" B,2"""m" C4 |"" C2"" x2"""" x2 |"m""" x2"""" F,4- |"" F,2"" F,4 ::"C{" x2"m" C4 |$ %9
+"" D2"m" x2 x2 |"m" G,2"m" A,2"m" G,F, |"m" G,2"" x2 x2 |"m" F,,2"m" B,,2"" C,2 |$ %13
+"m""m" =D,3 D,"" C,B,, |"m" A,,"m"F,,"""" C,2"""" C,,2 |"m""m" F,,3 F,, A,,C, |"C{""" x6 |$ %17
+"""m" x6 |"""m""" x6 |"" B,,>C, TC,3 B,,/C,/ |"" =D,2"" C,4 |$"""""""m" x6 | %22
+"" D,,""E,,"" z F,"" G,""A,- |"" A,F,"" G,B, z2 :| %24
+V:4
+ [E,G,B,]4 [D,G,^B,]8 | C,4 C,8 | [D,F,B,]4 E,8 | B,,4- B,,C,D,E, F,G,A,F, |$ G,4 C4 B,4 | %5
+ ^A,4- A,2G,F, B,4 | G,2E,2 F,4 F,,4 | B,,4 B,,8 :: B,4 A,8 |$ G,4- G,(F,A,G, F,E,F,D,) | %10
+ E,8 =D,4 | C,4- C,(=D,C,B,, A,,G,,F,,G,,/^E,,/) | x12 |$ x12 | x12 | x12 | F,4 F,,4 F,4 |$ %17
+ G,2>^A,2 TA,6 G,A, | B,4 E,4 F,4 | x12 | x12 |$ G,,2>A,,2 TA,,4- A,,G,,A,,F,, | x4 B,,8 | %23
+ E,8 E,,4 :| %24

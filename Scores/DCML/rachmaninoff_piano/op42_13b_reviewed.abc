@@ -1,0 +1,61 @@
+X:1
+T:Variations on a Theme of Corelli
+T:Intermezzo
+C:Sergei Rachmaninoff
+%%score { ( 1 2 6 ) | ( 3 4 5 ) }
+L:1/4
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+L:1/8
+V:2 treble 
+V:6 treble 
+V:3 bass 
+L:1/16
+V:4 bass 
+V:5 bass 
+L:1/8
+V:1
+!mf!"^A tempo rubato""^marcato" Pd4 (^c/4d/4e3/2) |!mf! P^c6 |!mf!({^cd)e} Pd4 (c/4d/4c/4d/4e) | %3
+ P^c4- c(c/4d/4^d/4e/4) | P=c4 !>!C2- |$ %5
+[M:3/4] C8 x2 x8 !>!f'c'_d'=be'bc'a (f'c'd'be'bc'a) (f'c'd'be'bc'a) (d'a_b_gc'^gaf)"^dim." (bf_geaef_e f_dc=ec=B d_B^GcA=E)"^rit  _    _" (F_GEFG_E FG=EFG_E FGE[I:staff +1]F_G)!f![I:staff -1] _e/=e/ |$ %6
+[M:3/4]!f! Pf4 (=e/4f/4e/4f/4g) | Pe6 |{ef^fg} P=f4 (=e/4f/4e/4f/4=g/)^f/4=f/4 | %9
+ Pe4- e(e/4f/4^f/4g/4 | P_e4){=B,C^CD} _E2- |$ %11
+!f!"_veloce" E8 x2[I:staff +1] _e^f_a[I:staff -1]c'_e'^f'g'[I:staff +1] (_a'[I:staff -1]g'f'e'c'[I:staff +1]afec[I:staff -1]_AG^FC[I:staff +1]_A,^F,_E,) (_A,,E,F,A,[I:staff -1]=B,/4C/4^C/4D/4) z2 ||$ %12
+[K:Db] x8 x2[I:staff +1] (_ceg=a!8va(![I:staff -1]_c'e'g'=a'!ff! _c''f'_a'g'b'=e'g'f' c''f'a'g'b'e'g'f') (c''"_dim."f'a'g'b'_e'g'f') (c''f'a'g'b'=d'g'f') (c''f'a'g'b'_d'f'e') (c''f'a'g'b'c'f'e') |$ %13
+!p! (_c''g'b'f'=a'=e'_a'_e' =g'=d'_g'_d'f'_c'e'b!8va)! =d'=a_d'_ac'gbf =ae=dgf_d_ce=dB=A_d"_rit. _" cGFAE=D F_D_CEB,=A,)[K:bass]!mf! (C_A,=G,_G,F,B, F,=E,_E,=E,=B,=C) || %14
+V:2
+ z !arpeggio![F,G,B,F]2 | z !arpeggio![^F,^A,^C^F]2 | z !arpeggio![G,=B,DG]2 | %3
+ z !arpeggio![^G,^A,^CE^G]2 | z !arpeggio![A,EA]2 |$[M:3/4] x44 |$[M:3/4] x3 | x3 | x3 | x3 | x3 |$ %11
+ x20 ||$[K:Db] x7!8va(! x26 |$ x8!8va)! x16[K:bass] x6 || %14
+V:3
+"m" PD8"m" (^C/D/E3) |"" P^C12 |""({^CD)E} PD8"" (C/D/C/D/E2) |"m" P^C8- C2(C/D/^D/E/) | %4
+"m" PC8 C,4- |$ %5
+[M:3/4]"m"!f![I:staff -1] C,16[I:staff +1] x4[K:treble] c2_e2=e2f2[I:staff -1]a2c'2_e'2=e'2"m"[I:staff +1] x64"m""""""""m""" x64 x8"C}" x2"C{" _E=E |$ %6
+[M:3/4]"m" PF8[K:bass][K:treble]"m" (=E/F/E/F/G2) |"" PE12[K:bass] | %8
+[K:treble]""{EF^FG} P=F8[K:bass][K:treble]"" (=E/F/E/F/G)^F/=F/ | %9
+"m" PE8-[K:bass][K:treble] E2E/F/^F/G/ |"m" _E8[K:bass]{=B,,C,^C,D,} E,4- |$ %11
+"m" [=D,,,=D,,]16 x4[K:treble] x32 x16[K:bass] x8 ((!>![_E,_E]4 ||$ %12
+[K:Db][I:staff -1] [E,E]16))[I:staff +1] x2 x2[K:treble] x96 x16 |$ %13
+"""m""m""""m""""m""m""m""""""m""m""" x64"""m""m""""m""""C}" x56 || %14
+V:4
+ z!p! !arpeggio![D,,G,,D,]2 | z!p! !arpeggio![^C,,^F,,E,]2 | z !arpeggio![D,,G,,F,]2 | %3
+ z !arpeggio![^C,,^G,,E,]2 | z !arpeggio![C,,A,,E,]2 |$[M:3/4] [=B,,,,=B,,,]4 x[K:treble] x39 |$ %6
+[M:3/4] x[K:bass] x[K:treble] x | x[K:bass] x2 |[K:treble] x[K:bass] x[K:treble] x | %9
+ x[K:bass] x[K:treble] x | x[K:bass] x2 |$ %11
+[I:staff -1] E,4 x[I:staff +1][K:treble] x10[K:bass] x5 ||$ %12
+[K:Db]"" !>![F,,,F,,]4 x[K:treble] x28 |$ x30 || %14
+V:5
+ x6 | x6 | x6 | x6 | x6 |$ %5
+[M:3/4] z2 F,,C,_E,F,"^veloce"[I:staff -1]A,C_EA[I:staff +1][K:treble] x78 |$ %6
+[M:3/4] z2[K:bass] !arpeggio![F,,_C,_E,F,]4[K:treble] | z2[K:bass] !arpeggio![E,,A,,^C,G,]4 | %8
+[K:treble] z2[K:bass] !arpeggio![F,,B,,D,_A,]4[K:treble] | %9
+ z2[K:bass] !arpeggio![E,,=B,,^C,G,]4[K:treble] | z2[K:bass] !arpeggio![_E,,C,G,]4 |$ %11
+ z2 _A,,_E,^F,_A,[I:staff -1]C_E^Fc[I:staff +1][K:treble] x20[K:bass] x10 ||$ %12
+[K:Db] z2 (_C,E,G,=A,[I:staff -1]_CEG=A)[I:staff +1][K:treble] x56 |$ x60 || %14
+V:6
+ x3 | x3 | x3 | x3 | x3 |$[M:3/4] x44 |$[M:3/4] z!p! !arpeggio![_A,_C_E_A]2 | %7
+ z !arpeggio![A,^CG=A]2 | z !arpeggio![B,D_AB]2 | z !arpeggio![=B,^CEG=B]2 | %10
+ z !arpeggio![C_EGc]2 |$ x20 ||$[K:Db] x7!8va(! x26 |$ x8!8va)! x16[K:bass] x6 || %14

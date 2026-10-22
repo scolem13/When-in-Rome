@@ -1,0 +1,97 @@
+X:1
+T:2 Songs, Op.60
+T:The Torch
+C:Edward Elgar
+Z:Pietro d'Alba and Edward Elgar - Pietro d'Alba (Peter Rabbit) is probably a pseudonym for Elgar.
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+L:1/16
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+L:1/4
+V:1
+"^Allegro con fuoco" z16 |!ff!"^largamente e rubato" F2 A c c4- c2 !tenuto!d2 B A G2- | %2
+w: |Come, O my love! _ Come, fly to me;|
+ G2 G B B4- B2 c2 A G F2 |!<(! _E2 G B!<)! B4- B2 c2"^ten." d c B2 | %4
+w: _ All my soul  _ Cries out for thee:|Haste to thy home,  _ I long for thee,|
+"^rall." !tenuto!A2 G F"^accel." G F E2"^rit." F!<(! !fermata!E2!<)! D C4 || %5
+w: Faint for thee, Wor- ship thee on- ly,\-\- but Come!|
+!p!"^poco meno mosso" G2 G A B3 G F2 F G (3!>!A2 G2 F2 | E8 z4 z2"^cresc." D2 | %7
+w: Dark is the wood,\-\- The track's e- ver lone- ly and|gray: But|
+ G2 G A (3(!fermata!c2B2) G2 F2 F G (3!>!A2 G3 F | E8 z8 | z16 || %10
+w: joy- ous the blaze * That wel- comes and shews thee the|way.||
+"^Tempo primo"!pp!"^molto cantabile" (F2 A c) c4- c2 (d2 B A) G2- | G2 (G B B4- B2) (c2 A G F2) | %12
+w: Come, O my love!  _ Come, fly to me; |_ All my soul  _ Cries out for thee:|
+"^cresc." _E2 G B!<(! B4-!<)! B2"^allargando" c2!f! !fermata!_d c B2 | %13
+w: Haste to thy rest,  _ I long for thee,|
+!p!"^rit." _A2 G F"^accel. e cresc." G F _E2 F E2 D !fermata!C4 || %14
+w: Sigh for thee, Faint for thee; Come to my breast.|
+!f!"^meno mosso" G2 G A B2 G2 F2 F G A G2 F | E8 z4 z2"^cresc." D2 | %16
+w: Cold is the stream,\-\- The ford is a dan- ger to|thee: My|
+ G2 G A!ff! (3!fermata!c2 B2 G2 F F2 G !>!A G2 F | E8 z8 | z16 | %19
+w: heart is a flame, As the bea- con that lights thee to|me.||
+!ff!"^Come prima" F2 A c c4- c2 d2 B A G2- | G2 G B B4- B2 c2 A G F2 | %21
+w: Come, O my love!  _ Come, fly to me; |_ All my soul  _ Cries out for thee:|
+ _E2 G B B4- B2 c2"^allargando" _d c B2 | %22
+w: Haste to thy home,  _ I long for thee,|
+ _A2 G F"^tutta forza" !fermata!c B!<(! A2 G !fermata!F2!<)! E !fermata!F4 | !fermata!z16 |] %24
+w: Faint for thee, Wor- ship thee on- ly; but Come!||
+V:2
+ x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x4 _d/ !fermata!d c/ !fermata!f2 | x8 |] %24
+V:3
+!p!!<(!"^molto cresc." !///-!A,3 F,3-!<)! [F,A,] (A,/4F,/4A,/4C/4) | %1
+!ff!"_colla parte" !tenuto![F,A,F]2 z2!f! !tenuto![E,B,D]2 z2 | %2
+!f! !tenuto![B,DE]2 z2!f! .[G,B,D] z!f! [A,D]2 |!f! .[_E,B,_E]2 z E !>![EB]!>![Gc] (d/c/B) | %4
+"_colla parte" AG/F/ G/F/E F/!fermata!ED/ [E,C]2 || %5
+!p!"_colla parte" (!tenuto![_EG]2 !tenuto![_B,D_B]2 !tenuto![B,DF]2 !tenuto![A,DA]2) | %6
+"_accel."!<(! E(E/F/) (G!<)!E)!>(! D(D/E/)"^ten." .F/"_rit.".E/.D!>)! | %7
+"_cresc." [G,CG]2 !fermata![DG]2 F(F/G/) (3AG3/2F/ | %8
+"_accel."!<(! EE/F/ (!>!GD) ^CD/!<)!E/ !>!F/E/D | %9
+!f!"_rit."!>(! !///-!!^![A,^CE]2 E,2 !///-![A,CE]2 E,2!>)! || %10
+!pp! [F,=CF]2 z (!>![F,CF] [E,B,D]2) z (!>![E,B,D] | %11
+ [B,DE]2) z ([B,E] .[G,D]) z"^ten." !tenuto![A,D] z | %12
+ !tenuto![_E,B,_E]2 z E"_allargando"!<(! [EB][C_Gc]!<)! !fermata![_DF_d]2 | %13
+!p!"_colla parte" [_A,C_A]2 [G,CG][A,C_E] [A,DF][F,=B,D] !fermata![=E,G,C]2 || %14
+!f!"_meno mosso" (!tenuto![G,CG]2 !tenuto![_B,D_B]2 !tenuto![B,DF]2 !tenuto![A,DA]2) | %15
+"_accel."!<(! E(E/F/) (GE) D(D/!<)!E/)"^ten."!>(! .F/"_rit.".E/.D!>)! | %16
+ [G,CG]2 !fermata![DG]2 F>G (A/GF/) | %17
+"_accel."!<(! EE/F/{D} (!>!G!<)!D) ^C(D/E/)"_rit." !>!F/.E/.D | %18
+"^allargando"!<(! !///-![A,^CE]2 E,2 !///-![A,CE]2 E,2!<)! | %19
+!ff! !>![F,=CF]2 z z/ (3[F,CF]/4[F,CF]/4[F,CF]/4 !>![F,B,D]2 z z/ (3[B,D]/4[B,D]/4[B,D]/4 | %20
+ !>![B,DG]2 z z/ (3[B,E]/4[B,E]/4[B,E]/4 !tenuto![B,D] z !tenuto![A,D] z | %21
+ !^![_E,B,_E]2- [E,B,E] z/ (3E/4E/4E/4 !>![B,EB]!>![C_Gc]"_colla parte" [_DF_d]2 | %22
+ [_A,C_A]2 !fermata!c/B/A [G,_DG]/!fermata![F,DF][E,B,E]/!<(! !///-!!fermata![A,CF] F,!<)! | %23
+ [F_Acf]4 !fermata!z4 |] %24
+V:4
+!ped! !///-![F,,,C,,]3/2 F,,3/2- [F,,,C,,F,,]/!ped-up! z/ | %1
+ !tenuto![F,,,F,,] z !tenuto![G,,,G,,] z | !tenuto![G,,G,] z .[E,,,E,,]/ z/ [F,,,F,,] | %3
+!ped! .[G,,,G,,] z/!ped-up! _E,/ G,/[G,A,]/ [^F,A,]/G,/ | %4
+ z/ [D,,,D,,]/ [E,,,E,,]/[A,,,A,,]/ D,,/!fermata![G,,,G,,]/ [C,,C,] || %5
+ (!tenuto![C,G,] !tenuto![G,,D,G,] !tenuto![B,,F,] !tenuto![F,,D,]) | [A,,E,] [E,,=B,,E,] F,, G,, | %7
+ [C,_E,] !fermata![G,,D,] [G,,^C,] [F,,D,] | G,, [F,,,F,,] [E,,,E,,] !>![D,,,D,,] | %9
+ !///-!!^!A,,, A,, !///-!A,,, A,, || [A,,,A,,] z/ (!>!A,,/ G,,) z/ (!>!G,,/ | %11
+ G,) z/ (G,/ .E,,/) z/ !tenuto!F,,/ z/ | %12
+({G,,,_E,,)} G,, z/ _E,/ [E,G,]/[_A,,_G,]/ !fermata![_D,F,] | %13
+ [=D,,,=D,,] [_E,,,_E,,]/[_A,,,_A,,]/ [F,,,F,,]/[G,,,G,,]/ !fermata![C,,C,] || %14
+ (!tenuto![C,_E,] !tenuto![G,,D,G,] !tenuto![B,,F,] !tenuto![F,,D,]) | %15
+ [A,,E,] [E,,=B,,E,] F,, G,, | [C,_E,] !fermata![G,,D,] [G,,^C,] [F,,D,] | %17
+ G,,/ z/ [B,,,B,,] [A,,,A,,] [D,,,A,,,D,,] |!ped! !///-!A,,,, A,,, !///-!A,,,, A,,,!ped-up! | %19
+!ped! !>![A,,,F,,A,,] z/!ped-up! z/4 (3[A,,,A,,]/8[A,,,A,,]/8[A,,,A,,]/8!ped! !>![G,,,G,,] z/!ped-up! z/4 (3[G,,,G,,]/8[G,,,G,,]/8[G,,,G,,]/8 | %20
+!ped! !>![E,,,E,,] z/ z/4!ped-up! (3[G,,,G,,]/8[G,,,G,,]/8[G,,,G,,]/8 !tenuto![E,,,E,,]/ z/ !tenuto![F,,,F,,]/ z/ | %21
+ !^![G,,,_E,,G,,]- [G,,,E,,G,,]/ z/4 (3_E,/8E,/8E,/8 !>![E,G,]/[_A,,E,_G,]/ [_D,,A,,_D,F,] | %22
+ [=D,,,=D,,] !fermata![=E,,,=E,,]/[F,,,F,,]/ [B,,,,B,,,]/!fermata![C,,,C,,]/!ped! !///-!!fermata!F,,,/ F,,/ | %23
+ [F,,C,F,]2!ped-up! !fermata!z2 |] %24
+V:5
+ x8 | x8 | x8 | x6 DD | [A,FA]=B, [G,C][A,CE] [A,C]!fermata![F,B,] x2 || x8 | %6
+ [A,C] z [G,=B,]2 [A,C] z [G,B,]2 | x2 (3:2:2C _B,2 B,2 A,2 | [B,D]2 B,2 A,2 [F,^G,]2 | x8 || x8 | %11
+ x8 | x8 | x8 || x8 | [A,C] z [G,=B,]2 [A,C] z [G,B,]2 | x2 (3:2:2C _B,2 B,2 A,2 | %17
+ [B,D] z G,2 G,2 [F,^G,]2 | x8 | x8 | x8 | x8 | x2 [CG][CF] x4 | x8 |] %24

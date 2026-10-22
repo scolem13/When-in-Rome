@@ -1,0 +1,58 @@
+X:1
+T:Keyboard Sonata in C minor, W.A 6
+T:Allegretto
+C:Johann Christian Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=120
+M:2/2
+I:linebreak $
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+L:1/4
+V:4 bass 
+L:1/4
+V:1
+{a} gfga | g2 Tg3/2f/4g/4 c'2 b/a/g | g2 a2{b} ag{a}gf |{g} feeg{a} gf{g}fe |$ e2 d2{a} gfga | %5
+ g2 Tg3/2f/4g/4 c'2 b/a/g | g2 a2 d3 =e/f/ |{f} ed/e/{g}fe/d/ c2 =B2 | c4 ::$ Eedc | cB B2 Bbag | %11
+ g2 f2 z a2 g | z f2 e z d2 e | (G2 TF2) GA{G/}FE |$ E-E/4F/4G/4A/4B z/ B/ (cd/4e/4f/4g/4a) z/ f/ | %15
+ (ed)(cB) b/c'/b/g/ g/a/g/e/ | e/f/e/B/ B/c/B/G/ GBFA |$ A2 G2 b/c'/b/g/ g/a/g/e/ | %18
+ e/f/e/B/{d/}cB/A/ G2 TF2 | E4{a} gfga | g2 Tg3/2f/4g/4 c'2 b/a/g |$ g2 a2{b} ag{a}gf | %22
+{g} feeg{a} gf{g}fe | e2 d2{a} gfga | g2 Tg3/2f/4g/4 c'2 b/a/g |$ g2 a2 d3 =e/f/ | %26
+{f/} ed/e/{g/}fe/d/ c2 =B2 | c4 (3Gce (3gGg | (3G=Bd (3fGf (3ecG (3Adc |$ %29
+ (3=Bdc (3TBAG[I:staff +1] (3G,C[I:staff -1]E (3G[I:staff +1]G,[I:staff -1]G | %30
+[I:staff +1] (3G,[I:staff -1]=B,D (3F[I:staff +1]G,[I:staff -1]F (3EG=B (3cG[CE] | %31
+ [CE]2 [=B,D]2 (3G=Bd (3gdf |${f/} (3ede{d/} (3cBc (3=Adc{c/} (3BAG | %33
+ (3^F=AG{G} (3FED (3b^f=a (3gdf | (3eeg (3=AAc (3BBd (3^FFA |$ =A>^F G2 (3b^f=a (3gd=f | %36
+ (3eed (3cB=A B2 TA2 | G4{a} gfga | g2 Tg3/2f/4g/4 c'2 b/a/g |$ g2 a2{b} ag{a}gf | %40
+{g} feeg{a} gf{g}fe | e2 d2{a} gfga | g2 Tg3/2f/4g/4 c'2 b/a/g |$ g2 a2 d3 =e/f/ | %44
+{f} ed/e/{g}fe/d/ c2 =B2 | c4 :| =b3 c'/d'/ | [egc']g/c'/{b} ag/f/ e2 Td2 |$ [Gc]4 z4 |] %49
+V:2
+ edef | e2 =e2 f2 g/f/e | =e2 f2 feed | dcce eddc |$ c2 =B2 edef | e2 =e2 f2 g/f/e | %6
+ =e2 f2 =B3 c/d/ | c2 AG/F/ E2 D2 | E4 ::$ EcBA | AG G2[I:staff +1] G,[I:staff -1]GFE | %11
+ E2 D2 e2 d2 | c2 B2 A2 G2 | E2 D2 x4 |$ x8 | x8 | x4 EGDF |$ F2 E2 x4 | x4 E2 D2 | x4 edef | %20
+ e2 =e2 f2 g/f/e |$ =e2 f2 feed | dcce eddc | c2 =B2 edef | e2 =e2 f2 g/f/e |$ =e2 f2 =B3 c/d/ | %26
+ c2 AG/F/ E2 D2 | E4 x4 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | (3x gf (3edc G2 ^F2 | %37
+ x4 edef | e2 =e2 f2 g/f/e |$ =e2 f2 feed | dcce eddc | c2 =B2 edef | e2 =e2 f2 g/f/e |$ %43
+ =e2 f2 =B3 c/d/ | c2 AG/F/ E2 D2 | E4 :| [dg]2 x2 | x2 fe/d/ c2 =B2 |$ E4 x4 |] %49
+V:3
+"m" z"m" C, | C"m" B,"m" A,"" C |"m" F,"m" F,,"C{" z"" =B, |"m" C"m" E,"m" F,"m" C, |$ %4
+"" G,,"" G,"m" z"m" C, | C"m" B,"m" A,"" C |"m" F,"m" F,,"m" z =B, |"m" C"m" F,"" G,"" G,, | %8
+"m" C, C,, ::$ C,"" D, |"" E, E,/F,/"" G,"m" A, |"""" B,2"" C"m" B, |"m" A,"" G,"m" F,"" E, | %13
+"" B,"" B,,"" z"" A, |$"m" G,"" G,"" A, C |"" B, B,,"""" z2 |"" G,"" E,"" B,"" B,, |$ %17
+"" E,"" E,,"" z"" E, |"" G,"" A,"" B,"" [B,,A,] |"" E,/F,/E,/D,/"m" C, C, | C"m" B,"m" A,"" C |$ %21
+"m" F,"m" F,, z"" =B, |"m" C"m" F,"m" G,"m" G,, |"" G,,"" G,"m" z"m" C, | C"m" B,"m" A,"" C |$ %25
+"m" F,"m" F,,"m" z =B, |"m" C"m" F,"" G,"" G,, |"m" C, C,,"" z [CE] |"" z"" [=B,D]"" [CE]"m" F |$ %29
+"" D z"" z [C,E,] |"" z"" [=B,,D,]"" [C,E,] F, | G,"" G,,"C{" z"" =B, |$"m" C"m" =A,"" ^F,"m" G, | %33
+"" D,"" C"m" B,"m" B,, |"m" C,"m" C"" D"" C |$"" B,2"m" z B,, |"m" C,"m" C,"" D,"" D, | %37
+"m" G,/F,/E,/D,/"m" C, C, | C"m" B,"m" A,"" C |$"m" F,"m" F,,"C{" z"" =B, | %40
+"m" C"m" E,"m" F,"m" C, |"" G,,"" G,"m" z"m" C, | C"m" B,"m" A,"" C |$"m" F,"m" F,,"m" z =B, | %44
+"m" C"m" F,"" G,"" G,, |"m" C, C,, :|"" [=B,,D,G,]"" F, | %47
+"m" [E,,E,]"m" [F,,F,]"" [G,,G,]"" [G,,G,] |$"m" [C,,C,]2 z2 |] %49
+V:4
+ x2 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x2 ::$ x2 | x4 | x4 | x4 | x3 B,, |$ C, G,, A,, A, | x4 | %16
+ x4 |$ x4 | x4 | G, x3 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x3 G, | x G, G, F, |$ G, x2 G,, | %30
+ x G,, G,, F,, | x4 |$ x4 | x4 | x3 D, |$ E,2 x2 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | %45
+ x2 :| G,, F,, | x4 |$ x4 |] %49

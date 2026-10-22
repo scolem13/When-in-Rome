@@ -1,0 +1,34 @@
+% Matthäus Passion, Choral 'O Haupt voll Blut und Wunde': Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=107
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Matthäus Passion, Choral 'O Haupt voll Blut und Wunde'
+C:J.S. Bach (1685-1750)
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 bass nm="men" snm="Ch"
+V:2 bass 
+L:1/8
+V:3 treble nm="women" snm="Ch"
+V:4 treble 
+L:1/8
+V:1
+ x3 D | D/E/ [FA,] [GG,] [CF,] | [DB,,] [CC,] [CF,] [E_D,] | E =D [DA,] [_DA,,] | [A,D,]3 D | %5
+ D/E/ [FA,] [GG,] [CF,] | [DB,,] [CC,] [CF,] [E_D,] | E =D [DA,] [_DA,,] | [A,D,]3 D/C/ | %9
+ [B,G,] [CA,] C B,/C/ | D C/B,/ [CF,] F/_E/ | [DB,] [D_G,] [D=G,] [DG,,] | [DD,]3 [D=B,,] | %13
+ C/D/ E [FA,] [GG,] | [AF,] [GG,] [GC,] [CF,] | [B,G,] C C G,/C/ | [CF,]3 x |] %17
+V:2
+ x7 C | B,2 z6 | z8 | =D,E, F,G, z4 | z7 C | B,2 z6 | z8 | =D,E, F,G, z4 | z6 D,2 | z4 B,A, G,2 | %10
+ F,4 z2 F,2 | z8 | z8 | C,2 C=B, z4 | z8 | z2 A,B, z B,/A,/ C,2 | z6 x2 |] %17
+V:3
+ x3 [AF] | d [cA] B [AF] | G2 [AF] [eA] | [fA] [fA] e/d/ e | [dF]3 [AF] | d [cA] B [AF] | %6
+ G2 [AF] [eA] | [fA] [fA] e/d/ e | [dF]3 [fA] | e/d/ c [dF] [eB] | f2 [fA] [cA] | %11
+ d [cA] [BG]/[A_G]/ [B=G] | [A_G]3 [f=G] | e/f/ [gc] [fc] [ec] | d2 [ec] A | _B [AF] [GF] [cE] | %16
+ [AF]3 x |] %17
+V:4
+ x2 x6 | FG z2 DE z2 | F2 E2 z4 | z4 A2 AG | z8 | FG z2 DE z2 | F2 E2 z4 | z4 A2 AG | z8 | %9
+ G2 GF z4 | B2 AG z4 | AG z6 | z8 | G2 z6 | c2 =B2 z2 FE | DE z6 | z6 x2 |] %17

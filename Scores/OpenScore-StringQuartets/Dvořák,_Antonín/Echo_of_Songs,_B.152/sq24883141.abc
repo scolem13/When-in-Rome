@@ -1,0 +1,77 @@
+X:1
+T:Echo of Songs, B.152
+C:Antonín Dvořák
+Z:OpenScore (CC0)
+%%score [ ( 1 2 ) | 3 | ( 4 5 ) | ( 6 7 ) ]
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Violin 1"
+V:2 treble 
+L:1/4
+V:3 treble nm="Violin 2"
+V:4 alto nm="Viola"
+V:5 alto 
+L:1/4
+V:6 bass nm="Violoncello"
+V:7 bass 
+L:1/4
+V:1
+"^V.  Zde hledím na tvůj drahý list.\nThe old letter in my book.""^Andante" z4!pp! (g2 eG) | %1
+ z4 (g2 eG) | z4 (c'2 ac) | z4 (c'2 ac) |$ z4 (c'2 ac) |: z4 (d'2 bd) | z4 (e'2 be) | z4 (e'2 be) | %8
+ z4 (c'2 ac) |$ z4!<(! (d'2 bd)!<)! | z4"_cresc." (g' b2 g) | (=e'2!>(! f'2 c'2 a2)!>)! | %12
+ z2!pp! (a3 aa'a) | z2 (a3 aa'a) |$ z2!<(! (a3 aa'a)!<)! | %15
+!<(! (c'c=b=B)!<)!!>(! (c'c!fermata!e'e')!>)! |!pp! (=e'2 b2 g'2 e'2) | (=d'=b=ac') (bd'g'f') | %18
+ (=e'2 c'2"_cresc." g'2 e'2) |$"^molto rit." (f'f ^f2)!>(! (g e'2 !fermata!g!>)! | %20
+[Q:1/4=92]"^in tempo"!pp! a) z z2!pp! (c'2 ac) :| z4 (d'2 bd) | z4 (e'2 be) | z4 (e'2 be) |$ %24
+ z4 (c'2 ac) | z4 (d'2 bd) |!pp! ([Bb]2 [Aa]2 [Gg]2) z2 | z2!mf! [Ec]2 z2 !>!B!>!A | %28
+!<(! !>!B2 .F.F!<)!"^rit." F!ff!!>!f!>!e!>!d |$ !fermata!e4-!p!!>(! e4!>)![Q:1/4=92]"^a tempo" | %30
+!pp! (c'2 ac) z4 | (e'2 c'2 d'2 f'2) |"^rit." !fermata!e'8"_dim." |] %33
+V:2
+ x4 | x4 | x4 | x4 |$ x4 |: x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | %18
+ x4 |$ x4 | x4 :| x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ z"_dim." (!fermata!G A2) | x4 | x4 | %32
+ x4 |] %33
+V:3
+ z2 z!pp! (G eG)(GE) | z2 z (G eG)(GE) | z2 z (c a c2 A) | z2 z (c a c2 A) |$ z2 z (c a c2 A) |: %5
+ z2 z (d b d2 B) | z2 z (d b e2 B) | z2 z (d b e2 B) | z2 z (e a c2 A) |$ z2 z!<(! (d b d2 B)!<)! | %10
+ z2"_cresc." (Bd b2 gB) | (g2!>(! a2 =e2 f2)!>)! |!pp! (_gE_GE _D2 C2-) | C(E_Gc a4) |$ %14
+!<(! (_gege) (d2 c2)!<)! |!<(! (a2 =g2)!<)!!>(! (!fermata![c-_g]4!>)! |!pp! [c=g]) (g2 =e2 c'2 g) | %17
+ (f=dc=e) (df=bf) | (g g2"_cresc." =e2 c'2 g) |$!<(! (f =A2 _d!<)!!>(! B)(_DE!fermata!D)!>)! | %20
+ (C E2!pp! e a c2 A) :| z2 z (d b d2 B) | z2 z (d b e2 B) | z2 z (d b e2 B) |$ z2 z (e a c2 A) | %25
+ z2 z (d b d2 B) |!pp! [DEd]6 z2 | z2!mf! [CF]2 z2 !>![B,E]!>![A,E] | !>![B,F]2 .E.E D!ff! !>!A3 |$ %29
+!>(! (G2!>)!"_dim." !fermata!D2)!p!!>(! C4!>)! |!pp! (a c2 A) z4 | (c'eac) (bdd'f) | %32
+ (c'e"_dim."c')(e- !fermata![ec']4) |] %33
+V:4
+ z8 | z8 | z8 | z8 |$!pp!"_espressivo" (A3 B c4) |: (dcBF) (!tenuto!B2 !tenuto!B2) | %6
+ (B2 dB) (A2 G2) | (F3 E E4) | (A3 B c4) |$!<(! (dcBF)!<)! (!tenuto!B2 !tenuto!B2) | %10
+ (f2"_cresc." ed) ([Fd]2 [=Ec]2) | (B3!>(! A F2) z!>)! (A |!pp! B!<(!Adc)!<)! (B2 A2) | %13
+ (BA_GE) (C3 A) |$!<(! (BAec) (B2 A2)!<)! |!<(! [_Ge]2 [=D=B]2!<)!!>(! !fermata![Ec]3 c!>)! | %16
+!pp! (=e2 c=A) (=G>c) c2 | (=d2 =e>c) (d3 .d) | (=e2 c"_cresc."=A) (G>c) c2 |$ %19
+!<(! (_d3 =A)!<)!!>(! (_B3 !fermata!=B)!>)! |!pp! (c3 _B !tenuto!A2) !tenuto!A2 :| (dcBF B4) | %22
+ (B2 dB) (A2 G2) | (F3 E E3 E) |$ (A3 B c4) | (dcBF) (!tenuto!B2 !tenuto!B2) | %26
+ z4 z!p!!<(! (!tenuto!E!tenuto!F!tenuto!G)!<)! | (B!>(!A) A>A A2!>)!!f! !>!C,!>!C, | %28
+ !>!F,2 .[F,A,].[F,A,] [F,A,]!ff! !>!d!>!c!>!B |$ %29
+!>(! (cB)!>)!"_dim." !fermata!B>A!p!!>(! A(E,A,C)!>)! |!pp! _G4 (C,E,A,C) | (_G4 F2 B,2) | %32
+ (EC"_dim."A,E,) !fermata![E,C]4 |] %33
+V:5
+ x4 | x4 | x4 | x4 |$ x4 |: x4 | x4 | G,4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | %18
+ x4 |$ x2 !fermata!G,2 | x4 :| x4 | x4 | G,4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |] %33
+V:6
+!pp! (E,,B,, E,2- [E,D]4) | (E,,B,, E,2- [E,D]4) | (A,,E, A,2- [A,E]4) | (A,,E, A,2- [A,E]4) |$ %4
+ (A,,E, A,2- [A,E]4) |: (A,,E, A,2- [A,F]4) | (E,,B,, E,2- [E,D]4) | (E,,E,- [E,D]6) | %8
+ (A,,E, A,2- [A,E]4) |$!<(! (A,,E, A,2-!<)! [A,F]4) | (G,,"_cresc."G,-) G,2 (C, C3) | %11
+ F F,2!>(! F,2 F,,2!>)! F,, |!pp! A,,_G,- G,6 | A,,_G,- G,6 |$!<(! (A,,_G,- G,6)!<)! | %15
+!<(! (A,,2 A,4!>(!!<)! !fermata!A,,2)!>)! |!pp! z2 (=E,G, C4) | (=B,G,C=A, B,G,=DB,) | %18
+ (C2 =E,"_cresc."G, C4) |$!<(! ([B,,F,]2 [E,_D]4)!>(!!<)! !fermata!E,,2!>)! | %20
+!pp! (A,,E, A,2- [A,E]4) :| (A,,E, A,2- [A,F]4) | (E,,B,, E,2- [E,D]4) | (E,,E,- [E,D]6) |$ %24
+ (A,,E, A,2- [A,E]4) | (A,,E, A,2- [A,F]4) |!pp! (G,2 F,2 E,2) z2 | %27
+ z2!mf! [A,,F,]2 z2 !>!G,,!>!F,, | !>!D,2 .C,.C, B,,!ff! !>!B,,3 |$ %29
+!>(! E,2!>)!"_dim." !fermata!E,,2!p!!>(! A,,4-!>)! | %30
+!pp! (3A,,A,,A,, (3A,,A,,A,, (3A,,A,,A,, (3A,,A,,A,, | %31
+ (3A,,A,,A,, (3A,,A,,A,, (3A,,A,,A,, (3A,,A,,A,, | %32
+ (3A,,A,,A,,"_dim." (3.A,,.A,,.A,, (3(.A,,.A,,.A,,) (3(.A,,.A,,.!fermata!A,,) |] %33
+V:7
+ x4 | x4 | x4 | x4 |$ x4 |: x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | A,,4 | A,,4 |$ A,,4 | x4 | =G,,4- | %17
+ G,,4- | G,,4 |$ x4 | x4 :| x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |] %33

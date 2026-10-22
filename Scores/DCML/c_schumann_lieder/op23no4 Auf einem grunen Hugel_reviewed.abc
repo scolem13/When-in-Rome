@@ -1,0 +1,61 @@
+X:1
+T:6 Lieder aus Jucunde, Op. 23
+T:Auf einem grünen Hügel
+C:Clara Schumann
+Z:Hermann Rollett
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=44
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Langsam" z | z4 | z2 !fermata!z!p! e |: c B d A | B B z B |!<(! c c f e!<)! |$ d3 z | %7
+w: ||1.  Auf|ei- nem grü- nen|Hü- gel da|steht ein Rös- lein|hell,|
+w: |||2.~ ei- nem grü- nen|Hü- gel da|stehn zwei Blüm- lein|blau,|
+ z ^G A/ A/ B | z/!<(! c/ ^G/ G/ A B!<)! |!<(! c e (g f/) e/!<)! |$ e ^d z2 | z4 | z2 z A | %13
+w: und wenn  ich roth,|roth Rös- lein seh’ so|roth wie lau- * ter|Lie- be~||möcht|
+w: und wenn ich blau,|blau Blüm- lein seh’ so|blau wie blau- * e|Äug- lein~||durch|
+ !>!f- (3(f/e/)!>(! d/ c ^G!>)! | A3 z | z4 |1$ z2 !fermata!z e :|2 z2 !fermata!z e || c B d A | %19
+w: wei- * * nen  ich zur|Stell’!||2.~ Auf|3.~ Auf|ei- nem grü- nen|
+w: Thrä- * * nen ich sie|schau’!|||||
+ B B z B |!<(! c c f e!<)! |$ d3 z | z!<(! ^G A B!<)! | c2 z B |!<(! c e (g f/) e/!<)! | %25
+w: Hü- gel da|singt ein Vö- ge-|lein;|mir ist’s, als|säng’s: Wer|nie- mals Leid, _  recht|
+w: ||||||
+ e3/2 ^d/ d d |$ (eB) c z | z2 z!mf! A | !>!f3/2 A/ A A | _B2 !>!f2- | (3fe d!>(! c ^G!>)! | %31
+w: gro- sses Leid er-|fah- * ren|wird|nie recht  glück- lich|sein, nie~|_ _ recht  glück- lich|
+w: ||||||
+ A3 z |] %32
+w: sein.|
+w: |
+V:2
+!p! [ce] | [Ac]>[EB] [CA][DF] | [CE][B,D] !fermata![B,E] [ce] |: [Ac][GB] [FAd][FA] | %4
+ [E^GB]2 z [EGB] |!<(! [EAc]2 f2-!<)! |$!>(! f3 [EBe]!>)! | [Ec] (^GA) (B |c) (^GA) (B | %9
+!<(! c4)!<)! |$ (e^d) z [^FBd] |!>(! [EBe] [=DEB][Cc]!>)! [_B,^G]- | [B,G] [A,A]2 [A,A] | %13
+ [B,F^G] [CEA]/[FAB]/ [EAc][DEG] | [CEA]3 [ce] | [Ac]>[EB] [CA][DF] |$ %16
+ [CE][B,D] !fermata![B,E] [ce] :| [CE][B,D] !fermata![B,E] [ce] | [Ac][GB][FAd][FA] | %19
+ [E^GB]2 z [EGB] |!<(! [EAc]2 f2-!<)! |$!>(! f3 [EBe]!>)! | c ^GA (B | c) ^GA B | c4 | %25
+ e^d z [^FBd] |$!>(! [EBe] [=DB][Cc] [_B,^G]-!>)! | [_B,^G] [A,A]2 [A,A] | [A,FA]4 | %29
+ [_B,F_B]3 [=B,F^G] | [CEA][FAB] [EAc][DE^G] | [CEA]3 z |] %32
+V:3
+"m" z |"m""""m""m" z4 |"m" z"m" [F,A,]"" !fermata![E,^G,]"m" z |:"m""m""m" z4 |"" z2 z E, | %5
+"m" A,2"m""" F,2 |$"""" G,3"" ^G, |"m" A,"" (E,"m"F,)"m" (^G, |""A,)"" (E,"m"F,)"m" [^G,D] | %9
+"""""" [A,C]4 |$"""" [A,B,]2 z A, |"" ^G,"" G,"m"A,"" [E,C]- | [E,C]"" [F,C]2"m" [E,C] | %13
+"m" D,"m" C,/"m"D,/"" E,""E, |"m" A,,3"m" z |"m""""m""m" z4 |$ %16
+"m" z"m" [F,A,]"" !fermata![E,^G,]"m" z :|"m" z"m" [F,A,]"" !fermata![E,^G,]"m" z |"m""m""m" z4 | %19
+"" z2 z E, |"m" A,2"m""" F,2 |$"""" G,3"" (^G, |"m" A,)"" E,"m"F,"m" (^G, | %23
+"" A,)"" E,"m"F,"m" ^G, |"""""" [A,C]4 |"""" [A,B,]2 z A, |$"" ^G,"""m" E2"" [E,C]- | %27
+ [E,C]"" [F,C]2"m" [E,C] |"" [_E,C]4 |"" D,3"m" D, |"m" C,"m"D,"" E,""E, |"m" A,,3 z |] %32
+V:4
+ x | x4 | x4 |: x4 | x4 | x2 DC- |$ C B,2 x | x D2 F- |F D2 F- | F2 (EF) |$ [^FB]2 x2 | x4 | x4 | %13
+ x4 | x4 | x4 |$ x4 :| x4 | x4 | x4 | x2 DC- |$ C B,2 x | E D2 F- | F D2 F- | F2!<(! EF | %25
+ [^FB]2!<)! x2 |$ x4 | x4 | x4 | x4 | x4 | x4 |] %32
+V:5
+ x | x4 | x4 |: x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 :| x4 | x4 | %19
+ x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x ^G,A, x | x4 | x4 | x4 | x4 | x4 |] %32

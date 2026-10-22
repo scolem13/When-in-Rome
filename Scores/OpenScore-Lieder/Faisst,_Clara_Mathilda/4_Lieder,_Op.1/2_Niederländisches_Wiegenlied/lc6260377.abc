@@ -1,0 +1,67 @@
+X:1
+T:4 Lieder, Op. 1 (Lieder für eine Singstimme mit Pianofortebegleitung)
+T:Niederländisches Wiegenlied
+C:Clara Faisst
+Z:Oscar Ludwig Bernhard Wolff
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Leise" z6 | z4 z A | A3 B2 A | A3 F2 E | D3 F2 A | E3 z2 E | F3 A2 A | d3 c z B | c3 B2 A | %9
+w: |1.   Es|dun- kelt mein|Rös- chen, nun|spie- le nicht|mehr, ich|leg’ dich zur|Ru- he, dich|schlä- fert so|
+w: |2.   Da|liegst du mein|Al- les in|fried- li- cher|Ruh’, nun|schliesst sich dein|Münd- chen, die|Äug- lein gehn|
+w: |3. Glück-|se- lig mein|Rös- chen, wer|schlum- mert wie|du, o|blie- be dir|im- mer die|schuld- lo- se|
+ A3 z2 z | z6 | z6 | z2 z z2 F | F3 G2 F | B3 c2 d | c3 ^A2 F | (B3 A) z D | G3 ^G2 G | A3 c z C | %19
+w: sehr.|||Du|liegst in der|Wie- ge, so|warm und so|sacht, _ _|||
+w: zu.|||Doch|sieh’, wie der|En- gel im|Trau- me süss|lacht! _ 1\-3 mög|Gott dich be-|hü- ten, mein|
+w: Ruh!|||Die|Lie- be der|Mut- ter dich|sor- gend be-|wacht, _ _|_ _ _||
+ E3 F2 E | C3 z2 C |!<(! F3 ^G2 G | A3 ^A!<)! z A |!<(! B3 c2 c!<)! |!>(! d3 c2 =c!>)! | %25
+w: ||||||
+w: Kind, gu- te|Nacht! mög|Gott dich be-|hü- ten, mög|Gott dich be-|hü- ten, mein|
+w: ||||||
+ B3 (d^c) B | A3 z2 z |!pp! B2 A B2 A | A3 z2!p! A | B3 z c d | A3 z2!pp! A | e3 B2 c | d3 z2 z | %33
+w: ||||||||
+w: Kind gu- * te|Nacht!|Gu- te gu- te|Nacht! Mein|Kind gu- te|Nacht! Mein|Kind, gu- te|Nacht!|
+w: ||||||||
+ z6 | z6 :| %35
+w: ||
+w: ||
+w: ||
+V:2
+!p! A3 A3 | A3 A3 | !arpeggio![Adfa]3 !arpeggio![Bdfb]2 [Adfa] | !arpeggio![Acea]3 z2 z | %4
+ !arpeggio![Adfa]3 !arpeggio![Bdfb]2 [Adfa] | [Acea]3 z2 z | !arpeggio![A,DF]3 !arpeggio![A,EA]3 | %7
+ !arpeggio![DFd]3 c2 B | !arpeggio![Ece]3 d2 c | !arpeggio![EAc]!pp! (C/A/e) z (e/A/E) | %10
+ z (F/d/a) z (a/d/F) | z (E/c/a) z (a/c/E) | z (F/d/a) z (a/d/F) | z (F/c/^a) z (a/c/F) | %14
+ z (F/d/b) z (b/d/F) | z (C/^A/f) z ([Ae]/F/C) | z (B,/F/[Bd]) z ([Ad]/F/=C) | %17
+ z (B,/G/d) z (d/^G/B,) | !arpeggio![EAc]3 !arpeggio![EAe]2 z | [B,DE]3 F2 E | C3 z2 z | %21
+!<(! [A,CF]3 [B,D^G] (E/G/e)!<)! | [CEA]3 [CE^A] (F/A/f) |!<(! [DFB]3 c3!<)! |!>(! d3 c2 =c!>)! | %25
+ [B,DG]2 [DGB] [Bd][A^c][GB] | !arpeggio![DFA]3 z2 z |!pp! !arpeggio![cg]3 !arpeggio![cg]3 | %28
+ [Adf]3 z2 z | !arpeggio![DGd]6 | !arpeggio![DFd]3 z2 z |!pp! ([EGA]3 [Bg]2 [Acf] | %32
+ [Fd]3)"^dim." z2 [A,-FA] | [A,DF] z2 z2 [A,-FA] | [A,DF] z2 z2 z :| %35
+V:3
+ z (D,,/A,,/F,) z (F,/A,,/D,,) | z (D,,/A,,/F,) z (F,/A,,/D,,) | z (D,,/A,,/F,) z (F,/A,,/D,,) | %3
+ z (D,,/A,,/G,) z (G,/A,,/D,,) | z (D,,/A,,/F,) z (F,/A,,/D,,) | z (D,,/A,,/G,) z (G,/A,,/D,,) | %6
+ z (D,,/A,,/F,) z (E,/A,,/C,,) | z (B,,,/B,,/F,) z (E,/B,,/E,,) | z (E,,/A,,/E,) z (E,/B,,/E,,) | %9
+ A,,3 B,2 A, | [D,F,A,]3 F2 D | A,3 B,2 A,- | [D,F,A,]3 D,,2 z | F,,3 E,3 | D,3 B,,3 | F,3 F,,3 | %16
+ D,,3 D,3 | G,,3 E,,3 | z (A,,/E,/C) z (C/E,/A,,) | z (E,,/B,,/^G,) z (G,/B,,/E,,) | %20
+ z (A,,/E,/C) z (C/E,/A,,) | z (F,,/C,/A,) [E,,E,]3 | z (A,,/E,/C) [F,,F,]3 | %23
+ z (B,,/F,/D) z (C/E,/A,,) | z (D,,/A,,/F,) z (F,/A,,/D,,) | z (G,,/D,/B,) z (B,/D,/G,,) | %26
+ z (D,,/A,,/F,) z (F,/A,,/D,,) | z (D,,/A,,/E,) z (E,/A,,/D,,) | z (D,,/A,,/F,) z (F,/A,,/D,,) | %29
+ z (D,,/A,,/G,) z (G,/A,,/D,,) | z (D,,/A,,/F,) z (F,/A,,/D,,) | z (D,,/A,,/E,) z (E,/A,,/A,,,) | %32
+ z (D,,/A,,/F,) z (F,/A,,/D,,) | z (D,,/A,,/F,) z (F,/A,,/D,,) | z (D,,/A,,/F,) z (F,/A,,/D,,) :| %35
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 !arpeggio![E^G]3 | x3 !arpeggio![E^G]3 | x6 | x6 | x6 | x6 | %13
+ x6 | x6 | x6 | x6 | x6 | x6 | x3 [B,D]3 | x6 | x6 | x6 | x3 [GB][F=A][EG] | [DF]3- [DF]3 | x3 D3 | %26
+ x6 | B2 A B2 A | x6 | x6 | x6 | x6 | x6 | x6 | x6 :| %35
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 [C,=G,]3 | x3 [D,A,]3 | [E,G,]3 [A,,G,]3 | x6 | %13
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %32
+ x6 | x6 | x6 :| %35

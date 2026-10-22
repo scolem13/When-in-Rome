@@ -1,0 +1,36 @@
+% Etude 7: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=300
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Etude 7
+C:Matteo Carcassi
+%%score ( 1 2 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Amin
+V:1 bass nm="guitar:melody" snm="Ac Gtr"
+V:2 bass 
+V:1
+ A,,4 C,4 F,4 E,4 | D,A,FA, C,A,EA, B,,^G,DG, A,,A,CA, | D,A,B,A, ^D,A,B,A, E,A,B,A, F,A,B,A, | %3
+ E,4 E,,A,CA, E,4 E,,4 | A,,A,A,A, C,A,A,A, F,A,A,A, E,A,A,A, | %5
+ D,A,FA, C,A,EA, B,,^G,DG, A,,A,CA, | D,A,B,A, ^D,A,B,A, E,A,CA, E,,^G,B,E | %7
+ ^D,4 FE^DE [AE,]4 E,,4 | C,CCC E,CCC A,CCC G,CCC | F,A,DA, E,4 D,DFD D,C^FC | %10
+ G,B,GB, G,,G,GG, A,,G,^FG, B,,G,=FG, | [C,G,]G,2G, D,G,DG, E,G,CG, C,G,EG, | %12
+ F,A,A,A, E,^CCC D,DDD ^F,=CCC | G,B,B,B, =F,^DDD E,EEE ^G,=DDD | A,CCC A,,CCC D,B,B,B, ^D,A,A,A, | %15
+ E,^G,B,E FEEE ^GEEE BEEE | AEEE FE^DE =DECE B,EA,E | E,^G,B,E FEEE ^GEEE [B=D]2[EC]2 | %18
+ [AB,]2[EA,]2 FE^DE =DECE B,EA,E | ^G,2F,E E,E^D,E E,E=D,E [C,D]2[B,,C]2 | %20
+ [A,,B,]2A,A, C,A,[A,^G,]2 F,2[A,E,]2 [E,^D,]2[A,E,]2 | =D,2[FC,]2 [C,B,,]2EA, B,,^G,DG, A,,A,CA, | %22
+ [F,D,]F,_B,F, D,F,B,F, E,=G,^CG, E,G,CG, | [B,,F,A,]2DA, ^C,A,[ED,]2 D,2EA, E,A,EA, | %24
+ [E,^F,^D]2DD A,DDD ^G,EEE E,=DDD | [D,A,=C]2[CE,]2 E,2B,B, F,A,A,A,2 A,CA, | %26
+ [^G,D,A,]2B,A, ^D,A,[B,A,]A,2 A,CA, E,,G,B,E | [F,A,]2CE FE^DE A4 z2 E,2- | E,2 E,,4 A,,8 z2 |] %29
+V:2
+ z A,A,A, z A,A,A, z A,A,A, z A,A,A, | z4 D,4 C,4 B,,4 | A,,4 =D,4 z4 ^D,4 | %3
+ z A,CA, F,4 z A,B,A, z ^G,EG, | z4 E,4 E,,4 A,,4 | C,4 F,4 E,4 D,4 | C,4 B,,4 A,,4 =D,4 | %7
+ z A,CE z12 | A,,8 z8 | C,4 z ^CEC A,4 G,4 | F,4 E,4 D,4 D,4 | z2 E z G,,4 A,,4 B,,4 | %12
+ C,4 D,4 E,4 C,4 | F,4 E,4 D,4 ^F,4 | =G,4 =F,4 E,4 ^G,4 | A,4 z4 A,,4 =D,4 | ^D,4 E,4 z8 | %17
+ z4 E,,8 z E z E | z E z E E,4 z8 | z4 E,,8 z E z E | z A, z4 z A, z A, z A, z A, z A, | %21
+ z A, z A, z A, A,,4 C,4 F,2- | z2 E,4 D,4 =C,4 =B,,2- | z2 A,,4 z A, z A, D,4 E,2- | %24
+ z2 E,4 =F,4 ^C,4 D,2- | z3 C z B, ^F,4 z2 C, z ^G,2- | z2 E,4 z2 E, z E,4 =F,2- | %27
+ z2 C,4 =D,4 ^D,4 z2 | x16 |] %29

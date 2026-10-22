@@ -1,0 +1,72 @@
+% Trost in Thränen: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1578
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Trost in Thränen
+C:SchubertF
+%%score ( 1 2 ) 3 ( 4 5 )
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:none
+V:1 bass nm="pianoDown" snm="Pno"
+V:2 bass 
+V:3 treble nm="chant" snm="V"
+V:4 treble nm="pianoUp" snm="Pno"
+V:5 treble 
+V:1
+ x |[Q:1/4=120] z4 z F,- |[M:6/8] F,4- F, E,- | E,4- E, F,- | F,2 [D,G,]3 G,- | G,4 _B,A,- | %6
+ A,2 _B,2 A,G,- | G,_A, =A,2 G,_A,- |[Q:1/4=80] _A,3 G,F,[E,C,]- |[Q:1/4=120] [E,C,]4 z F,- | %10
+ F, z C,2 z F,,- | F,,4- F,, F,,- | F,,2 G,,3 _A,,- | _A,,4- A,, _D,,- | _D,,2 z3 _A,,- | %15
+ _A,,2 z3 [_E,,_E,]- | [_E,,_E,] z [E,,E,]2 z _A,,- | _A,,2 z2 =A,,_B,,- | _B,,2 z2 _B,,,F,,- | %19
+ F,,2 z3 [C,,C,]- | [C,,C,]4- [C,,C,] F,,- |[Q:1/4=110] F,,4- F,, [C,,C,]- | %22
+[Q:1/4=100] [C,,C,]4- [C,,C,] F,,- |[Q:1/4=90][Q:1/4=70][Q:1/4=80] F,,4- F,,- F,,- | %24
+[Q:1/4=120] F,,4 z F,- | F,4- F, E,- | E,4- E, F,- | F,2 [D,G,]3 G,- | G,4 _B,A,- | %29
+ A,2 _B,2 A,G,- | G,_A, =A,2 G,_A,- |[Q:1/4=80] _A,3 G,F,[E,C,]- |[Q:1/4=120] [E,C,]4 z F,- | %33
+ F, z C,2 z F,,- | F,,4- F,, F,,- | F,,2 G,,3 _A,,- | _A,,4- A,, _D,,- | _D,,2 z3 _A,,- | %38
+ _A,,2 z3 [_E,,_E,]- | [_E,,_E,] z [E,,E,]2 z _A,,- | _A,,2 z2 =A,,_B,,- | _B,,2 z2 _B,,,F,,- | %42
+ F,,2 z3 [C,,C,]- | [C,,C,]4- [C,,C,] F,,- |[Q:1/4=110] F,,4- F,, [C,,C,]- | %45
+[Q:1/4=100] [C,,C,]4- [C,,C,] F,,- |[Q:1/4=90][Q:1/4=70][Q:1/4=80] F,,4- F,,- F,,- | F,,4- F,, x |] %48
+V:2
+ x | z6 |[M:6/8] z6 | z6 | z4 z C,- | C,4- C, C,- | C,4- C, C,- | C,4- C, C,- | C,4- C, z | z6 | %10
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z4 z C,- | %28
+ C,4- C, C,- | C,4- C, C,- | C,4- C, C,- | C,4- C, z | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %41
+ z6 | z6 | z6 | z6 | z6 | z6 | z4 z x |] %48
+V:3
+ x |[K:Dmin][M:6/8][M:6/8] x4[Q:1/4=120] AA- |[M:6/8] AFF Acc- | cG G2 cA- | AA f2 =Bc- | %5
+ c3 x _d=d- | dd g2 dc- | c/d/c f2 ed- | ddd c=B[Q:1/4=80]c- |[K:Ab] c4[Q:1/4=120] c_A- | %10
+ A_A G2 cc- | c_A F2 ff- | f_d _B2 _ee- | e3 x _Af- | f_d d2 _aa- | ag/f/ _e2 ee- | e_ee _B_dc- | %17
+ c3 x c_d- | d_dd _Bff- | f_e/_d/ c2 cc- | cc_d G_B_A- | A2 x2 c[Q:1/4=110]c- | %22
+ cc[Q:1/4=100]=d c_B=A- | A4-[Q:1/4=90][Q:1/4=70] A[Q:1/4=80] x |[K:Dmin] x4[Q:1/4=120] AA- | %25
+ AFF Acc- | cG G2 cA- | AA f2 =Bc- | c3 x _d=d- | dd g2 dc- | c/d/c f2 ed- | ddd c=B[Q:1/4=80]c- | %32
+[K:Ab] c4[Q:1/4=120] c_A- | A_A G2 cc- | c_A F2 ff- | f_d _B2 _ee- | e3 x _Af- | f_d d2 _aa- | %38
+ ag/f/ _e2 ee- | e_ee _B_dc- | c3 x c_d- | d_dd _Bff- | f_e/_d/ c2 cc- | cc_d G_B_A- | %44
+ A2 x2 c[Q:1/4=110]c- | cc[Q:1/4=100]=d c_B=A- | A4-[Q:1/4=90][Q:1/4=70] A[Q:1/4=80] x |] %47
+V:4
+ x |[Q:1/4=120] z4 z [=A,CF]- |[M:6/8] [A,CF]4- [A,CF] [CG]- | [CG]4- [CG] [C=A]- | %4
+ [CA]2 [F=B]3 c- | c4 _d=d- | d4- d c- | c4- c =B- |[Q:1/4=80] B4- B [cG]- |[Q:1/4=120] [cG]4 z2 | %10
+ [CF_A][CFA] z [_B,=EG][B,EG] z | [_A,CF][A,CF][A,CF] [A,CF][A,CF] z | %12
+ [_A,_DF][A,DF] z [_B,D_E][B,DE] z | [_A,C_E][A,=B,E][A,CE] [A,CE][A,C=E] z | %14
+ [_A,_DF][A,DF][A,DF] [A,DF][A,D=E] z | [_A,_D_E][A,DE][A,CE] [A,CE][A,=B,E] z | %16
+ [_A,_B,_E][A,B,E] z [G,B,E][G,B,E] z | [_A,C_E][A,CE][A,CE] [A,CE][_G,CE] z | %18
+ [F,C_D][F,CD][F,_B,D] [F,B,D][F,B,D] z | [F,_B,C][F,B,C][F,_A,C] [F,A,C][F,A,C] z | %20
+ [F,G,C][F,G,C][=E,G,C] [E,G,C][E,G,C] z |[Q:1/4=110] [F,_A,C][F,A,C][F,A,C] [F,A,C][F,A,C] z | %22
+[Q:1/4=100] [F,G,C][F,G,C][=E,G,C] [E,G,C][E,G,C] z | %23
+[Q:1/4=90][Q:1/4=70][Q:1/4=80] [F,=A,C]/ z/ [F,A,C]/ z/ [F,A,C]/ z/ [F,A,C]/ z/ [F,A,C]/ z/ [F,A,C]- | %24
+[Q:1/4=120] [F,A,C]4 z [=A,CF]- | [A,CF]4- [A,CF] [CG]- | [CG]4- [CG] [C=A]- | [CA]2 [F=B]3 c- | %28
+ c4 _d=d- | d4- d c- | c4- c =B- |[Q:1/4=80] B4- B [cG]- |[Q:1/4=120] [cG]4 z2 | %33
+ [CF_A][CFA] z [_B,=EG][B,EG] z | [_A,CF][A,CF][A,CF] [A,CF][A,CF] z | %35
+ [_A,_DF][A,DF] z [_B,D_E][B,DE] z | [_A,C_E][A,=B,E][A,CE] [A,CE][A,C=E] z | %37
+ [_A,_DF][A,DF][A,DF] [A,DF][A,D=E] z | [_A,_D_E][A,DE][A,CE] [A,CE][A,=B,E] z | %39
+ [_A,_B,_E][A,B,E] z [G,B,E][G,B,E] z | [_A,C_E][A,CE][A,CE] [A,CE][_G,CE] z | %41
+ [F,C_D][F,CD][F,_B,D] [F,B,D][F,B,D] z | [F,_B,C][F,B,C][F,_A,C] [F,A,C][F,A,C] z | %43
+ [F,G,C][F,G,C][=E,G,C] [E,G,C][E,G,C] z |[Q:1/4=110] [F,_A,C][F,A,C][F,A,C] [F,A,C][F,A,C] z | %45
+[Q:1/4=100] [F,G,C][F,G,C][=E,G,C] [E,G,C][E,G,C] z | %46
+[Q:1/4=90][Q:1/4=70][Q:1/4=80] [F,=A,C]/ z/ [F,A,C]/ z/ [F,A,C]/ z/ [F,A,C]/ z/ [F,A,C]/ z/ [F,A,C]- | %47
+ [F,A,C]4- [F,A,C] x |] %48
+V:5
+ x | z6 |[M:6/8] z6 | z6 | z4 z =E- | E4- E _G- | _G2 =G2 F=E- | E2 F2 =EF- | F3 G_A z | z6 | z6 | %11
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z4 z =E- | %28
+ E4- E _G- | _G2 =G2 F=E- | E2 F2 =EF- | F3 G_A z | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %41
+ z6 | z6 | z6 | z6 | z6 | z6 | z4 z x |] %48

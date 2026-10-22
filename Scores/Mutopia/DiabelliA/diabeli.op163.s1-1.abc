@@ -1,0 +1,77 @@
+% Jugendfreuden - Sechs Sonatinen: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1564
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Jugendfreuden - Sechs Sonatinen
+C:DiabelliA
+%%score ( 1 2 3 ) ( 4 5 6 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 bass nm="down"
+V:2 bass 
+L:1/4
+V:3 bass 
+L:1/4
+V:4 treble nm="up"
+L:1/16
+V:5 treble 
+L:1/16
+V:6 treble 
+V:1
+ x2 [ceg]4 [cegC,,G,,C,]2 | [cegC,,G,,C,]2 [dfg]3 f d2 | %2
+ [B,,,B,,]>[D,,D,] [dfg]4 [dfgB,,,G,,B,,]2 | [dfgB,,,G,,B,,]2 [ceg]3 e c2 | %4
+ [_B,,,_B,,]>[C,,C,] [cfA,,,A,,]7/2 [A,,,A,,]/ [ceG,,,G,,]2- | [ceG,,,G,,]>[G,,,G,,] [F,,,F,,]6- | %6
+ [F,,,F,,]2 [c^d]4 =d2 | c2 g6- | g2 [cegC,,C,]6- | [cegC,,C,]2 [dfgB,,,B,,]6- | %10
+ [dfgB,,,B,,]2 [dfgB,,,B,,]6- | [dfgB,,,B,,]2 [ceg_B,,,_B,,]6- | %12
+ [ceg_B,,,_B,,]2 [cfA,,,A,,]4 [ceG,,,G,,]2- | [ceG,,,G,,]2 [cdF,,,F,,]6- | %14
+ [cdF,,,F,,]2 [c^d]4 d=d | dc g2 g>g g2 | g2 g3 f [^d^D,,^D,]2 | ^d2 f3 g [fD,,D,]2 | %18
+ z2 f3 ^d [=d_B,,,_B,,]2 | d2 ^d3 f [d^D,,^D,]2 | z2 ^d3 f d2 | ^d2 d3 f [dC,,C,]2- | %22
+ [^dC,,C,]2 d3 d df/d/ | d^d f3 g [f_B,,,_B,,]2 | z2 g3 f [dG,,,G,,]2 | %25
+ [G,,,G,,]2 f3 ^d [cG,,,G,,]2 | [G,,,G,,]2 ^d3 f/d/ [=dG,,,G,,]2 | [cG,,,G,,]2 d2 z [dB,,,B,,] d2 | %28
+ e^f g2 z [dB,,,B,,] ed | e^f [gG,,,G,,]d/ z/ [fD,,D,]d/ z/ [gG,,,G,,]d/ z/ | %30
+ [^fD,,D,]d/ z/ g2 [gG,,,G,,] z/ g/ g2 | g2 g6 |] %32
+V:2
+ x [C,,G,,C,]3/2 [C,,G,,C,]/ z | z [B,,,G,,B,,]2- [B,,,G,,B,,]3/4 [G,,,G,,]/4 | %2
+ z [B,,,G,,B,,]3/2 [B,,,G,,B,,]/ z | z [_B,,,G,,_B,,]2- [B,,,G,,B,,]3/4 [G,,,G,,]/4 | z4 | %5
+ z d3/2 e/ [dc] | z [^F,,,^F,,]3- | [^F,,,^F,,]- [F,,,F,,]/ z/ G,,/ z/ G,,/ z/ | G,,/ z7/2 | z4 | %10
+ z4 | z4 | z4 | z4 | z [^F,,,^F,,]3- | [^F,,,^F,,]- [F,,,F,,] z2 | z [^D,,^D,] z2 | z [D,,D,] z2 | %18
+ z [_B,,,_B,,] z2 | z [^D,,^D,] z2 | z [^C,,^C,]2 [C,,C,]- | [^C,,^C,] [=C,,=C,]2 z | %22
+ z [B,,,B,,]2 [B,,,B,,] | [B,,,B,,] [_B,,,_B,,]2 z | z [G,,,G,,]2 z | z [G,,,G,,]2 z | %26
+ z [G,,,G,,]2 z | z [G,,,G,,]3/2 z/ [D,,D,]- | [D,,D,] [G,,,G,,]3/2 z/ [D,,D,]- | [D,,D,] z3 | %30
+ z [G,,,G,,]/ z3/2 [G,,,G,,]/ z/ | %31
+ [G,,,G,,]/ z/ [G,,,G,,]/4[G,,,G,,]/4[G,,,G,,]/4[G,,,G,,]/4 [G,,,G,,]/4[G,,,G,,]/4[G,,,G,,]/4[G,,,G,,]/4 G,,, |] %32
+V:3
+ x3 x | z4 | z4 | z4 | z4 | z c2 z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %18
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |] %32
+V:4
+ x4 [c'e'g']8 [c'e'g'G,CE]4 | [c'e'g'G,CE]4 [d'f'g']6 f'2 d'4 | B,2>D2 [d'f'g']8 [d'f'g'G,DF]4 | %3
+ [d'f'g'G,DF]4 [c'e'g']6 e'2 c'4 | _B,2>C2 [c'f']8 [c'e']4- | [c'e']4 d'6 e'2 [A,CDd'c']4 | %6
+ [A,CD]2>[A,CD]2 [c'^d']8 [=d'A,=D]2>[A,D]2 | [c'A,^D]2>[A,D]2 g'12- | %8
+ g'4 z G,[c'C]E [e'G]E[f'C]G, [g'G]E[g'C]G, | [g'G]E[g'C]G, g'6 [f'D]G, d'4 | %10
+ GFDG, z G,[d'D]F [e'G]F[f'D]G, [g'G]F[g'D]G, | [g'G]F[g'D]G, g'6 [e'C]G, c'4 | %12
+ GECG, z F,[c'C]F [e'C]F,[f'C]F e'2[c'C]E | %13
+ [^d'C]G,[e'C]E z A,[=d'C]F [d'C]A,[d'C]D [d'C]A,[e'C]D | %14
+ d'4 z A,[^d'C]A, [d'C]A,[d'C]A, [d'C]A,[=d'=D]A, | %15
+ [d'D]A,[c'^D]A, [g'B,=D]4 [g'G,G]2>[g'G,G]2 [g'G,G]4 | [g'G,G]4 g'6 [f'G,]_B, ^d'4 | %17
+ ^d'4 f'6 [=g'^G,]_B, f'4 | ^G,_B,FB, f'6 [^d'G,]B, =d'4 | d'4 ^d'6 [f'=G,]_B, d'4 | %20
+ G,_B,^DB, ^d'6 [f'G,]B, d'4 | ^d'4 d'6 [f'^G,]^D d'4- | ^d'4 d'6 [d'^G,]^D [d'G,]^D,[f'G,][d'D] | %23
+ [=d'^G,]^D,[^d'G,]^D f'6 [=g'_B,]=D f'4 | _B,F,B,D g'6 [f'G]F d'4 | B,FGF f'6 [^d'G]^D c'4 | %26
+ C^DGD ^d'6 [=f'^F][d'C] =d'4 | c'4 d'4 B,D[d'G]D d'4 | [e'C]D[^f'^F]D g'4 B,D[d'G]D [e'C]D[d'F]D | %29
+ [e'C]D[^f'^F]D [g'B,]D[d'G]D [f'C]D[d'F]D [g'B,]D[d'G]D | [^f'C]D[d'^F]D g'4 g'2>[g'D]2 g'4 | %31
+ g'4 [g'B,DF]12 |] %32
+V:5
+ x4 [G,CE]6 [G,CE]2 z4 | z4 [G,DF]8- [G,DF]3 G, | z4 [G,DF]6 [G,DF]2 z4 | z4 [G,CE]8- [G,CE]3 G, | %4
+ z7 [F,CF] [F,CF]4 z3 [G,CE] | [G,CE]4 c'8 z3 [A,CD] | z7 [A,C] [A,C]2>[A,C]2 z4 | %7
+ z4 [B,=D]2>G,2 [DF]2>G,2 [CE]2>G,2 | [B,D]2>G,2 z12 | z4 z G,DF GF z2 GFDG, | z16 | %11
+ z4 z G,CE GE z2 GECG, | z8 z4 z G, z2 | z16 | CA,CD z12 | z16 | z4 z A,_B,A, ^DB, z2 G,B,DB, | %17
+ =G,_B,^DB, z ^G,B,G, FB, z2 G,B,FB, | z4 z ^G,_B,G, DB, z2 G,B,DB, | %19
+ ^G,_B,=DB, z =G,B,G, ^DB, z2 G,B,DB, | z4 z G,_B,G, ^DB, z2 G,B,DB, | %21
+ =G,_B,^DB, z ^D,^G,D G,D, z2 G,D,G,D | ^G,^D,G,^D z D,G,D G,D, z6 | z4 DF,_B,D B,F, z2 B,F,B,D | %24
+ z4 =B,FGF B,F z2 B,FGF | z4 C^DGD CD z2 CDGD | z4 A,C^FC A,C z2 A,CFC | A,C^FC B,DGD z4 CDFD | %28
+ z4 B,DGD z8 | z16 | z4 B,DGD G,D=F z G,^CEC | G,=C^DC z12 |] %32
+V:6
+ x6 x2 | z8 | z8 | z8 | z8 | z7/2 [A,CD]/ [A,CD]>[A,CD] z2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %13
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %32

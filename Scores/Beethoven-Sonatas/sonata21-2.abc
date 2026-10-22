@@ -1,0 +1,58 @@
+X:1
+T:Piano Sonata no. 21 in C major
+T:Introduzione: Adagio molto
+C:Beethoven, Ludwig van
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=40
+M:6/8
+I:linebreak $
+K:F
+V:1 bass nm="Piano" snm="Pno"
+V:2 bass 
+L:1/8
+V:3 bass nm="Piano" snm="Pno"
+V:4 bass 
+L:1/8
+V:1
+!pp! z2 C,>C, A,2 z2 A,>A, ^D2 | z2 [^G,=B,E]2[G,B,E]2 [G,B,E]4 z2[K:treble] | %2
+ z2 =B,>B,=G2 z2 ^C>C^A2 | z2 [=B,^F=B]2[B,FB]2 [B,FB]4 z2 | z2 =F>F=B2 z2 B>Bf2- | z6 _B4 z2 | %6
+!p! z2 [FA]2[Af]2 [FA]4 z2 | z2 [B,DG]2 z2 z2 [G,B,E]2 z2 | %8
+ z2!pp! [A,CF]2[A,CA]2 [A,CF]4[K:bass] C,>C, |{/C,} A,3 .G,.A,.B, =B,C2D2 _B,/A,/ | %10
+ G,[K:treble] .^F.G!p!.A._B .^f .g.a._b z[K:bass] C,>C, |{/C,} [B,^CD]3 .[A,=C][=CB,].[CDB,] x6 | %12
+ A,!p![K:treble] .^G.A.=B .c z z3 z z2 |!p! F2 f>fe2 =g2 _B>B{/B} A/^G/A/c/ | F2 f>fe2 g2 B>BA2 | %15
+ z2 [B,DG]2 z2 z2 [G,B,E]2 z2[K:bass] |!pp! z2 C,>C,A,2 z2 A,>A,^D2 | %17
+ E2[^G,=B,E]2[G,B,E]2 [G,B,E]2.=G,2.G,2[K:treble] | z2!pp! =B,>B,G2 z2 ^C>C^A2 | %19
+ =B2[=B,^FB]2[B,FB]2 [B,FB]2 z4 |!pp! =F,2 F>F=B2- B2 B>Bf2- | f2 f>f_a2- a2 f>fd'2- | %22
+ d'2 f>ff'2- f'2 f>ff'2- | f'2 f>ff'2- f'3/2 f/f'/ z/ z/ d/d'/ z/ z/ =B/ | %24
+ =b/ z/ z/ F/f/ z/ z/ D/d/ z/ z/ =B,/=B/ z/ z/[K:bass] F,/F/ z/ z/ D,/D/ z/ z/ =B,,/ | %25
+!pp! =B,2[=B,,D,F,]2[B,,D,F,]2 [B,,D,F,]4[K:treble] f2 | %26
+ e2[K:bass] [C,E,]2[C,E,]2 [C,E,]4[K:treble] e2 | %27
+ d2[K:bass] [D,F,A,]2[K:treble] d2g2[K:bass] [=B,,D,G,]2[K:treble] !fermata!g2 || %28
+V:2
+ x6 | x6[K:treble] | x6 | x6 | x6 | feg !>!E2 z | x6 | x6 | x5[K:bass] x | x6 | %10
+ x/[K:treble] x9/2[K:bass] x | z/ z G,E,/ x3 | F,/[K:treble] z3/2 z/ .^g/ .a/.=b/.c'/ z/ c/>c/ | %13
+ F2 =G- G E F | F2 G- GEF | x6[K:bass] | x6 | x6[K:treble] | x6 | x6 | x6 | x6 | x6 | x6 | %24
+ x15/4[K:bass] x9/4 | x5[K:treble] x | x[K:bass] x4[K:treble] x | %27
+ x[K:bass] x[K:treble] x2[K:bass] x[K:treble] x || %28
+V:3
+!pp! [F,,,F,,]6 [F,,,F,,]6 | z2 [E,,E,]2[E,,E,]2 [E,,E,]4 z2 | [E,,E,]6 [E,,E,]6 | %3
+ z2 [^D,,=B,,^D,]2[D,,B,,D,]2 [D,,B,,D,]4 z2 | [=D,,=D,]6 [_D,,_D,]6 | %5
+ [C,,C,]2[C,,C,]2[C,,C,]2 [C,,C,]4 z2 |!p! z2 [D,,D,]2[D,,D,]2 [D,,D,]4 z2 | %7
+ [B,,,B,,]2 z2 z2 [C,,C,]2 z2 z2 | [F,,,F,,]2!pp![F,,,F,,]2[F,,,F,,]2 [F,,,F,,]4 z2 | %9
+ [F,,C,]3 [E,,C,][F,,C,][G,,C,] [^G,,C,][A,,C,]2[B,,C,]2C, | %10
+ [E,,C,]3!p! [^F,C][G,C][A,C] [B,C] .^F,,.G,,.A,,.B,,.G,, | %11
+ E,,[G,,C,]2 [^F,,C,][G,,C,][A,,C,] [A,,C,][B,,C,]2[E,,C,]2[C,,C,] | %12
+ [=F,,C,]3 .^G,.A,.=B, .C .^G,,.A,,.=B,,.C,._B,, | z2 C2C2- C2=G,2A,2 | z2 C2C2- C2G,2F,2 | %15
+ [B,,,B,,]2 z2 z2 [C,,C,]2 z2 z2 |!pp! F,,6 [F,,,F,,-]4 F,,/A,,/C,/A,,/ | %17
+ E,,2[E,,E,]2[E,,E,]2 [E,,E,]4 z2 | G,6 [E,,E,]4- [E,,E,]/E,/G,/E,/ | z6 z2 .=F,2.F,2 | %20
+!pp! D,4- D,/F,/_A,/F,/ _D,4- D,/F,/A,/F,/ | C,4- C,/F,/_A,/F,/ =B,,4- B,,/F,/A,/F,/ | %22
+ _A,,4- A,,/F,/=B,/F,/ G,,4- G,,/F,/B,/F,/ | %23
+ _A,,4- A,,/F,/=B,/F,/ A,,/F,/B,/F,/ A,,/F,/B,/F,/ A,,/F,/B,/F,/ | %24
+ G,,/F,/=B,/F,/ G,,/D,/F,/D,/ G,,/=B,,/D,/B,,/ G,,/B,,/D,/B,,/ G,,/B,,/D,/B,,/ G,,/D,,/=B,,,/D,,/ | %25
+!pp! G,,,2[G,,,G,,]2[G,,,G,,]2 [^G,,,^G,,]4 z2 | z2 [A,,,A,,]2[A,,,A,,]2 [A,,,A,,]4 z2 | %27
+ [F,,,F,,]2 z2 z2 [G,,,G,,]2 z2 !fermata!z2 || %28
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z3 z2 z/ =G,,/4F,,/4 | x6 | x6 | x6 | %13
+ A,,A,_B, E,C,F, | z A,B, E,C,D, | x6 | x6 | x6 | [E,,E,]3 z3 | %19
+ ^D,[^D,,=B,,D,][D,,B,,D,] [D,,B,,D,] =D,D, | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 || %28

@@ -1,0 +1,45 @@
+X:1
+T:A Shropshire Lad
+T:There pass the careless People
+C:Arthur Somervell
+Z:A. E. Housman
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+L:1/4
+V:1
+"^Andante espressivo" z6 | z6 | z6 | z6 |!pp!!<(! B2 B3/2 B/ c B!<)! | A2 B3 B | %6
+w: ||||There pass the care- less|peo- ple That|
+ G3/2!>(! G/ F3 F!>)! | E4 z2 | B2 B B c B | A2 B2 z B | G3 G F F | B,2 z2 z!f! B | c c2 F F2 | %13
+w: call their souls their|own:|Here by the road I|loi- ter, How|i- dle and a-|lone. His|fol- ly has not|
+ B B3 z!<(! E | A3/2 A/ (GF)!<)! (GE) | C4!ff! (B,B) | B3/2 B/ e3 d | c2 B3 A |!>(! G4- G G!>)! | %19
+w: fel- low Be-|neath the blue * of _|day That *|gives to man or|wo- man His|heart _ and|
+!>(! F4- F F!>)! |!>(! E6- | E6!>)! | z6 | z6 | !fermata!z6 |] %25
+w: soul _ a-|\- way.|||||
+V:2
+!mf!!>(! ([GB]>[F^A] [GB][^CE][F=A]^D)!>)! |!mf!!>(! ([EG]>[^DF] [EG][^A,^C][DF]!>)![=A,=C]) | %2
+ ([G,B,]3 E[A,C^D]F) | [G,B,]([^DF][EG])([B^d][ce])[f^a] |!pp!!<(! ([gb]2 [fa]2 [eg][df]!<)! | %5
+ [ce]2 [B^d]>[Ac][GB][FA]) |!>(! ([EG][CE][A,C][CE][B,D][A,C])!>)! | %7
+ [G,B,]([^DF]!<(![EG])([B^d][ce])[f^a]!<)! | ([gb]2 [fa]2 [eg][df] | [ce]2 [B^d]>[Ac][GB][FA]) | %10
+!>(! ([EG][DF][CE][B,D][A,C][^A,^C])!>)! |!<(! ([B,^D]>[^CE] [DF][EG][FA][GB])!<)! | %12
+ z2!f! !arpeggio![CEFc]2 [B,^DF]2 | z2 !arpeggio![B,D=FB]2 [A,^CE]2 | [A,^DA]2 [B,EG]2 z2 | %15
+ z2[K:bass]!<(! [E,G,C]2 [^D,A,B,]2!<)! |[K:treble]!ff! ([^G,B,DE]2 [A,CF]2 [B,D^G]2 | %17
+ [CEA]2 [^CEGB]3 [^DFA]) |!>(! ([EG]>[DF] [CE]2 [B,D]2)!>)! |!>(! ([A,C]>[CE] [B,D]2 [A,C]2)!>)! | %20
+!<(! ([G,B,]>[D=F]!<)!!>(! [CE]3 [B,D])!>)! |!<(! ([A,C]>[CE]!<)!!>(! [B,D]3 [A,C])!>)! | %22
+[K:bass]!p! ([G,B,]>[F,^A,]!>(! [G,B,]3) (B,, | [G,B,]3 [F,^A,][G,B,]B,,-)!>)! | !fermata!B,,6 |] %25
+V:3
+ [E,,B,,] B, z | [C,,G,,] G, z | ([B,,,B,,] [G,,,G,,] [A,,,A,,]) | [E,,,E,,] z z | %4
+[K:treble] ([GB] [FA] [EG]/[DF]/ | [CE][K:bass] [B,^D]/>[A,C]/[G,B,]/[F,A,]/) | %6
+ ([E,G,]/[C,E,]/[A,,C,]/[C,E,]/[B,,D,]/[A,,C,]/) | [E,,B,,] z z |[K:treble] ([GB] [FA] [EG]/[DF]/ | %9
+ [CE][K:bass] [B,^D]/>[A,C]/[G,B,]/[F,A,]/) | ([E,G,]/[D,F,]/[C,E,]/[B,,D,]/[A,,C,]/[^A,,^C,]/) | %11
+ [B,,^D,] [B,,,B,,] [B,,B,] | z !arpeggio![A,,E,F,] !>![B,,F,] | %13
+ z !arpeggio!!>![^G,,D,=F,] !>![A,,E,] | !>![F,,^D,] !>![G,,E,] z | z [^A,,,^A,,] [B,,,B,,] | %16
+ [E,,,E,,]3- | [E,,,E,,]3 | [C,,C,]3 | [A,,,A,,]3 | [E,,,E,,]3- | [E,,,E,,]3 | [E,,,E,,]2 B,,, | %23
+ [E,,,E,,] B,,,2 | !fermata![E,,,E,,]3 |] %25

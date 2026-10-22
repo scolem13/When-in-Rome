@@ -1,0 +1,58 @@
+% Goldberg Variations - 29: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1421
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Goldberg Variations - 29
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 ( 2 3 )
+L:1/16
+Q:1/4=84
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="upper" snm="Hpschd"
+V:2 treble nm="lower" snm="Hpschd"
+V:3 treble 
+L:1/8
+V:1
+ z3 [GB,D] z [GB,D] z [GB,D] z [GB,D] z [GB,D] | z3 [dFA] z [dFA] z [dFA] z [dFA] z [dFA] | %2
+ z3 [gBe] z [gBe] z [gBe] z [gBe] z [g^ce] | [fAd] z4 [=c'b][cb][aB] z [ag][Ag]f | %4
+ [gBd]2 z [gBd] z [gBd] z [gBd] z [gBd] z [=fBd] | z3 [eGc] z [eGc] z [eGc] z [eGc] z [eGc] | %6
+ z3 [dFA] z [dFA] z [dFA] z [dFA] z [cFA] | [BDG] z4 [AB][cB][AB] z [AG][ed][cd]- | %8
+ (3:2:2[cd]/ z (3:2:2z/ [GF]2(3C2 z2 [GA]2(3F2 z2 [B^c]2(3:2:1A2 | %9
+ (3z2 [d^c]2G2 (3z2 [de]2c2 (3z2 [fd]2B2 | (3z2 [=cB]2G2 (3z2 [AG]2E2 (3z2 [FE]2^C2 | %11
+ (3z2 [FE]2^C2 (3z2 [DC]2A,2 (3z2 [B,A,]2F,2 | (3z2 [B,A,]2F,2 (3z2 [G,F,]2D,2 (3z2 [E,D,]2B,,2 | %13
+ (3z2 [E,D,]2B,,2 (3z2 [C,B,,]2G,,2 (3z2 [A,,F,,]2E,,2 | %14
+ z [G,A,][EA,]G, z [F,A,][DA,]F, z [E,G,][^CG,]E, | z3 [DF,A,] z [DF,A,] z (3:2:2[DF,A,]2 z4 z | %16
+ (3z2 [ba]2f2 (3z2 [gf]2d2 (3z2 [ed]2B2 | (3z2 [ed]2B2 (3z2 [cB]2G2 (3z2 [AG]2E2 | %18
+ (3z2 [=FE]2C2 (3z2 [DC]2A,2 (3z2 [B,A,]2^F,2 | %19
+ (3z2 [G,F,]2^D,2 (3z2 [E,D,]2B,,2 (3z2 [C,B,,]2G,,2 | z3 [eGB] z [eGB] z [eGB] z [eGB] z [eGB] | %21
+ z3 [eGB] z [eGB] z [eGB] z [eGB] z [eGB] | z [fg][ab]c' z [ba][gf][e^d] z [cB][AG][FE] | %23
+ z [eGB] z [eGB] z [cEG] z [cEG] z [GB,E] z [GB,E] | %24
+ z [E,=F,][^F,G,]^G, z [B,C][DC][B,C] z [DE][^F=G]A | %25
+ z [=D,^D,][E,=F,]^F, z [A,B,][CB,][A,B,] z [C=D][E^F][GC]- | %26
+ (3:2:2[GC]/ z (3:2:2z/ [=FE]2(3C2 z2 [DC]2(3A,2 z2 [B,A,]2(3:2:1^F,2 | %27
+ (3z2 [BA]2^F2 (3z2 [GF]2D2 (3z2 [ED]2B,2 | (3z2 [ed]2B2 (3z2 [cB]2G2 (3z2 [AG]2E2 | %29
+ (3z2 [ag]2e2 (3z2 [=fe]2c2 (3z2 [dc]2A2 | z [AB][cd]e z [dc][BA]G z [^FG][AB][cc] | %31
+ B2 z [gBd] z [gBd] z [gBd] z4 |] %32
+V:2
+ G,2G,,2 [FA,C] z [FA,C] z [FA,C] z [FA,C] z | F,2F,,2 [^cEG] z [cEG] z [cEG] z [cEG] z | %2
+ E,2E,,2 [fAd] z [eG^c] z [fAd] z [eGc] z | z DA,F, (3:2:1D,2D (3:2:1z =C (3:2:1D,2B, (3:2:1z A, | %4
+ B,,2B,2 [fAc] z [fAc] z [fAc] z [dGB] z | C,2C2 [d=FB] z [dFB] z [dFB] z [cEA] z | %6
+ D,2D2 [^cEG] z [cEG] z [cEG] z [AD^F] z | %7
+ z G,D,B,, (3:2:1G,,2G, (3:2:1z D (3:2:1G,2E (3:2:1z [FB,] | z D z [A,B,] z D z [CD] z G z [EF] | %9
+ z A z [EF] z A z [GA] z d z [AG] | z B z [FE] z G z [D^C] z D z [B,A,] | %11
+ z ^C z [B,A,] z C z [G,F,] z A, z [E,D,] | z F, z [E,D,] z F, z [=C,B,,] z D, z [A,,F,,] | %13
+ z B,, z [A,,G,,] z B,, z [F,,E,,] z G,, z D,, | ^C,,2^C,2 D,2F,,2 G,,2A,,2 | %15
+ D,,2D,2 [^CE,G,] z [CE,G,] z D,,4 | [df] z2 [ed] z f z [=cB] z d z [AG] | %17
+ z B z [AG] z B z [FE] z G z [DC] | z E z [B,A,] z C z [G,F,] z A, z [E,^D,] | %19
+ z F, z [^C,B,,] z ^D, z [A,,G,,] z B,, z F,, | E,,2E,2 [^dFA] z [dFA] z [GG,] z [dFA] z | %21
+ C,2C2 [^dFA] z [dFA] z [BB,] z [dFA] z | A,2^D,2 E,2A,2 B,2B,,2 | %23
+ E,2[^dFA] z [B^DF] z [BDF] z [FA,D] z [FA,D] z | C,2B,2 A,2^G,2 A,2C,2 | B,,2A,2 =G,2F,2 G,2B,,2 | %26
+ [A,,A,] z2 [B,A,] z C z [G,F,] z A, z [E,D,] | z D z [ED] z F z [CB,] z D z [A,G,] | %28
+ z G z [AG] z B z [=FE] z G z [DC] | z c z [dc] z e z [BA] z c z G | F2A,2 B,2C2 D2D,2 | %31
+ G,2G,,2 [fAc] z [fAc] z G,4 |] %32
+V:3
+ x6 | x6 | x6 | z3 (3:2:2E, z2 (3:2:2C, z/ | x6 | x6 | x6 | z3 (3:2:2F, z2 (3:2:2A, z/ | x6 | x6 | %10
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %29
+ x6 | x6 | x6 |] %32

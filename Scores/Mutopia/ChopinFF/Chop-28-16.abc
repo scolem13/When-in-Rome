@@ -1,0 +1,66 @@
+% Prélude 16: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2176
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Prélude 16
+C:Frederic Chopin (1810-1849)
+%%score 1 ( 2 3 )
+L:1/16
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:Bbmin
+V:1 treble nm="upper"
+V:2 bass nm="lower"
+L:1/8
+V:3 bass 
+L:1/4
+V:1
+ (3[E=Ag]4 [EAf]4 [_EA=e]4 (3:2:4[EA_e]4 [EAd]4[Q:1/4=60] [EAc]2 z2 | %1
+[Q:1/4=160] fced F=ABc def=g =abc'd' | e'f'=g'=a' b'c''d''e'' =e''f''_e''d'' c''b'a'b' | %3
+ _a'_g'f'=e' f'_e'd'c' b=ab_a _gf_ed | cdef gabc' bagf edce | g=dfe cG=Bc _dc=de fe=ef | %6
+ ag=a_b _d'c'd'=d' f'_e'=e'f' _a'_b'a'g' | g'f''_e''_e' _d''c''c'b' =a'=a_a'g' gf'e'g | %8
+ fe'd'f d'c'ec' db_ac agBg | =ABcd e=efg ef=d_e c_dcB | =ABcd e=efg ef=d_e c_dcB | %11
+ =Bc=de =ef=g_a _g=gef d_edc | =Bc=de =ef=ga _g=gef d_edc | _def_g a_b=bc' _d'=d'f'_e' c'=age | %14
+ _defg _a_b=bc' _d'c'e'd' _b=g=ed | cd=d_e =ef_g=g a=ac'b _gf_e_d | cB=Ac _GF=EF GFBA dc_ag | %17
+ fc_ed F=ABc def=g =abc'd' | e'f'=g'=a' b'c''d''e'' =e''f''_e''d'' c''b'a'b' | %19
+ _a'_g'f'=e' f'_e'd'c' b=ab_a _gf_ed | cdef gabc' bagf edce | g=d=e_e cG=Bc _dc=de =e_e=ef | %22
+ ag=bc' _d'c'=d'_e' f'e'=e'f' a'_b'a'=g' | _g'f''_e''g' e''_d''f'd'' c''_e'c''b' _d'b'a'c' | %24
+ a'g'bg' f'af'e' ge'd'f bafd | cde=e fga=a =g_a_e=e _Ae_ed | cde=e f_ga=a =g_a_e=e _Aed=B | %27
+ _B=Bd=d _e=e_g=g f_g_e=e _d=dB=A | _A=A=Bc _d=d=ef _e=e_d=d BcBA | _A=A_dc _BAgf _edc'_b _agfe | %30
+ dcba gfed cBag fedc | B=A_A=G =AG_GF =G_GF=E GFE_E | F=E_E=D =E_ED_D E=D_DC EDCB, | %33
+ =A,B,CD E=EFG _EF=DE C_DCB, | =A,B,CD E=EFG _EF=DE C_DCB, | CDEF GcBC B,CDE FcBG | %36
+ =EFGF B=Agf _edBF _EDB,F, | =A,B,CD E=EFG _EF=DE C_DCB, | =A,B,CD E=EFG _EF=DE C_DCB, | %39
+ =B,DE=E G_A_B=B _d_e=eg _a_b_e'_d' | =e'_e'=ba g_e=BA G_E=B, z4 z | z16 | z4 B,=A,GF DCB=A GFdc | %43
+ B=Agf dcb=a gfd'c' bag'f' | d'c'b'=a' g'f'd''c'' f''2 z2 [E=Af]4 | [Bb]4 z12 |] %46
+V:2
+ (3[F,,,F,,]2 [C,F,C]2 [C,F,C]2 (3:2:4[C,F,C]2 [C,F,C]2[Q:1/4=60] [C,F,C] z | %1
+[Q:1/4=160] B,,[F,D] z F,, B,,[F,D] z F,, | B,,[F,D] z F,, B,,[F,D] z F,, | %3
+ B,,[F,D] z F,, B,,[F,D] z F,, | B,,[E,G,E] z B,,, B,,[E,G,E] z B,,, | %5
+ B,,[E,G,E] z B,,, B,,[E,G,E] z B,,, | B,,[E,G,E] z B,,, B,,[E,G,E] z B,, | %7
+ =A,,[G,E] z =A,,, A,,[G,E] z A,, | B,,[F,D] z B,, D,[F,B,F] z D, | E,[=A,G] z E, D,[F,B,F] z D, | %10
+ E,[=A,G] z E, D,[F,B,F] z D, | F,[=B,_A] z F, E,[=G,C=G] z E, | F,[=B,A] z F, E,[=G,C=G] z E, | %13
+ F,[A,DA] z F, _G,[=A,C=A] z G, | F,[_A,D_A] z F, =E,[B,D=G] z E, | _E,[=A,C_G] z E, D,[F,B,F] z2 | %16
+ F,, z [C,F,=A,E]2 z4 | [B,,,B,,][D,F,D] z [F,,,F,,] [B,,,B,,][D,F,D] z [F,,,F,,] | %18
+ [B,,,B,,][D,F,D] z [F,,,F,,] [B,,,B,,][D,F,D] z [F,,,F,,] | %19
+ [B,,,B,,][D,F,D] z [F,,,F,,] [B,,,B,,][D,F,D] z [F,,,F,,] | %20
+ [B,,,B,,][E,G,E] z [F,,,F,,] [B,,,B,,][E,G,E] z [F,,,F,,] | %21
+ [=A,,,=A,,][E,G,E] z [E,,,E,,] [A,,,A,,][E,G,E] z [E,,,E,,] | %22
+ [=A,,,=A,,][E,G,E] z [E,,,E,,] [A,,,A,,][E,G,E] z [E,,,E,,] | %23
+ [_A,,,_A,,][E,CG] z [E,,,E,,] [A,,,A,,][E,CG] z A,,, | A,,[F,DF] z A,,, A,,[F,D] z A,,, | %25
+ A,,[E,G,C] z A,,, A,,[=E,D] z A,,, | A,,[_E,G,C] z A,, D,[=E,D] z =G,, | %27
+ _G,,[_G,B,=E] z _G,,, G,,[G,=B,=D] z F,, | =E,,[=E,A,=D] z =E,,, E,,[E,=A,C] z [E,,,E,,] | %29
+ [F,,,F,,] z [C,F,_E]2 [B,,F,_D]2 [_E,B,G]2 | [A,,G,C]2 [D,A,F]2 [G,,D,B,]2 [C,G,E]2 | %31
+ [D,F,B,D]2 [E,G,B,C]2 z2 G,/F,/=E,/_E,/ | %32
+ F,/=E,/_E,/=D,/ =E,/_E,/D,/_D,/ E,/=D,/_D,/C,/ E,/D,/C,/B,,/ | %33
+ _E,,[=A,,G,] z E,, _D,,[B,,F,] z D,, | E,,[=A,,G,] z E,, D,,[B,,F,] z D,, | %35
+ E,,[B,,G,] z E,, F,,[D,B,] z F,,, | F,,[E,=A,] z F,, B,,[F,D] z D,, | %37
+ E,,[=A,,G,] z E,, D,,[B,,F,] z D,, | E,,[=A,,G,] z E,, D,,[B,,F,] z D,, | %39
+ [E,,=B,,G,]2 z2 [E,G,=B,G]2 [D,G,_B,=E]2 | _E4 z3/2 A,/ G,/_E,/=B,,/A,,/ | %41
+ [=E,,,=E,,]/[F,,,F,,]/[_B,,,_B,,]/[=A,,,=A,,]/ [G,,,G,,]/[F,,,F,,]/[D,,D,]/[C,,C,]/ [B,,,B,,]/[A,,,A,,]/[G,,G,]/[F,,F,]/ [D,,D,]/[C,,C,]/[B,,_B,]/[A,,=A,]/ | %42
+ [G,,G,]/[F,,F,]/[D,D]/[C,C]/ B,,/=A,,/G,/F,/ D,/C,/B,/=A,/ G,/F,/D/C/ | %43
+ B,/=A,/G/F/ D/C/B/=A/ G/F/d/c/ B/A/g/f/ | d/c/b/=a/ g/f/d'/c'/ f' z [F,,F,]2 | B,,,/ z15/2 |] %46
+V:3
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | [=B,,G,] z3 | x4 | x4 | x4 | x4 | [B,,F,D] z3 |] %46

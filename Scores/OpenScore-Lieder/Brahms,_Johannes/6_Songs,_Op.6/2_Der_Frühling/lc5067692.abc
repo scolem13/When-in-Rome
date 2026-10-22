@@ -1,0 +1,81 @@
+X:1
+T:6 Songs, Op.6
+T:Der Frühling
+C:Johannes Brahms
+Z:Johann Baptist Rousseau
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=160
+M:6/8
+I:linebreak $
+K:E
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 treble 
+V:5 treble 
+V:4 bass 
+V:6 bass 
+V:1
+"^Con moto" z2 z | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z2 z z2 F |!p! G3 z2 A | ^A3 z2 B | e3 B3 | %12
+w: ||||||||1. Es|lockt und|säu- selt|um den|
+w: ||||||||2. Es|zieht ein|We- hen|sanft und|
+w: ||||||||3. Es|weht der|Wind den|Blü- ten-|
+ G3 z2 B | G3 z2 A | ^A3 z2 B | d3 c3 | B3 z2 z | z2 z z2!p! B | B3- B2 B |!<(! B3- B2 c!<)! | %20
+w: Baum: wach|auf aus|dei- nem|Schlaf und|Traum,|der|Win- * ter|ist _ zer-|
+w: lau, ge-|schau- kelt|in dem|Wol- ken-|bau|wie|Him- * mels-|duft _ her-|
+w: staub von|Kelch zu|Kelch, von|Laub zu|Laub,|durch|Ta- * ge|und _ durch|
+ =d3 A2 z | z2 z z2 =d | =d3- d2 c | =d3- d2 e | =f3 =c2 z | z2 z z2!p! A | =G2 G!<(! _A2 A | %27
+w: ron- nen,|der|Win- * ter|ist _ zer-|ron- nen.|Da|schlägt er frisch den|
+w: nie- der,|wie|Him- * mels-|duft _ her-|nie- der.|Da|wer- den al- le|
+w: Näch- te,|durch|Ta- * ge|und _ durch|Näch- te.|Flieg|auch, mein Herz, und|
+ =A2 A _B2!<)!!p! ^F |"^cresc." =G2 G ^G2 G | A2 A ^d3- | d6- | d2 z!f! (e2 d) | d2 c c2 B | %33
+w: Blick em- por, die|Au- gen se- hen|hell her- vor|_|* ans _|gold- ne Licht der|
+w: Blu- men  wach, da|tönt der Vö- gel|schmel- zend Ach,|_|* da _|kehrt der Früh- ling|
+w: flat- tre fort, such|hier ein Herz und|such es dort,|_|* du _|triffst viel- leicht das|
+ (B2 ^A) A2 z | z6 | z2 z (B2 ^B) | (.^B3 .c3 | .d3 .e3) | (e6 | d6) | e3 :| z2 z | z6 | z6 | z6 | %45
+w: Son- * nen,||ans _|gold- ne|Licht der|Son-||nen.|||||
+w: wie- * der,||da _|kehrt der|Früh- ling|wie-||der.|||||
+w: Rech- * te,||du _|triffst viel-|leicht das|Rech-||te.|||||
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %54
+w: |||||||||
+w: |||||||||
+w: |||||||||
+V:2
+ (e2 d) | (d2 c) (c2 B) | (B2 ^A) (f2 e) | (e2 d) (d2 c) | (c2 B) (c2 B) | (B2 A) (B2 A) | %6
+ (A2 G)"^sost." (G2 F) | (F2 =F) (F2 E) | (E3 D2) z | GB,E AB,E!p! | ^AB,E BB,E | BEG (!>!g2 f) | %12
+ (f2 e) (e2 B) | GB,E AB,E | ^AB,E BB,E | BDF (!>!f2 e) | (e2 d) (d2 c) | B2 x4 | %18
+[I:staff +1] (=D,F,B, =G,B,!<(![I:staff -1]E | =DFB)!<)!!f! (!>!f2 e) | (e2 =d)!>(! (d2 c) | %21
+ =dA!>)!F =D[I:staff +1]A,F, | (=F,A,[I:staff -1]=D _B,D!<(!=G | =FA=d)!<)!!f! (!>!a2 =g) | %24
+ (=g2 =f) (f2 e) | (=f2 =c) (c2 A) | =G3 _A3 | =A3 _B3 | =G3 _A3 | =A3 ^d3 | ^d3 f3 | baf (e2 d) | %32
+ (d2 c) (c2 B) | (B2 ^A) (!>!f2 e) | (e2 d) (d2 c) | (c2 B) (B2 ^B) | (.^B3 .c3 | .d3 .e3) | %38
+ ([EF=A]6 | [DF]6) | E2 z :| (e2!<(! d) | (d2 c) (f2 e) | (e2 d)!<)!!f! (b2 =a) | (a2 g) (g2 f) | %45
+ (f2 e) (B2 ^B) | (.^B3 .c3) | z2 z (.F3 | .G3 .=A3) | z2 z D3 | E6- | E6- | E6- | E6 |] %54
+V:3
+ eEB | dEA cEG | BEF fFc | eFB dF^A | cFB cCG | BCF BB,F | A"_dim."B,E GA,C | FA,=C =F=G,C | %8
+ EF,-A, [F,A,]2 x | x6 | x6 | x3 gAd | fGB eEG | x6 | x6 | x3 fFc | eFB dE^A | %17
+ BFD B,[I:staff +1]F,D, | x6 |[I:staff -1] x3 f=Gc | eFA =d=GA | x6 | x6 | x3 a_Be | =gA=c =f=G_B | %25
+ =f=FA =c=CF | =G=CE _A!<(!C=F | A=C!<)!^F _BCF | =G=CE _AC=F | A=C^F dFA | dFA fAd | x x x eEB | %32
+ dEA cEG | BEF fFc | eFB dE^A | cFB BG^B | F6 | =G6 | x6 | x6 | x3 :| eEB | dEA fFc | eFB bBf | %44
+ aBe gAd | fBe BG^B | F6 | E6 | E6 | A,6 | [A,C]6 | [G,B,]3 [F,A,]3 | [E,G,]6- | [E,G,]6 |] %54
+V:4
+!mf! ([G,,G,]3 | [A,,A,]3 [B,,B,]3 | [C,C]3) ([^A,,^A,]3 | [B,,B,]3 [C,C]3 | [D,D]3) (^E,3 | %5
+ F,3 D,3 | E,3)!>(! A,,3- | A,,3 ^A,,3!>)! |!p! B,,3- [B,,,B,,]2 z | ([E,,E,]3 [F,,F,]3 | %10
+ [^^F,,^^F,]3 [G,,G,]3) | [B,,G,]3 [B,,B,-]3 | [E,B,]6 | ([E,,E,]3 [F,,F,]3 | %14
+ [^^F,,^^F,]3 [G,,G,]3) | [^F,,^F,]3 [^A,,F,^A,]3 | ([B,,F,-B,]3 [C,F,C]3) | [D,F,]3 z2 z | %18
+!p! B,,3- [B,,E,]3 | [B,,B,]3 [A,,A,-]3 | ([=D,A,]3 [E,A,-]3) | [F,A,]3 z2 z |!p! =D,3- [D,=G,]3 | %23
+ [=D,=D]3 [=C,=C-]3 | ([=F,=C]3!>(! [=G,C-]3) | [A,C]3!>)!!p! z2 z | [E,=G,]3 [=F,_A,]3 | %27
+ [^D,=A,]3 [E,_B,]3 |!p! [E,=G,]3"^cresc." [=F,_A,]3 | [^D,=A,-]3 [^F,A,]3 |!f! [^F,A,]6 | %31
+ [B,,,B,,]2 z!f! ([G,,E,G,]3 | [A,,E,A,]3 [B,,E,B,]3 | [C,E,C]3) ([^A,,F,^A,]3 | %34
+ [B,,F,B,]3 [C,F,C]3 | [D,F,D]3) [E,E]3 | [A,E]6 | [^A,C]6 | (.F,3 .G,3 | .A,3 .B,3) | [E,G,]2 z :| %41
+ ([G,,E,G,]3 | [A,,E,A,]3) ([^A,,F,^A,]3 | [B,,F,B,]3) ([D,B,D]3 | [E,B,E]3 [F,B,F]3 | %45
+ [G,B,G]3) [E,E]3 | [A,E]6 |!p! [^A,C]6 | B,6 |!>(! [B,,F,]6 | [E,,E,]6-!>)! | [E,,E,]6 | %52
+ [E,,B,,]6- | [E,,B,,]6 |] %54
+V:5
+ x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x ^F,2 x x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %18
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | x6 | x3 :| x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %54
+V:6
+ x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | =C,6 | =C,6 | =C,6 | =C,6 | B,,6 | x6 | x6 | x6 | x6 | x6 | %36
+ x6 | x6 | B,,6- | B,,6 | x3 :| x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %54

@@ -1,0 +1,52 @@
+% Prélude 9: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2168
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Prélude 9
+C:Frederic Chopin (1810-1849)
+%%score ( 1 2 3 ) ( 4 5 )
+L:1/16
+Q:1/4=30
+M:4/4
+I:linebreak $
+K:E
+V:1 bass nm="1"
+V:2 bass 
+L:1/8
+V:3 bass 
+L:1/4
+V:4 bass nm="1"
+V:5 bass 
+L:1/4
+V:1
+ B,4 B,3 z B,4 C4 | C4 D3 z D4 D4 | E4 E3 z E4 D3 z | D4 D3 z C4 C3 z | B,4 B,3 z B,4 B,3 z | %5
+ =C4 =D4 E4 E3 z | E4 E3 z =F4 =G4 | (3:2:2^G4 [D^G,=C]2 D3 z C3 z B,3 z | %8
+ B,4 B,4 (3B,2B,,2[E,G,]2 =C4 | =C4 C4 (3C2=C,2[=F,A,]2 =D3 z | =D4 D4 (3D2=D,2[=G,B,]2 ^D4 | %11
+ (3E2E,2[^G,B,]2 E4 E z7 |] %12
+V:2
+ (3[E,G,]B,,[E,G,] (3[D,F,]B,,[D,F,B,] (3[E,G,]B,,[E,G,] (3[E,A,]C,[E,A,] | %1
+ (3[F,A,]C,[F,A,] (3[F,A,]C,[F,A,D] (3[F,B,]D,[F,B,] (3[G,B,]D,[G,B,] | %2
+ (3[G,B,]E,[G,B,] (3[F,C]E,[F,CE] (3[F,B,]E,[F,B,] (3[F,B,]D,[F,B,D] | %3
+ (3[G,B,]E,[G,B,] (3[F,^A,]E,[F,A,C] (3[F,=A,]C,[F,A,] (3[F,A,]B,,[F,A,B,] | %4
+ (3[E,G,]B,,[E,G,] (3[D,F,]B,,[D,F,B,] (3[=D,=G,]B,,[D,G,] (3[D,G,]B,,[D,G,B,] | %5
+ (3=G,=C,G, (3[G,^A,]=D,[G,A,] (3[G,A,]E,[G,A,] (3[G,=C]E,[G,CE] | %6
+ (3[=A,^C]E,[A,C] (3[^A,C]E,[A,CE] (3[A,C]=F,[A,C] (3[A,C]=G,[A,C] | %7
+ (3[G,=C]D, z (3[=G,C]D,[G,^A,^C] (3^G,D,[G,B,] (3[D,G,]B,,[D,=A,B,] | %8
+ (3[E,G,]B,,[E,G,] (3[D,F,]B,,[D,F,] B,2 (3[E,A,]=C,[E,A,] | %9
+ (3[=F,A,]=C,[F,A,] (3[E,=G,]C,[E,G,] =C2 (3[F,^A,]=D,[F,A,=D] | %10
+ (3[=G,^A,]=D,[G,A,] (3[^F,=A,]D,[F,A,] =D2 (3[F,B,]^D,[F,B,] | E2 (3[G,B,]E,[G,B,] [E,G,B,E]4 |] %12
+V:3
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 (3:2:2[E,G,]/ z z | z2 (3:2:2[=F,=A,]/ z z | %10
+ z2 (3:2:2[=G,B,]/ z z | (3:2:2[G,B,]/ z z3 |] %12
+V:4
+ E,,4 B,,,4 E,,4 A,,4 | G,, z7 B,,,4 B,,4 | %2
+ B,, z3 A,,4 A,, z2 [^A,,,B,,,C,,B,,,] (3:2:1[C,,B,,,C,,B,,,C,,B,,,]2[C,,B,,,C,,B,,,C,,B,,,] (3:2:1z [A,,,B,,,] | %3
+ C,,4 F,,2>F,,2 D,,2>[=D,,^D,,E,,D,,]2 (3:2:1[E,,D,,E,,D,,E,,D,,]2[E,,D,,E,,D,,E,,D,,] (3:2:1z [E,,F,,] | %4
+ E,,4 B,,,4 =G,,,4 =G,,4 | =F,, z3 =D,,4 =C,,4 [C,,=C,]4 | %6
+ [^A,,,^A,,] z3 [=G,,,=G,,]4 [G,,,G,,] z3 [E,,,E,,]4 | [D,,,D,,]8 ^G,,,4 B,,,4 | %8
+ [E,,,E,,]4 B,,,4 E,,4 [A,,,A,,]4 | [A,,,A,,] z3 [=C,,,=C,,]4 [=F,,,=F,,]4 [^A,,,^A,,]4 | %10
+ [^A,,,^A,,] z3 [=D,,,=D,,]4 [=G,,,=G,,]4 [B,,,B,,]4 | [B,,,B,,E,,,] z3 B,,,12 |] %12
+V:5
+ x4 | F,,2 z2 | C,, z B,,,3/4 z3/4 [C,,B,,,C,,B,,,C,,B,,,]/4 z/4 | z7/2 [E,,D,,C,,D,,]/4 z/4 | x4 | %5
+ E,, z3 | [=A,,,=A,,] z [=F,,,=F,,] z | x4 | x4 | [=F,,,=F,,] z3 | [=G,,,=G,,] z3 | %11
+ E,,2 [E,,,E,,]2 |] %12

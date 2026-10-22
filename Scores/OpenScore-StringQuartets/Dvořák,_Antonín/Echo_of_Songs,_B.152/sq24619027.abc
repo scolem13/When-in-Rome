@@ -1,0 +1,85 @@
+X:1
+T:Echo of Songs, B.152
+C:Antonín Dvořák
+Z:OpenScore (CC0)
+%%score [ ( 1 2 ) | 3 | ( 4 5 ) | ( 6 7 ) ]
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Violin 1"
+V:2 treble 
+L:1/4
+V:3 treble nm="Violin 2"
+V:4 alto nm="Viola"
+L:1/16
+V:5 alto 
+L:1/4
+V:6 bass nm="Violoncello"
+V:7 bass 
+L:1/4
+V:1
+"^III. V té sladké moci očí tvých.\n(When thy sweet glances on me fall.)""^Andante con moto" z (!tenuto!b2!<(! !tenuto!g2) !tenuto!e2 !tenuto!d- | %1
+ d!<)! (!tenuto!e2!>(! !tenuto!a2) !fermata!e'2!>)!!pp! !fermata!d' | %2
+ z!pp! (b2 g)!<(! (g2 !tenuto!g!tenuto!g)!<)! |!>(! (a2 ga) b3!>)! z | z (b2 g)!<(! (g2 fg)!<)! | %5
+!>(! (a2 e>d') d'3!>)! z |$ z2 d'2 ((^c'3 b)) |!<(! (f'>e') (.d'.^c')!<)! d'4 | z2!f! a2 (b3 g) | %9
+!>(! (a>g) (f>g)"^rit." (a3!>)!!pp! c') |[Q:1/4=92]"^in tempo" z (b2 g) (g2 fg) | ((a2 ga)) b3 z |$ %12
+ z (b2 g) (g2!<(! fg) | (a2 e>!<)!d')!>(! d'4!>)! | z2!pp! (_d'2 _e'3 d') | %15
+!<(! ((_g'>=f'_e'_b))!<)!!>(! _c'4!>)! | z2!pp! =c'2 (c'3 =g) |$"^rit."!>(! (g=f) (.e.f) g3!>)! z | %18
+[Q:1/4=86]"^poco animato" z2!p! !tenuto!g2 z2!<(! (!tenuto!g!tenuto!g) | %19
+ !tenuto!_b!tenuto!b!<)! z2 z2 (!tenuto!b!tenuto!b) |$ _d'3- .d' c'2 _b2 | %21
+!f! (_b>_a) a2 z2!>(! (a>=f')!>)! |"_dim." (=f'3 _b) b3 b |!>(! (_b2 _ag) !fermata!_e'4!>)!!pp! |$ %24
+[Q:1/4=92]"^Tempo I" z2!pp! (=d'2 c'3 =b) | (a2 g^f) b3 z | z!pp! (b2 g) (g2 !tenuto!f!tenuto!g) | %27
+ (a2 ga b3) z | z (!>!B2 G) (G2 FG) |$ (A2!>(! E>d) d4-!>)! |"^poco a poco ritard." d2 z2 z4 | z8 | %32
+ z8 | z!ppp! (B,2 ^A,2 B,2 G,- | G,3 B,-) B,4- | B,2 z2 z4 |] %36
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | %19
+ x4 |$ x4 | x4 | x4 | x4 |$ x (=d =e d) | c2 x2 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 | %35
+ x4 |] %36
+V:3
+!pp!!<(! B8 | !fermata!c8!>)!!>(!!<)! |!pp! (g4 d4) | (e4 [Gd]4) | (g4!<(! d4)!<)! | %5
+!>(! (e4!>)! [dg]4) |$ [df]6!mp! [df]2 |!<(! (e2 .f.g)!<)! (f2 gd) | (a2!f! e2) (d2 ^c2) | %9
+!>(! (dAFG) (A=cd!>)!!pp!a) |!pp! (g4 d4) | (e4 [dg]4) |$ (g4!<(! d4) | e4!<)!!>(! (Bd (3gdB)!>)! | %14
+!pp! (.[=F_d].[Fd].[Fd].[Fd]) (.[Fd].[Fd].[Fd].[Fd]) | %15
+!<(! (._d.d._B._G)!<)!!>(! .[_C_A].[CA].[CA].[CA]!>)! |!pp! ([=C=A]4 =G4) |$ %17
+ (G=F) (.E.F) (G_BC[_B,G]) |!p!"^sul G" (=F3 E) E2 z!<(! (E | _A3 G)!<)! G2 z G |$ %20
+ (c2 _B2) (c2 _d2) |!f! _A4!>(! (_a2 =f2)!>)! |"_dim." _e2 ((=d=f)) (e2 d2) | %23
+!>(! (_e2 d2) !fermata!g4!>)!!pp! |$!pp! (g=b=d'b) (a2 g2) | (^f2 =ed) (b a2 g/f/) | %26
+!pp! (g'2 f'2 e'2 d'2) | (a4 d'3 b) | (g2 f2 e2 d2) |$ A4 (d3 B) | (g2 d2 a3 g) | z (b2 g2 e2 d-) | %32
+ d (B2 A2 G2 D) |!ppp! D8- | (D2 G2 !open!d4-) | d2 z2 z4 |] %36
+V:4
+!pp!!<(! [GB]16 | [GA]8!>(!!<)! !fermata![FA]8!>)! |!pp! (e8 B8) | (c8 [GB]8) | (e8!<(! B8)!<)! | %5
+!>(! (c8!>)! [GB]8) |$ [FB]12 B4 |!<(! (B4 .B2.B2)!<)! (d8 | [Fd]4)!f! (B4 A4 G4) | %9
+!>(! F4 (([E=c]4 [Dc]6))!>)!!pp! F2 |!pp! (e8 B8) | (c8 [GB]8) |$ (e8!<(! B8) | %13
+ (c8!<)!!>(! [GB]8)!>)! |!pp! (._A2.A2.A2.A2) (.A2.A2.A2.A2) | %15
+!<(! (._B2.B2._G2._E2)!<)!!>(! (_D2_D,2).D,2.D,2!>)! |!pp! =F,12 =E,4 |$ [D,_B,]8 ([C,B,]6 E,2) | %18
+!p! (G,_B,G,B, G,B,G,B, G,B,G,B, G,B,G,B,) | z"_cresc." (_D_B,D!<(! B,DB,D B,DB,D B,DB,D)!<)! |$ %20
+ z (_F_DF DFDF) (DFDF DFDF) |!f! [_D=F]16!>)!!>(! |"_dim." (_B,4 _A,4) (=G,4 =F,4) | %23
+!>(! (G,4 =F,4) (_E,4!>)! !fermata!_D,4) |$!pp! (=D,2G2=A2B2) (c4 B4) | (A4 G2F2) (G2d2c2B2) | %26
+!pp! [GB]8 (e4 d4) | ([G-e]8 [Gg]8) | (G4 F4 E4 D4) |$ (E8 D4 F4) | (A6 B2 c4 !open!d4) | %31
+ d8 [G,G]8- | [G,G]8 B,8 | z2!ppp! (!tenuto!D,4 !tenuto!D,4 !tenuto!D,4 D,2-) | D,6 D,2- D,8- | %35
+ D,4 z4 z8 |] %36
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | %19
+ x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x2 G2 | x4 | (B,2 G,2) |$ G,2- G,2 | G,4- | G,2 x2 | x4 | %33
+ x4 | x4 | x4 |] %36
+V:6
+ z8 | z8 | z2"^pizz."!pp! !arpeggio![E,,B,,G,] z z2 !arpeggio![B,,G,D] z | %3
+ z2 !arpeggio![C,G,E] z z2 !arpeggio![G,,D,B,] z | %4
+ z2 !arpeggio![E,,B,,G,] z z2"_cresc." !arpeggio![B,,G,D] z | %5
+ z2!>(! !arpeggio![C,G,E] z!>)! z2 !arpeggio![G,,D,D] z |$ z2!f! [F,D] z z2"^arco" F2 | %7
+!<(! (G2 .F.E)!<)! (B,2 _B,2) | A,2!f! (G2 F2 E2) |!>(! (D2 A,2) (F,E,F,!>)!!pp!D,) | %10
+ z2!pp!"^pizz." !arpeggio![E,,B,,G,] z z2 !arpeggio![B,,G,D] z | %11
+ z2 !arpeggio![C,G,E] z z2 !arpeggio![G,,D,B,] z |$ %12
+ z2 !arpeggio![E,,B,,G,] z!<(! z2 !arpeggio![B,,G,D] z | %13
+ z2 !arpeggio![C,G,E]!<)! z z2!p!!>(! !arpeggio![G,,D,B,] z!>)! |"^arco" z!pp! (_C2 .C) z (C2 .C) | %15
+!<(! (_B,2 _D>_G,)!<)!!>(! (G,2 =F,2)!>)! |!pp! =C,8 |$ (C,2 G,,2) (E,,D,,E,,C,,) |!p! _D,,8 | %19
+!<(! _F,,8!<)! |$ (=G,,4 G,4) | _C8!>)!!>(! |[K:tenor]"_dim." (_A2 =F=D) (_B2 A2) | %23
+!>(! (G2 _A2) (c2!>)!!pp! !fermata!_B2) |$!pp! (=B2 D6) |[K:bass] (D4 G4) |!pp! (=E2 D2 C2 B,2) | %27
+ C4 (G,2 B,G,) | (E,2 D,2 C,2 B,,2) |$ C,4 (B,2!pp! DB,) | (G2 D4 B,2) | [G,,B,]8- | %32
+ [G,,B,]4 [G,,D,]4 |!ppp! G,,8- | G,,3 G,,- G,,4- | G,,2 z2 z4 |] %36
+V:7
+ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | %19
+ x4 |$ x4 | x4 |[K:tenor] x4 | x4 |$ x4 |[K:bass] x4 | x4 | x4 | x4 |$ x2 G,,2 | G,,4- | x4 | x4 | %33
+ x4 | x4 | x4 |] %36

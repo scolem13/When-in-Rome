@@ -1,0 +1,82 @@
+X:1
+T:Liederkreis, Op.39
+T:In der Fremde
+C:Robert Schumann
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=72
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:5 treble 
+V:3 bass 
+L:1/16
+V:4 bass 
+L:1/4
+V:6 bass 
+L:1/4
+V:1
+"^Nicht schnell." z4 z2!p! F G | A3 A A2 G F | G3 G G2 G2 | A2 A A({GA} (B2) A) G | F4 z2!pp! F G | %5
+w: Aus der|Hei- math hin- ter den|Bli- tzen roth da|kom- men die Wol- * ken|her. A- ber|
+ A2 A A A2 G F | A3 G G2 G2 | A2 A A({GA} (B2) A) G | F4 z2 z F | B2 F F B2 E E | c3 B B2 B2 | %11
+w: Va- ter und Mut- ter sind|lan- ge todt, es|kennt mich dort Kei- * ner|mehr. Wie|bald, ach wie bald kommt die|stil- le Zeit, da|
+ c4 B3 B | e6 d2 | c4 B3 B | ^A4 z2 (Bc) | d3 d d2 c B | d4 c4 | d4 c3 c | (B4 =A2) z A | %19
+w: ru- he ich|auch, da|ru- he ich|auch und *|ü- ber mir rauscht die|schö- ne|Wald- ein- sam-|keit, _ die|
+ A3 A G2 G G | F4 z2 F2 | =G3 G{GA} B2 A G | F4 z2 F2 | =G3 G d2 B G | F4 z4 | z8 | z8 | %27
+w: schö- ne Wald- ein- sam-|keit, und|Kei- ner kennt mich mehr|hier, und|Kei- ner kennt mich mehr|hier.|||
+ !fermata!z8 |] %28
+w: |
+V:2
+!p! x4 !>!F x x2 x4 !>!F x x2 | x4 !>![FA] x x2 x4 !>![FA] x x2 | x4 !>![CG] x x2 x4 !>![CG] x x2 | %3
+ x4 !>![CFA] x x2 x4 !>![C^EG] x x2 | x4 !>![CF] x x2!pp! x4 [CF] x x2 | x4 [CF] x x2 x4 F x x2 | %6
+ x4 [^EA] x x2 x4 [EG] x x2 | x4 [CFA] x x2 x4 [C^EG] x x2 | x4 [CF] x x2 x4 [CF] x x2 | %9
+ x4!<(! (B4!<)!!>(! f4!>)! B4- | (B4)!<(! B4!<)!!>(! f4!>)! B4- | B4) c8 B4- | B4 (e8 d4) | %13
+ (c8 B8 | ^A12) (B2c2) | x4 !arpeggio![FBd] x x2 x4 !arpeggio![FBd] x x2 | %16
+ x4 !arpeggio![=G^Ad] x x2 x4 !arpeggio![GAc] x x2 | x4 [FBd] x x2 x4 [F^Ac] x x2 | %18
+ x4 [DFB] x x2 x4 [DF=A] x x2 | x4 [FA] x x2 x4 [B,C^EG] x x2 | x4 [CF] x x2 x4 [CF] x x2 | %21
+ x4 [D=G] x x2 x4 [D^E] x x2 | x4 [CF] x x2 x4 [CF] x x2 | x4 [D=G] x x2 x4 [D^E] x x2 | %24
+ z4 (F4 d4 B2=G2 | F4) (C4 F4 D2B,2 | C4) (C4 F4 C4) | !fermata![A,F]16 |] %28
+V:3
+!ped! (F,,C,F,A,)[I:staff -1] (F[I:staff +1]A,F,C,) (F,,C,F,A,)[I:staff -1] (F[I:staff +1]A,F,C,) | %1
+ (F,,C,F,A,)[I:staff -1] (F[I:staff +1]A,F,C,) (F,,C,F,A,)[I:staff -1] (F[I:staff +1]A,F,C,)!ped-up! | %2
+ (C,,C,^E,G,)[I:staff -1] (C[I:staff +1]G,E,C,) (C,,C,E,G,)[I:staff -1] (C[I:staff +1]G,E,C,) | %3
+ (F,,C,F,A,)[I:staff -1] (C[I:staff +1]A,F,C,) (C,,C,^E,G,)[I:staff -1] ([B,C][I:staff +1]G,E,C,) | %4
+ (F,,C,F,A,)[I:staff -1] (C[I:staff +1]A,F,C,) (F,,C,F,A,)[I:staff -1] (C[I:staff +1]A,F,C,) | %5
+ (F,,C,F,A,)[I:staff -1] (C[I:staff +1]A,F,C,) (^B,,^D,F,A,)[I:staff -1] (^D[I:staff +1]A,F,D,) | %6
+ (B,,=D,^E,A,)[I:staff -1] (=D[I:staff +1]A,E,D,) (B,,D,E,D)[I:staff -1] (=E[I:staff +1]DE,D,) | %7
+ (A,,C,F,A,)[I:staff -1] (C[I:staff +1]A,F,C,) (C,,C,^E,G,)[I:staff -1] (B,[I:staff +1]G,E,C,) | %8
+ (F,,C,F,A,)[I:staff -1] (C[I:staff +1]A,F,C,) (F,,C,F,A,)[I:staff -1] (C[I:staff +1]A,F,A,) | %9
+ (^D,A,B,F)[I:staff -1] (B[I:staff +1]FB,A,) (E,A,B,E)[I:staff -1] (B[I:staff +1]EB,A,) | %10
+ (F,A,B,^D)[I:staff -1] (B[I:staff +1]DB,A,) (^D,A,B,F)[I:staff -1] (B[I:staff +1]FB,A,) | %11
+ (E,A,CE)[I:staff -1] (c[I:staff +1]ECA,) (D,G,B,E)[I:staff -1] (B[I:staff +1]EB,G,) | %12
+ (C,E,A,E) z (EA,E,) (C,A,E[I:staff -1]A)[I:staff +1] (F,A,D[I:staff -1]A) | %13
+[I:staff +1] (E,A,C[I:staff -1]=G) (AG[I:staff +1]EA,) (D,=G,B,E)[I:staff -1] (G[I:staff +1]EB,G,) | %14
+ (C,F,^A,[I:staff -1]E) (FE[I:staff +1]A,F,) (F,,F,A,E)[I:staff -1] (F[I:staff +1]EA,F,) | %15
+ (B,,F,B,D)[I:staff -1] (F[I:staff +1]DB,F,) (D,F,B,D)[I:staff -1] (F[I:staff +1]DB,F,) | %16
+ (E,=G,^A,D)[I:staff -1] (=G[I:staff +1]DA,G,) (E,G,A,C)[I:staff -1] (G[I:staff +1]CA,G,) | %17
+ (D,F,B,D)[I:staff -1] (F[I:staff +1]DB,F,) (F,,F,^A,C)[I:staff -1] (E[I:staff +1]CA,F,) | %18
+ (B,,D,F,B,)[I:staff -1] (D[I:staff +1]B,F,D,) (^B,,^D,F,=A,)[I:staff -1] (^D[I:staff +1]A,F,D,) | %19
+ (C,F,A,C)[I:staff -1] (F[I:staff +1]CA,F,) (C,,C,^E,G,)[I:staff -1] (B,[I:staff +1]G,E,C,) | %20
+ (F,,C,F,A,)[I:staff -1] (C[I:staff +1]A,F,C,) (F,,=E,F,^A,)[I:staff -1] (C[I:staff +1]A,F,E,) | %21
+ (F,,D,=G,B,)[I:staff -1] (D[I:staff +1]B,G,D,) (F,,D,^E,B,)[I:staff -1] (D[I:staff +1]B,E,D,) | %22
+ (F,,C,F,^A,)[I:staff -1] (C[I:staff +1]A,F,C,) (F,,=E,F,A,)[I:staff -1] (C[I:staff +1]A,F,E,) | %23
+ ((F,,D,=G,B,))[I:staff -1] ((D[I:staff +1]B,G,D,)) ((F,,D,^E,B,))[I:staff -1] ((D[I:staff +1]B,E,D,)) | %24
+ (F,,C,F,^A,)[I:staff -1] (C[I:staff +1]A,F,C,) (F,,D,^E,B,)[I:staff -1] ([D^E][I:staff +1]B,E,D,) | %25
+ (F,,C,F,^A,)[I:staff -1] (C[I:staff +1]A,F,C,) (F,,D,F,B,)[I:staff -1] (D[I:staff +1]B,^E,D,) | %26
+ (F,,C,F, ^A,)[I:staff -1] (C^A,[I:staff +1]F,C,)[I:staff -1] (FA,[I:staff +1]F,C,)[I:staff -1] CA,[I:staff +1]F,-C,- | %27
+ !fermata![F,,C,F,]16 |] %28
+V:4
+ x4 | x4 | x4 | x4 | x4 | x2 ^B,,2 | =B,,2 B,,2 | A,,2 x2 | x4 | ^D, x =E, x | F, x ^D, x | %11
+ E, x =D, x | C,2 C, F, | E,2 D,2 | C,2 x2 | x4 | x4 | x4 | x4 | x2 x2 | x2 x2 | x2 x2 | x2 x2 | %23
+ x2 x2 | x2 x2 | x2 x2 | x3 x/ F,/ | x4 |] %28
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x6 x/ ^A,3/2- | x8 |] %28
+V:6
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | F,,4 | x4 |] %28

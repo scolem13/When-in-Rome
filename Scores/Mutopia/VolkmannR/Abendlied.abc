@@ -1,0 +1,37 @@
+% Abendlied: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=987
+% Licence: Creative Commons Attribution 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Abendlied
+C:Robert Volkmann (1815–1883)
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 bass nm="men:Tenor" snm="V"
+V:2 bass 
+V:3 treble nm="women:Sopran" snm="V"
+V:4 treble 
+V:1
+ x6 [G,E,]2 | [G,E,]3 [G,E,] [G,E,]2 [B,E,]2 | [=A,E,]4 [B,E,]2 [G,E,]2 | %3
+ [_A,_A,,]2 [A,C,]2 [A,B,,]2 [A,A,,]2 | [G,E,]6 [G,E,]2 | [F,B,,]3 [B,D,] [B,F,]2 [=A,F,]2 | %6
+ [=A,D,]4 [B,G,]2 [B,G,]2 | [B,F,]2 ED [CF,]2- z [CF,] | [CF,] [B,B,,]4 z2 [F,B,,]- | %9
+ [F,B,,] [G,B,,]3 [G,B,,] [A,B,,]2 [A,B,,]- | [A,B,,] [A,B,,]4 [G,B,,]2 [G,B,,]- | %11
+ [G,B,,] [F,C,]2 [F,C,]2 [F,B,,]2 [F,=A,,]- | [F,A,,] [F,B,,]4 z2 [B,B,,]- | %13
+ [B,B,,] [B,E,]3 [EE,] [_DB,]2 [DB,]- | [DB,] [CA,]4 [EA,]2 z | %15
+ [E=A,] [EB,]2 =D C [DB,,]2- [DB,,] | [FD,] [EE,]6 [DB,]- | [DB,] [EE,]3 [EE,] [_DG,,]2 [DG,,]- | %18
+ [DG,,] [CA,,]4 [EA,,]2 z | [E=A,,] [EB,,]2 =D C [DB,]2- [DB,] | [FB,] [EE,]4 x3 |] %21
+V:2
+ x2 x6 | z8 | z8 | z8 | z8 | z8 | z8 | z2 F,2 z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z3 B,2 z3 | %16
+ z8 | z8 | z8 | z3 B,,2 z3 | z4 z x3 |] %21
+V:3
+ x6 [BE]2 | [BE]3 [BE] [BE]2 [BG]2 | [c_G]4 [B=G]2 [BE]2 | [cE]2 [eE]2 [dE]2 [cE]2 | [BE]6 [BE]2 | %5
+ [BD]3 [BF] [cF]2 [cF]2 | d3 c [BG]2 [c=E]2 | [dF]2 cd [_e=A]2- z [eA] | [=AE] [BD]4 z2 [BD]- | %9
+ [BD] [c=E]3 [cE] [cF]2 d | c B4 [B_E]2 [BE]- | [BE] [BE]2 [=AE]2 [GE]2 [FE]- | [FE] [BD]4 z2 B | %13
+ A [GE]3 [BG] [eG]2 f | e [eA]4 [cA]2 z | [cF] [BF]2 [BF]2 [cA]2- [cA] | [BA] [BG]6 B | %17
+ A [GE]3 [BG] [eB]2 f | e [eA]4 [cA]2 z | [cF] [BF]2 [BF]2 [cF]2- [cF] | [BA] [eG]4 x3 |] %21
+V:4
+ x2 x6 | z8 | z8 | z8 | z8 | z8 | _G4 z4 | z2 =A2 z4 | z8 | z7 F- | F D2 C D z3 | z8 | z7 D- | %13
+ D z6 G- | G z7 | z8 | z7 F- | F z6 B- | B z7 | z8 | z4 z x3 |] %21

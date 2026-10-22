@@ -1,0 +1,82 @@
+X:1
+T:6 Lieder, Op. 6
+T:An Luna
+C:Johanna Kinkel
+Z:Johann Wolfgang von Goethe
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 4 ) | ( 5 6 ) }
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:Ab
+U:s=!stemless!
+V:1 treble nm="Voice\nSingstimme"
+V:2 treble 
+L:1/8
+V:3 treble nm="Piano"
+V:4 treble 
+L:1/8
+V:5 bass 
+L:1/8
+V:6 bass 
+V:1
+!p!"^Andantino" E3 E | E2 A2 | (A3/2 G/) (F G) | A2 z2 | A2 (G A) | B3 G | (F =E) (=D C) | %7
+w: 1. Schwe- ster|von dem|er- * sten *|Licht,|Bild der *|Zärt- lich-|keit * in *|
+w: 2. For- schend|ü- ber-|sicht * dein *|Blick|ei- ne *|gross- ge-|mess- * ne *|
+w: 3. Des Be-|schau- ens|hol- * des *|Glück|mil- dert *|sol- cher|Fer- * ne *|
+ !>!G2 F2 | A2 (B A) | (A G) (F E) | (=D F) (B A) | A2 G2 | G2 B2 | %13
+w: Trau- er!|Ne- bel *|schwimmt * mit *|Sil- * ber- *|schau- er|um dein|
+w: Wei- te.|He- be *|mich * an *|dei- * ne *|Sei- te!|Gieb der|
+w: Qua- len,|und ich *|samm- * le *|dei- * ne *|Strah- len,|und ich|
+"^rall." (A/_c/B/A/ G/A/) _C/D/ | (!turn!E2 (_c) B) | A2 z2 | %16
+w: rei- * * * * * zen- *|des Ge- *|sicht.|
+w: Schwär- * * * * * me- *|rei dies *|Glück.|
+w: schär- * * * * * fe *|mei- nen *|Blick;|
+"^a Tempo." ^G2"^cres     -     -     poco     -     -     a     -     -     poco." ^F =E | %17
+w: Dei- nes *|
+w: Und in *|
+w: Hell und *|
+ (=A =E) E2 | ^G3 =B | (=B2 =A2) | =A2 (G F) | F3 _B | B2 (=A c) | c2"^dimin." (B _A) | %24
+w: lei- * sen|Fus- ses|Lauf _|weckt aus *|tag- ver-|schloss- nen *|Höh- len *|
+w: wol- * lust-|vol- ler|Ruh’ _|säh’ der *|weit- ver-|schlag’- ne *|Rit- ter *|
+w: hel- * ler|wird es|schon _|um die *|un- ver-|hüll- ten *|Glie- der *|
+!p! G2 (c B) | A3 A | (A G) (F G) | A2 E z |!mf! (E A) (A c) | (!>!c3/2 B/) A/E/ C/D/ | (E2 F) G | %31
+w: trau- rig *|ab- ge-|schied- * ne *|See- len,|mich, * und *|nächt’- * * * ge *|Vö- * gel|
+w: durch das *|glä- ser-|ne * Ge- *|git- ter,|sei- * nes *|Mäd- * * * chens *|Näch- * ten|
+w: und nun *|zieht sie|mich * her- *|nie- der,|wie * dich *|einst _ _ _ En- *|dy- * mi-|
+ !fermata!A2 !fermata!z2 :| %32
+w: auf.|
+w: zu.|
+w: on.|
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | sE2 sF/sE/s=D/sE/ x4 | x8 | %16
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :| %32
+V:3
+!p! !>!c2 !>!c2 | !>!e2 !>!c2 | c2 B2 | c2 z2 | c2 c2 | d2 d2 | c2 B2 | B2 A2 | =d2 d2 | e2 B2 | %10
+ B2 =d2 | f2 e2 | e2 d2 |"^rall." _c2 A2 | B2 e2 | _c2 z2 | %16
+ =B2"^cres     -     -     poco     -     -     a     -     -     poco." B2 | c2 =d2 | =e2 =d2 | %19
+ =d2 c2 | c2 c2 | _d2 e2 | f2 e2 | e2"_dimin." d c |!p! B2 e2 | f2 e c | c2 B2 | c2 z2 | %28
+!mf! c2 e2 | a2 e c | c2 B2 | !fermata!c2 !fermata!A, !fermata!z :| %32
+V:4
+ cAEC cAEC | eAEC cAEC | cAED BGED | cAEC cAEC | cAFC cAFC | dGFD dGFD | cG=EC BGEC | BG=ED AFCA, | %8
+ =dAFB, dAFB, | eGEB, BGEB, | BAFB, =dAFB, | fAFB, eGEB, | eGEB, dGEB, | _cAE_C AECE | %14
+ B=GEB, eGEB, | _cAF_C cAEC | =B^G=E=B, BGEB, | c=A=EC =dAEC | =e=B^G!courtesy!=E =dBGE | %19
+ =d=BPF=D c=A=EC | c=A_EC cAEC | dBFD eBFD | fcBF ec=AF | ec=A_G dBFD | BGED eGED | fcAE eAEC | %26
+ cGED BGED | cAEC cAEC | cAEC ecAE | acAE ecAE | cGED BGED | cAEC x4 :| %32
+V:5
+"^sempre marcato" A,,E,A,E, A,,E,A,E, | C,E,A,E, A,,E,A,E, | E,,B,,E,G, E,,B,,E,G, | %3
+ A,,E,A,E, A,,E,A,E, | F,,C,F,A, F,,C,F,A, | B,,F,G,B, B,,F,G,B, | C,=E,G,B, =E,,C,E,G, | %7
+ F,,D,=E,G, F,,C,F,C, | B,,F,A,F, B,,F,A,F, | B,,E,G,E, B,,E,G,E, | B,,F,A,F, B,,F,A,F, | %11
+ E,,B,,F,A, E,,B,,E,G, | E,,B,,E,G, G,,B,,E,G, | A,,E,A,E, _C,E,A,E, | E,,B,,E,G, E,,B,,E,G, | %15
+ A,,E,A,E, A,,E,A,E, | =E,,=B,,=E,^G, E,,B,,E,G, | =E,,C,=E,=A, E,,C,E,A, | %18
+ =E,,=B,,=E,^G, E,,B,,E,G, | =A,,F,^G,F, A,,=E,=A,E, | F,,C,F,=A, F,,C,F,A, | %21
+ F,,_D,F,B, F,,D,F,B, | F,,C,F,B, F,,C,F,=A, | B,,E,_G,=A, B,,D,F,B, | E,,B,,E,G, E,,B,,E,G, | %25
+ A,,E,A,C C,E,A,E, | E,G,B,G, E,,B,,E,G, | A,,E,A,E, A,,E,A,E, | A,,E,A,E, C,E,A,C | %29
+ z E,A,C C,E,A,C | E,,B,,E,G, E,,B,,E,G, | A,,E,A,E, !fermata!A,,2 !fermata!z2 :| %32
+V:6
+ !>!A,,2 !>!A,,2 | !>!C,2 !>!A,,2 | E,,2 E,,2 | A,,2 A,,2 | F,,2 F,,2 | B,,2 B,,2 | C,2 =E,,2 | %7
+ F,,2 F,,2 | B,,2 B,,2 | B,,2 B,,2 | B,,2 B,,2 | E,,2 E,,2 | E,,2 G,,2 | A,,2 _C,2 | E,,2 E,,2 | %15
+ A,,2 A,,2 | =E,,2 E,,2 | =E,,2 E,,2 | =E,,2 E,,2 | =A,,2 A,,2 | F,,2 F,,2 | F,,2 F,,2 | %22
+ F,,2 F,,2 | B,,2 B,,2 | E,,2 E,,2 | A,,2 C,2 | E,2 E,,2 | A,,2 A,,2 | A,,2 C,2 | [E,,E,]2 C,2 | %30
+ E,,2 E,,2 | A,,2 x2 :| %32

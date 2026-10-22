@@ -1,0 +1,69 @@
+X:1
+T:6 Gesänge, Op.10
+T:Und die Rosen, die prangen
+C:Robert Franz
+Z:Wilhelm Osterwald
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 4 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=94
+M:3/8
+I:linebreak $
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 treble 
+L:1/16
+V:4 treble 
+V:5 bass 
+V:6 bass 
+V:1
+"^Andantino"!p!"^Einfach" e/ d/ | c G (A/C/) | E D E/ G/ | B (A/G/) A | (G E2) | z2 e/ d/ | c G A | %7
+w: Und die|Ro- sen, die *|pran- gen, drü- ber-|hin fährt * der|Wind, *|und die|Lust ist ver-|
+w: And the|ro- ses, they *|flou- rish, rough- ly|blows the * cold|wind, *|and en-|joy- ment will|
+ B E F |"^poco riten." G c (B/A/) |[Q:1/4=94]"^in Tempo" (G E2) | z2!p! c/ B/ | A _d F | %12
+w: gan- gen fast|eh’ sie be- *|ginnt. *|Und die|Vög- lein, die|
+w: per- ish as|soon it be- *|gins. *|Through the|air sounds are|
+ A G A/ c/ | e (_d/c/) d | (c A2) | z2"^cresc." =d/ c/ | B e G | B!<(! =A (G/B/)!<)! | %18
+w: sin- gen, und die|Luft, die * ver-|weht’s, *|durch die|Welt geht ein|Klin- gen, und *|
+w: ring- ing, so _|wide o’er * the|land, *|and the|birds, songs are|sing- ing that *|
+ (dc/) B/!>(! =A | G2!>)! z | z2!p! e/ d/ | c G (A/C/) | E D (E/G/) | B (A/G/) A | (G E2) | z3 | %26
+w: Kei- * ner ver-|steht’s.|Und die|Ster- ne, die *|schei- nen so *|hell durch * die|Nacht, *||
+w: none * un- der-|stand.|And the|stars shi- ning *|bright- ly their *|bril- liant * watch|keep, *||
+"^cresc." G c/ e/!f! (g/f/) | e!>(! d c!>)! |!p! (d/c/) d G | c2 z | z3 | z3 | z2 |] %33
+w: ich a- ber muss *|wei- nen in-|mit- * ten der|Pracht.||||
+w: but ’mid all this *|splen- dour I|can * on- ly|weep.||||
+V:2
+!p!"^sempre e legato" (e/d/ | cGA/C/ | ED/C/E) | (!arpeggio![EGB][EA]/G/[DF]) | %4
+!>(! ([G,EG][CE])!>)!B,/C/ |[I:staff +1] ([D,F,B,][E,G,])!>(![I:staff -1] (e/d/!>)! | cG[EA] | %7
+ E/D/C)(D |"_poco riten."!<(! [G,E]!<)![CE_G]!>(![A,DF]!>)! |"^in Tempo" (([=G,E])[A,C]))B,/C/ | %10
+[I:staff +1] ([D,F,B,][E,G,])!p!!>(![I:staff -1] ([Ac]/[GB]/)!>)! | ([FA]_dF) |!>(! (A!>)!G/F/A) | %13
+ (!arpeggio![Ace][A_d]/c/[GB]) | ([Ac][FA])E/F/ | ([G,B,E][A,C])"_cresc." [^F=A=d] | (BeG) | %17
+!<(! ([DB][C=A])!<)!([B,G] |!>(! B=A/G/)^F!>)! |"^ten." ([=B,G]!pp![_A=f]P[Ge]/[Fd]/ | %20
+ cG)!p!!>(! (e/d/!>)! | cGA/C/ | ED/C/) E | (!arpeggio![EGB][EA]/G/[DF]) | ([G,EG][CE])B,/C/ | %25
+[I:staff +1] ([D,F,B,][E,G,])"_cresc."[I:staff -1] (e/d/) | (cG)!f!([eg]/[df]/) | %27
+!>(! ([ce][=Bd]c)!>)! |!p! [cd]2 (e/d/ | cG!<(!A/C/!<)! | E!>(!_D)!>)!!p!C- | %31
+!<(! (C2!<)!!>(! =B,!>)! | C2) |] %33
+V:3
+ GF | EDC_B,[I:staff +1]A,2- | A,4[I:staff -1] B,2 | x2 A,4 | x4 G,2 | x4 GF | %6
+ EDC_B,[I:staff +1]A,2 |[I:staff -1] B,2[I:staff +1]E,2[I:staff -1]A,2 | x6 | x4 G,2 | x4 =E2 | %11
+ C2 _D4 | _D4 E2 | x2 _D4 | (C2_D2)C2 | x6 | [DG]2 E4 | ^F4 x2 | [D=F]2E2DC | x6 | EDC2 GF | %21
+ EDC_B,[I:staff +1]A,2- | A,4[I:staff -1] B,2 | x2 A,4 | x4 G,2 | x4 GF | EDC_B,A2 | G2F2E2 | %28
+ A4 GF | EDC_B,[I:staff +1]A,2- | A,4 x2 | x6 | x4 |] %33
+V:4
+ =B | x3 | x3 | x3 | x3 | x2 =B | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x2 =B | x3 | x3 | x3 | x3 | x2 =B | x3 | x3 | x2 =B | x3 | x3 | x3 | x2 |] %33
+V:5
+ [G,,,G,,] | [C,,C,][E,,E,][F,,,F,,] | [B,,,B,,]2 [G,,,G,,] | %3
+!ped! [C,,C,]!ped-up![F,,,F,,][B,,,B,,] | E,3 | B,,2 [G,,,G,,] | [C,,C,][E,,E,][C,,C,] | %7
+ [G,,,G,,][A,,,A,,][F,,,F,,] | [C,,C,] [B,,,B,,]2 | E,3 | B,,2 [C,,C,] | ([F,,F,] [B,,,B,,]2 | %12
+ [E,,E,]2) [C,,C,] |!ped! ([F,,F,]!ped-up![B,,,B,,][E,,E,]) | [A,,,A,,]3 | E,2 [=D,,=D,] | %16
+ ([G,,G,] [C,,C,]2 | [D,,D,]2) ([E,,E,] | [B,,,B,,][C,,C,][D,,D,]) |"^ten." ([G,,,G,,]3 | %20
+ [C,,C,][E,,E,]) [G,,,G,,] | [C,,C,][E,,E,][F,,,F,,] | [B,,,B,,]2 [G,,,G,,] | %23
+!ped! ([C,,C,]!ped-up![F,,,F,,][B,,,B,,]) | E,3 | B,,2 ([G,,,G,,] | [C,,C,][E,,E,]) [F,,,F,,] | %27
+ (([G,,,G,,]2 [A,,,A,,])) | [F,,,F,,]2 [G,,,G,,] | [C,,C,][E,,E,] [F,,,F,,]- | x2 C,/=D,/ | %31
+ E,/F,/A,G,/F,/ | E,2 |] %33
+V:6
+ x | x3 | x3 | x3 | (E,,A,,)E,, | (B,,,E,,) x | x3 | x3 | x3 | (E,,A,,)E,, | (B,,,E,,) x | x3 | %12
+ x3 | x3 | x3 | (E,,A,,) x | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | (E,,A,,)E,, | (B,,,E,,) x | %26
+ x3 | x3 | x3 | x3 | [F,,,F,,]2 ([A,,,A,,] | ([G,,,G,,-]3 | [C,,G,,]2)) |] %33

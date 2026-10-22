@@ -1,0 +1,68 @@
+X:1
+T:4 Lieder, Op. 27
+T:Morgen
+C:Richard Strauss
+Z:John Henry Mackay
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=50
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+L:1/4
+V:4 treble 
+L:1/4
+V:3 bass 
+V:1
+"^Langsam  sehr getragen" z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %11
+w: |||||||||||
+"^Gesang / Voice" z8 | z8 | z2"^sehr ruhig" z ^G G A B c | d G B4- B A | A2 G2 z G G F | %16
+w: ||Und Mor- gen wird die|Son- ne wie- * der|schei- nen und auf dem|
+ B3 B z B2 B | B3 e e2 A A | d3 d f3/2 A/ A2 | z A c3 d c2- | c2 B B B B B B | d3 d c2 c B | %22
+w: We- ge, den ich|ge- hen wer- de, wird|uns, die Glück- li- chen,|sie wie- der ei-|* nen in- mit- ten die- ser|son- nen- at- men- den|
+ B2 A2 z4 | z F G A d e e2- | e2 d2 g3 B | A2 G2 G A B2 | d2 z e d2 c2 | e2 d2 B2 G2 | z8 | z8 | %30
+w: Er- de...|und zu dem Strand, dem wei-|* ten, wo- gen-|blau- en, wer- den wir|still und lang- sam|nie- der stei- gen,|||
+ z4 z2 A2- | A2 A A A A A A | B3 B B2 B2 | z4"^immer ruhig" z2 B B | c4 c2 c2 | _e3 _A A2 G2 | G8 | %37
+w: stumm|* wer- den wir uns in die|Au- gen schau- en,|und auf|uns sinkt des|Glü- ckes stum- mes|Schwei-|
+ F2 z2 z4 | z8 | z8 | z8 | z8 | !fermata!z8 |] %43
+w: gen...||||||
+V:2
+!p! (B2 d2 | !arpeggio!e2 g2 | b2 a3/2 g/ | g2 f) z | (a2 c3/2 d/ | c2 B (B-) | %6
+ [Bd]2 [Ac]3/2 [GB]/ | A4) | (d2 f2 | a2 g2) | (e2 b2 | [de-bd']2 [ceac']2) | %12
+ ([db] [Bg] [Gd] [DB] | f e d c | B) z [CDF] z |!p! (B2 d2 | e2 g2 | !arpeggio!b2 a3/2 g/ | %18
+ g2 f) z | (a2 c3/2 d/ | !arpeggio!c2 B) (B- | [Bd]2 [Ac]3/2 [GB]/ | A4) | (!arpeggio!d2 f2 | %24
+ a2 g2) | (e2!>(! b2!>)! |!pp! [de-bd']2 [ceac']2) | ([db] [Bg] [Gd] [DB] | f e d c) | %29
+ (B2!>(! A/ c F/)!>)! | [B,=FA]4- | [B,FA]4 | [B,^DAB]4- | [B,DAB]4 | [C_EAc]4 | [_E_A_e]4 | %36
+ ([D-=GA-d-]4 | [DFAd]3) z |!p! (B2 d2- | d4) | (e2 x2 |!>(! g2 [Beb]2)!>)! | %42
+!pp! !fermata![dgd']4 |] %43
+V:3
+!ped! (3(G,,D,G, (3B,[I:staff -1]DG)[I:staff +1] z4!ped-up! | %1
+!ped! (3(G,,D,G, (3B,D[I:staff -1]G)[I:staff +1] z4!ped-up! | %2
+!ped! (3(C,^G,B, E2)!ped-up!!ped! (3(C,A,C E2)!ped-up! |!ped! (3(D,A,C D2- (3D!ped-up!CD A2) | %4
+!ped! (3(^D,A,C (3^DFA) z4!ped-up! |!ped! (3(E,,B,,E, (3B,EG) z4!ped-up! | %6
+!ped! (3(C,,C,^G, B,2)!ped-up!!ped! (3(C,,C,A, C2)!ped-up! | %7
+!ped! (3(D,,A,,D, (3F,A,D F2) z2!ped-up! |!ped! (3(C,F,A, (3DFA) z4!ped-up! | %9
+!ped! (3(B,,D,B, (3DGB) z4!ped-up! |!ped! (3(E,G,B, (3EGB) z4!ped-up! | %11
+!ped! (3(A,,E,B, (3DEB [CA]2)!ped-up! z2 |!ped! !arpeggio![D,,D,] G,2 B,2 E3!ped-up! | %13
+ ([B,D]4 [CE]4 | D2) z2 D,2 z2 |!ped! (3(G,,D,G, (3B,[I:staff -1]DG)[I:staff +1] z4!ped-up! | %16
+!ped! (3(G,,D,G, (3B,D[I:staff -1]G)[I:staff +1] z4!ped-up! | %17
+!ped! (3(C,^G,B, E2)!ped-up!!ped! (3(C,A,C E2)!ped-up! |!ped! (3(D,A,C D2- (3D!ped-up!CD A2) | %19
+!ped! (3(^D,A,C (3^DFA) z4!ped-up! |!ped! (3(E,,B,,E, (3B,EG) z4!ped-up! | %21
+!ped! (3(C,,C,^G, B,2)!ped-up!!ped! (3(C,,C,A, C2)!ped-up! | %22
+!ped! (3(D,,A,,D, (3F,A,D F2) z2!ped-up! |!ped! (3(C,F,A, (3DFA) z4!ped-up! | %24
+!ped! (3(B,,D,B, (3DGB) z4!ped-up! |!ped! (3(E,G,B, (3EGB) z4!ped-up! | %26
+!ped! (3(A,,E,B, (3DEB [CA]2)!ped-up! z2 |!ped! (!arpeggio![D,,D,] G,2 B,2 E3)!ped-up! | %28
+ ([B,D]4 [CE]4 | D4 D,4) |!pp!!ped! [G,,D,G,]8- | [G,,D,G,]8 |!ped! [F,,B,,^D,A,]8-!ped-up! | %33
+ [F,,B,,D,A,]8 |!ped! [=F,,C,_E,A,]8!ped-up! |!ped! [C,,_A,,C,]8!ped-up! | [D,,=A,,D,]8- | %37
+ [D,,A,,D,]6 z2 |!ped! (3(G,,D,G, (3B,[I:staff -1]DG)[I:staff +1] x4!ped-up! | z8 | %40
+!ped! (3(G,,!ped-up!D,G, (3B,D[I:staff -1]G) g4- |[I:staff +1] z4 [EG]4 | !fermata![DGB]8 |] %43
+V:4
+ x4 | !arpeggio![EB] x3 | !arpeggio![Be] x !arpeggio![Ae] x | !arpeggio![Gcd] x !arpeggio!F x | %4
+ !arpeggio!A x3 | !arpeggio!G x3 | E2 x2 | F x3 | !arpeggio![DA] x3 | !arpeggio![Ad] x3 | %10
+ !arpeggio![EB] x3 | x4 | x4 | ^G2 A2 | G x3 | x4 | !arpeggio![EB] x3 | [Be] x !arpeggio![Ae] x | %18
+ !arpeggio![Gc] x !arpeggio!F x | !arpeggio!A x3 | G x3 | E2 x2 | F x3 | [DA] x3 | %24
+ !arpeggio![Ad] x3 | !arpeggio![EB] x3 | x4 | x4 | ^G2 A2 | G2 [CDF] x | x4 | x4 | x4 | x4 | x4 | %35
+ x4 | x4 | x4 | x4 | x4 | [EB] x3 | x4 | x4 |] %43

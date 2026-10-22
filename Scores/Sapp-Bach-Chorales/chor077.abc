@@ -1,0 +1,32 @@
+X:1
+T:In dich hab ich gehoffet, Herr
+T:In dich hab ich gehoffet, Herr
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ A | A e e d/c/ | B c d/c/ B | !fermata!A2 z A | B c d B | e f !fermata!e c | c/d/ e d c/B/ | %7
+ A/B/ c !fermata!B c | A B/c/ !fermata!d c | B c !fermata!d c | B A e3/2 d/ | c =d/c/ B2 | %12
+ !fermata!A3 x || %13
+V:2
+ F2 | EF GA B2 E2 | ^D2 E2 =DA G2 | !fermata!E4 z2 F2 | F2 EC GF E^D | E/F/G AF !fermata!G2 A2 | %6
+ A2 ^A2 B=A GF | E F/G/ AF !fermata!G2 AG | F3 G/^A/ !fermata!B2 A2 | B=A =G2 !fermata!F2 EA- | %10
+ A ^G2 F GA B2- | BE A4 G2 | !fermata!E6 x2 || %13
+V:3
+ cd | e2 dc B2 A2 | B2 A=G A2 ed | !fermata!c4 z2 A2 | A2 G2 BA B2 | B e2 ^d !fermata!e2 e2 | %6
+ f2 f2 f2 e2 | ed c^d !fermata!e2 e2 | =dc de !fermata!f2 fe | d2 e2 !fermata!A2 A2 | B2 c^d e4- | %11
+ ec Ac f=d Be | !fermata!c6 x2 || %13
+V:4
+ F,2 | C2 B,A, G,2 A,2- | A,=G, F,E, F,D, E,2 | !fermata!A,,4 z2 D,2 | ^D, E,2 ^E,- E,F, G,A, | %5
+ G,=E, B,2 !fermata!E,2 A,G, | F,E, D,C, B,,2 E,D, | C,B,, A,,2 !fermata!E,2 A,,2 | %8
+ =D,E, D,C, !fermata!B,,2 F,2 | =G,F, E,2 !fermata!D,2 A,,2 | E,4- E,F,^G,E, | A,G,F,E, D,B,, E,2 | %12
+ !fermata!A,,6 x2 || %13

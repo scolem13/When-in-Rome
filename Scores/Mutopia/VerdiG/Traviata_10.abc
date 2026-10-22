@@ -1,0 +1,79 @@
+% La Traviata - N10 Finale del Atto II: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1511
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:La Traviata - N10 Finale del Atto II
+C:G. Verdi
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="upper"
+V:2 treble 
+V:3 bass nm="lower"
+L:1/8
+V:4 bass 
+L:1/4
+V:1
+ [egc'e']2[c'e'][bd'] [ac'] z [gb] z [fa] z [eg] z [^d^f] z [=fa] z | %1
+ [fa] z [^d^f] z [eg] z [=fa] z [eg]2 z6 | [eg] z [^ce] z [=df] z [eg] z [df]2 z6 | %3
+ [df] z [B^d] z [=ce] z [=df] z [ce]2 z6 | %4
+ [egc'e']2[c'e'][bd'] [ac'] z [gb] z [fa] z [eg] z [^d^f] z [=fa] z | %5
+ [fa] z [^d^f] z [eg] z [=fa] z [eg]2 z6 | [eg] z [^ce] z [=df] z [eg] z [df]2 z6 | %7
+ [df] z [B^d] z [=ce] z [=df] z [ce]2 z6 | edcB A z c z edcB A z c z | %9
+ edcB A z c z e z a z c' z a z | ba^gf e z g z bagf e z g z | ba^gf e z g z b z e' z e z e z | %12
+ edcB A z c z edcB A z c z | edcB A z c z e z a z c' z a z | ba^gf e z g z bagf e z e' z | %15
+ b z ^g2 a2b2 a4 z4 | [e=gc'e']2[c'e'][bd'] [ac'] z [gb] z [fa] z [eg] z [^d^f] z [=fa] z | %17
+ [fa] z [^d^f] z [eg] z [=fa] z [eg]2 z6 | [eg] z [^ce] z [=df] z [eg] z [df]2 z6 | %19
+ [df] z [B^d] z (3:2:1[=ce]2[ce] (6:5:1z2 [ce]4 z4 | %20
+ [egc'e']2[c'e'][bd'] [ac'] z [gb] z [fa] z [eg] z [^d^f] z [=fa] z | %21
+ [fa] z [^d^f] z [eg] z [=fa] z [eg]2 z6 | [eg] z [^ce] z [=df] z [eg] z [df]2 z6 | %23
+ [df] z [B^d] z [=ce] z [=df] z [ce]2 z6 | edcB A z c z edcB A z c z | %25
+ edcB A z c z e z a z c' z a z | ba^gf e z g z bagf e z g z | ba^gf e z g z b z e' z e z e z | %28
+ edcB A z c z edcB A z c z | edcB A z c z e z a z c' z a z | ba^gf e z g z bagf e z e' z | %31
+ a4 z4 e'd'c'b a2 z2 | d'c'ba g2 z2 e'd'c'b a2 z2 | d'c'ba g2 z2 e'd'c'b a2 z2 | %34
+ d'c'ba g2 z2 e'd'c'b a2 z2 | g z ^fe d z ef g z fe d z ef | g z ^fe d z ef g z fe d z ef | %37
+ g' z ^f'e' d' z e'f' g' z f'e' d' z e'f' | g' z ^f'e' d' z e'f' g' z f'e' d' z e'f' | %39
+ g'4 [d'e'^f'] z3 [d'e'f'] z3 [d'e'f'] z3 | [d'e'^f'] z3 [d'e'f'] z3 [d'e'f'] z3 [d'e'f'] z3 | %41
+ [d'e'^f'] z15 |] %42
+V:2
+ x16 | [eg] z15 | [df] z15 | [ce] z15 | x16 | [eg] z15 | [df] z15 | [ce] z15 | x16 | x16 | x16 | %11
+ x16 | x16 | x16 | x16 | a2 z14 | x16 | [eg] z15 | [df] z15 | [ce] z4 z [=df] z8 z | x16 | %21
+ [eg] z15 | [df] z15 | [ce] z15 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | %35
+ x16 | x16 | x16 | x16 | z4 [g'g]4 [g'g]4 [g'g]4 | [g'g]4 [g'g]4 [g'g]4 [g'g]4 | [g'g]4 z12 |] %42
+V:3
+ [C,C,,][E,G,C] [E,G,C][E,G,C] [E,G,C][E,G,C] [E,G,C][E,G,C] | %1
+ C,[E,G,C] [E,G,C][E,G,C] C,[E,G,C] [E,G,C][E,G,C] | %2
+ G,,[F,G,B,] [F,G,B,][F,G,B,] G,,[F,G,B,] [F,G,B,][F,G,B,] | %3
+ C,[E,G,C] [E,G,C][E,G,C] C,[E,G,C] [E,G,C][E,G,C] | %4
+ [C,C,,][E,G,C] [E,G,C][E,G,C] [E,G,C][E,G,C] [E,G,C][E,G,C] | %5
+ C,[E,G,C] [E,G,C][E,G,C] C,[E,G,C] [E,G,C][E,G,C] | %6
+ G,,[F,G,B,] [F,G,B,][F,G,B,] G,,[F,G,B,] [F,G,B,][F,G,B,] | %7
+ C,[E,G,C] [E,G,C][E,G,C] C,[E,G,C] [E,G,C][E,G,C] | A,[CE] [CE][CE] A,[CE] [CE][CE] | %9
+ A,[CE] [CE][CE] A,[CE] [CE][CE] | E,[^G,B,E] [G,B,E][G,B,E] E,[G,B,E] [G,B,E][G,B,E] | %11
+ E,[^G,B,E] [G,B,E][G,B,E] E,[G,B,E] [G,B,E][G,B,E] | A,[CE] [CE][CE] A,[CE] [CE][CE] | %13
+ A,[CE] [CE][CE] A,[CE] [CE][CE] | E,[^G,B,E] [G,B,E][G,B,E] E,[G,B,E] [G,B,E][G,B,E] | %15
+ A,[CE] [CE][CE] [A,C]2 z2 | [C,C,,][E,G,C] [E,G,C][E,G,C] [E,G,C][E,G,C] [E,G,C][E,G,C] | %17
+ C,[E,G,C] [E,G,C][E,G,C] C,[E,G,C] [E,G,C][E,G,C] | %18
+ G,,[F,G,B,] [F,G,B,][F,G,B,] G,,[F,G,B,] [F,G,B,][F,G,B,] | %19
+ C,[E,G,C] [E,G,C][E,G,C] C,[E,G,C] [E,G,C][E,G,C] | %20
+ [C,C,,][E,G,C] [E,G,C][E,G,C] [E,G,C][E,G,C] [E,G,C][E,G,C] | %21
+ C,[E,G,C] [E,G,C][E,G,C] C,[E,G,C] [E,G,C][E,G,C] | %22
+ G,,[F,G,B,] [F,G,B,][F,G,B,] G,,[F,G,B,] [F,G,B,][F,G,B,] | %23
+ C,[E,G,C] [E,G,C][E,G,C] C,[E,G,C] [E,G,C][E,G,C] | A,[CE] [CE][CE] A,[CE] [CE][CE] | %25
+ A,[CE] [CE][CE] A,[CE] [CE][CE] | E,[^G,B,E] [G,B,E][G,B,E] E,[G,B,E] [G,B,E][G,B,E] | %27
+ E,[^G,B,E] [G,B,E][G,B,E] E,[G,B,E] [G,B,E][G,B,E] | A,[CE] [CE][CE] A,[CE] [CE][CE] | %29
+ A,[CE] [CE][CE] A,[CE] [CE][CE] | E,[^G,B,E] [G,B,E][G,B,E] E,[G,B,E] [G,B,E][G,B,E] | %31
+ A,[CE] [CE][CE] ^F,[A,CE] [A,CE][A,CE] | G,[B,D] [B,D][B,D] ^F,[A,CE] [A,CE][A,CE] | %33
+ G,[B,D] [B,D][B,D] ^F,[A,CE] [A,CE][A,CE] | G,[B,D] [B,D][B,D] ^F,[A,CE] [A,CE][A,CE] | %35
+ [G,B,D]2 [G,A,CD]2 [G,B,D]2 [G,A,CD]2 | [G,B,D]2 [G,A,CD]2 [G,B,D]2 [G,A,CD]2 | %37
+ [G,D,B,,G,,]2 [^F,D,C,G,,]2 [G,D,B,,G,,]2 [F,D,C,G,,]2 | %38
+ [G,D,B,,G,,]2 [^F,D,C,G,,]2 [G,D,B,,G,,]2 [F,D,C,G,,]2 | %39
+ [G,D,B,,G,,]2 [D,,E,,^F,,]/ z3/2 [D,,E,,F,,]/ z3/2 [D,,E,,F,,]/ z3/2 | %40
+ [D,,E,,^F,,]/ z3/2 [D,,E,,F,,]/ z3/2 [D,,E,,F,,]/ z3/2 [D,,E,,F,,]/ z3/2 | [D,,E,,^F,,]/ z15/2 |] %42
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | z [G,,G,,,] [G,,G,,,] [G,,G,,,] | [G,,G,,,] [G,,G,,,] [G,,G,,,] [G,,G,,,] | [G,,G,,,] z3 |] %42

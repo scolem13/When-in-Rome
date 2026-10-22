@@ -1,0 +1,64 @@
+X:1
+T:Myrthen, Op.25
+T:Du bist wie ein Blume
+C:Robert Schumann
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 6 ) | ( 3 4 ) }
+L:1/16
+Q:1/4=55
+M:2/4
+I:linebreak $
+K:Ab
+U:s=!stemless!
+V:1 treble nm="Voice"
+V:2 bass nm="Piano"
+V:5 bass 
+V:6 bass 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+"^Langsam" z4 z2!p! c2 | B4- B B (3(cB) c | e2 d2 z2 f2 | G3 G (A2{BA}G) A | B4 z4 | z c c c d3 G | %6
+w: Du|bist _ wie ei- * ne|Blu- me, so|schön, so rein, _ und|hold,|ich schau’ dich an und|
+ e2 =A6 | e2 =d e e3 f | e4 z2!p! c2 | B4- B B (3c B c | e2 d4 f2 | G3 G (A2{BA}G) A | B4 z4 | %13
+w: Weh- mut|schleicht mir in’s Herz hin-|ein. Mir|ist, _ als ob ich die|Hän- de auf’s|Haupt dir le- * gen|sollt’,|
+!<(! c2 c c f2 c c!<)! | d2 d2 z4 | z c d"^ritard." B e3 G | A4 z4 | z8 | z8 | z8 |] %20
+w: be- tend, dass Gott dich er-|hal- te|so schön, so rein und|hold.||||
+V:2
+!p! (.[E,A,C].[E,A,C].[E,A,C].[E,A,C] .[E,A,C].[E,A,C].[E,A,C].[E,A,C]) | %1
+ [F,A,B,][F,A,B,][F,A,B,][F,A,B,]!<(! [F,A,B,][F,B,][E,=A,C][E,A,C] | %2
+ [F,CE]!<)![F,CE]!>(![F,B,D][F,B,D] [F,B,D][F,B,D][F,B,D][F,B,D]!>)! | %3
+ [E,G,B,][E,G,B,][E,G,B,][E,G,B,] [E,A,][E,A,][C,E,A,][C,E,A,] | %4
+ [B,,E,G,B,][E,G,B,][E,G,B,][E,G,B,]!<(! [E,G,B,][E,G,B,][E,G,=B,][E,G,B,]!<)! | %5
+ [E,A,C][E,A,C][E,A,C][E,A,C]!<(! [E,G,D][E,G,D][E,G,D][E,G,D] | %6
+[K:treble] [_G,=A,E]!<)![G,A,E]!>(![G,A,E][G,A,E] [G,A,E][G,A,E][G,A,E][G,A,E]!>)! | %7
+ [=G,B,E][G,B,E][G,B,E][G,B,E] [_A,CE][A,CE][A,=DF][A,DF] | %8
+!<(! [G,E][G,_DE][A,DE][=A,DE]!<)! [B,DE][=B,E]([CE]=E) |!<(! z [FB][FB][FB] [FB][FB] z [_Ec]!<)! | %10
+ z [Dd][Dd][Dd] [Dd][Dd][DFd][DFd] | [EG][EG][EG][EG] [EA][EA][CEA][CEA] | %12
+ [B,EB][B,EB][B,EB][B,EB]"^ritard."!<(! [DEGB][DEGB][DEG=B][DEGB]!<)! |!<(! [CEAc]4!<)! [CE=Ac]4 | %14
+ [DFd]2[Dd][Dd] (!>![Aa]2>[=E=e]2) | (fcdB) _A2>G2 | %16
+!p! [CEA][K:bass]!<(! (.[E,A,C].[E,A,C].[E,A,C] .[E,A,C].[E,A,C]) C2!<)! | %17
+ D2(F>=E)[K:treble] E2"^ritard."{[G,D]_E}d>c | c2>B2 [EG]4 |{GAB} [CA]8 |] %20
+V:3
+ [A,,,A,,]8 | ([D,,D,]6 [C,,C,]2 | [B,,,B,,]8) | z2 ([D,,D,]2[C,,C,]2[A,,,A,,]2 | [E,,,E,,]8) | %5
+ z2 (.[A,,,A,,]2 z2 .[B,,,B,,]2 | z2 [_C,,_C,]6) | [B,,,B,,]8 | %8
+ [E,,E,][E,,E,][F,,E,][^F,,E,] [G,,E,][G,,E,]([A,,E,]=E,) | %9
+!ped! D,, [F,B,][F,B,][F,B,] [F,B,][F,B,]!ped-up!!ped! F,,[F,=A,]!ped-up! | %10
+ B,,[F,B,][F,B,][F,B,] [F,B,][F,B,][F,B,][F,B,] | %11
+ [D,B,][D,E,B,][D,E,B,][D,E,B,] [C,E,A,][C,E,A,][A,,E,A,][A,,E,A,] | %12
+!ped!{/E,,} G,[E,G,][E,G,][E,G,] [E,G,][E,G,]!ped-up![E,G,][E,G,] | %13
+ [A,,E,A,]4!ped! [F,,C,=A,]4!ped-up! | %14
+!ped! [B,,F,B,]4!ped-up!!ped!({C,2(_A,2} [C,A,-_G]4))!ped-up! | A,(=A,B,D) [E,-C]2[E,,E,]2 | %16
+ ([A,,,A,,]6 [=A,,,=A,,]2 |!<(! [B,,,B,,]2!<)![D,,D,]2!>(![C,,C,]2[B,,,B,,]2!>)! | %18
+!<(! [=E,G,][F,A,]!>(! [=A,C]B,!<)! [_E,-B,D]4!>)! | [A,,E,]8) |] %20
+V:4
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | B,,2 | x2 | x2 | x2 | x2 | D, x | x2 | x2 | %18
+({/A,,} A,,/)D,/ x | x2 |] %20
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 |[K:treble] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | B4 x4 | %15
+({/F} F2>)_F2 _E2[DE-]2 | x[K:bass] x5 [E,^F,][E,F,] | %17
+ [E,G,][E,G,][G,B,][G,B,][K:treble] [G,B,][G,C] x2 | C2[_EF]D- D4 | x8 |] %20
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 |[K:treble] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x[K:bass] x7 | x4[K:treble] x4 | x4 sA,7/2{/_A}sA,/ | x8 |] %20

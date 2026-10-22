@@ -1,0 +1,41 @@
+X:1
+T:Komm, heiliger Geist, Herre Gott
+T:Komm, heiliger Geist, Herre Gott
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ d | e d/c/ B/c/ d | !fermata!A2 B ^c | !fermata!d2 z d | e d A/B/ c | B A !fermata!G G | %6
+ A/B/ c B/c/ d- | d A G/F/ E | !fermata!D2 z D | G A B/c/ d- | d c B A | !fermata!B2 z B/c/ | %12
+ =d e d A | B ^c !fermata!d d | e d A/B/ =c | B A !fermata!G G | A/B/ c B/c/ d- | d A G/F/ E | %18
+ !fermata!D2 z D | G A B/c/ d- | d c B A | E F !fermata!G A | B G E2 | !fermata!D A/ B/4c/4 B2 | %24
+ A2 !fermata!G x || %25
+V:2
+ G2 | G2 F2 G2 DE | !fermata!F4 G2 G2 | !fermata!F4 z2 G2 | G2 FE D2 EF | G2 F2 !fermata!D2 D2 | %6
+ D2 E2 DE F2- | FG FE DB, ^C2 | !fermata!A,4 z2 A,2 | DE F2 G3 A | B3 A GF E2 | %11
+ !fermata!^D4 z2 G2 | F^G A2 A=G FE | D2 E2 !fermata!F2 GF | EF G2 F2 E2 | DE F2 !fermata!D2 E2 | %16
+ E2 EF G4- | G2 F2 GD D^C | !fermata!A,4 z2 D=C | B,E DC B,3 C/D/ | E2 E2 E2 ED | %21
+ C4 !fermata!B,2 D2 | D4- DB, C2 | !fermata!B,2 D4 E2- | E2 DC !fermata!B,2 x2 || %25
+V:3
+ B2 | cB A2 G2 G2 | !fermata!d4 d2 G2 | !fermata!A4 z2 G2 | cB AG FG C2 | D2 dc !fermata!B2 B2 | %6
+ A2 GA B2 AG | A2 d2 d2 AG | !fermata!F4 z2 F2 | G2 c2 dc BA | ^GF E2 ^D2 E2 | !fermata!F4 z2 =GA | %12
+ B2 ^c2 d2 d=c | BA G2 !fermata!A2 B2 | =c2 d2 d2 GA | BG dc !fermata!B2 c2 | cB A2 BAGA | %17
+ B^c d2 d2 AG | !fermata!F4 z2 F2 | Gc BA G3 A | B3 A GF E2 | A4 !fermata!G2 F2 | G6 GF | %23
+ !fermata!G2 A4 G2- | G2 F/E/F !fermata!D2 x2 || %25
+V:4
+ G,2 | C,2 D,2 E,2 B,,C, | !fermata!D,4 G,F, E,2 | !fermata!D,4 z2 B,,2 | C,2 D,2 C,B,, A,,2 | %5
+ B,,C, D,2 !fermata!G,,2 G,2 | F,2 E,F, G,2 F,E, | F,E,D,^C, B,,G,, A,,2 | !fermata!D,4 z2 D,=C, | %9
+ B,,C,B,,A,, G,,2 G,=F, | E,2 A,,2 B,,2 C,2 | !fermata!B,,4 z2 E,2 | B,2 A,G, F,E, D,2 | %13
+ G,F, E,2 !fermata!D,2 G,2 | =C,2 B,,C, D,2 E,F, | G,C, D,2 !fermata!G,,2 C,B,, | %16
+ A,,2 A,2 E,2 B,,C, | D,E,F,D, B,G, A,2 | !fermata!D,4 z2 B,,2 | E,2 F,2 G,A, B,A, | %20
+ ^G,E, A,2 E,D, C,B,, | C,A,, D,2 !fermata!=G,,2 D,2 | G,,A,, B,,2 C,4 | %23
+ !fermata!G,2 F,2 G,F, E,D, | C,A,, D,2 !fermata!G,,2 x2 || %25

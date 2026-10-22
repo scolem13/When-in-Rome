@@ -1,0 +1,40 @@
+X:1
+T:English Suite No. 5
+T:Sarabande
+C:Johann Sebastian Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=54
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Piano" snm="Pno."
+L:1/16
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ B2AB c2B2 A2G2 | FAGF G4 E4 | d2cd e2d2 c2B2 |$ AcBA G2>B2 e4- | e2d^c d2e2 f4- | %5
+ f2e^d e2f2 gfeg |$ fgef g2f2 e2d2 | P^cBcd B8 :: fgag f2^d2 e2f2 |$ gaba g8- | gfef g2b2 a2g2 | %11
+ fede f8- |$ f2=fe f2b2 a<^g^f<e | d=fe2 f2Pd^c d2d/e/f |$ e2de =f2e2 d2c2 | BdcB A8 |$ %16
+ AGFG ABc2 c4- | c2BA B^cd2 d4 |$ ^cBAB c^de2 e4- | e2^d^c def2 f4- | fefg a2g2 f2e2 |$ %21
+ ^dBc2- c2BA G2F2 | B2AB c2B2 A2G2 | FEFG E8 :| %24
+V:2
+ G2 AG FE | ^D2 E2 B,2 | G2 GB AG |$ F2 G2 z z/ B/ | A3 B/^c/ dc | B3 ^c/^d/ ec |$ d2 ed ^cB | %7
+ ^A2 z F ^D2 :: ^d2 z B ^cd |$ e2 e4 | ^c2 z c de | A2 A4 |$ B2 z2 z2 | B2 z2 z B |$ c2 dc BA | %15
+ ^G2 A4 |$ F z z F GA | D2 z A ^GA/B/ |$ E2 z B ^AB/^c/ | F2 z =c BA | GA/B/ cB AG |$ FE ^D2 z2 | %22
+ [EG]F/G/ AG FE | ^D2 z B, !fermata!G,2 :| %24
+V:3
+"m" E2"m""m" E,2"m""m" A,2 |"" B,B,,"m" E,F,"m" G,A, |"" B,2"" C2"m""" C,2 |$ %3
+"" D,D,,"""C{" G,,2"m" z z/ G,/ |"" F,""G,"" F,"m"E,"" D,E,/F,/ |"m" G,""A,"m" G,"m"F,"m" E,""A, |$ %6
+"" D,"m"B,,"m" x2"m""m" E,,2 |"" F,,2"" x2 F,2 ::"""""m""m" x6 |$"m""m" x6 | %10
+"" x2 z"" A,"m" B,"m"^C |"" D2 z2"m" z2 |$"m" z"m" D, D,"m"D, D,""E, | %13
+"m" =F,"m"^C,"m" D,"m"E,"m" F, z |$"m""m""""m""m" x6 |"" E,""E,,"m" A,,G,,"m" F,,E,, |$ %16
+"" D,,2 z"" D,"" E,"m"F, |"" G,A,"" G,""F,"" E,F,/^G,/ |$"" A,B,"m" A,"m"G,"" F,^G,/^A,/ | %19
+"" B,""B,, B,"m"A,"m" G,A,/B,/ |"" C""""B,"m" A,"m"B,"m" C"m"A, |$"""" x2"" B,,"m"C,"" B,,""A,, | %22
+"m" G,,"m"E,,"m" A,,"m"B,,"m" C,"m"A,, |"" B,,2"m" z2 B,,2 :| %24
+V:4
+ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x2 E,2 x2 | x2 B,,4 :: B,B,, z A GF |$ E/F/G/F/ ED ^CB, | %10
+ A,/B,/^C/B,/ A,G, F,E, | D,/E,/F,/E,/ D,C, B,,A,, |$ ^G,,G,, G,,G,, G,,G,, | %13
+ ^G,,G,, G,,G,, G,,G,, |$ A,,A, D,E, =F,D, | x6 |$ x6 | x6 |$ x6 | x6 | x6 |$ B,2 x4 | x6 | %23
+ x2 E,,4 :| %24

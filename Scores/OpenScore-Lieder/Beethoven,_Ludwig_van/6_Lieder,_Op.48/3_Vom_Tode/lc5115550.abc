@@ -1,0 +1,56 @@
+X:1
+T:6 Lieder, Op.48
+T:Vom Tode
+C:Ludwig van Beethoven
+Z:Christian Fürchtegott Gellert
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:A
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Mässig und eher langsam als geschwind" z3 |: F2 F | F2 F | F2 F | =G3 | =G2 G | =G2 G | =c2 B | %8
+w: |Mei- ne|Le- bens-|zeit ver-|streicht,|stünd- lich|eil' ich|zu dem|
+ B2 ^A | z ^A A | e2 f | =g2 ^A | (^A2 B) | z B B | ^B2 B | ^B2 B | c2 C | z3 | z3 | z3 | z3 | %21
+w: Gra- be,|und was|ist's, das|ich viel-|leicht, *|das ich|noch zu|le- ben|ha- be?|||||
+ C2 C | F2 G | A2 F | C3 | ^E2 E | ^E2 E | ^E2 E | F3 | =G2 G | =G3- | G2 F | c3 | C3 | D3 | F2 F | %36
+w: Denk', o|Mensch, an|dei- nen|Tod!|Säu- me|nicht, denn|Eins ist|Noth.|Säu- me|nicht,|_ denn|Eins|ist|Noth.|Säu- me|
+ =G3- | G2 F | c3 | C3 | F3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | !fermata!z3 :| %49
+w: nicht,|_ denn|Eins|ist|Noth.|||||||||
+V:2
+!p! [A,CF]3 |:!pp! (.F2 .F) | (.F2 .F) | (.F2 .F) | [F=G]2 [FG] | [F=G]2 [FG] | [E=G]2 [EG] | %7
+ [E=G=c]2 [EGB] | [E=GB]2 [EG^A] | z [^A,^A] [A,A] |!f! ([Ee]2 [Ff]) | ([=G=g]2 [^A,^A]) | %12
+ ([^A,^A]2 [B,B]) |!p! z [B,B] [B,B] |"_cresc." [^B,^B]2 [FB] | [G^B]2 [AB] |!f! [^Ec]2 C | %17
+!p! (.C2 .C) | (F2 G) | (A2 F | ^E2 C) | C2 C | F2 G | A2 F | C3 | [G,C^E]2 [G,CE] | %26
+"_cresc." [G,D^E]2 [G,DE] | [G,D^E]2 [G,DE] | [A,CF]3 | [^A,CE=G]2 [A,CEG] | [^A,CE=G]3- | %31
+ [A,CEG]2 [B,DF] | [=A,CF]3 | ^E3 | [F,A,F]3 |"_cresc." [A,=CF]2 [A,CF] | [_B,^C=G-]3 | %37
+ [=B,DG]2 [A,^B,F] |!p! [A,CF]3 | [G,C^E]3 | [A,CF]3 | z z [B,D] | C3 | z3 | z3 | z3 | z3 | z3 | %48
+ z3 :| %49
+V:3
+ [F,,A,,C,F,]3 |: z3 | z3 | z3 | z3 | z3 | z3 | [E,=G,]2 [E,G,] | [^C,E,=G,]2 [C,E,G,] | %9
+ [C,E,=G,]2 [C,E,G,] | [C,E,=G,^A,]2 [C,E,G,A,] | [C,E,=G,^A,]2 [C,E,G,] | [D,F,]2 [D,F,] | %13
+ [D,F,]2 [D,F,] | [D,F,]2 [D,A,] | [D,G,]2 [D,F,] | [C,G,]2 C, | C,2 C, | [F,,C,F,]2 [G,,C,G,] | %19
+ [A,,C,A,]2 [F,,C,F,] | [^E,,C,^E,]2 [C,,C,] | [C,,C,]2 [C,,C,] | [F,,C,F,]2 [G,,C,G,] | %23
+ [A,,C,A,]2 [F,,C,F,] | [C,,C,]2 [C,,C,] | [C,,C,]2 [C,,C,] | [B,,,B,,]2 [B,,,B,,] | %27
+ [B,,,B,,]2 [B,,,B,,] | [A,,,A,,]2 [A,,,A,,] |!f! [^A,,,^A,,]2 [A,,,A,,] | %30
+!>(! [^A,,,^A,,]2 [A,,,A,,]!>)! | [^A,,,^A,,]2 [B,,,B,,] |!p! [C,,C,]2 [C,,C,] | [C,,C,]2 [C,,C,] | %34
+ [D,,D,]2 [D,,D,] | [D,,D,]2 [D,,D,] | [D,,D,]2 [D,,D,] | [D,,D,]2 [D,,D,] | [C,,C,]2 [C,,C,] | %39
+ [C,,C,]2 [C,,C,] | [F,,,F,,]2 F,,, | F,,,2 ((([^E,G,] | [F,A,]3))) | z z (([D,^E,G,B,] | %44
+ [C,F,A,]3)) | z z (([B,,D,^E,G,] | [A,,C,F,]2)) [A,,C,F,] | (.[A,,C,F,]2 .[A,,C,F,]) | %48
+ !fermata![A,,C,F,]3 :| %49
+V:4
+ x3 |: x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | [G,C]2 B, | x3 | x3 | x3 | %37
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 :| %49
+V:5
+ x3 |: x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x2 F,,, | F,,,2 F,,, | F,,,2 F,,, | F,,,2 F,,, | F,,,2 F,,, | F,,,2 F,, | %47
+ [C,,F,,]2 [A,,,F,,] | !fermata![F,,,F,,]3 :| %49

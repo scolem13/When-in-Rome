@@ -1,0 +1,47 @@
+X:1
+T:English Suite No. 2
+T:Courante
+C:Johann Sebastian Bach
+%%score { ( 1 3 5 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=180
+M:3/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:5 treble 
+L:1/4
+V:2 bass 
+V:4 bass 
+V:1
+ A | A3 B (cdef) (edcB) | Pc3 B A2 a2 (^g2 Ma)b | e3 g fedf edef |$({c} B4) z2 ^GA PA3 G/A/ | %5
+ B3 c dBcd Pd3 c/d/ | e3 f gefg Pg3 f/g/ |$ (a_bag) (fedc) Mf3 f | !arpeggio!f3 d (efga) (gfed) | %9
+ PMe3 d c(edc) BABc |$({G} F3) E (FDEF) (GA_BG) | A3 G FEDd PB3 c | c6- c4 z :: e |$ %14
+ e3 d cBAG ^F^GAB | P^G3 A B2 E2({Bc} d2) cB | c3 B ABcd efge |$ P^c3 d e2 a2 (agfe) | %18
+ !turn!f3 g a2 (de) (gfed) | Md6 (fe dcdB) |$ g3 f edcB cA d2 | (cPBAG) (ABcd) eBcA | %22
+ P^FEFA Bcde fe a2 |$ P^g3 a be c'2 (c'bag) | aefd Me3 f PB3 A | A6- A4 z :| %26
+V:2
+"m" z | A,2"m" E,2"m" A,,2 A,2"" ^G,2"" E,2 |"m" A,A,,A,B,"m" CD"m"EF"" ED"m"CB, | %3
+ C3"" ^C"m" D2"m" B,2"m" =C2"m" D2 |$"""" E3 E"m" DC"C{"B,D"m" CB,CD | %5
+"m" (^G,B,A,G,)"" (^F,E,"m"A,=G,)"m" =F,E,F,G, |"" C,F,E,D,"" C,_B,,""A,,""C,"m" B,,A,,B,,""C, |$ %7
+"""""m""m""m" x12 |"""""""" x12 |"" z G, C2"""m""""m" x8 |$"""""m""" x12 |"""""m""" x12 | %12
+"" C,4 G,,2 C,4 z ::"C{" z |$ C,2 D,2"" E,2"" C,2"m" D,2"m" B,,2 | %15
+"" E,D,F,E,"m" D,C,"m"B,,A,,"m" ^G,,^F,,""G,,E,, |"m" A,,^G,,A,,B,,"m" C,D,E,F,"m" G,A,_B,G, |$ %17
+"" A,G,_B,A,"m" G,F,"m"E,D,"" ^C,B,,""C,A,, |"m" D,2"m" _B,2"m" F,2"m" G,2"" A,2"" A,,2 | %19
+"m" D,,2 A,G,"m" (F,E,"m"D,C,)"m" B,,A,,""G,,F,, |$"" (E,,G,,A,,B,,)"" C,D,E,^F,"m" (G,F,""E,D,) | %21
+"" G,2"" F,2"m" E,2"m" D,2"" C,2"m" A,,2 |"""m""m""m""m" x12 |$"""""m""m""" x12 | %24
+"""m""m""""m""m""" x12 |"m" z2 C,2 E,2 A,4 z :| %26
+V:3
+ x | [CE]3 x9 | x12 | z E A4 ^G2 A4 |$ z A ^G2 x8 | x12 | x12 |$ x12 | G3 x9 | x12 |$ x12 | x12 | %12
+ x6 E4 z :: x |$ G3 x9 | x12 | x12 |$ x12 | x12 | x12 |$ x12 | x12 | x12 |$ x12 | x8 ^G4 | %25
+ x6 C4 z :| %26
+V:4
+ x | x12 | x12 | x12 |$ x12 | x12 | x12 |$ F,,2 F,G, A,G,F,E, D,C,B,,A,, | %8
+ B,,G,,A,,B,, C,D,E,F, G,2 G,,2 | C,3 D, E,2 F,2 G,2 A,2 |$ B,CDC B,A,G,F, E,C,D,E, | %11
+ F,E,F,G, A,2 F,2 G,2 G,,2 | x2 C,,4- C,,4 z :: x |$ x12 | x12 | x12 |$ x12 | x12 | x12 |$ x12 | %21
+ x12 | D,2 E,2 D,2 C,2 B,,2 C,D, |$ (E,D,)(F,E,) D,C,B,,A,, D,2 E,2 | %24
+ F,^C,D,A, ^G,E,A,D, E,2 E,,2 | A,,6- A,,4 z :| %26
+V:5
+ x/ | x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x3 G2 z/ :: x/ |$ c3/2 x9/2 | x6 | %16
+ x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x3 E2 z/ :| %26

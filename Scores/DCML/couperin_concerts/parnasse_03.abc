@@ -1,0 +1,45 @@
+X:1
+T:Le Parnasse, ou L'Apothéose de Corelli
+T:Corelli, buvant à la source d’Hyppocrène, sa troupe continue.
+C:François Couperin
+%%score { 1 | 2 | 3 }
+L:1/8
+Q:1/4=140
+M:2/2
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 alto 
+V:1
+"""^Notes égales et Coulées, et moderément." (dcde) (dede) |"" (fefg) (fgaf) |"m" (gagf)"" (eaga) | %3
+"" (fgfe) d2 z2 |"C{" F8 |$"" E4"" A4- |"" (A4"" P^G4) |"" c4"" e4- |"" e4"m" d4- |"" d4"" c4 | %10
+"m" B4-"""" PB4 |$"" A"C{"Bcd efef |$"" g4-"" Pg4 |"" f4"" d'4- |"" d'4"m" c'4- |"m" c'4"m" b4 | %16
+"""C{" P^a4"m" z4 |"" ^G4"m" ^g4 |$"" ^a2 f2"m" b3 =a |"m" gfed"" cf"m"ef |"m" P^d2 B2"m" b4- | %21
+"m" b4"m" a4- |"" a4"m" g4- |"m" g3 f"" Pf3 e |"m" e"C{"^def g4- |$"" gfeg"" f4- |"" fedf"" e4- | %27
+"" edce"" d4- |"" ddcB"" AGFE |"" F4-"" PF4 |"" E4"" A4- |"m" A4"m" G4- |$"" G4"" PF3 E | %33
+"" (F4"" PE3) D |"" D"C{"EDE FGFG |"" A2 z2"" A4- |"" A4"" G4- |"" G4"" F4- |"m" F4"m" E4- |$ %39
+"" E4"" D4- |$"m" (D4"" PC4) |"" a"C{"bag fgaf |"m" gfga"m" gbag |"m" Pfefg"m" fagf | %44
+"" Pedef"" egfe |"m" dcde"" dfed |$"" Pc"C{"BAB cdcd |"m""m" e8 |$"""" d8 |"m" =c8 |"" PB4 z4 | %51
+"m" E4"" =F4- |"" F4"m" E4- |"" E4"m" PD4 |$"""^)" E"C{" B=cd"m" e4- |"" eAB=c"m" d4- |$ %56
+"" d4"m" =c4- |"m" c3 B"" (B2"" ^c>)d |"" Pc6 |] %59
+V:2
+ (BABc) (BcBc) | d2 A2 d4- | d4 (PcdBc) | d4 D2 z2 | D8- |$ D4 C4 | B,4 B4- | B4 A4 | f8 | %9
+ P^G4 A4- | (A4 P^G4) |$ A4 z4 |$ EFGA BcBc | d4 z4 | e4- Pe4 | d4- Pd4 | c4 f4- | f4 e4- |$ %18
+ e4 d4- | d2 b4 a2- | a4 g4 | =c'8 | P^d4 e4- | (e4 P^d3) e | e4- eefg |$ a4- agfa | g4- gfeg | %27
+ f4- fagf | Pe2 z2 e4- | e4 d4- | d4 c4 | B4 e4 |$ Pc2 A2 d4- | (d4 Pc3) d | d4 z4 | ABAB cdec | %36
+ dedc BcdB | cdBc decd | BABc BdcB |$ ABAG FGAF |$ GAGF EAGA | PF4 d4- | d4 c4- | c4 B4- | %44
+ B2 E2 A4- | (A4 P^G4) |$ A4 z4 | =cdcB ABcA |$ B=cBA ^GABG | A2 A,B, =CDCD | E=cBA ^GFED | %51
+"^)" =C4 =cedc | PBAB=c BdcB | PA^GAB A=cBA |$ P^G4 z EF=G | PF4 z F^GA |$ P^GEFG A4- | (A4 P^G4) | %58
+ A6 |] %59
+V:3
+ G8 | F8 | E4- PE4 | D6 z2 |[K:bass] (D,C,D,E,) (D,E,F,G,) |$ A,^G,,A,,B,, C,D,C,D, | %6
+ E,D,E,F, E,D,E,E,, |[K:alto] A,^G,A,B, CB,CA, | DEDC B,CDB, | EDCB, A,G,F,E, | %10
+ D,E,F,D, E,2 E,,2 |$ A,,4 z4 |$ z8 |[K:alto] DEDE FGFG |[K:bass] A,^G,A,B, ^A,B,CA, | %15
+ B,,^A,,B,,C, D,E,D,E, | F,G,F,E, D,E,F,D, | E,FED CB,^A,^G, |$ F,E,D,C, B,,A,,G,,F,, | %19
+ E,,F,,G,,E,, F,,2 F,2 | G,A,G,F, E,D,=C,B,, | A,,^G,A,B, =CB,CA, | B,A,G,F, E,D,=C,B,, | %23
+ A,,B,,=C,A,, B,,4 | E,,4 E4 |$ C4 D4 | B,4 C4 | D4 D,4 | A,4 A,,4 | D,,E,,D,,E,, F,,G,,F,,G,, | %30
+ A,,B,,A,,B,, C,D,C,D, | E,F,G,F, E,D,C,B,, |$ A,,G,,F,,E,, D,,E,,F,,G,, | A,,G,,F,,G,, A,,4 | %34
+ D,,4 z4 | z8 | B,8 | A,8 | G,8 |$ F,8 |$ E,4- PE,4 | D,4 z4 | E8 | D8 | C8 | B,4- PB,4 |$ A,4 z4 | %47
+ z8 |$ z8 | z8 | z8 | A,^G,A,B, A,=CB,A, | =G,=F,G,A, G,F,G,E, | P=F,4- F,4 |$ E,4 =C,4 | %55
+ D,4 B,,4 |$ E,D,=C,B,, A,,G,,=F,,E,, | D,,4 E,,4 | A,,6 |] %59

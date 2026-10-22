@@ -1,0 +1,32 @@
+X:1
+T:Gott, der du selber bist das Licht
+T:Gott, der du selber bist das Licht
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+L:1/8
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ d | G A/B/ c B | A A !fermata!G c | c c d c | d =e !fermata!f d | =c B A G | A2 !fermata!G x :: %7
+ A x3 | B c d e | d c !fermata!B d | f e d G/A/ | B A !fermata!G x || %12
+V:2
+ G | G ^F/G/ A3/2 G/- | G/ ^F/4=E/4 F !fermata!D G | =F/=E/ F F F | B/ d ^c/ !fermata!d B | %5
+ A D/=E/ ^F G | G ^F !fermata!D x :: =F x3 | F/ B A/ B c- | c/ B A/ !fermata!F F | F/A/ G/F/ F E | %11
+ D/ G ^F/ !fermata!D x || %12
+V:3
+ Bc | d2 cd ed d2 | ec A d/c/ !fermata!B2 cB | AB cA B2 c2 | BA G2 !fermata!A2 g2- | g^f g2 dc B2 | %6
+ ec A d/c/ !fermata!B2 x2 :: c2 x6 | d2 e2 f2 f2 | f2 g f/e/ !fermata!d2 d2 | cd Bc d2 c^F | %11
+ Gd d>c !fermata!=B2 x2 || %12
+V:4
+ G,,A,, | B,,2 A,,G,, ^F,,2 G,,2 | C,A,, D,2 !fermata!G,,2 =E,,2 | =F,,G,,A,,F,, B,, B,2 A, | %4
+ G,F, =E,2 !fermata!D,2 G,,2 | A,,2 B,,C, D,2 _E,D, | C,2 D,2 !fermata!G,,2 x2 :: F,E, x6 | %8
+ D,2 C,2 B,, B,2 A, | B,D, E,F, !fermata!B,,2 B,,2 | A,,F,,G,,A,, B,,2 C,2 | %11
+ B,,G,, D,2 !fermata!G,,2 x2 || %12

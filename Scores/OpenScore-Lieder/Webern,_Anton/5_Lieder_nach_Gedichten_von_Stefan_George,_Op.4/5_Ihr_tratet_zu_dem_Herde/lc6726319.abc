@@ -1,0 +1,71 @@
+X:1
+T:5 Lieder nach Gedichten von Stefan George, Op.4
+T:Ihr tratet zu dem Herde
+C:Anton Webern
+Z:Stefan George
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/4
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Gesang\nVoice"
+L:1/8
+V:2 treble nm="Klavier\nPiano"
+V:4 treble 
+V:3 bass 
+V:1
+"^Langsam (ca 48)" z!pp! (^D | (3:2:2=E2 =D!<(! _E!<)!=F | %2
+w: Ihr|tra- tet zu dem|
+[M:3/4]!>(! ^F=E!>)!!<(! (3=D=G^G!<)!!>(!"^poco rit." =A!>)!=F | %3
+w: Her- de wo al- le Glut ver-|
+ ^C) z!pp!"^a tempo" (=G2!<(! ^D/=E/=F/!<)!G/ |[M:2/4]!>(! =A_A)!>)! z!pp! (=G | %5
+w: starb, Licht war nur an- der|Er- de vom|
+[M:4/4]!<(! _B^F!<)!!>(!=A=G ^G)!>)! z z!p! (=c |[M:2/4]!<(!"^poco accel." _d>=c =E!<)!=F | %7
+w: Mon- de lei- chen- farb. Ihr|tauch- tet in die|
+[M:3/4] =d_d) z!mf! (=c =d>^c |[M:2/4]!>(! _e=d ^c)!>)! z/ (=E/ | %9
+w: A- schen die blei- chen|Fin- ger ein mit|
+!<(! (3:2:6_e3/2=B/!<)! =c3/2B/!f! =f3/2^c/) | %10
+w: Su- chen Ta- sten Ha- schen|
+[M:3/4][Q:1/4=80]"^(ca 66)""^poco rit." z2!mf! (3(^F!>(!=E=F =G!>)!_G | z!mp!!>(! _B2)!>)! z z2 | %12
+w: wird es noch ein- mal|Schein!|
+ z/!p! (=B/_E/=F/!<(! _d>=c!<)! (3cB)(^F | %13
+w: Seht was mit Trost- ge- ber- de der|
+!pp![Q:1/4=48]"^tempo I. (ca 48)" =d_B ^C) z (3z!pp! =E!<(!=F | %14
+w: Mond euch rät: tre- tet|
+[M:2/4]"^rit." _G!<)!=F!>(!_E=D!>)! |[M:3/4][Q:1/8=80] (3z!ppp! =C^C!>(! =D_D _E!>)! !fermata!z |] %16
+w: weg vom Her- de,|es ist wor- den spät.|
+V:2
+!<(! (3:2:2([=A,^C] [=G,=B,]/!<)! | %1
+!>(! (3:2:2[=A,^C]/ [=G,=B,])!>)![K:bass] (3:2:2z/!<(! ([=F,=C]- | %2
+[M:3/4] (3:2:2[F,C]/ [=G,=B,]!<)!!>(! [=A,_B,]/)!>)! z/ (3:2:2z/!ppp! [^G,=B,]- | %3
+!<(! [G,B,]!<)! z/!pp!!>(! ([=A,=C]/- (3:2:2[A,C] [^G,=B,]/-)!>)! | %4
+[M:2/4] (3:2:2[G,B,]/!>(! ([_B,_D] [^G,=B,])!>)! | %5
+[M:4/4] z/!pp! ([^G,^C]/-!>(! (3:2:2[G,C] [=A,=C]/-)!>)! [A,C][K:treble] (3z/!pp!!<)!!<(! (_D/_E/) | %6
+[M:2/4]!pp!!<(! !arpeggio![=A,=D=G] !arpeggio![A,D=B] | %7
+[M:3/4] !arpeggio![=A,=D=c]!<)!!mp!!>(! !arpeggio![A,D_B] !arpeggio![A,D=B] | %8
+[M:2/4] !arpeggio![_B,_D=A]!>)!!p!!<(! !arpeggio![B,D=B] | %9
+ !arpeggio![_B,_D=A]!<)! !arpeggio![=B,=D^G] |[M:3/4]!f!"^espress."!>(! [_B,_D=A]3!>)! | %11
+"^espress.""^"!<(! !arpeggio![=B,=D^G]!<)!!>(! !arpeggio![_B,_D=A]!>)! !arpeggio![=B,=DG] | %12
+ z3/4!p! (=A/4- A =E/)z/4!pp!(_B/4- | B3/2 =G) (_B/-!ppp!!pp! | %14
+[M:2/4]!>(! (3:2:2[B,FB]!>)!!ppp! [_A,=E=G]2-) |[M:3/4] !fermata![A,EG]3 |] %16
+V:3
+ (3:2:2([=F,,=D,] [_B,,=E,]/ | (3:2:2[=F,,=D,]/ [_B,,=E,]) (3:2:2z/ ([=D,,_E,]- | %2
+[M:3/4] (3:2:2[D,,E,]/ [_B,,=E,] [=B,,=D,]/) z/ (3:2:2z/ ([=C,_E,]- | %3
+ [C,E,]/[_B,,_D,]/) z/ ([^G,,=B,,]/- (3:2:2[G,,B,,] ([=A,,=C,]/-) | %4
+[M:2/4] (3:2:2[A,,C,]/) ([^G,,=B,,] [=A,,=C,]) | %5
+[M:4/4] z (3:2:2([=A,,=C,] [_B,,_D,]/-) [B,,D,] (3:2:2z/ !tenuto![A,,C,] | %6
+[M:2/4] !arpeggio![_A,,=D,_G,] !arpeggio![=G,,=C,_A,] | %7
+[M:3/4] !arpeggio![_A,,=D,_G,] !arpeggio![=G,,=C,_A,] !arpeggio![A,,D,G,] | %8
+[M:2/4] !arpeggio![=G,,=C,_A,] !arpeggio![_A,,=D,_G,] | %9
+ !arpeggio![=G,,=C,_A,] !arpeggio![^F,,_B,,=G,] | %10
+[M:3/4] !arpeggio![_A,,=D,_G,] !arpeggio![=G,,=C,_A,] !arpeggio![_G,,_B,,=G,]- | %11
+ [G,,B,,G,]3/2!p!!<(! ([_A,,=D,_G,]3/2!<)! | [=G,,=C,_A,]!>(! z/ [_G,,_B,,=G,])!>)! z/ | %13
+ (3z/!<(! (=C,,/^F,,/!<)! (3:2:2_E,) (F,,/!>(! (3:2:2E, =B,,/!>)! | %14
+[M:2/4]!ppp! =D,,,-!ped! (3:2:2D,,,/)!ppp! (_E,-!ped-up! | %15
+[M:3/4]!>(! E,- (3:2:2E, =B,,/-!>)! !fermata!B,,) |] %16
+V:4
+ x | x[K:bass] x |[M:3/4] x3 | x3 |[M:2/4] x2 |[M:4/4] x2 x[K:treble] (3:2:2x/ _A, |[M:2/4] x2 | %7
+[M:3/4] x3 |[M:2/4] x2 | x2 |[M:3/4] x3 | x3 | z z/!pp! [=B,=D] z/ | %13
+ (3:2:2z/!>(! [=B,=F]-!>)! [B,F]2- |[M:2/4] x2 |[M:3/4] x3 |] %16

@@ -1,0 +1,78 @@
+X:1
+T:8 Lieder und Gesänge, Op.59
+T:Nachklang
+C:Johannes Brahms
+Z:Klaus Groth
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=110
+M:2/2
+I:linebreak $
+K:A
+V:1 treble nm="Singstimme\nVoice"
+L:1/4
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+!p!"^Sanft bewegt" c3/2 c/ | c3 B | (d f) (e d) | c3 B | (c d) (A G) | c3 B | A3 G | (G2 F) z | %8
+w: Re- gen-|trop- fen|aus * den *|Bäu- men|fal- * len *|in das|grü- ne|Gras, _|
+ z d2 d | d3 B | (d =c) (B A) | ^A2 B z | z2 d3/2 d/ | c3 c | f3 A | G2 z2 | z4 | z4 | z4 | z4 | %20
+w: Trä- nen|mei- ner|trü- * ben _|Au- gen|ma- chen|mir die|Wan- ge|nass.|||||
+ z2 c3/2 c/ | c3 B | (A c) (B A) | A2 G z | z2 B3/2 B/ | e3 ^e | (f d) (A B) | c2 z2 | z4 | z4 | %30
+w: Wenn die|Son- ne|wie- * der _|schei- net,|wird der|Ra- sen|dop- * pelt _|grün:|||
+ z4 | z c2 c | c3 B | (d f) (e d) | c3 B | (c d) (A G) | (c a) (g ^e) | (f d) (c B) | (A2 G) z | %39
+w: |dop- pelt|wird auf|mei- * nen _|Wan- gen|mir _ die _|hei- * sse _|Trä- * ne _|glühn, _|
+ z B2 B | (d4- | d ^B) (c F) | A4- | A2 G2 | F2 z2 | z4 | z4 | z4 | z4 | z4 | !fermata!z2 |] %51
+w: mir die|hei-|* * sse _|Trä-|* ne|glühn.|||||||
+V:2
+ z4 |!p![I:staff +1] ^E,G,G,C C[I:staff -1]^EDF | x8 | x8 | z4"^m. g." c2 z c | c6 z2 | x8 | x8 | %8
+[I:staff +1] A,[I:staff -1]CCF"^m.g." d2 z d | d8- | d2 z2[I:staff +1] =C[I:staff -1]FFA | %11
+!>(![I:staff +1] =C[I:staff -1]FF^A[I:staff +1] B,[I:staff -1]=GGB!>)! | %12
+!>(![I:staff +1] B,[I:staff -1]FFB[I:staff +1] B,[I:staff -1]=FFB!>)! | %13
+[I:staff +1] B,!<(![I:staff -1]^EEB[I:staff +1] B,[I:staff -1]EE^G!<)! | %14
+!>(![I:staff +1] A,[I:staff -1]FFA[I:staff +1] A,^B,!>)!B,[I:staff -1]^D | %15
+[I:staff +1] G,[I:staff -1]CC^E[I:staff +1] C[I:staff -1]EEG | ^EGGc z4 | %17
+ [DFd]3!>(! [DFd] [DFd]4- | [DFd]4 [^DA^B]4!>)! | z4 c3 c | z4 c3 c | z4 [df]3 [df] | %22
+ z4 [AB]3 [AB] | z4 [=de]3 [de] | z4!<(! [=de]3 [de] | z4 [=ga]3 [ga]!<)! | z4 [FA]3 [=FA] | %27
+ z2!f!!<(! (A2 a2 =g2!<)! | =f2 d2)!>(! (!>!A4- | A4 B4!>)! |!p! c4) z4 | %31
+[I:staff +1] A,CA,C E,A,E,A, | ^E,G,G,C C[I:staff -1]^EDF | x8 | x8 | =EGDF"_cresc." CEB,D | x8 | %37
+ x8 |[I:staff +1] =C[I:staff -1]FFA[I:staff +1] B,[I:staff -1]EEG | %39
+[I:staff +1] B,[I:staff -1]^DDG!p![I:staff +1] B,[I:staff -1]=DDG | %40
+[I:staff +1] A,[I:staff -1]DD!<(!F[I:staff +1] B,[I:staff -1]DDF | %41
+[I:staff +1] A,[I:staff -1]DDF[I:staff +1] A,[I:staff -1]CCF!<)! | %42
+[I:staff +1] ^B,[I:staff -1]^DDF[I:staff +1] =B,[I:staff -1]=DD!>(!F | %43
+[I:staff +1] B,[I:staff -1]CCF[I:staff +1] B,[I:staff -1]CC^E!>)! | %44
+!p![I:staff +1] F,^A,A,[I:staff -1]F"^m. g." c2 z c |!<(! c8 | E^AAc!<)!"^m. g." f2 z f |!>(! f8 | %48
+ z4!>)!!p! (.[C^Ac]2 z2 | z4 .[C^Ac]2) z2 | .!fermata![C^Ac]4 |] %51
+V:3
+ z4 | C,,4 z4 | B,DA,C G,B,F,A, | ^E,G,G,C C[I:staff -1]^EDF |[I:staff +1] z4 x4 | x8 | %6
+ z4!p! D,,2 z D,, | D,,6 z2 | z4 A,[I:staff -1]=CCF | %9
+[I:staff +1] B,[I:staff -1]DD=G[I:staff +1] B,[I:staff -1]^EE^G | %10
+[I:staff +1] =C[I:staff -1]FFA[I:staff +1] D,,2 z D,, | D,,8 | [=G,,,=G,,]8 | %13
+ ([^G,,,^G,,]4 [A,,,A,,]4- | [A,,,A,,]4 [F,,,F,,]4) | [C,,C,]4 z4 | z4 C2 z C | (C6 B,2 | %18
+ A,2 G,2 F,2 G,2) |!p! (C,^E,G,C) z4 | (C,^E,G,C) z4 | (D,F,B,D) z4 | (^D,F,A,C) z4 | %23
+ (E,B,D^D) z4 | (E,G,B,^D) z4 | (A,,E,=G,C) z4 | (A,,D,F,^G,) z4 | (A,,E,A,C) A,C z2 | %28
+ (D,A,D=F) z4 | z4!>(! A,,,3!>)! A,,, | z4!>(! A,,,3!>)! A,,, | z4 C,,2 z C,, | C,,4 z4 | %33
+ B,DA,C G,B,F,A, | ^E,G,G,C C[I:staff -1]^EDF |[I:staff +1] z4!>(! C,,3!>)! C,, | %36
+ A,[I:staff -1]CCF!>(![I:staff +1] B,[I:staff -1]^EE!>)!G | %37
+[I:staff +1] A,[I:staff -1]DDF!>(![I:staff +1] A,B,B,!>)![I:staff -1]F | %38
+!>(![I:staff +1] z4 E,,3 E,, | z4!>)! ([^E,,,^E,,]4 | [F,,,F,,]4 [G,,,G,,]4 | %41
+ [A,,,A,,]4 [F,,,F,,]4) | C,,4- [C,,C,]4- | [C,,C,]4 C,,4 | [F,,,F,,]4 G,B,B,[I:staff -1]F | %45
+[I:staff +1] ^A,CC[I:staff -1]F C=EE^A |[I:staff +1] B,,,4!f![I:staff -1] ^DFF^A |[I:staff +1] x8 | %48
+ G,B,B,[I:staff -1]D!ped![I:staff +1] [C,F,^A,]2 z2 | z4 [F,,,F,,]2 z2 | %50
+ !fermata![C,F,^A,]4!ped-up! |] %51
+V:4
+ x4 | x8 | z4 C,,2 z C,, | C,,4 z4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %33
+ z4 C,,2 z C,, | C,,4 z4 | x8 | z4 D,,3 D,, | z4 ^D,,3 D,, | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %45
+ x8 | x8 | x8 | x8 | x8 | x4 |] %51
+V:5
+ x4 | x8 | x8 | x8 | =EGDF CEB,D |[I:staff +1] A,[I:staff -1]CCF[I:staff +1] B,[I:staff -1]DDG | %6
+[I:staff +1] C[I:staff -1]FFA[I:staff +1] B,[I:staff -1]^EEG | %7
+[I:staff +1] B,[I:staff -1]^EEG[I:staff +1] A,[I:staff -1]DDF | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %15
+ x8 | x8 | x8 | x8 | x4 ^EGEG | x4 ^EGEG | x4 FBFB | x4 B,FB,F | x4 EBEB | x4 EBEB | x4 AcAc | %26
+ x4 A,DA,D | x8 | x4 D=FDF | D=FDF DFDF | EAEA CECE | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %40
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | =DFFB[I:staff +1] B,[I:staff -1]DDF | x8 | x8 | x4 |] %51

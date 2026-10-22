@@ -1,0 +1,77 @@
+X:1
+T:4 Lieder, Op.11
+T:Riport a me (Piemontesisches Lied)
+C:Clara Faisst
+Z:Max Geissler
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=116
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+L:1/8
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Allegretto" z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | B B B | c c z/ c/ | e- (3e/d/ c/ B- | B z z | %12
+w: ||||||||So durch die|Gas- sen im|Sil- * * ber- licht |_|
+ G B e | g3/2 d/ e | ^d3/2 B/ d- | d z z |"^cresc." e e!<(! e | (e!<)! ^g/) f/ e | ^d/ ^A/ d2- | %19
+w: sing ich ver-|las- sen, du|hörst mich nicht.||Sieh, al- le|Ster- * ne sind|oh- ne Schein |
+ d z z |!p! B (^G/>A/) (B/>e/) | e2 A |"^crescendo" (3B/ ^d/ f/ g2- |"^rit." g2 f | z z B | %25
+w: _|komm aus * der *|Fer- ne,|sei wie- der mein  |_ _|Zum|
+ c2- c/ c/ | e- (3e/d/ c/ B | z3 |!<(! G B e!<)! | g2 z/!p! A/ | B3- | B z z | %32
+w: Leid  _ ge-|bo- * * * ren,||du warst mein|Glück, mein|Glück. |_|
+"^molto espr."!<(! e e e!<)! | (^g2"^rit." e/^c/ |!>(! ^B2) B!>)! | z3 |!f! =g f e | d3 | z3 | %39
+w: Was ich ver-|lo- * *|* ren,||o bring’s zu-|rück,||
+ z z"^poco accel." d | (d ^d2-) |!<(! ^d2- d/ e/ | (e3!<)! | g2) z | z3 | z3 | z3 |] %47
+w: o|bring’s  _|_ _ zu-|rück. |_||||
+V:2
+ (EF .G2 .B2) |{/B} (.A.G.A.G F2) |{/G} .E2 (E3 B) |!<(!{/B} (.F.E ^D4) | (GB=de!<)!ge | %5
+ (3efe dB Ae) |!>(! (3(^dBG B4-)!>)! | B6 | (EF G2 B2) |{/B} (.A.G.A.G F2) |{/G} .E2 (E3 B) | %11
+{/B} (FE ^D4) |!<(! (GB=dege)!<)! | (3(efe d!>(!B Ae) | (3(^d!>)!BG B4-) | B6 | %16
+"_cresc."[I:staff +1] (!arpeggio!.[^G,B,E]2[I:staff -1] !arpeggio!.[B,E^G]2 !arpeggio!.[EGB]2) | %17
+ (!arpeggio!.[E^G^c]2 !arpeggio!.[Gce]2 !arpeggio!.[Gce^g]2) | z2!mf! !>!^a4 | %19
+(({^^f^g)} (3f^e^d e>^B d2) | =e2 (=B>e) (B>e) |({/e} (3ag=f e4) |!f! z2 !>![Bg-b-]4 | %23
+"^rit." (3([gb].[^dg].[Bd]!>(! B4)!>)! | (E!p!F .G2 .B2) |{/B} (.A.G .A.G F2) |{/G} .E2 (E3 B) | %27
+{/B} (.F.E ^D4) |!<(! (GBdege)!<)! | (3(efe dBAe) | (3(^dBG B4-) | B6 | %32
+!mf!"^molto espr." (EF ^G2 B2) |"^rit."!<(! (3(^c^de dc^ge)!<)! | (3(^d^c^B d4-) | d6 | %36
+!f!"^passionato" ([Ee]2 [Ff]2 [=G=g]2) |!<(! (3([Aa][Bb][cc'] [ee']3!<)! [dd']) | %38
+({/d'} (3d)cB d4- |!>(! d6!>)! |"^poco accel." (3(.B.A.G) F4- | F4 x2 | %42
+!f!"^passionato" (3(B.AG) !>!g4- | (3(gfe"_dim." (3BAG({GA} G>)F) | (3(EDC B,4-) | %45
+ .[B,EG]2 z2 .[B,EGB] z | z2 !arpeggio!.[EGBe]2 z2 |] %47
+V:3
+ z !arpeggio![E,G,B,] !arpeggio![E,G,B,] | z !arpeggio![E,F,B,] !arpeggio![E,F,B,] | %2
+ z !arpeggio![E,G,B,] !arpeggio![E,G,B,] | z !arpeggio![E,A,B,] !arpeggio![E,A,B,] | %4
+ !arpeggio!.[E,G,B,] !arpeggio!.[D,G,B,] !arpeggio!.[C,G,E] | %5
+ G,, !arpeggio![D,G,B,] !arpeggio![C,E,A,] | B,, !arpeggio![^D,G,B,] !arpeggio![D,G,B,] | %7
+ (3(B,/G,/^D,/ (G,3/2) F,/) | z !arpeggio![E,G,B,] !arpeggio![E,G,B,] | %9
+ z !arpeggio![E,F,B,] !arpeggio![E,F,B,] | z !arpeggio![E,G,B,] !arpeggio![E,G,B,] | %11
+ z !arpeggio![E,F,B,] !arpeggio![E,F,B,] | (.[E,G,B,] .[D,G,B,] .[C,G,E]) | %13
+ (.G,, .[D,G,B,] .[C,E,A,]) | (.B,, .[^D,G,B,] .[D,G,B,]) | (3(B,/G,/^D,/ (G,3/2) F,/) | %16
+ E,, !arpeggio![B,,E,^G,] !arpeggio![E,G,B,] | [^C,,^C,] !arpeggio![E,^G,^C] !arpeggio![G,CE] | %18
+ ^D, !arpeggio![^^F,^A,^D] !arpeggio![A,D^^F] | ^D, [^G,^B,^E] [^^F,^A,^D] | %20
+ =D, [^G,=B,=E] [G,B,E] | (.C, .[E,A,C] .[A,CE]) | [B,,,B,,] [G,B,^D][I:staff -1] [B,^DG] | %23
+[I:staff +1] B,,, [^D,B,] [D,B,] | (E,, !arpeggio!.[E,G,B,] !arpeggio!.[E,G,B,]) | %25
+ z (!arpeggio!.[E,F,B,] !arpeggio!.[E,F,B,]) | z (!arpeggio!.[E,G,B,] !arpeggio!.[E,G,B,]) | %27
+ z !arpeggio![E,A,B,] !arpeggio![E,A,B,] | %28
+ !arpeggio![E,G,B,] !arpeggio![D,G,B,] !arpeggio![C,G,E] | %29
+ G,, !arpeggio![D,G,B,] !arpeggio![C,E,A,] | B,, (.[^D,G,B,] .[D,G,B,]) | %31
+ (3(B,/G,/^D,/) (G,3/2 F,/) | E,, !arpeggio![E,^G,B,] !arpeggio![E,G,B,] | ^C,, [^G,^CE] [G,CE] | %34
+ (.^G,, .[^D,^G,^B,] .[G,B,^D]) | (^G,, .[^D,^G,^B,] .[G,B,^D]) | E,, [E,=G,=B,] [G,B,E] | %37
+ D,, !arpeggio![D,F,C] !arpeggio![F,CD] | G,, !arpeggio!.[D,G,B,] !arpeggio!.[G,B,D] | %39
+ G,, [D,G,B,] [G,B,D] | B,, !arpeggio!.[A,B,^D] !arpeggio!.[A,B,D] | (3.B,/.A,/.G,/ F,2 | %42
+ E,, !arpeggio![E,G,B,E] !arpeggio![E,G,B,E] | E,, [E,G,B,] [B,,F,A,] | E,, [B,,E,G,] [E,G,B,] | %45
+[I:staff -1] (3B,/[I:staff +1](A,/G,/ (3F,/G,/F,/ E,/>B,,/) | .[E,,E,] z z |] %47
+V:4
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | !arpeggio![^DG] !arpeggio!.[B,D] !arpeggio!.[B,D] | x3 | x3 | %10
+ x3 | x3 | x3 | x3 | x3 | [^DG] [B,D] [B,D] | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x G [FA] | x3 | %25
+ x3 | x3 | x3 | x3 | x3 | x3 | .[^DG] .[B,D] .[B,D] | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %39
+ (3(D/C/B,/ D2) | x3 | x .[A,B,^D] .[A,B,D] | x3 | x3 | x3 | x3 | x3 |] %47
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | B,,3 | x3 | x3 | x3 | x3 | x3 |] %47

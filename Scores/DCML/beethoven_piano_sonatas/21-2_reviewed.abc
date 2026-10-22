@@ -1,0 +1,83 @@
+X:1
+T:Sonata no. 21 'Waldstein'
+T:Introduzione: Adagio molto
+C:Ludwig van Beethoven
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+M:6/8
+I:linebreak $
+K:F
+V:1 bass nm="piano"
+V:2 bass 
+V:3 bass nm="piano"
+L:1/16
+V:4 bass 
+V:1
+ z C,/>C,/A, z A,/>A,/^D | z (.[^G,E].[G,=B,E]) [G,B,E]2 z | %2
+w: ||
+[K:treble] z =B,3/4 B,/4=G z ^C3/4 C/4^A | z (.[=B,^F=B].[B,FB]) [B,FB]2 z |$ %4
+w: ||
+ z"_cresc." =F3/4 F/4=B z B3/4 B/4(f- | feg)!>(! _B2!>)! z | %6
+w: < * * * * *||
+ z!p! ([FA]!<(![Af]!<)!!>(! [FA]2)!>)! z | z"_dim." [B,DG] z z [G,B,E] z | %8
+w: p * *|> *|
+!pp! z ([A,CF][A,CA] [A,CF]2)[K:bass] C,/>C,/ |${/C,} A,>(.G,.A,/.B,/) =B,/C(D"_dim."_B,/4A,/4) | %10
+w: pp * * * *||
+ G,/[K:treble]!p! (.^F/.G/.A/.B/)(.^f/ .g/.a/.b/) z/[K:bass] C,/>C,/ |$ %11
+w: > * * p * * * * * * *|
+{C,/4} B,>(.A,.B,/.C/) ^C/D(=C"_dim."D/4B,/4) | %12
+w: |
+ [F,A,]/[K:treble]!p! (.^G/.A/.=B/.c/)(.^g/ .a/.=b/).c'c/>c/ |$ %13
+w: |
+"_cresc." (F f3/4 f/4e =g_B/>B/){B/} (A/4G/4A/4c/4) |!p! (F"_cresc." f3/4 f/4e (g B3/4) B/4A) | %15
+w: ||
+ z"_dim." [B,DG] z z [G,B,E] z |[K:bass] z C,3/4 C,/4A, z A,3/4 A,/4^D |$ %17
+w: > *|pp * * * * *|
+ E(.[^G,=B,E].[G,B,E]) [G,B,E]"_cresc."(.=G,.G,) |[K:treble]!pp! z =B,3/4 B,/4G z ^C3/4 C/4^A | %19
+w: * * * < * *|pp * * * < *|
+ =B(.[=B,^FB].[B,FB]) [B,FB]"_cresc." z2 | =F, =F3/4 F/4"_cresc."=B- B B3/4 B/4f- |$ %21
+w: * * * <|pp * * < * * * *|
+ f f3/4 f/4_a- a f3/4 f/4d'- | d' f3/4 f/4f'- f' f3/4 f/4f'- | %23
+w: ||
+ f' f3/4 f/4f'-"_dim." f'3/4 (f/4f'/4) z/4 z/4 (d/4d'/4) z/4 z/4 (=B/4 |$ %24
+w: * * * * > * * * * *|
+ =b/4) z/4 z/4 (F/4f/4) z/4 z/4 (D/4d/4) z/4 z/4 (=B,/4 =B/4) z/4 z/4[K:bass] (F,/4F/4) z/4 z/4 (D,/4D/4) z/4 z/4 (=B,,/4 | %25
+w: |
+!pp! =B,)(.[=B,,D,F,].[B,,D,F,]) [B,,D,F,]2[K:treble] (f | %26
+w: pp * * * *|
+ e)[K:bass] (.[C,E,].[C,E,]) [C,E,]2[K:treble] (e |$ %27
+w: |
+ d)[K:bass][D,F,A,][K:treble] (d g)[K:bass][=B,,D,G,][K:treble]!fermata!g |] %28
+w: |
+V:2
+ x6 | x6 |[K:treble] x6 | x6 |$ x6 | x3 !>!E2 x | x6 | x6 | x5[K:bass] x |$ x6 | %10
+w: ||||||||||
+ x/[K:treble] x9/2[K:bass] x |$ x3 z/ z G,E,/ | x/[K:treble] x11/2 |$ F2 G- GEF | F2 G- GEF | x6 | %16
+w: |> *|||< * * * *||
+[K:bass] x6 |$ x6 |[K:treble] x6 | x6 | x6 |$ x6 | x6 | x6 |$ x15/4[K:bass] x9/4 | x5[K:treble] x | %26
+w: ||||||||||
+ x[K:bass] x4[K:treble] x |$ x[K:bass] x[K:treble] x2[K:bass] x[K:treble] x |] %28
+w: ||
+V:3
+""!pp! [F,,,F,,]6"" [F,,,F,,]6 | z2"" (.[E,,E,]2.[E,,E,]2) [E,,E,]4 z2 |"m" [E,,E,]6"m" [E,,E,]6 | %3
+ z2"" (.[^D,,=B,,^D,]2.[D,,B,,D,]2) [D,,B,,D,]4 z2 |$"m" (([=D,,=D,]6"" [_D,,_D,]6)) | %5
+"" [C,,C,]2""[C,,C,]2[C,,C,]2"" [C,,C,]4 z2 | z2"m" [D,,D,]2[D,,D,]2 [D,,D,]4 z2 | %7
+"m" [B,,,B,,]2 z2 z2"" [C,,C,]2 z2 z2 |"" [F,,,F,,]2[F,,,F,,]2[F,,,F,,]2 [F,,,F,,]4"" z2 |$ %9
+"" [F,,C,]2>""(.[E,,C,]2"".[F,,C,]"".[G,,C,])"" [^G,,C,]""[A,,C,]2""[B,,C,]2""""C, | %10
+"" [E,,C,]3"" (.[^F,C]"".[G,C]"".[A,C]"" .[B,C])"m" (.^F,,"m".G,,.A,,"".B,,.G,,) |$ %11
+"" E,,[G,,C,]2""(.[^F,,C,]"".[G,,C,]"".[A,,C,]) [A,,C,-]""[B,,C,]2""[E,,C,]2""[C,,C,] | %12
+"" [=F,,C,]3"" .^G,"".A,"".=B,"" .C"" .^G,,"".A,,.=B,,"".C,._B,, |$"" z2 C2""C2-"" C2""=G,2""A,2 | %14
+ z2"" C2""C2-"" C2""G,2"m"F,2 |"m" [B,,,B,,]2 z2 z2"" [C,,C,]2 z2 z2 | %16
+"" F,,6"m" [F,,,F,,-]4!<(! F,,/A,,/!<)!!>(!C,/A,,/!>)! |$ %17
+"" E,,2(.[E,,E,]2.[E,,E,]2)"m" [E,,E,]4 z2 | G,6"m" [E,,E,]4-!<(! [E,,E,]/(E,/!<)!!>(!G,/E,/)!>)! | %19
+"" ^D,2(.[^D,,=B,,D,]2.[D,,B,,D,]2) [D,,B,,D,]2"m" (.=F,2.F,2) | %20
+!pp! D,4- D,/F,/_A,/F,/"CGer6" _D,4- D,/F,/A,/F,/ |$"" C,4- C,/F,/_A,/F,/"" =B,,4- B,,/F,/A,/F,/ | %22
+"m" _A,,4- A,,/F,/=B,/F,/"" G,,4- G,,/F,/B,/F,/ | %23
+"m" _A,,4- A,,/F,/=B,/F,/ A,,/F,/B,/F,/ A,,/F,/B,/F,/ A,,/F,/B,/F,/ |$ %24
+"" G,,/F,/=B,/F,/ G,,/D,/F,/D,/"" G,,/=B,,/D,/B,,/"" G,,/B,,/D,/B,,/ G,,/B,,/D,/B,,/"" G,,/D,,/=B,,,/D,,/ | %25
+"" G,,,2(.[G,,,G,,]2.[G,,,G,,]2)"m" [^G,,,^G,,]4 z2 | %26
+"m" z2 (.[A,,,A,,]2.[A,,,A,,]2) [A,,,A,,]4 z2 |$"m" [F,,,F,,]2 z2 z2"" [G,,,G,,]2 z2 !fermata!z2 |] %28
+V:4
+ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ z3 z2 z/ =G,,/4F,,/4 | x6 |$ x6 | x6 |$ %13
+ A,,A,B, E,C,F, | x A,B, E,C,D, | x6 | x6 |$ x6 | [E,,E,]3 x3 | x4 (.=D,.D,) | x6 |$ x6 | x6 | %23
+ x6 |$ x6 | x6 | x6 |$ x6 |] %28

@@ -1,0 +1,42 @@
+% Ich ruf' zu dir, Herr Jesu Christ: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=997
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Ich ruf' zu dir, Herr Jesu Christ
+C:BachJS
+%%score 1 ( 2 3 ) 4
+L:1/8
+Q:1/4=38
+M:4/4
+I:linebreak $
+K:Fmin
+V:1 bass nm="Vibraphone" snm="Vbp"
+V:2 treble nm="Oboe" snm="Ob"
+V:3 treble 
+L:1/4
+V:4 treble nm="Pipe Organ" snm="P Org"
+L:1/16
+V:1
+ x6 F,,F,, | F,F, F,=E, F,F, F,_E, | D,D, D,D, C,C, F,F, | CC CC CC B,=A, | %4
+ B,_A, G,F, =E,C, F,,F,, | F,F, F,=E, F,F, F,_E, | D,D, D,D, C,C, F,F, | CC CC CC B,=A, | %8
+ B,_A, G,F, =E,F, C,C, | D,D, _E,E, A,E, F,D, | E,C, D,E, A,,A,, =E,,E,, | F,,F,, F,F, F,=E, F,D, | %12
+ B,,G,, C,C, D,D, D,D, | =D,D, E,E, =A,,A,, =B,,B,, | C,C, _B,,B,, _A,,A,, G,,G,, | %15
+ x2 F,,E,, E,,=D,, D,,E,, | E,,A,, A,,_G,, G,,F,, F,,B,, | %17
+[Q:1/4=35] B,,B,, A,,A,,[Q:1/4=30] =G,,G,, F,,D, | D, =B,,B,, C,C, F,,-F,, x |] %19
+V:2
+ x6 c2 | _A2 _B2 A>G F>G | _A/_B/A/B/ B>[AB] c2 c>_d | _e2 _d/ z _B/ _A2 Bc | %4
+ _d2- d/ [_ef]/d/c/ c2 c2 | _A2 _B2 A>G F>G | _A/_B/A/B/ B>[AB] c2 c>_d | _e2 _d/ z _B/ _A2 Bc | %8
+ _d2- d/ [_ef]/d/c/ c2 e2 | f2 _e[_dc]/d/ c_B _AB | c2 _B2 _A2 c2 | c2 c2 _B2 _A2 | G4 F2- F2 | %13
+ _A2 G2 F2- F2 | _E6 E2 | _A2 A2 _B2 B2 | c6 _d2 |[Q:1/4=35][Q:1/4=30] c2 _B2 _A2 F>G | %18
+ _A2 G2 F2 x2 |] %19
+V:3
+ x x3 | z4 | z4 | z c3/4 z2 z/4 | z4 | z4 | z4 | z c3/4 z2 z/4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %15
+ z4 | z4 | z4 | z3 x |] %19
+V:4
+ x12 A,CF=E | FCA,F, G,B,DC F,A,CB, A,F,A,C | F=EFA GFEF ECG,B, A,CFA | G_EAG AEF_G FDFA =GDC_G | %4
+ FB,DF BA=GA GC=EB, A,CFE | FCA,F, G,B,DC F,A,CB, A,F,A,C | F=EFA GFEF ECG,B, A,CFA | %7
+ G_EAG AEF_G FDFA =GDC_G | FB,DF BA=GA GB,A,F G,DA,C | A,CB,D B,DAG AEDG CFAG | %10
+ AEA,_G FA,=G,D CA,CE =GCB,G | =A,CFG =AFEA DG_AG CFGF | DFGF =EB,DC _A,CFE FCA,F, | %13
+ B,FGF B,_EFE CEFE =DG,=B,D | G,CE_D G,_B,DC E,A,CB, DB,E,D | F,A,DC F,A,CB, F,A,B,A, G,B,DC | %16
+ A,CEA EBcB =AE_G=A, B,=G_A,F |[Q:1/4=35] G,=EF_E F,DED[Q:1/4=30] _E,CDC B,FGF | %18
+ =DFGF =E_DB,G, =A,CF2 x4 |] %19

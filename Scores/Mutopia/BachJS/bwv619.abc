@@ -1,0 +1,35 @@
+% Christe, du Lamm Gottes: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=697
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Christe, du Lamm Gottes
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 ) 5
+L:1/4
+Q:1/4=128
+M:3/2
+I:linebreak $
+K:F
+V:1 treble nm="right:right" snm="P Org"
+V:2 treble 
+V:3 treble nm="left:left" snm="P Org"
+V:4 treble 
+V:5 bass nm="pedal:pedal" snm="Cb"
+V:1
+ z f e d c B | A d c B A G | F2 c4- | c f e d c B | c4 [dA]2 | e4 [eB]2 | f6 | e4 e d | %8
+ [ec]4 [d_A]2 | e4 [fd]2 | g4 [f=d]2 | e4 A =B | [ec]2 [=d=B]2 [cA]2 | e6 | [cd-] d5- | =G6 d6 |] %16
+V:2
+ x6 | x6 | x6 | x6 | A E F G z2 | z F G A z2 | z A =B _d =d2 | z a g f z2 | x6 | z =A =B _d z2 | %10
+ e2 _d2 z2 | _d E F G z2 | x6 | =B d G2 c2- | z c =B A G _G | x12 |] %16
+V:3
+ z6 | z F E D C B, | A, D C B, A, G, | F,4 G,2 | A,4 [FA,]2 | B,6 | _D2 =D E F G | A2 z2 G,2 | %8
+ A,4 E D | C4 [D_B,]2 | A,4 F G | [AA,]2 G,2 F,2 | A,6 | =G F E D C2 | G G,6- E D C =B, A, | %15
+ =B,6 G,6 |] %16
+V:4
+ x6 | x6 | x6 | x6 | z C D E z2 | z D E F G2 | A,4 z2 | A,4 z2 | z A G F =B,2 | z2 E2 z2 | %10
+ z _D =D E z2 | x6 | z =B, C D E _G | G,6- | x12 | x12 |] %16
+V:5
+ F,,,6- | F,,,6- | F,,, F,, E,, D,, C,, B,,, | A,,, D,, C,, B,,, A,,, G,,, | %4
+ F,,, B,, A,, G,, F,, D,, | G,,, C, B,, A,, G,, E,, | A,,, A,, G,, F,, E,, D,, | %7
+ _D,,2 =D,,2 B,,,2 | A,,,4 z2 | z A,, G,, F,, E,, D,, | _D,, A,,, G,,, F,,, E,,, =D,,, | A,,,4 z2 | %12
+ z6 | z =B,,, C,, D,, E,, _G,, | =G,,6 | G,,,6 |] %16

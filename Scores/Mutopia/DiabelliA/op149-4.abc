@@ -1,0 +1,61 @@
+% 28 melodische Übungsstücke (No. 4): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=404
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:28 melodische Übungsstücke (No. 4)
+C:Anton Diabelli
+%%score ( 1 2 3 ) ( 4 5 )
+L:1/4
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:none
+V:1 treble nm="up"
+L:1/8
+V:2 treble 
+V:3 treble 
+V:4 treble nm="down"
+L:1/8
+V:5 treble 
+V:1
+ c'd' e'd' c'd' e'f' | g' z e' z c' z e' z | f'e' d'f' e'd' c'e' | d' z g' z d' z g' z | %4
+ c'd' e'd' c'd' e'f' | g' z e' z c' z e' z | d' z g' z f'e' f'd' | c' z e' z c' z3 | %8
+ [d'G,B,D]e' [^f'G,B,D]g' [G,B,D] z [G,B,D] z | [d'G,B,D]e' [^f'G,B,D]g' [G,B,D] z [G,B,D] z | %10
+ [^f'A,CD] z [d'A,CD] z [e'A,CD] z [f'A,CD] z | g'4 d'4 | %12
+ [d'G,B,D]e' [^f'G,B,D]g' [G,B,D] z [G,B,D] z | [d'G,B,D]e' [^f'G,B,D]g' [G,B,D] z [G,B,D] z | %14
+ [^f'A,CD] z d' z e' z f' z | g'6 =f'd' | c'd' e'd' c'd' e'f' | g' z e' z c' z e' z | %18
+ f'e' d'f' e'd' c'e' | d' z g' z d' z g' z | c'd' e'd' c'd' e'f' | g' z e' z c' z e' z | %22
+ d' z g' z f'e' f'd' | c' z [e'G,CE] z [c'G,CE] z3 | [d'G,B,D]e' [^f'G,B,D]g' [G,B,D] z [G,B,D] z | %25
+ [d'G,B,D]e' [^f'G,B,D]g' [G,B,D] z [G,B,D] z | [^f'A,CD] z [d'A,CD] z [e'A,CD] z [f'A,CD] z | %27
+ g'4 d'4 | [d'G,B,D]e' [^f'G,B,D]g' [G,B,D] z [G,B,D] z | %29
+ [d'G,B,D]e' [^f'G,B,D]g' [G,B,D] z [G,B,D] z | [^f'A,CD] z d' z e' z f' z | g'6 =f'd' | %32
+ c'd' e'd' c'd' e'f' | g' z e' z c' z e' z | f'e' d'f' e'd' c'e' | d' z g' z d' z g' z | %36
+ c'd' e'd' c'd' e'f' | g' z e' z c' z e' z | d' z g' z f'e' f'd' | c' z [e'G,CE] z [c'G,CE] z3 |] %40
+V:2
+ [CE] G, [CE] G, | [CE] G, [CE] G, | [DF] G, [CE] G, | [B,D] G, [B,D] G, | [CE] G, [CE] G, | %5
+ [CE] G, [CE] G, | [B,G] G, [B,G] G, | [G,CE] [G,CE] [G,CE] z | x4 | x4 | x4 | %11
+ [G,B,D]/ z/ [G,B,D]/ z/ [G,B,D]/ z/ [G,B,D]/ z/ | x4 | x4 | z [D^F] [^CG] [=CA] | B, C D B, | %16
+ [CE] G, [CE] G, | [CE] G, [CE] G, | [DF] G, [CE] G, | [B,D] G, [B,D] G, | [CE] G, [CE] G, | %21
+ [CE] G, [CE] G, | [B,G] G, [B,G] G, | [G,CE] z3 | x4 | x4 | x4 | %27
+ [G,B,D]/ z/ [G,B,D]/ z/ [G,B,D]/ z/ [G,B,D]/ z/ | x4 | x4 | z [D^F] [^CG] [=CA] | B, C D B, | %32
+ [CE] G, [CE] G, | [CE] G, [CE] G, | [DF] G, [CE] G, | [B,D] G, [B,D] G, | [CE] G, [CE] G, | %37
+ [CE] G, [CE] G, | [B,G] G, [B,G] G, | [G,CE] z3 |] %40
+V:3
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | G4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | G4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 |] %40
+V:4
+ [ce]8 | [ce]4 [ce]4 | [df]4 [ce]4 | d z g z d z g z | [ce]8 | [ce]4 [ce]4 | [df]4 [df]4 | %7
+ [ce] z [ce] z [ce] z3 | G,,2 z2 de ^fg | G,,2 z2 de ^fg | ^f z d z e z f z | g4 d4 | %12
+ G,,2 z2 de ^fg | G,,2 z2 de ^fg | ^f z d z e z f z | g6 =fd | [ce]8 | [ce]4 [ce]4 | [df]4 [ce]4 | %19
+ d z g z d z g z | [ce]8 | [ce]4 [ce]4 | [df]4 [df]4 | [ce] z [ce] z [ce] z3 | G,,2 z2 de ^fg | %25
+ G,,2 z2 de ^fg | ^f z d z e z f z | g4 d4 | G,,2 z2 de ^fg | G,,2 z2 de ^fg | ^f z d z e z f z | %31
+ g6 =fd | [ce]8 | [ce]4 [ce]4 | [df]4 [ce]4 | d z g z d z g z | [ce]8 | [ce]4 [ce]4 | [df]4 [df]4 | %39
+ [ce] z [ce] z [ce] z3 |] %40
+V:5
+ C, z3 | C,, z C, z | B,, z C, z | G,, z G,, z | C, z3 | C,, z C, z | G,, z G,,, z | %7
+ C,, [C,,C,] [C,,C,] z | z2 B,, z | z2 B,, z | B,,, z D, z | G,, z3 | z2 B,, z | z2 B,, z | %14
+ D, z D,, z | G,, A,, B,, G,, | C, z3 | C,, z C, z | B,, z C, z | G,, z G,, z | C, z3 | %21
+ C,, z C, z | G,, z G,,, z | C,, [C,,C,] [C,,C,] z | z2 B,, z | z2 B,, z | B,,, z D, z | G,, z3 | %28
+ z2 B,, z | z2 B,, z | D, z D,, z | G,, A,, B,, G,, | C, z3 | C,, z C, z | B,, z C, z | %35
+ G,, z G,, z | C, z3 | C,, z C, z | G,, z G,,, z | C,, [C,,C,] [C,,C,] z |] %40

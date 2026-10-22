@@ -1,0 +1,31 @@
+X:1
+T:Allein Gott in der H&ouml;h sei Ehr
+T:Allein Gott in der H&ouml;h sei Ehr
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ G/A/ | B c d c | B A !fermata!B B | B A/B/ c/B/ A | G/E/ F !fermata!G x :: G x3 | A B c B | %7
+ A/>B/ B !fermata!A A | B c d c | B A !fermata!B G | A B c/B/ A | G/E/ F !fermata!G x || %12
+V:2
+ D2 | G2 G2 F2 EF | GF E2 !fermata!^D2 E2 | =DE F2 G3 F | G2 D2 !fermata!D2 x2 :: DE x6 | %6
+ F2 ^G2 AA, DE | A, A2 ^G !fermata!E2 D2 | D2 =G2 F^G A2 | =GF E2 !fermata!^D2 B,^C | %10
+ =DE F2 E3 D/=C/ | G2 D2 !fermata!D2 x2 || %12
+V:3
+ Bc | d2 eG AB cd | eB c2 !fermata!F2 GA | Bc d2 e3 d/c/ | d c/B/ A2 !fermata!B2 x2 :: B2 x6 | %6
+ A2 d2 e=f fe | e/d/e =f e/d/ !fermata!c2 A2 | G2 GA B2 E2 | eB c2 !fermata!F2 G2 | F2 BA G3 F | %11
+ d c/B/ A2 !fermata!B2 x2 || %12
+V:4
+ G,,2 | G,F, E,2 D,2 A,,2 | E,D, C,2 !fermata!B,,2 E,F, | G,2 F,2 E,D, C,A,, | %4
+ B,,C, D,2 !fermata!G,,2 x2 :: G,2 x6 | D,D CB, A,2 G,2 | =F,C, D,E, !fermata!A,,2 ^F,2 | %8
+ G,F, E,2 B,,2 C,D, | E,D, C,2 !fermata!B,,2 E,2 | D,2 ^D,2 E,=D, C,A,, | %11
+ B,,C, D,2 !fermata!G,,2 x2 || %12

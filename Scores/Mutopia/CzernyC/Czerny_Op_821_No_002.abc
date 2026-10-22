@@ -1,0 +1,21 @@
+% 160 Eight-Measure Exercises, No. 2: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2061
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:160 Eight-Measure Exercises, No. 2
+C:Czerny, C.
+%%score 1 2
+L:1/16
+Q:1/4=110
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="upper" snm="Pno"
+V:2 bass nm="lower" snm="Pno"
+V:1
+ [eg]8 z2 [ce] z | [df]8 z2 [Bd] z | [ce]8 z2 [Ge] z | [FAd]8 z2 [FAd] z | [EGc]12 | [DFGB]12 | %6
+ [EGc] z GA Bcde fgab | c' z3 [EGc] z7 |] %8
+V:2
+ z C,D,E, F,G,A,B, C2 z2 | z G,,A,,B,, C,D,E,F, G,2 z2 | z C,,D,,E,, F,,G,,A,,B,, C,2 z2 | %3
+ z F,,G,,A,, B,,^C,D,E, F,2 z2 | z G,,A,,B,, =C,B,,C,D, E,D,E,F, | G,^F,G,F, G,F,G,A, G,=F,E,D, | %6
+ C, z F,E, D,C,B,,A,, G,,F,,E,,D,, | C,, z3 [C,E,G,] z7 |] %8

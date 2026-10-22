@@ -1,0 +1,31 @@
+% Perger Präludium: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2017
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Perger Präludium
+C:Anton Bruckner (1824-1896)
+%%score ( 1 2 ) 3 4
+L:1/4
+Q:1/4=82
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="right" snm="P Org"
+V:2 treble 
+V:3 bass nm="left" snm="P Org"
+V:4 bass nm="pedal" snm="P Org"
+V:1
+ c3 B | [_BD]2 [AC]2 | _B3 ^G/^F/ | ^F3 E | E4 | D4 | ^d3 =d | [^c=F]2 [=c^D]2 | [^g^G]3 [=g=G] | %9
+ [^f^F]2 [=f=F]2 | e3 f | e2 d2 | c3 B | A4 | [^GE]4 | z4 | c3 B | [_BD]2 [AC]2 | _B3 =B | %19
+ _B2 _B,2 [^G=B,]2 | =G4- | A, G4- B, C D | [GE]16- G | E4 B,2 A, B, | C4- | C4- | C z3 |] %27
+V:2
+ [GE]4 | F4 | [^C_B,]4 | x4 | x4 | x4 | ^F4 | x4 | B4 | A4 | G4 | F4 | E4 | E2 D2 | x4 | x4 | %16
+ [GE]4 | F4 | _B,4- | x6 | C3 D | x8 | B,4- x13 | x8 | x4 | x4 | x4 |] %27
+V:3
+ z4 | z4 | z4 | [^CG,]4- | [CG,]4 | [DF,]4 | B,3 A, | ^G,2 C2 | E3 D | D2 C2 | C4 | B,4- | %12
+ B,2 A, B, | C2 B, A, | B,4 | z4 | z4 | z4 | ^C,4 | D,3 ^D, | E,4- | E,4 | F,4- | F,4 | E,4- | %25
+ E,4- | E, z3 |] %27
+V:4
+ C,4 | D,2 F, F,, | ^F,,4 | A,,4 | _B,,4- | B,,4 | =B,,3 D, | F,2 ^G,2 | E,3 =G, | D,2 F,2 | C,4 | %11
+ G,,4 | A,,3 G,, | F,,4 | E,,4 | z4 | C,4 | D,2 F, F,, | ^F,,4 | ^F,,4 | G,,4- | G,,4- | G,,4- | %23
+ G,,4 | [C,,C,]4- | [C,,C,]4- | [C,,C,] z3 |] %27

@@ -1,0 +1,56 @@
+% Goldberg Variations - 23: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1418
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Goldberg Variations - 23
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=85
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="upper" snm="Hpschd"
+V:2 treble 
+L:1/8
+V:3 treble nm="lower" snm="Hpschd"
+V:4 treble 
+L:1/8
+V:1
+ z2 G2 bagf ed^cB | AGF2 agfe d^cBA | GFE2 gfed ^cBAG | FED2 z3 [EF] [GA][B^c]d2- | %4
+ d2B,=C DEFG ABcd | e2CD EFGA Bcde | f2DE FGAB cdef | g2 z3 [fe][dc][BA] G z3 | %8
+ z [bd][bd] z (3[gf]2[ed]2 z2 (3[cB]2[AG]2 z2 | z [ad][ad] z (3[d^c]2[BA]2 z2 (3[GF]2[ED]2 z2 | %10
+ z [gB][gB] z (3[=cB]2[AG]2 z2 (3[AG]2[FE]2 z2 | z [gA][gA] z (3[FE]2[D^C]2 z2 (3[DC]2[B,A,]2 z2 | %12
+ z Aag fed=c BAGF | BGFE DCB,A, G,B,ED | ^CB,A,B, CDEF GAB^c | d[^cB][AG][FE] D2 z6 | %16
+ a2 z [gg] f2 z [ee] d2 z =c | B2 z [AA] G2 z [FF] E2 z D | C2 z [B,B,] A,2 z [G,G,] F,2 z [E,E,] | %19
+ ^D,2 z F, A,2 z C B,2 z A, | G,2 z3 ^def g^gab | c'a=g=f e=dcB AG^FE | %22
+ [^D=d]cB2 (3:2:2[B^c]2[^de]2^f (3:2:1z2 fed | [e=c][BA][BA][GF] [GF][E^D]E z4 z | %24
+ z [EC][=F=D][GE] [AF][BG][cA][dB] [ec]2 z2 | z [dB][cA][BG] [A^F][GE][FD][EC] [DB,]2 z2 | %26
+ z [DB,] z [B,^G,] z [DB,] z [B,=G,] z [B,G,] z [G,E,] | %27
+ z [G,E,] z [E,^C,] z [G,E,] z [E,=C,] z [E,C,] z [C,A,,] | %28
+ z [C,A,,] z [A,,F,,] z [C,A,,] z [E,C,] z [G,E,] z [B,G,] | %29
+ z [D=F,] z [B,D,] z [DF,] z [^FA,] z [AC] z [cE] | z [^cA][dB][ec] [^fd][ge][af][bg] [=c'a]2 z2 | %31
+ z [bd][ac][gB] [fA][eG][dF][cE] [BD]2 z2 |] %32
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | z7/2 g z3/2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %32
+V:3
+ G2ba gfed ^cBAG | F2ag fed^c BAGF | E2gf ed^cB AGFE | D2 z [=CB,] [A,G,][F,E,]D,2 z3 C, | %4
+ B,,2 z2 B,CDE FGAB | cde2 CDEF GABc | def2 DEFG ABcA | [BG][AB][cd][ef] g z4 [FE][DC][B,A,] | %8
+ G,2 z A, B,2 z C D2 z E | F2 z G A2 z B ^c2 z d | e2 z f g2 z a b2 z d | ^c2 z e G2 z B A2 z G | %12
+ F2 z A, AGFE D=CB,A, | G,B,DC B,A,G,F, E,D,^C,B,, | A,,E,G,F, E,D,^C,B,, A,,G,,F,,E,, | %15
+ D,,4- D,, [E,,F,,][G,,A,,][B,,^C,] D,2 z2 | %16
+ z [D,D,,][D,D,,] z (3[E,F,]2[G,A,]2 z2 (3[A,B,]2[=CD]2 z2 | %17
+ z [G,G,,][G,G,,] z (3[DE]2[FG]2 z2 (3[FG]2[AB]2 z2 | %18
+ z [AE][AE] z (3[Bc]2[de]2 z2 (3[ef]2[ga]2 z2 | z [c'a][c'a] z (3[ba]2[gf]2 z2 (3[gf]2[e^d]2 z2 | %20
+ z e=dc BAGF EDCB, | A,2 z3 ^G,A,B, C^C^DE | F2 z A, =G,2=C2 A,2B,2 | %23
+ E,2 (12:7:1z8 [CB,] (3:2:4z/ [A,G,]-[A,G,][F,G,]2[=F,E,] (3:2:1z/ | %24
+ C,2 z3 [DB,][CA,][B,G,] [A,^F,][G,E,][F,D,][E,C,] | %25
+ [D,B,,]2 z3 [C,A,,][D,B,,][E,C,] [F,D,][G,E,][A,F,][B,G,] | %26
+ [CA,]2[CA,]2 [CA,]2[CA,]2 [A,F,]2[A,F,]2 | [F,D,]2[F,D,]2 [F,D,]2[F,D,]2 [D,B,,]2[D,B,,]2 | %28
+ [B,,G,,]2[B,,G,,]2 [B,,G,,]2[D,B,,]2 [=F,D,]2[A,F,]2 | [CE,]2[CE,]2 [CE,]2[EG,]2 [GB,]2[BD]2 | %30
+ [dF] z4 [EG,][DF,][CE,] [B,D,][A,C,][G,B,,][F,A,,] | %31
+ [G,G,,]2[C,A,,][D,B,,] [E,C,][F,D,][G,E,][A,F,] [B,G,]2 z2 |] %32
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | z7/2 [A,B,]/ z3/2 D,/ | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z/ B,,/ z4 z |] %32

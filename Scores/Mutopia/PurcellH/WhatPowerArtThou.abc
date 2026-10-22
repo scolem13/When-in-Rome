@@ -1,0 +1,64 @@
+% What power art thou (King Arthur): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2243
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:What power art thou (King Arthur)
+C:Henry Purcell (1659-1695)
+%%score 1 2 3
+L:1/8
+Q:1/4=45
+M:2/2
+I:linebreak $
+K:Cmin
+V:1 bass nm="Voice" snm="V"
+V:2 treble nm="upper" snm="Pno"
+V:3 bass nm="lower:2" snm="Pno"
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z2 C,C, C,C,C,C, | D,D,D,D, D,D,D,D, | %10
+ E,E,E,E, =E,E,E,E, | F,F,F,F, _G,G,G,G, | =G,G, G,2 z2 =A,A, | B,B,B,B, =B,B,B,B, | CCCC CCC=B, | %15
+ CC C2 z4 | z8 | z4 CCCC | CB,B,B, B,B,B,B, | B,=A,A,A, _A,A,A,A, | G,G,G,C CF,F,F, | %21
+ =E,E,E,E, F,F,F,=B,, | C,C,C,C, F,F,F,F, | z8 | z2 F,F, F,F,F,F, | G,G,G,G, =A,A,A,A, | %26
+ B,B,B,B, =B,B,B,B, | CCCC DDDD | EEEE z2 ED | DDDC DDDD | =B,B,B,B, z2 CC | C_B,B,B, B,A,A,A, | %32
+ A,2 G,2 G,G,G,F, | F,E,E,E, D,3 C, | C,4 z4 |] %35
+V:2
+ [CEG][CEG][CEG][CEG] [CFA][CFA][CFA][CFA] | [B,DF][B,DF][B,DF][B,DF] [B,EG][B,EG]EE | %2
+ [C=E][CE][CE][CE] [CF][CF][_EF][EF] | [DF][DF][DF][DF] [CE][CE][CE][CE] | %4
+ [CD][CD][CD][CD] [B,E][B,E][B,E][B,E] | DDDD _DDDD | =B,B,B,B, CCCC | CCCC CCC=B, | %8
+ CC[CG][=B,G] [CEA][CEA][CEA][CEA] | [DFA][DFA][DFA][DFA] [DFG][DFG][DFG][DFG] | %10
+ [CEG][CEG][CEG][CEG] [C=EGc][CEGc][CEGc][CEGc] | [CFc][CFc][CFc][CFc] [_E_Gc][EGc][DGc][CGc] | %12
+ [D=G=B][DGB][DGB][DGB] [E=Ac][EAc][EAc][EAc] | [D_Bd][DBd][GBd][GBd] [G=Bd][GBd][GBd][GBd] | %14
+ [Gd][Gd][Gd][Gc] [Fcd][Fcd][Fcd][F=Bd] | [Gce][Gce][ce][Gce] [Adf][Adf][Adf][Adf] | %16
+ [=Ace][Ace][Ace][Ace] [Gcd][Gcd][F=Bd][FBd] | [=Ec][EGc][EGc][EGc] [_Ac=e][Ace][Ace][Ace] | %18
+ [Acf][ABf][ABf][ABf] [GBg][GBg][Bcg][Bcg] | [Bcg][=Acg][Acg][FAcg] [_Adf][Adf][Adf][Adf] | %20
+ [Gc=e][Gce][Gce][GBce] [FAcf][FAcf][_DGB][DFB] | [=EGB][EGB][CEGB][CEGB] [=DFA][DFA][DFA][DFA] | %22
+ [_EFG][EFG][CFG][C=EG] [CFA][CFA][CFA][CFA] | [_DFG][DFG][DFG][DFG] [CFG][CFG][CFG][C=EG] | %24
+ [CF=A][CFA][CFA][CFA] [=DFB][DFB][DFB][DFB] | [GB][GB][EGB][EGB] [E=Ac][EAc][EAc][EAc] | %26
+ [FB_d][FBd][FBd][FBd] [=DF=B=d][DFBd][DFBd][DFBd] | [Gce][Gce][EGce][EGce] [DG=B][DGB][DGB][DGB] | %28
+ [CEGc][CEGc][CEGc][CEGc] [E_Gc][EGc][EGc][DG_B] | [D=GB][DGB][DGB][CGB] [DFA][DFA][DFA][DFA] | %30
+ [=B,DG][B,DG][B,DG][B,DG] [CG][CG][CG][CG] | [CDF][DF][_B,DF][B,F] [B,CE][CE][EAe][EAe] | %32
+ [DFAd][DFAd][DGBd][DGBd] [CEc][CEc][CFc][CFc] | [DG=B][DGB][C=Ac][CAc] [_Bc][_Ac][Gc][F=B] | %34
+ [Ec][Ec][CE][CE] [CD][CD][CD][=B,D] |[K:C][M:3/4] C4 z2 |] %36
+V:3
+ C,C,C,C, F,,F,,F,,F,, | B,,B,,B,,B,, E,E,[G,B,E,][G,B,E,] | %2
+ [A,C,][B,C,][G,C,][G,C,] [F,=A,,][F,A,,][A,,E,][A,,E,] | %3
+ [=B,,G,][B,,G,][B,,G,][B,,G,] [C,G,][C,G,][C,G,][C,G,] | %4
+ [G,,G,][G,,G,][G,,G,][G,,G,] [G,,G,][G,,G,][G,,G,][G,,G,] | %5
+ [=A,_G,,D,][A,G,,D,][A,G,,D,][A,G,,D,] [_A,F,,F,][A,F,,F,][A,F,,F,][A,F,,F,] | %6
+ [=G,F,,D,][G,F,,D,][G,F,,D,][G,F,,D,] [G,E,,E,][G,E,,E,][G,E,,E,][G,E,,E,] | %7
+ [A,F,,D,][A,F,,D,][A,F,,D,][A,F,,D,] [G,G,,D,][G,G,,D,][G,G,,D,][G,G,,D,] | %8
+ [G,C,][G,C,]C,C, C,C,C,C, | C,C,C,C, =B,,B,,B,,B,, | C,C,C,C, _B,,B,,B,,B,, | %11
+ A,,A,,A,,A,, [=A,,C,][A,,C,][A,,C,][A,,C,] | %12
+ [G,,G,][G,,G,][G,,G,][G,,G,] [=G,,_G,][G,,G,][G,,G,][G,,G,] | %13
+ [=G,,=G,][G,,G,]G,G, [F,G,][F,G,][F,G,][F,G,] | %14
+ [=E,G,][E,G,][_E,G,][E,G,] [D,=A,][D,A,][D,D][D,D] | [C,G,][C,G,][C,G,]C, F,,F,,F,,F,, | %16
+ _G,,G,,G,,G,, =G,,G,,G,,G,, | C,C,C,C, [C,C][C,C][C,C][C,C] | %18
+ [D,F,][D,F,][D,F,][D,F,] [=E,C][E,C][E,C][E,C] | [F,C][F,C][F,C]F, =B,,B,,B,,B,, | %20
+ C,C,C,C, _D,D,D,D, | [C,G,][C,G,]C,C, =B,,B,,B,,B,, | C,C,C,C, F,F,F,F, | B,,B,,B,,B,, C,C,C,C, | %24
+ F,F,F,F, D,D,D,D, | [E,B,][E,B,][E,G,][E,G,] [C,C][C,C][C,C][C,C] | %26
+ [B,,F,][B,,F,]B,,B,, D,D,D,D, | [C,G,][C,G,]C,C, G,,G,,G,,G,, | %28
+ C,C,C,C, [D,=A,][D,A,][D,A,][D,A,] | [=E,G,][E,G,][E,G,][E,G,] [F,_A,][F,A,]F,F, | %30
+ [F,G,][F,G,][F,G,][F,G,] [=E,G,][E,G,][_E,G,][E,G,] | %31
+ [D,A,][D,B,][D,F,][D,F,] [C,G,][C,A,][C,A,C][C,A,C] | %32
+ [=B,,A,][B,,A,][_B,,G,][B,,G,] [=A,,G,][A,,G,][_A,,G,][A,,F,] | %33
+ [G,,F,][G,,E,][_G,,E,][G,,E,] [=G,,D,=G,][G,,D,G,][G,,D,G,][G,,D,G,] | %34
+ [C,G,][C,G,][=A,_G,,][A,G,,] [=G,=G,,][G,G,,][G,G,,][G,G,,] |[K:C][M:3/4] [=G,C,,C,]4 z2 |] %36

@@ -1,0 +1,27 @@
+% In der Ferne: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=800
+% Licence: Creative Commons Attribution 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:In der Ferne
+C:Friedrich Silcher (1789–1860), 1853–55
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=66
+M:3/4
+I:linebreak $
+K:C
+V:1 bass nm="BassStaff:BassA" snm="V"
+V:2 bass 
+L:1/4
+V:3 treble nm="TenorStaff:TenorA" snm="V"
+V:1
+ x4 [E,C,][F,C,] | [G,C,]3 [E,C,] [F,F,,][C,A,,] | C,2 C,2 [E,C,][G,E,] | %3
+ [G,F,]3 [G,E,] [G,D,]>[G,C,] | [G,G,,]4 [^F,D,]>[F,D,] | G,2 [D,G,,]2 [^F,D,]>[F,D,] | %6
+ G,2 [D,G,,]2 z2 | [E,C,]>[E,C,] [F,C,][E,C,] [G,E,]G, | G,2 C2 [A,F,]2 | %9
+ G,>G, G,[E,G,,] [G,G,,][F,G,,] | [E,C,]4 x2 |] %11
+V:2
+ x x2 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | C,2 z | z3 | z2 x |] %11
+V:3
+ x4 C[DC] | [EC]3 [CG,] [CA,][A,F,] | [A,F,]>[G,E,] [G,E,]2 G,C | [DB,]3 C [FB,]>[EC] | %4
+ [DB,]4 [DA,]>A, | [CA,]>[B,G,] [B,G,]2 [DA,]>A, | [CA,]>[B,G,] [B,G,]2 x2 | %7
+ [CG,]>[G,B,] A,G, C[DB,] | [EC]2 [GE]2 [FD]2 | [EC]>[EC] [EC][CG,] [EB,][DB,] | [CG,]4 x2 |] %11

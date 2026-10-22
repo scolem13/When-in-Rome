@@ -1,0 +1,96 @@
+X:1
+T:One who never turned his back
+C:Alexander C.Mackenzie
+Z:Robert Browning
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { 3 | ( 4 5 6 ) }
+L:1/8
+Q:1/4=69
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:2 treble 
+L:1/4
+V:3 treble nm="Piano"
+V:4 bass 
+V:5 bass 
+V:6 bass 
+V:1
+"^Allegro" z8 | z8 || %2
+w: ||
+[Q:1/4=100]"^molto moderato, alla marcia \n(\n)\n"!mp! B,3/2 B,/ !>!F/ F3/2 E3/2 D/ E F | %3
+w: One who ne- ver turned his back but|
+ D2 !tenuto!B2 .A .D z2 |!mf! d c !>!A/ B3/2 !tenuto!F3/2!<(! E/ !tenuto!G2!<)! | %5
+w: marched breast for- ward,|Ne- ver doubt- ed clouds would break|
+!p! B A F !tenuto!G!<(! E3/2 D/!<)! E ^E |!mf! z!<(! F2!<)! ^G3/2!f! A/!<(! c3-!<)! | c z z2 z4 | %8
+w: Ne- ver dreamed though right were worst- ed,|wrong would tri- umph|_|
+ z2!mp! B3/2 B/ G3 F |!<(! d6-!<)!!f! d z | %10
+w: Held we fall to|rise, _|
+ z!mf!!<(!"^accelerando  sempre" G _A G z/ ^A/ !>!B!<)! !>!e/ d3/2- |[M:2/4] d z z2 | %12
+w: Are baf- fled to fight bet- ter,|_|
+[M:4/4][Q:1/4=69]"^Allegro come prima" z8 | z8 | %14
+w: ||
+[Q:1/4=52]"^Lento (ad lib)" z4!p!!<(! !fermata!B7/2!<)!!f! B/ | %15
+w: Sleep to|
+[Q:1/4=69]"^Allegro"!<(! !>!^d8-!<)! |!ff! d2- d z z4 | !fermata!z8 |] %18
+w: wake !|_ _||
+V:2
+ x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[M:2/4] x2 | %12
+[M:4/4] x2 x"^accelerando  sempre" x | x4 | x2 x!>(! x!>)! | x4 | x4 | x4 |] %18
+V:3
+!f! [=ce=c']3 (3!>![=CEc]/[CEc]/!>![CEc]/ !>![Ece]!>(!!>![CEc]!>![^G,C^G]!>![G,CE] | %1
+[I:staff +1] !>![=C,E,^G,=C]3 (3[C,E,G,]/[C,E,G,]/[C,E,G,]/!>)!!pp! !>![E,G,C]2- [E,G,C][I:staff -1] z || %2
+!p![I:staff +1] .[^D,F,=B,][I:staff -1] x !tenuto![B,^DF]2 !tenuto![G,B,E]>.[F,A,D].[G,B,E].[A,CF] | %3
+[I:staff +1] .[F,A,D].[D,F,B,][I:staff -1] !tenuto![DFB]2 !tenuto![DFA]>.[DEG].[DFA].[DFB] | %4
+!mp! [DBd][CAc] !>![A,CA]<[B,DB] !tenuto![F,B,F]>[E,B,E] !tenuto![G,G]2 | %5
+!p! .[B,DB].[A,CA].[F,DF].[G,B,G]!<(! !tenuto![G,=CE]>[G,B,D] .[G,CE].[^G,^C^E]!<)! | %6
+!mf! z!<(! !>![F,DF]2!<)! .[DFd]!f!"_molto accel." !tenuto![CAc]>.[B,^GB] .[CAc]!>![EGe] | %7
+!<(! !tenuto![CAc]>[A,FA] .[B,^GB].[D=Gd]!<)!!ff! !tenuto![A,FA]>.[F,DF] .[^G,^E^G][^A,=E^A] | %8
+!p!"^A Tempo"[I:staff +1] .[D,F,B,][I:staff -1] z !tenuto![Bdf]2 .!tenuto![G=ce]>.[GBd] .[Gce].[^A^cf] | %9
+[I:staff +1] .[D,F,B,][I:staff -1] z .[DGB] z !tenuto![A,FA]>.[G,EG].[A,FA].[B,=FB] | %10
+!mf! .[EGe].[DGd].[D_AB]!<(!.[=CG=c] .[Geg].[^Fd^f].[E_B^c]!<)!.[D=Ad] | %11
+[M:2/4] z!f!!<(! !>![DBd]2 [Bdb]!<)! | %12
+[M:4/4] [_Bd_b]3 (3!>![DB]/!>![DB]/!>![DB]/ [DBd]3 (3[DB]/[DB]/[DB]/ | %13
+ ([D-_B-d]2 [_B,DB]) z ([^F,-D-^F]2 [F,B,D]) z | %14
+!p![I:staff +1] ([D,-^F,_B,]2!>(! !fermata![D,=F,=B,]4- [D,F,B,])!>)![I:staff -1] z | %15
+!f! z2 z!<(! (3!>![=B,^D=B]/[B,DB]/!>![B,DB]/ !>![F^df]3!<)! (3!>![B,DB]/[B,DB]/!>![B,DB]/ | %16
+ [F,^DF] z!ff! !>![^df^d']2- (3[dfd']!>![cgc']!>![cgb] !>![cgc']!>![=dg=d'] | %17
+ z2 [fbf']2 !>![B,FB] !fermata![B,FB]3 |] %18
+V:4
+!ped![I:staff -1] [_B,D^G]4[I:staff +1] [D,^G,]2 E,D, | %1
+w: |
+ (3z (A,,, [_B,,,_B,,])"^molto ritard." (3z (A,,, [B,,,B,,]) (3z (A,,, [B,,,B,,]) (3z A,,, [B,,,B,,]!ped-up! || %2
+w: |
+ [=B,,,=B,,] z !tenuto!F,2 !tenuto!E,>.=D,.E,.F, | .D,.B,, !tenuto!B,2 !tenuto!A,>.G,.A,.B, | %4
+w: ||
+({D,/E,/F,/} .G,).[G,,,G,,] z (3(G,/F,/E,/ D,).C, .A,,.B,, | %5
+w: |
+ .G,,.A,,.B,,.E,, !tenuto![=C,,=C,]>G,, .[C,,C,].[B,,,B,,] | %6
+w: |
+ z ([^G,,,^G,,][^A,,,^A,,]) .[B,,^G,] !arpeggio!A,>F,A, !>![C,G,]- | %7
+w: |
+ [C,G,]/[^G,,^G,]/!>![F,,F,]- [F,,F,]/[=F,,=F,]/!>![E,,E,]- [E,,E,]/[_E,,_E,]/!>![D,,D,]- [D,,D,]/[C,,C,]/!>![=C,,=C,]/!>![F,,F,]/ | %8
+w: |
+ .[B,,,B,,] x[I:staff -1] !tenuto![B,DF]2 !tenuto![G,=CE]>.[G,B,D] .[G,CE].[A,^CF] | %9
+w: |
+[I:staff +1]({/F,,} [B,,,B,,]) z .[G,,D,B,] z !tenuto![D,,D,]>.A,,.[D,,D,].[G,,G,] | %10
+w: |
+ .[=C,G,].[B,,G,] .[=F,B,].[E,G,] .[^C,^A,].[D,B,].[G,^C].[^F,=A,] | %11
+w: |
+[M:2/4] z ([=F,,=F,][^F,,^F,]){/G,,} [G,B,D] |[M:4/4]!ff!!ped! !///-!F2 =C2 !///-!F2 C2 | %13
+w: ||
+ !///-!F,2 =C,2 !///-!D,2 C,2!ped-up! | ([_A,,,_A,,]2 !fermata![G,,,G,,]4-) [G,,,G,,] z | %15
+w: ||
+!ped! (F,,G,,_B,,A,,) (3(!arpeggio!=C,=B,,A,, ^G,,=G,,) | %16
+w: L.H. * * * * * * * *|
+ [B,,,F,,]!ped-up! z[K:treble] !>![B,FB]2- (3[B,FB]!>![EG^AB]!>![EGAB] !>![EGAB]!>![EGAB] | %17
+w: |
+!ped! z2 !arpeggio![B,F^d]2[K:bass] [B,,,F,,^D,] !fermata![B,,,F,,D,]3!ped-up! |] %18
+w: |
+V:5
+ x4 _B,,4 | x8 || x8 | x8 | x8 | x8 | x4 F,,3 x | x8 | x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] _A,4 A,4 | %13
+ !>!_A,,4 !>!A,,2- A,, z | x8 | !>!B,,,4 !>!B,,,4 | x2[K:treble] x6 | x4[K:bass] x4 |] %18
+V:6
+ x8 | x8 || x8 | x8 |[I:staff -1] x6 CD | x8 | x8 | x8 | x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | %13
+ x8 | x8 |[I:staff +1] [^D,B,^D]8 | x2[K:treble] x6 | x4[K:bass] x4 |] %18

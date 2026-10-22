@@ -1,0 +1,27 @@
+% Duet in G: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=17
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Duet in G
+C:Ferdinando Carulli (1770-1841)
+%%score 1 2
+L:1/8
+Q:1/4=114
+M:12/8
+I:linebreak $
+K:G
+V:1 treble nm="guitarone" snm="Ac Gtr"
+V:2 bass nm="guitartwo" snm="Ac Gtr"
+V:1
+ B,G,D CA,E DGF GFE | [DB,]3 [CA,]3 [B,G,]3 z3 | A,^G,B, A,CB, CE^D ECA, | B,=D^C D=CB, A,3 z3 | %4
+ B,G,D CA,E DGF GFE | [DB,]3 [CA,]3 [B,G,]3 z3 | A,^G,B, CDE D=GD CB,A, | G,GD B,DB, G,3 z3 | %8
+ DCB, B,A,^G, G,2 z2 ED | CED B,DC A,2 z4 | CB,A, A,G,F, F,2 z2 DC | B,DC A,CB, G,2 z4 | %12
+ E3 z4 A,B, CDE | D3 z4 G,A, B,CD | EFG ECA, G,GD CB,A, | G,GD B,DB, G,3 z3 |] %16
+V:2
+ G,,2 B, A,,2 C B,,2 D EDC | [D,B,]3 [^D,F,]3 [E,G,]3 G,,A,,B,, | %2
+ [C,E,]2 z [C,E,]2 z [C,E,]2 z [C,E,]2 [^C,E,] | [D,G,]B,^A, B,=A,G, F,E,D, =C,B,,A,, | %4
+ G,,2 B, A,,2 C B,,2 D [C,E]DC | [D,B,]3 [^D,F,]3 [E,G,]3 G,,A,,B,, | %6
+ [C,E,]2 z [C,E,A,]2 z [=D,G,B,]2 z [D,A,]G,F, | [G,,G,]3 [G,,B,,D,G,]3 [G,,B,,D,G,]3 z3 | %8
+ [E,^G,B,]3 z4 E,F, G,A,B, | [A,,A,]2 z [E,,^G,]2 z A,,A,=G, F,G,E, | [D,F,A,]2 z4 z D,E, F,G,A, | %11
+ G,2 z [D,F,]3 E,,G,A, B,CD | C,CB, CA,G, F,6 | B,,B,^A, B,G,F, E,6 | %14
+ [C,C]DE C2 C, [D,G,]2 B, [D,=A,]G,F, | [G,,G,]3 [G,,B,,D,G,]3 [G,,B,,D,G,]3 z3 |] %16

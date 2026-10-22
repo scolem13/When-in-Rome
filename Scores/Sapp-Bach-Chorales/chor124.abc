@@ -1,0 +1,31 @@
+X:1
+T:Auf, auf, mein Herz, und du mein ganzer Sinn
+T:Auf, auf, mein Herz, und du mein ganzer Sinn
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ B | B B !fermata!B e | =d d c c | !fermata!B G A A | B c d/c/ B | A A !fermata!G A | %6
+ A A !fermata!A B/A/ | G G A G | F2 !fermata!F F | G G A A | B c d/c/ B | A2 !fermata!G x || %12
+V:2
+ G2 | GE BA !fermata!G2 AG | FEF^G A2 EF | !fermata!=G2 D2 DE FE | D2 GE FA G2- | %5
+ G F/E/ F2 !fermata!D2 E2 | FGFE !fermata!F2 F2- | F2 E2- EF B,E- | E^D E^C !fermata!D2 B,2 | %9
+ B,2 E=D E F/G/ AF | D E/F/ G F/E/ F A2 G | G2 F2 !fermata!D2 x2 || %12
+V:3
+ d2 | de f2 !fermata!e2 e2 | AGAB cB A2 | !fermata!d2 B2 A2 dc | BA G2 AF GB | %5
+ ec A d/c/ !fermata!B2 ^c2 | d^cde !fermata!d2 B2 | B2 B2 AF G2 | c2 ^c2 !fermata!B2 BA | %9
+ GFGB =c2- c d/c/ | B2- B A/G/ Af de | ec A d/c/ !fermata!B2 x2 || %12
+V:4
+ G,F, | G,2 ^D,2 !fermata!E,2 C,2 | C,3 B,, A,,G,, A,,2 | !fermata!G,,2 G,2 F,E, D,2 | %4
+ G,F, E,2 D,2 E,D, | C,A,, D,2 !fermata!G,,2 G,2 | F,E,D,^C, !fermata!D,2 ^D,2 | %7
+ E,F,G,E, ^C,^D,E,=C, | A,,2 ^A,,2 !fermata!B,,2 ^D,2 | E,=D,C,B,, =A,,G,,F,,D,, | %10
+ G,,G, E,A, F,D, G,E, | C,A,, D,2 !fermata!G,,2 x2 || %12

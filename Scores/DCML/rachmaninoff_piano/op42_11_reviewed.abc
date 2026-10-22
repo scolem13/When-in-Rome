@@ -1,0 +1,50 @@
+X:1
+T:Variations on a Theme of Corelli
+T:Variation 11
+C:Sergei Rachmaninoff
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/16
+Q:1/4=116
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+L:1/8
+V:4 bass 
+L:1/8
+V:1
+!f!"^Allegro vivace" (!>![B,DF]A,) z2 (!>![B,DF]A,) z2 (!>![B,DF]A,) z2 | !>!_D12 | %2
+ (!>![B,=DF]=A,) z2 (!>![B,DF]A,) z2 (!>![B,DF]A,) z2 |$ !>!C12 | %4
+ (!>![B,DF]A,) z2 (!>![B,DF]A,) z2 (!>![B,DF]A,) z2 | !>!A,12 | %6
+ x"_m.g." [FB_d]x[_Ac_e] [=A^c=e]2 z2 E2 z2 |$ !>![Ada]8[K:bass] x x z2 | %8
+[K:treble] (!>![ad'f']f)[ea]2 (!>![ad'f']f)[ea]2 (!>![ad'f']f)[ea]2 |!<(! A,B,=B,C!<)! !>!_D8 |$ %10
+ (!>![=a=d'f']f)[ea]2 (!>![ad'f']f)[ea]2 (!>![ad'f']f)[ea]2 |!<(! _A,=A,B,=B,!<)! !>!C8 | %12
+ (!>![ad'f']f)[ea]2 (!>![ad'f']f)[ea]2 (!>![ad'f']f)[ea]2 |$ %13
+[K:bass]!<(! E,F,^F,G,!<)! !>!_A,8[K:treble] | x"_m.g." [_B_e_g]x[^ce^g] [dfa]2 z2 [A,A]2 z2 | %15
+ !>![dd'](ad)[I:staff +1](A D)[I:staff -1][K:bass](A,D,)[I:staff +1]A,,[I:staff -1] z4 || %16
+V:2
+"m" !>![F,,D,F,]""[^C,E,A,]"m" !>![F,,D,F,]""[C,E,A,]"m" !>![F,,D,F,]""[C,E,A,] |"" !>![_D,,_D,]6 | %2
+"m" !>![F,,=D,F,]""[^C,E,A,]"m" !>![F,,D,F,]""[C,E,A,]"m" !>![F,,D,F,]""[C,E,A,] |$"" !>![C,,C,]6 | %4
+"m" !>![F,,D,F,]""[^C,E,A,]"m" !>![F,,D,F,]""[C,E,A,]"m" !>![F,,D,F,]""[C,E,A,] | %5
+"m" !>![A,,,A,,]6 | %6
+"m"!<(![I:staff -1] [EAc]/!<)![I:staff +1]x/[I:staff -1][G=B=d]/[I:staff +1] x/"" z2"" [E,,E,] z |$ %7
+!f! z (B,,/A,,/ ^G,,/=G,,/^F,,/=F,,/"" !>![A,,,E,,]) z | %8
+"m" !>![F,A,DF]""[^CEA]"m" !>![F,A,DF]""[CEA]"m" !>![F,A,DF]""[CEA] | %9
+"m" (3[A,,,A,,][=B,,,=B,,][C,,C,]"" !>![_D,,_D,]4 |$ %10
+"m" !>![F,A,=DF]""[^CEA]"m" !>![F,A,DF]""[CEA]"m" !>![F,A,DF]""[CEA] | %11
+"m" (3[_A,,,_A,,][B,,,B,,][=B,,,=B,,]"" !>![C,,C,]4 | %12
+"m" !>![F,A,DF]""[^CEA]"m" !>![F,A,DF]""[CEA]"m" !>![F,A,DF]""[CEA] |$ %13
+"m" (3[E,,,E,,][^F,,,^F,,][G,,,G,,]"" !>![_A,,,_A,,]4 | %14
+"m"!<(![I:staff -1] [Adf]/!<)![I:staff +1]x/[I:staff -1][=B=e=g]/[I:staff +1] x/"m" z2"" [A,,,A,,] z | %15
+"m" !>![DA]4 D,, z || %16
+V:3
+ x12 | z2 (F_A _df_a_d'- .[fad'f']2) z2 | x12 |$ z2 (FA cfac'- .[fac'f']2) z2 | x12 | %5
+ z2 (FA dfab- .[fabd']2) z2 | x12 |$ z2 (dA) (ADA,[K:bass]A,- !>![^C,A,]2) x2 |[K:treble] x12 | %9
+ x4 z (F_A_d- .[FAdf]2) z2 |$ x12 | x4 z (FAc- .[FAcf]2) z2 | x12 |$ %13
+[K:bass] x4 z[K:treble] (_DF_A- .[FA_df]2) z2 | x12 | x5[K:bass] x7 || %16
+V:4
+ x6 | z (_A,,F,_D) .[F,_A,DF] z | x6 |$ z (A,,F,C) .[F,A,CF] x | x6 | z (D,F,D) .[F,A,DF] x | x6 |$ %7
+"m" !>![F,B,F]4 x2 | x6 | x2 z (_A,,.[F,_D]) z |$ x6 | x2 z (_A,,.[F,C]) z | x6 |$ %13
+ x2 z (_A,,.[F,_D]) z | x6 | x6 || %16

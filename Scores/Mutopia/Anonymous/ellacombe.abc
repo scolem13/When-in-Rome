@@ -1,0 +1,28 @@
+% Ellacombe (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1238
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Ellacombe (hymntune)
+C:Anonymous; Gesangbuch der H. W. K. Hofkapelle, 1784; arr. William Henry Monk (1823-1889), 1868
+%%score ( 1 2 ) 3
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="upper"
+V:2 treble 
+V:3 bass nm="lower"
+V:1
+ E A G/F/ E | [EA] C B,/A,/ [B,E] | [CE] D [EA] [FB] | [EB] [Ec]3 | E A G/F/ E | %5
+ [EA] C B,/A,/ [B,E] | [CE] D C/D/ [EA] | [EG] [EA]3 | [CA]/[DB]/ [Ec] [EB] [Ec] | [Fd] E2 [EB] | %10
+ [CA]/[EB]/ [Ec] [EB] [Ec] | [Fd] [EB]3 | E A G/F/ E | [EA] C B,/A,/ [B,E] | [CE] D C/D/ [EA] | %15
+ [EG] [EA]3 |] %16
+V:2
+ x4 | z2 D z | z F/G/ z2 | x4 | x4 | z2 D z | z F/G/ A z | x4 | x4 | z B G/A/ z | x4 | x4 | x4 | %13
+ z2 D z | z F/G/ A z | x4 |] %16
+V:3
+ E, A, G,/F,/ E, | [C,A,] [F,A,]2 [E,G,] | [A,,A,] [D,A,] [C,A,] [D,A,] | [E,G,] [A,,A,]3 | %4
+ E, A, G,/F,/ E, | [C,A,] [F,A,]2 [E,G,] | [A,,A,] [D,A,] [F,A,] [E,A,] | [E,B,] [A,,C]3 | %8
+ [A,,A,] A, [G,B,] A, | [D,A,] [E,G,] E, F,/ [E,G,] | [F,C]/[G,B,]/ A, [G,B,] A, | [D,A,] [E,G,]3 | %12
+ E, A, G,/F,/ E, | [C,A,] [F,A,]2 [E,G,] | [A,,A,] [D,A,] [F,A,] [E,B,] | [E,B,] [A,,C]3 |] %16

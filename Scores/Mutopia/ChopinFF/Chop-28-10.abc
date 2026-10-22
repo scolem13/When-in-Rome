@@ -1,0 +1,49 @@
+% Prélude 10: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2171
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Prélude 10
+C:Frederic Chopin (1810-1849)
+%%score ( 1 2 3 4 ) 5
+L:1/4
+Q:1/4=140
+M:3/4
+I:linebreak $
+K:C#min
+V:1 bass nm="lower"
+L:1/8
+V:2 bass 
+V:3 bass 
+V:4 bass 
+V:5 treble nm="upper"
+L:1/16
+V:1
+ x2 | [C,G,E]2 z2 [F,,C,A,] z | [C,G,E] z [F,,C,A,] z [C,,G,,E,] z | G,4- [G,,,C,^A,]2 | %4
+ [G,,D,=C]>[G,,E,^C] G,,2- [G,,,G,]2 | [^C,G,E]2 z2 [F,,C,A,] z | %6
+ [C,G,E] z [F,,C,A,] z [C,,G,,E,] z | G,4 (3[=D,,^D,,] z [=D,,^D,,] | %8
+ [^G,,D,^G,B,]>[G,,D,^A,C] [G,,D,B,^D]2 [^G,,,G,]2 | [F,,C,=A,] z [B,,F,=D] z [F,,C,A,] z | %10
+ [B,,F,=D] z [F,,C,A,] z3 | F,4- ^D,,2 | [G,,D,G,=C]>[G,,E,G,^C] [G,,=C]2- z2 | %13
+ [G,,,G,]2 [^C,G,E]2 z2 | [F,,^C,A,] z [C,G,E] z [F,,C,A,] z | [C,,G,,E,] z G,4- | %16
+ [G,,,E,^C]2 [G,,F,=CD]>[G,,G,] [^C,,E,^C]2 | A,6- | %18
+ [G,,,E,^C]2 [G,,D=CG,F,] z/ [G,,F,C]/ [^C,,E,]2 |] %19
+V:2
+ x | z3 | z3 | z G,,- G,- | G,2 G,, | z3 | z3 | z [D,,B,] (3:2:2D,, z/ | z3 | z3 | z3 | z F,, F, | %12
+ z F, z | [G,,=C] z2 | z3 | z2 G,,- | G, z2 | z2 G,,- | A, z2 |] %19
+V:3
+ x | z3 | z3 | z [D,=C] G,, | z [F,=CD] z | z3 | z3 | z ^D,- [=G,^A,] | z3 | z3 | z3 | %11
+ z [C,A,]- [C,A,] | z3 | z3 | z3 | z2 [D,=C] | G,, z2 | z2 [D,=C] | G,, z2 |] %19
+V:4
+ x | z3 | z3 | z3 | z3 | z3 | z3 | z2 D, | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 |] %19
+V:5
+ x8 (3[g'a']2[g'a']2[^g'=g']2 | %1
+ (3:2:2[^g'c''a']2[g'e']2(3:2:1x/d' (3:2:2[c'g'd']2[c'a]2(3:2:1x/^g (3:2:2[fc'g]2[fe]2(3:2:1x/d | %2
+ (3:2:2[cgd]2[cA]2(3:2:1x/G (3:2:2[FcG]2[FE]2(3:2:1x/D (3:2:2[CGD]2[CB,]2(3:2:1x/A, | x12 | x8 E4 | %5
+ (3:2:2[g'c''a']2[g'e']2(3:2:1x/d' (3:2:2[c'g'd']2[c'a]2(3:2:1x/g (3:2:2[fc'g]2[fe]2(3:2:1x/d | %6
+ (3:2:2[cgd]2[cA]2(3:2:1x/G (3:2:2[FcG]2[FE]2(3:2:1x/D (3:2:2[CGD]2[CB,]2(3:2:1x/^A, | x4 D4- D4 | %8
+ x8 G4 | %9
+ (3:2:2[f'c''g']2[f'=d']2(3:2:1x/c' (3:2:2[bf'c']2[ba]2(3:2:1x/g (3:2:2[fc'g]2[f=d]2(3:2:1x/c | %10
+ (3:2:2[Bfc]2[BA]2(3:2:1x/G (3:2:2[FcG]2[F=D]2(3:2:1x/C (3:2:2[B,FC]2[B,A,]2(3:2:1x/G, | %11
+ x4 C4 ^D4 | x4 D4 E4 | %13
+ (3:2:2[g'c''a']2[g'e']2(3:2:1x/d' (3:2:2[c'g'd']2[c'a]2(3:2:1x/g (3:2:2[fc'g]2[fe]2(3:2:1x/d | %14
+ (3:2:2[cgd]2[cA]2(3:2:1x/G (3:2:2[FcG]2[FE]2(3:2:1x/D (3:2:2[CGD]2[CB,]2(3:2:1x/A, | x12 | %16
+ x3 E x4 A4- | A4 x8 | x3 E C4 x4 |] %19

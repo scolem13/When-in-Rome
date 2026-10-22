@@ -1,0 +1,79 @@
+X:1
+T:6 Lieder, Op.7
+T:Vorüberfahrt
+C:Johanna Kinkel (originally published under the name J. Mathieux)
+Z:(Composer)
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=144
+M:6/8
+I:linebreak $
+K:Eb
+U:s=!stemless!
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+L:1/16
+V:5 treble 
+L:1/4
+V:4 bass 
+L:1/16
+V:1
+"^Allegro agitato" z6 |: z6 | z6 | z6 | z2 z z2 G | e2 d c B A | !>!A2 G z2 G | G2 D E2 F | %8
+w: ||||Ihr|Lie- be flü- stern- den|Lin- den! am|We- ge rech- ter|
+w: ||||Es|zieht zum go- ti- schen|To- re mich|* Ge- walt her-|
+w: ||||Ihr|un- er- bitt- li- chen|Rä- der, so|steht denn eu- er|
+ E3 z2 E | E2 A c B A | e3 B2 B | B B B c2 B | =A3 z2!p!"^molto ritard." A | %13
+w: Hand, ihr|streckt her- ü- ber die|Zwei- ge und|grüsst mich so wohl be-|kannt. Ihr|
+w: ein, viel-|leicht be- gegn' ich dem|Lieb- sten, doch|ach! _ das darf *|sein. Ich|
+w: Sinn zu|rol- len, im- mer zu|rol- len in's|fer- * ne Blau- e|* Die|
+ =AG =B/c/ d/=e/ f e/d/ | (=e>dc/G/) !courtesy!=E z G | GD G =B2 d | %16
+w: zeigt _ mir _ ro- * sig be- *|leuch- * * * tet die|Tür- me der frei- en|
+w: möch- * te _ weil- * len so _|ger- * * * ne an|dem _ ge- lieb- ten|
+w: flücht- * gen _ Ros- * se ver- *|ste- * * * hen mein|inn- * res Fle- hen|
+ c3 z2[Q:1/4=144]"^a tempo"!f! G | =E2 G c d =e | (=e>dc/G/) !courtesy!=E z c/B/ | %19
+w: Stadt, die|mei- ne glü- hend- ste|Lie- * * * be und *|
+w: Ort; doch|Al- les hat sich ver-|schwo- * * * ren und *|
+w: nicht, sie|ja- gen brau- send vor-|ü- * * * ber, ob *|
+[Q:1/4=120]"^piu lento" _A2 A/G/ F2 _E/D/ | C2 z z2"_J. Mathieux" z :| z6 | z6 | z6 | z6 | z6 | %26
+w: Qual ge- * bo- ren *|hat.||||||
+w: reisst mich _ grau- sam *|fort.||||||
+w: auch das * Herz mir *|bricht.||||||
+ z6 | z6 | z6 |] %29
+w: |||
+w: |||
+w: |||
+V:2
+ x6 |: x6 | x6 | x6 | x6 | x6 | x6 | G D D x3 | x6 | x6 | x6 | B z B c2 B/ B/ | s=A3 x2 x | x6 | %14
+w: ||||||||||||||
+w: |||||||wie mit *||||* * * ja nicht|||
+w: |||||||||||* * * * da-|hin.||
+ x6 | G D G x3 | x6 | x6 | x6 | x6 | x6 :| x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %29
+w: |||||||||||||||
+w: |||||||||||||||
+w: |||||||||||||||
+V:3
+ C=B,CG,DB, EDECFD |: G^FGcA=F D^CDBGE | C=B,CAFD B,^A,B,_AGF | EGcG[CE]G [CD]A[CD]A[=B,D]G | %4
+!>(! [CE]GcG[CE]G [CD]A[CD]!>)!A[=B,D]G |!pp! [CE]G[CE]GAG [CE]G[CE]GAG | %6
+ [DF]G[DF]GAG [DF]G[DF]GAG | [DF]G[DF]GAG [DF]G[DF]GAG | [CE]G[CE]GAG [_DE]G[DE]GAG | %9
+ [CE]GAGAc [CE]GAGAc | [B,E]^FGFGB [B,E]FGFGB | =E=ABABd EABABd | F^G=AGAc FGAGAc | %13
+!p! [F=A]D[FG]D[FG]D [FA]D[FG]D[FG]D | [C=E]G[CE]GcG [CE]G[CE]G=AG | %15
+ [=B,D]G[B,D]G!courtesy!=BG [B,D]G[B,D]GBG | [C=E]G[CE]GcG [CE]G[CE]G=AG | %17
+ [C=E]G[CE]GcG [CE]G[CE]GcG | [C=E]G[CE]GcG [CE]G[CE]GcG | %19
+"^piu lento" [CF]A[CF]A[CF]A [DF]G[DF]G[DF]G |!f!"^a tempo" C=B,CG,DB, EDECFD :| G^FGcA=F D^CDBGE | %22
+ C=B,CAFD B,^A,B,_AGF | EGcG[CE]G [CD]A[CD]A[=B,D]G | [CE]GcG[CE]G [CD]A[CD]A[=B,D]G | %25
+"_dim." [CE]G[CE]G[=B,D]G [CE]G[CE]G[B,D]G |!pp! C2 z2 z2 C2 z2 z2 | C2 z2 z2 z4 z2 | z12 |] %29
+V:4
+ C,=B,,C,G,,D,B,, E,D,E,C,F,D, |: G,^F,G,CA,=F, D,^C,D,B,G,E, | C,=B,,C,A,F,D, B,,^A,,B,,_A,G,F, | %3
+ E,4 [E,,E,]2 [F,,F,]4 [G,,G,]2 | [C,,C,]4 [E,,E,]2 [F,,F,]4 [G,,G,]2 | [C,G,]6 [C,G,]6 | %6
+ [=B,,G,]6 [B,,G,]6 | [G,,G,]6 [=B,,G,]6 | [C,G,]6 [_B,,G,]6 | [A,,E,A,]6 [A,,E,A,]6 | %10
+ [G,,E,G,]6 [G,,E,G,]6 | [_G,,B,,_G,]6 [G,,_D,G,]6 | [F,,F,]6 [F,,F,]6 | [G,,D,G,]6 [G,,=B,,G,]6 | %14
+ [C,G,]6 [C,G,]6 | [G,,D,G,]6 [G,,D,G,]6 | [C,G,]6 [C,G,]6 | [C,,G,,C,]6 [C,G,]6 | %18
+ [C,,G,,C,]6 [C,G,]6 | [F,,F,]6 [G,,G,]6 | C,=B,,C,G,,D,B,, E,D,E,C,F,D, :| %21
+ G,^F,G,CA,=F, D,^C,D,B,G,E, | C,=B,,C,A,F,D, B,,^A,,B,,_A,G,F, | E,4 [E,,E,]2 [F,,F,]4 [G,,G,]2 | %24
+ [C,,C,]4 [E,,E,]2 [F,,F,]4 [G,,G,]2 | [C,G,]4 [G,,G,]2 [C,G,]4 [G,,G,]2 | %26
+ C,D,C,D,E,D, C,D,C,D,E,D, | C,2 z2 z2 C,2 z2 z2 | C,2 z2 z2 z4 z2 |] %29
+V:5
+ x3 |: x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | _D z/ B, z/ | C z/ C z/ | x3 | x3 | x3 | %16
+ x3 | x3 | x3 | x3 | x3 :| x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %29

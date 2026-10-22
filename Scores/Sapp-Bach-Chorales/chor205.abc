@@ -1,0 +1,68 @@
+X:1
+T:Herr Gott, dich loben wir
+T:Herr Gott, dich loben wir
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ E | G A c A | !fermata!A2 z c | c B A A | !fermata!G3 x |: c x3 | c c B A | B A !fermata!A A | %8
+ A G A B | c A !fermata!G x :: E x3 | G A B B | !fermata!A3 x :: B x3 | B B/c/ d A | A G A B | %16
+ c A !fermata!G x |: c x3 | c c B A | B A !fermata!A A | A G A B | c A !fermata!G x :: A x3 | %23
+ A A G B | B A !fermata!A A | A G A/B/ c | G G !fermata!E x :: F x3 | D F E D | E ^F !fermata!G G | %30
+ G G A3/2 =F/ | G F !fermata!E =C | D F E D | F D !fermata!C G | G G A3/2 F/ | G F !fermata!E F | %36
+ F F E D | F D !fermata!C G | G G A3/2 F/ | G F !fermata!E E/F/ | G A A A | c A !fermata!A A | %42
+ A G A/B/ c | G G !fermata!E x |: A x3 | A A G B | B B !fermata!A A | A G A c | G G !fermata!E x :: %49
+ F/E/ x3 | D F G A | G F !fermata!E F | F G A G/F/ | G F !fermata!E G | E C D2 | E4- | %56
+ !fermata!E4 || %57
+V:2
+ B,2 | E2 F2- FE D2 | !fermata!C4 z2 E^F | GA- AG- G ^F/E/ F2 | !fermata!D6 x2 |: G2- x6 | %6
+ G ^F/E/ FA- A G/F/ E D | D G2 ^F/E/ !fermata!F2 EG- | G=F- F E/D/ C2 D/E/F | %9
+ E/^F/ G2 F !fermata!D2 x2 :: C2 x6 | D2 E D/C/ F/E/ D2 E/D/ | !fermata!C6 x2 :: GA x6 | %14
+ G2 G2 G2- G =F/E/ | F3 E/D/ C D/E/ F2 | E/^F/ G2 F !fermata!D2 x2 |: G=F x6 | E^F GA- AG- GF | %19
+ G^F E2 !fermata!F2 D2 | =C/A,/D- DC- C D/C/ B,D | G3 ^F !fermata!D2 x2 :: =F2 x6 | %23
+ E/F/G- G^F- F E/F/ G2 | G=F G2- G!fermata!F =C F/E/ | F3 E F2 F2- | FE D2 !fermata!C2 x2 :: %27
+ C2- x6 | CB, CD- DC D2- | D C/B,/ C B,/A,/ !fermata!B,2 D2 | EF GE CF F/E/D/^C/ | %31
+ DA, A,D- D!fermata!^C A,2 | G,2 =CD- DC- CB, | A,/B,/ C2 B, !fermata!G,2 C2 | CD E2- E D/^C/ D2- | %35
+ DE- ED- D!fermata!^C D2- | D=C B,D- DC- CB, | C3 B, !fermata!G,2 C2 | CD E D/E/ F2 F2 | %39
+ E3 D !fermata!^C2 =C2 | B, C/D/ ED C D/E/ F2 | E2- E/D/C/B,/ !fermata!C2 E2- | EF G2 F2 GF | %43
+ E2 D2 !fermata!C2 x2 |: E2 x6 | F2 E D/C/ B,2 B, C/D/ | E2- E/^F/G G!fermata!F =F2 | F2 C2 C2 CD | %48
+ E2- E/^C/D- D!fermata!C x2 :: D2 x6 | A, _B,/C/ D2- DE- ED- | D^C D2 !fermata!C2 D2 | %52
+ D2- DE FE D2 | D2 D/^C/D !fermata!C2 D2 | =C2 G,2 A,2 ^G,A, | B,C D2 C4- | C2 B,A, !fermata!B,4 || %57
+V:3
+ G2 | B2 d2 G2- GF | !fermata!E4 z2 cd | ed d2 e/d/ c2 d/c/ | !fermata!B6 x2 |: e2- x6 | %6
+ e d/c/ d2- d2 c d/c/ | B e/d/ ^c2 !fermata!d2 e2 | d3 =c/B/ AG F2 | Ge d>c !fermata!B2 x2 :: %10
+ G2- x6 | G A/B/ cA- A ^G/^F/ G2 | !fermata!E6 x2 :: e^d x6 | e2 e2 =d2 eA- | %15
+ A d/c/ B c/B/ A B/c/ d2 | Ge d>c !fermata!B2 x2 |: c2 x6 | G2- Gd d2 d2 | d3 ^c !fermata!d2 =FG | %20
+ AF G2- G^F d2 | ce d>c !fermata!B2 x2 :: d2 x6 | Ae- e d/c/ B2 e2 | d2 e2 !fermata!d2 A_B | %25
+ c2 c2 c2 c2- | c3 B !fermata!G2 x2 :: A2 x6 | G2 CG G2 GD | A2- AD !fermata!D2 B2 | %30
+ cd ec Ac d/e/f | fe dA !fermata!A2 E2 | D2 AG G2 G2 | CA G>F !fermata!E2 EF | G2 c_B AF- F G/A/ | %35
+ _B2 A2 !fermata!A2 A2 | G2 G2 G2 G2 | FA G>F !fermata!E2 EF | GA _B2 c2 d>c | %39
+ _BA A2 !fermata!A2 A2 | G A/=B/ cB A B/c/ d2 | c/B/A/G/ Af !fermata!e2 cd | ed- dc- cd GA | %43
+ B c2 B !fermata!G2 x2 |: c2 x6 | d2 Af- f e/d/ eA | G^F G2 !fermata!d2 =c2- | c_B B2 AG =F2 | %48
+ EG _B2 !fermata!A2 x2 :: AG x6 | F2- F G/A/ _B c/B/ AF | _BG A2 !fermata!A2 A2 | _B2 B2 c2 B2 | %53
+ _B2 A^G !fermata!A2 =G2 | G2 E2 F4 | E2 B2- B2 A2- | A2 ^G^F !fermata!G4 || %57
+V:4
+ E,,2 | E,2 D,2 C,2 D,2 | !fermata!A,,4 z2 A,2 | E,^F, G,2 C,2 D,2 | !fermata!G,,6 x2 |: E,2 x6 | %6
+ A,2 D, E,/^F,/ G,3 F, | G,E, A,2 !fermata!D,2 ^C,2 | D,2 E,2 F,E, D,2 | %9
+ C,2 D,2 !fermata!G,,2 x2 :: C,2 x6 | B,,2 A,,F, D,B,, E,2 | !fermata!A,,6 x2 :: E,^F, x6 | %14
+ G,^F, E,2 B,,2 ^C,2 | D,2 G,2 =F,E, D,2 | C,2 D,2 !fermata!G,,2 x2 |: E,D, x6 | %18
+ C,D,E,^F, G,2 D,2 | G,,2 A,,2 !fermata!D,,2 D,E, | F,2 E,2 D,2 G,F, | E,C, D,2 !fermata!G,,2 x2 :: %22
+ D,2 x6 | ^C,2 D,2 E,3 ^F, | G,2 ^C,2 !fermata!D,2 =F,2 | A,,_B,, =C,2 F,,G,,A,,=B,, | %26
+ C,2 G,,2 !fermata!C,2 x2 :: F,,2 x6 | G,,2 A,,B,, C,2 B,,2 | A,,2 D,2 !fermata!G,,2 G,=F, | %30
+ E,D, C,2 F, G,/A,/ _B,2- | B,^C, D,2 !fermata!A,,2 A,,2 | =B,,2 A,,B,, =C,2 G,,2 | %33
+ F,,2 G,,2 !fermata!C,2 C,D, | E,2 C,2 F,,2 _B,,A,, | G,,2 D,2 !fermata!A,,2 D,=C, | %36
+ =B,,A,, G,,2 C,2 G,,2 | A,,F,, G,,2 !fermata!C,,2 C,D, | E,F, G,2 F,E, D,2- | %39
+ D,^C, D,2 !fermata!A,,2 A,2 | E,D, =C,2 F,E, D,2 | A,G, F,D, !fermata!A,2 A,,B,, | %42
+ C,D, E,3 D,E,F, | G,F,G,G,, !fermata!C,2 x2 |: A,,2 x6 | D,2 C,D, E,F,G,F, | %46
+ E,D, ^C,2 !fermata!D,2 =F,E, | D,2 E,2 F,2 A,,=B,, | C,2 G,,2 !fermata!A,,2 x2 :: D,2- x6 | %50
+ D,C, _B,,A,, G,,2 F,,2 | E,,2 D,,2 !fermata!A,,2 D,=C, | _B,,A,, G,,2 F,, G,,/A,,/ B,,2- | %53
+ B,,G,, D,2 !fermata!A,,2 =B,,2 | C,6 B,,A,, | ^G,,3 E,, A,,B,,C,D, | E,4 !fermata!E,,4 || %57

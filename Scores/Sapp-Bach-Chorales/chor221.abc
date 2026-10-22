@@ -1,0 +1,30 @@
+X:1
+T:Herr, straf mich nicht in deinem Zorn
+T:Herr, straf mich nicht in deinem Zorn
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ A | c B A A | G F !fermata!E E | ^F ^G A c | B2 !fermata!A x :: B x3 | B B B G | %7
+ A B !fermata!c B | B B c B | A A !fermata!^G G | A B c d | B2 !fermata!A x || %12
+V:2
+ E2 | A2 AG F2 F2- | FE- ED !fermata!^C2 E2 | D>E FE E ^F/^G/ A2 | A2 ^G2 !fermata!E2 x2 :: %5
+ =G2 x6 | ^F2 G2 F3 E- | E=D- DE !fermata!E2 E2 | ^F/G/ A2 ^G A3 =G- | G =F/E/ D2 !fermata!E2 E2 | %10
+ E2 E2- E A/^G/ A2- | A ^G/^F/ G2 !fermata!E2 x2 || %12
+V:3
+ c2 | e2 e>d c2 d2- | dA A2 !fermata!A2 A2 | A2 d c/B/ cd e2 | =fd B e/d/ !fermata!c2 x2 :: e2 x6 | %6
+ ^d2 e2 B2 Bc- | c =d/c/ B/A/B !fermata!A2 G2 | B2 e2 e2 e>d | c2 BA !fermata!B2 B2 | %10
+ c2 B2 A2- Af | eB ed !fermata!^c2 x2 || %12
+V:4
+ A,,2 | A,2 E,2 F,E,D,C, | B,,^C, D,2 !fermata!A,,2 =C,2- | C, D,/C,/ B,,E, C,B,, A,,C, | %4
+ D,B,, E,2 !fermata!A,,2 x2 :: E,2 x6 | B,A,G,^F, E,^D, E,2 | ^F,2 ^G,2 !fermata!A,2 E,2 | %8
+ ^D,2 =D,2 C,D, E,2 | F,E, F,2 !fermata!E,2 E,D, | C,B,,A,,^G,, A,,2 F,D, | E,4 !fermata!A,,2 x2 || %12

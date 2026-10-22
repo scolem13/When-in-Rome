@@ -1,0 +1,103 @@
+X:1
+T:Sonata in F Minor
+T:Andante
+C:Carl Philipp Emanuel Bach
+%%score { ( 1 3 4 ) | ( 2 5 6 ) }
+L:1/8
+Q:1/4=72
+M:4/4
+I:linebreak $
+K:F
+U:s=!stemless!
+V:1 treble nm="Harpsichord" snm="Hch."
+L:1/16
+V:3 treble 
+V:4 treble 
+V:2 bass 
+L:1/16
+V:5 bass 
+V:6 bass 
+V:1
+"^Andante" [Ac]8- [Ac]2!wedge![df]2!wedge![ce]2!wedge![Bd]2 | %1
+{c/4} !turn![Ac]2 [Bd]4 [Ac][GB]{[GB]} P!turn![FA]2>[GB]2 [Ac]4 | %2
+ !turn!D2>d2 ^F/G/B/d/ ^f/g/b/d'/ (=f4 P!turn!e2)fc |$ %3
+ c3(3B/A/G/ (G2MA>)[GB] ([FA]4 !wedge!P!turn![EG]2) z2 | %4
+ [Ac]8- [Ac]2!wedge![g_e']2!wedge![fd']2!wedge![_ec']2 | %5
+ !wedge![db]2{a/4}!turn!a>b [_ec']2z[ce]{d/f/} ([ce]2[Bd]2)!p! !turn!d'2>_e'2 |$ %6
+ (g2P!turn!^f>)g !wedge!a2!wedge![Ac]2 z2 B4 [Bd]2 | %7
+ !arpeggio![Bg]2 [Bg]4 [Bf]2 P!turn!e2f2- [Af]2{e/}[Bd]2 | %8
+ !turn![Ac]2>[Bd]2 ([Ac]2P!turn![GB]2) [FA]2!ff!!wedge![FAc]2!wedge![Gc]2!wedge![F=Bf-]2 |$ %9
+{f} (3!fermata!edcc2 z4!f! [EG]8- | %10
+ [EG]2!wedge![Ac]2!wedge![G=B]2!wedge![FA]2{G/4} !turn![EG]2 [FA]4 [EG][DF] | %11
+{[DF]} P!turn![CE]2>[DF]2 [EG]4 z2!p! [EG]2 [EG]4 |$ %12
+ z2!pp! [EG]2 [EG]4 z2!p! [EG]2 !turn![EG]3A/B/ | !wedge!c2 c4 d>A (cB) !turn!B4 !wedge!c>G | %14
+ !wedge!A2(c2[_eg]2[df]2) (f6 P!turn!e2) | %15
+ !wedge!d2d2- (3dcB (3AG^F !wedge!G2(^f2{a/} g2{=f/}_e2) |$ (dc) c6- c2(ca) (g^f)(_ed) | %17
+ (cB)d2 d4- d2d2 d3=e/f/ | !wedge![G^cg]4 !wedge![Adf]4 z2!p! =B,2 B,2B,2 |$ %19
+ !turn!=B,4 !turn!B,2^CD D4- D/C/D/E/G/F/E/D/ | %20
+ (5:4:5^C/E/D/=C/_B,/[I:staff +1] (5:4:5A,/=C/B,/A,/G,/ (F,2P!turn!E,2) D,4[I:staff -1] z4 | %21
+ z4!p! A2A2{Ac} B2A2 z4 |$ z4!p! c2c2{_e/} (d2c2) z2 z/!f! c/^f/a/ | %23
+ !wedge!c'>a!wedge!^f>c !wedge!a>[c_e]!wedge![Bd]>[Ac] !wedge!B4 z4 | %24
+ G3!f!=B/d/ !wedge!g>d!wedge!B>G !wedge!g4 z4 |$ %25
+ G3!f!=B/d/ !wedge!g>d!wedge!B>G !arpeggio![dg=bd']2 z z/!pp! g/ g3_b/_a/ | %26
+ !wedge!g2!wedge!c'2 z4 z8 |!f! c8- c2!wedge!f2!wedge!e2!wedge!d2 |$ %28
+{c/4} !turn![Ac]2 [Bd]4 [Ac][GB]{[GB]} P!turn![FA]2>[GB]2 [Ac]4 | %29
+ !turn!D2>d2 ^F/G/B/d/ ^f/g/b/d'/ (=f4 P!turn!e2)fc | %30
+ c3(3B/A/G/ (G2MA>)[GB] ([FA]4 !wedge!P!turn![EG]2) z2 |$ z2!p! [EG]2 [EG]4 z2!pp! [EG]2 [EG]4 | %32
+ z2!p! [EG]2 !turn![EG]3A/B/ !wedge!c2 c4 d>A (cB) !turn!B4 !wedge!c>G | %33
+ !wedge!A2([Ac]2[_eg]2[df]2) (f6 c2) |$ d2 d4 (fe) dcc2- ced(3c/B/A/ | %35
+{A/} B2 B4 d2 ([Ac][GB]) [GB]4 [Bg]2 |!ff! ([Af][Ge]) [Ge]4 [Bfb]2!p! ([Bfb]4!pp! [Be]4) | %37
+ z2!p! D2D2D2 !turn!D4 !turn!D2EF |$ %38
+ F4- F/G/F/E/ (5:4:5F/G/A/c/B/ A/G/^F/G/ (5:4:5^c/e/d/=c/B/ (A2P!turn!G2) | [A,F]4 z4 z4!p! c2c2 |$ %40
+{c/_e/} (d2c2) z4 z4!pp! [CA]2[CA]2 |{A/c/} ([DB]2[CA]2) z2 z/!f! A/c/f/ a7/2 c'/!p! c'3_e'/_d'/ |$ %42
+ (c'4 P!turn!b2) z!f!!f! B/4c/4_d/4_e/4 !wedge!f2!wedge!d2 =B7/2[I:staff +1] [F,_A,]/!pp! | %43
+[I:staff -1] x8 |] %44
+V:2
+"" F,,3A,,/C,/ !wedge!F,>C,!wedge!A,,>F,, !wedge!F,4 z4 |"m" z4 E,4"" F,4 z3/2 F,,<!wedge!G,,A,,/ | %2
+"m" B,,8"m" z2 [B,G]2"m"[B,G]2""[A,C]2 |$ %3
+"" z2 [E,C]2""[F,C]2[F,C]2"" C2C,2-"" C,>B,,!wedge!A,,>G,, | %4
+"" F,,3A,,/C,/ !wedge!F,>C,!wedge!A,,>F,,"" !wedge!F,4 z4 |"" z4"" z2 F,,2"" B,,,4"m" z4 |$ %6
+"m""m""m""m""m" x16 |"m" x4"" D4"""" C4"m" D2""B,2 | %8
+"" C4"" C,4"" F,2!wedge![F,,F,]2""!wedge![E,,E,]2"m"!wedge![D,,D,]2 |$ %9
+"" [C,,C,]4 z4"" C,,3E,,/G,,/ !wedge!C,>G,,!wedge!E,,>C,, | !wedge!C,4 z4"m" z4 =B,,4 | %11
+"" C,4 z3/2 C,<E,G,/"" !wedge!_B,4 z3/2"_più"!f! C,<E,G,/ |$ %12
+ !wedge!B,4 z3/2!ff! C,<E,G,/ !wedge!B,4 z2 B,2 |"" A,4"m" D4"m" G,4"" C4 | %14
+"" F,8-"" F,2(F,2G,2A,2) |"" B,4 B,,4"" _E,4 E,4 |$"m" A,,4"m" C,4"" D,4 D,4 | %17
+"m" G,,4 z2 G,2"m" =F,4 z2!f! [F,A,D]2 |"m" !wedge!^C4"m" !wedge!D4"m" z8 |$ %19
+ z2 [^G,,F,]2[G,,F,]2[G,,F,]2"" z2 [A,,F,]2[A,,F,]2A,,2 | %20
+"" A,,2A,,2 A,,2A,,2"m" D,,3!f!F,,/A,,/ !wedge!D,>A,,!wedge!F,,>D,, | %21
+"" D,4 z4 D,,3!f!^F,,/A,,/ !wedge!D,>A,,!wedge!F,,>D,, |$ %22
+"" !wedge!D,4 z4 D,,3!f!^F,,/A,,/ D,>A,,!wedge!F,,>D,, | %23
+ !wedge!D,4 !wedge!D,,4"m" !wedge!G,,4""!p! D,2D,2 |"m"{D,/F,/} (_E,2""D,2) z4 z4"" F,2!p!F,2 |$ %25
+"m"{_A,/} (G,2""F,2) z2 z/!f! F,/=B,/D/"" F2 z2 x4 |"m" x16 | %27
+"" F,,3A,,/C,/ !wedge!F,>C,!wedge!A,,>F,, !wedge!F,4 z4 |$ %28
+"m" z4 E,4"" F,4 z3/2 F,,<!wedge!G,,A,,/ |"m" B,,8"m" z2 [B,G]2"m"[B,G]2""[A,C]2 | %30
+"" z2 [E,C]2""[F,C]2[F,C]2"" C2C,2-"" C,>C,!wedge!E,>G, |$ %31
+"" !wedge!B,4 z z/"_più"!f! C,<E,G,/ !wedge!B,4 z z/!ff! C,<!wedge!E,G,/ | %32
+ B,4 z2!p! B,2"" A,4"m" D4"m" G,4"" C4 |"" F,8-"" F,2(F,2G,2A,2) |$"" B,4-"m" B,4"m""m" A,8 | %35
+"m" (G,4"m" [=F,D]4)"m" z4 G,4 | z4"m" [_D,,_D,]4"""" [C,,C,]8 | %37
+"m" z8 z2 [=B,,_A,]2[B,,A,]2[B,,A,]2 |$"" z2 [C,=A,]2[C,A,]2[C,A,]2"" B,2B,2 B,2B,2 | %39
+"" F,,3!f!A,,/C,/ !wedge!F,>C,!wedge!A,,>F,, !wedge!F,4 z4 |$ %40
+ F,,3!f!A,,/C,/ !wedge!F,>C,!wedge!A,,>F,, !wedge!F,4 z4 | %41
+ F,,3!f!A,,/C,/ !wedge!F,>C,!wedge!A,,>F,, !wedge!F,2 z2"" z2 z2 |$"m""m""m" x16 | %43
+""{G,/B,} ([F,_A,]4"" [E,G,]4) |] %44
+V:3
+ x8 | x8 | x8 |$ x8 | x8 | x6 z [Bg] |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | %17
+ x8 | x8 |$ x8 | x8 | x8 |$ x8 | x4 G2 x2 | x8 |$ x6 z [F=B] | !wedge![_Ec]2 x6 | x8 |$ x8 | x8 | %30
+ x8 |$ x8 | x12 | F x3 d3 P!turn!_e |$ x8 | x8 | x8 | x8 |$ x8 | x6 AA |$ BA x6 | x6 z [_ea] |$ %42
+ x8 | x4 |] %44
+V:4
+ x8 | x8 | x8 |$ x8 | x8 | x8 |$ z [Ac]/>[GB]/ [^Fc]2 (G2 [=FG]2) | [EG]2 x2 BA- x2 | x8 |$ G2 x6 | %10
+ x8 | x8 |$ x8 | z2 F2 F2 E2 | F x3 (d3 c) | x8 |$ z (G/B/) (B/A/)(A/G/) (G/^F/) x3 | %17
+ x2 z B (^G/A/) z z2 | x8 |$ s[^A,^C]2 x6 | x8 | x2 ^FF GF x2 |$ x2 AA BA x2 | x8 | x8 |$ x8 | x8 | %27
+ A4- AdcB |$ x8 | x8 | x8 |$ x8 | x6 F2 F2 E2 | x8 |$ z2 G4 ^F2 | G G2 B x4 | x8 | x4 s^C2 z2 |$ %38
+ x8 | x8 |$ x8 | x8 |$ %42
+ z2 [_df] x/ B,/8C/8_D/8_E/8 !wedge!F!wedge!D[I:staff +1] !wedge!=B,[I:staff -1] z | x4 |] %44
+V:5
+ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | %18
+ [E,G,]2 [D,F,A,]2 x4 |$ x8 | x8 | x8 |$ x8 | x8 | C,=B,, x4 D,D, |$ x8 | x8 | x8 |$ x8 | x8 | %30
+ x8 |$ x8 | x12 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | z C,,3 |] %44
+V:6
+ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | %18
+ x8 |$ x8 | x8 | x8 |$ x8 | x6 =B,,B,, | x8 |$ _E,D, x6 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x12 | %33
+ x8 |$ x8 | x6 E,2 | x8 | x8 |$ x4 C,C, C,C, | x8 |$ x8 | x8 |$ x8 | x4 |] %44

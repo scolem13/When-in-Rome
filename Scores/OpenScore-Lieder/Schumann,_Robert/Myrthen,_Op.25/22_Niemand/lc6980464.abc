@@ -1,0 +1,49 @@
+X:1
+T:Myrthen, Op.25
+T:Niemand
+C:Robert Schumann
+Z:Wilhelm Gerhard (after Robert Burns)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=116
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Frisch" z8 | z8 |:!mf! z A B c d3/2 ^F/ G A | B G D E G2 F2 | z G c e d3/2 ^c/ d e | %5
+w: ||1. Ich hab’ mein Weib al- lein, und|teil’ es, traun, mit Nie- mand,|nicht Hahn- rei will ich sein, zum|
+w: ||2. Ich bin nicht And- rer Herr, und|un- ter- tä- nig Nie- mand,|doch mei- ne Klin- ge sticht, ich|
+ f d A =B d2 c2 | z A A A _B3/2 c/ d B | A c B ^F A2 G2 | z c c c d3/2 _e/ f d | c A B E G2 F2 | %10
+w: Hahn- rei mach’ ich Nie- mand.|Ein Säck- chen Gold ist mein, doch|da- für dank’ ich Nie- mand,|nichts hab’ ich su ver- leih’n und|bor- gen soll mir Nie- mand.|
+w: fürch- te mich vor Nie- mand.|Ein lust’- ger Kautz bin ich, kopf-|hän- ge- risch mit Nie- mand,|schiert Nie- mand sich um mich, so|scher’ ich mich um Nie- mand.|
+ z8 | z8 | z8 | z8 :| %14
+w: ||||
+w: ||||
+V:2
+ z!f! [FA][FB][Fc] d>^F[=FG][D^FA] | [DGB][DG]D[CE] ([C-EG]2 [CF]2) |: %2
+ z .[FA].[EFB].[_Ec] ([DBd]>[D^F]).[DG].[DFA] | .[DGB].[DF].D.[CE] ([C-EG]2 [CF]2) | %4
+ z .[EG].[Gc].[Ge] ([Ad]>[A^c]).[Ad].[Ge] | .[Ff].[Fd].[FA].[F=B] ([Fd]2 [Ec]2) | %6
+ z .[^FA].[FA].[FA] ([G_B]>[Ac]).[Bd].[GB] | .[_EA].[Ec].[DB].[D^F] ([D-FA]2 [DG]2) | %8
+ z .[Ac].[Ac].[Ac] ([Bd]>[c_e]).[df].[Fd] | .[Fc].[FA].[GB].[CE] ([C-EG]2 [CF])!mf! (c | %10
+ c').b.a.f (e2 c) (c | c').b.a.f (e2 c) (F- | f)._e.d.c .B.A.G.=F | (Fc) z (D/E/ F2) z2 :| %14
+V:3
+ x4 F>=F x2 | x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x7 (c | c)d/e/ fA/=B/ (c2 G) (c | %11
+ c)d/e/ fA/=B/ (c2 G) x | FG/A/ B=E/^F/ GC/^C/ DD | C2 (_B,2 A,2) x2 :| %14
+V:4
+ z [F,,F,][G,,G,][A,,A,] ([B,,B,]>[A,,A,])[B,,B,][A,,A,] | %1
+ [G,,G,][B,,B,][D,D][C,C] (!>![C,B,]2 [F,A,]2) |: z .F,.G,.A, (!>!B,>A,).B,.A, | %3
+ .G,.B,.D.[C,C] (!>![C,B,]2 [F,A,]2) | C, .G,.C.E (D>^C).D.C | %5
+ .[D,D].[F,D].[A,D].[G,=B,] (!>![G,B,]2 [C,C]2) | .C, .[CD].[CD].[CD] ([_B,D]>[A,D]).[G,D].[B,D] | %7
+ .C.A,.D.[D,C] (!>![D,C]2 [G,B,]2) | .=F, .[_EF].[EF].[EF] ([DF]>[CE]).[B,D].[B,D] | %9
+ .[A,C].D.G,.B, (!>![C,B,]2 [F,A,]2) | %10
+!ped! .C, .[B,CG].[A,CF]!ped-up!.[G,DF]!ped! .C,.[CE].G,.[CE]!ped-up! | %11
+!ped! .C, .[B,CG].[A,CF]!ped-up!.[G,DF]!ped! .C,.[CE].G,!ped-up! z | %12
+ .F,,.F,.B,,.D, .G,.A,.B, .[=B,,^G,] | [C,A,]2 [C,-=G,]2 [F,,C,F,]2 z2 :| %14
+V:5
+ x8 | x8 |: x8 | x8 | x4 F,3 E, | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :| %14

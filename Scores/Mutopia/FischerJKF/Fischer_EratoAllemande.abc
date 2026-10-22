@@ -1,0 +1,56 @@
+% Erato Allemande: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=129
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Erato Allemande
+C:J. K. F. Fischer
+%%score ( 1 2 3 ) ( 4 5 6 )
+L:1/16
+Q:1/4=54
+M:4/4
+I:linebreak $
+K:Emin
+V:1 bass nm="down" snm="Hpschd"
+V:2 bass 
+V:3 bass 
+V:4 treble nm="up" snm="Hpschd"
+V:5 treble 
+V:6 treble 
+L:1/8
+V:1
+ x | [E,G,B,]6 [E,G,]2 E,4 [B,^D,]2->[B,D,]2 | E,2>B,,2 G,,B,,E,,E, C,6 [A,C,]-[A,C,] | %3
+ [D,C,]4 B,,4 E,6 F,-F, | G,D, G,,4 F,,2 E,,2>E,2 D,C,D,B,, | C,6 C,2 B,,6 G,-F, | %6
+ [E,G,B,]6 [E,G,]2 E,4 [B,^D,]3- z | [B,^D,]2<E,2 B,,G,,B,,E,, E, C,6 [A,C,]- | %8
+ [A,C,] [=D,C,]4 B,,4 E,6 F,- | F,G,D, G,,4 F,,2 E,,2>E,2D,C,D, | B,, C,6 C,2 B,,4 B,3- | %11
+ D, ^C,6 [C,G] E D,4 [E,=c]2[F,B] | A G,4 [A,C=f]3 f C6 C,- | %13
+ C,[D,^FA,]2[G,,B] A D,4 G,3 D,G,,2G,- | G,4- G, [F,^D,]4 [B,E,]4 [A,A,,]3- | %15
+ [A,A,,] B,,6 B,,2 [E,=C,]4- [E,C,] C,B,, | A,,B,,2A,,2 B,,2B,,2 E,2>B,,2E,,B,,E, | %17
+ D, ^C,6 [C,G] E D,4 [E,=c]2[F,B] | A G,4 [A,C=f]3 f C6 C,- | %19
+ C,[D,^FA,]2[G,,B] A D,4 G,3 D,G,,2G,- | G,4- G, [F,^D,]4 [B,E,]4 [A,A,,]3- | %21
+ [A,A,,] B,,6 B,,2 [E,=C,]4- [E,C,] C,B,, | A,,B,,2 A,,2B,,2 B,,2E,3 B,,E,,2 x |] %23
+V:2
+ x | z8 z F,A,C z4 | z16 | z4 z D,G,B, z8 | z16 | z8 z3 F, B,A, z (3:2:2G,/ z | z8 z F,A,C z4 | %7
+ z16 | z6 D,G, B, z7 | z16 | z12 F, z B,,E, | B, z4 A,6 [AF,]2 z G,D- | %12
+ D4- D z A[B,DG] z eGA GeG z | z2 c G,4 [A^F,]2 z7 | z ^C,4 z8 z3 | z2 A,G, F, G,4 z7 | z16 | %17
+ z4 z A,6 [AF,]2 z G,D- | D4- D z A[B,DG] z eGA GeG z | z2 c G,4 [A^F,]2 z7 | z ^C,4 z8 z3 | %21
+ z2 A,G, F, G,4 z7 | z15 x |] %23
+V:3
+ x | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z6 F z2 Fd z B z3 | %12
+ z BGB d z8 z3 | z4 z B2 z G z7 | z16 | z16 | z16 | z6 F z2 Fd z B z3 | z BGB d z8 z3 | %19
+ z4 z B2 z G z7 | z16 | z16 | z15 x |] %23
+V:4
+ x15 e | [eBG]2>B2 GBEG A4- A AG^F | G6 [GEB,]2 [AEC]2ec cAAE | ^FDFA d4- d dcB c2>c2 | %4
+ [BGD]2>B2 A2>A2 [GE]2<E2 ^F2>G2 | E8 B6 z e | [eBG]2>B2 GBEG A4- A AG^F | %7
+ G6 [GEB,]2 [AEC]2ec cAAE | ^FDFA d4- d dcB c2>c2 | [BGD]2>B2 A2>A2 [GE]2<E2 ^F2>G2 | E8 B6 z B | %11
+ A4- A z8 z3 | z14 [AE]-G | z8 G4 z BcB | AeeA A^ffA G4 C2->^F2 | ^D4 z BBD E6 [D^FC]-[DFC] | %16
+ B,7 A,2 ^F, ^G,4- G, B | A4- A z8 z3 | z14 [AE]-G | z8 G4 z BcB | AeeA A^ffA G4 C2->^F2 | %21
+ ^D4 z BBD E6 [D^FC]-[DFC] | B,7 A,2^F, ^G,4 x2 |] %23
+V:5
+ x x15 | z16 | z E B,4 z8 z2 | z8 z4 z ED-D | z4 z ^C^D2 z2 c4 B-B- | BAGA A2>B2 z ^F^D2 z4 | z16 | %7
+ z E B,4 z8 z2 | z8 z4 z ED-D | z4 z ^C^D2 z2 c4 B-B- | BAGA A2>B2 z ^F ^D4- D z | z E^CE z12 | %12
+ z15 [AE] | z8 z DB,2 z4 | z8 z EEB, z AAC | B,8- B, B,A,G, A,2 z2 | %16
+ [GE]2[GE]2 [GE]2[^F^D]2 E6 z2 | z E^CE z12 | z15 [AE] | z8 z DB,2 z4 | z8 z EEB, z AAC | %21
+ B,8- B, B,A,G, A,2 z2 | [GE]2 [GE]2[GE]2 [^F^D]2 E6 x2 |] %23
+V:6
+ x/ x15/2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %16
+ z/ ^F/ z/ A/ z6 | z8 | z8 | z8 | z8 | z8 | z/ ^F/ z/ A/ z4 z x |] %23

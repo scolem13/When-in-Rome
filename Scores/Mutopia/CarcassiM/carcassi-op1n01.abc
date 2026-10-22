@@ -1,0 +1,77 @@
+% Trois Sonatines, No. 1: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2165
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Trois Sonatines, No. 1
+C:Matteo Carcassi
+%%score ( 1 2 )
+L:1/16
+Q:1/4=80
+M:6/8
+I:linebreak $
+K:C
+V:1 bass nm="Guitar:upperVoice"
+V:2 bass 
+V:1
+ x8 x [G,A,][B,C]D | E2C2G,2 E2C2G,2 | [GB,,]2 G,,4 CB,C[DG,][EC][FD] | [GE]2A2E2 [FD]2A,B,^CD | %4
+ E2G2F2 [DG,]G,A,B,=CD | E2C2G,2 E2C2G,2 | [GB,,]2 G,,4 CEDCB,A, | G,2C2E2 G^F=FE[FG,,]2 | %8
+ B,C^F,G,^D,E, C,2-F,[G,B,]A,G, | [G,=DB,,]2[G,=FD,]2[G,EC,]2 [G,D]G^FGAG | %10
+ [G,EC,]2[G,GE,]2[G,=FD,]2 [G,E]2- z4 | ^F,,G,,A,,G,, ^G,,6 CE | ^DECA,^G,,B, EB,EB,CE | %13
+ ^DECA, ^D,6 G2- | _B,=B,G,E, ^F,6 G,2- | _B=B^F,2 E,4 D,2C,2- | ^DEB,,2 A,,4 ^G,A,B,C | %17
+ ^CD^DE =D,6 D,2- | ^c=cA^F[GG,]2 d^c=cA[GG,]2 | d^c=cAG^G AE=FDCB, | A,G,^F,G,E2 C2G,2E2 | %21
+ C2G,2[GB,,]2 G,,4 CB, | C[DG,][EC][FD][GE]2 A2E2[FD]2 | A,B,^CDE2 G2F2[DG,]G, | %24
+ A,B,=CDE2 C2G,2E2 | C2G,2[GB,,]2 G,,4 CE | DCB,A,G,2 C2E2G^F | =FE[FG,,]2CG, ^F,G,A,G,GG, | %28
+ =FG,[DB,,]2CG, ^F,G,A,G,GG, | =FG,[DB,,]2CG, ^F,G,[EG,,]2CG, | ^F,G,[EG,,]2 [CC,]6 z2 | %31
+ z4 G=F DE[CC,]G,[CE,]G, |[M:2/4] [CC,]G,[^CE,]G, D4 | G,,4 [=CA,,]A,[CE,]A, | %34
+ [CF,,]D,[CA,,]D, CB,A,G, | GFDE [CC,]G,[CE,]G, | [CC,]G,[^CE,]G, D4 | E^FGA D,4 | D,4 G,,4 | %39
+ =B,^CDE =F^FG^G | AE=FD =CB,A,=G, | GFDE [CC,]G,[CE,]G, | [CC,]G,[^CE,]G, D4 | %43
+ G,,4 [=CA,,]A,[CE,]A, | [DF,,]D,[DA,,]D, CB,A,G, | GFDE [CC,]G,[CE,]G, | [CC,]G,[^CE,]G, D4 | %47
+ G,,4 [=CA,,A,]2G,2 | [DF,]2G,,2 [=CA,]4 | edcB [AA,]E[AC]E | cBAG [^F^D,]B,[FA,]B, | %51
+ BAG^F [EE,]G,[EC,]G, | [^FA,,]A,[^DB,,]A, [EE,,G,B,]4 | BAG^F [EE,,]B,[EG,]B, | %54
+ G^FED [^CA,,]G,[CE,]G, | BA^G=G ^F^CD^D | [EG,]2[^CA,]2 [D,D]4 | d=cAB [GB,,]D,[^GB,,]D, | %58
+ [AC,]D,[^FC,]D, [=GB,,]D,[BB,,]D, | dcAB [GB,,]D,[^GB,,]D, | [AC,]D,[^FC,]D, [=GB,,]D,[BB,,]D, | %61
+ dcBA ^G=FE^D | EFE=D CEAB | cBAG ^F^D=D^C | DED=C [B,G,]2D,2 | G,2[AD,]2 [GA,C]2[ED,]2 | %66
+ [^CA,]2[=CD,]2 [B,G,]2D,2 | G,2[AD,]2 [GA,C]2[ED,]2 | [^CA,]2[=CD,]2 B,D=FE | DFBA GBdc | %70
+ Bdfe dcBA | G^FG^G AE=FD | CB,A,=G, ^F,G,F,G, | G=FDE [CC,]G,[CE,]G, | [CC,]G,[^CE,]G, D4 | %75
+ G,,4 [=CA,,]A,[CE,]A, | [DF,,]D,[DA,,]D, CB,A,G, | GFDE [CC,]G,[CE,]G, | [CC,]G,[^CE,]G, D4 | %79
+ E^FGA D,4 | D,4 G,,4 | =B,^CDE =F^FG^G | AE=FD =CB,A,=G, | GFDE [CC,]G,[CE,]G, | %84
+ [CC,]G,[^CD,]G, D4 | G,,4 [=CA,,]A,[CE,]A, | [DF,,]D,[DA,,]D, CB,A,G, | GFDE [CC,]G,[CD,]G, | %88
+ [CC,]G,[^CE,]G, D4 | G,,4 [=CA,,A,]2G,2 | [DF,]2G,,2 [=C,=C]4 |[K:Cmin] GFED [CE,]G,[=B,F,]G, | %92
+ [CE,]G,[D=B,,]G, [EC,]G,[CE,]G, | GFED [CE,]G,[=B,F,]G, | [CE,]G,[D=B,,]G, [EC,]G,[CE,]G, | %95
+ GFED [CC,]G,[CE,]G, | AGFE [DB,,]A,[DF,]A, | BAFG [EG,]B,[=EG,]B, | %98
+ [FA,]B,[DA,]B, [_EG,]B,[GG,]B, | BAFG [EG,]B,[=EG,]B, | [FA,]B,[DA,]B, [_EG,]B,[GG,]B, | %101
+ BAGF [=EC,]B,[EG,]B, | [=EC,]B,[EG,]B, [FF,,]A,[AF,]A, | F,,2F_E [DB,,]A,[DF,]A, | %104
+ [DB,,]A,[DF,]A, [EE,]B,[GG,]B, | =B,,2GF [EC,]G,[CE,]G, | [=B,G,,]G,[DF,]G, [EE,]G,[CC,]G, | %107
+ =B,,2GF [EA,]G,[CE,]G, | [=B,G,,]G,[DF,]G, [CE,]G,[EC,]G, | =B,,2GF [EC,]G,[GC,]G, | %110
+ [_GA,]C[=GA,]C [GG,]=B,[=AG,]^F | [=BG,]=F[cG,]=E [dG,F]2B=A | G^FG[F=A] G[FA]GF | %113
+ G=FD=E [C=E,]G,[^CE,]G, | [DF,]G,[=B,F,]G, [=C=E,]G,[=EE,]G, | GFD=E [C=E,]G,[^CE,]G, | %116
+ [DF,]G,[=B,F,]G, [=C=E,]G,[=EE,]G, | GF=ED ^C_B,=A,^G, | =A,B,A,=G, F,A,D=E | F=EDC =B,^G,=G,^F, | %120
+ G,^G,=G,^F, [=E,C,]2G,,2 | C,2[DG,,]2 C=B,=A,G, | ^F,G,[=F,G,,]2 [=E,C,]2G,,2 | %123
+ C,2[DG,,]2 C=B,=A,G, | ^F,G,[=F,G,,]2 [=E,C,]2G,,2 | C,2[=AG,,]2 ^FAc=B | =Ac=ed c=Bdc | %127
+ =B=A[GD,]2 G^FG^G | =A=E=FD C=B,ED | C=B,=A,G, ^F,G,A,_B, | =B,C^CD ^D=E=F^F | %131
+ G=F^D=E [=C=C,]G,[C=E,]G, | [CC,]G,[^C=E,]G, =D4 | =C,4 [CC,]G,[C=E,]G, | %134
+ [DF,,]=E,[D=A,,]D, C=B,=A,G, | GFD=E [CC,]G,[C=E,]G, | [CC,]G,[^C=E,]G, D4 | =E^FG=A D,4 | %138
+ D,4 G,,4 | =B,^CD=E =F^FG^G | =A=E=FD =C=B,=A,=G, | GFD=E [CC,]G,[C=E,]G, | [CC,]G,[^C=E,]G, D4 | %143
+ G,,4 [=C=A,,]=A,[C=E,]A, | [DF,,]=A,[DD,]A, C=B,A,G, | GFD=E [CC,]G,[C=E,]G, | %146
+ [CC,]G,[^C=E,]G, D4 | G,,4 [=A,=C=A,,]2G,2 | [DF,]2G,,2 [=E,G,=C=C,]4 | [=EGcC]4 [CC,=E,G,]4- | %150
+ [CC,E,G,]4 x4 |] %151
+V:2
+ x4 x8 | C,6 C,2- C,4 | z3 FDE C,2-C, z3 | z2 ^C4 z2 F,4 | G,6 z6 | C,6 C,2- C,4 | %6
+ z3 FDE C,2-C,2 z2 | G,,6 G,2-G,2 z D | C,4 z3 G,C,2 z2 | z6 B,,2-B,,2 z2 | z6 C,G,, z4 | %11
+ [=G,E]4 z B, EB,EB,A,,2- | A,,2 z2 =G,,6 A,,2- | A,,2 z3 C ^FCFC[E,B,]B, | %14
+ G4 z =D [CA]D[CA]D z B | G,2 z A z G ^FG z [^G,=F] z E | C,2 z [^G,=D] z C B,A, z4 | %17
+ z4 z =G, B,=DGB z d | D,4 z B D,4 z B | D,4 =G,4 z4 | z4 C,6 C,2- | C,4 z3 =FDEC,2- | %22
+ C, z4 z ^C4 z2 | F,4 G,6 z2 | z4 C,6 C,2- | C,4 z3 FDEC,2- | C,4 G,,6 G,2- | G,2 z D C,6 G,,2- | %28
+ G,,2 z G, C,6 G,,2- | G,,2 z G, C,4 z G,C,2- | C,2 z G, z8 | z12 |[M:2/4] z4 B,,G,D,G, | %33
+ z FED z4 | z4 G,,4 | z8 | z4 B,,G,D,G, | =C,4 z BGB, | z DCA, z ^F,G,_B, | z8 | z8 | z8 | %42
+ z4 B,,G,D,G, | z FED z4 | z4 G,,4 | z8 | z4 B,,G,D,G, | z FED z C z ^C | z F z B, z4 | z8 | z8 | %51
+ z8 | z8 | z8 | z8 | z4 =D,4 | z G z E z4 | z8 | z8 | z8 | z8 | z4 E,,4 | z4 A,,4 | z4 D,4 | %64
+ z4 z D2G- | GB z G z ^F z D | z D z D z D2G- | GB z G z ^F z D | z D z D G,4 | z8 | z8 | z8 | z8 | %73
+ z8 | z4 B,,G,D,G, | z FED z4 | z4 G,,4 | z8 | z4 B,,G,D,G, | =C,4 z BGB, | z DCA, z ^F,G,_B, | %81
+ z8 | z8 | z8 | z4 B,,G,D,G, | z FED z4 | z4 G,,4 | z8 | z4 B,,G,D,G, | z FED z C z ^C | %90
+ z F z B, z4 |[K:Cmin] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z G z6 | z8 | %105
+ z A z6 | z8 | z A z6 | z8 | z A z6 | z8 | z4 z c z2 | z8 | z8 | z8 | z8 | z8 | z4 =A,,4 | z4 D,4 | %119
+ z4 G,,4 | z4 z G,2C- | C=E z C D,4 | z3 G, z G,2C- | C=E z C D,4 | z3 G, z G,2C- | %125
+ C=E z G [D,=A,C]4 | z8 | z3 ^F =G,4 | z8 | z8 | z8 | z8 | z4 =B,,G,D,G, | z F=ED z4 | z4 G,,4 | %135
+ z8 | z4 =B,,G,D,G, | =C,4 z =BG=B, | z DC=A, z ^F,G,_B, | z8 | z8 | z8 | z4 =B,,G,D,G, | %143
+ z F=ED z4 | z4 G,,4 | z8 | z4 =B,,G,D,G, | z F=ED z C z ^C | z F z [F,G,=B,] z4 | z8 | z4 x4 |] %151

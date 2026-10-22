@@ -1,0 +1,81 @@
+X:1
+T:Songs of Love and Spring
+T:A Dream of Violets
+C:Liza Lehmann
+Z:Emanuel Geibel
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 4 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=116
+M:8/8
+I:linebreak $
+K:E
+V:1 treble-8 nm="Baritone"
+V:2 treble nm="Piano"
+V:3 treble 
+L:1/4
+V:4 treble 
+V:5 bass 
+L:1/4
+V:6 bass 
+V:1
+"^Allegretto leggiero" z | z8 | z4 z2"^(lightly)" !fermata!z B | A G F E D C B, E | (D2 F4-) F z | %5
+w: ||The|scent of vio- lets, by my pil- low|blow- ing, _|
+ z G F E D C B, E |"^poco rall" D c3"^a tempo" B4 |!<(! z E G A B E G B!<)! | %8
+w: So stole up- on my sen- ses|that I dreamed;|Me- thought, a- long a moun- tain|
+!>(! e3 B (G2 E2)!>)! | z B A G F E C2- | C2 B,2 (!>!C2 E2) | E4- E z z2 | %12
+w: path- way go- ing,|I came where fra- grant hosts|_ of vio- lets|gleamed. _|
+ z4 z2"^poco più""^(with enthusiasm)" !fermata!z!f! B | !>!A G F E D C B, E | (D2 F2-) F3 z | %15
+w: So|thick they grew, such heav'n- ly per- fume|strow- ing, _|
+!<(! z G F E !>!D C B, E!<)! |"^poco rall" (D2 c2) B4 | %17
+w: A ve- ry Par- a- dise on|earth it seemed.|
+ z"^rit." !tenuto!c !tenuto!B !tenuto!A !tenuto!G2 z E | c c B A G3 A | %19
+w: Then spoke my heart: "Her|eyes have rest- ed yon- der,|
+ z"^enthusiastically" B A G F3/2 E/ f2- |!<(! f8-!<)! | !breath!f2 c2({de} d3) e | e8- | %23
+w: And left where- e'er they shone|_|* this vio- let|won-|
+ (!fermata!e4!>(!{/E)} E z z2!>)! |] %24
+w: * der"|
+V:2
+!mf! b | !arpeggio!.[GBea].g.f.e .d.c.B.A | .G.F.E.D .C.B,.!fermata!^A, !arpeggio![=A,DFB] | %3
+ !arpeggio!.[G,B,EA].G.F.E .D.C.B,.[^A,E] | [=A,D] z [A,C] z [A,B,] z z b | %5
+ !arpeggio!.[GBea].g.f.e .d.c.B.[^Ae] | [=Ad] z [Ac] z [AB] z"^a tempo" z e' | %7
+ !arpeggio!.[cead'].c'.b.a .g.f.e.d | .c.B.A.G .F.E.D.C | .B, z z2 [A,C]4 | %10
+ [A,C]4"^colla voce" [A,C]2 b2 | !arpeggio!.[GBea].g.f.e .d.c.B.A | %12
+ .G.F.E.D .C.B,.!fermata!^A,"^cresc." !arpeggio![=A,DFB] | %13
+ !arpeggio!!>!.[G,B,EA].G.F.E .D.C.B,.[^A,E] | [=A,D] z [A,C] z [A,B,] z z b | %15
+!<(! !arpeggio!.[GBea].g.f.e .d.c!<)!.B.[^Ae] | %16
+"^colla voce"!<(! [=Ad]2{Bcd} Tc2!<)!{Bc} B2 z !tenuto!e' | %17
+ !arpeggio!!>![cead']"_L.H."!tenuto!c'!tenuto!b!tenuto!a !tenuto![Geg]!tenuto!e!tenuto!d!tenuto!c | %18
+ z edc G3 A | [B,EGB]4 [^A,EF^A]4- | [A,EFA] ecF"^L.H." !arpeggio![Fcef]4 | %21
+ [A,C]2 !tenuto!A2 !tenuto!G2 !tenuto![DFB]!8va(!b' | %22
+ !arpeggio!.[gbe'a'].g'.f'.e'!8va)! .d'.c'.b.a | %23
+"^colla voce" .g.f.e.!fermata!B .G z[I:staff +1] [E,G,]2 |] %24
+V:3
+ z/ | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2[I:staff +1] E,2 | E,2 D,[I:staff -1] z | x4 | x4 | %13
+ x4 | x4 | x4 | x4 | x4 | C2 [G,CE] [F,A,] | x4 | x2 f'2 | x7/2!8va(! x/ | x2!8va)! x2 | x4 |] %24
+V:4
+[I:staff +1] z |!ped! z[I:staff -1] e!ped-up!"^L.H.""^un poco staccato"dc BAGF | %2
+ EDCB, A,G,!fermata!=G,!ped![I:staff +1]B,,!ped-up! | %3
+"^L.H."!ped! z!ped-up![I:staff -1] EDC B,A,[I:staff +1]G,=G, | %4
+ F, z [E,F,] z [D,F,] z!ped! [B,,,B,,]2!ped-up! |!ped! z[I:staff -1] e!ped-up!"^L.H."dc BAG=G | %6
+"^colla voce" F[I:staff +1] z[I:staff -1] [EF][I:staff +1] z[I:staff -1] [DF][I:staff +1] z!ped! [B,,,B,,]2!ped-up! | %7
+"^L.H."!ped! z!ped-up![I:staff -1] agf edcB | AGFE DCB,A, | %9
+[I:staff +1] .G, z z2!ped! [F,,,F,,]4!ped-up! |!ped! [B,,,B,,]8!ped-up! | %11
+!ped! z[I:staff -1] e"^L.H.""^a tempo"dc BAGF!ped-up! | EDCB, A,G,!fermata!=G,[I:staff +1]B,, | %13
+"^L.H."!ped! z[I:staff -1] EDC B,A,!ped-up![I:staff +1]G,=G, | %14
+ F, z!ped-up! [E,F,] z [D,F,] z!ped! [B,,,B,,]2 |!ped! z[I:staff -1] e"^L.H."dc BAG=G!ped-up! | %16
+ F2!ped-up!!ped! [EFA]2!ped! [DFA]2!ped-up![I:staff +1] [B,,,,B,,,]2 | %17
+!ped! z[I:staff -1] a!ped!g!ped-up![Adf]!ped-up!!ped![I:staff +1] z[I:staff -1] cGE!ped-up! | %18
+!ped![I:staff +1] x[I:staff -1] cBA!ped-up!!ped![I:staff +1] !arpeggio![C,,G,,E,]2!ped-up!!ped! [=C,,=C,]2!ped-up! | %19
+!ped! [B,,E,G,]4!ped-up!!ped! [B,,C,E,F,]4-!ped-up! | [B,,C,E,F,]4 !arpeggio![^A,E]4 | %21
+!ped! (E,2 !tenuto!C2)"^colla voce"!ped-up!!ped! !tenuto!B,2!ped-up!!ped! !tenuto!A,2!8va(!!ped-up! | %22
+!ped! z[I:staff -1] e"^L.H.""^a tempo"dc!8va)! bagf!ped-up! | %23
+ eBGF!>(! E[I:staff +1] x [E,,B,,]2!>)! |] %24
+V:5
+ B,,,/ | [E,,,E,,] z z2 | z2 z z/ B,,,/ | [E,,,E,,] z z2 | x4 | [E,,,E,,] z z2 | x4 | %7
+ [B,,,B,,] z z2 | x4 | x4 | x4 | [E,,,E,,] z z2 | z2 z z/ B,,,/ | [E,,,E,,] z z2 | x4 | %15
+ [E,,,E,,] z z2 | x4 | [B,,,,B,,,]3/2 [^B,,,,^B,,,]/ [C,,,C,,]2 | !arpeggio![A,,,E,,A,,]2 x2 | %19
+(({/B,,,} B,,,4-)) | B,,,4 | [B,,,B,,]4 | [E,,,E,,] z z2 | z2 z x |] %24
+V:6
+ x | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ [C,E,A,]4 x4 | x8 | x8 | x8 | x8 | x8 |] %24

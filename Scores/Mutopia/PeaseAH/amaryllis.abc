@@ -1,0 +1,87 @@
+% Amaryllis: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=606
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Amaryllis
+C:PeaseAH
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:E
+V:1 bass nm="lower"
+V:2 treble nm="upper"
+L:1/16
+V:3 treble 
+V:1
+ x6 E/x/E/ | E2 E/x/E/ x/ EE, =G/x/G/ x/ | =G2 G/x/G/ x/ G=G, [FF,]/x/[FF,]/ x/ | %3
+ [DF,]2 [DF,]/x/[DF,]/ x/ [DF,]2 [DF,]/x/[DF,]/ x/ | [DF,]2 [E^A,F,]/x/[EA,F,]/x/[DB,] x3 | x8 | %6
+ [E,,B,,G,]B, [G,E]B, [E,,B,,G,]B, [G,E]B, | [A,B,,]B, [DA,]B, [G,B,,E,,]B, [EG,]B, | %8
+ [E,,B,,G,]B, [G,E]B, [E,,B,,G,]B, [G,E]B, | [A,B,,] B,[DA,] B,[E,G,B,E] x3 | %10
+ [G,B,,E,,]B, [G,E]B, [G,B,,E,,]B, [G,E]B, | [A,B,,]B, [A,D]B, [G,B,,E,,]B, [G,E]B, | %12
+ [G,B,,E,,]B, [G,E]B, [G,B,,E,,]B, [G,E]B, | [A,B,,]B, [A,D]B, [EB,G,E,]x[E,E,,]/x/[E,E,,]/ x/ | %14
+[K:G] [^D,^D,,]/x/[^C,^C,,]/[D,D,,]/[E,E,,]/x/[E,E,,]/ x/ [B,,B,,,]2 [E,E,,]/x/[E,E,,]/ x/ | %15
+ [A,,A,,,]2 [=D,,=D,,,][D,,D,,,] [G,,G,,,]2 [E,E,,]/x/[E,E,,]/ x/ | %16
+ [^D,^D,,]/x/[^C,^C,,]/[D,D,,]/[E,E,,]/x/[E,E,,]/ x/ [B,,B,,,]2 [E,E,,]/x/[E,E,,]/ x/ | %17
+ [A,,A,,,]2 [=C,=C,,][C,C,,] [B,,B,,,]2 x2 |[K:E] [E,,B,,G,]B, [G,E]B, [E,,B,,G,]B, [G,E]B, | %19
+ [A,B,,]B, [DA,]B, [G,B,,E,,]B, [EG,]B, | [E,,B,,G,]B, [G,E]B, [E,,B,,G,]B, [G,E]B, | %21
+ [A,B,,] B,[DA,] B,[E,G,B,E] x3 |[K:A] [CEA,]E [CA]E [B,D,]D [B,F,]D | %23
+ [DE,]E [DG]E [CE,A,,]E [CA]E | [CE,A,,]E [CA]E [B,D,]D [B,F,]D | [DE,]E [DG]E [CE,A,,]E [CA]E | %26
+ [CE,A,,]E [CA]E [B,D,]D [B,F,]D | [DE,]E [DG]E [CE,A,,]E [CA]E | [CE,A,,]E [CA]E [B,D,]D [B,F,]D | %29
+ [DE,]E [DG]E [A,CEA]x[A,A,,][A,A,,] | %30
+[K:C] [^G,^G,,]/x/[^F,^F,,]/[G,G,,]/[A,A,,]/x/[A,A,,]/ x/ [E,E,,]2 [A,A,,]/x/[A,A,,]/ x/ | %31
+ [D,D,,]2 [=G,,=G,,,][G,,G,,,] [C,C,,]2 [A,A,,]/x/[A,A,,]/ x/ | %32
+[K:C] [^G,^G,,]/x/[^F,^F,,]/[G,G,,]/[A,A,,]/x/[A,A,,]/ x/ [E,E,,]2 [A,A,,]/x/[A,A,,]/ x/ | %33
+ [D,D,,]2 [=F,=F,,]/x/[F,F,,]/ x/ [E,E,,]2 x2 |[K:A] [CEA,]E [CA]E [B,D,]D [B,F,]D | %35
+ [DE,]E [DG]E [CE,A,,]E [CA]E | [CE,A,,]E [CA]E [B,D,]D [B,F,]D | [DE,] E[DG] E[ECA,] x3 | %38
+[K:E] [E,,B,,G,]B, [G,E]B, [E,,B,,G,]B, [G,E]B, | [A,B,,]B, [DA,]B, [G,B,,E,,]B, [EG,]B, | %40
+ [E,,B,,G,]B, [G,E]B, [E,,B,,G,]B, [G,E]B, | [A,B,,]B, [DA,]B, [EB,G,E,]C B,/A,/G,/F,/ | %42
+ E,/x/C,/x/B,,/A,,/ G,,/F,,/E,,x[E,B,G] x | [E,E,,E,,,] x7 |] %44
+V:2
+ x12 [=GB] z [A=c] z | B2e2 [=GB] z [A=c] z [GB]4 [B=d] z [ce] z | %2
+ =d2=g2 [Bd] z [=ce] z [Bd]4 [fB^d]2[^gBd]2 | f2b2 [fBd]2[gBd]2 f2^d'2 [fBd]2[gBd]2 | %4
+ f2f'2 [cF] z [dF] z [BF]2[Bb] z [Bb] z [Bb] z | %5
+ [Bb] z [Bb] z [Bb] z [Bb] z [Bb] z [Bb] z [egb] z [egc'] z | %6
+ [egb]2[egbe']2 [egb]2[egc']2 [egb]2 z2 [egc']2[egc']2 | %7
+ [dfb]2[dfc']2 [bfd]2[gdB]2 [geB]2[egb]2 [egb]2[egc']2 | %8
+ [egb]2[egbe']2 [egb]2[egc']2 [egb]2 z2 [egc']2[egc']2 | %9
+ [dfb]2[dfc']2 [bdf]2[gdBA]2 [eBG]2 z2 [be'g'b']2[c'c'']2 | %10
+ [be'g'b']2[e'e'']2 [be'g'b']2[c'c'']2 [be'g'b']2 z2 [c'c'']2[c'c'']2 | %11
+ [bd'f'b']2[c'c'']2 [bd'f'b'][aa'][gg'][ff'] [gg']2[ee']2 [be'g'b']2[c'c'']2 | %12
+ [be'g'b']2[e'e'']2 [be'g'b']2[c'c'']2 [be'g'b']2 z2 [c'c'']2[c'c'']2 | %13
+ [bd'f'b']2[c'c'']2 [bd'f'b'][aa'][gg'][ff'] [ee']2 z2 [B,=G,] z [B,G,] z | %14
+[K:G] [B,F,] z [B,E,][B,F,] [B,G,] z [B,G,] z [B,F,^D,]4 [B,G,] z [B,G,] z | %15
+ C2B,A, [B,G,=D,] z [A,F,D,] z [B,F,D,]2[G,D,B,,] z [B,G,] z [B,G,] z | %16
+ [B,F,] z [B,E,][B,F,] [B,G,] z [B,G,] z [B,F,^D,]4 [B,G,] z [B,G,] z | %17
+ C2B,A, [G,E,] z [E,F,A,] z [^D,F,B,]4 [e^gb]2[eg^c']2 | %18
+[K:E] [egb]2[egbe']2 [egb]2[egc']2 [egb]2 z2 [egc']2[egc']2 | %19
+ [dfb]2[dfc']2 [bfd]2[gdB]2 [geB]2[eBG]2 [egb]2[egc']2 | %20
+ [egb]2[egbe']2 [egb]2[egc']2 [egb]2 z2 [egc']2[egc']2 | %21
+ [dfb]2[dfc']2 [bdf]2[gdBG]2 [eBG]2 z2 [cc'][=d=d'][ee'][ff'] | %22
+[K:A] [ee'] z [ff'] z [gg'] z [aa'] z [BB,]2 z2 [aa'][gg'][ff'][aa'] | %23
+ [gg'] z [bB][c'ce'] [d'd][c'c][d'd][e'e] [c'c] z [aA] z [c'c][d'd][e'e][f'f] | %24
+ [e'e] z [f'f]2 [g'g] z [a'a] z [bB] z3 [aa'][gg'][ff'][aa'] | %25
+ [g'g]2[bB][c'ce'] [d'd][c'c][d'd][bB] [aA]2 z2 [c'c''][d'd''][e'e''][f'f''] | %26
+ [e'e''] z [f'f''] z [g'g''] z [a'a''] z [bb']4 [a'a''][g'g''][f'f''][a'a''] | %27
+ [g'g''] z [b'b][c''c'e''] [d''d'][c''c'][d''d'][e''e'] [c''c'] z [a'a] z [c''c'][d''d'][e''e'][f''f'] | %28
+ [e'e''] z [f'f''] z [g'g''] z [a'a''] z [bb']4 [a'a''][g'g''][f'f''][a'a''] | %29
+ [g'g''] z [b'b][c''c'e''] [d''d'][c''c'][d''d'][b'b] [a'a]2 z2 [=CE] z [CE] z | %30
+[K:C] [EB,] z [EA,][EB,] [EC] z [EC] z [EB,^G,]4 [EC] z [EC] z | %31
+ F2ED [EC=G,] z [DB,G,] z [ECG,] z [CG,E,] z [EC] z [EC] z | %32
+ [EB,] z [EA,][EB,] [EC] z [EC] z [EB,^G,]2 z2 [EC] z [EC] z | %33
+ F2ED [CA,] z [DB,A,] z [EB,^G,]4 [^c^c'][dd'][ee'][^f^f'] | %34
+[K:A] [ee'] z [ff'] z [gg']2[aa']2 [bB]4 [aa'][gg'][ff'][aa'] | %35
+ [gg'] z [bB][c'ce'] [d'd][c'c][d'd][e'e] [c'c] z [aA] z [c'c][d'd][e'e][f'f] | %36
+ [e'e] z [f'f] z [g'g] z [a'a] z [bB]2 z2 [aa'][gg'][ff'][aa'] | %37
+ [gg'] z [bB][c'ce'] [d'd][c'c][d'd][bB] [aA]2 z2 [bge]2[c'ge]2 | %38
+[K:E] [bge]2[e'bge]2 [bge]2[c'ge]2 [bge]2 z2 [c'ge]2[c'ge]2 | %39
+ [bfd]2[c'fd]2 [bfd]2[gdB]2 [geB]2[eBG]2 [egb]2[egc']2 | %40
+ [egb]2[egbe']2 [egb]2[egc']2 [egb]4 [egc']2[egc']2 | [dfb]2[dfc]2 [bfd]2[gdBA]2 [eBG]2c2 BAGF | %42
+ E z C z B,A, G,F,E,2 z2 [ebe']2 x2 |] %43
+V:3
+ x2 x6 | =G2 z6 | B2 z6 | [Bd]2 z2 [Bd]2 z2 | [Bd]2 z6 | z8 | z8 | z2 z/ a/ z/ f/ z4 | z8 | %9
+ z2 z/ a/ z/ f/ z4 | z8 | z8 | z8 | z8 |[K:G] z8 | [G,E,]2 z6 | z8 | [=G,E,]2 z6 |[K:E] z8 | %19
+ z2 z/ a/ z/ f/ z4 | z8 | z2 z/ a/ z/ f/ z4 |[K:A] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %30
+[K:C] z8 | [CA,]2 z6 | z8 | [=CA,]2 z6 |[K:A] z8 | z8 | z8 | z8 |[K:E] z8 | z2 z/ a/ z/ f/ z4 | %40
+ z8 | z2 z/ a/ z/ f/ z4 | z7 x |] %43

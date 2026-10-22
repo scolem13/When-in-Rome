@@ -1,0 +1,86 @@
+X:1
+T:4 Lieder, Op.18
+T:Lied der Nacht
+C:Clara Mathilda Faisst
+Z:Wilhelm Steinhausen
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 7 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+L:1/4
+V:3 treble nm="Piano"
+L:1/16
+V:6 treble 
+V:4 bass 
+V:5 bass 
+V:7 bass 
+V:1
+"^Andante" z8 | z4 z2!p! _G2 | _G3 E (_C2 B,) B, | (A, _C2) F B,4 | E2 _G G ^F3 =E | %5
+w: |Aus|schwe- rem Traum * der|dun- * keln Nacht|bin ich im Mor- gen-|
+ (D ^C2)!<(! ^G ^A3 ^c!<)! | (_d2 =c) _B _A!>(! d F!>)! _D |!p! =E4 =A,2 z2 | z8 | z4 z2 z C | %10
+w: graun * er- wacht. Noch|liegt  _ die Welt in tie- fem|Schwei- gen.||Ich|
+ C3 C F3 F | F F G A c2 F2 ||[M:3/4] B2 B B B B |!<(! (c2 d3)!<)! e |!>(! B4!>)! z2 | !>!e4 A2 | %16
+w: blick hin- aus in|den be- tau- ten Zwei- gen|hüpft scho- nein klei- nes|Vög- * lein|dort,|Du bist's,|
+ z6 | =e2 =A3 G | z2!<(! ^d2 =A3/2 ^F/ | ^d4!<)! z2 | z6 | z2 ^F2 =E2 | (=G2 _A2) _B2 | %23
+w: |Rot- kehl- chen,|Rot- kehl- chen,|du?||und mit|neu- * em|
+!<(! c4 c2!<)! |!mf! =e2 c2 G2 | (d2 c2) F2 | =E E G3 F | %27
+w: Le- ben|grüsst du mich|lie- * bend|mit der Gna- de|
+"^sehr ruhig und ausdrucksvoll" B,2 z B2 C/ D/ | F4 E2 | z6 | z6 | z6 | z6 |] %33
+w: Wort: dir ist ver-|ge- ben!|||||
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 ||[M:3/4] x3 | x3 | x3 | x3 | x3 | x3 | %18
+ x3 | x3 | x3 | x2 =F | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %33
+V:3
+ z3 ([_CE][I:staff +1] [_G,B,]4)[I:staff -1] z3 ([CE][I:staff +1] [G,B,]4) | %1
+[I:staff -1] z3[I:staff +1] ([A,_C] [D,F,]4)[I:staff -1] z3[I:staff +1] [E,_G,]- [E,G,]4 | %2
+[I:staff -1] z3 ([_CE][I:staff +1] [_G,B,]4)[I:staff -1] z3 ([CE][I:staff +1] [G,B,]4) | %3
+[I:staff -1] z3 ([A,_C][I:staff +1] [D,F,]4)[I:staff -1] z3[I:staff +1] [E,_G,]- [E,G,]4 | %4
+[I:staff -1] z3 ([E_G][I:staff +1] [_G,__B,]4)[I:staff -1] z3 [^C^F]- [CF]2=E2 | %5
+"_cresc." z3 ([__B_d] [_DA]4) z3 ([=Bd] [D_G]4) | z3 [_de]- [EBde]4 z3 [df]-!>(! [FAdf]4!>)! | %7
+!p! ([=E=A=e]4 [Ae=a]4 [EAe]4 [^CE^c]4) |!pp! ([=Af=a]4 [=cf=c']4) ([=A,FA]4 [CFc]4) | %9
+!p! z2!8va(! [fc']4 [fc'f']2 [fc']2[fc'f']2[fc']2[fc'f']2 | %10
+ z2 [fc']4 [fc'f']2 [fc']2[fc'f']2[fc']2[fc'f']2 | %11
+ z2 [f=bf']4!<(! [fbf']2 z2 [f_bf']2!<)![bb']2!>(![fbf']2!8va)!!>)! || %12
+[M:3/4]!p! z3 ([c'e'] [gb]2>)!8va(!([c''e'']2 [g'b']4)!8va)! | %13
+ z3 ([e'f'] [ac']2>)([e'f']2 [a_c']4) | z3!8va(! ([c'e'] [gb]2>)([c'e']2 [g'b']4) | %15
+!mf! z3 ([e'f'] [a_c']2>)([f'a']2 [_c''e'']4) | %16
+ z3 ([_g'=a'] [c'e']2>)[_g=a]2 ([c'e']>[g_a][c'e']2) | %17
+ z3 ([=e'=g'] [=a=c']2>)([fa]2 [=bd']>)([fg][bd']2)!8va)! | %18
+ z3 ([^d'^f'] [^g=b]2>)([=eg]2 [^a^c']>)([e^f][ac']2) | %19
+ z3!8va(! ([^d'^f'] [^g=b]2>)[d'f']2 [^g'=b']4!8va)! | %20
+ z3 ([^d'^f'] [^g=b]2>)([d'f']2!8va(! [^g'=b']4)!8va)! | %21
+ z3!8va(! [^f'^a'] [=a^d']4- [ad']>[^^c'^e'][^g^a]2 | %22
+!<(! z3 [=g'_b'] [=c'_e']2>[g'b']2!<)! [=c''_e'']4 | %23
+ z3 ([c'e'] [a'c'']2>)([f'a']2 [c'e']>)[ac'][e'f']2 | %24
+ z3 ([c'=e'] [g'c'']2>)([e'g']2 [gc']>)([=eg][=ac']2) | %25
+ z3 ([c'd'] [=a'c'']2>)([f'a']2 [=ac']>)([fa][c'd']2)!8va)! | %26
+ z3 ([c=e] [gc']4-) [gc']>([cd][_ac']2) | z3"^molto rit." ([c_e] [gb]4-) [gb]>([Bc][df]2) | %28
+ z3"^a tempo"!8va(! ([c'e'] [gb]2>)([c'e']2 [f'b']4)!8va)! | z3!p! ([ce] [GB]2>)([ce]2 [gb]4) | %30
+ z3 [CE][I:staff +1] [G,B,]8- | [G,B,]2>[I:staff -1][CE]2[I:staff +1] [G,B,]8-!8va(! | %32
+[I:staff -1] [g'b']8!8va)! z4 |] %33
+V:4
+!p! z B,,2 B,, z B,,2 B,, | z _C,2 C, E,,B,, C,B,, | z B,,2 B,, z B,,2 B,, | %3
+ z _C,2 C, E,,B,,C,B,, | z C,2 C, z ^C,2 C, | =F,, _D,2 _A, _G,, D,2 B, | =G,, E,2 B, A,,F,A,_D, | %7
+ ^C, =E,2 ^C2 =B, =A,E, | (=C, =A,2 G,2 F,C,F,,) | z[K:treble] [=Ac]2 [Ac] [Ac][Ac][Ac][Ac] | %10
+ z [_Ac]2 [Ac] [Ac][Ac][Ac][Ac] | z [Ad]2 [Ad] z [Ad]2 [Ad] ||[M:3/4] (EBegeB) | (Ecfcf_c) | %14
+ EBegeB | Aefefe | A,E_G__BeA |"^dim." =G,=C=E=G=BG | ^F,=B,^D^F^AF |!mf! =B,^F=B^dBF | %20
+!p! =B,^F=B^dBF | =A,^D^F^A^A,^E | _E_B_egeB |!<(! A,EAcAE!<)! | G,=EGcGE | F,F=AcAF | G,C=EG- GF | %27
+ B,_EGBB,A |[K:bass] E,,B,,E,G,E,B,, | E,,B,,E,G,E,B,, | E,, B,,2 B,,2 B,, | E,, B,,2 B,,2 B,, | %32
+ [G,B,]4 z2 |] %33
+V:5
+ E,,4 E,,4 | E,,4 E,,4 | E,,4 E,,4 | E,,4 E,,4 | E,,4 =E,,4 | x8 | x8 | =A,,8 | =F,,4 F,,4 | %9
+ [F,,,F,,]8[K:treble] | x4 z2 z3/2 (F/ | _C7/2) F/ B,4 ||[M:3/4] x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x5 =F | x6 | x6 | x6 | x6 | G,4 _A,2 | x6 |[K:bass] x6 | x6 | E,,6 | E,,6 | E,,4 x2 |] %33
+V:6
+ x8 | x8 | x8 | x8 | x6[I:staff +1] =A,-A, | x8 | x8 | x8 | x8 | x!8va(! x7 | x8 | x8!8va)! || %12
+[M:3/4] x7/2!8va(! x5/2!8va)! | x6 | x3/2!8va(! x9/2 | x6 | x6 | x6!8va)! | x6 | %19
+ x3/2!8va(! x9/2!8va)! | x4!8va(! x2!8va)! | x3/2!8va(! x9/2 | x6 | x6 | x6 | x6!8va)! | x6 | x6 | %28
+ x3/2!8va(! x9/2!8va)! | x6 | x6 | x4[I:staff -1] z3/2!pp!!8va(! [c'e']/ | x4!8va)! x2 |] %33
+V:7
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x[K:treble] x7 | [F,C]8 | x8 ||[M:3/4] x6 | x6 | x6 | %15
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[K:bass] x6 | x6 | x6 | x6 | x6 |] %33

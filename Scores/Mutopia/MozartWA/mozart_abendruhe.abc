@@ -1,0 +1,30 @@
+% Abendruhe: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1685
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Abendruhe
+C:Wolfgang Amadeus Mozart (1756-1791)
+%%score 1 2 3 4
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:none
+V:1 bass nm="Flute" snm="Fl"
+V:2 treble nm="Flute" snm="Fl"
+V:3 treble nm="Flute" snm="Fl"
+V:4 treble nm="Flute" snm="Fl"
+V:1
+ x3 F, | _B,,2 B,, C,- | C, _B,, A,,- A,, | A,, _B,, B,, x | _B,, C, B,, A,,- | A,, _B,, C,- C, | %6
+ C, F, F, x | F, F, F, F, | F, x F, F, | F, F,2 x | ^F, F, F, G,- | G, ^D, =F,- F, | %12
+ F, _B,,2- B,, | _B,, B,, B,, ^D,- | D, ^D, F,- F, | F, _B,,2 x |] %16
+V:2
+ x3 F | _B2 B A- | A _B c- c | A/F/ F/>G/ F x | _B A B c- | c _B A B | G G/F/ F x | F F F A/G/ | %8
+ G x A A | A c _B x | A A A _B- | B c _B- B | A _B2- B | _B B B B- | B G F- F | F F2 x |] %16
+V:3
+ x3 F | F2 F F- | F F F- F | ^D =D/>^D/ =D x | F F F F- | F F F G | E E/F/ F x | C C C D | %8
+ D x ^D D | ^D F2 x | =D D D D- | D G F- F | ^D =D2- D | D ^D F D- | D ^D =D C | ^D =D2 x |] %16
+V:4
+ x3 F, | D2 D ^D- | D =D C- C | C _B, B, x | D ^D =D C- | C D C- C | _B, B,/A,/ A, x | %7
+ A, A, A, _B, | _B, x C C | C D2 x | C C C _B,- | B, ^D =D- D | C _B,2- B, | F, G, ^G, =G,- | %14
+ G, _B, B,- B, | A, _B,2 x |] %16

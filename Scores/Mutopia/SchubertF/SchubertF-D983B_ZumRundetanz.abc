@@ -1,0 +1,62 @@
+% Zum Rundetanz: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1560
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Zum Rundetanz
+C:SchubertF
+%%score ( 1 2 ) 3 4 5
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:none
+V:1 treble nm="tenoreI" snm="Ob"
+V:2 treble 
+V:3 treble nm="tenoreII" snm="Cl"
+V:4 bass nm="bassoI" snm="Hn"
+V:5 bass nm="bassoII" snm="Bsn"
+V:1
+ z6 |[K:E][M:6/8][Q:1/4=110] e2 B cc z | c2 c dd z | d2 d e2 g/f/ | B3 e/ z/ cd |[Q:1/4=90] e6 | %6
+[Q:1/4=110] e2 c e2 c | e2 c e2 c | c2 c cdd | d2 d dec | f>ge d2 z | e2 e e2 d/c/ | cBA A2 G | %13
+ egf/e/ e2 d/c/ | cBd e2 z | e2 B cc z | a2 d ee[Q:1/4=20]E, |[Q:1/4=110] e2 B cc z | c2 c dd z | %19
+ d2 d e2 g/f/ | B3 e/ z/ cd |[Q:1/4=90] e6 |[Q:1/4=110] e2 c e2 c | e2 c e2 c | c2 c cdd | %25
+ d2 d dec | f>ge d2 z | e2 e e2 d/c/ | cBA A2 G | egf/e/ e2 d/c/ | cBd e2 z | e2 B cc z | %32
+ a2 d ee[Q:1/4=20]E, |[Q:1/4=110] e2 B cc z | c2 c dd z | d2 d e2 g/f/ | B3 e/ z/ cd | %37
+[Q:1/4=90] e6 |[Q:1/4=110] e2 c e2 c | e2 c e2 c | c2 c cdd | d2 d dec | f>ge d2 z | e2 e e2 d/c/ | %44
+ cBA A2 G | egf/e/ e2 d/c/ | cBd e2 z | e2 B cc z | a2 d ee[Q:1/4=20]E, |] %49
+V:2
+ x6 |[K:E][M:6/8] x6 | x6 | x6 | z3 d z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %16
+ x6 | x6 | x6 | x6 | z3 d z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ x6 | x6 | z3 d z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %49
+V:3
+ z6 |[K:E][M:6/8][Q:1/4=110] B2 G AA z | ^A2 A BB z | =A2 A G2 c | B3 A2 A |[Q:1/4=90] G6 | %6
+[Q:1/4=110] c2 A c2 A | c2 A c2 A | F2 F F2 F | G2 G G2 ^A | B2 ^A B2 z | B2 =c ^c2 B/=A/ | %12
+ AGF E3 | B2 =c ^c2 B/A/ | AGA G2 z | B2 G AA z | d2 A GG[Q:1/4=20]E, |[Q:1/4=110] B2 G AA z | %18
+ ^A2 A BB z | =A2 A G2 c | B3 A2 A |[Q:1/4=90] G6 |[Q:1/4=110] c2 A c2 A | c2 A c2 A | F2 F F2 F | %25
+ G2 G G2 ^A | B2 ^A B2 z | B2 =c ^c2 B/=A/ | AGF E3 | B2 =c ^c2 B/A/ | AGA G2 z | B2 G AA z | %32
+ d2 A GG[Q:1/4=20]E, |[Q:1/4=110] B2 G AA z | ^A2 A BB z | =A2 A G2 c | B3 A2 A |[Q:1/4=90] G6 | %38
+[Q:1/4=110] c2 A c2 A | c2 A c2 A | F2 F F2 F | G2 G G2 ^A | B2 ^A B2 z | B2 =c ^c2 B/=A/ | %44
+ AGF E3 | B2 =c ^c2 B/A/ | AGA G2 z | B2 G AA z | d2 A GG[Q:1/4=20]E, |] %49
+V:4
+ z6 |[K:E][M:6/8][Q:1/4=110] G,2 E, E,E, z | F,2 F, F,F, z | F,2 F, E,2 A, | G,3 F,2 F, | %5
+[Q:1/4=90] E,6 |[Q:1/4=110] E,2 E, E,2 E, | E,2 E, E,2 E, | E,2 E, E,D,D, | F,2 F, F,E,E, | %10
+ F,2 F, F,2 z | E,2 E, E,2 E, | D,2 D, E,3 | E,2 E, E,2 E, | B,,2 F, E,2 z | G,2 E, E,E, z | %16
+ F,2 F, E,E,[Q:1/4=20]E, |[Q:1/4=110] G,2 E, E,E, z | F,2 F, F,F, z | F,2 F, E,2 A, | G,3 F,2 F, | %21
+[Q:1/4=90] E,6 |[Q:1/4=110] E,2 E, E,2 E, | E,2 E, E,2 E, | E,2 E, E,D,D, | F,2 F, F,E,E, | %26
+ F,2 F, F,2 z | E,2 E, E,2 E, | D,2 D, E,3 | E,2 E, E,2 E, | B,,2 F, E,2 z | G,2 E, E,E, z | %32
+ F,2 F, E,E,[Q:1/4=20]E, |[Q:1/4=110] G,2 E, E,E, z | F,2 F, F,F, z | F,2 F, E,2 A, | G,3 F,2 F, | %37
+[Q:1/4=90] E,6 |[Q:1/4=110] E,2 E, E,2 E, | E,2 E, E,2 E, | E,2 E, E,D,D, | F,2 F, F,E,E, | %42
+ F,2 F, F,2 z | E,2 E, E,2 E, | D,2 D, E,3 | E,2 E, E,2 E, | B,,2 F, E,2 z | G,2 E, E,E, z | %48
+ F,2 F, E,E,[Q:1/4=20]E, |] %49
+V:5
+ z6 |[K:E][M:6/8][Q:1/4=110] E,2 E, A,,A,, z | F,2 F, B,,B,, z | =C,2 C, ^C,2 A,, | B,,4- B,, B,, | %5
+[Q:1/4=90] E,6 |[Q:1/4=110] A,,2 A,, A,,2 A,, | A,,2 A,, A,,2 A,, | ^A,,2 A,, A,,B,,B,, | %9
+ =C,2 C, C,^C,E, | D,2 C, B,,2 z | G,,2 G,, A,,2 A,, | B,,2 B,, C,3 | G,,2 G,, A,,2 A,, | %14
+ B,,2 B,, E,2 z | E,2 E, A,,A,, z | B,,2 B,, E,E,[Q:1/4=20]E, |[Q:1/4=110] E,2 E, A,,A,, z | %18
+ F,2 F, B,,B,, z | =C,2 C, ^C,2 A,, | B,,4- B,, B,, |[Q:1/4=90] E,6 | %22
+[Q:1/4=110] A,,2 A,, A,,2 A,, | A,,2 A,, A,,2 A,, | ^A,,2 A,, A,,B,,B,, | =C,2 C, C,^C,E, | %26
+ D,2 C, B,,2 z | G,,2 G,, A,,2 A,, | B,,2 B,, C,3 | G,,2 G,, A,,2 A,, | B,,2 B,, E,2 z | %31
+ E,2 E, A,,A,, z | B,,2 B,, E,E,[Q:1/4=20]E, |[Q:1/4=110] E,2 E, A,,A,, z | F,2 F, B,,B,, z | %35
+ =C,2 C, ^C,2 A,, | B,,4- B,, B,, |[Q:1/4=90] E,6 |[Q:1/4=110] A,,2 A,, A,,2 A,, | %39
+ A,,2 A,, A,,2 A,, | ^A,,2 A,, A,,B,,B,, | =C,2 C, C,^C,E, | D,2 C, B,,2 z | G,,2 G,, A,,2 A,, | %44
+ B,,2 B,, C,3 | G,,2 G,, A,,2 A,, | B,,2 B,, E,2 z | E,2 E, A,,A,, z | B,,2 B,, E,E,[Q:1/4=20]E, |] %49

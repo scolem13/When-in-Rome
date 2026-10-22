@@ -1,0 +1,66 @@
+% Für Elise: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=931
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Für Elise
+C:Ludwig van Beethoven
+%%score 1 ( 2 3 )
+L:1/16
+Q:1/4=72
+M:3/8
+I:linebreak $
+K:Amin
+V:1 bass nm="down"
+V:2 treble nm="up"
+V:3 treble 
+V:1
+ x2 | x6 | A,,E,A, x3 | E,,E,^G, x3 | A,,E,A, x3 | x6 | A,,E,A, x3 | E,,E,^G, x3 | A,,E,A,xA,,E, | %9
+ A,2<x2C,G, | C2<x2G,,G, | B,2<x2A,,E, | A,2<x2E,,E, | Ex2Ee x | x ^dex2d | e x4 x | x4 A,,E, | %17
+ A,2<x2E,,E, | ^G,2<x2A,,E, | A, x4 x | x4 A,,E, | A,2<x2E,,E, | ^G,2<x2A,,E, | A,2<x2A,,E, | %24
+ A,[_B,C][A,C][G,B,C]F,A, | CA,CA,F,_B, | D_B,DB,F,E | [F,G,_B,]E[F,G,B,]EF,A, | CA,CA,F,A, | %29
+ CA,CA,E,A, | CA,[D,D]F,G,E | G,EG,F[CE]2 | x [FG][EG][DFG][CEG]2 | [F,A,]2[G,B,]2C2 | %34
+ x [FG][EG][DFG][CEG]2 | [F,A,]2[G,B,]2[^G,B,]2 | x6 | x6 | x6 | x6 | x4 A,,E, | A,2<x2E,,E, | %42
+ ^G,2<x2A,,E, | A, x4 x | x4 A,,E, | A,2<x2E,,E, | ^G,2<x2A,,E, | A,2<x2C,=G, | C2<x2G,,G, | %49
+ B,2<x2A,,E, | A,2<x2E,,E, | Ex2Ee x | x ^dex2d | e x4 x | x4 A,,E, | A,2<x2E,,E, | ^G,2<x2A,,E, | %57
+ A, x4 x | x4 A,,E, | A,2<x2E,,E, | ^G,2<x2A,,A,, | A,,A,,A,,A,,A,,A,, | A,,A,,A,,A,,A,,A,, | %63
+ A,,A,,A,,A,,A,,A,, | A,,A,,A,,A,,A,,A,, | A,,A,,A,,A,,[D,,A,,][D,,A,,] | %66
+ [D,,A,,][D,,A,,][D,,A,,][D,,A,,][^D,,A,,][D,,A,,] | %67
+ [^D,,A,,][D,,A,,][D,,A,,][D,,A,,][E,,A,,][E,,A,,] | %68
+ [E,,A,,][E,,A,,][E,,^G,,][E,,G,,][A,,,A,,]A,, | A,,A,,A,,A,,A,,A,, | A,,A,,A,,A,,A,,A,, | %71
+ A,,A,,A,,A,,A,,A,, | A,,A,,A,,A,,_B,,B,, | _B,,B,,B,,B,,B,,B,, | _B,,B,,B,,B,,B,,B,, | %75
+ _B,,B,,B,,B,,=B,,B,, | B,,B,,B,,B,,C,2- | C,2x2[E,^G,]2 | x4 A,,,2 | x2 [A,CE]2[A,CE]2 | %80
+ x2 [A,CE]2[A,CE]2 | x2 [A,CE]2[A,CE]2 | x6 | x6 | x4 A,,E, | A,2<x2E,,E, | ^G,2<x2A,,E, | %87
+ A, x4 x | x4 A,,E, | A,2<x2E,,E, | ^G,2<x2A,,E, | A,2<x2C,=G, | C2<x2G,,G, | B,2<x2A,,E, | %94
+ A,2<x2E,,E, | Ex2Ee x | x ^dex2d | e x4 x | x4 A,,E, | A,2<x2E,,E, | ^G,2<x2A,,E, | A, x4 x | %102
+ x4 A,,E, | A,2<x2E,,E, | ^G,2<x2[A,,,A,,]2 |] %105
+V:2
+ x4 e^d | e^deB=dc | A2 z CEA | B2 z E^GB | c2 z Ee^d | e^deB=dc | A2 z CEA | B2 z EcB | A4 A2 | %9
+ z Bcde2- | eGfed2- | dFedc2- | cEdcB2 | z Ee z2 e | e' z2 ^de2 | z ^deded | eB=dcA2 | z CEAB2 | %18
+ z E^GBc2 | z Ee^ded | eB=dcA2 | z CEAB2 | z EcBA2 | z BcdA2 | z [Ec][Fc][EGcFA]c2- | %25
+ c2(3:2:2f2e-e2 | d2(3:2:2_b2 z2 g | fedc_B2 | A2[_BA]Bc2- | c2d^de2- | eefAc2- | %31
+ c2(3d2[Bc]-[Bc][gG] (3:2:1z/ | (3:2:2[gB]2[gc]2[gd] (3:2:2z/ [gc']-(3:2:2[gc'][ba]- | %33
+ (3:2:1[ba][gf] (3:2:2z/ [gf]-(3[gf][dc]-[dc](3[gG]-[gG]/ z/ | %34
+ (3:2:2[gB]2[gc]2[gd] (3:2:2z/ [gc']-(3:2:2[gc'][ba]- | %35
+ (3:2:1[ba][gf] (3:2:2z/ [gf]-(3[gf][de]-[de](3[fe]-[fe]/ z/ | %36
+ (3:2:2[Be]2[^de]2[Be] (3:2:2z/ e-(3:2:1e2- | eBe^de2- | eBe^ded | e^deded | eB=dcA2 | z CEAB2 | %42
+ z E^GBc2 | z Ee^ded | eB=dcA2 | z CEAB2 | z EcBA2 | z Bcde2- | eGfed2- | dFedc2- | cEdcB2 | %51
+ z Ee z2 e | e' z2 ^de z | z ^deded | eB=dcA2 | z CEAB2 | z E^GBc2 | z Ee^ded | eB=dcA2 | z CEAB2 | %60
+ z EcBA2 | z4 [EG_B^c]2- | [EGBc]4 [FAd]2- | [FAd]2[^ce][df][^Gdf]2- | [Gdf]2[^Gdf]2[A=ce]2- | %65
+ [Ace]4 [Fd]2- | [Fd]2[Ec][DB][C^FA]2- | [CFA]2[CA]2[CA]2 | [Ec]2[DB]2[CA]2- | [CA]4 [EG_B^c]2- | %70
+ [EGBc]4 [FAd]2- | [FAd]2[^ce][df][df]2- | [df]2[df]2[df]2- | [df]4 [G^d]2- | %74
+ [Gd]2[F=d][^Dc][=DF_B]2- | [DFB]2[DFA]2[DF^G]2- | [DFG]2[DF^G]2[CEA]2- | [CEA]2 z2 [EB]2 | %78
+ z4 (3:2:2[A,C]2[EA]- | (3:2:2[EA][ce]2(3:2:4[dc]2[BA]-[BA][ce]2 | %80
+ (3[ac']2[e'd']2[c'b]2(3:2:2[ac']2[e'a']- | %81
+ (3:2:2[e'a'][c''e'']2(3:2:4[d''c'']2[=b'_b']-[b'b'][a'^g']2 | %82
+ (3[=g'^f']2[=f'e']2[^d'=d']2(3:2:2[^c'=c']2[=b_b]- | %83
+ (3:2:2[bb][a^g]2(3:2:4[=g^f]2[=fe]-[fe] z/ ^d | e=B=dcA2 | z CEAB2 | z E^GBc2 | z Ee^ded | %88
+ eB=dcA2 | z CEAB2 | z EcBA2 | z Bcde2- | eGfed2- | dFedc2- | cEdcB2 | z Ee z2 e | e' z2 ^de z | %97
+ z ^deded | eB=dcA2 | z CEAB2 | z E^GBc2 | z Ee^ded | eB=dcA2 | z CEAB2 | z EcBA2 |] %105
+V:3
+ x2 x4 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %19
+ z6 | z6 | z6 | z6 | z6 | z6 | z4 (3:2:2e/ z z | z3 [aa] z2 | z6 | (3:2:1z4 [GA] (12:7:1z4 | z6 | %30
+ z6 | z4 z [gA] | z3 [ge] z2 | z [ed] z3 [gA] | z3 [ge] z2 | z [ed] z3 [^de] | z3 ^d z2 | z6 | z6 | %39
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %58
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %77
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %96
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %105

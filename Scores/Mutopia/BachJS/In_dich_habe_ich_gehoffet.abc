@@ -1,0 +1,69 @@
+% In dich hab' ich gehoffet, Herr: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=774
+% Licence: Creative Commons Attribution-ShareAlike 2.5. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:In dich hab' ich gehoffet, Herr
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 2 3 4 5 ( 6 7 ) ( 8 9 ) 10
+L:1/16
+Q:1/4=33
+M:4/4
+I:linebreak $
+K:Emin
+V:1 treble nm="Recorder" snm="Rec"
+V:2 treble nm="Pan Flute" snm="P Fl"
+L:1/4
+V:3 treble nm="Recorder" snm="Rec"
+L:1/4
+V:4 treble nm="Pan Flute" snm="P Fl"
+V:5 treble nm="Recorder" snm="Rec"
+V:6 bass nm="Pan Flute" snm="P Fl"
+V:7 bass 
+L:1/4
+V:8 treble nm="Recorder" snm="Rec"
+V:9 treble 
+L:1/4
+V:10 bass nm="Pan Flute" snm="P Fl"
+V:1
+ x4 | x6 G^C ^D2B,2 x4 | x2 =CG, A,2B,2 E,4 x2 G^C | D2B,2 x2 E^A, B,2F,2 x2 F^C | %4
+ DB,B=F ^F2^F,2 B,4 x4 | x6 AE F2D2 x2 EB, | C2A,2 x2 E^A, B,4 x2 B,F, | %7
+ G,2E,2 x2 G^C ^D2B,2 x2 FB, | EB,=CG, A,2B,2 E,4 x2 E^A, | B,2F,2 x2 G^C ^DB,BF GEFB, | %10
+ EB,=CG,[Q:1/4=30] A,F,B,2[Q:1/4=20] E,4-[Q:1/4=15] E,4 |] %11
+V:2
+ x3 E3/4 | E B ^F/>G/ A- | A/G/ ^F E3/4 x/4 E | B ^c d c- | c/ B _B/ =B3/4 x/4 B | e ^c d B | %6
+ A G ^F3/4 x/4 F | E B ^F/>G/ A | G ^F E3/4 x/4 E | ^D E ^F/>A/ B/A/ | %10
+ G[Q:1/4=30] ^F[Q:1/4=20] E-[Q:1/4=15] E |] %11
+V:3
+ x3 e3/4 | e b ^f/>g/ a- | a/g/ ^f e3/4 x/4 e | b ^c' d' c'- | c'/ b _b/ =b3/4 x/4 b | %5
+ e' ^c' d' b | a g ^f3/4 x/4 f | e b ^f/>g/ a | g ^f e3/4 x/4 e | ^d e ^f/>a/ b/a/ | %10
+ g[Q:1/4=30] ^f[Q:1/4=20] e-[Q:1/4=15] e |] %11
+V:4
+ x4 | x2 B,F, G,B,E,2 x2 B,E ^D4- | DB, EB,C2 B,F,G,2 x6 | x2 =D^G, ^A,^CC2 B,2FB ^A4- | %4
+ AF^G2 FxF^C ^D4 x2 B,F, | =G,GBE =AGFE =DAF2- FB,E2- | E2>^D2 EB,2<^C2 F,B,2- B,ED2 | %7
+ E2B,F, G,B,E,2 x2 B,E ^D4 | B,2EB, C2B,F, G,2x2B,F,G,2 | F,B,A,2 B,2>^A,2 B,xF2- FE2^D | %10
+ E^D E4[Q:1/4=30] D2[Q:1/4=20] x B,3-[Q:1/4=15] B,4 |] %11
+V:5
+ x4 | x2 BF GBE2 x2 Be ^d4- | dB eBc2 BFG2 x6 | x2 =d^G ^A^cc2 B2fb ^a4- | af^g2 fxf^c ^d4 x2 BF | %5
+ =Ggbe =agfe =daf2- fBe2- | e2>^d2 eB2<^c2 FB2- Bed2 | e2BF GBE2 x2 Be ^d4 | B2eB c2BF G2x2BFG2 | %9
+ FBA2 B2>^A2 Bxf2- fe2^d | e^d e4[Q:1/4=30] d2[Q:1/4=20] x B3-[Q:1/4=15] B4 |] %11
+V:6
+ x14 B,F, | G, z G,^D, E,2B,3 F,D,E, F,B,,B,F, | G,^D,2<E,2 A,D,2 E,2B,F, G,B,E,2 | %3
+ F,6 G,2 F,=D2B, F^CE2- | E2D2 ^CF,E2 z2 B,F, G,2G,^D, | E,2G,3 E, A,4 B,F, G,4- | %6
+ G,CF,2 G,^D, E,4 D,^C, D,G,F,=C | B,F,G,^D, E,2B,3 F,D,E, F,B,,A,F, | %8
+ G,^D,2<E,2 A,D,2 E,2B,F, G,D,E,2 | z2 CF, G,^D,E,2 z ^D3 B,G,CB,- | %10
+[Q:1/4=30][Q:1/4=20][Q:1/4=15] B,G,E,B, CA,F,B, ^G, z G,2- E,4 |] %11
+V:7
+ x x3 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z2 z3/4 B,,/4 ^G, |] %11
+V:8
+ x14 BF | G z G^D E2B3 FDE FB,BF | G^D2<E2 AD2 E2BF GBE2 | F6 G2 F=d2B f^ce2- | %4
+ e2d2 ^cFe2 z2 BF G2G^D | E2G3 E A4 BF G4- | GcF2 G^D E4 D^C DGF=c | BFG^D E2B3 FDE FB,AF | %8
+ G^D2<E2 AD2 E2BF GDE2 | z2 cF G^DE2 z ^d3 BGcB- | %10
+[Q:1/4=30][Q:1/4=20][Q:1/4=15] BGEB cAFB ^G z G2- E4 |] %11
+V:9
+ x x3 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z2 z3/4 B,/4 ^G |] %11
+V:10
+ x4 | x6 G,^C, ^D,2B,,2 x4 | x2 =C,G,, A,,2B,,2 E,,4 x2 G,^C, | %3
+ D,2B,,2 x2 E,^A,, B,,2F,,2 x2 F,^C, | D,B,,B,=F, ^F,2^F,,2 B,,4 x4 | x6 A,E, F,2D,2 x2 E,B,, | %6
+ C,2A,,2 x2 E,^A,, B,,4 x2 B,,F,, | G,,2E,,2 x2 G,^C, ^D,2B,,2 x2 F,B,, | %8
+ E,B,,=C,G,, A,,2B,,2 E,,4 x2 E,^A,, | B,,2F,,2 x2 G,^C, ^D,B,,B,F, G,E,F,B,, | %10
+ E,B,,=C,G,,[Q:1/4=30] A,,F,,B,,2[Q:1/4=20] E,,4-[Q:1/4=15] E,,4 |] %11

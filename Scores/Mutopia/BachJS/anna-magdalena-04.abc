@@ -1,0 +1,29 @@
+% Menuet: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=75
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Menuet
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 ) 3
+L:1/4
+Q:1/4=140
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="one"
+L:1/8
+V:2 treble 
+V:3 bass nm="two"
+V:1
+ d2 GA Bc | d2 G2 G2 | e2 cd ef | g2 G2 G2 | c2 dc BA | B2 cB AG | F2 GA BG | B/ z4 z3/2 | %8
+ d2 GA Bc | d2 G2 G2 | e2 cd ef | g2 G2 G2 | c2 dc BA | B2 cB AG | A2 BA GF | G6 | b2 ga bg | %17
+ a2 de fd | g2 ef gd | ^c2 Bc A2 | AB ^cd ef | g2 f2 e2 | f2 A2 ^c2 | d6 | d2 GF G2 | e2 GF G2 | %26
+ d2 c2 B2 | AG FG A2 | DE FG AB | c2 B2 A2 | Bd G2 F2 | [GDB,]6 |] %32
+V:2
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | A3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %32
+V:3
+ [B,DG,]2 A, | B,3 | C3 | B,3 | A,3 | G,3 | D B, G, | D D,/C/ B,/A,/ | B,2 A, | G, B, G, | C3 | %11
+ B, C/B,/ A,/G,/ | A,2 F, | G,2 B, | C D D, | G,2 G,, | G,3 | F,3 | E, G, E, | A,2 A,, | A,3 | %21
+ B, D ^C | D F, A, | D D, C | B,2 D2 B, | C2 E2 C | B, A, G, | D2 z | D,3 F, | E, G, F, | %30
+ G, B,, D, | G, D, G,, |] %32

@@ -1,0 +1,60 @@
+% La Traviata - N16 Coro baccanale: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1517
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:La Traviata - N16 Coro baccanale
+C:G. Verdi
+%%score ( 1 2 ) 3
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="upper"
+V:2 treble 
+L:1/4
+V:3 bass nm="lower"
+V:1
+ [d'f']4 [d'a] z [d'a] z | [af]4 [af] z [bg] z | [ge]4 [ge] z [af] z | [fd]4 [af]4 | %4
+ [d'f']4 [d'a] z [d'a] z | [af]4 [af] z [bg] z | [ge]4 [ge] z [af] z | [fd]4 [af]4 | %8
+ [^a^A]4 [d'd] z [aA] z | [^a^A] z [=a=A] z [aA]4 | [gG]4 [aA] z [gG] z | %11
+ [=f=F] z [eE] z [dD]2 z2 | [^a^A]4 [d'd] z [aA] z | [^a^A] z [=a=A] z [aA]4 | %14
+ [aA] z [gG] z [=f=F] z [eE] z | e z7 | E8 | D4 z4 | (3z8 A2c2 |[M:6/8] e4 c2 e4 c2 | e4 c2 e4 c2 | %21
+ e4 c2 e4 c2 | e6 [a'^g'] z (3[f'e']2[d'c']2 z/ b | a4 a2 ^g4 g2 | %24
+ a4 z2 [a'^g'] z (3[f'e']2[d'c']2 z/ b | a4 a2 ^g4 g2 | a4 z8 |[M:2/4] [d'f']4 [d'a] z [d'a] z | %28
+ [af]4 [af] z [bg] z | [ge]4 [ge] z [af] z | [fd]4 [af]4 | [d'f']4 [d'a] z [d'a] z | %32
+ [af]4 [af] z [bg] z | [ge]4 [ge] z [af] z | [fd]4 [af]4 | [^a^A]4 [d'd] z [aA] z | %36
+ [^a^A] z [=a=A] z [aA]4 | [gG]4 [aA] z [gG] z | [=f=F] z [eE] z [dD]2 z2 | %39
+ [^a^A]4 [d'd] z [aA] z | [^a^A] z [=a=A] z [aA]4 | [aA] z [gG] z [=f=F] z [eE] z | e z7 | E8 | %44
+ D4 z4 | (3z8 A2c2 |[M:6/8] e4 c2 e4 c2 | e4 c2 e4 c2 | e4 c2 e4 c2 | %49
+ e6 [a'^g'] z (3[f'e']2[d'c']2 z/ b | a4 a2 ^g4 g2 | a4 z2 [a'^g'] z (3[f'e']2[d'c']2 z/ b | %52
+ a4 a2 ^g4 g2 | a4 z8 |[M:2/4] [d'f']4 [d'a] z [d'a] z | [af]4 [af] z [bg] z | %56
+ [ge]4 [ge] z [af] z | [fd]4 [af]4 | [d'f']4 [d'a] z [d'a] z | [af]4 [af] z [bg] z | %60
+ [ge]4 [ge] z [af] z | [fd]4 [af]4 | [e'c'a]4 [g'e'a]2[g'e'a]2 | [f'd'a]2[d'd]2 [d'd]4 | %64
+ [e'c'a]4 [g'e'a]2[g'e'a]2 | [f'd'a]4 [d'd]4 | [e'c'a]4 [g'e'a]4 | [f'd'a]4 [d'd]4 | %68
+ [e'c'a]4 [a'e'c'a]4 | [d'd]8- | [d'd]8- | [d'd]8- | [d'd]4 [d'e'][f'g'][a'b']c'' | d''4 z4 |] %74
+V:2
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | E2- | x2 | x2 | x2 | %19
+[M:6/8] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |[M:2/4] x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %36
+ x2 | x2 | x2 | x2 | x2 | x2 | E2- | x2 | x2 | x2 |[M:6/8] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %54
+[M:2/4] x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %72
+ x2 | x2 |] %74
+V:3
+ [D,F,A,]4 [D,F,A,] z [D,F,A,] z | [D,F,A,]4 [D,D] z [D,D] z | [A,,A,]4 [A,,A,] z [A,,A,] z | %3
+ [D,F,]4 [D,F,]4 | [D,F,A,]4 [D,F,A,] z [D,F,A,] z | [D,F,A,]4 [D,D] z [D,D] z | %6
+ [A,,A,]4 [A,,A,] z [A,,A,] z | [D,F,]4 [D,F,]4 | ^A,4 D z A, z | ^A, z =A, z A,4 | G,4 A, z G, z | %11
+ =F, z E, z D,2 z2 | ^A,4 D z A, z | ^A, z =A, z A,4 | A, z G, z =F, z E, z | E,8- | E,8 | D,4 z4 | %18
+ (3z8 A,2C2 |[M:6/8] E4 C2 E4 C2 | E4 C2 E4 C2 | E4 C2 E4 C2 | E6 E6 | %23
+ [ECE,]4 [CA,E,]2 [DB,E,]4 [B,^G,E,]2 | [CA,]2 z4 E6 | [ECE,]4 [CA,E,]2 [DB,E,]4 [B,^G,E,]2 | %26
+ [CA,]4 z8 |[M:2/4] [D,F,A,]4 [D,F,A,] z [D,F,A,] z | [D,F,A,]4 [D,D] z [D,D] z | %29
+ [A,,A,]4 [A,,A,] z [A,,A,] z | [D,F,]4 [D,F,]4 | [D,F,A,]4 [D,F,A,] z [D,F,A,] z | %32
+ [D,F,A,]4 [D,D] z [D,D] z | [A,,A,]4 [A,,A,] z [A,,A,] z | [D,F,]4 [D,F,]4 | ^A,4 D z A, z | %36
+ ^A, z =A, z A,4 | G,4 A, z G, z | =F, z E, z D,2 z2 | ^A,4 D z A, z | ^A, z =A, z A,4 | %41
+ A, z G, z =F, z E, z | E,8- | E,8 | D,4 z4 | (3z8 A,2C2 |[M:6/8] E4 C2 E4 C2 | E4 C2 E4 C2 | %48
+ E4 C2 E4 C2 | E6 E6 | [ECE,]4 [CA,E,]2 [DB,E,]4 [B,^G,E,]2 | [CA,]2 z4 E6 | %52
+ [ECE,]4 [CA,E,]2 [DB,E,]4 [B,^G,E,]2 | [CA,]4 z8 |[M:2/4] [D,F,A,]4 [D,F,A,] z [D,F,A,] z | %55
+ [D,F,A,]4 [D,D] z [D,D] z | [A,,A,]4 [A,,A,] z [A,,A,] z | [D,F,]4 [D,F,]4 | %58
+ [D,F,A,]4 [D,F,A,] z [D,F,A,] z | [D,F,A,]4 [D,D] z [D,D] z | [A,,A,]4 [A,,A,] z [A,,A,] z | %61
+ [D,F,]4 [D,F,]4 | [E,A,,]4 [E,A,,]4 | [F,D,]4 [F,D,]4 | [E,A,,]4 [E,A,,]4 | [F,D,]4 [F,D,]4 | %66
+ [E,A,,]4 [E,A,,]4 | [F,D,]4 [F,D,]4 | [E,A,,]4 [E,A,,]4 | D,2D2 D,2D2 | D,2D2 D,2D2 | %71
+ D,2D2 D,2D2 | D,2D2 [D,E,][F,G,][A,B,]C | D4 z4 |] %74

@@ -1,0 +1,33 @@
+X:1
+T:Ein feste Burg ist unser Gott
+T:Ein feste Burg ist unser Gott
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+L:1/8
+V:3 treble-8 nm="Voice" snm="V"
+L:1/8
+V:4 bass nm="Voice" snm="V"
+V:1
+ d | d d A/B/ c | d/c/ B !fermata!A d | c B A B/A/ | G/F/ E !fermata!D x :: D x3 | A B A ^G | %7
+ !fermata!A2 D A | B c !fermata!d c | d c B2 | !fermata!A B B A | B/A/ G !fermata!F d | %12
+ c B A B/A/ | G/F/ E !fermata!D x || %14
+V:2
+ A2 | AG FE D2 E2 | A, A2 ^G !fermata!E2 B2 | EF =G2 FE DC | B,2 C2 !fermata!A,2 x2 :: D2 x6 | %6
+ CF E2 EF E2 | !fermata!E4 D2 D=C | B,D G2 !fermata!F2 F2 | F2 EA F2 ED | !fermata!C2 E2 DE F2 | %11
+ F2 FE !fermata!^D2 F2 | E2 =DG G F/E/ F2 | GB, C2 !fermata!A,2 x2 || %14
+V:3
+ fe | de fg a2 g2 | f2 Be !fermata!c2 F^G | A2 ed c2 Bc | d2 AG !fermata!F2 x2 :: FG x6 | %6
+ Ad cB c2 B2 | !fermata!c4 FG A2 | d2 e2 !fermata!A2 A2 | A^G A2 A2 G2 | !fermata!E2 =GA Bc d=c | %11
+ B2 B2 !fermata!B2 BA | GA B2 ec d2 | d2 AG !fermata!F2 x2 || %14
+V:4
+ D/C/ | B, A,/G,/ F,/G,/ F,/E,/ | D, E, !fermata!A,, B,, | C,/D,/ E, F, =G,/A,/ | %4
+ B,/G,/ A, !fermata!D, x :: D,/E,/ x3 | F, ^G, A,/D,/ E, | !fermata!A,,2 B,, F, | %8
+ G, E, !fermata!D, F, | B,, C, D, E, | !fermata!A,, E,/F,/ G, D, | ^D, E, !fermata!B,, B,, | %12
+ E,/F,/ G,/E,/ C,/A,,/ =D,/C,/ | B,,/G,,/ A,, !fermata!D, x || %14

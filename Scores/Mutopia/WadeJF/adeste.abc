@@ -1,0 +1,34 @@
+% Adeste Fideles: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=367
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Adeste Fideles
+C:John F. Wade (c.1711-1786)
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:A
+V:1 bass nm="1" snm="V"
+V:2 bass 
+V:3 treble nm="1" snm="V"
+V:4 treble 
+V:1
+ x3 [CA,,] | [CA,,]2 [A,C,] [A,A,,] | [G,E,]2 [B,G,]- [B,G,] | A, [B,G,] A, [A,D,] | %4
+ [A,E,]2 [G,E,] [A,F,] | [A,F,]2 [B,E,] [B,B,,] | [E,B,,] [C,A,,] [G,G,,] [F,A,,] | %7
+ [B,B,,]2 [A,B,,]- [A,B,,]/[G,E,]/ | [G,E,]3- [G,E,] | C2 [DB,] [EA,] | [DB,]2 [EA,]- [EA,] | %11
+ [EG,] A, [CF,] [DD,] | B,3/2 A,/ [G,E,] z | z4 | z4 | z4 | z3 [EA,] | [DB,] [EA,] [B,G,] [B,F,] | %18
+ B,2 A,- D, | [A,E,]2 [G,E,]- [G,E,]/[A,A,,]/ | [A,A,,]3 z | [F,D,]2 [E,A,,]- [E,A,,] |] %22
+V:2
+ x x3 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | E,2 z2 | z4 | z4 | z4 | z4 | z4 | %18
+ E, D, C, A, | z4 | z4 | z4 |] %22
+V:3
+ x3 [AE] | [AE]2 E [AC] | [BE]2 E- E | [cE] [BE] [cE] [dF] | [cE]2 [BE] [AC] | A2 [GE] [F^D] | %6
+ [GE] [AE] [BE] [cE] | [GE]2 [F^D]- [FD]/E/ | E3- E | [eE]2 d [cA] | d2 [cA]- z | %11
+ [cA] [BE] [cE] [AF] | [BF] G3/2 F/ E | A A G A | B A2 E | [cE] [cE] [BE] [cE] | [dG] [cA]2 [BG] | %17
+ [cA] d [cA] [BE] | [A^D] [GE]2 [AE] | [=dF] [cE]2 [BE]- | [BE]/[AC]/ [AC]3 | z [AD]2 [AC]- | %22
+ [AC] x3 |] %23
+V:4
+ x x3 | z4 | z4 | z4 | z4 | C ^D z2 | z4 | z4 | z4 | z2 F/G/ z | F G z2 | z4 | z E2 z | z4 | z4 | %15
+ z4 | z4 | z F/G/ z2 | z4 | z4 | z4 | z4 | z x3 |] %23

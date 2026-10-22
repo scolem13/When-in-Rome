@@ -1,0 +1,37 @@
+% Pavan: Belle qui tiens ma Vie: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Pavan: Belle qui tiens ma Vie
+C:Thoinot Arbeau
+%%score 1 2 3 4 5
+L:1/4
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:F
+V:1 bass nm="tambour" snm="Sn Dr"
+L:1/8
+V:2 treble nm="D" snm="Rec"
+V:3 treble transpose=-2 nm="Tr" snm="Tpt"
+V:4 treble nm="T" snm="T"
+V:5 bass nm="B" snm="Rec"
+V:1
+ F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | %9
+ F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | %18
+ F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | %27
+ F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, | F,2 F,F, |] %32
+V:2
+ g2 | g _g | =g a | b2 | b d' | c' b | b a | b2 | g2 | g _g | =g a | b2 | b d' | c' b | b a | b2 | %16
+ b2 | a a | g g | _g2 | d2 | e/f/ g | g _g | =g2 | b2 | a a | g g | _g2 | d2 | e/f/ g | g _g | %31
+ =g2 |] %32
+V:3
+ d2 | d d | d f | f2 | f f | e f | g f | f2 | d2 | d d | d f | f2 | f f | e f | g f | f2 | f2 | %17
+ f f | d _e | d2 | f2 | c d | d d | =B2 | _B2 | f f | d _e | d2 | f2 | e d | d d | d2 |] %32
+V:4
+ B2 | B A | B c | d2 | d B | G d | c c | d2 | B2 | B A | B c | d2 | d B | G d | c c | d2 | d2 | %17
+ c d | B c | A2 | B2 | G B | A A | G2 | d2 | c d | B c | A2 | B2 | G B | A A | G2 |] %32
+V:5
+ G,2 | G, D, | G, F, | B,,2 | B,, B,, | C, D, | _E, F, | B,,2 | G,2 | G, D, | G, F, | B,,2 | %12
+ B,, B,, | C, D, | _E, F, | B,,2 | B,2 | F, D, | G, C, | D,2 | B,,2 | C, G,, | D, D, | G,,2 | B,2 | %25
+ F, D, | G, C, | D,2 | B,,2 | C, G,, | D, D, | G,,2 |] %32

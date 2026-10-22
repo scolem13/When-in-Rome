@@ -1,0 +1,31 @@
+X:1
+T:O Herre Gott, dein g&ouml;ttlich Wort
+T:O Herre Gott, dein g&ouml;ttlich Wort
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ G | G F E D | G A !fermata!B A | B/ c/4d/4 c B A/B/ | c B A2 | !fermata!G3 x :: G x3 | %7
+ A B !fermata!G G | A B !fermata!G E | A3/2 G/ F G/F/ | E2 !fermata!D D | G F E D | %12
+ G A !fermata!B A | d3/2 c/ B A/B/ | c B A2 | !fermata!G3 x || %16
+V:2
+ D | E D C C | B, D !fermata!D D | D E D/E/ F | G2- G F | !fermata!D3 x :: D x3 | %7
+ D D !fermata!E D | E F !fermata!E B, | A,/B,/ ^C D D | D ^C !fermata!A, B, | B,/^C/ D =C/B,/ A, | %12
+ D D !fermata!D D/E/ | F G/A/ D/E/ F | G2- G F | !fermata!D3 x || %16
+V:3
+ B | B B/A/ G F | G F !fermata!G F | F G/A/ B/c/ d | c/d/ e A/B/ c | !fermata!B3 x :: B x3 | %7
+ F G !fermata!G B | A/G/ F !fermata!B G/F/ | E A A G/A/ | B A/G/ !fermata!F F | G A- A/G/ F | %12
+ G F !fermata!G F | B3/2 A/ B/c/ d | c/d/ e A/B/ c | !fermata!B3 x || %16
+V:4
+ G, | E, B,, C, D, | E, D, !fermata!G,, D, | B,, E,,/F,,/ G,, F,, | E,,/E,/D,/C,/ D,2 | %5
+ !fermata!G,,3 x :: G, x3 | D, G,, !fermata!C, B,, | ^C, ^D, !fermata!E, E,/=D,/ | %9
+ ^C,/B,,/ A,, D,/C,/B,,/A,,/ | G,, A,, !fermata!D, B,, | E,, F,,/G,,/ A,,/B,,/ C, | %12
+ B,, D, !fermata!G,, D,/C,/ | B,, E,/F,/ G, F, | E, D,/C,/ D,2 | !fermata!G,,3 x || %16

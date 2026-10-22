@@ -1,0 +1,91 @@
+X:1
+T:12 Gesänge, Op.1
+T:Die Lotosblume
+C:Robert Franz
+Z:Emanuel Geibel
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | 4 }
+L:1/16
+Q:1/4=65
+M:2/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/4
+V:3 treble 
+V:4 bass 
+L:1/4
+V:1
+"^Andante""^Leise" z8 | z4 z2!pp! F2 | B3 B F2 F2 |!>(! (_G2>_A2)!>)! B2 z2 | _A2 B _c B3 A | %5
+w: |Die|stil- le Lo- tos-|blu- * me|steigt aus dem blau- en|
+w: |The|si- lent Lo- tos|flow- * er|floats o'er the lake at|
+ f4 z2 B2 | e3 e _d2 _A B |!>(! _c4!>)! B2 z B | (_A2B) _c (B_d2) c | B4 z4 | z4 z2!pp! B2 | %11
+w: See, die|Blät- ter flim- mern und|bli- tzen, der|Kelch _ ist weiss _ wie|Schnee.|Da|
+w: night her|leaf- lets glis- ter and|glim- mer, her|breast _ is snow- * y|white.|Then|
+ B3 B F2 F2 |!>(! (_G2>_A2)!>)! B2 z2 | _A2 A A B2 _c2 | _d4 z4 | e2 B _c (_d2_A) B | %16
+w: giesst der Mond vom|Him- * mel|all' sei- nen gold- nen|Schein,|giesst al- le sei- * ne|
+w: pours the moon from|hea- * ven|his ri- chest gol- den|beams,|he all his cost- * ly|
+!>(! _c4!>)! B2 z B | (_A2B) _c (B_d2) c | B4 z4 | z4 z2!p! B2 | B3 B F2 F2 | %21
+w: Strah- len in|ih- * ren Schooss _ hin-|ein.|Im|Was- ser um die|
+w: trea- sure, in-|to _ her bo- * som|teems.|There|swims a- round the|
+!<(! G4!<)!!>(! G2!>)! z2 |!<(! A2 A A d2!<)! f2 | =e4 z2 A2 | d3 d c3 c |!>(! f4!>)! =e2 (g2 | %26
+w: Blu- me|krei- set ein wei- sser|Schwan, er|singt so süss, so|lei- se, und|
+w: flow- er|state- ly, a milk- white|swan, he|sings so sweet, so|soft- ly, and|
+ ^c3) c f3 d |!>(! A4-!>)! A2 z2 | z4 z2!pp! F2 | d3 B F3 B |!>(! A4!>)! G2 G2 | A3 A d2 d d | %32
+w: schaut die Blu- me|an. _|Er|singt so süss, so|lei- se, und|will im Sin- gen ver-|
+w: looks the flow- er|on. _|He|sings so sweet, so|soft- ly, would|thus his life breathe a-|
+ =f4 z2 B2 | e3 e _d3 d |!>(! _c4!>)! B2 z2 | _A2 B _c B3 A |!>(! f8-!>)! | f4 z4 | z8 | %39
+w: gehn o|Blu- me, wei- sse|Blu- me,|kannst du das Lied ver-|stehn?|_||
+w: way oh|flow- er, snow- white|flow- er,|canst un- der- stand that|lay?|_||
+ !fermata!z8 |] %40
+w: |
+w: |
+V:2
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %19
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %36
+ x"^smorzando" x | x2 | [DB]2- | [DB] !fermata!z |] %40
+V:3
+!pp!!ped![I:staff +1] (B,D[I:staff -1] FB)!<(![I:staff +1] (B,D[I:staff -1] FB) | %1
+[I:staff +1] (B,D[I:staff -1] FB)!<)![I:staff +1] (B,D[I:staff -1] FB) | %2
+!>(![I:staff +1] (B,D[I:staff -1] F!>)!B)[I:staff +1] (B,D[I:staff -1] FB)!ped-up! | %3
+!ped![I:staff +1] (E,B,[I:staff -1] _GB)!ped-up!!ped![I:staff +1] (B,,_D[I:staff -1] GB)!ped-up! | %4
+!ped![I:staff +1] (_C,E[I:staff -1] _G_A)!ped-up!!ped![I:staff +1] (_D,_C[I:staff -1] FA)!ped-up! | %5
+!ped![I:staff +1] (B,,=D[I:staff -1] FB)!ped-up!!ped![I:staff +1] (_A,D[I:staff -1] FB)!ped-up! | %6
+!ped!!<(![I:staff +1] (_G,B,[I:staff -1] Ee)!ped-up!!<)!!ped!!>(![I:staff +1] (F,_A,[I:staff -1] _D_d)!ped-up!!>)! | %7
+!ped!!>(![I:staff +1] (E,_G,[I:staff -1] _C_c)!ped-up!!ped![I:staff +1] (_D,F,[I:staff -1] B,!>)!B)!ped-up! | %8
+!<(!!ped![I:staff +1] (_C,_A,[I:staff -1] E!<)!_A)!ped-up!!>(!!ped![I:staff +1] (_D,F,[I:staff -1] _C!>)!A)!ped-up! | %9
+!<(!!ped![I:staff +1] (_G,,_D,[I:staff -1] B,B)[I:staff +1] (B,,_G,[I:staff -1] _D!<)!_d) | %10
+[I:staff +1] (_D,B,[I:staff -1] _G_g)!>(![I:staff +1] (_G,_D[I:staff -1] B!>)!b)!ped-up! | %11
+!ped![I:staff +1] (F,!pp!=D[I:staff -1] FB)[I:staff +1] (=D,B,[I:staff -1] FB)!ped-up! | %12
+!ped![I:staff +1] (E,B,[I:staff -1] _GB)!ped-up!!ped![I:staff +1] (B,,_D[I:staff -1] GB)!ped-up! | %13
+!ped!!<(![I:staff +1] (_C,E[I:staff -1] _G_A)!ped-up!!ped![I:staff +1] (_D,_C[I:staff -1] FA)!<)!!ped-up! | %14
+!ped!!>(![I:staff +1] (_G,,B,[I:staff -1] _D_G)[I:staff +1] (G,,B,[I:staff -1] DG)!ped-up!!>)! | %15
+!ped!!<(![I:staff +1] (_G,B,[I:staff -1] [EB]e)!ped-up!!ped![I:staff +1] (F,_A,[I:staff -1] [_D_A]_d)!<)!!ped-up! | %16
+!ped![I:staff +1] (E,_G,[I:staff -1] [_C_G]_c)!ped-up!!ped!!>(![I:staff +1] (_D,F,[I:staff -1] [B,F]B)!ped-up!!>)! | %17
+!ped!!<(![I:staff +1] (_C,E,[I:staff -1] [_A,E]_A)!ped-up!!<)!!ped!!>(![I:staff +1] (_D,F,[I:staff -1] [_C_D]A)!ped-up!!>)! | %18
+!<(!!ped![I:staff +1] (_G,,_D,[I:staff -1] B,B)[I:staff +1] (B,,_G,[I:staff -1] _D_d)!<)! | %19
+[I:staff +1] (_D,B,[I:staff -1] _G_g)!>(![I:staff +1] (_G,_D[I:staff -1] B!>)!b)!ped-up! | %20
+!p!!ped![I:staff +1] (F,=D[I:staff -1] FB)[I:staff +1] (D,B,[I:staff -1] FB)!ped-up! | %21
+!ped![I:staff +1] (B,,D[I:staff -1] =EG)[I:staff +1] (B,,D[I:staff -1] EG)!ped-up! | %22
+!<(!!ped![I:staff +1] (A,,D[I:staff -1] FA)[I:staff +1] (A,,D[I:staff -1] FA)!<)! | %23
+[I:staff +1] (G,^C[I:staff -1] =EA)!>(![I:staff +1] (G,C[I:staff -1] EA)!ped-up!!>)! | %24
+!ped![I:staff +1] (F,A,[I:staff -1] Ad)!ped-up!!ped![I:staff +1] (=E,G,[I:staff -1] Bc)!ped-up! | %25
+!ped![I:staff +1] (A,C[I:staff -1] cf)!ped-up!!ped![I:staff +1] (G,B,!pp![I:staff -1] d=e)!ped-up! | %26
+!ped![I:staff +1] (B,=E!<(![I:staff -1] G^c)!ped-up!!ped![I:staff +1] (A,F!<)![I:staff -1] Ad)!ped-up! | %27
+!ped![I:staff +1] (A,,^C!>(![I:staff -1] =EA)[I:staff +1] (G,C!>)![I:staff -1] EA)!ped-up! | %28
+!<(!!ped![I:staff +1] (F,,A,[I:staff -1] _E=c)!<)!!>(![I:staff +1] (F,_E[I:staff -1] Af)!ped-up!!>)! | %29
+!pp!!<(!!ped![I:staff +1] (B,D[I:staff -1] FB)!<)!!>(![I:staff +1] (B,D[I:staff -1] FB)!ped-up!!>)! | %30
+!<(!!ped![I:staff +1] (B,D[I:staff -1] =EG)!<)!!>(![I:staff +1] (B,D[I:staff -1] EG)!ped-up!!>)! | %31
+!<(!!ped![I:staff +1] (A,D"^cresc."[I:staff -1] ^FA)[I:staff +1] (A,D[I:staff -1] FA)!<)!!ped-up! | %32
+!ped![I:staff +1] (_A,D!>(![I:staff -1] =FB)[I:staff +1] (A,D[I:staff -1] F!>)!B)!ped-up! | %33
+!ped!!<(![I:staff +1] (_G,B,[I:staff -1] [EB]e)!ped-up!!ped![I:staff +1] (F,_A,[I:staff -1] [_D_A]_d)!<)!!ped-up! | %34
+!ped![I:staff +1] (E,!>(!_G,[I:staff -1] [_C_G]!ped-up!_c)!ped![I:staff +1] (_D,F,[I:staff -1] [B,F]!>)!B)!ped-up! | %35
+!<(!!ped![I:staff +1] (_C,E,[I:staff -1] E_A)!<)!!>(![I:staff +1] (C,F,[I:staff -1] EA)!ped-up!!>)! | %36
+!ped![I:staff +1] (B,,!<(!F,[I:staff -1] =DB)[I:staff +1] (B,,F,[I:staff -1] DB)!<)! | %37
+[I:staff +1] (B,,F,[I:staff -1] DB)!>(![I:staff +1] (B,,F,-[I:staff -1] D-B-) |[I:staff +1] F,8- | %39
+ F,4!>)! !fermata!z4!ped-up! |] %40
+V:4
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %19
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %38
+ B,,,2- | B,,, x |] %40

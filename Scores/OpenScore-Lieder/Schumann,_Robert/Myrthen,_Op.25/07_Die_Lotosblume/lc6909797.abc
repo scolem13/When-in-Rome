@@ -1,0 +1,59 @@
+X:1
+T:Myrthen, Op.25
+T:Die Lotosblume
+C:Robert Schumann
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/4
+Q:1/4=85
+M:6/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"^Ziemlich langsam" z3 z z!p! c | c2 B (B A) ^G | A2 A z3 | C C F G2 A | F3 z3 | c c B (B A) ^G | %6
+w: Die|Lo- tos- blu- * me|äng- stigt|sich vor der Son- ne|Pracht,|und mit ge- senk- * tem|
+ A2 A z z A | G3/2 G/ G G A =B | c3 z z c | c2 B (_d c3/2) B/ | B2 _A z z c | c3/2 B/ B (_d c) B | %12
+w: Haup- te er-|war- tet sie träu- mend die|Nacht. Der|Mond der ist _ ihr|Buh- le, er|weckt sie mit sei- * nem|
+ c3 z z c | c2 c!<(! c3/2 d/ e!<)! | f2 f z z f | (f d) B!>(! G3/2 A/ B!>)! | A3 z z A | %17
+w: Licht und|ihm ent- schlei- ert sie|freund- lich ihr|from- * mes Blu- men- ge-|sicht. Sie|
+ A2"^nach und nach schneller" A!<(! B2 B!<)! | d2 c z z B | A2 A!<(! B3/2 A/ B!<)! | %20
+w: blüht und glüht und|leuch- tet, und|star- ret stumm in die|
+ (d2 c) z z ^c | d3/2!<(! d/ d e3/2 ^d/ e!<)! | g f z z z!p!"^ritard" f | f A d (c3/2 G/) A | %24
+w: Höh’; _ sie|duf- tet und wei- net und|zit- tert vor|Lie- be und Lie- * bes-|
+ F3 z z c | f"^ritard" A d (c3/2 G/) A | F3 z3 |] %27
+w: weh, vor|Lie- be und Lie- * bes-|weh.|
+V:2
+!p! (.[CFAc] .[CFAc] .[CFAc] .[CFAc] .[CFAc] .[CFAc]) | %1
+ (.[DFAc] .[DFAc] .[DFB] .[CEB] .[CEA] .[CE^G]) | [CFA] [CFA] [CFA] [CFA] [CFA] [CFA] | %3
+ [A,CF] [A,CF] [A,CF] [G,CE] [G,CE] [A,CE] | [A,CF] [A,CF] [A,CF] [F,C_EF] [F,CEF] [F,B,EF] | %5
+ [F,CDF] [F,CDF] [F,B,DF][I:staff +1] [E,B,C] [E,A,C] [E,^G,C] | %6
+!<(! [F,A,C] [F,A,C] [F,A,C] [_E,A,C] [E,A,C] [E,A,C]!<)! | %7
+ [=E,G,C] [E,G,C] [E,G,C] [F,G,=B,] [F,G,C] [F,G,D] | %8
+ [E,G,C] [E,G,C] [E,G,C]!>(![I:staff -1] [EGc] [EGc] [EGc]!>)! | %9
+!pp! [_Acf] [Acf] [ABf] [B_d_e] [Bde] [Bde] | [_Ac_e] [Ace] [Ace] [Ace] [Ace] [Ace] | %11
+ [_Acf] [Acf] [ABf] [B_d_e] [Bde] [Bde] | [_Ac_e]!<(! [_EAc] [EAc] [=EBc] [EBc] [EBc]!<)! | %13
+ [F=Ac] [FAc] [FAc] [CGc] [CGc] [CGc] |!<(! [Fc] [Fc] [Fc] [F^c] [Fc] [Fc]!<)! | %15
+ [Fd] [Fd] [FB]!>(! [EG] [EA] [EB]!>)! |!<(! [EA] [EGA] [EGA] [EGA] [EGA] [EGA]!<)! | %17
+!<(! [_EFA] [EFA]"^nach und nach schneller" [EFA] [EFB] [EFB] [EFB]!<)! | %18
+!>(! [_Ed] [Ed]!>)! [EFc] [EFc] [EFc] [EFB] | [_EFA] [EFA] [EFA] [EFB] [EFB] [EFB] | %20
+!<(! [_EFc] [EFc] [EFc] [EF^c] [EFc] [EFc]!<)! |!<(! [FBd] [FBd] [FBd] [Gce] [Gce] [Gce]!<)! | %22
+ [Gcg] [Fcf]!>(! [Fcf] [Fdf]"^ritard" [Fdf] [Fdf]!>)! | %23
+!p! (.[Fcf] .[FA] .[F_Ad] .[EGc] .[EG] .[E=A] | .F) z (.[=B,D] .C) z[I:staff +1] (.[E,G,C] | %25
+ .[F,=A,C]"^ritard" .[F,A,] .[F,_A,D])!>(! (!fermata![E,G,C]3 | F,3)!>)![I:staff -1] z3 |] %27
+V:3
+ z6 | [F,,F,]6- | [F,,F,]3 [A,,,A,,]2- [A,,,A,,]/[B,,,B,,]/ | (([C,,C,]6 | %4
+ F,,3)) [F,,,F,,]2- [F,,,F,,]/[A,,,A,,]/ | [B,,,B,,]3 [C,,C,]3 | [F,,,F,,]3 [^F,,,^F,,]3 | %7
+ [G,,,G,,-]6 | [C,,G,,]2 z z3 |[I:staff -1] [_DF] [DF] [DF] [_EG] [EG] [EG] | %10
+ [_A,_E] [A,E] [A,E] [CE] [CE] [CE] | [_DF] [DF] [DF] [_EG] [EG] [EG] | %12
+[I:staff +1] [_A,_E] [A,C] [A,C] [G,C] [G,C] [G,C] | [F,C] [F,C] [F,C] [B,=E] [B,E] [B,E] | %14
+ [A,C] [A,C] [A,C] [A,^C] [A,C] [A,C] | [B,D] [B,D] [B,D] [C,B,C] [C,A,C] [C,G,C] | %16
+ [^C,A,] [C,A,] [C,A,] [C,A,] [C,A,] [C,A,] | [=C,F,] [C,F,] [C,F,] [B,,F,] [B,,F,] [B,,F,] | %18
+ [A,,F,] [A,,F,] [A,,F,] [A,,F,] [A,,F,] [B,,F,] | [C,F,] [C,F,] [C,F,] [B,,F,] [B,,F,] [B,,F,] | %20
+ [A,,F,] [A,,F,] [A,,F,] [A,^C] [A,C] [A,C] | [B,D] [B,D] [B,D] [B,CE] [B,CE] [B,CE] | %22
+[K:treble] [A,CA] [A,CA] [A,CA] [=B,DG] [B,DG] [B,DG] | %23
+ [CA] C [=B,D][K:bass] [_B,C] [B,C] [C,B,C] | [C,A,C] [C,A,] [C,F,_A,] [C,E,G,] [C,D,] (.C, | %25
+ .C, .C, .=B,,) ((!fermata![C,,_B,,]3 | [F,,A,,]3)) z3 |] %27

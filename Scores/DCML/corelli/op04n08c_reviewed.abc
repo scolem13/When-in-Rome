@@ -1,0 +1,30 @@
+X:1
+T:Sonata da camera
+T:Sarabanda: Allegro
+C:Arcangelo Corelli
+Z:CC BY-NC-SA 4.0; CCARH; DCML
+%%score 1 2 3 4
+L:1/8
+Q:1/4=120
+M:6/8
+I:linebreak $
+K:C
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ f3 e3 | d3 ^c3 | a3 f3 | _b3 a3 || e3 f3 | g3 a3 |$ c'_ba gab | a g2 f3 | a3 g3 | _b3 a3 | %10
+ agf efg | f e2 d3 |$ a3 g3 | _b3 a3 | agf efg | f e2 d3 :| %16
+V:2
+ d3 ^c3 | f3 e3 | f3 d3 | d3 ^c3 || ^c3 d3 | e3 f3 |$ agf efg | f e2 f3 | f3 e3 | g3 f3 | %10
+ fed ^cde | d ^c2 d3 |$ f3 e3 | g3 f3 | fed ^cde | d ^c2 d3 :| %16
+V:3
+"m" DF,D,"" A,^C,A,, |"m" D,F,D,"" A,G,A, |"m" F,G,A,"" _B,A,B, |"m" G,F,G,"" A,3 || %4
+"C{" A,G,A,"m" F,E,D, |"" C_B,C"" A,G,F, |$"" F,G,A,"" C,_B,,A,, |"" _B,,"" C,2"" F,,3 | %8
+"m" F,A,F,"" CE,C, |"m" G,_B,G,"m" DF,D, |"m" G,"m"_B,"m"G,"" A,"m"F,D, |"m" G,,"" A,,2"m" D,3 |$ %12
+"" F,A,F,"" CE,C, |"m" G,_B,G,"m" DF,D, |"m" G,"m"_B,"m"G,"" A,"m"F,D, |"m" G,,"" A,,2"m" D,3 :| %16
+V:4
+ DF,D, A,^C,A,, | D,F,D, A,G,A, | F,G,A, _B,A,B, | G,F,G, A,3 || A,G,A, F,E,D, | C_B,C A,G,F, |$ %6
+ F,G,A, C,_B,,A,, | _B,, C,2 F,,3 | F,A,F, CE,C, | G,_B,G, DF,D, | G,_B,G, A,F,D, | G,, A,,2 D,3 |$ %12
+ F,A,F, CE,C, | G,_B,G, DF,D, | G,_B,G, A,F,D, | G,, A,,2 D,3 :| %16

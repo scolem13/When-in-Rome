@@ -1,0 +1,39 @@
+% Fugue fragment Anh. 41 (375g): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=447
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Fugue fragment Anh. 41 (375g)
+C:Wolfgang Amadeus Mozart (1756-1791)
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=110
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="up:one"
+V:2 treble 
+V:3 bass nm="down:three"
+V:4 bass 
+V:1
+ z2 e2 d2 c2 | B2 c2 d3 c/B/ | A2 B2 E3 F/G/ | A2 DE FG AB | G2 d3 ^c gc | a3 g/f/ e2 f2 | %6
+ [gE]2 fe d^c B[A^C]/D/ | G3 [FB,] E2 ^c2 | d^G AB =c4- | [c=G] =G2 F B3 A | [gd] d g^c d4 | %11
+ d3 c/B/ [fA]2 [gB]2 | [ac]2 ^d2 g2 ^c2 | e2 F[GB,]/^C/ AB ^cd | B4- B ^c dB | [GA] A B3 A b2 | %16
+ [de-] e3- e g ^ce | d2 B2 ^c2 [ad]2 | [ge]2 [^c^A]2 [Bd]2 [d^G]2 | [=GB]2 E2 EF G=A | %20
+ F4- F A G^D | EG z A GB z ^c | d2 e2 d2 =c2 | [BG]2 [cA]2 [dB]3 [cA]/[BG]/ | [AF]2 B2 E3 F/G/ | %25
+ A2 D4 AB | [GD]2 z6 |] %27
+V:2
+ x8 | x8 | x8 | x8 | z2 B2 A2 G2 | F2 G2 A3 G/F/ | z2 F2 B,3 z | E2 A, z/ G/ ^CD EF | D4- D ^D EF | %9
+ z B e3 =d g2- | z f G3 F =cF | z2 e2 z4 | z2 BA GF E=D | ^C3 z A,2 F2 | G^C DF G4- | %15
+ z F z2 d2 d2- | z ^c d^G A4 | x8 | x8 | z2 ^CD z4 | x8 | x8 | z4 Ac FA | x8 | x8 | z3 E FG D2 | %26
+ x8 |] %27
+V:3
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z2 E2 D2 C2 | B,2 C2 D3 C/B,/ | %12
+ A,2 B,2 E,3 F,/G,/ | A,2 D,E, F,G, A,B, | G,4- G, ^A, B,^C | D3 ^C F3 E | A2 D3 ^C GC | %17
+ A3 G/F/ E2 F2 | [GE,]2 FE D^C B,[A,^C,]/D,/ | G,3 [F,B,,] E,2 ^C2 | D^G, A,B, =C4- | %21
+ [C=G,] =G,2 F, B,3 A, | [GD] D G^C D4 | DG, G,G, G,G, B,C | D2 F,2 ^G,3 [A,B,,] | %25
+ CA, F,=G, A,G, [F,C,]2 | [G,B,,]2 z6 |] %27
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z2 B,2 A,2 G,2 | %17
+ F,2 G,2 A,3 G,/F,/ | z2 F,2 B,,3 z | E,2 A,, z/ G,/ ^C,D, E,F, | D,4- D, ^D, E,F, | %21
+ z B, E3 =D G2- | z F G,,3 F,, =C,F,, | G,,2 z6 | z D, D,D, D,D, C, z/ B,/ | A,,2 C,2 D,,2 z2 | %26
+ x8 |] %27

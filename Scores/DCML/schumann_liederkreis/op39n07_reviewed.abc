@@ -1,0 +1,64 @@
+X:1
+T:Liederkreis
+T:Auf einer Burg
+C:Robert Schumann
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=54
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/4
+V:3 treble 
+L:1/4
+V:5 treble 
+V:4 bass 
+V:6 bass 
+V:1
+"^Adagio"!p! B3 E E3 E | E3 ^F G3 G | G2 G2 c3 c | B3 B G3 G | B3 E E3 E |$ E3 ^F G3 G | %6
+w: Ein- ge- schla- fen|auf der Lau- er|o- ben ist der|al- te Rit- ter,|drü- ben ge- hen|Re- gen- schau- er|
+[Q:1/4=48] E3 E A2 A2 | G3 G E2 E2 |[Q:1/4=50] G3 C C2 C2 | C2 C2 A2 A2 |$ A3 D D2 D2 | %11
+w: und der Wald rauscht|durch das Git- ter.|Ein- ge- wach- sen|Bart und Haa- re|und ver- stei- nert|
+ D2 D2 B2 B2 | B3 E E2 E2 | E2 E2 c2 c2 | B2 B2 A2 A2 | ^G6 A2 |$ (A6 ^G2) | ^G4 z4 | z8 | z8 | %20
+w: Brust und Krau- se,|sitzt er vie- le|hun- dert Jah- re|o- ben in der|stil- len|Klau- *|se.|||
+ z8 |!p![Q:1/4=56] B3 E E3 E | E3 ^F G3 G | G2 G2 c3 c |$[Q:1/4=50] B3 B G3 G | B3 E E3 E | %26
+w: |Drau- ssen  ist es|still und  fried- lich,|al- le sind in's|Tal ge- zo- gen,|Wal- des- vö- gel|
+ E3 ^F G3 G | E3 E A2 A2 | G3 G E2 E2 |$ z[Q:1/4=48] C2 C C2 C2 | C2 C2 A2 A2 | A3 D D2 D2 | %32
+w: ein- sam sin- gen|in den lee- ren|Fen- ster- bo- gen.|Ei- ne Hoch- zeit|fährt da un- ten|auf dem Rhein im|
+ D2 D2 B2 B2 |$ B3 E E2 E2 | E2 E2 c2 c2 | B2 B2[Q:1/4=44]"_dim." A2 A2 | %36
+w: Son- nen- schei- ne,|Mu- si- kan- ten|spie- len mun- ter,|und die schö- ne|
+[Q:1/4=43] ^G6[Q:1/4=43] A2 | (A4 ^G2 ^F2) | !fermata!^G4 z4 |] %39
+w: Braut, die|wei- * *|net.|
+V:2
+!p! B4- | B2 G2- | G2 c2 | B2 G2 | z4 |$ z2 (B2 | E2 A2 | G2 E2-) | E2 C2- | C2!<(! C2-!<)! |$ %10
+ C4- | C2 C2- | C4 | (C2 [EF-c]2 | [DFB]2 [C^DA]2 | ^G3) (A |$ A3 ^G | [Ee-]4) | e2 c2- | c2 (f2 | %20
+ e2 c2) |!p! B4- | B2 G2- | G2 c2 |$ B2 G2 | z4 | z2 (B2 | E2 A2 | G2) E2- |$ E2 C2- | C2 C2- | %31
+ C4- | C2 C2- |$ C4 | C2 ([EF-c]2 | [DFB]2 [C^DA]2 | ^G3) A | (A2 ^G ^F | !fermata![B,E^G]4) |] %39
+V:3
+ (B2 E2- | E4- | E2 E2 | ^D2 E2) | x4 |$ x2 B2 | E2 C2 | B,2 C2- | C2 G,2 | A,2 F,2 |$ G,2 A,2 | %11
+ B,2 G,2 | A,2 B,2 | C2 x2 | x4 | [B,=D]2 [CE]2 |$ [B,E]4 | [^Ge]2 A2- | A4- | A2 A2 | ^G2 A2 | %21
+ B2 E2- | E4- | E2 E2 |$ ^D2 E2 | x4 | x2 B2 | E2 C2 | B,2 C2- |$ C2 G,2 | A,2 F,2 | G,2 A,2 | %32
+ B,2 G,2 |$ A,2 B,2 | C2 x2 | x4 | [B,=D]2 [CE]2 | [B,E]4- | x4 |] %39
+V:4
+"m" z8 | (B,4 E,4) | (E,3 ^F,"m" G,4) |"" ^F,4"m" E,4- |"m" E,8- |$"m" (E,3 ^F,"m" G,4-) | %6
+"" G,4"" =F,4 |"" D,4"" C,4- |""!<(! C,8-!<)! |"" C,4"m" C,4- |$"""m" C,8- |"" C,4"" C,4- | %12
+"""" C,8- |"m" C,4"m" !>![D,,D,]4- |"m" [D,,D,]4"CGer6" ([F,,F,]4- |"m" [F,,F,]4"""" [E,,E,]4- |$ %16
+"" [E,,E,]4"m""" [A,,,A,,]4- | [A,,,A,,]3 [B,,,B,,]"m" [C,,C,]4) |"m" (E4"m" A,4-) | %19
+"" A,3 B,"m" C4 |"" B,4"m" A,4 |"m" z8 | (B,4 E,4) | (E,3 ^F,"m" G,4) |$"" ^F,4"m" E,4- |"m" E,8- | %26
+"m" (E,3 ^F,"m" G,4-) |"" G,4"" =F,4 |"" D,4"" C,4- |$"" C,8- |"" C,4"m" C,4- |"""m" C,8- | %32
+"" C,4"" C,4- |$"""" C,8- |"m" C,4"m" !>![D,,D,]4- |"m" [D,,D,]4"CGer6""^dim." [F,,F,]4- | %36
+"m" [F,,F,]4"""" [E,,E,]4- |"" [E,,E,]4"" [E,,,E,,]4- | !fermata![E,,,E,,]8 |] %39
+V:5
+ x8 | E3 ^F G4 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | %18
+ A3 B c4 | x8 | x8 | x8 | E3 ^F G4 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | %35
+ x8 | x8 | x8 | x8 |] %39
+V:6
+ x8 | z8 | (E,4 A,,4) | (B,,4 E,,4- | E,,3 ^F,, G,,4) |$ (A,,4 B,,4 | C,4 =F,,4) | (G,,4 C,,4- | %8
+ C,,3 D,, E,,4 | F,,4) (D,,4 |$ E,,4 F,,4 | G,,4) (E,,4 | F,,4 G,,4 | A,,4) x4 | x8 | x8 |$ x8 | %17
+ x8 | z8 | (F,4 D,4 | E,4 A,,4) | x8 | z8 | (E,4 A,,4) |$ (B,,4 E,,4- | (E,,3) ^F,, G,,4) | %26
+ (A,,4 B,,4 | C,4 =F,,4) | (G,,4 C,,4-) |$ (C,,3 D,, E,,4 | F,,4) (D,,4 | E,,4 F,,4 | %32
+ G,,4) (E,,4 |$ F,,4 G,,4 | A,,4) x4 | x8 | x8 | x8 | x8 |] %39

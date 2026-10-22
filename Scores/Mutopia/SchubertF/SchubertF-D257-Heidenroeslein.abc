@@ -1,0 +1,59 @@
+% Heidenröslein: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1555
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Heidenröslein
+C:SchubertF
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/8
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:none
+V:1 treble nm="chant" snm="V"
+V:2 treble nm="pianoUp" snm="Pno"
+V:3 treble 
+V:4 bass nm="pianoDown" snm="Pno"
+V:5 bass 
+V:1
+ z4 |[K:G][M:2/4][Q:1/4=69] BB BB | d/c/c/B/ A2 | AA Bc | d2 g z | BB BB | d/^c/c/B/ A2 | dd e>d | %8
+ ^c/d/e/f/ d2 | d/f/e/d/ ^c/B/^A/B/ | g>^c[Q:1/4=35] d2 |[Q:1/4=69] AA B=c | de/f/[Q:1/4=35] g2 | %13
+[Q:1/4=69] eg ce | GB/A/ G2 | z4 | z2[Q:1/4=60] z2 |[Q:1/4=69] BB BB | d/c/c/B/ A2 | AA Bc | %20
+ d2 g z | BB BB | d/^c/c/B/ A2 | dd e>d | ^c/d/e/f/ d2 | d/f/e/d/ ^c/B/^A/B/ | g>^c[Q:1/4=35] d2 | %27
+[Q:1/4=69] AA B=c | de/f/[Q:1/4=35] g2 |[Q:1/4=69] eg ce | GB/A/ G2 | z4 | z2[Q:1/4=60] z2 | %33
+[Q:1/4=69] BB BB | d/c/c/B/ A2 | AA Bc | d2 g z | BB BB | d/^c/c/B/ A2 | dd e>d | ^c/d/e/f/ d2 | %41
+ d/f/e/d/ ^c/B/^A/B/ | g>^c[Q:1/4=35] d2 |[Q:1/4=69] AA B=c | de/f/[Q:1/4=35] g2 | %45
+[Q:1/4=69] eg ce | GB/A/ G2 | z4 | z2[Q:1/4=60] z2 |] %49
+V:2
+ z4 |[K:G][M:2/4][Q:1/4=69] z [DGB] z [DGB] | z [EAc] z [EAc] | z [DAc] z [DFA] | z [DGd] z [DGB] | %5
+ z [DGB] z [DGB] | z [EA^c] z [EAc] | z [Ad] z [Be] | z [G^c] z [Fd] | z [Ad] z [Be] | %10
+ z [G^c][Q:1/4=35] z [Fd] |[Q:1/4=69] z [FA] z [DFA] | z [DGd][Q:1/4=35] z [DGB] | %13
+[Q:1/4=69] z [EGc] z [CGc] | [GB][FA] G/B/c/d/ | e/ z/ e/ z/ c/ z/ c/ z/ |[Q:1/4=60] G[AF] G2 | %17
+[Q:1/4=69] z [DGB] z [DGB] | z [EAc] z [EAc] | z [DAc] z [DFA] | z [DGd] z [DGB] | %21
+ z [DGB] z [DGB] | z [EA^c] z [EAc] | z [Ad] z [Be] | z [G^c] z [Fd] | z [Ad] z [Be] | %26
+ z [G^c][Q:1/4=35] z [Fd] |[Q:1/4=69] z [FA] z [DFA] | z [DGd][Q:1/4=35] z [DGB] | %29
+[Q:1/4=69] z [EGc] z [CGc] | [GB][FA] G/B/c/d/ | e/ z/ e/ z/ c/ z/ c/ z/ |[Q:1/4=60] G[AF] G2 | %33
+[Q:1/4=69] z [DGB] z [DGB] | z [EAc] z [EAc] | z [DAc] z [DFA] | z [DGd] z [DGB] | %37
+ z [DGB] z [DGB] | z [EA^c] z [EAc] | z [Ad] z [Be] | z [G^c] z [Fd] | z [Ad] z [Be] | %42
+ z [G^c][Q:1/4=35] z [Fd] |[Q:1/4=69] z [FA] z [DFA] | z [DGd][Q:1/4=35] z [DGB] | %45
+[Q:1/4=69] z [EGc] z [CGc] | [GB][FA] G/B/c/d/ | e/ z/ e/ z/ c/ z/ c/ z/ |[Q:1/4=60] G[AF] G2 |] %49
+V:3
+ x4 |[K:G][M:2/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z g z e | %16
+ z3/2 B/ z2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z g z e | %32
+ z3/2 B/ z2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z g z e | %48
+ z3/2 B/ z2 |] %49
+V:4
+ z4 |[K:G][M:2/4][Q:1/4=69] G, z G, z | G, z G, z | F, z C, z | B,, z G,, z | G, z G, z | %6
+ G, z G, z | F, z G, z | A, z B, z | F, z G, z | A, z[Q:1/4=35] D, z |[Q:1/4=69] D, z C, z | %12
+ B,, z[Q:1/4=35] G,,2 |[Q:1/4=69] C, z E, z | DC [B,G,]/G,/A,/B,/ | C/ z/ C/ z/ A,/ z/ A,/ z/ | %16
+ [D,B,]/ z/ [D,C][Q:1/4=60] [G,B,]2 |[Q:1/4=69] G, z G, z | G, z G, z | F, z C, z | B,, z G,, z | %21
+ G, z G, z | G, z G, z | F, z G, z | A, z B, z | F, z G, z | A, z[Q:1/4=35] D, z | %27
+[Q:1/4=69] D, z C, z | B,, z[Q:1/4=35] G,,2 |[Q:1/4=69] C, z E, z | DC [B,G,]/G,/A,/B,/ | %31
+ C/ z/ C/ z/ A,/ z/ A,/ z/ | [D,B,]/ z/ [D,C][Q:1/4=60] [G,B,]2 |[Q:1/4=69] G, z G, z | G, z G, z | %35
+ F, z C, z | B,, z G,, z | G, z G, z | G, z G, z | F, z G, z | A, z B, z | F, z G, z | %42
+ A, z[Q:1/4=35] D, z |[Q:1/4=69] D, z C, z | B,, z[Q:1/4=35] G,,2 |[Q:1/4=69] C, z E, z | %46
+ DC [B,G,]/G,/A,/B,/ | C/ z/ C/ z/ A,/ z/ A,/ z/ | [D,B,]/ z/ [D,C][Q:1/4=60] [G,B,]2 |] %49
+V:5
+ x4 |[K:G][M:2/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | D,2 z2 | %15
+ z E z C | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | D,2 z2 | z E z C | %32
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | D,2 z2 | z E z C | x4 |] %49

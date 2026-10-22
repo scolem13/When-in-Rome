@@ -1,0 +1,46 @@
+% La Styrienne: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=225
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:La Styrienne
+C:Johann Friedrich Franz Burgmüller (1806-1874)
+%%score ( 1 2 ) 3
+L:1/4
+Q:1/4=176
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="up" snm="Pno"
+L:1/16
+V:2 treble 
+V:3 treble nm="down" snm="Pno"
+V:1
+ ^C z3 A4 A4 | ^C z3 ^G4 G4 | ^C z3 =G4 G4 | [DF]4 (3:2:5z4 d2 e2 z2 f2 | %4
+ (3:2:4a2 z2 g2- g z2 c2 z2 (3:2:1d2- | e (3:2:1d z3 F z3 F z3 | ^d z3 F z3 F z3 | %7
+ (3:2:4G2 z2 B2- B z2 (3:2:4=d2 e2 z2 f2 | (3:2:4a2 z2 g2- g z2 c2 z2 (3:2:1d2- | %9
+ e (3:2:1d z3 F z3 F z3 | ^d z3 F z3 F z3 | G4 (3:2:5z4 f2 g2 z2 a2 | %12
+ (3:2:4b2 z2 g2- g z2 g2 z2 (3:2:1e2 | [ef] z3 (3:2:5^d2 z2 f2- f z4 | %14
+ [ef] z3 (3:2:4^d2 z2 f2- f z2 (3:2:1d2- | (3:2:1[^de] (3:2:4e z2 d2- d z2 f2 z2 (3:2:1a2- | %16
+ (3:2:1[ac'] (3:2:4c' z2 b2- b z2 g2 z2 (3:2:1e2 | [ef] z3 (3:2:5^d2 z2 f2- f z4 | %18
+ [ef] z3 (3:2:4^d2 z2 f2- f z2 (3:2:1d2- | (3:2:1[^de] e16/3 (3z d2- d z2 (3:2:1c2 | %20
+ [Bc] z3 A4 A4 | [AB] z3 G4 G4 | (3:2:4d2 z2 ^c2- c z2 a2 z2 (3:2:1f2- | %23
+ (3:2:1[fB] (3:2:5B z2 g2- g z4 B4 | [Bc] z3 A4 A4 | [AB] z3 G4 G4 | %26
+ (3:2:4d2 z2 ^c2- c z2 a2 z2 (3:2:1f2- |[K:C] [Bg]4 (3:2:2f z4 (3G2 A2 z2 (3:2:1G2 | %28
+ =F2 z2 d' z3 F4 | E6 (3:2:2z E2 (3=F2 z2 E2 | D z3 g z3 D4 | G6 (3:2:2z G2 (3A2 z2 G2 | %32
+ =F z3 c' z3 F4 | E6 (3z G2- G z2 (3:2:1G2- | (3:2:1[G^F] (3:2:5^F z2 G2- G z4 [=Fd]4 | %35
+ [Ec]4 (3:2:2z4 [Ec]8- | (3:2:2[Ec]4 z8 z4 |] %37
+V:2
+ D3 | D3 | D3 | x3 | z (3:2:4B/ z ^c/ z | x19/6 | e/4 z2 z3/4 | z (3:2:2d/ z z | %8
+ z (3:2:4B/ z ^c/ z | x19/6 | e/4 z2 z3/4 | x3 | z (3:2:4f/ z f/ z | e z B | e z (3:2:2B/ z | %15
+ z (3:2:4e/ z g/ z | z (3:2:4a/ z f/ z | e z B | e z (3:2:2B/ z | z2 (3:2:2=d/ z | B z2 | A z2 | %22
+ z (3:2:4=c/ z A/ z | z B z | B z2 | A z2 | z (3:2:4=c/ z A/ z |[K:C] x19/6 | x3 | x3 | x3 | x3 | %32
+ x3 | z2 (3:2:2A/ z | z e z | x3 | x3 |] %37
+V:3
+ z [D,C] [D,C] | z [D,B,] [D,B,] | z [D,^A,] [D,A,] | [D,=A,] z2 | G,/ z/ [B,D]/ z/ [B,D]/ z/ | %5
+ D,/ z/ [CD]/ z/ [CD]/ z/ | D,/ z/ [CD]/ z/ [CD]/ z/ | G,/ z/ [B,D]/ z/ [B,D]/ z/ | %8
+ G,/ z/ [B,D]/ z/ [B,D]/ z/ | D,/ z/ [CD]/ z/ [CD]/ z/ | D,/ z/ [CD]/ z/ [CD]/ z/ | [G,B,D] z2 | %12
+ E,/ z/ [B,EG] [B,EG] | B,3 [FA] [FA] | B,3 [FA] [FA] | E,/ z/ [B,EG] [B,EG] | %16
+ E,/ z/ [B,EG] [B,EG] | B,3 [FA] [FA] | B,3 [FA] [FA] | [EG] [FA] z | D, [CD] [CD] | %21
+ G, [B,D] [B,D] | D, D D | G,3 D D | D, [CD] [CD] | G, [B,D] [B,D] | D, D D | %27
+[K:C] [DG,] (3:2:2z z2 | G,, [G,B,] [G,B,] | C, [G,C] [G,C] | =F,3 [G,B,] [G,B,] | %31
+ E,3 [G,C] [G,C] | A,3 C C | G,3 C C | G,, G, B, | C (3:2:2z C2- | (3:2:2C z2 z |] %37

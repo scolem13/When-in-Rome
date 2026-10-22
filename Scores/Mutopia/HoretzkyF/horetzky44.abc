@@ -1,0 +1,27 @@
+% Nº. 44. Il Pleut, Il Pleut, Bergère.: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1141
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Nº. 44. Il Pleut, Il Pleut, Bergère.
+C:HoretzkyF
+%%score ( 1 2 3 )
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="A" snm="Ac Gtr"
+V:2 treble 
+V:3 treble 
+V:1
+ x4 x [^fd] | [a^f]2 [fd] [af]2 [fd] | [d^FD]3 [AFD]2- [AFD] | [d^F][dF][dF] [eA]2 [eA] | %4
+ [^fd]4- [fd]- [fd] | [^fd][fd][fd] a/ z/ [fd][ge] | [a^f]2 [fd] [afD]2 D | %7
+ [a^f][bg][af] b/ z/ [ge][fd] | [e^c]3 A,2 z | [eA][eA][eA] [eA][^fd][ge] | [^fd]2 [ge] [af]2 D | %11
+ [^fd][eA] [d^F]2 [geG][fd^G] | [e^cA]3 z2 [^fd] | [a^f]2 [fd] [af]2 [fd] | [ge]2 [a^f] [bgG]2- z | %15
+ [bgG]ab a e2 | ^f [dD]3 D2 |] %17
+V:2
+ x x5 | D3 D2- D | z6 | z6 | z6 | D3 [ge] z A, | D3 z3 | D4- D- D | AE^C z3 | A,4- A,- A, | %10
+ D3 D2- z | z3 a z2 | z6 | D3 D2- D | G3 z3 | z [^fA]3 [GA,]2- | [GA,]^FA F z2 |] %17
+V:3
+ x x5 | z6 | z6 | z6 | z6 | z3 A,2- z | z6 | z3 [a^f] z2 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %16
+ z6 |] %17

@@ -1,0 +1,68 @@
+X:1
+T:Silhouettes
+T:Allegro moderato
+C:Antonín Dvořák
+%%score { ( 1 5 ) | ( 2 3 4 ) }
+L:1/8
+M:3/4
+I:linebreak $
+K:A
+V:1 treble nm="Piano" snm="Pno."
+L:1/16
+V:5 treble 
+V:2 bass 
+V:3 bass 
+L:1/4
+V:4 bass 
+L:1/4
+V:1
+!p!"^Allegro moderato" (c4 e2^de f2^ef | a2>).a2 !>!a8 | (f4!<(! a2ga b2^ab |$ %3
+ c'2>).c'2 !>!c'8!<)! | (b4 c'4 =d'2!>(!e'/d'/c'/d'/!>)! |"_dimin." f'4 e'4 a4) |$ %6
+!pp! (c'4 b4!>(! f2>).f2 | (f8!>)! e4) |!pp! (c4 e2^de f2^ef |$ a2>).a2 !>!a8 | %10
+ (f4!<(! a2ga b2^ab | c'2>).c'2!<)! !>!c'8 |$!f! (b4 c'4!>(! d'2e'/d'/c'/d'/!>)! | %13
+"_dimin." f'4 e'4 a4) |!>(! (c'4 b4 f4)!>)! |!pp!({fg)} a2>!>(!a2 (a6 gf)!>)! |$ %16
+ (e4!<(! g2fg a2ga | b2>)b2!<)! b8 | (g4!<(! b2^ab c'2^bc'!<)! |$ %19
+!f! d'2>)d'2 d'6!>(! (d'/c'/b/a/)!>)! | (g4!<(! b2^ab c'2^bc')!<)! | %21
+"_string. cresc." (d'2c'd' e'2^d'e' =f'2e'f') |$!<(! (^f'2^e'f' =g'2f'g'!<)! ^g'2^^f'g') | %23
+!ff! [c'c'']2>[c'c'']2"^ten." [c'c'']8 | c2>"_dimin."c2 c8- |$ c2>!>(!c2 c4- c2>c2 | %26
+ c4- c2>c2!>)!!p! (c4- |"^ritard."!>(! c2=e2 d/c/e/d/c/d/c/B/!>)!!pp! !fermata!e4) |$ %28
+!p!"^in tempo" (c4 e2^de f2^ef | a2>).a2 !>!a8 | (f4!<(! a2ga b2^ab |$ c'2>).c'2 !>!c'8!<)! | %32
+!f! (b4 c'4!>(! =d'2e'/d'/c'/d'/!>)! | f'4!>(! e'4 a4) |$ (c'4!>)! b4 f2>)(f2 | %35
+ a8)"_dimin." (=f2ef | a8) (e2^de |$ a6 g4- g/f/g/f/ | c12-) |"_morendo" (c4 e4 f4) | %40
+ a2>a2!>(! !arpeggio!a8- |$ a4 e4!<(! (fgab)!>)!!<)! | c'2>c'2 c'4- c'2>c'2 | %43
+ c'4- c'2>c'2 !fermata!c'4 |] %44
+V:2
+"""^Con Pedale" z C2"m" C2 C |"" z"m" C2"" C2 C |"m" z"" C2"" C2 C |$"" z"m" C2""!<(! C2 C!<)! | %4
+""!f! z [A,B,^D]2 [A,B,D]"m" z [A,B,=D] |"" z [A,C]"" z [E,G,B,]"" z [E,A,] |$ %6
+"m" z"m" [F,A,D]2 [F,A,D]2 [F,A,D] |"" z"m" [B,D]2"" [B,D]2 [B,D] |"" z c2"m" c2 c |$ %9
+"" z"m" c2"" c2 c |"m" z"" c2"" c2 c |"" z c2""!<(! c2 c!<)! |$"" z [AB^d]2 [ABd]"m" z [AB=d] | %13
+"" z [Ac]"" z [EGB]"" z [EA] |"" z"" [^DFA]2 [DFA][K:bass]"" z [=DEG] |"" A,, [A,CE]2 [A,CE]2 z |$ %16
+"" E,[K:treble] [EGB]2 [EGB]"m" B,[=FAd] |"" E,[K:treble] [EGB]2 [EGB]"m" B,[D=FA] | %18
+"" E,[K:treble] [EGB]2 [EGB]"m" B,[=FAd] |$"" z [GBd]2 [GBd]"m" B,[D=FA] | %20
+"" E,[K:treble] [EGB]2 [EGB]"" A,[E=G] |"" D[FA]"" =C[=G_B]"" =F,[C=FA] |$ %22
+"" !^![=B,,=B,][B,^D^F]"" !^!_E,[_B,_D_E=G]"" !^![^G,,^G,][G,^B,^DF] | %23
+"" [C,,C,] [G,C^E]2 [G,CE]2 [G,CE]- | [G,CE] [G,C^E]2 [G,CE]2 [G,CE]- |$ %25
+ [G,CE] [G,C^E]2 [G,CE]2 [G,CE]- | [G,CE]3 z z2 |"" z2 z2"" z !fermata![=E,G,D] |$"" z C2"m" C2 C | %29
+"" z"m" C2"" C2 C |"m" z"" C2"" C2 C |$"" z C2""!<(! C2 C!<)! | %32
+"" z [A,B,^D]2 [A,B,D]"m" z [A,B,=D] |"" z [G,B,D]"" z [E,G,B,]"" z [E,A,] |$ %34
+"m" B,,"m" [F,A,D]2 [F,A,D]2 [F,A,D]- |"m" [F,A,D] [=F,A,B,D]2 [F,A,B,D]2 [F,A,B,D] | %36
+"" E,, [E,A,B,D]2 [E,A,B,D]2 [E,A,B,D] |$ E,, [E,B,D]2"" [E,B,D]2 [E,B,D] |"" z C2"m" C2 C | %39
+"" z C2"m" C2 C |"" z C,2"m" C,2 C, |$"" z C,2"m" C,2 C, |"" z (E,, A,,E, A,E) | %43
+ (Ae !fermata!a4) |] %44
+V:3
+ A,,3 | A,,3 | A,,3 |$ A,,3 | (F,2 =F, | E, D, C, |$ B,,3) | (E, F, G,) | A,3 |$ A,3 | A,3 | A,3 |$ %12
+ (!>!F2 =F | E D C) | (B,2[K:bass] E,) | x3 |$ x/[K:treble] x3/2 B, | x/[K:treble] x3/2 B, | %18
+ x/[K:treble] x3/2 B, |$ E2 B, | x/[K:treble] x3/2 A, | D =C =F, |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ %28
+ A,,3 | A,,3 | A,,3 |$ A,,3 | (F,2 =F, | E, D, C,) |$ x3 | x3 | x3 |$ x3 | A,,3 | A,,3 | A,,,3 |$ %41
+ A,,,3 | A,,,3 | x3 |] %44
+V:4
+ z (!>!E, ^D,) | z (!>!^D, E,) | z (!>!E, ^D,) |$ z (!>!^D, E,) | x3 | x3 |$ x3 | x3 | %8
+ z (!>!E ^D) |$ z (!>!^D E) | z (!>!E ^D) | z (!>!E ^E) |$ x3 | x3 | x2[K:bass] x | x3 |$ %16
+ x/[K:treble] x5/2 | x/[K:treble] x5/2 | x/[K:treble] x5/2 |$ x3 | x/[K:treble] x5/2 | x3 |$ x3 | %23
+ x3 | x3 |$ x3 | x3 | x3 |$ z (!>!E, ^D,) | z (!>!^D, E,) | z (!>!E, ^D,) |$ z (!>!E, ^E,) | x3 | %33
+ x3 |$ x3 | x3 | x3 |$ x3 | z (E, ^D,) | z (E, ^D,) | z (E,, ^D,,) |$ z (E,, ^D,,) | x3 | x3 |] %44
+V:5
+ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | %18
+ x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | %36
+ x6 |$ x6 | z2!pp! (E2 F2 | A>)A A4 | z2 E2!<(! (F/G/A/B/)!<)! |$ c>c c2 z2 | z2 z3/2 c/ c2- | %43
+ c>c !fermata!c4 |] %44

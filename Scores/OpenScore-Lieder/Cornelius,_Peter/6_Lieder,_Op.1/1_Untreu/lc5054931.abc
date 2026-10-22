@@ -1,0 +1,49 @@
+X:1
+T:6 Lieder, Op.1
+T:Untreu
+C:Peter Cornelius
+Z:Peter Cornelius
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/16
+Q:1/4=68
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+L:1/8
+V:4 bass 
+L:1/4
+V:1
+"^Etwas langsam" A A3 A | A4- A2 z A G3 B | A4 z3 A A3 A | A4- A2 z A G3 B | %4
+w: Mein Lied ist|klein, * braucht  we- nig|Platz: ich nann- te|mein * viel- lie- ben|
+ A4 z3"^più mosso""_bewegter im Ausdruck" B c3 c | c4- c2 z c B3 d | c4 z3 c c3 c | c4- c3 c B3 d | %8
+w: Schatz. Ich  sing' es|scheu * und  lei- se|nur: er  schwur mir|Treu * und brach den|
+ c4- c2 z c c3 c |!f!"^getragen""^sostenuto (slow)" f6 f2 f2 f2 | =e6 e2 e2 e2 | _e3 e f6 e2 | %12
+w: Schwur. * Auf im- mer|floh'n mich Glück und|Fried': da habt ihr|schon das End' vom|
+!>(! d8!>)! d4 |!p!"^rit." c8 (A2G2) | F12- | F8 z4 | z12 |] %17
+w: Lied, das|End' vom *|Lied.|||
+V:2
+ z z4 | z3!>(! [FAc] (([F-Ac]4!>)! .[FBd]2)) z2 | z3!>(! [FAc] (([FA-c-]4!>)! .[EAce]2)) z2 | %3
+ z3!>(! [FAc] (([F-Ac]4!>)! [FBd]2)) z2 | z3 [Ac] ([A-c]4 [Af]2) z2 | %5
+ z3"_stärker" [ca] (([ca]4 [dg]2)) z2 | z3 [ca] ([c-a]4 [cb]2) z2 | %7
+ z3!f! [Acfa] (((([Acfa]4 [GBdg]2)))) z2 | z3 [Acfa] ((.[A-cfa-]4 .[Ae_ga]4)) | %9
+ z3!f! .[ee'] ((!>![ee']4 [dd']2)) z2 | z3 !>![Aa] ((!>![Aa]4 [Gg]2)) z2 | z3 [cc'] [dd']6 [cc']2 | %12
+!>(! z3 ([cc'] [cc']4 [Bb]4!>)! | !arpeggio![Acfa]4) z4 !arpeggio!.[G,B,=E]2 z2 | z3 C (C4 D2) z2 | %15
+ z3 C (C4 [DF]4) | !fermata!C8 z4 |] %17
+V:3
+ z/ z2 | z3/2 [F,A,C]/ (([F,-A,C]2 [F,B,D])) z | z3/2 [F,A,C]/ ([F,A,-C-]2 .[E,A,C]) z | %3
+ z3/2 [F,A,C]/ ((([F,A,C]2 [F,B,D]))) z | z3/2 [F,A,C]/ ([F,-A,-C]2 [F,A,F]) z | %5
+ z3/2 [A,E]/ ([A,-E]2 [A,_F]) z | z3/2 [A,E]/ (([A,E]2 [G,=E])) z | %7
+ z3/2 [F,A,CF]/ ((([F,A,CF]2 [F,B,D=E]))) z | z3/2 [F,A,CF]/ (([F,A,-C-F]2 [E,A,CE]2)) | %9
+!f!!ped! D,F,B,DB,F,!ped-up! |!ped! C,G,B,=E_DB,!ped-up! |!ped! =A,,F,CECF,!ped-up! | %12
+!ped! B,,F,B,DB,F,!ped-up! | %13
+"^rit."!ped! !arpeggio![C,F,A,C]2 z2!ped-up!!ped! !arpeggio!.[C,,C,] z!ped-up! | %14
+ x3/2!<(! [F,A,]/!<)!!>(! ([F,-A,]2 [F,B,])!>)! x | x3/2!<(! [F,A,]/!<)!!>(! [F,A,]2!>)! [F,B,]2 | %16
+ [F,A,]4 x2 |] %17
+V:4
+ x5/4 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | [D,,D,]3 | [C,,C,]2 x | [=A,,,=A,,]2 x | %12
+ [B,,,B,,]2 x | x3 | z3/4 [F,,A,,C,]/4 (([F,,-A,,C,] [F,,B,,D,]/)) z/ | %15
+ z3/4 [F,,A,,C,]/4 [F,,-A,,C,] [F,,B,,D,] | !fermata![F,,A,,C,]2 z |] %17

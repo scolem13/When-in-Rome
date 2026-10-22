@@ -1,0 +1,73 @@
+X:1
+T:5 Lieder, Op.49
+T:Am Sonntag Morgen
+C:Johannes Brahms
+Z:OpenScore  (CC0)
+Z:
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/16
+Q:1/4=46
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+L:1/8
+V:1
+"^Andante espressivo" z4 z2 B2 | (.B2 z .B) (.B2 z .B) | e2 d2 B2 G2 | A4 z2 A2 | A3 A A2 ^A2 | %5
+w: Am|Sonn- tag Mor- gen,|zier- lich an- ge-|tan, wohl|weiss ich, wo du|
+ B3 F =A2 G2 | E2 F2 z2 B2 | B3 B B3 B | e2 d2 B2 G2 | A4 z2 c2 | c3 c c2 ^c2 | d3 A B2 G2 | %12
+w: da bist hin ge-|gan- gen, und|man- che Leu- te|wa- ren, die dich|sahn und|ka- men  dann zu|mir, dich zu ver-|
+ F4 E2 z2 |[Q:1/4=48]"^animato" B2 G A B e ^d e | f3 ^c ^d3 z | =c2 B A A G F G | (^G2 A4) c2 | %17
+w: kla- gen.|Als sie mirs sag- ten, hab ich|laut ge- lacht|und in der Kam- mer dann ge-|weint _ zur|
+ ^F4 z4 | B2 G A B e ^d e | g3 =d d2 e z | =f2 e d (dc) z c ||[M:3/4] (B2 a4) g2 =f3 ^d || %22
+w: Nacht.|Als sie mirs sag- ten, fing ich|an zu sin- gen,|Um ein- sam dann * die|Hän- * de wund zu|
+[M:2/4] ^d4 e2 z2 | z8 | z8 | z8 | z8 |] %27
+w: rin- gen.|||||
+V:2
+ !>!B4 !>![AB]4 |!p! z .[GB].[FA] z z .[EG].[DF] z | %2
+ z .[CE][I:staff +1].[G,,D,][I:staff -1].[B,G] z .[DB][I:staff +1].[B,,D,][I:staff -1].[Gd] | %3
+!>(! (f2e2c2!>)!A2) | z .[FA].[EG] z z .[DF].[CE] z | %5
+ z .[B,^D][I:staff +1].[^D,,B,,][I:staff -1].[B,F] z .[CFA][I:staff +1].[E,,B,,][I:staff -1].[EG] | %6
+!>(! (e2^c2!>)!^A2[=AB]2) | z .[GB].[FA] z z .[EG].[DF] z | %8
+ z .[CE][I:staff +1].[G,,D,][I:staff -1].[B,G] z .[DB][I:staff +1].[B,,D,][I:staff -1].[Gd] | %9
+!>(! (f2e2c2!>)!A2) | z .[Ac].[GB] z z .[FA].[EG] z | z .[DF].[CE] z z .[B,^D]z.[CE] | %12
+ z (CB,^D) z (E-[EG][FA]) | (B2(3GxA (3Bxe(3^dxe) | [F^Af]2>!>(![FA^c]2 [FB^d]2>!>)!^D2- | %15
+ ([^DA=c]2[GB][FA]) ([DFA][EG][DF][EG]) | (([C^G]2 [C=FA]4) [Ec]2) | %17
+!p! z .[^D^F].[EG] z z .[FA].[F^A] z | (B2(3GxA (3Bxe(3^dxe) | %19
+ [=FGBg]2>[FB=d]2!>(! ([FBd]2[Ece])!>)! G | [d=f]2[ce][Bd]!<(! ([^GBd][Ac][GB]!<)![Ac]) || %21
+[M:3/4] [AB^f]2>B2!>(! [GBe]2>[GB]2 [Ac]2>!>)!A2 ||[M:2/4] ([Ac]2[GB][FA]) ([FA][EG][^DF][EG]) | %23
+!<(! ([^DAc]2[GB][FA])!<)!!f! ([=d=f]2[ce][Bd]) | ([^GBd][Ac][GB][Ac] [Bd][Ac][=FA][CF]) | %25
+!>(! (^D4 E2) z2!>)! |[K:bass]!p!!>(! (^D,4 E,4)!>)! |] %27
+V:3
+ !>!B,4 !>![A,B,]4 | .[G,B,]zz.[F,A,] .[E,G,]zz.[D,F,] | [C,E,]2 x z z2 x2 | %3
+ .D, .[A,D].A,,.[E,A,C] z .[E,A,].C,.[E,C] | D,2 z .[E,G,].[D,F,] z z [C,E,] | %5
+ [B,,^D,]2 x z z2 x2 | .G,, .[G,B,].F,,.[F,^A,] z .[F,^C].B,,.[=A,B,] | %7
+ .[G,B,]zz.[F,A,] .[E,G,]zz.[D,F,] | .[C,E,]2 x z z2 x2 | %9
+ .D, .[A,D].A,,.[E,A,C] z .[E,A,].C,.[E,C] | .[A,C]zz.[G,B,] .[F,A,]zz.[E,G,] | %11
+ .[D,F,]zz.[C,E,] .[B,,^D,]z.[C,E,] z | .[A,,E,]2 .B,,2 .[E,G,]2 .B,,2 | %13
+ [E,,B,,E,]2!<(! G,[F,A,] [E,G,B,][G,B,E][F,A,^D]!<)![G,B,E] | %14
+ (6:4:6(F,,^C,F,^A,^C) z (6:4:6(B,,,F,,B,,^D,F,) z | %15
+ (3z (B,,,B,,) (3z (B,,B,) (3z (C,,C,) (3z (C,C) | %16
+!<(! (3z (=F,,,=F,,) (3z (F,,!<)!=F,)!>(! (3z (A,,,A,,) (3z (A,,!>)!A,) | %17
+ B,,,2 z .[E,G,].[F,A,] z z [F,^A,] | %18
+ !arpeggio![E,,B,,G,]2!<(! G,[F,A,] [E,G,B,][G,B,E][F,A,^D]!<)![G,B,E] | %19
+!f! (6:4:6(G,,D,G,B,D) z (6:4:6(C,,G,,C,E,G,) z | %20
+ (3z (E,,E,) (3z (E,B,) (3z (A,,,A,,) (3z (A,,A,) || %21
+[M:3/4] (3z (^D,,B,,) (3z (^D,B,) (3z (E,,B,,) (3z (E,B,) (3z (A,,,A,,) (3z (A,,A,) || %22
+[M:2/4] (3z (B,,,B,,) (3z (B,,B,) (3z (E,,B,,) (3z (E,B,) | %23
+ (3z (B,,,B,,) (3z (B,,B,) (3z (E,,E,) (3z (E,E) | %24
+ (3z (A,,E,) (3z (A,E) (3z (=F,,,=F,,) (3z (A,,A,) | %25
+ (3z (B,,,B,,) (3z (B,,^F,) (3z (B,,,B,,) (3z (B,,E,) | %26
+ (3z (B,,,A,,) (3z (B,,,F,,) (3z E,,,-E,,- [E,,,E,,]2 |] %27
+V:4
+ x8 | x8 | x8 | A6 A2 | x8 | x8 | E4 E2^D2 | x8 | x8 | A6 A2 | x8 | x8 | x A,3 x B,3 | %13
+ (3(GB,E) (3(EB,F) (3(GEB) (3(AFB) | x8 | x8 | x8 | x8 | (3(GB,E) (3(EB,F) (3(GEB(3BFB) | x8 | %20
+ ^G4 x4 ||[M:3/4] x12 ||[M:2/4] x8 | x4 ^G4 | x8 | (C2B,A,) (A,G,F,G,) | %26
+[K:bass] (C,2B,,A,,) (A,,2G,,2) |] %27
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x E, x2 | x4 | x4 | x4 | x4 | %18
+ x E, x2 | x4 | x4 ||[M:3/4] x6 ||[M:2/4] x4 | x4 | x4 | x4 | x4 |] %27

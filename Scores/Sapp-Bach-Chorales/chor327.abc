@@ -1,0 +1,33 @@
+X:1
+T:Jesu, nun sei gepreiset
+T:Jesu, nun sei gepreiset
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ f | f d e f | g2 !fermata!e e | e d d c | !fermata!d3 e | e e e f | d2 !fermata!d d | c d e e | %8
+ !fermata!d3 x :: c x3 | c c c c | d2 !fermata!d x :: f x3 | f d e f | g2 !fermata!f f | e f d d | %16
+ !fermata!e3 x :: f x3 | f d e f | g2 !fermata!e e | e d d c | !fermata!d3 x || %22
+V:2
+ A | A F G A | B2 !fermata!G G | F F E A | !fermata!A3 A | E ^G A ^A | B2 !fermata!B F | %7
+ E F G/ A/4B/4 A/E/ | !fermata!F3 x :: E x3 | A A A A | A2 !fermata!A x :: A x3 | A F G A | %14
+ G A !fermata!A B | G A F F | !fermata!G3 x :: F x3 | F F E ^D | E F !fermata!G G | F F E E | %21
+ !fermata!F3 x || %22
+V:3
+ d | d A B =c | d2 !fermata!=c c | ^c d B e | !fermata!f3 c | B/c/ d c c | d/e/ f !fermata!f B | %7
+ G A/d/ d c | !fermata!A3 x :: A x3 | e e f g/e/ | f2 !fermata!f x :: d x3 | d A B =c | %14
+ d A !fermata!d f | B =c B B | !fermata!B3 x :: c x3 | d f B A | B2 !fermata!^A B | c B B =A | %21
+ !fermata!A3 x || %22
+V:4
+ D, | D =C B, A, | G,2 !fermata!=C, B,, | ^A,, B,, ^G,, =A,, | !fermata!D,,3 A, | ^G, E, A, F, | %6
+ B,2 !fermata!B, B, | E, D, A, A,, | !fermata!D,3 x :: A,, x3 | A, G, F, A, | D,2 !fermata!D, x :: %12
+ D, x3 | D =C B, A, | B, ^C !fermata!D ^D, | E, A, B, B,, | !fermata!E,3 x :: ^A, x3 | %18
+ B, =A, G, F, | E, =D, !fermata!C, B,, | ^A,, B,, ^G,, =A,, | !fermata!D,,3 x || %22

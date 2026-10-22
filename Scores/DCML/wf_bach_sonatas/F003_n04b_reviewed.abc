@@ -1,0 +1,68 @@
+X:1
+T:Keyboard Sonata in D major
+T:Adagio
+C:Wilhelm Friedemann Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=96
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+L:1/16
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Adagio." z12 | z12 | F4 A4 c4 | d4 (d4 c)^gB2 | A6 ^A2 BfdB |${A} G6 ^G2 Aec=G | F2f2 B8- | %7
+ B2g2{B} ^A8 |$ B4 z2 f2 B2-B2- | B2B2- BdcB{B} ^A4 |$!pp! Bfd2 B2B2{B/d/} =c2BA | G4 z4 ^G4 | %12
+ F2C2 (C4 D2)G2 | F2=c2 (c4 B2)d2 |$ (d4 c2)g2 fAB=c |$!f! (3Bba(3gfe d4 c2-c2 | z!pp! dBG{F} E8 | %17
+ D2-(3DA,=C (3CB,^A,(3B,G^C{C} D2-D2 ::$!p! A4 F4 D4 | C4 (C4 D)A,E2 |$ F2^G2 A2 z2 z c^ef | %21
+ B2 E4 E4 ^G2 | A4 z2 =c2 ^c^de2 | e8 ^d4 |$ z2 e4 e4 e2 |$ efg2 (g4 f2)e2 | db!pp!f2 (e6 d2 | %27
+ c4) B4- BA^Gd |$ c6 f2 d4- | d2^d2 e4- egfe |${d} c4 A8- | A6- A2 z4 | A!p!fe2 e2- e4 ^G2 |$ %33
+ A4 PB4 cE^d2 | e4 d^G^e2 f-f-f2 |$ f4- fgf2- f^ac'a | f4 f^ga^a bf^dB |$!f! eBg2- (g4 f4) | %38
+ fBa2 (a4 g)^gab |$!ff! =c'4 a4 =f4 | (e2-e2 ^d4) z4 |!pp! z4 B4{A} G4 | (G4 F)AG2 G2=c2 | %43
+ B4 d4 f4 |$ g4 (g4 f)c'e2 | d2 z2 f2-fg/a/ g4- | g2 z2 (e2-ef/g/) f2->f2 |$ z2 G4 ^G2 Ae=cA |$ %48
+{G} F6 =c2"_cresc." Bf^dA | G2 z ^G Aec=G F2->F2- |$ FdB=F{F} E4- EED=C |$ B,2 z2 z4 z4 | %52
+!f! z ^gd2 Pd6 cd | c4!pp! ^A4 F4 | [D^E^G]4 [DEG]4 FG[DG]2 |$ ^A2!p! z2 z2 z f (=c2B)=A |$ %56
+ G4 z4 B4- | Bec2 A2A2{A=c} _B2AG |"_cresc." F2^A2 A4 B2e2 | d2A2 A4 G2B2 |$ (B4 ^A2)e2 dFG=A | %61
+ (3G!f!gf(3edc (B4 ^A2-)A2 | z!pp! BGE{D} C8 |$ %63
+!p! B,2-(3B,F,A, (3A,G,F,(3G,E^A,{A,} !fermata!B,2-B,2 :| %64
+V:2
+ B,2!p! D2 F2 | G2 (G2 F/)c/E | D C2 C2 F- | FF ^EF ^G2- | GC F4- |$ FB, E4- | E D2 ^D E/B/G/E/ | %7
+{D} C3 G F/c/^A/E/ |$ x6 | E2 ^E2 FG |$ F2 z2 F2- | F/G/E CC{C/E/} DC/"_cresc."B,/ | x6 | %13
+ DA (A2 G)=F |$ (=F2 E)E x2 |$ x2 E4 | z x5 | DF, x4 ::$ x6 | x6 |$ D2 C2 z/ x3/2 | x6 | %22
+ C A2 A2 A | A/B/=c (c2 B)A |$ G2 z G ^G/^A/B |$ B4 ^A2 | BD z/ F/G/^G/ A/^A/B | A2 ^GF ^E2- |$ %28
+ ^EC F3 F | G3 ^G A2- |$ A2 x4 | x6 | x6 |$ C/F/E E3 F | G/C/^A B2 cA |$ B/F/(d d2 c2) | %36
+ c/F/e (e2 ^d2) |$ B2- B/=c/B- B/F/^D/F/ | B2- B/c/d/^d/ e2 |$ z2 =c2 A2 | F3 =c B2 | B2 G2{F} E2 | %42
+ ^D2 (D2 E/)A,/F | G/!p!A/G FB/c/{c} d2- |$ d/c/e e/d/c d^A- | AF B4- | BE A4- |$ A/A/G/F/ E4- |$ %48
+ E=c{E} ^D4 | E4- EA, |$ D2- D>=C x2 |$ x6 | z B B4 | ^A2 c2 A2 | x4 C/D/^E |$ F z z/ B,/F- FF- |$ %56
+ F/B/G EE{EG} =FE/D/ | C2 z2 e2 | dG ((G2 F))^A | B((F F2 E))D |$ (D2 C)C x2 | x6 | x6 |$ x6 :| %64
+V:3
+"m" z2 B,,2"m" D,2 |"m" E,4"" F,2 |"m" B,2"" A,3"" ^A, |"m" B,2"" C2"" ^E,2 | %4
+"m" F,2"m""" E,2"m" D,2 |$"m" E,2"m""" D,2"""" C,2 |"""" D,2"""" G,2"m" z2 | %7
+"m" E,2"""" F,2"" F,,2 |$"m" DF,"m" B,>C"m" D""^D |"m" G,2"" (G,2"" F,/)C/"m"E, |$ %10
+"m" D,2"m" z2"m" ^D,2 |"m""m" E,2"" z2"m" ^E,2 |"m" A,""A,"" A,3"m" C | %13
+"" D,"m"F, (F,2"" G,)"m"^G, |$ (^G,2"" A,)"m"C"""" D2- |$"" D"m"E"""" A,3"" G, |"" x"" D"""" C4 | %17
+""""!p! x2"""" G,2-"" G,""F, ::$"""" z6 |"""""m" z6 |$"""""m" x4 A,2 |"" ^G,2 (G,2"" A,/)E,/"m"B, | %22
+"" A,,2"m" A,2"" G,2 |"m" F,4"""" B,2 |$"m" E,2 E2"" D2 |$"m" C4"""" F2 |"m" z"m" B,2 B,2"m" B, | %27
+"m" B,/C/D"m" (D2"" C)""B, |$"m""^cresc." A,2"" ^A,2"m" B,2- |"" B,B,"m""" C3"" D |$ %30
+"" A,2"" z z/ G,/"" F,/A,/D/F/ |"" F2"" E/A,/G"" F2 |"" F,2"""" P^G,2"" A,/E,/"m"B, |$ %33
+"" A,,2 z A,"" G,"m"F, |"m""^cresc." E,2"m" B,,2"" ^A,,/E,,/C, |$"m" D,"m"B,,"" F,2"" F,,2 | %36
+"m" ^A,F,"" B,2"" B,,""=A, |$"m""^cresc." G,"m"E,"" B,2"" B,2 | %38
+"" ^D,B,,"m" E,2-"m" E,/""=D,/=C,/B,,/ |$"m""" A,,6- |"m" A,,=C,"" B,,A,, G,,F,, | %41
+"m" E,,2"m" G,,2"m" B,,2 |"m" =C,2"m" C,2"" B,,/F,/"m"A,, |"m" G,,"m"E"m" D2"m" B,2 |$ %44
+"m" ^A,2 A,2-"" A,/E,/C |"m""m" D3-[K:treble]"""" ^D"m" E/B/G/E/ |"m""m" =C3"" ^C"" D/A/F/=C/ |$ %47
+"" B,2"" =C2"m" z2 |$"m" A,2"" B,2 B,2 |"m" E,/B,/""^G,/""D,/"m" =C, z/"" ^C,/"" D,/A,/F,/""=C,/ |$ %50
+"""" B,,2"m" =C,/E,/A,/=C/"" F,2 |$"" G, z D,/B,,/G,,/G,/ D,/B,,/G,,/F,,/ |"m" ^E,,2 z2 ^E,2 | %53
+"" F,2 x2 C2 |"m" B,2 B,2"" ^A,/B,/"m"B, |$"" ^A,"" x"m" x2"m" x2 |$"m""m" E,2 z2"m" ^G,2 | %57
+"""" A,2 z2"m" C2 |"" D"m"E (E2"m" D)"m"C |"m" B,"m"^D (D2"m" E)"m"^E, |$ ^E,2"" F,""^A,"m" B,2- | %61
+"m" B,"m"C"""""" C4 |"m" z"m" B,""""{B,} A,4 |$"m""""m""""m""m" B,,6 :| %64
+V:4
+ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 |$ B,,2 D,2 F,2 | x6 |$ x6 | x6 | F,G, (G,2 F,)E, | x6 |$ %14
+ x4 DD, |$ G,E, x4 | F,G,{D} A,2 A,,2 | D,6 ::$ z2 D,2 F,2 | G,4 F,E, |$ D,E, F,^E, F,C, | %21
+ D,4 C,B,, | x6 | x6 |$ x6 |$ x6 | x6 | x6 |$ x6 | x6 |$ x2 F,2 D,2 | C,2 (C,2 D,/)A,,/E, | %32
+ F,2 z D, C,B,, |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | %45
+ x3[K:treble] x3 | x6 |$ x6 |$ x6 | x6 |$ x4 D,2 |$ G,,/D/B,/G,/ x4 | x6 | F,2 F,4- | F,2 F,4- |$ %55
+ F,/C/E, D,2 ^D,2 |$ x6 | x6 | x6 | x6 |$ x4 B,B,, | E,C, F,3 E, | D,E, F,2 F,,2 |$ %63
+ B,^D, E,2- E,!fermata!=D, :| %64

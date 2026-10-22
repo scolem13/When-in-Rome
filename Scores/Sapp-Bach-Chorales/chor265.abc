@@ -1,0 +1,32 @@
+X:1
+T:Was mein Gott will, das g'schen allzeit
+T:Was mein Gott will, das g'schen allzeit
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ F | A B A d | d c !fermata!d d | c B e3/2 d/ | c d c2 | !fermata!B3 x :: B x3 | B B c3/2 B/ | %8
+ c A A ^G | !fermata!A A B c | d c B2 | !fermata!c3 F/^G/ | =A B A d | d c !fermata!d d | %14
+ c B e3/2 d/ | c d c2 | !fermata!B3 x || %17
+V:2
+ D | D D D D/E/ | F/G/ A !fermata!A A | A G G F | F2- F/G/F/E/ | !fermata!D3 x :: F x3 | %7
+ E D C ^D/^E/ | F F F =E | !fermata!E E E E | F ^A B ^G | !fermata!^A3 C | F ^G F F | %13
+ B A !fermata!A ^G | A ^G ^A3/2 B/ | c B2 ^A | =A G !fermata!F x || %17
+V:3
+ B | A G F/G/ A/B/ | A e !fermata!f f | e e B B | ^A B2 A | !fermata!F3 x :: d/c/ x3 | %7
+ B/c/ B/A/ ^G A/B/ | A/B/ c B B | !fermata!c c B ^A | B g f ^e | !fermata!f3 =A/B/ | c d/c/ c d | %13
+ e e !fermata!f e/d/ | e e e/f/ =g- | g/ f/4e/4 d/ c/4B/4 f/c/ f/e/ | ^d =e !fermata!d x || %17
+V:4
+ B,,2 | F,2 G,2 D,E, F,G, | A,2 A,,2 !fermata!D,2 D,2 | A,2 E,F, G,A, B,2 | F,E,D,E, F,4 | %5
+ !fermata!B,,6 x2 :: B,=A, x6 | ^G,A, G,F, ^E,C, F,G, | A,^G, F,=E, D,B,, E,2 | %9
+ !fermata!A,,2 A,2 ^G,2 =G,2 | F,2 E,2 D,C,D,B,, | !fermata!F,6 F,,2 | F,2 ^E,2 F,2 B,A, | %13
+ ^G,2 A,2 !fermata!D,2 B,,2 | A,,2 E,D, C,D, C,B,, | ^A,,=G,F,^E, F,4 | !fermata!B,,6 x2 || %17

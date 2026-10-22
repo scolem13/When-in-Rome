@@ -1,0 +1,93 @@
+X:1
+T:Liebeslied
+C:Luise Greger
+Z:Unknown, possibly the composer?
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 6 8 ) | ( 4 5 7 ) }
+L:1/8
+Q:1/4=100
+M:2/4
+I:linebreak $
+K:E
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:6 treble 
+L:1/4
+V:8 treble 
+V:4 bass 
+L:1/4
+V:5 bass 
+L:1/4
+V:7 bass 
+L:1/4
+V:1
+"^Andantino" z4 | z4 | z4 | z4 |:"^innig" E2 F3/2 F/ | ((A2 G3/2)) F/ | ((E2 D3/2)) C/ | F3 z | %8
+w: ||||Hast du ein|Lieb, _ halt's|fest _ und|warm,|
+w: ||||Fül- let die|Lie- be das|seh- nen- de|Herz,|
+w: ||||||||
+!<(! E2 F3/2 F/ | (c2!<)! B3/2) G/ | E2- E3/2 F/ | F3 z ||"^etwas lebhafter" G2 B B | e2 B2 | %14
+w: treu- in- ning|wieg's _ in|dei- * nem|Arm!|Lä- chelt die|Lie- be,|
+w: wech- seln die|Freu- * den|oft- mals mit|Schmerz.|Ju- beln und|Jauch- zen|
+w: ||||||
+ c2 c3/2 B/ | A3 z |!<(! A2 c3/2 B/ | f3{f} c!<)! | d3{d} c | !fermata!^B2 z2 || %20
+w: fällt Son- nen-|scein,|mit Her- zens-|trieb zieht|Glück her-|ein!|
+w: kün- det das|Glück,|heim- li che|Trä- nen|dun- keln|Blick!|
+w: |||* ver-|a den||
+"^beduetungsvoll\n" C2 E3/2 F/ |!<(! G3 z | C2 E3/2 F/ | G3 z | G2 G A | B2!<)! z2 | %26
+w: Föh- ren, merkt|auf,|hor- chet zu|mal!|Was- ser, rauscht|auf,|
+w: Vög- lein lauscht|her,|mel- det's dem|All|trag' es zum|Meer,|
+w: ||||||
+!<(!!<(! B2 (3(cB) c!<)! |"_}" d3!<)! z | z4 | z4 | z4 | !fermata!z4 |:"^con sentimento" B2 G F | %33
+w: tragt es * zu|Tal!|||||Se- lig und|
+w: rau- schen- * der|Fall:||||||
+w: |||||||
+ (3(ED) E (3C D E | B,3 z | z2 (3!^!e d c | (3(BG) E (3!^!c B A | (3DF C (3G F [GB] |1 [EB]3 z | %39
+w: son- * nig dünkt mich die|Welt,|liebich * und|won- * nig, lieb lich und|won- * nig, die mich er-|wählt!|
+w: ||||||
+w: ||||||
+ z4 :|2 [Ee]3 z || z4 | z4 | z4 |] %44
+w: |wählt!||||
+w: |||||
+w: |||||
+V:2
+ x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | f3 c | %18
+ d3 c | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | %37
+ x4 |1 x4 | x4 :|2 x4 || x4 | x4 | x4 |] %44
+V:3
+ [B,E]2 [CF]>[CF] | [EA]2 [DG]>[CF] | [B,E]2 [A,D]>[A,C] | [A,B,F]4 |: [G,B,E]2 [CF]>[CF] | %5
+ [EA]2 [DG]>[CF] | [B,E]2 [A,D]>[A,C] | [A,B,F]4 | [G,B,E]2 [A,CF]2 | [A,D]2 [B,E]>[G,E] | %10
+ [G,E]2 [^A,EF]2 | [=A,DG]F DB, || (3[EG]G,B, (3[DF]A,[DF] | (3[EG]G,B, (3EB,E | %14
+ (3[Ec]CE (3[^Ec]C[GB] | (3[FA]A,C (3FCF | (3[FA]A,C (3[Ac]C[FAc] | (3[Af]FA- (3AE[Ae] | %18
+ (3dDF- (3FC[Fc] | (3^B^B,F (3GBg ||[I:staff +1] [E,C]4 | [F,G,^B,D]4 | [E,C]4 | [F,G,^B,D]4 | %24
+ [E,C]4 | [A,D]4 | E4 |!f! [F,D]4 |[I:staff -1] E2 F=G | (3ABc (3:2:4def/=g/ | [DBf]4 | d2 z2 |: %32
+[I:staff +1] (3G,B,E (3G,B,E | (3G,B,E (3[E,=G,]^A,C |[I:staff -1] z2 (3GEG | (3BGB [CEc]2 | %36
+ [B,EB]2 [CA]2- | A2 F2 | (3E!<(!CB, (3[DG]FG!<)! | (3E!>(!CB, (3[DG]FG!>)! :| %40
+ (3E!<(!CB, (3[DG]FG | (3[EG]C!<)!B, (3G!>(!FE | (3BAG (3edc!>)! | !arpeggio![Bg]4 |] %44
+V:4
+!p!!<(! [E,G,] [E,A,]/>[E,A,]/ | [E,-C] [E,B,]/>!<)!A,/ | [E,-G,]!>(! F,/>E,/!>)! | D, C,/>B,,/ |: %4
+!<(!!<(! [E,,E,] [E,A,]/>[E,A,]/!<)! | C B,/>!<)!A,/ | G, F,/>E,/ | D, C,/>B,,/- | B,,- B,, | %9
+ [B,,F,] G,/E,/ | C,2 | B,,2 ||"^sempre poco più crescendo" [E,,B,,] B,,/B,,/ | [E,,B,,] E, | %14
+ [A,,A,] [C,G,] | [F,,F,]2 | [F,,F,] [E,,E,] | [D,,D,] [C,,C,] | [B,,,B,,] [A,,,A,,] | %19
+ !fermata![G,,,G,,]2 || [E,,G,,]2 | [D,,G,,]2 | [C,,G,,]2 | [C,,G,,]2 | [C,,G,,]2 | [B,,,B,,]2 | %26
+ [E,,B,,]2 | [B,,,B,,]2 |!<(! =G,2 | [E,,B,,]2 | (3B,,/F,/B,/[I:staff -1] (3D/F/B/!<)! | %31
+[I:staff +1] z2 |:!p! [E,,B,,]2 | [E,,B,,]2 | (3^G,/B,/E/ z | z [^A,,^^F,] | G, (3:2:2(E, ^E,/) | %37
+ F, B,, | [E,,B,,] [B,,A,] | [E,,B,,] [B,,A,] :| [E,,B,,] [B,,A,] | [E,,B,,] E, | G, B, | %43
+[I:staff -1] !arpeggio![EG]2 |] %44
+V:5
+ x2 | x2 | x E, | x2 |: x2 | E,2 | E,2 | x2 | E,,2 | x2 | x2 | x2 || x2 | x2 | x2 | x2 | x2 | x2 | %18
+ x2 | x2 || x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | [E,,B,,]2- | x2 | [B,,,B,,]2 | x2 |: x2 | %33
+ B,, ^A,, | [E,,E,]2 | x2 | B,, A,, | A,, A,/>B,/ | x2 | x2 :| x2 | x2 | x2 | x2 |] %44
+V:6
+ x2 | x2 | x2 | x2 |: x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 || x2 | x2 | x2 | x2 | x2 | x2 | x2 | %19
+ x2 || x2 | x2 | x2 | x2 | x2 | A G/F/ | x2 | x2 | x2 | x2 | x2 | !fermata![fb] x |: x2 | x2 | x2 | %35
+ x2 | x2 | x2 | x2 | x2 :| x2 | x2 | x2 | x2 |] %44
+V:7
+ x2 | x2 | x2 | x2 |: x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 || x2 | x2 | x2 | x2 | x2 | x2 | x2 | %19
+ x2 || x2 | x2 | x2 | x2 | x2 | x2 | G, =G, | x2 | x2 | x2 | x2 | x2 |: x2 | x2 | x2 | x2 | x2 | %37
+ x2 | x2 | x2 :| x2 | x2 | x2 | x2 |] %44
+V:8
+ x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | %37
+ C2 C>D |[I:staff +1] (3G,[I:staff -1] x x x2 |[I:staff +1] (3G,[I:staff -1] x x x2 :| %40
+[I:staff +1] (3G,[I:staff -1] x x x2 |[I:staff +1] (3G,[I:staff -1] x x x2 | x4 | x4 |] %44

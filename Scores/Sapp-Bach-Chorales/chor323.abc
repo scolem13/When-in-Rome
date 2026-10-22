@@ -1,0 +1,34 @@
+X:1
+T:Wie sch&ouml;n leuchtet der Morgenstern
+T:Wie sch&ouml;n leuchtet der Morgenstern
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+L:1/8
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ F | c/B/ A/G/ F c | d d !fermata!c c | d e f e | d d !fermata!c A | d c B A | G2 !fermata!F x :: %7
+ z x3 | c2 !fermata!A2 | c2 !fermata!A2 | A A G G | A A G G | A A G2 | !fermata!F2 f e | d c B A | %15
+ G2 !fermata!F x || %16
+V:2
+ C | C C D/E/ F | F F !fermata!F G | A G F/G/ G | F F !fermata!E F | F E F/G/ F | %6
+ F E !fermata!C x :: z x3 | G2 !fermata!A2 | G2 !fermata!F2 | F F E/D/ C | C C/D/ E E | F F F E | %13
+ !fermata!F2 A G | F E D C | D E !fermata!C x || %16
+V:3
+ A2 | G2 FG AB c2 | c B/A/ BB !fermata!A2 c2 | c2 =B2 cd eG | A =B/c/ B2 !fermata!c2 c2 | %5
+ _BA G2 dc c2 | GABc !fermata!A2 x2 :: z2 x6 | c4 !fermata!c4 | c4 !fermata!c4 | c2 c2 c2 cB | %11
+ AB c2 c2 c2 | c2 d2 d2 cB | !fermata!A4 dc B2 | BA G2 FG Ac | B>A G A/B/ !fermata!A2 x2 || %16
+V:4
+ F,2 | E,2 F,E, D,2 A,,2 | B,,C, D,E, !fermata!F,2 E,2 | F,2 G,2 A,=B, CE, | %4
+ F,D, G,2 !fermata!C,2 F,2 | B,,2 C,2 D,E, F,B,, | C,4 !fermata!F,,2 x2 :: z2 x6 | %8
+ E,4 !fermata!F,4 | E,4 !fermata!F,4 | F,,G,, A,,B,, C,D, E,C, | F,G, A,B, CB,A,G, | %12
+ F,E, D,C, B,,G,, C,2 | !fermata!F,,4 D,,F,, G,,A,, | B,,2 C,2 D,E, F,A,, | %15
+ B,,G,, C,2 !fermata!F,,2 x2 || %16

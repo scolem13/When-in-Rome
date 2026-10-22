@@ -1,0 +1,108 @@
+% The Dying Swan: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=942
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:The Dying Swan
+C:GottschalkLM
+%%score ( 1 2 ) ( 3 4 ) ( 5 6 7 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble 
+L:1/4
+V:2 treble 
+V:3 treble nm="up"
+V:4 treble 
+L:1/4
+V:5 bass nm="down"
+V:6 bass 
+L:1/4
+V:7 bass 
+V:1
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %19
+ z4 | z4 | z4 | z4 |[M:3/4] z2 z2 |[M:3/4] z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %35
+ z3 | z3 | z3 |[M:4/4] z z2 |[M:4/4] z4 | z4 | z4 | z4 | z4 | z4 | z4 | z2 [G,B,EG]2 | %47
+ [F,B,DF]2 [E,G,CE]2 | [_G,A,D]2 z2 | z4 | z2 [G,B,EG]2 | [F,B,DF]2 [E,G,CE]2 | [_G,A,D]2 z2 | %53
+ z3 x |] z x2 | x | %56
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 |[M:3/4] x8 |[M:3/4] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %36
+ x6 | x6 |[M:4/4] x6 |[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | x8 | %46
+ z4 z [g'_a'=a'b']/[c''b'g'e']/ g''/ z3/2 | %47
+ z [g'_a'=a'b']/[c''b'f'd']/ f''/ z2 z/ [_e'=e'f'_g']/[=g'_e'c']/ _e''/ z3/2 | %48
+ z [d'_e'=e'f'_g']/[=g'_g'd'a]/ d''/ z4 z3/2 | x8 | z4 z [g'_a'=a'b']/[c''b'g'e']/ g''/ z3/2 | %51
+ z [g'_a'=a'b']/[c''b'f'd']/ f''/ z2 z/ [_e'=e'f'_g']/[=g'_e'c']/ _e''/ z3/2 | %52
+ z [d'_e'=e'f'_g']/[=g'_g'd'a]/ d''/ z4 z3/2 | x8 |] x6 | x2 | %56
+V:3
+ [bd'g'b']4 [ac'e'a']4 | [d_gad']6 z2 | z8 | D4 E7/2 E/ | z8 | z8 | %6
+ [d'_g'a'd'']4 [d'=g'b'd'']2 [d'=e'g'd'']2 | [d'_g'a'd'']6 z2 | z2 D z3 E z | z2 B, z3 B, z | %10
+ z2 E z3 D z | z2 [dd']2 [ec']2 [_ga]2 | z2 D z3 E z | z2 B, z3 B, z | z2 E z3 D z | %15
+ z2 [d=gbd'=GB]2 [gbd'g'GBd]2 z2 | G4 F4 | E4 D4 | z [Fd] [Fd][=Ge] [Fd][Ec] [DB][CA] | %19
+ [DB] [DB]2 [CA] [B,G]3 z | G4 F4 | E4 D4 | z [F,D] [F,D][=G,E] [F,D][E,C] [D,B,][C,A,] | %23
+[K:G][M:3/4] [D,B,] [D,B,]2 [C,A,] [=bd'g'=b']2 [gbd'g']2 | %24
+[M:3/4] [=e^ga=e']2 [d=g=bd']7/2 [ee']/ | [dd']2 [=bd'g'=b']2 [gbd'g']2 | %26
+ [=e^ga=e']2 [d=g=bd']7/2 [ee']/ | [dd']2 (3:2:6=Bc[^cd] =ec[dd] | (3=ba[g^fg] a/ z7/2 | %29
+ ^f2 (3z [^FA][G=Bd] (3[Ac][^GB][Ac] | [c=e]/[ce][=Bd]/ [=GB]2 (3z [dd'][e=e'] | %31
+ (3[^f^f'][gg'][aa'] [=bd'g'=b']2 [gbd'g']2 | [=egc'=e']2 [dg=bd']7/2 [ee']/ | %33
+ [dd']2 [=b=e'g'=b']2 [gbe'g']2 | [=eg=b=e']2 [^d^fb^d']7/2 [ee']/ | %35
+ [^d^d']2 [=d^fa=d']2 (3:2:2[f^f']2 [aa'] | (3:2:4[c'c'']2 [^d'^d''] [=d'=d'']2 [g'g''] z2 | %37
+ z2 (3:2:2[aa']2 [d'd''] z2 | z4 D z |[M:4/4] z2 _E z3 [g_bg'] z | z2 [g_bg'] z3 _E z | %41
+ z2 D z3 [dd']2 | [=g_ec']2 [_ga]2 z2 D z | z2 _E z3 [g_bg'] z | z2 [g_bg'] z3 _E z | %45
+ z2 D z3 [dg_bd'] z | [g_bd'g'] z3 [G,_B,_E]4 | [=F,_B,D]4 C4 | D4 z [d=fd'] [dfd'][_eg_e'] | %49
+ [d=fd'][c_ec'] [_Bd_b][Aca] [Bdb] [Bdb]2 [Aca] | [G_Bg]4 [G,_B,_E]4 | [=F,_B,D]4 C4 | %52
+ D4 z [d=fd'] [dfd'][_eg_e'] | [d=fd'][c_ec'] [_Bd_b][Aca] [Bdb]3 [Aca] | %54
+[K:G][M:3/4] [bd'g'b']2 [gbd'g']2 [e^gae']2 | [d=gbd']7/2 [ee']/ [dgbd']2 | %56
+ [bd'g'b']2 [gbd'g']2 [e^gae']2 | [d=gbd']7/2 [ee']/ [dgbd']2 | (3:2:9Bc[^cd] ecd ba[gfg] | %59
+ a/ z7/2 f2 | (3E=F^F (3GB[cc] (3[de]dc | c4 B2 | (3:2:7EF^G ABc ^df (3:2:1z/ | e4 =d2 | %64
+ (3[c'^d'][ac'][fa] (3[^df][cd][Ac] (3B[=DFB] z | [bd'g'b']2 [gbd'g']2 [egbe']2 | %66
+ [dfad']7/2 [ee']/ [dd']2 | [Bdgb]2 [GBdg]2 [E^GAe]2 | [DFAd]7/2 [Ee]/ [DFAd]2 | %69
+ (3B4 G[CE] [B,D]/ z3/2 | z4 [Gcg]2 | [Bdgb]4 [gc'g']2 | [bd'g'b']2 z4 |] %73
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z =G z _G | z =G z [EG] | z G z _G | z =g2 z | z G z _G | %13
+ z =G z [EG] | z G z _G | x4 | z [Beg] z [Bdf] | z [Gce] z [_GAd] | x4 | x4 | z [Beg] z [Bdf] | %21
+ z [Gce] z [_GAd] | x4 |[K:G][M:3/4] x4 |[M:3/4] x3 | x3 | x3 | z2 (3:2:2d/ z | z g2 | x3 | x3 | %31
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | z2 G |[M:4/4] z _G z [=G_Bd] | z [_B_e] z G | z _G z =g- | %42
+ z3 =G | z _G z [=G_Bd] | z [_B_e] z G | z _G z [=G_B] | [G_Bd] z G [_b_e'g'_b'GB_eg] | %47
+ =F [_bd'=f'_b'F_Bd=f] _E [gc'_e'g'EGc_e] | z [_GAd_gad'_g'a'] z2 | x4 | z2 G [_b_e'g'_b'G_B_eg] | %51
+ =F [_bd'=f'_b'F_Bd=f] _E [gc'_e'g'EGc_e] | z [_GAd_gad'_g'a'] z2 | x4 |[K:G][M:3/4] x3 | x3 | x3 | %57
+ x3 | z (3:2:2d/ z z | g2 z | x3 | x3 | z2 z3/4 e/4 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %72
+ x3 |] %73
+V:5
+ [GBdg]4 [CEAc]4 | [D_GA]6 z2 | [=G,=G,,]2 [A,A,,][B,B,,] [CC,][CC,DD,]/[CC,]/ [B,B,,][A,A,,] | %3
+ D,4 E,7/2 E,/ | [_G,_G,,]4 [=G,=G,,]7/2 [G,G,,]/ | [D,D,,]8 | [d_ga]4 [d=gb]2 [d=eg]2 | %7
+ [d_ga]6 z2 | [=G,=G,,]2 A,B, C[CD]/C/ B,A, | D4 G,4 | C,,2 B,C C[CD]/C/ B,A, | B, z B2 A2 [Dc]2 | %12
+ [G,G,,]2 A,B, C[CD]/C/ B,A, | D4 G,4 | C,,2 B,C C[CD]/C/ B,A, | [G,G,,]2 z6 | %16
+ E,,2 [G,B,E]2 B,,,2 [F,B,D]2 | C,,2 [E,G,C]2 D,,2 [D,_G,A,]2 | =G,,2 G,2 C,,2 [E,G,]2 | %19
+ D,,2 D,2 G,,,2 [B,DG]2 | E,,2 [G,B,E]2 B,,,2 [F,B,D]2 | C,,2 [E,G,C]2 D,,2 [D,_G,A,]2 | %22
+ =G,,,2 G,,2 C,,,2 C,,2 |[K:G][M:3/4] D,,,2 D,,2 (3G,,=B,D (3GDB, | %24
+[M:3/4] (3G^C^A, (3G,,=B,D (3GDB, | (3GD=B, (3G,,B,D (3GDB, | (3G^C^A, (3G,,=B,D (3GDB, | %27
+ (3GD=B, (3G,,B,D (3GDB, | (3GD=B, (3[A,,,A,,]CD (3^FDC | (3^FDC (3D,,CD (3FDC | ^F2 (3G,,=B,D G2 | %31
+ z2 (3[G,,,G,,]=B,D (3GDB, | (3G=EC (3G,,=B,D (3GDB, | (3GD=B, (3=E,,B,=E (3GEB, | %34
+ (3G=E=B, (3=B,,^F,B, (3^DB,F, | (3^D=B,^F, (3[=D,,=D,]C=D (3^FDC | (3^FDC (3[D,,D,]^A,D (3G^Ad | %37
+ g2 (3D,,=A,C (3D^FA |[K:Gmin][M:4/4] d2 [G,G,,]2 A,B, |[M:4/4] C[CD]/C/ B,A, D4 | G,4 C,,2 B,C | %41
+ C[CD]/C/ B,A, B, z B2 | A2 [Dc]2 [G,G,,]2 A,B, | C[CD]/C/ B,A, D4 | G,4 C,,2 B,C | %45
+ C[CD]/C/ B,A, [G,G,,]2 z2 | z4 [E,,E,]2 z2 | [B,,,B,,]2 z2 [E,G,]4 | [_G,A,]4 =G,,2 [=B,FG]2 | %49
+ C,2 [CEG]2 D,2 [_G,CD]2 | =G,,2 [G,B,D]2 [E,,E,]2 z2 | [B,,,B,,]2 z2 [E,G,]4 | %52
+ [_G,A,]4 =G,,2 [=B,FG]2 | C,,2 [CEG]2 D,,D D2 |[K:G][M:3/4] (3G,,B,D (3GDB, (3G^C^A, | %55
+ (3G,,B,D (3GDB, (3GDB, | (3G,,B,D (3GDB, (3G^C^A, | (3G,,B,D (3GDB, (3GDB, | %58
+ (3G,,B,D (3GDB, (3GDB, | (3G,,A,B, (3^DB,A, (3DB,A, | (3C,,G,C (3ECG, (3ECG, | %61
+ (3E,,D=F (3^G,DE (3E,DE | (3A,,A,C (3ECA, (3AEC | (3D,G,B, (3DB,G, (3GDB, | (3D,,A,C ^D2 =D,,D, | %65
+ B,2 (3BGD B2 | (3G,DF (3cFD c2 | (3G,,D,G, (3B,G,D, ^C,2 | (3G,,D,F, (3=CF,D, C2 | %69
+ (3G,,D,G, (3:2:2B, z2 (3z [G,B,][E,G,] | [G,B,G,,D,]4 [G,E]2 | [G,DG]4 [G^d]2 | %72
+ [G=dg]>G,, G,,,4 |] %73
+V:6
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 G,, z | G,, z E,, z | z/ A,/ z D,, z | G,, z3 | %12
+ z2 G,, z | G,, z E,, z | z/ A,/ z D,, z | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:G][M:3/4] x4 | %24
+[M:3/4] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:Gmin][M:4/4] x3 | %39
+[M:4/4] G,, z G,, z | E,, z3/2 A,/ z | D,, z G,, z | x4 | G,, z G,, z | E,, z3/2 A,/ z | D,, z3 | %46
+ x4 | z2 [C,,C,] z | [D,,D,] z3 | x4 | x4 | z2 [C,,C,] z | [D,,D,] z3 | x4 |[K:G][M:3/4] x3 | x3 | %56
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z2 z3/4 [CA]/4 | (3:2:2G G/ z2 | x3 | x3 | x3 | x3 | x3 | %71
+ x3 | x3 |] %73
+V:7
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 |[K:G][M:3/4] x8 |[M:3/4] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %35
+ x6 | x6 | x6 |[K:Gmin][M:4/4] x6 |[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %50
+ x8 | x8 | x8 | x8 |[K:G][M:3/4] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %65
+ (3G,D z z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %73

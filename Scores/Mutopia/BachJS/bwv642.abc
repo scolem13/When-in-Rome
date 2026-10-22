@@ -1,0 +1,66 @@
+% Wer nur den lieben Gott lässt walten: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1183
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Wer nur den lieben Gott lässt walten
+C:Johann Sebastian Bach
+%%score 1 ( 2 3 ) ( 4 5 ) 6
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Amin
+V:1 bass nm="Trombone" snm="Trb"
+V:2 treble nm="right" snm="P Org"
+L:1/4
+V:3 treble 
+L:1/16
+V:4 bass nm="left" snm="P Org"
+L:1/16
+V:5 bass 
+V:6 bass nm="Pipe Organ" snm="P Org"
+V:1
+ x2 | x/ A,,,/C,,/A,,,/ D,,/B,,,/E,,/[D,,E,,]/ A,,,A,,- A,,G,,- | %2
+ G,,F,,/[E,,F,,]/ D,,/F,,/B,,,/[D,,B,,,]/ E,,2 x/ A,,,/C,,/A,,,/ | E,, E,,,2 E,,2 E,,, D,,,D,, | %4
+ C,,A,,, F,,,F,, D,,B,,, E,,,E,, | A,,,6 x2 | %6
+ x/ A,,,/C,,/A,,,/ D,,/B,,,/E,,/[D,,E,,]/ A,,,A,,- A,,G,,- | %7
+ G,,F,,/[E,,F,,]/ D,,/F,,/B,,,/[D,,B,,,]/ E,,2 x/ A,,,/C,,/A,,,/ | E,, E,,,2 E,,2 E,,, D,,,D,, | %9
+ C,,A,,, F,,,F,, D,,B,,, E,,,E,, | A,,,6 x E,, | A,,E,, F,,G,, C,,G,,, A,,,E,,, | %12
+ F,,,D,,, G,,,G,, A,,E,, F,,/A,,,/B,,,/[A,,,B,,,]/ | C,,,2 x C,,2 B,,, A,,,A,,- | %14
+ A,,G,, F,,/F,,/E,,/[F,,D,,]/ E,,D,,, E,,,2 | A,,,6[Q:1/4=44][Q:1/4=36][Q:1/4=16] x2 |] %16
+V:2
+ x3 E | A B c B | A B/A/ ^G E- | E =G G F | E A A [^GE]- | %5
+ [^GE]/4[^CD]/4E/4[FE]/4 D/4[B,C]/4D/4[ED]/4 C/4 z3/4 E | A B =c B | A B/A/ ^G E- | E =G G F | %9
+ E A A [^GE]- | [^GE]/4[^CD]/4E/4[FE]/4 D/4[B,C]/4D/4[ED]/4 C/=C/ B | c d e e | %12
+ d3/2 [dG]/4F/4 c- A/F/ | E e d c | B A/[BF]/ c B |[Q:1/4=44][Q:1/4=36][Q:1/4=16] A3 x |] %16
+V:3
+ x4 x12 | C2E2 F2 E4 AG F[EF]G[FG] | E[DE] F7 [B,C]D[CD] z2 C2- | C z8 z4 z D[CD] | %4
+ z2 C3 [CD]E[DE] F[B,C]D[CD] z4 | A12 z4 | C2E2 F2 E4 A=G F[EF]G[FG] | E[DE] F7 [B,C]D[CD] z2 C2- | %8
+ C z8 z4 z D[CD] | z2 C3 [CD]E[DE] F[B,C]D[CD] z4 | A12 B,[E^F]^G[FG] | A2=G3 A=FG E[GA]B[AB] c4- | %12
+ c4 BA z2 E[EF]G[FG] c4- | c4 z [EF]G[FG] A[GA]B[AB] z [CD]E[DE] | F[EF]G[FG] z4 E2A2- A2^G2 | %15
+ z [^CD]E[DE] F[B,C]D[ED] C4 x4 |] %16
+V:4
+ x8 x4 x [^G,E,A,^F,][B,G,][A,F,B,G,] | A,6 ^G,2 z [A,B,]C[B,C] D[CD]E[DE] | %2
+ ^C[B,C] D7 [^G,A,]B,[A,B,] =C2A,2- | %3
+ A,[^F,A,^G,B,][A,C][B,DA,C] =G,[E,=F,]G,[F,A,G,B,] [A,C][F,A,G,B,][A,C][G,B,A,C] [B,D][G,B,A,C]B,[A,B,] | %4
+ C[C,D,]E,[D,E,] F,[A,,B,,]C,[B,,C,] D,4- D,[B,,C,]D,[E,D,] | %5
+ ^C,[E,F,]G,[A,G,] F,[D,E,]F,[G,F,] E,4 z [E,^G,^F,A,][G,B,][F,A,G,B,] | %6
+ A,6 ^G,2 z [A,B,]C[B,C] D[CD]E[DE] | ^C[B,C] D7 [^G,A,]B,[A,B,] =C2A,2- | %8
+ A,[^F,A,^G,B,][A,C][B,DA,C] =G,[E,=F,]G,[F,A,G,B,] [A,C][F,A,G,B,][A,C][G,B,A,C] [B,D][G,B,A,C]B,[A,B,] | %9
+ C[C,D,]E,[D,E,] F,[A,,B,,]C,[B,,C,] D,4- D,[B,,C,]D,[E,D,] | %10
+ ^C,[E,F,]G,[A,G,] F,[D,E,]F,[G,F,] E,[^F,^G,]A,[B,A,] G,2E,2- | %11
+ E,[E,=F,]=G,[F,G,] A,[G,A,]B,[A,B,] =C4 z [EF]G[FG] | A[DE]F[EF] G[G,A,]B,[A,B,] C4- C2A,2 | %13
+ G,[G,A,]B,[A,B,] C[C,D,]E,[D,E,] ^F,[E,F,]^G,[F,G,] A,[A,,B,,]C,[B,,C,] | %14
+ D,[C,D,]E,[D,E,] =F,2A,2 ^G,[A,B,]C[B,C] D[CD]E[DE] | %15
+[Q:1/4=44][Q:1/4=36][Q:1/4=16] ^C[A,B,]C[B,C] D[D,E,]F,[=G,F,] E,4 x4 |] %16
+V:5
+ x2 x6 | z8 | z8 | z2 B,3/2 z4 z/ | z8 | z4 z/ [A,B,]/=C/[B,A,]/ z2 | z8 | z8 | z2 B,3/2 z4 z/ | %9
+ z8 | z8 | z8 | z8 | z8 | z8 | z6 x2 |] %16
+V:6
+ x2 | x/ A,,/C,/A,,/ D,/B,,/E,/[D,E,]/ A,,A,- A,G,- | %2
+ G,F,/[E,F,]/ D,/F,/B,,/[D,B,,]/ E,2 x/ A,,/C,/A,,/ | E, E,,2 E,2 E,, D,,D, | %4
+ C,A,, F,,F, D,B,, E,,E, | A,,6 x2 | x/ A,,/C,/A,,/ D,/B,,/E,/[D,E,]/ A,,A,- A,G,- | %7
+ G,F,/[E,F,]/ D,/F,/B,,/[D,B,,]/ E,2 x/ A,,/C,/A,,/ | E, E,,2 E,2 E,, D,,D, | %9
+ C,A,, F,,F, D,B,, E,,E, | A,,6 x E, | A,E, F,G, C,G,, A,,E,, | %12
+ F,,D,, G,,G, A,E, F,/A,,/B,,/[A,,B,,]/ | C,,2 x C,2 B,, A,,A,- | %14
+ A,G, F,/F,/E,/[F,D,]/ E,D,, E,,2 | A,,6[Q:1/4=44][Q:1/4=36][Q:1/4=16] x2 |] %16

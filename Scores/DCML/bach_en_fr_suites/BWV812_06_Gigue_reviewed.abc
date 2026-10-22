@@ -1,0 +1,55 @@
+X:1
+T:French Suite No. 1
+T:Gigue
+C:Johann Sebastian Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/16
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+ x16 | z3 d a2>e2 f2-f/e/d/c/ =B2>d2 | ^c3d/e/ f2>g2 e8- |$ e2>A2 d2>A2 B2-B/A/G/F/ E2>G2 | %4
+ F3E/D/ B4- B3A/G/ A2>B2 | G2>G2 c4- c3B/A/ B2>c2 |$ A2>A2 d4- d3c/=B/ c2>d2 | e8- e2>A2 d2>d2 |$ %8
+ d2-d/c/=B/c/ c2>B2 B8- | B2>e2 a2>e2 f2-f/e/d/c/ =B2>d2 |$ ^G3^F/E/ c2>c2 c2-c/d/c/=B/ B2>A2 | %11
+ A16 ::$ x16 | x16 |$ z3 d G2>d2 ^c2-c/d/e/f/ g2>e2 | f8 e8- |$ e2>e2 A2>e2 f4- f2 z e | %17
+ d2>d2 G2>d2 e4- e2 z d |$ c2-c/c/d/e/ f2-f/e/f/d/ =b8- | b3a/^g/ a4- a3=g/f/ g4- |$ %20
+ g2>a2 f4- f2-f/f/e/f/ g/f/ef/e/d | ^c8 z3 A d2>A2 |$ B2-B/A/G/F/ E2>G2 F2>d2 G2>d2 | %23
+ ^c2-c/d/e/f/ g2>e2 ^f2-f/g/a/b/ c'2>a2 |$ b4- b2>a2 g4 f4- | fed^c defg/a/ b2-b/a/g/f/ efge |$ %26
+ ^c3=B/A/ f2>f2 f2-f/g/f/e/ e2>d2 | d16 :| %28
+V:2
+ z3 A d2>A2 B2-B/A/G/F/ E2>G2 | F3E/D/ T^C4 D4 G4- | G2>^C2 D2>^c2 d4 c3d/e/ |$ A4 z3 D D4 ^C4 | %4
+ D2>D2 G2>D2 E4 F4- | F2>E2 A2>E2 ^F4 G4- |$ G2>^F2 =B2>A2 ^G4 A4- | A2>A2 ^G3A/=B/ E2 z2 z4 |$ %8
+ z3 E A2>E2 F2-F/E/D/C/ =B,2>D2 | C2>=B,2 C4- C2>B,2 D2>F2 |$ E4 A4 A4 ^G4 | %11
+ x5/2 G/F/E/ F2>D2- D2-D/D/^C/=B,/ C4 ::$ z3 E A,2>D2 ^C2-C/D/E/F/ G2>E2 | %13
+ F4- F2-F/E/F/G/ A4- A2-A/^F/G/A/ |$ D4 E4- E2-E/F/E/D/ ^C3=B,/C/ | %15
+ D2>A2 D2>A2 ^G2-G/A/=B/c/ d2>B2 |$ c8- c3d/e/ d2>c2 | =B8- B3c/d/ c2>B2 |$ A4 z4 z3 a ^g3a/=b/ | %19
+ e4- e2-e/d/e/f/ =B4- B2-B/B/^c/d/ |$ e4- e2-e/d/^c/d/ G8- | G2>E2 A2>E2 F2-F/E/D/C/ =B,2>D2 |$ %22
+ ^C8 D8 | E4 z4 z8 |$ z3 d g2>d2 e2-e/d/^c/=B/ A2>=c2 | B2>G2 D2>F2 E2-E/F/G/A/ B2>G2 |$ %26
+ A4 d4 d4 ^c4 | z2 z/ c/B/A/ B2>G2- G2-G/G/^F/E/ F4 :| %28
+V:3
+"m""""m" z16 |"m""""m""" z16 |"m" z3"" A,"m" D2>""A,2"m" B,2-B,/A,/G,/F,/"m" E,2>G,2 |$ %3
+"m" F,4"m" z3"" ^F,"m" G,2>"m"E,2"" A,2>A,,2 |"m" D,2>C,2"m" B,,3A,,/G,,/"" C,4"" z4 | %5
+"" z3"" C,/B,,/"" A,,3B,,/C,/"" D,,4"" z4 |$"" z3"" D,/E,/"m" F,3E,/D,/"m" E,4"" z4 | %7
+ z3"m" =B,"" E2>""B,2"m" C2-C/B,/A,/G,/"" ^F,2>A,2 |$"" ^G,4"m" A,4-"m" A,4"m" G,3A,/=B,/ | %9
+"m" E,4-"m" E,2>"m"C,2"m""m" D,8- |$"" D,D,C,=B,,"m" A,,G,,F,,E,,"m" D,,2>D,2"" E,2>E,,2 | %11
+"m" z3 ^C,"m" D,2>F,2"""" E,8 ::$"""m" z16 | %13
+"m" z3 A,"m" D,2>"m"G,2"m" ^F,2-F,/G,/A,/B,/"m" C2>"m"A,2 |$"m" B,4-"m" B,2-B,/B,/A,/G,/"""" A,8 | %15
+"m" D,3D/C/"m" =B,3C/D/"" D,2-D,/F,/E,/D,/"" T^G,3^F,/E,/ |$ %16
+"m" A,3A,,/=B,,/"m" C,3B,,/A,,/"m" D,4"m" z4 | %17
+"" z3 G,,/A,,/"" =B,,3A,,/G,,/"" C,4-"" C,2-C,/C,/D,/E,/ |$ %18
+"" F,2>A,2"m" D,2>A,2"m" ^G,2-G,/A,/=B,/C/"m" D2>"m"B,2 | %19
+"m" C2>=B,2"m" C2>"m"D2"m" E2>F2"m" E2>D2 |$"m" ^C2-C/A,/=B,/C/"m" D2-"m"D/D,/E,/F,/"m" TB,,8 | %21
+"" A,,4"" z4"m""m" z8 |$"m" z3"m" E,"" A,2>"m"E,2"m" F,2-F,/E,/D,/C,/"m" B,,2>D,2 | %23
+"m" G,,2-G,,/F,/E,/D,/"m" T^C,3=B,,/C,/"" D,2-D,/B,/A,/G,/"m" ^F,3E,/F,/ |$ %24
+"m" G,2-G,/A,/G,/F,/"m" E,2-E,/F,/E,/D,/"m" ^C,2>""A,,2"m" D,2>"m"D,,2 | %25
+"m" G,,2"m" z2"m" z4"m" G,2 z2 z4 |$"" z G,F,E,"m" D,C,B,,A,,"m" G,,2>G,2"" A,2>A,,2 | %27
+"m" z3 ^F,"m" G,2>B,2"""" A,8 :| %28
+V:4
+ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | A,,4 ::$ x4 | x4 |$ x4 | x4 |$ x4 | %17
+ x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | D,4 :| %28

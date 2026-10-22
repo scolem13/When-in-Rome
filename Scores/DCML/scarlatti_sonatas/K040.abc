@@ -1,0 +1,27 @@
+X:1
+T:Sonata
+C:Domenico Scarlatti
+%%score { 1 | ( 2 3 ) }
+L:1/4
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Harpsichord" snm="Hch."
+L:1/8
+V:2 treble 
+V:3 treble 
+V:1
+"^MENUETTO\nModerato" cg c2 =B2 | ca c2 =B2 | cg c2 =B2 | ca =Bg Af | GfedeG |$ Ffed ec | %6
+ df c2 T=B2 |({=B/} c6) :: ga =e2 f2 | Bc G2 A2 | ga f2 T=e2 |({=e/4} f6) |$ fg d2 e2 | AB F2 G2 | %14
+ fg({e/} Td4) | ef g2 G2 | Fd Fd Ec | Dd c=B cG |$ Fd Fd Ec | Dd c=B cG | Ff ed eG | Ff ed ec | %22
+ df c2 T=B2 |({=B/} c6) :| %24
+V:2
+"m" [CE]2"m" [DF] |"m" [EG]2"m" [DF] |"m" [CE]2"m" [DF] |"m" [EG]"" [DF]"" [CE] | %4
+"" [=B,D]3/2 [B,D]/"m" [CE] |$"m" [=B,D]3/2 [B,D]/"m" [CE] |[K:bass]"m" [F,A,]"""" G,2 |"m" C,3 :: %8
+"" C2"m" A, |"""" G,2"m" F, |"m" B,"""" C2 |"m" F, F,,2 |$"" [B,D]2"m" C |"m""" F,2"" E, | %14
+"m" A,"" B,2 |"" z E z |"m""m" D,2"m" C, |"" z G,"m" E, |$"m""m" D,2"m" C, |"" G,,2"m" E, | %20
+"m" z z/ =B,/"m" C- |"m" C3/2"m" =B,/"m" C |"m" A,"""" G,2 |"m" C,3 :| %24
+V:3
+ x3 | x3 | x3 | x3 | x3 |$ x3 |[K:bass] x z G,, | x3 :: x3 | =E, C, F, | x z C, | x3 |$ x3 | %13
+ z D, x | x z B,, | E,2 E, | z =B,, C, | G,,2 E, |$ z =B,, x | x3 | D,2 C, | D,2 C, | F, z G,, | %23
+ x3 :| %24

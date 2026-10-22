@@ -1,0 +1,70 @@
+X:1
+T:6 Gesänge, Op.86
+T:Morgenlied
+C:Felix Mendelssohn (1809-1847)
+Z:Johann Heinrich Voss (1751-1826)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 6 ) | ( 3 4 7 ) }
+L:1/4
+Q:1/4=132
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Soprano"
+V:2 treble nm="Piano"
+L:1/8
+V:5 treble 
+V:6 treble 
+V:3 bass 
+L:1/8
+V:4 bass 
+V:7 bass 
+V:1
+"^Allegro vivace" z4 |: z2 z A | d F G ^G | ^G2 A ^A | B B e3/2 d/ | (d2 c) c | d d c B | %7
+w: |1.  Er-|wacht in neu- er|Stär- ke, be-|grüss’ ich, Gott, dein|Licht, _ und|wend’ auf dei- ne|
+w: |2.  Von|Ju- bel- lie- dern|schal- len schon|Feld, Ge- büsch und|Luft, _ und|aus des Wal- des|
+w: |3.  Schon|hö- her schwebt die|Son- ne in|ih- rem Sie- ges-|lauf, _ was|lebt, das at- met|
+ A2 ^G (f/e/) | e3/2 A/ c B | A2 z A | d!<(! c B A!<)! |!f! g f e (d/c/) | d3/2 d/ (e/d/) (c/B/) | %13
+w: Wer- ke mein *|fro- hes An- ge-|sicht. Wie|herr- lich strahlt die|Sonn’ em- por und *|weckt des Le- * bens _|
+w: Hal- len strömt _|frisch der Mor- gen-|duft. Das|Vög- lein schüt- telt|ab den Tau, fliegt *|auf und singt _ im *|
+w: Won- ne, und *|was da schlief, wacht|auf. O|Gott, in dei- nem|Son- nen- schein, wie *|herr- lich ist’s * le- *|
+ (A f2) e | d2 z2 :|3 d3 d || g f e d | c B A G | F (G/A/) B (c/d/) | (A f2) e | d2 z2 | z4 | %22
+w: lau- * ten|Chor!|sein, o|Gott, in dei- nem|Son- nen- schein, wie|herr- lich * ist’s le- *|ben- * dig|sein!||
+w: hel- * len|Blau.||||||||
+w: ben- * dig|||||||||
+ !fermata!z4 |] %23
+w: |
+w: |
+w: |
+V:2
+!f! z ([FA]2 [DF]) z ([Fd]2 A) |: z (Adf) (fecA) |!p! z [Fd]2 [DF]2 [CDEG]2 [B,D^E^G] | %3
+ z (B,[D^E^G])[DEG] z [DFA]2 [C=E^A] | z (B,[DB])[DB] z (E[Be])[Be] | %5
+ z (F[Bd])[Bd] z [F^Ac]2 [EAc] | z [DBd]2 [FBd]2 [E^Ac]2 [DFB] | %7
+!<(! z (B,!<)!!>(![D=A])[DA]!>)! z [B,D^G]2 [B,G] | z (A,[CEA])[CEA] z [CEAc]2 [DE^GB] | %9
+ z ((C[CEA]))[CEA] z ((A,[A,CEA]))[A,CEA] | [A,A]"_cresc."[A,A][A,A][A,A] [A,A][A,A][A,A][A,A] | %11
+ DDDD DDDD | z DDD DDDD |[I:staff +1] A,2[I:staff -1] [DF]4 [CE]2 | D ([FA]2 [DF]) z ([Fd]2 A) :| %15
+ DDDD DDDD | DDDD DDDD | x8 |[I:staff +1] A,2[I:staff -1] z2[I:staff +1] D4 | %19
+ A,2[I:staff -1] [DF]4 [CE]2 | z ([FA]2 [DF]) z ([Fd]2 A) | z ([FA]df) [FAf]3 [FAf] | %22
+ ([F-A-f]4 [FAd]2) !fermata!z2 |] %23
+V:3
+ z2 A,4 A,2- |: A,2 z2 [A,,A,]4 | D,,2 D,2 D,2 D,2 | [D,,D,]4 D,2 F,2 | G,4 G,4 | F,4 F,2 F,,2 | %6
+ B,,2 (B,,2 C,2 D,2) | (F,4 E,2) D,2 | C,2 A,,2 E,,2 E,2 | A,,4 =G,4 | F,2 E,2 D,2 C,2 | %11
+ D,D,D,D, D,D,D,D, | x D,D,D, D,D,D,D, | F,2 [F,A,]4 [G,A,]2 | [F,A,]2 z2 D,2 z2 :| %15
+ D,D,D,D, D,D,D,D, | D,D,D,D, D,D,D,D, | %17
+ [A,,A,][A,,A,][A,,A,][A,,A,] [A,,A,][A,,A,][A,,A,][A,,A,] | [A,,D,F,]2 z2 [=F,B,]4 | %19
+ ^F,2 [F,A,]4 [G,A,]2 | z2 A,4 A,2- | A,2 z2 [D,A,D]3 [D,A,D] | [D,A,D]6 !fermata!z2 |] %23
+V:4
+ [D,,D,] z D, z |: D, x3 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %11
+ [B,,,B,,] [A,,,A,,] [^G,,,^G,,] [=G,,,=G,,] | [F,,,F,,]2 [G,,,G,,]2 | %13
+ [A,,,A,,] [A,,,A,,]2 [A,,,A,,] | [D,,D,] x3 :| [B,,,B,,]2 [=C,,=C,]2 | %16
+ [B,,,B,,] [A,,,A,,] [G,,,G,,] [F,,,F,,] | E,, D,, C,, A,,, | D,, x [^G,,,^G,,]2 | %19
+ [A,,,A,,] [A,,,A,,]2 [A,,,A,,] | [D,,D,] z D, z | D, x3 | x4 |] %23
+V:5
+ x4 |: z F G2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | D G F E | D C B, _B, | x4 | x4 | x4 :| x4 | %16
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %23
+V:6
+ x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | A,2 [G,=B,]2 | x4 | x4 :| x4 | x4 | %17
+ x4 | x4 | x4 | x4 | x4 | x4 |] %23
+V:7
+ x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 :| [F,B,]2 [F,A,]2 | %16
+ G, =C B, A, | G, F, E, C, | x4 | x4 | x4 | x4 | x4 |] %23

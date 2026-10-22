@@ -1,0 +1,38 @@
+% When the Swallows Homeward Fly (Agathe): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=439
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:When the Swallows Homeward Fly (Agathe)
+C:Franz Abt (1819-1885)
+%%score 1 2 ( 3 4 )
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:G
+V:1 bass nm="lower"
+V:2 treble nm="\new:mel"
+V:3 treble nm="upper"
+V:4 treble 
+L:1/4
+V:1
+ x2 | G,,D, G,D, G,D, | G,,D, G,D, G,D, | D,,D, G,D, F,D, | G,,D, G,D, G,[A,F,] | %5
+ [G,E,]B,, [G,E,]B,, [A,^D,]B,, | E,,E, [G,B,]E, [G,B,]E, | A,,D, [F,A,]D, [^CG,]A,, | %8
+ D,,[D,F,A,] [D,F,A,][D,F,A,] [D,F,A,][D,F,A,] | [D,F,A,][D,F,A,] [D,F,A,][D,F,A,] D,E, | %10
+ F,[D,F,A,] [D,F,A,][D,F,A,] [D,F,A,][D,F,A,] | [D,F,A,][D,F,A,] [D,F,A,][D,=F,] [D,^F,][D,G,] | %12
+ [D,A,][D,F,A,] [D,F,A,][D,F,A,] [D,F,A,][D,F,A,] | G,,D, G,D, F,D, | D,,D, G,D, G,D, | %15
+ D,,D, [F,A,]D, [F,A,]D, | G,,D, G,D, G,D, | C,[E,A,] [E,A,][E,A,] [E,A,][E,A,] | %18
+ D,[G,B,] [G,B,][G,B,] [G,B,][G,B,] | D,D ^CA, =CA, | G,,D, G,D, B,,G,, | C,,E, [A,C]E, [A,C]E, | %22
+ D,,D, G,D, G,D, | D,,D, F,D, F,D, | G,2 G,,2 x2 |] %25
+V:2
+ x4 B,>C | D3 G B>A | G4 AE | D2 D/G/F/E/ D>C | B,2 x2 B,^D | E3 E F>B, | G4 G/B/G/E/ | %7
+ D>A, F2- FE | D2 x2 D>E | F3 D FG | A4 F>G | A3 ^G AB | c4- c2 | B4 (3ABA | G4 D2 | D2 EF GA | %16
+ B4 x2 | E2 B2- BA | D4 G2 | F2 G2 A2 | B4- B2 | d3 c EA | A4 G2 | F2 B2- BA | G4 x2 |] %25
+V:3
+ x4 B,>C | [DB,]3 [GB,] [BD]>[AC] | [GB,]4 [FC]E | [DB,]2 D/G/F/E/ D>C | B,2 z2 B,^D | E3 E F>B, | %6
+ G4 G/B/G/E/ | D>A, F2- FE | D2 z2 D>E | [FD]3 D FG | [AD]4 F>G | [AF]3 ^G AB | [cFD]4- [cFD]2 | %13
+ [BGD]4 (3[AC][BD][AC] | [GB,]4 [DB,]2 | D2 EF GA | [DGB]4 z2 | E2 B2- BA | D4 G2 | %19
+ F2 [GE]2 [AF]2 | [BG]4- [BG]2 | [dAE]3 c EA | A4 G2 | [CF]2 [DB]2- [DB][CA] | [B,G]4 x2 |] %25
+V:4
+ x x2 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | C2 z | z3 | C2- C | %18
+ z3 | z3 | z3 | z3 | B,2- B, | z3 | z2 x |] %25

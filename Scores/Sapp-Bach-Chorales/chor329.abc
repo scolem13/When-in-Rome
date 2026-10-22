@@ -1,0 +1,31 @@
+X:1
+T:Sei Lob und Ehr dem h&ouml;chsten Gut
+T:Sei Lob und Ehr dem h&ouml;chsten Gut
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ d | d d d/e/ =f | e d !fermata!c d/c/ | B/A/ G/A/ B ^c | d e !fermata!d x :: d x3 | g f e f | %7
+ g/f/ e !fermata!d d | g d e B/c/ | d c !fermata!B B | A/B/ c B A | E/4F/4 G F/ !fermata!G x || %12
+V:2
+ B2 | AG F2 G2 CD | E=F G2 !fermata!C2 A2 | D2 E^F GF E2 | F2 G2 !fermata!F2 x2 :: BA x6 | %6
+ GA AB ^cB A2 | Bd ^c2 !fermata!A2 GA | B=c BA G2 G2 | FE EF !fermata!^G2 =G2 | AD GA C G2 F | %11
+ GB, ED !fermata!D2 x2 || %12
+V:3
+ g2 | d2 A2 GB AG | c2 d e/=f/ !fermata!e2 d2 | dc B2 e2 A2 | A d2 ^c !fermata!d2 x2 :: d2 x6 | %6
+ de fg a2 d2 | dB e f/g/ !fermata!f2 BA | G2 gf e2 e2 | dB A2 !fermata!B2 BG | d2 cA B2 cA | %11
+ e2 A2 !fermata!B2 x2 || %12
+V:4
+ G,2 | F,E, D,C, B,,G,, A,,B,, | C,2 G,2 !fermata!A,2 F,2 | G,3 F, E,F, G,A, | %4
+ F,B,G,A, !fermata!D,2 x2 :: G,A, x6 | B,^C D2 A,B, =C2 | B,G, A,2 !fermata!D,2 G,F, | %8
+ E,2 B,,2 C,D, E,2 | F,^G, A,2 !fermata!E,2 =G,2 | F,G, E,F, G,E, C,D, | %11
+ E,D, C,D, !fermata!G,,2 x2 || %12

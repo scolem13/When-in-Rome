@@ -1,0 +1,94 @@
+X:1
+T:8 New Nursery Rhymes, Op.23
+T:A Tragedy
+C:Walford Davies
+Z:Walford Davies
+Z:OpenScore (CC0)
+%%score [ 1 2 3 4 ] { ( 5 8 ) | ( 6 7 ) }
+L:1/8
+Q:1/2=84
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="Soprano"
+V:2 treble nm="Alto"
+L:1/4
+V:3 treble-8 nm="Tenor"
+V:4 bass nm="Bass"
+V:5 treble nm="Piano\n(For practice\nonly)"
+V:8 treble 
+L:1/4
+V:6 bass 
+V:7 bass 
+V:1
+"^Allegro"!f! A4 | A2 c2 f4 | A A G G A4 |!mf!!>(! !>!c8!>)! |!p! A8- | A8 ||!p! F2 F F A2 A A | %7
+w: There|were two birds|sit- ting on a stone,|two|birds|_|Fa la la, fa la la,|
+ ^G2 G G =G A G A |!<(! F8!<)! ||!f! A2 c c !wedge!f2 z2 |!p! A2 G G A4 |!p!!>(! !>!c8!>)! | %12
+w: fa la la, fa la la lal|dee,|One flew a- way,|then there was one,|one|
+!pp! A8- | A8 ||!ppp! F2 F F A2 A A | ^G2 G G =G A G A | F8 || %17
+w: bird,|_|Fa la la, fa la la,|fa la la, fa la la lal|dee,|
+[M:3/2]!f!{/A} A!<(! A c2!<)!!>(! f4!>)! c2 !fermata!z2 ||[M:2/2]!pp! A2 G G A4 |!ppp! c8 | A8- | %21
+w: Th’o- ther flew af- ter,|then there was none,|no|bird,|
+"^col basso" A16 x8 ||!mp! F2 F F A2 A A | ^G2 G G =G A G A |!pp! F2 F F A2 A A | %25
+w: _|Fa la la, fa la la,|fa la la, fa la la lal|fa la la, fa la la,|
+ ^G4 =G A !tenuto!G !tenuto!A |!<(! !fermata!F8!<)! |] %27
+w: la, la la la lal|dee.|
+V:2
+!f! F2 | F F A2 | F/ F/ E/ E/ F2 |!mf!!>(! !>!A4!>)! |!p! F4- | F4 || D D/ D/ E2- | E E E E | C4 || %9
+w: There|were two birds|sit- ting on a stone,|two|birds|_|Fa la la, fa|_ la la lal|dee,|
+!f! F F/ F/ !wedge!A z |!p! F E/ E/ F2 |!p!!>(! !>!A4!>)! |!pp! F4- | F4 ||!ppp! D D/ D/ E2- | %15
+w: One flew a- way,|then there was one,|one|bird,|_|Fa la la, fa|
+ E E E E | C4 ||[M:3/2]!f!{/F} F/!<(! F/ F!<)!!>(! A2!>)! F !fermata!z ||[M:2/2]!pp! F E/ E/ F2 | %19
+w: _ la la lal|dee,|Th’o- ther flew af- ter,|then there was none,|
+!ppp! A4 | F4- |"^col basso" F8 x4 ||!mp! D D/ D/ E2- | E E E E |!pp! C C/ C/ E2- | %25
+w: no|bird,|_|Fa la la, fa|_ la la lal|fa la la, fa|
+ E E E !tenuto!E |!<(! !fermata!C4!<)! |] %27
+w: _ la la lal|dee.|
+V:3
+!f! c4 | c2 c2 c4 | c c c c c4 | z8 | z8 | z8 ||!p! A2 A A c2 c c | =B2 B B _B c B c | %8
+w: There|were two birds|sit- ting on a stone,||||Fa la la, fa la la,|fa la la, fa la la lal|
+!<(! A8!<)! ||!f! c2 c c !wedge!c2 z2 |!p! c2 c c c4 | z8 | z8 | z8 ||!ppp! A2 A A (c4 | %15
+w: dee,|One flew a- way,|then there was one;||||Fa la la, fa|
+ =B4) _B c B c | A8 ||[M:3/2]!f!{/c} c!<(! c c2!<)!!>(! c4!>)! c2 !fermata!z2 || %18
+w: _ fa la la lal|dee,|Th’o- ther flew af- ter,|
+[M:2/2]!pp! c2 c c c4 | z8 | z8 | x16 z8 ||!mp! (A4 c4 | =B4) _B4 |!pp! (A4 c4 | %25
+w: then there was none,||||Fa _|_ la|la _|
+ =B4) _B c !tenuto!B !tenuto!c |!<(! !fermata!A8!<)! |] %27
+w: _ la la la lal|dee.|
+V:4
+!f! F,4 | F,2 A,2 F,4 | F, F, C, C, F,4 | z8 | z4!mf! F,3 F, |({D,E,} (!>!F,4) E,4) || %6
+w: There|were two birds|sit- ting on a stone,||on a|stone, *|
+!p! D,2 D, D, A,,2 A,, A,, | E,2 E, E, C, C, C, C, |!<(! F,8!<)! ||!f! F,2 A, A, !wedge!C2 z2 | %10
+w: Fa la la, fa la la,|fa la la, fa la la lal|dee,|One flew a- way,|
+!p! F,2 C, C, F,4 | z8 | z4 F,3 F, |({D,E,} (!>!F,4) E,4) ||!ppp! D,2 D, D, A,,2 A,, A,, | %15
+w: then there was one;||on a|stone, _|Fa la la, fa la la,|
+ E,2 E, E, C,2 C,2 | F,8 ||[M:3/2]!f!{/F,} F,!<(! F, A,2!<)!!>(! C4!>)! A,2 !fermata!z2 || %18
+w: fa la la la lal|dee,|Th’o- ther flew af- ter,|
+[M:2/2]!pp! F,2 C, C, F,4 | z8 | z4!mp! F,4 |"^a piacere" F,16({D,E,} (F,4) E,4) || %22
+w: then there was none,||And|so   the   poor   stone   was   left   all   a- lone. _|
+!mp! D,2 D, D, A,,2 A,, A,, | E,2 E, E, C,2 C,2 |!pp! F,2 F, F, E,4- | E,4 C,2 !tenuto!C,2 | %26
+w: Fa la la, fa la la,|fa la la la lal|fa la la, la|_ la lal|
+!<(! !fermata!F,8!<)! |] %27
+w: dee.|
+V:5
+"^Allegro" [FA]4 | [FA]2 [Fc]2 [Af]4 | [FA][FA][EG][EG] [FA]4 | [Ac]8 | [FA]8- | [FA]8 || %6
+!p! [DF]2 [DF][DF] A2 AA | ^G2 GG =GAGA |!<(! F8!<)! ||!f! [FA]2 cc !wedge!f2 z2 | %10
+ [FA]2 [EG][EG] [FA]4 | [Ac]8 | [FA]8- | [FA]8 ||!ppp! [DF]2 [DF][DF] A2 AA | ^G2 GG =GAGA | %16
+ [CF]8 ||[M:3/2]!f! [FA][FA]!<(! [Fc]2!<)!!>(! [Af]4!>)! [Fc]2 !fermata!z2 ||[M:2/2]!pp! A2 GG A4 | %19
+!ppp! [Ac]8 | [FA]8- |"^col basso" [FA]16 x8 ||!mp! [DF]2 FF A2 AA | ^G2 GG =GAGA | F2 FF A2 AA | %25
+ ^G4 =GA!tenuto!G!tenuto!A | !fermata![CF]8 |] %27
+V:6
+ [F,C]4 | [F,C]2 [A,C]2 [F,C]4 | C2 C2 C4 | z8 | z4 F,3 F, |({D,E,} (F,4) E,4) || A,4 C4 | %7
+ =B,4 _B,CB,C | [F,A,]8 || C2 C2 !wedge!C2 z2 |!p! C2 C2 C4 | z8 | z4 F,3 F, | %13
+({D,E,} (!>!F,4) E,4) || A,4 C4 | =B,4 _B,CB,C | [F,A,]8 ||[M:3/2] CC C2 C4 C2 !fermata!z2 || %18
+[M:2/2] C2 C2 C4 | z8 | z4 F,4 | F,16({D,E,} (F,4) E,4) || A,4 C4 | =B,4 _B,4 | (A,4 C4 | %25
+ =B,4) _B,C!tenuto!B,!tenuto!C | !fermata![F,A,]8 |] %27
+V:7
+ x4 | x8 | F,F,C,C, F,4 | x8 | x8 | x8 || D,2 D,D, A,,2 A,,A,, | E,2 E,E, C,C,C,C, | x8 || %9
+ F,2 A,A, x4 | F,2 C,C, F,4 | x8 | x8 | x8 || D,2 D,D, A,,2 A,,A,, | E,2 E,E, C,2 C,2 | x8 || %17
+[M:3/2] F,F, A,2 C4 A,2 x2 ||[M:2/2] F,2 C,C, F,4 | x8 | x8 | x24 || D,2 D,D, A,,2 A,,A,, | %23
+ E,2 E,E, C,2 C,2 | F,2 F,F, E,4 | E,4 C,2 C,2 | x8 |] %27
+V:8
+ x2 | x4 | x4 | x4 | x4 | x4 || x2 E2- | E2 E E | C4 || x F A x | x4 | x4 | x4 | x4 || x2 E2- | %15
+ E2 E E | x4 ||[M:3/2] x6 ||[M:2/2] F E F2 | x4 | x4 | x12 || x D E2- | E2 E E | C C E2- | E2 E E | %26
+ x4 |] %27

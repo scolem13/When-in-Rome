@@ -1,0 +1,77 @@
+X:1
+T:Op.27
+T:Chanson d’amour
+C:Gabriel Fauré
+Z:Armand Silvestre
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=130
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Oboe"
+V:2 treble nm="Piano"
+V:4 treble 
+L:1/4
+V:3 bass 
+V:1
+"^Allegro moderato" z8 | z8 |"^dolce" c2 A G !breath!A4 | d2 A G!<(! !breath!A4!<)! |$ %4
+w: ||J’ai- me tes yeux,|j’ai- me ton front,|
+ e2 A G G ^F G A |!>(! c4 !breath!B4 |!pp! B2 G F !breath!G4 |!<(! c2 G F G3 !breath!G!<)! |$ %8
+w: Ô ma re- bel- le, ô ma fa-|rou- che,|J’ai- me tes yeux,|j’ai- me ta bou- che|
+"^senza rigore" _e2 d!>(! c B A G A!>)! | F8 | z8 | z8 |$ z8 |!p!!<(! c4 c3 c!<)! | %14
+w: Où mes bai- ser s’é- pui- se-|ront.||||J’ai- me ta|
+ _d2 d2!>(! c B A _G!>)! | F2 _E E =D E F _G |$!<(! !breath!F8 |"^poco a poco cresc." _A2 G F c4 | %18
+w: voix, j’ai- me l’é- tran- ge|grâ- ce de tout ce que tu|dis,|Ô ma re- bel-|
+ c2 B _A G3 !breath!F |$!f! _E _A c2 _e _d c B |!>(! !breath!c8 |!p! c2 A G A4 |$ %22
+w: le, ô mon cher an- ge,|Mon en- fer et mon pa- ra-|dis !|J’ai- me tes yeux,|
+ d2 A G!<(! !breath!A4 | e2 A G G ^F G A |!>(! c4 !breath!B4 |$!pp! B2 G F !breath!G4 | %26
+w: j’ai- me ton front,|Ô ma re- bel- le, ô ma fa-|rou- che,|J’ai- me tes yeux,|
+!<(! c2 G F G3 !breath!G!<)! |"^senza rigore" _e2 d!>(! c B A G A!>)! |$ F8 | z8 | z8 | z8 |$ %32
+w: j’ai- me ta bou- che|Où mes bai- ser s’é- pui- se-|ront.||||
+!p! A4 A2 A2 | d ^c =B A B3 B | A A d2 d ^c =B A |$ =B6 B2 | =B2 B B e2 ^d ^c | %37
+w: J’ai- me tout|ce qui te fait bel- le,|De tes pieds jus- qu’à tes che-|veux, Ô|toi vers qui mon- tent mes|
+!<(! =B4!<)!!mf! e2 ^d ^c |$ =B B A ^G ^c4 |!>(! =B8!>)! |!p! c2 A G !breath!A4 | %41
+w: vœux, Ô ma fa-|rou- che, ô ma re- bel-|le,|J’ai- me tes yeux,|
+ d2 A G!<(! A4!<)! |$ e2 A G G ^F G A |!>(! c4 B4 |!pp! B2 G F G4 |!<(! c2 G F G3 G!<)! |$ %46
+w: j’ai- me ton front,|Ô ma re- bel- le, ô ma fa-|rou- che,|J’ai- me tes yeux,|j’ai- me ta bou- che|
+ _e2 d c B A G A |!>(! F8!>)! |!p! _e2"^poco rit." d c B A G A |[Q:1/4=130] F8 |$ z8 | z8 | z8 | %53
+w: Où mes bai- ser s’é- pui- se-|ront,|Où mes bai- ser s’é- pui- se-|ront.||||
+ z8 |] %54
+w: |
+V:2
+!p! z (A,C[FA]) z (A,C[FA]) | z (A,D[FA]) z (A,C[EA]) | z (A,C[FA]) z (A,C[FA]) | %3
+ z (A,D[FA]) z (A,D[FA]) |$ z (A,E[GA]) z (A,D[^FA]) | z (C_E[^Fc]) z (B,E[GB]) | %6
+!pp! z (G,B,[_EG]) z (G,B,[EG]) |!<(! z (G,C[_EG]) z (G,C[EG])!<)! |$ %8
+!>(! z (G,B,[_EG]) z (B,C[=EB])!>)! |"^a tempo" (B,!>(!DFB D!>)!FBd) | (G,B,DG) (A,CEA) | %11
+ (B,!>(!DFB D!>)!FBd) |$ (G,B,DG) (B,CEB) |!p! z (A,C[FA]) z (A,C[_GA]) | %14
+ z (B,_D[_GB]) z (B,D[GB]) | z (__B,_D[_E__B]) z (_G,C[E_G]) |$ z (F,C[_EF]) z (F,B,[_DF]) | %17
+ z (_A,_D[F_A]) z (A,C[FA]) |"_cresc." z (CF[_Ac]) z (=B,F[A=B]) |$!mf! z (C_E[_Ac]) z (B,_D[GB]) | %20
+!>(! z (B,C[GB]) z (^G,C!>)![E^G]) |!p! z (A,C[FA]) z (A,C[FA]) |$ z (A,D[FA]) z (A,D[FA]) | %23
+ z (A,E[GA]) z (A,D[^FA]) | z (C_E[^Fc]) z (B,E[GB]) |$!pp! z (G,B,[_EG]) z (G,B,[EG]) | %26
+!<(! z (G,C[_EG]) z (G,C[EG])!<)! |!>(! z (G,B,[_EG]) z (B,C[=EB])!>)! |$ %28
+"^a tempo" B,!>(!DFB D!>)!FBd | G,B,DG A,CEA | B,!>(!DFB D!>)!FBd | G,B,DG B,CEB |$ %32
+!p! z (A,C[FA]) z (A,^C[GA]) | z (A,D[^FA]) z (=B,D[F=B]) | z (A,D[^FA]) z (=B,D[F=B]) |$ %35
+ z (^F,"_cresc. poco a poco"=B,[D^F]) z (A,B,[FA]) | z (^G,=B,[E^G]) z (^CE[G^c]) | %37
+ z (=B,E[^G=B]) z (^CE[G^c]) |$ z (=B,E[^G=B]) z (^CE[G^c]) | z (=B,E[^G=B]) z (_A,B,[F_A]) | %40
+!p! z (A,C[FA]) z (A,C[FA]) | z (A,D[FA]) z (A,D[FA]) |$ z (A,E[GA]) z (A,D[^FA]) | %43
+ z (C_E[^Fc]) z (B,E[GB]) |!pp! z (G,B,[_EG]) z (G,B,[EG]) |!<(! z (G,C[_EG]) z (G,C[EG])!<)! |$ %46
+ z (G,B,[_EG]) z (G,C[EG]) | (_A,!>(!CF_A CFAc)!>)! |!p! z"_poco rit." (G,B,[_EG]) z (B,C[=EB]) | %49
+[Q:1/4=130]"^a tempo" (B,DFB DFBd) |$ (G,B,DG) (A,CEA) | (B,DFB DFBd) | (G,B,DG) (B,EGB) | %53
+ [A,CFA]4- [A,CFA]2 z2 |] %54
+V:3
+ F,,4 C,4 | B,,4 C,4 | F,,4 C,4 | B,,4 =B,,4 |$ ^C,4 D,4 | G,,8 | _E,,4 B,,4 | _A,,4 =A,,4 |$ %8
+ B,,4 C,4 |"^marcato" F,,2 A,G, F,E,D,E, | !>![F,,-C,]8 | F,,2 A,G, F,E,D,E, |$ !>![F,,C,]8 | %13
+ F,4 _E,4 | _D,4 _E,,4 | _G,,4 _A,,4 |$ =A,,4 B,,4 | =B,,4 C,4 | _D,4 =D,4 |$ _E,4 _E,,4 | %20
+ =E,,4 C,4 | F,,4 C,4 |$ B,,4 =B,,4 | ^C,4 D,4 | G,,8 |$ _E,,4 B,,4 | _A,,4 =A,,4 | B,,4 C,4 |$ %28
+"^marcato" F,,2 A,G, F,E,D,E, | !>![F,,-C,]8 | F,,2 A,G, F,E,D,E, | !>![F,,C,]8 |$ F,4 E,4 | %33
+ D,4 ^F,,4 | D,4 ^F,,4 |$ D,4 ^D,4 | E,4 ^G,,4 | E,4 ^G,,4 |$ E,4 ^G,,4 | E,4 _D,4 | C,4 C,,4 | %41
+ B,,4 =B,,4 |$ ^C,4 D,4 | G,,8 | _E,,4 B,,4 | _A,,4 =A,,4 |$ B,,8 | B,,2 G,F, _E,D,C,D, | %48
+ B,,4 C,4 |"^marcato" F,,2 A,G, F,E,D,E, |$ !>![F,,-C,]8 | F,,2 A,G, F,E,D,E, | !>![F,,C,]8 | %53
+ [F,,C,F,]4- [F,,C,F,]2 z2 |] %54
+V:4
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | B, x3 | G,2 A,2 | B, x3 |$ G,2 B,2 | x4 | x4 | %15
+ x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ B, x3 | G,2 A,2 | B, x3 | %31
+ G,2 B,2 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | _A, x3 | %48
+ x4 | B, x3 |$ G,2 A,2 | B, x3 | G,2 B,2 | x4 |] %54

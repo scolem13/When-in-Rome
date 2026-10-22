@@ -1,0 +1,184 @@
+% String Quartet in D major: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=387
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:String Quartet in D major (1)
+C:Franz Joseph Haydn (1732-1809)
+%%score ( 1 2 )
+L:1/16
+Q:1/4=72
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble 
+L:1/8
+V:1
+ x2 | [A,^F] z3 [A,F] z A,4- A,2- | A,2G2A2 G4 A2 | B6 E4- E2- | E2 z2 ^G2 A2G2=G2 | %5
+ [A,^F] z3 [A,F] z A,4- A,2- | A,2G2A2 G4 A2 | B6 =F4- F2 | ^F2>G2E2 F z4 z | %9
+ [A,^F] z3 [A,F] z [A,G]4- [A,G]2 | ^F2G2A2 G4 A2 | B6 E4- E2- | E2 z2 ^G2 A2G2=G2 | %13
+ [A,^F] z3 [A,F] z A,4- A,2- | A,2G2A2 G4 A2 | B8- B2- B2- | B2^FDE^C D4 z2 | =C4 C2 B,2 z4 | %18
+ A,4 A,2 G,2 z2 B2 | E2A2A2 B4- B2 | E2 z2 ^G2 A2G2=G2 | [A,^F] z3 [A,F] z A,4- A,2- | %22
+ A,2>G2A2 G4 A2 | B6 E4- E2- | E2 z2 ^G2 A2G2=G2 | ^F2E2F2 A,4- A,2- | A,2G2A2 G4 D2 | ^F6 G4- G2 | %28
+ ^F2 z2 F z F z4 z |[K:Dmin] z12 | z12 | C6 D2>[EF]2G2 | z2 E2A2 z2 F2_B2 | z2 _B2B2 A2A2A2 | %34
+ d2_B2G z ABcdef | e2 z2 _B2 ABcdef | e2 z2 _b z a z3 C2 | F2>E2F2 G2E2C2 | A2>G2A2 _B2G2E2 | %39
+ c2A2_G2 D4 =G2- | G_GA_BcA D4 B2- | _BAcd_ec F2 z2 DF | _B[dc][BA][GF][_ED][C_B,] [A,B,]C2 z2 F | %43
+ Ac[_ed][c_B][AG][F_E] [DC][_B,A,]B,2 z2 | DF_B[dc][BA][GF] [_ED][C_B,][A,B,]C-C z | %45
+ z FAc[_ed][c_B] [AG][F_E][DC][_B,A,]B,2 | z2 _Bdf[_EBg] z [EBg] z4 | z4 z c3 dc-cg- | %48
+ gf2_e2d2 z4 c- | c z8 z3 | z3 F2d3 _d=d-de- | e_dAcef2 A2A-A_B- | _B4- B c2 z4 z | %53
+ [ga][_ba][gf][ed][c_B]A2 z4 z | [ef][gf][ed][_d_B][AG]F [FG][AG][FE][DC][_B,A,]_A,- | %55
+ _A,D2D2_D2 z2 E-EF- | F z2 A2G2 z2 _d-d=d- | d z2 f2e2 A z A z A | z4 z [A,^F] z3 [A,F] z A,- | %59
+ A,7 G2A-AG- | G3A2 =B4- B- BE- | E7 z2 ^G-GA- | A^G2=G2[A,^F] z4 z [A,G]- | %63
+ [A,G]4- [A,G] ^F FGGAAG- | G3A2 =B4- B- B2- | B7 ^FDE^CD- | D3 z2 C4 C-C=B,- | %67
+ B, z4 A,4 A,-A,G,- | G, z2 =B2E2 A2A-AB- | B4- B E2 z2 ^G-GA- | A^G2=G2[A,^F] z3 [A,F] z A,- | %71
+ A,7 G2A-AG- | G3D2 ^F4- F- FG- | G4- G ^F4- F- F^G,- | ^G,4- G, =G,4- G,- G,2- | %75
+ G,4- G, G4- G- G2- | G3A2d3 ^cd-de- | e^c2A2^f2 z4 z | z3 A2d3 ^cd-de- | e^c2A2^f2 z4 z | %80
+ z3 A2d3 ^cd-de- | e^c2A2^f2 z4 z | z12 | z12 | z12 | z3 E2A3 ^GA-A=B- | B^G2E2^c3 =Bc-cd- | %87
+ d=B2^G2e2 ^c2A-Ag- | ge2^c2d A^FAFD2 | ^C E4- E A,=B,CD^F2 | E G4- G ^FA=BcAF | E^D=B,D^F G4 z3 | %92
+ z12 | z4 z d4 g-g^f | ga=bc'^f g4 z3 | z c2A2 =B4 z3 | z e2^A2 =B4 z3 | z g2e2d3 ^cd-de- | %98
+ e^c2A2 a4 z3 | z3 A2d3 ^cd-de- | e^c2A2a =bag^fed- | d4- d ^c de^fgfg- | ge2e z d3 ^cd-de- | %103
+ e^c2A2^f2 z4 z | z8 z3 ^f- | ^fg2e2f2 d2e-e^c- | ^cd2=B2 E4 ^F-F^C- | ^CD2E2^F AFAFAF | %108
+ A^FAFAE AEAEAG | AGAGA^F AFAFAF | A^FAFAE AEAEAG | AGAGA^F AFAFAF | A^FAFAG z g z3 G | %113
+ z e z3 D z ^f z3 ^C | z e z3 D z ^f z4 | z4 z g3 ^fed^c | =BAG^FED z ^f z4 | z4 z g3 ^fed^c | %118
+ =BAG^FED z a z4 | z4 z D z d z3 G | z e z3 D z ^f z3 ^C | z e z3 d'3 ^c'=bag | ^fed^c=BA z e' z4 | %123
+ z4 z d'3 ^c'=bag | ^fed^c=BA z e' z4 | z4 z A, z D z ^F z A | z d z ^f z a4 z2 [DAf]- | %127
+ [DA^f]3 z2 [DAf]4 x3 |] %128
+V:2
+ x | z3 G2- G | ^F z4 z | z6 | z6 | z3 G2- G | ^F z4 z | z6 | z6 | z6 | z6 | z6 | z6 | z3 G2- G | %14
+ ^F z4 z | z6 | z6 | z6 | z6 | z6 | z6 | z3 G2- G | ^F3/2 z4 z/ | z6 | z6 | z3 G2- G | ^F z4 z | %27
+ z6 | z6 |[K:Dmin] z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %45
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z4 z3/2 G/- | G2- G/ ^F z2 z/ | %60
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z4 z3/2 G/- | G2- G/ ^F z2 z/ | z6 | z6 | z6 | %75
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %94
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %113
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z4 z/ x3/2 |] %128
+
+X:2
+T:String Quartet in D major (2)
+C:Franz Joseph Haydn (1732-1809)
+%%score ( 1 2 )
+L:1/8
+Q:1/4=60
+M:2/2
+I:linebreak $
+K:F#
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble 
+V:1
+ z2 C6- | C2 D4 C2- | C2 B,2 A,2 G2 | F2 E3 FE z | z2 C6- | C2 D4 C2 | F2 F4 F2- | F6 E2- | %8
+ E2 F2 C z C z | C z E z E z E z | E z F2 C z C z | C z E z E z E z | E z F4 z2 | z2 A6- | %14
+ A4 =A2 ^A2 | E2 F6- | F8 | z2 G6- | G8- | G2 e>G g>fe/ z3/2 | z3/2 G<dG/ f>ed/ z3/2 | %21
+ z3/2 G<eG/ g>f e2 | d2 c6- | c2 =c4 ^c2- | c8- | c6 =c2- | c2 ^c6 | z2 G,4 ^C2- | C2 C6- | C8- | %30
+ C8- | C6 =C2- | C2 ^C>G, G>FE/ z3/2 | z3/2 G,<DG,/ F>ED/ z3/2 | z2 G6- | G8- | G8- | G4 F>=E D2 | %38
+ C2 =C2 D2 =E2- | E2 D6 | z2 B6- | B2 c4 B2- | B2 =A2 G2 f2 | =e2 d3 ed/ z3/2 | z2 =E6- | %45
+ E2 D2 =D4- | D2 C2 =C4- | C2 B,2 =G,2 =A,2 | B,2 =C4 C z | =C z C6 | %50
+ z2 =G/ z/ G/ z/ G/ z/ G/ z/ G/ z/ G/ z/ | =G/ z/ G/ z/ GG GGFF | =AAAA =GGGG | =GGBB BBBB | %54
+ BB=AA AAAA | =AAGG GGGG | GGGG GGGG | GGFF FFFF | FFEE EEEE | EEFF FFFF | FF E4 E z | E z E6 | %62
+ z2 C6- | C2 D4 C2- | C2 B,2 A,2 G2 | F2 E3 FE/ z3/2 | z2 C6- | C2 D4 C2 | F2 F4 F2- | F6 E2- | %70
+ E2 F2 z4 | z2 G4 G/ z E/ | F>G E2 z3 =G/ z/ | ^G/ z/ A/ z/ B6 | AGA c2 c2 c- | c c2 c2 c2 c- | %76
+ cca>c c'>ba/ z3/2 | z3/2 c<gc/ b>ag/ z3/2 | z3/2 c<ac/ c'>b a2 | g2 f6- | f2 e4 f2- | f8- | %82
+ f6 e2- | e2 f6 | z2 C4 F2- | F2 F6- | F2 F6- | F8- | F6 E2- | E2 F2 C z C z | C z E z E z E z | %91
+ E z F2 C z C z | C z E z E z E z | E z F/ z7/2 E/ z3/2 | z2 F/ z7/2 B, z | z2 A,2 z2 A, z | %96
+ A, z A,6- | A,2 z6 |] %98
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %57
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z6 F3/2 z/ | x8 | x8 | x8 | %75
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %94
+ x8 | x8 | x8 | x8 |] %98
+
+X:3
+T:String Quartet in D major (3)
+C:Franz Joseph Haydn (1732-1809)
+L:1/8
+Q:1/4=160
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Violin" snm="Vln"
+V:1
+ z2 D4 | A,2 B,4- | B,2 C4- | C2 CD D z | D z D4- | D4 z2 | d2 D4- | D2 C2 z2 | z4 A z | z2 G z3 | %10
+ G z3 F z | A z B z3 | ^ab fg ^de | ^AB FG ^DE | FG ^DE FG | AB =D2 C2 | z2 D4 | A,2 B,4- | %18
+ B,2 C4- | C2 CD D z | D z D4- | D4 z2 | A z B4 | c2 cd d z | z4 d z | z2 e z3 | f z3 g z | %27
+ g z fg G z | g z g4 | e z ed f z | A z B z3 | G z F z D z |[K:Dmin] z6 | _D2 =D2 z2 | z6 | %35
+ _D2 =D2 z2 | _D2 =D2 z2 | _D2 =D2 d2 | d2 d2 c2 | A2 =B4 | c2 d4 | c2 =B4 | A2 =B4- | B2 A2 z2 | %44
+ z6 | z6 | z6 | z4 z _e/ z/ | d/ z/ c/ z/ BA Gd/ z/ | c/ z/ B/ z/ AG Fc/ z/ | %50
+ B/ z/ A/ z/ GF EF/ z/ | G/ z/ _A/ z/ =A2 z2 | z6 | _D2 =D2 z2 | z6 | _D2 =D2 z2 | _D2 =D2 z2 | %57
+ _D2 =D2 z2 | _G2 =G2 z2 | _A2 =A2 z E/ z/ | F/ z/ G/ z/ AB AE/ z/ | F/ z/ G/ z/ AB AF/ z/ | %62
+ G/ z/ A/ z/ B2 z2 | z2 _d2 z2 | z2 =d2 z2 |] %65
+
+X:4
+T:String Quartet in D major (4)
+C:Franz Joseph Haydn (1732-1809)
+%%score ( 1 2 )
+L:1/16
+Q:1/4=150
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble 
+L:1/8
+V:1
+ e z f z4 z | z8 | e z f z4 z | z8 | e z f z e z f z | e z f4 z2 | A z A z A z A z | A z A2 A2A2 | %8
+ A2A2 A2A2 | A2A2 A2A2 | A2A2 A2A2 | A2A2 A2A2 | A2A2 A2A2 | A2A2 A2A2 | A2A2 A2A2 | A2A2 A2A2 | %16
+ e z f z4 z | e z f z4 z | e z f z e z f z | e z f z4 z | c z d z4 z | c z d z4 z | %22
+ B z c z B z c z | B z c4 z2 | E z E z E z E z | E z E2 E2E2 | E2E2 E2E2 | E2E2 E2E2 | E2E2 E2E2 | %29
+ E2E2 E2E2 | E2E2 E2E2 | E2E2 E2E2 | E2E2 E2E2 | E2E2 E2E2 | d z c z d z c z | d z c4 z2 | %36
+ A z B z A z B z | A z B4 z2 | A z B z =c z B z | B z B6 | A z A z ^A z =A z | A z A6 | %42
+ c z d z c z d z | g z f z g z f z | e z f z g z f z | f z e4 z2 | z8 | z8 | z8 | z2 c z c z c z | %50
+ c z c2 c2c2 | c2[Fc]2 [Fc]2[Fc]2 | [Fc]2[Fc]2 [Fc]2[Fc]2 | [Fc]2[FB]2 [FB]2[FB]2 | %54
+ [FB]2[FB]2 [FB]2[FB]2 | [FB]2[EB]2 [EB]2[EB]2 | [EB]2[EB]2 [EB]2[EB]2 | [EB]2[EA]2 [EA]2[EA]2 | %58
+ [EA]2[EA]2 [EA]2[EA]2 | [EA]2 [FA]4 z2 | z2 F4 z2 | z2 E4 z2 | z2 B,4 z2 | B,2C z A,B,C2 | %64
+ A,B,C2 B,CD2 | CDE2 DEF2 | DEF2 EF^G2 | F^GA2 FGA2 | F^GA2 GAB2 | AB =c6- | c2 A6- | A2 ^A6- | %72
+ A6 z2 | D2 =C4 z2 | =C2 B,4 z2 | B,2 A,4 z2 | A,B,C z C z B, z | A, z ^G,2 z4 | B,CD z D z C z | %79
+ B, z A,2 z4 | ABc z c z B z | A z E z E z E z | E z E2 E2E2 | E2E2 E2E2 | E2E2 E2E2 | E2^D2 D2D2 | %86
+ ^D2=D2 D2D2 | D2C2 z2 A2 | z2 B2 z2 ^G2 | z2 A2 A,B,C z | CDE z E z D z | C z B, z B,CD z | %92
+ DEF z F z E z | D z C z ABc z | cde z e z d z | c z B z B z B z | B z B2 B2B2 | B2B2 B2B2 | %98
+ B2B2 B2B2 | B2B2 B2B2 | B2B2 B2B2 | B2A2 A2A2 | A2^G2 GABc | dBA2 A2A2 | A2^GF GABc | dBA2 A2A2 | %106
+ A2^GF GABc | dBA z3 e z | z2 e z3 a z | z2 a2 z4 | z8 | z2 F^G F=F^FG | F=F^F2 ^G2A2 | d2 c4 A z | %114
+ c z c2 B2A z | ^G z A4 z2 | ^G z A4 z2 | D z C4 z2 | ^G z A4 z2 | D z C2 z4 | E z A2 z4 | %121
+ B z c2 z4 | d z e2 z4 | f z g2 z4 | z8 | g2 =f6- | f8- | f8- | f2 d4 ^A2- | A2 =F4 D2- | %130
+ D2 ^A,4 z2 | =F z F z F z F z | =F z F z F z F z | =F z F2 F2F2 | =F2F2 F2F2 | =F2F2 F2F2 | %136
+ =F2F2 F2F2 | =F2F2 F2F2 | =F2F2 F2F2 | =F2F2 F2F2 | =F2F2 F2F2 | =F2F2 F2F2 | =F2^D2 G z G z | %143
+ G z G2 G2G2 | G2G2 G2G2 | G2G2 =F2F2 | =F2G2 G2G2 | G2G2 G2G2 | G2=F2 A2A2 | A2A2 A2A2 | %150
+ A2A2 A2A2 | A2A2 A2A2 | A2A2 A2A2 | A2A2 A2A2 | A2G2 A2^A z | ^A z A z A z A z | %156
+ ^A z =A2 ^A2=c z | =c z c z c z c z | A z D4 z2 | A z A z A z A z | A z ^A=A ^A=cd z | %161
+ ^G z G z G z G z | ^G z AG AB=c z | ^D z D z D z D z | ^D z E4 z2 | E z E z E z E z | z8 | %167
+ E z E z E z E z | z8 | C z C z C z C z | z8 | C2C2 C2C2 | C2C2 C2C2 | C2C2 C2C2 | C2C2 C2C2 | %175
+ C2[CF]2 [CF]2[CF]2 | [CF]2[B,F]2 [B,F]2[B,F]2 | [B,F]2[B,F]2 [B,F]2[B,F]2 | [B,F]2G z GFE z | %179
+ c z d z B z c z | ^A z B z B,CD2 | CDE2 DEF2 | EFG2 z2 e z | z2 d z3 E z | z2 D4 z2 | z8 | z8 | %187
+ z8 | z2 G2 G2G2 | G2G2 G2G2 | G2C2 C2C2 | C2[Ec]2 [Ec]2[Ec]2 | agfg fedb | agfg fedb | agfg fedb | %195
+ agfb agfb | agfg fedg | fedg fedg | fede dcBe | d=cBe dcBe | d=cBc BAGc | BAG=c BAGc | %202
+ BAG z B z B z | B z B z B z B z | B z E6 | ABc z cde z | G z F z defd | BA ^G6 | d z c z edc z | %209
+ gfe z edc z | e z d4 z2 | g z a4 z2 | d z e4 z2 | c z d4 z2 | d z c2 d2c2 | =c z B2 c2B2 | %216
+ ^A z =A2 ^A2=A2 | A z A6 | d z d6- | d8 | B z A4 z2 | z8 | z8 | z8 | z2 F2 F2F2 | F2F2 F2F2 | %226
+ F2[B,F]2 [B,F]2[B,F]2 | [B,F]2[B,F]2 [B,F]2[B,F]2 | [B,F]2[B,E]2 [B,E]2[B,E]2 | %229
+ [B,E]2[B,E]2 [B,E]2[B,E]2 | [B,E]2[A,E]2 [A,E]2[A,E]2 | [A,E]2[A,E]2 [A,E]2[A,E]2 | %232
+ [A,E]2[A,D]2 [A,D]2[A,D]2 | [A,D]2[A,D]2 [A,D]2[A,D]2 | [A,D]2 [B,D]4 z2 | z2 B4 z2 | z2 E6- | %237
+ E2 A4 F2 G2 F2 | A2 B4 g2 | e2d2 f2e2 | c2 d4 z2 | DEF z F z E z | D z C4 z2 | EFG z G z F z | %244
+ E z D4 z2 | def z f z e z | d z A2 A2A2 | A2A2 A2A2 | A2A2 A2A2 | A2A2 A2A2 | A2^G2 G2G2 | %251
+ ^G2=G2 G2G2 | G2F z3 d z | z2 e z3 c z | z2 d4 z2 | z8 | z8 | z8 | z4 DEF z | FGA z A z G z | %260
+ F z E2 E2E2 | E2E2 E2E2 | E2E2 E2E2 | E2E2 E2E2 | E2E2 E2E2 | E2e2 e2e2 | e2d2 d2d2 | d2c2 cdef | %268
+ ged2 d2d2 | d2cB cdef | ged2 d2d2 | d2cB cdef | ged z3 a z | z2 a z3 d' z | z2 d'2 z4 | z8 | %276
+ z2 Bc B^ABc | B^AB2 c2d2 | g2 f4 d z | f z f2 e2d z | c z d4 z2 | c z d4 z2 | G z F4 z2 | %283
+ c z d4 z2 | G z F2 z4 | c z d2 z4 | g z f2 z4 | g z f z g z f z | g z f4 z2 | z2 [DAf]4 z2 | %290
+ z2 [DAf]4 z2 |] %291
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %57
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %76
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %95
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %114
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %133
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %152
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %171
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %190
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %209
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %228
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z A3- | x6 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %247
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %266
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %285
+ x4 | x4 | x4 | x4 | x4 | x4 |] %291

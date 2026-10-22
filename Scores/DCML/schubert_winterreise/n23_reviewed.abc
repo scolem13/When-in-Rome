@@ -1,0 +1,67 @@
+X:1
+T:Winterreise
+T:Die Nebensonnen
+C:Franz Schubert
+Z:Wilhelm Müller
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=34
+M:3/4
+I:linebreak $
+K:A
+V:1 treble nm="Singstimme" snm="Sing."
+L:1/16
+V:2 bass nm="Pianoforte" snm="Pno."
+V:4 bass 
+V:3 bass 
+V:5 bass 
+L:1/4
+V:1
+ z2 | z8 z4 | z8 z4 | z12 | z8 z2 c2 |$ c3 B B4 B2 c2 | d3 c c6 c2 | c3 B A4- (3A2 (B2c2) | %8
+w: ||||Drei|Son- nen sah ich am|Him- mel stehn, hab|lang' und fest _ _ sie|
+ c3 B A4 z4 |$ z8 z2!f! c2 | c3 B B6 c2 | d3 c c6 c2 | c3 B A4 (3(A2 (B2)c2) |$ c3 B A4 z4 | %14
+w: an- ge- sehn;|Und|sie auch stan- den|da so stier, als|woll- ten sie _ _ nicht|weg von mir.|
+ z8 z4 | z4 z4 z2 A2 | =c2 c2 c2 c2 (3(c2B2) A2 |$ B8 z2 e2 | e3 =c c2 c2 d3 c | B8 z2 e2 | %20
+w: |Ach,|mei- ne Son nen seid _ ihr|nicht! schaut|an- dern doch ins An- ge-|sicht! ja,|
+ e3 d d6 e2 |$ =f3 e e6 e2 | e3 d =c6 c2 | =c3 B A4 z4 | z8 z4 | z4 z4 z2 c2 |$ c2>B2 B6 c2 | %27
+w: neu- lich hatt ich|auch wohl drei; nun|sind hin- ab die|be- sten zwei.||Ging|nur die dritt erst|
+ d3 c c6 c2 | c3 B A4- (3(A2B2) c2 | c3 B A4 z4 |$ z12 | z12 | z12 |] %33
+w: hin- ter- drein! Im|Dun- keln wird _ _ mir|woh- ler sein.||||
+V:2
+!p! E, | ([A,C]>[G,B,]) ([E,G,B,]3!<(! [=G,A,C])!<)! | %2
+!>(! ([F,A,D]>!>)![E,A,C]) ([E,A,C]3 [E,A,C]) |!>(! (C>B,!>)! A,3)!pp! (!turn!B,/C/) | %4
+!>(! (C>B,)!>)! A,3!pp! C |$ ([A,C]>[G,B,]) ([E,G,B,]3!<(! [=G,A,C])!<)! | %6
+!>(! ([F,A,D]>!>)![E,A,C]) ([E,A,C]3 [E,A,C]) | (C>B, A,3)!pp! [E,A,C] | (C>B, A,3)!mf! x |$ %9
+!>(! ([CE]>[B,D]!>)! C3)!f! x | ([F,A,C]>[F,B,]) [F,B,]3!<(! [F,^A,C]!<)! | %11
+ ([B,D]>[=A,C] [A,C]3) x |!>(! (C>!>)!B, A,3)!p! x |$ (C>B, A,3)!f! x | %14
+ (C>D!<(!!>(! D3)!<)!!>)!!p! x | (C>B, A,2) z2 |!p! [E,A,=C]4 z [E,A,] |$ %17
+ (.[G,B,].[G,B,] .[G,B,]!<(!.[G,B,])!<)!!>(! (3(B,E!>)!D) | [A,=C]4 z [A,C] | %19
+ ([G,B,][G,B,][=G,B,][=F,G,B,][E,G,=C]!<(![G,CE])!<)! | ([=CE]>[B,D]!<(! ([B,D]3)!<)! x) |$ %21
+!>(! [A,=F]>!>)![=G,E] [=CE]3 x | (E>D"_decresc." =C3) C | (=C>B, A,3)!pp! C | (=C>B, A,G,A,D, | %25
+ E,4) z!p! [E,A,^C] |$ ([A,C]>[G,B,]) ([E,G,B,]3!<(! [=G,A,C])!<)! | %27
+!>(! ([F,A,D]>!>)![E,A,C]) [E,A,C]3 [E,A,C] | (C>B, [F,A,]3)!pp! [A,C] | (C>B, A,3)!f! [A,C] |$ %30
+!<(! (C>!<)!D)!>(! (D3!>)! [E,A,C]) | (C>B, A,3)!pp! [A,C] | (C>B, A,2) z2 |] %33
+V:3
+"" z |"" (A,,>""E,,) (E,,3"" A,,) |"" (D,,>""A,,) (A,,3 A,,) |"""" (([E,,D,]2"" [A,,C,]3)) A,, | %4
+"""" (([E,,D,]2"" [A,,C,]3)) A,, |$ (A,,>""E,,) (E,,3"" A,,) |"" (D,,>""A,,) A,,3 A,, | %7
+"""" (([E,,D,]2"" [A,,C,]3)) A,, |"""" (([E,,D,]2"" [A,,C,]3)) [A,,E,] |$ %9
+"""" ([E,,E,]2"" [A,,E,]3)"m" F,, | (F,,>"m"[D,,D,]) [D,,D,]3"" [C,,C,] | %11
+"m" ([B,,,B,,]>"m"F,,) F,,3 [F,,C,] |"""" ([^E,,C,]2"m" [F,,C,]3) [F,,C,] |$ %13
+"""" (([=E,,D,]2"" [A,,C,]3))"m" [F,,C,] |"" ([^E,,C,]>""[=E,,B,,]) ([E,,B,,]3"" [A,,C,]) | %15
+"""" (([E,,D,]2"" [A,,C,]2)) z2 |"m" A,,4 z [A,,=C,] |$ %17
+"" (.[E,,E,].[E,,E,] .[E,,E,].[E,,E,]) [E,,E,]""[B,,E,] |"m" [A,,E,]4 z [A,,E,] | %19
+"" (E,E,"m"E,""D,""=C,C,) | (=C,>""=G,,) (G,,3"" C,) |$"" (=F,,>""=C,) C,3 C, | %22
+"""" ([^G,,E,]2"m" [A,,E,]3) [A,,E,] |"""" (([E,,D,]2"" [=F,,=C,]3)) [F,,C,] | %24
+"""" ([E,,D,]2"" =C,B,,A,,"m"B,, |"" [E,,G,,]4) z"" A,, |$ (A,,>""E,,) (E,,3"" A,,) | %27
+"" (D,,>""A,,) A,,3 A,, |"""" ([^E,,C,]2"m" [F,,C,]3) [F,,C,] | %29
+"""" (([=E,,D,]2"" [A,,C,]3))"m" [F,,C,] |$""!p! ([^E,,C,]>""[=E,,B,,]) ([E,,B,,]3"" [A,,C,]) | %31
+"""" (([E,,D,]2"" [A,,C,]3)) [A,,E,] |"""" (([E,,D,]2"" [A,,C,]2)) z2 |] %33
+V:4
+ x | E,2 x4 | x6 | [E,^G,]2 E,3 [E,A,] | [E,G,]2 E,3 [E,A,] |$ E,2 x4 | x6 | [E,^G,]2 E,3 x | %8
+ [E,G,]2 E,3 [CE] |$ G,2 A,3 [F,A,C] | x6 | F,2 F,3 [A,C] | G,2 F,3 [A,C] |$ [E,G,]2 E,3 [A,C] | %14
+ G,2 G,3 [E,A,C] | [E,G,]2 E,2 x2 | x6 |$ x2 x2 G,G, | x6 | x6 | =G,2 G,3 [_B,=CE] |$ %21
+ =C2 =G,3 [CE] | B,2 A,3 A, | ^G,2 A,3 A, | G,2 x4 | x6 |$ E,2 x4 | x6 | ^G,2 x4 | [E,G,]2 E,3 x |$ %30
+ G,2 G,3 x | [E,G,]2 E,3 x | [E,G,]2 E,2 x2 |] %33
+V:5
+ x/ | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | %19
+ x3 | x3 |$ x3 | x3 | x3 | x =F,,2 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 |] %33

@@ -1,0 +1,42 @@
+X:1
+T:French Suite No. 1
+T:Menuett II
+C:Johann Sebastian Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=180
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+V:1
+ A2 A3 G/A/ | Bc dB cA | G2 Pc3 B | AG BA GF | d6- | d6- |$ dd ^c=B AG | FE GF ED | A2 A3 G/A/ | %9
+ Bc dB cA | G2 G3 F/G/ | AB cA BG |$ F2 F3 E/F/ | GA BA BG | A2 GF EF | D6 :| AG FG AB | %17
+ cG AB cB |$ c_e dc BA | BA cB AG | ^c2 c3 =B/c/ | d2 Pd3 ^c/d/ | ef ge fd |({f} e2) d^c =BA |$ %24
+ A2 A3 G/A/ | Bc dB cA | G2 Pc3 B | AG BA GF | d6- | d6- |$ dd ^c=B AG | FE GF ED | A2 A3 G/A/ | %33
+ Bc dB cA | G2 G3 F/G/ | AB cA BG |$ F2 F3 E/F/ | GA BA BG | A2 GF EF | %39
+ !fermata!D6"_Menuett I da capo" |] %40
+V:2
+ F x2 | G2- G/F/ | E E2 | F2 z | F F3/2 E/4F/4 | G/A/ B/G/ A/F/ |$ E3 | D2 x | F F2- | F3- | %10
+ F E2- | E3- |$ E D2- | D ^C2 | D2 ^C | D3 :| x3 | x3 |$ x3 | x3 | E PE2 | A A2- | A ^c d | %23
+ ^c z x |$ F x2 | G2- G/F/ | E E2 | F2 x | F F3/2 E/4F/4 | G/A/ B/G/ A/F/ |$ E3 | D2 x | F F2- | %33
+ F3- | F E2- | E3- |$ E D2- | D ^C2 | D2 ^C | D3 |] %40
+V:3
+"m" x2"m" F4 |"m" x6 |"" x6 |"""" x6 |"" x6 |"m" x6 |$"""" x6 |"m""m""m" x6 |"m" x6 |"m" x6 | %10
+"""" x6 |"" x6 |$"""" x6 |"m""m" x6 |"m""m""" x6 |"m" x6 :|"C{""" x6 |"" G,2 PG,3 ^F,/G,/ |$ %18
+"m""" A,6 |"m" G,6 |"m" x6 |"m""m" x6 |"""""m" x6 |"""" x6 |$"m" x2"m" F4 |"m" x6 |"" x6 |"""" x6 | %28
+"" x6 |"m" x6 |$"""" x6 |"m""m""m" x6 |"m" x6 |"m" x6 |"""" x6 |"" x6 |$"""" x6 |"m""m" x6 | %38
+"m""m""" x6 |"m" x6 |] %40
+V:4
+ D,2 D2 C2 | B,2 A,G, A,B, | C2 C,B,, A,,G,, | F,,2 G,,2 A,,2 | B,,F, B,A, G,F, | %5
+ E,^C, D,E, F,G, |$ A,2 A,,2 A,2 | D,2 F,,2 A,,2 | D,,A,, D,C, B,,A,, | G,,A,, B,,G,, A,,B,, | %10
+ C,G, CB, A,G, | F,G, A,F, G,A, |$ B,C B,A, G,F, | E,F, G,F, G,E, | F,2 G,2 A,2 | D,2 A,,2 D,,2 :| %16
+ D,2 PD,3 C,/D,/ | E,6 |$ ^F,2 PF,3 E,/F,/ | G,2 D,2 G,,2 | G,F, G,B, A,G, | F,A, G,F, E,D, | %22
+ ^C,2 A,,2 D,2 | A,,2 =B,,2 ^C,2 |$ D,2 D2 C2 | B,2 A,G, A,B, | C2 C,B,, A,,G,, | F,,2 G,,2 A,,2 | %28
+ B,,F, B,A, G,F, | E,^C, D,E, F,G, |$ A,2 A,,2 A,2 | D,2 F,,2 A,,2 | D,,A,, D,C, B,,A,, | %33
+ G,,A,, B,,G,, A,,B,, | C,G, CB, A,G, | F,G, A,F, G,A, |$ B,C B,A, G,F, | E,F, G,F, G,E, | %38
+ F,2 G,2 A,2 | D,2 A,,2 !fermata!D,,2 |] %40

@@ -1,0 +1,34 @@
+% Erato Praeludium: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=128
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Erato Praeludium
+C:J. K. F. Fischer
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Emin
+V:1 treble nm="up" snm="Hpschd"
+V:2 treble 
+V:3 bass nm="down" snm="Hpschd"
+V:4 bass 
+V:1
+ z eBA GBGF E^DEF G[FD][GE][AF] | [BG]4- [BG] [^dF][eG][fA] [gB]2>[fA]2 [eG]4 | %2
+ F4- F FGA G4- G E=D2 | [BD]4- [BD] [AF][BG][cA] dgd[cA] [BG]2cB | A4- A dAF G4- G GFE | %5
+ FAFD z4 z dAF DFDA, | z DDF FAAc caaf fccA | B8- B BAG AcEG | F4 d4- d dcB ceGB | %9
+ AE^CE A,4 z =cBA BdGB | A4 G4- G GFE F4- | FFGA G4- G G=FE FEA^F | ^DFDB, B4- B BAG A4- | %13
+ [A^D-] ^D3- D D2<E2 ^CDE [FD]2>[FD]2 | E16 |] %15
+V:2
+ x16 | x16 | z ed^c d4- d d=cB c2>c2 | z8 B3 z2 d z2 | x16 | x16 | x16 | z GGD DB,B,D E4 z4 | x16 | %9
+ x16 | x16 | z4 z EDE C8 | B,3 z2 ^DEF E6 F2 | z AGF G2>G2 F4 z4 | x16 |] %15
+V:3
+ E,12 E,4 | z E,B,,A,, G,,B,,G,,F,, E,,^D,E,F, G,F,G,E, | B,6 B,2 E,4 E,,2F,,2 | %3
+ G,,G,D,C, B,,D,B,,A,, G,,6 [G,D]2 | G,4 [F,D]4- [F,D] D^CB, C4 | D,8 D,8 | F,16 | G,8 C,8 | %8
+ [CD,] D,7 E,8 | [G,-^C,]4 [^C,G,]4 D,8 | D,16 | [^D,B,]4- [D,B,] z3 A,8 | [A,,F,]4 G,6 E,2 C4 | %13
+ B,8- B,4- B, B,A,2- | [A,E,,E,] [E,,E,]15 |] %15
+V:4
+ z4 z EB,A, G,B,G,F, z4 | x16 | x16 | x16 | ^CECA, z4 E,8 | D4 A,DA,F, z8 | x16 | z12 C4- | %8
+ z CB,A, B,DF,A, G,8- | z4 z G,F,E, F,4 G,4 | F,=CB,A, B,DG,B, A,4- A, A,B,C | z4 E,4 A,,8- | %12
+ z4 G,,4 C,4- C, C,B,,A,, | B,,16 | z A,B,A, ^G,A,F,A, G,8 |] %15

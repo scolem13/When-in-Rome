@@ -1,0 +1,62 @@
+X:1
+T:3 Songs as Unpretentious as the Wild Rose
+T:Nothing But a Wild Rose
+C:Carrie Jacobs-Bond
+Z:Carrie Jacobs-Bond
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/4
+Q:1/4=114
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble 
+L:1/8
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 treble 
+V:1
+"^Moderato" z8 | z8 | z8 | z8 |:!p! B B B B B3 d | d4 F4 | G G G G E3 E | A6 z2 | %8
+w: ||||1. Ah, ’tis noth- ing but a|wild rose,|Dain- ty pet- als frail and|pink,|
+w: ||||2. And so with some hearts we|cher- ish,|All too sen- si- tive we|know,|
+w: ||||3. But the ten- der heart and|wild rose,|Tho’ their mis- sion soon is|past.|
+!<(! d d d d!<)! f3 e |!>(! d4!>)! d2 z2 |"^cresc." c3/2 B/ A3/2 G/ E2 B2 |!mf! A6 z2 | %12
+w: And it with- ers while you|pluck it,|Hard- ly worth the while, you|think,|
+w: For they can- not bear the|rough winds,|Nor the win- ter’s ice and|snow,|
+w: Will have left a fra- grant|mem- ’ry|Cling- ing ’round us close and|fast,|
+ B3/2 A/!>(! G3/2 E/ A3!>)! G |1,2!p! G6 z2 | z8 | z8 :|3 G6 z2 |] %17
+w: Hard- ly worth the while, you|think.||||
+w: Nor the win- ter’s ice and|snow.||||
+w: Cling- ing ’round us close and||||fast.|
+V:2
+ x8 | x8 | x8 | x8 |: x8 | x8 | x8 | x8 | x4 g3 x | x8 | x8 | x8 | x8 |1,2 x8 | x8 | x8 :|3 x8 |] %17
+V:3
+!pp! (b/b/b/b/ b3/2 d'/) | (d'2 f2) |(({/^c} b/>)a/({ga} g/>)e/({ab} a3/2) g/ | %3
+!>(! g) !arpeggio![dgd']!>)! !arpeggio![gbg'] z |:!p! z !arpeggio![dgd'] z !arpeggio![^ebd'] | %5
+ z !arpeggio![fc'd'] !arpeggio![fc'd'f'] z | z !arpeggio![dd'] z !arpeggio![g_be'] | %7
+ z !arpeggio![f=c'd']!8va(! !arpeggio![c'd'f'a'] z!8va)! | %8
+!<(! z !arpeggio![dgbd']!<)! z !arpeggio![g_b^c'e'] | %9
+!>(! z !arpeggio![f=c'd'f'] z!>)! !arpeggio![=f=bd'=f'] | %10
+"_cresc." [GAce] !arpeggio![cega] !arpeggio![gac'e'] z | %11
+!mf! [CEGA] !arpeggio![cega] !arpeggio![gac'e'] z | %12
+ [^CGA]!>(! !arpeggio![GA^ce] [=CFA]!>)! !arpeggio![F=cdf] | %13
+!p!"^rall." [B,DG] !arpeggio![dgd'] !arpeggio![gbg'] z |!pp!({/^c} b/>)a/ g/>e/({ab} a3/2) g/ | %15
+!>(! g2-!>)! g z :|"^rall." [B,DG] !arpeggio![dgd'] !arpeggio![gbg'] z |] %17
+V:4
+ G, !arpeggio![DGd] ^G, !arpeggio![D^Ed] | A, !arpeggio![DFc] !arpeggio![Fcd]2 | %2
+ E, !arpeggio![^CGA] D, !arpeggio![=CDFA] | %3
+[K:bass] G,,[K:treble] !arpeggio![DB] !arpeggio![Gd] z |: G, !arpeggio![DGB] ^G, !arpeggio![D^EB] | %5
+ A, !arpeggio![DFc] !arpeggio![Fcd] z | B, !arpeggio![DGB] _B, !arpeggio![EG_B^c] | %7
+ A, !arpeggio![F=cd] !arpeggio![Acdf] z | B, !arpeggio![DGB] _B, !arpeggio![EG_B^c] | %9
+ A, !arpeggio![DFA=c] ^G, !arpeggio![D=F=B] | [A,CE] !arpeggio![CEGA] !arpeggio![GAce] z | %11
+[K:bass] C,[K:treble] !arpeggio![CEGA] !arpeggio![GAce] z | %12
+[K:bass] A,, !arpeggio![G,A,^C] D,, !arpeggio![F,=CD] | %13
+ G,,[K:treble] !arpeggio![DB] !arpeggio![Gd] z | %14
+[K:bass] E,[K:treble] !arpeggio![^CGA][K:bass] D,[K:treble] !arpeggio![=CDFA] | %15
+[K:bass] G,,[K:treble] !arpeggio![B,DG] !arpeggio![DGB] z :| %16
+[K:bass] G,,[K:treble] !arpeggio![DB] !arpeggio![Gd] z |] %17
+V:5
+ x4 | x4 | x4 | x4 |: B2 d2 | d3 x | g2 e2 | f3!8va(! x!8va)! | d2 e2 | f2 =f2 | x4 | x4 | x4 | %13
+ x4 | x4 | x4 :| x4 |] %17

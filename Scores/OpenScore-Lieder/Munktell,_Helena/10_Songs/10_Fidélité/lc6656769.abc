@@ -1,0 +1,76 @@
+X:1
+T:10 Songs / 10 Mélodies
+T:Fidélité
+C:Helena Munktell
+Z:Adolf Fredrik Lindblad (original Swedish poem)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 7 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=92
+M:2/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:7 treble 
+V:3 bass 
+V:4 bass 
+V:6 bass 
+L:1/4
+V:1
+"^Andante con duolo" z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z2 z (d | d2 f d | (d2 c) d | %11
+w: ||||||||L’a-|veu mur- mu-|\- ré _ tout|
+ (d3)!<(! d | (d2!<)! g) d | (d2!>(! c) d!>)! | d2) z!mf! (A | d2 A ^F | A2 G ^F | %17
+w: bas, le|ciel _ en|soit _ té-|moin. Mon|coeur trouve en|toi son re-|
+!<(! =B2!>(! B2)!<)!!>)! | z4 | z2 z!f! (d | g2 ^c d | !>!^f2 =c ^c | =d4) | z2 z (D | d2 A B | %25
+w: fu- ge;||sens-|le pal- pi-|ter en ton|coeur.|Qu’il|soit ta dou-|
+ B2 ^F G |!<(! G2!<)!!>(! G2)!>)! | z2 z ([B,E] | B2 ^F G |!>(! G2!>)! D E | !>!E4 | D2) z (d | %32
+w: ceur et ton|char- me,|qu’il|soit ton re-|pos- et ton|gui-|de, ce|
+ !>!A2 B B | ^F2 G G |!<(! E4!<)! |!>(! D4)!>)! | z2 z!mf! (d | (d2- d/g/) f/ d/ | =B c/ d/ G2 | %39
+w: coeur qui se|berce à ta|vi-|de...|O|rê- * * ves, pas-|sez com- me l’on-|
+ G2- G G |"^dim." (G2- G/c/) B/ G/ | (EF/) G/ D2 | D4-) | D2- !fermata!D!pp! (d | %44
+w: de; _ que|seu _ _ le la|foi- * de meu-|re!|_ _ O|
+ (d2- d/g/) f/ d/ | =B c/ d/ G2 | G2- G G | (G2-"^Dim . e  rit." G/c/) B/ G/ | (EF/) G/ D2 | D4) | %50
+w: rê- * * ves, pas|sez com- me l’on-|de; _ que|seu _ _ le la|foi- * de meu-|re!|
+ z4 | z4 | z4 |] %53
+w: |||
+V:2
+!mp! (d | d2- d/g/f/d/ | Bc/d/ G2) | G3 (G | G2- G/c/B/G/ | EF/G/ D2 | D3) D | (D2!p! [DFBd]2- | %8
+ [DFBd-]4) | d4 | d2 cd | [Bd]2 D2 | D2 D2 | D2 CD | D4 | [DA]4 | [CE^FA]4 | =B2 (BD | %18
+!<(! d2 d)D!<)! | d3!mf! d | !>![Gdg]2 ^cd | [^F^f]2 =c^c | [^F=d]2 [Fd] (D | d2 AB) | %24
+"_dim." [Dd]2 cB | B2 ^FG | [EG]2 [EG]2 | [EG]2 [EG]2 | [^FB]2 F[B,EG] | G4 | %30
+!<(! [CE]2 [Geg]2!<)! |!>(! [^Fd^f]4!>)! | [DAcd]2 [DBd]2 | [C^FB]2 [B,DG]2 | [^CEG]4 | [B,DG]4 | %36
+ z4 |!mf! [G=Bd] [GBd]2 [GBd]- | [GBd] [G=Bd]2 [=B,DG]- | [B,DG] [=B,DG]2 [B,DG] | %40
+!p! [_B,DG]"_dim." [B,DG]2 [B,DG] | [B,EG] [B,EG]2 [B,D]- | [B,D] [B,D]2[K:bass] [^F,A,CD] | %43
+[K:treble]!<(! [^FAcd]2!<)!!>(! !fermata![FAcd]2!>)! |!pp! [G=Bd] [GBd]2 [GBd]- | %45
+ [GBd] [G=Bd]2 [=B,DG]- | [B,DG] [=B,DG]2 [B,DG] |!p! [_B,DG]"_Dim. e rit." [B,DG]2 [B,DG] | %48
+ [B,EG] [B,EG]2 [B,D]- | [B,D] [B,D]2 [B,D] |!pp! z2 D/G/B/d/ | ([B-g]4 | !fermata![Bd]4) |] %53
+V:3
+ z |!ped! [G,,D,]!ped-up! [G,D]2 ([G,-D] | [G,D])[G,D][G,,D,]([G,-D] | [G,D])[G,D] x G, | %4
+ z G,2 G,- | G,2- G,[D,G,] | G,, [D,G,]2 [G,B,] | [D,F,B,]2 [F,B,]2- | [F,B,]4 | [F,B,]4 | B,4 | %11
+ [F,B,]2 D,2 | D,2 D,2 | B,,2 G,2 | G,2 ^F,2 | A,4 | A,4 | [_A,=B,]4 | =B,3 x | C4 | [=B,D]4 | %21
+ [_B,_D]4 | [B,_D]2 [A,C]2- | [A,C]3 D, | ^F,2 F,G, | (!>!D2 A,B, | B,3) (B,, | E,,4) | D,3 E, | %29
+ G,4- | G,4 | A,2 A,,2 | ^F,D, G,2 | E,D,- D,2 | E,2 G,2 | D,4 | D,2 G,2- | G,4- | G,4- | %39
+ G,2 !>!G,2- | G,4 | B,,>A,, G,,2- | D,3 D, | D2 !fermata!D2 | D,4- | D,4- | D,2 !>!G,2- | G,4 | %48
+ B,,>A,, G,,2- | D,4 | [G,,,G,,]/D,/G,/B,/ z2 | [G,D]4- | !fermata![G,D]4 |] %53
+V:4
+ x | x4 | x4 | x2 E,D, | B,,4- | B,,>A,, G,,2- | G,,2 x [=E,,=E,] | [B,,,B,,]2 B,,2- | B,,4- | %9
+ B,,4 | [B,,_G,]4 | B,,2 A,,2 | G,,2 F,,2 | E,,4 | [D,,A,,D,]4 | ^F,4 | D,4 | D,3 D,- | D,3 D,- | %19
+ D,3 D,- | D,3 D,- | =D,3 D,- | D,2- D,2- | D,3 D, | B,,4- | B,,2 z2 | E,3 x | x4 | x4 | C,4- | %30
+ C,>B,, A,,E, | D,2 D,,2- | D,,4 | D,,3 G,,- | G,,4- | G,,2 G,,2- | G,,4- | G,,4- | G,,4- | G,,4- | %40
+ G,,4 | x4 | G,,3 D,- | D,4 | G,,4- | G,,4- | G,,4- | G,,4 | x4 | G,,4 | x4 | x4 | x4 |] %53
+V:5
+ x | x4 | x4 | x4 | [B,E] [B,E]2 E | x2 DB, | z B,2 x | x4 | x4 | [DF]4 | [E_G]4 | D2 C2 | %12
+ B,2 B,2 | B,2 x2 | x4 | x4 | x4 | [D=F]4 | [DF_A]3 D | D4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %27
+ B,4 | B,2 x2 | [DE]2 [=B,D][CE] | x4 | x4 | x4 | x4 | x4 | x4 | x4 | D4- | D3 x | x4 | x4 | x4 | %42
+ x3[K:bass] x |[K:treble] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %53
+V:6
+ x/ | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x C, | A,2 | x2 | x2 | x2 | x2 | %19
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | D,2- | D,2- | %38
+ D,2- | D, x | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %53
+V:7
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ ([F^G]2 [^F=A]2) | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %36
+ x4 | x4 | x4 | x4 | x4 | x4 | x3[K:bass] x |[K:treble] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %51
+ x4 | x4 |] %53

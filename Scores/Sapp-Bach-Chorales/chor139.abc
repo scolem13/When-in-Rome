@@ -1,0 +1,30 @@
+X:1
+T:Warum sollt ich mich denn gr&auml;men
+T:Warum sollt ich mich denn gr&auml;men
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ G G A G | A/B/ c c B | !fermata!c2 d e | !fermata!c2 B/c/ d | !fermata!A2 d d | c B/A/ A2 | %6
+ !fermata!G2 G G | A G A/B/ c | c B !fermata!c2 | d e !fermata!c2 | B/c/ d !fermata!A2 | %11
+ d d c B/A/ | A2 !fermata!G2 || %13
+V:2
+ D E D D | E =F G2 | !fermata!G2 B/A/ B | !fermata!A2 =G G | !fermata!F2 F G | G G G F | %6
+ !fermata!D2 E B,/^C/ | D/=C/ B, C/D/ C/D/ | E D !fermata!C2 | F ^G !fermata!E2 | %10
+ =G F/G/ !fermata!A2 | G G/F/ G/A/ D/E/ | F/ G F/ !fermata!D2 || %13
+V:3
+ B c F G | c c/d/ e d | !fermata!e2 g/=f/ e | !fermata!e2 e d | !fermata!d2 A B | c d e d/c/ | %6
+ !fermata!B2 c G | F G G/=F/ G/A/ | G e !fermata!e2 | d/c/ B !fermata!A2 | G/A/ B/G/ !fermata!d2 | %11
+ B/c/ d e/f/ g | d/ c/4B/4 c !fermata!B2 || %13
+V:4
+ G, C, C B, | A, _A, G,2 | !fermata!C,2 G, ^G, | !fermata!A,2 E, B,,/C,/ | !fermata!D,2 D, G,/F,/ | %5
+ E, D, C, D, | !fermata!G,,2 C,/D,/ E, | D,/E,/ =F, E,/D,/ E,/^F,/ | G, ^G, !fermata!A,2 | %9
+ B, E, !fermata!A,2 | E, D,/E,/ !fermata!F,2 | G,/A,/ B, B,/A,/ B,/C/ | D D, !fermata!G,2 || %13

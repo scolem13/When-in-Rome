@@ -1,0 +1,29 @@
+X:1
+T:Nun ruhen alle W&auml;lder
+T:Nun ruhen alle W&auml;lder
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ c | A B c/d/ e | d2 !fermata!c c/d/ | e e B c | A2 !fermata!G E | A B c c | !fermata!B3 c | %7
+ A B c/d/ e | d2 !fermata!c c/d/ | e e B c | A2 !fermata!G E | A B c d | c B !fermata!A x || %13
+V:2
+ A | F G A/B/ c | c B !fermata!A A | A/G/ A/F/ G/F/ E | E =D !fermata!E B, | E _D C/D/ E | %6
+ !fermata!E3 G | F E E F | F/E/ F/G/ !fermata!=A _A | B A/G/ F G | G F !fermata!=E _E | %11
+ E/F/ E/D/ C/E/ F/G/ | A G !fermata!E x || %13
+V:3
+ e | d d e/d/ c/B/ | A e !fermata!e f | e e e G | A/G/ A !fermata!B G/F/ | E F/G/ A A | %6
+ !fermata!G3 c | c/d/ c/B/ A/B/ c | B/c/ d/e/ !fermata!f f | e/d/ c =d G | c2 !fermata!c c | %11
+ c/d/ c/B/ A A | f B/ c/4d/4 !fermata!c x || %13
+V:4
+ A, | D/C/ B, A,3/2 G,/ | F, G, !fermata!A, F, | C,/B,,/ C,/D,/ E,/D,/ C, | F,2 !fermata!E, D, | %5
+ C, B,, A,,/B,,/ C,/D,/ | !fermata!E,3 =E, | F, G, A, =A, | B, B,, !fermata!F, F, | %9
+ G, A, A,/G,/ F,/=E,/ | F,/G,/ A,/B,/ !fermata!C C, | F, G, A,/G,/ F,/E,/ | D, E, !fermata!A,, x || %13

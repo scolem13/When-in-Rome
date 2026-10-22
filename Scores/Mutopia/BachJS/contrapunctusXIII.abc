@@ -1,0 +1,82 @@
+% Die Kunst der Fuge, Contrapunctus XIII - Canon alla Duodecima: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=748
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Die Kunst der Fuge, Contrapunctus XIII - Canon alla Duodecima
+C:Johann Sebastian BACH (1685 - 1750)
+%%score 1 2
+L:1/8
+Q:1/4=150
+M:2/2
+I:linebreak $
+K:Dmin
+V:1 treble nm="Upper"
+V:2 bass nm="Lower"
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | (3A=BA(3_A=AB (3cdc(3Bcd | e4- e dc=B | c4- c =BA_A | %11
+ =A2 =Bc de f2 | f2 _A2 z E_GA | =A_A_GE =BAGE | c=B =A2 z fe_e | =ec=BA cBA_A | %16
+ =A2 z2 (3EFE(3DEF | GEFG A=B_d=d | ed_d=B A3 _B | cBAG FGAF | DEFB, BGAB | CEA z DFB z | %22
+ EGAB cAGF | G2 c2 A2 =B2 | (3cdc(3=Bcd e3 d/c/ | =BGAB c3 B/A/ | _A2 E2 z =AGF | E2 CE A2 _D2 | %28
+ =D2 A,2 z =B,_D=D | ED_DE FE=DF | GFED EcBA | BGEG _DE=DF | E2 z2 (3=BcB(3AB_d | %33
+ (3=ded(3_d=de (3fgf(3efg | a4- a gfe | f4- f ed_d | =d2 ef ga b2 | b2 _d2 z A=Bd | =d_d=BA edBA | %39
+ fe =d2 z _ba_a | =afed fed_d | =d2 z2 (3A=BA(3_A=AB | _dA=Bd =defg | agfe d3 e | fedc BcdB | %45
+ GABE e_d=de | FA d2 GB e2 | A_d=de fd_d=B | _d2 f2 =d2 e2 | (3fgf(3efg a3 g/f/ | e_d=de f3 e/d/ | %51
+ _d2 A2 z =dcB | A2 FA d2 _G2 | =G2 D2 z EFG | AGFA BAGB | cBAG Afed | ecAc FAGB | %57
+ A2 z2 (3efe(3def | g2- g/ f/e/d/ (3cdc(3=Bcd | ed_d=B A3 _B | cBAG FGAF | BGFE D2 z2 | %62
+ z2 A2 DF B2 | EG c2 z AG_G | =G2 A4 B2 | _D=DEF (3GAG(3FGA | B2 G2 (3ded(3_d=de | %67
+ f2 d2 (3A=BA(3_A=AB | (3_d=d_d(3=Bd=d eA a2- | agfe f4- | fedc BcdB | GABE e_d=de | FAd z GBe z | %73
+ A_d=de fd_d=B | _d2 f2 =d2 e2 | (3A=BA(3_A=AB (3cdc(3Bcd | e4- e dc=B | c4- c =BA_A | %78
+ =A2 =Bc de f2 | f2 _A2 z E_GA | =A_A_GE =BAGE | c=B =A2 z fe_e | =ec=BA cBA_A | %83
+ =A2 z2 (3EFE(3DEF | GEFG A=B_d=d | ed_d=B A3 _B | cBAG FGAF | DEFB, BGAB | CEA z DFB z | %89
+ EGAB cAGF | G2 c2 A2 =B2 | (3cdc(3=Bcd e3 d/c/ | =BGAB c3 B/A/ | _A2 E2 z =AGF | E2 CE A2 _D2 | %95
+ =D2 A,2 z =B,_D=D | ED_DE FE=DF | GFED EcBA | BGEG _DE=DF | E2 z2 (3=BcB(3AB_d | %100
+ (3=ded(3_d=de (3fgf(3efg | a4- a gfe | f4- f ed_d | =d2 ef ga b2 | b2 _d2 z A=Bd | =d_d=BA edBA | %106
+ fe =d2 z _ba_a | =afed fed_d | =d2 z2 (3A=BA(3_A=AB | _dA=Bd =defg | agfe d3 e | fedc BcdB | %112
+ GABE e_d=de | FA d2 GB e2 | A_d=de fd_d=B | _d2 f2 =d2 e2 | (3fgf(3efg a3 g/f/ | e_d=de f3 e/d/ | %118
+ _d2 A2 z =dcB | A2 FA d2 _G2 | =G2 D2 z EFG | AGFA BAGB | cBAG Afed | ecAc FAGB | %124
+ A2 z2 (3efe(3def | g2- g/ f/e/d/ (3cdc(3=Bcd | ed_d=B A3 _B | cBAG FGAF | BGFE D2 z2 | %129
+ z2 A2 DF B2 | EG c2 z AG_G | =G2 A4 B2 | _D=DEF (3GAG(3FGA | B2 G2 (3ded(3_d=de | %134
+ f2 d2 (3A=BA(3_A=AB | (3_d=d_d(3=Bd=d eA a2- | agfe f4- | fedc BcdB | GABE e_d=de | FAd z GBe z | %140
+ A_d=de fd_d=B | _d2 f2 =d2 e2 | fe d2 z ba_a | =afed fed_d | =d8 |] %145
+V:2
+ (3D,E,D,(3_D,=D,E, (3F,G,F,(3E,F,G, | A,4- A, G,F,E, | F,4- F, E,D,_D, | =D,2 E,F, G,A, B,2 | %4
+ B,2 _D,2 z A,,=B,,D, | =D,_D,=B,,A,, E,D,B,,A,, | F,E, =D,2 z _B,A,_A, | =A,F,E,D, F,E,D,_D, | %8
+ =D,2 z2 (3A,,=B,,A,,(3_A,,=A,,B,, | C,A,,=B,,C, D,E,_G,_A, | =A,=G,F,E, D,3 E, | %11
+ F,E,D,C, =B,,C,D,B,, | _A,,=A,,=B,,E,, E,C,D,E, | _G,,A,,D, z _A,,=B,,E, z | %14
+ =A,,C,D,E, F,D,C,=B,, | C,2 F,2 D,2 E,2 | (3F,G,F,(3E,F,G, A,3 G,/F,/ | E,C,D,E, F,3 E,/D,/ | %18
+ _D,2 A,,2 z =D,C,B,, | A,,2 F,,A,, D,2 F,,2 | G,,2 D,,2 z E,,F,,G,, | A,,G,,F,,A,, B,,A,,G,,B,, | %22
+ C,B,,A,,G,, A,,F,E,D, | E,C,A,,C, _G,,A,,_A,,=B,, | =A,,2 z2 (3E,F,E,(3D,E,F, | %25
+ G,2- G,/ F,/E,/D,/ (3C,D,C,(3=B,,C,D, | E,D,C,=B,, A,,3 B,, | C,_B,,A,,G,, F,,G,,A,,F,, | %28
+ B,,G,,F,,E,, D,,2 z2 | z2 A,,2 D,,F,, B,,2 | E,,G,, C,2 z A,,G,,_G,, | =G,,2 A,,4 B,,2 | %32
+ _D,,=D,,E,,F,, (3G,,A,,G,,(3F,,G,,A,, | B,,2 G,,2 (3D,E,D,(3_D,=D,E, | (3F,G,F,(3E,F,G, A,D, D2- | %35
+ DCB,A, B,4- | B,A,G,F, E,F,G,E, | _D,=D,E,A,, A,F,G,A, | =B,,D,G, z _D,E,A, z | %39
+ =D,F,G,A, _B,G,F,E, | F,2 B,2 G,2 A,2 | (3D,E,D,(3_D,=D,E, (3F,G,F,(3E,F,G, | A,4- A, G,F,E, | %43
+ F,4- F, E,D,_D, | =D,2 E,F, G,A, B,2 | B,2 _D,2 z A,,=B,,D, | =D,_D,=B,,A,, E,D,B,,A,, | %47
+ F,E, =D,2 z _B,A,_A, | =A,F,E,D, F,E,D,_D, | =D,2 z2 (3A,,B,,A,,(3G,,A,,=B,, | %50
+ _D,A,,=B,,D, =D,E,F,G, | A,G,F,E, D,3 E, | F,E,D,C, B,,C,D,B,, | G,,A,,B,,E,, E,_D,=D,E, | %54
+ F,,A,,D, z G,,B,,E, z | A,,C,D,E, F,D,C,=B,, | C,2 F,2 D,2 E,2 | (3F,G,F,(3E,F,G, A,3 G,/F,/ | %58
+ E,C,D,E, F,3 E,/D,/ | _D,2 A,,2 z =D,C,B,, | A,,2 F,,A,, D,2 F,,2 | G,,2 D,,2 z E,,F,,G,, | %62
+ A,,G,,F,,A,, B,,A,,G,,B,, | C,B,,A,,G,, A,,F,_E,D, | _E,C,A,,C, _G,,A,,=G,,B,, | %65
+ A,,2 z2 (3=E,F,E,(3D,E,F, | (3G,A,G,(3F,G,A, B,2 G,2 | (3D,E,D,(3_D,=D,E, (3F,G,F,(3E,F,G, | %68
+ A,4- A, G,F,E, | F,4- F, E,D,_D, | =D,2 E,F, G,A, B,2 | B,2 _D,2 z A,,=B,,D, | %72
+ =D,_D,=B,,A,, E,D,B,,A,, | F,E, =D,2 z _B,A,_A, | =A,F,E,D, F,E,D,_D, | %75
+ =D,2 z2 (3A,,=B,,A,,(3_A,,=A,,B,, | C,A,,=B,,C, D,E,_G,_A, | =A,=G,F,E, D,3 E, | %78
+ F,E,D,C, =B,,C,D,B,, | _A,,=A,,=B,,E,, E,C,D,E, | _G,,A,,D, z _A,,=B,,E, z | %81
+ =A,,C,D,E, F,D,C,=B,, | C,2 F,2 D,2 E,2 | (3F,G,F,(3E,F,G, A,3 G,/F,/ | E,C,D,E, F,3 E,/D,/ | %85
+ _D,2 A,,2 z =D,C,B,, | A,,2 F,,A,, D,2 F,,2 | G,,2 D,,2 z E,,F,,G,, | A,,G,,F,,A,, B,,A,,G,,B,, | %89
+ C,B,,A,,G,, A,,F,E,D, | E,C,A,,C, _G,,A,,_A,,=B,, | =A,,2 z2 (3E,F,E,(3D,E,F, | %92
+ G,2- G,/ F,/E,/D,/ (3C,D,C,(3=B,,C,D, | E,D,C,=B,, A,,3 B,, | C,_B,,A,,G,, F,,G,,A,,F,, | %95
+ B,,G,,F,,E,, D,,2 z2 | z2 A,,2 D,,F,, B,,2 | E,,G,, C,2 z A,,G,,_G,, | =G,,2 A,,4 B,,2 | %99
+ _D,,=D,,E,,F,, (3G,,A,,G,,(3F,,G,,A,, | B,,2 G,,2 (3D,E,D,(3_D,=D,E, | (3F,G,F,(3E,F,G, A,D, D2- | %102
+ DCB,A, B,4- | B,A,G,F, E,F,G,E, | _D,=D,E,A,, A,F,G,A, | =B,,D,G, z _D,E,A, z | %106
+ =D,F,G,A, _B,G,F,E, | F,2 B,2 G,2 A,2 | (3D,E,D,(3_D,=D,E, (3F,G,F,(3E,F,G, | A,4- A, G,F,E, | %110
+ F,4- F, E,D,_D, | =D,2 E,F, G,A, B,2 | B,2 _D,2 z A,,=B,,D, | =D,_D,=B,,A,, E,D,B,,A,, | %114
+ F,E, =D,2 z _B,A,_A, | =A,F,E,D, F,E,D,_D, | =D,2 z2 (3A,,B,,A,,(3G,,A,,=B,, | %117
+ _D,A,,=B,,D, =D,E,F,G, | A,G,F,E, D,3 E, | F,E,D,C, B,,C,D,B,, | G,,A,,B,,E,, E,_D,=D,E, | %121
+ F,,A,,D, z G,,B,,E, z | A,,C,D,E, F,D,C,=B,, | C,2 F,2 D,2 E,2 | (3F,G,F,(3E,F,G, A,3 G,/F,/ | %125
+ E,C,D,E, F,3 E,/D,/ | _D,2 A,,2 z =D,C,B,, | A,,2 F,,A,, D,2 F,,2 | G,,2 D,,2 z E,,F,,G,, | %129
+ A,,G,,F,,A,, B,,A,,G,,B,, | C,B,,A,,G,, A,,F,_E,D, | _E,C,A,,C, _G,,A,,=G,,B,, | %132
+ A,,2 z2 (3=E,F,E,(3D,E,F, | (3G,A,G,(3F,G,A, B,2 G,2 | (3D,E,D,(3_D,=D,E, (3F,G,F,(3E,F,G, | %135
+ A,4- A, G,F,E, | F,4- F, E,D,_D, | =D,2 E,F, G,A, B,2 | B,2 _D,2 z A,,=B,,D, | %139
+ =D,_D,=B,,A,, E,D,B,,A,, | F,E, =D,2 z _B,A,_A, | =A,F,E,D, F,E,D,_D, | %142
+ =D,F,,G,,A,, B,,G,,F,,E,, | F,,2 B,,2 G,,2 A,,2 | D,,8 |] %145

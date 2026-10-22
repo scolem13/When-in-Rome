@@ -1,0 +1,48 @@
+% Sinfonia 3: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=143
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sinfonia 3
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="up"
+V:2 treble 
+V:3 bass nm="down"
+V:4 bass 
+L:1/8
+V:1
+ z2 fg a2=c2 B2ef g2B2 | A2de f2A2 Gfed ^cbag | fede fef^g a4 e4- | [eFBc]4 d8 c4- | %4
+ [cD][ec][dB][cA] [B^G]f[^ge]d a8- | [ad] dd2 f=gfe ^dBcd efe=d | [GcABc]4 dedc B4 e4- | %7
+ [eAG]2[AF]G d2>[eB]2 cBAB cBc^d | [Ee]2[B=G]A e2>[fc]2 =dcBc dcde | %9
+ f B, [e^A,] [dB,] [eC] [fD] E [=AD] z ^G2 c d e2 =G2 | F2Bc d2F2 EdcB ^Agfe | %11
+ dcBc dBcd =F^G=AB c4- | [c^D-] ^D3- D FE=D C4- C EDC | [AB,-] B,3- B, DCB, [FA,]2^f=g a2=c2 | %14
+ B4 ^f4- f =gfe ^d=c'ba | [B,ga]2[gE][fF] [eG]2[gB,]2 ^c2ef g2B2 | [EA] A5 A2 [AF]2F2 AGAB | %17
+ =cB[cA][dB] [ec]2[cE]2 [AF] G4- G [cF]2 | [BG]2G2 B=c d6 c4- | [=cFDEF]4 B6 g2 A2f2 | %20
+ gdef gbag fe[dF][eG] [fA]2[f=C]2 | [^dB,]2[^cE][dF] [eG]2[eB,]2 [cA,]2[B=D][cE] [=dF]2[dA,]2 | %22
+ [BG,][AF][GE][FD] [EC]B[cA]G [dF]2fg a2=c2 | [ABef]4 g2B2 A2de f2A2 | [FG][fA][eG][dF] c4 [dF]8 |] %25
+V:2
+ x16 | x16 | z8 z2 cd z2 =G2 | z6 F2 E2AB z2 E2 | z8 cBAB cABc | z c z e A8 G4- | %6
+ z4 F4- F AGF EdcB | z4 A^GA z E8- | z4 BAB z F4 B,4- | x17 | x16 | z8 z4 z ^G^FE | %12
+ z F^GA B4- B =F^FG A4- | z A^GF =F4 z8 | z2 ^FG A2=C2 B,8- | z4 z f z e A,4 E4- | %16
+ z FED CB z G z G z G z4 | z4 z d z B z2 AB =cB z d | z A z A z2 BA ^GEFG ABA=G | z4 GAGF E2 z6 | %20
+ z8 z4 z g z e | z B z3 f z d z A z3 e z c | z8 z2 A6- | z4 G8 F4- | z4 EBAG z8 |] %25
+V:3
+ D4 z2 F,2 G,4 z2 E,2 | F,4 z2 D,2 B,2G,2 A,2A,,2 | D,2D2 C2B,2 A,^G,A,B, CDCB, | %3
+ ^A,F,^G,A, B,CB,=A, G,E,F,G, A,B,A,=G, | F,2D,2 E,2E,,2 A,,B,,C,D, E,F,G,E, | %5
+ F,E,F,G, A,2=C,2 B,,2E,F, G,2B,,2 | A,,2D,E, F,2A,,2 G,,F,E,D, ^C,B,A,G, | %7
+ F,E,D,E, F,E,F,^G, A,2E,2 A,2>B,2 | =G,F,E,F, G,F,G,A, B,2A,2 G,4 | F,12 E,4- | %10
+ [E,^A,F,^G,A,]4 B,4- B, B,CD F,4 | B,,12 =A,,4- | A,,4- A,, A,^G,F, =F,C,^D,F, ^F,2B,,C, | %13
+ =D,2B,,2 C,2C,,2 ^F,,4 z2 F,=G, | A,G,A,B, =CF,G,A, ^D,2F,G, A,2D,2 | %15
+ E,4 z2 E,F, G,F,G,A, B,E,F,G, | C,2E,F, G,2C,2 D,2A,,B,, =C,2E,,2 | D,,16 | %18
+ G,,2B,=C D2=F,2 E,2A,B, C2E,2 | D,2G,A, B,2D,2 =C,B,A,G, ^F,ED=C | B,A,G,A, B,A,B,^C D4 A,4- | %21
+ A,4 G,8 F,4- | F,E,F,G, A,G,F,E, D,C,D,E, F,G,F,E, | ^D,B,,C,D, E,F,E,=D, C,A,,B,,C, D,E,D,C, | %24
+ B,,2G,2 A,2A,,2 D,,8 |] %25
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z7/2 C/ B,/^G,/^A,/B,/ C/D/C/B,/ | %10
+ z2 z/ D,/E,/F,/ =G,2 E^A, | B,A, ^G,F, G,2- G,/ z3/2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %20
+ x8 | x8 | x8 | x8 | x8 |] %25

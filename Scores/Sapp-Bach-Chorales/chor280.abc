@@ -1,0 +1,37 @@
+X:1
+T:Eins ist not, ach Herr, dies eine
+T:Eins ist not, ach Herr, dies eine
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+L:1/8
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ A G/F/ B B | c c d !fermata!d | B3/2 A/ G A | G/F/ E/F/ !fermata!D2 | A G/F/ B B | %5
+ c c d !fermata!d | B3/2 A/ G A | G/F/ E/F/ !fermata!D2 ||[M:3/4] D/E/ x2 | F F F | E E E/F/ | %11
+ G G G/F/ | F F F | B3/2 A/ G | A3/2 G/ F | G F E | D !fermata!D D/E/ | F F F | E E E/F/ | %19
+ G G G/F/ | F2 F | B3/2 A/ G | A3/2 G/ F | G F E | !fermata!D3 || %25
+V:2
+ F D D G/F/ | E A/G/ F !fermata!F | D G/F/ E E | D C !fermata!A,2 | E D F E/D/ | C F F !fermata!F | %6
+ =G/F/ =E D E | E/D/ D/C/ !fermata!A,2 ||[M:3/4] A, x2 | D D D | C/B,/ C/D/ E | E E E | %12
+ D/C/ D/E/ F | G3/2 F/ E | E/D/ C D | D D C | A, !fermata!A, A, | D D D | D C/B,/ C/D/ | E E E | %20
+ E D z | D G/F/ E- | E/G/ F/E/ D/ A,/ | D3/2 E/ C | !fermata!A,3 || %25
+V:3
+ d2 A2 B2 ed | cB A2 A2 !fermata!A2 | GA B2 B2 A2 | A2 AG !fermata!F4 | A2 A2 AF GB- | %5
+ B^G ^A2 B2 !fermata!B2 | d2 c2 B=G E=A | A2 A2 !fermata!F4 ||[M:3/4] FG x4 | A2 A2 AB | cd ed c2 | %11
+ B2 B2 Bc | de fe dc | BA GA B2 | A2 A2 A2 | GA B2 E2 | F2 !fermata!F2 F2 | B2 B2 A2 | B2 A^G A2 | %19
+ A2 B2 c2 | A4 A2 | dc B3 B | A3 c d2 | D2 A2 AG | !fermata!F6 || %25
+V:4
+ D,2 D,2 G,F, E,2 | A,G, F,E, D,2 !fermata!D,2 | G,F, E,2 E,D, C,2 | D,2 A,,2 !fermata!D,4 | %4
+ C,2 D,2 ^D,2 E,2 | ^E,2 F,2 B,,2 !fermata!B,,2 | G,,2 A,,2 B,,2 C,2 | D,2 A,,2 !fermata!D,4 || %8
+[M:3/4] D,2 x4 | D,C, D,E, F,G, | A,2 A,,2 A,2 | E,^D, E,F, G,A, | B,2 B,,2 B,A, | G,F, E,2 E,D, | %14
+ C,B,, A,,2 D,C, | B,,A,, G,,2 A,,2 | D,2 !fermata!D,2 D,C, | B,,2 B,A, G,F, | ^G,2 E,2 A,2 | %19
+ C,2 D,C, B,,A,, | D,4 z2 | B,,2 E,2 E, D, | C,A,, D,3 C, | B,,2 A,,G,, A,,2 | !fermata!D,6 || %25

@@ -1,0 +1,78 @@
+X:1
+T:Jugend-Lieder
+T:Sonett
+C:Mathilde Kralik
+Z:Thibaud I King of Navarre
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/4
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Singstimme\nVoice"
+L:1/8
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:1
+"^Innig" z8 | z4 z2 C>D | E2 E2 E2 E E | A3 G/F/ E2 CD | E2 E2 E E (E/^F/4E/4) ^D/ E/ | %5
+w: |Ach *|könnt ich, könn- te ver-|ges- sen * sie! ihr *|schö- nes, lie- bes, lieb- * * li- ches|
+ (!>!e3 c/A/) ^F2 F2 | ^F2 Fd d^c c B | BA A^G G2 (3AGA | ^G2 (3AGA G2 (3:2:2d2 d | (^c4 ^C2) C2 | %10
+w: We- * * sen, den|Blick, die * freund- * li- che|Lip- * pe, * die! viel- * *|leicht ich _ _ möch- te ge-|ne- sen! Doch|
+ ^C2 C2 C2 z C | E2 ^D3/2 ^C/ C2 C2 |!<(! ^D2 ^d2!<)! !>!e2 E3/2 E/ | ^D2 ^d2 e4 | z8 | z4 z2 E2 | %16
+w: ach! mein Herz, mein|Herz kann es nie! und|doch ist's Wahn- sinn, zu|hof- fen Sie!||Und|
+ E2 E2 E2 E E | E2 E2 E2 E E | E2 E2 E2 z E | e6 e2 | (3(^def e4) z2 | z4 z2 C>D | E2 E2 E2 E E | %23
+w: um sie schwe- ben, gibt|Mut und Le- ben, zu|wei- chen nie! zu|wei- chen|nie! _ _ _|Und *|denn, wie kann ich ver-|
+ A3 G/F/ E2 CD | E2 E2 E E (E/^F/4E/4) ^D/ E/ | (!^!e3 c/A/) ^F2 F2 | ^F2 (Fd) d^c c B | %27
+w: ges- sen * sie, ihr *|schö- nes, lie- bes, lieb- * * li- ches|We- * * sen, Den|Blick, die * freund- * li- che|
+ BA A^G G2 z2 | z8 | z8 | z4 z2 C>D | E2 E2 !>!e2 c E |!>(! A3 G/F/!>)! E2 z2 | z8 |] %34
+w: Lip- * pe, * die!|||Viel *|lie- ber nim- mer ge-|ne- * * sen!||
+V:2
+ z{/B,} !>![F,C] z{/^d} !>![ce] | z{/B,} !>![F,C] z{/^d} !>![ce] | %2
+ z{/B,} [F,C] z!<(!{/^d} [ce]!<)! | z{/B,} [F,C] z{/^d} [ce] | %4
+"_cresc." z !arpeggio![Gce] z !arpeggio![^FAce] |!f! z [E^FAc]!>(! [FAce] [EFAc]!>)! | %6
+!p! z [D^FB] [FBd] [DFB] | z [D^FB] [FBd]!mf! (3([FA]/[^E^G]/[FA]/ | %8
+ [^E^G]) (3([FA]/[EG]/[FA]/ [EG]) (3([FA]/[EG]/[FA]/ | [^E^G]3) z | %10
+!f!{/^D} [A,E]{/^d} [Ae]{/D} [^G,E]{/d} [^Ge] |!<(!{/^D} [A,E]{/^d} [Ae]!<)!{/^d'} [ae']{/d} [Ae] | %12
+!<(!{/^E} [=C^F]!<)! ([c^f] !>![cg]) ([CG] | [C^F]) ([c^f] !>![cg])!p! ([C-G] | %14
+ [C=F]) ([c-f] [ce]) ([C-E] | [CF]) ([c-f] [ce])!pp! [CE] | %16
+{/^A,} [E,B,]{/^A} [EB]{/^D} [A,E]{/^d} [Ae] |"_cresc."{/E} [A,F]{/e} [Af]{/E} [^A,^F]{/e} [^A^f] | %18
+!f!{/^F} [B,G]{/^f} [Bg]{/[DE]} [B,^G]{/[de]} [B^g] |!ff! [cea] [Acf] [FAd] [A,FB] | %20
+ (!>!.[B,E]/!>!.B/ .e/.b/ !>!.e') z |!p! z{/B,} !^![F,C] z{/^d} !^![ce] | %22
+ z{/B,} [F,C]!<(! z{/^d} [ce]!<)! | z{/B,} [F,C] z{/^d} [ce] | z"_cresc." [Gce] z [^FAce] | %25
+!f! z [E^FAc] [FAce] [EFAc] |!p! z [D^FB] [FBd] [DFB] | z [D=FB] [F^Gd] (3([Bd]/[Ac]/[GB]/) | %28
+ [^GB] (3([df]/[ce]/[Bd]/) [Bd]!<(! (3([ac']/!>![^gb]/[fa]/)!<)! | (!>![f-a]2 [f^g]) !fermata!z | %30
+!p! z{/B,} !^![F,C] z{/^d} !^![ce] | z{/B,} !^![F,C] z{/^d} !^![ce] | %32
+ z"^rit."{/B,} !^![F,C] z{/^d} !^![ce] | !arpeggio![eae'] z z2 |] %34
+V:3
+{/^D,} !>![A,,E,] z[K:treble]{/B} !>![Ec] !>![FA] | %1
+[K:bass]{/^D,} !>![A,,E,] z[K:treble]{/B} !>![Ec] !>![FA] | %2
+[K:bass]{/^D,} [A,,E,] z[K:treble]{/B} [Ec] [FA] | %3
+[K:bass]{/^D,} [A,,E,] z[K:treble]{/B} [Ec] [FA] | %4
+[K:bass]{/^D,} [G,,E,] !arpeggio![G,CE]{/D,} [^F,,E,] !arpeggio![^F,A,CE] | %5
+ [B,,,B,,] [E,^F,A,C] [F,A,CE] [E,F,A,C] | [B,,,B,,] [D,^F,B,] [F,B,D] [D,F,B,] | %7
+ [B,,,B,,] [D,^F,B,] [F,B,D] (3([B,D]/^C/[B,D]/ | %8
+ ^C)"^sim." (3([B,D]/C/[B,D]/ C) (3([B,D]/C/[B,D]/ | ^C) (^C, ^C,,) z | %10
+{/^D,} [A,,E,]{/^D} [A,E]{/D,} [^G,,E,]{/D} [^G,E] | %11
+{/^D,} [^F,,E,]{/^D} [^F,E][K:treble]{/^d} [^Fe][K:bass]{/D} [F,E] | %12
+ [^D,A,] ([^DA-] [EA]) ([E,A,] | [^D,A,]) ([^DA-] [EA]) ([E,A,-] | %14
+ [^D,A,]) ([^DA-] [EA]) ([E,A,-] | [^D,A,]) ([^DA-] [EA]) [E,A,] | %16
+{/^A,,} [E,,B,,]{/^A,} [E,B,]{/^D,} [A,,E,]{/^D} [A,E] | %17
+{/E,} [A,,F,]{/E} [A,F]{/E,} [^A,,^F,]{/E} [^A,^F] | %18
+{/^F,} [B,,G,]{/^F} [B,G]{/[D,E,]} [B,,^G,]{/[DE]} [B,^G] | [CEA] [A,CF] [F,A,D] [D,,F,] | %20
+!ped! [E,,B,,^G,]3 z!ped-up! |{/^D,} !^![A,,E,] z[K:treble]{/B} !^![Ec] !^![FA] | %22
+[K:bass]{/^D,} [A,,E,] z[K:treble]{/B} [Ec] [FA] | %23
+[K:bass]{/^D,} [A,,E,] z[K:treble]{/B} [Ec] [FA] | %24
+[K:bass]{/^D,} [G,,E,] [G,CE]{/D,} [^F,,E,] [^F,A,CE] | [B,,,B,,] [E,^F,A,C] [F,A,CE] [E,F,A,C] | %26
+ [B,,,B,,] [D,^F,B,] [F,B,D] [D,F,B,] | [B,,,B,,] [D,=F,B,] [F,B,D] (3([B,D]/[CE]/[DF]/) | %28
+ [DF] (3([DF]/[EG]/[F^G]/) [FG][K:treble] (3([Bd]/!>![ce]/[df]/) | (!>!d2 d) !fermata!z | %30
+[K:bass]{/^D,} !^![A,,E,] z[K:treble]{/B} !^![Ec] !^![FA] | %31
+[K:bass]{/^D,} !^![A,,E,] z[K:treble]{/B} !^![Ec] !^![FA] | %32
+[K:bass]{/^D,} !^![A,,E,] z[K:treble]{/B} !^![Ec] !^![FA] |[K:bass] !arpeggio![A,,,E,,C,] z z2 |] %34
+V:4
+ x2[K:treble] x2 |[K:bass] x2[K:treble] x2 |[K:bass] x2[K:treble] x2 |[K:bass] x2[K:treble] x2 | %4
+[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2[K:treble] x[K:bass] x | x4 | x4 | x4 | x4 | x4 | %17
+ x4 | x4 | x4 | x4 | x2[K:treble] x2 |[K:bass] x2[K:treble] x2 |[K:bass] x2[K:treble] x2 | %24
+[K:bass] x4 | x4 | x4 | x4 | x3[K:treble] x | (c2 B) x |[K:bass] x2[K:treble] x2 | %31
+[K:bass] x2[K:treble] x2 |[K:bass] x2[K:treble] x2 |[K:bass] x4 |] %34

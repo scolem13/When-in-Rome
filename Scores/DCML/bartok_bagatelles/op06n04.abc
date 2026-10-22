@@ -1,0 +1,38 @@
+X:1
+T:14 Bagatelles
+T:Grave
+C:Béla Bartók
+Z:©
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/4
+Q:1/4=69
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Grave"!ff! [FAd]"_legatissimo" [CEA] [FAc]/[DG_B]/ | %1
+!<(! [CEA]/[CEG]/ [A,DF]!<)! !fermata![F,A,D] | [FAcd] [CEGA] [EGAc]/[DFG_B]/ | %3
+!<(! [CEGA]/[DEG]/ [DF]!<)! !fermata![F,A,CD] |$!p! G"^poco cresc."!<(! A F/!<)!D/ | %5
+D/C/!>(! F !fermata!D!>)! |!p!"^cresc. molto"!<(! G A [Ac]/-[FAcd]/&x2"""m"x | %7
+[CA]/!<)![B,G]/!ff! [A,CD] !fermata![A,CD] |$!p!"^poco cresc." G!<(! A F/!<)!D/ | %9
+D/C/!>(! F !fermata!D!>)! |!p!"^cresc. molto"!<(! G A [Ac]/-[FAcd]/ | %11
+[CA]/!<)![B,G]/!ff! [A,CD] !fermata![A,CD] |] %12
+V:2
+"m" [D,,A,,]"m" [A,,E,]"" [F,,C,]/"m"[G,,D,]/ |"m" [A,,E,]/""[C,G,]/"m" D,"C}" !fermata![D,,A,,] | %2
+"m" [D,,F,,A,,C,]"m" [A,,C,E,G,]"" [F,,A,,C,E,]/"m"[G,,_B,,D,F,]/ | %3
+"m" [A,,C,E,G,]/""[C,E,G,_B,]/"m" [D,F,A,C]"C}" !fermata![D,,A,,C,] |$ %4
+"m" [D,F,_B,]"m" [C,E,A,]"" [G,,-D,] |"m" [G,,E,]"" [D,,A,,] !fermata![_B,,F,] | %6
+[I:staff -1] [DF] E[I:staff +1] [F,A,CE]/[D,F,A,C]/ | %7
+"" [G,,D,F,] !tenuto!^G,/^F,/"m" !fermata![D,,A,,C,] |$"m" [D,F,_B,]"m" [C,E,A,]"" [G,,-D,] | %9
+"m" [G,,E,]"" [D,,A,,] !fermata![_B,,F,] | %10
+"m"[I:staff -1] [DF]"m" E""[I:staff +1] [F,A,CE]/"m"[D,F,A,C]/ | %11
+"" [G,,D,F,]"m" ^G,/"m"^F,/"m" !fermata![D,,A,,C,] |] %12
+V:3
+ x3 | x3 | x3 | x3 |$ x2 B, | _B, B, A, | x3 | [DF] x =F, |$ x2 B, | _B, B, A, | x3 | [DF] x =F, |] %12
+V:4
+ x3 | x3 | x3 | x3 |$ x3 | x3 |"m" _B,"m" [A,C] x | x"m""m" D, x |$ x3 | x3 | _B, [A,C] x | %11
+ x D, x |] %12

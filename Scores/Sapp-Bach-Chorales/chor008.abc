@@ -1,0 +1,37 @@
+X:1
+T:Freuet euch, ihr Christen alle
+T:Freuet euch, ihr Christen alle
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ c c B A | G3/2 F/ F !fermata!F | A3/2 B/ c c | B3/2 A/ !fermata!A2 | A B B A | %5
+ G3/2 F/ !fermata!F2 | c c _d d | B B c !fermata!c | A A _d d | c c !fermata!B2 | G A B A | %11
+ G G !fermata!F2 | f f e e | d d c !fermata!c | c c _d c | B3/2 A/ A !fermata!A | A A _d d | %17
+ B B e e | c c f f | =e e f !fermata!f || %20
+V:2
+ F F F/=E/ F | F/G/ =E F !fermata!C | F3/2 G/ A A | A/F/ G !fermata!E2 | F G =E F | %5
+ F =E !fermata!C2 | F F F F | G/A/ B/G/ A !fermata!A | F F B B | B =A !fermata!F2 | =E F F/E/ F | %11
+ F =E !fermata!C2 | A A G G | G/A/ G/F/ =E !fermata!E | F F F/G/ A | A/F/ G E !fermata!E | %16
+ F F B B | G G c c | A/G/ A/B/ c B/A/ | G G =A !fermata!A || %20
+V:3
+ A =A B c | _d c/B/ _A !fermata!A | c3/2 B/ e e | f e/_d/ !fermata!c2 | _d d G F/A/ | %5
+ _d c/B/ !fermata!A2 | =A/B/ c/A/ B B | B e e !fermata!e | _d d f f | _g f/e/ !fermata!_d2 | %10
+ c c B c | _d c/B/ !fermata!A2 | c c c c | c =B c !fermata!G | =A A _B E | e3/2 _d/ c !fermata!c | %16
+ _d d f f | e e g g | f f c F | c c c !fermata!c || %20
+V:4
+ F,2 E,2 _D,2 C,2 | B,,2 C,2 F,,2 !fermata!F,,2 | F,2 E,_D, C,B,, A,,2 | _D,2 E,2 !fermata!A,,4 | %4
+ _D,2 C,B,, C,2 D,2 | B,,2 C,2 !fermata!F,,4 | F,G,=A,F, B,,C,_D,B,, | E,F,G,E, _A,2 !fermata!A,2 | %8
+ _D,E,F,D, B,,C,D,B,, | E,C, F,2 !fermata!B,,4 | B,2 A,2 G,2 F,2 | B,,2 C,2 !fermata!F,,4 | %12
+ F,,G,,A,,B,, C,D,E,F, | G,2 G,,2 C,2 !fermata!C,2 | F,E,_D,C, B,,2 C,D, | %15
+ E,2 E,2 A,,2 !fermata!A,,2 | _D,E,D,C, B,,C,D,B,, | E,F,E,_D, C,D,E,C, | F,=E,F,G, A,G,A,B, | %19
+ C2 C,2 F,2 !fermata!F,2 || %20

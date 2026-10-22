@@ -1,0 +1,45 @@
+% BWV 1005 Adagio: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1458
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:BWV 1005 Adagio
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 3 )
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Violin" snm="Vln"
+V:2 treble 
+L:1/16
+V:3 treble 
+L:1/4
+V:1
+ C>D C>D C>D | [DC]2 [DC]2 [DC]2 | [dB,F]2 [dB,D]2 [dB,G]2 | [e_B,Gd]2 [eB,Gd]2 [eB,Gd]2 | %4
+ g_b ba ag | [fDA]>=B [fDA]>B [fDA]>B | [^fD]2 [fD]2 [fD]2 | [^f^DB]2 [fDB]2 [fDB]2 | ac' c'b ba | %9
+ [a^Dc]2 [gE^c]2 a/g/a/^f/ | [g_B][ac] ^f3 g | (3_B[AG][^FG] ^C2 (3:2:2[DE][FG][AB=c]/ (3:2:1z/4 | %12
+ [_BG]>[A^F] [BG]>[AF] B^d | =d>[^dc] _B2 A>G | [GG,]>A, [GG,]>A, [GG,]>=B, | %15
+ [cA,G]>A [cA,G]>A [cA,G]>A | [cA,F]2 [cA,F]2 [cA,F]2 | [dA,^F]2 [dA,F]2 [dA,F]2 | %18
+ [dB,G]2 [dB,G]2 [dB,G]2 | [dCGe]2 [dCGe]2 [dCGe]2 | [e_B,Gc]2 [eB,Gc]2 [eB,Gc]2 | %21
+ [fA,Ac]>[G_B] [Ac]>[GB] [fDAc]>[FA] | [fG,G_B]>[FA] [GB]>[FA] [eG,GB]2 | [g^CEA]2 g>f [gCAe]>e | %24
+ [fdDA]2 [fd]>[e^c] [fd]>=c | [fG,DB]2 [fG,DB]2 [gG,DB]2 | [eCEc]>[DB] [Ec]>[Fd] [cCGe]2 | %27
+ [e^FA]2 [dF]>[eEc] [=fD=B]>[CA] | [fB,Gd]2 f>e [ceCG]>[B,G] | [^FA,]2 [cA,F]2 [dA,F]2 | %30
+ [BG,G]2 [dG,=F]>E [dG,F]>D | [dG,E]2 [dG,E]>[BD] [cG,E]>[dF] | [eG,Gc]2 [^fG,Gc]2 [eG,Gc]2 | %33
+ [gG,DB]2 g4- | [g^cA]2 f4- | [fBG]2 e4 | [aeF]2 e>[ac] [=bd]>[c'e] | [gB]3 [aEc] g<f | %38
+ [eCGc] (3:2:1z/ [a^f]/ (3:2:2z/4 c/-c[BA]/ (3:2:2z/4 [BG,D]/- (6:5:1[BG,D]2 | %39
+ [D^G,c]2- [DG,c]/ ^D/F/=G/ A/B/[c=d]/[^dB]/ | [cA,^F]2- [cA,F]/ G,/A,/B,/ C/=D/^D/[=FG]/ | %41
+ [=dB,^G]2- [dB,G]/ ^d/=d/c/ [BA]/[=GF]/[^DF]/=D/ | [^DC]>[=DB,] [^DC]>[=DB,] [^DC]>[B=D] | %43
+ [c^D][^dA,^F] [cG,G]2 [B=D]2 | [cCE]E AC B,A | d/B/A/G/ A,/G/c/E/ ^F/c/a/c/ | [BG,G]6 |] %47
+V:2
+ x12 | z3 E z3 E z3 E | z3 e z3 e z3 f | z3 f z3 f z3 f | [A,E^c]4 [A,Ec]4 [A,Ec]4 | x12 | %6
+ c2^d2 d2=d2 d2c2 | z3 g z3 g z3 g | [^Dc]4 [DA]4 [DB]4 | z3 ^f z3 _b [^D=c]4 | =D4 [DA]8 | %11
+ z8 z3 A | z8 G4 | z4 =D8 | x12 | x12 | z3 d z3 d z3 e | z3 B, z3 B, z3 C | z3 e z3 e z3 =f | %19
+ z3 c z3 c z3 B | z3 f z3 f z3 g | x12 | z8 z3 f | z3 f z8 | z3 [e^c] z8 | z3 e z3 a z3 f | %26
+ z8 z3 _B | z3 E z8 | z3 e z8 | z3 A z3 e z3 c | z3 c z8 | z3 c z8 | z3 ^f z3 g z3 f | %33
+ z4 e2>d2 e2>d2 | z4 d2>=c2 d2>c2 | z4 c2>_B2 A2>G2 | z3 d z8 | z8 [DB]4 | %38
+ (3z2 [=fg]2 z/ g G4 z3 c | x12 | x12 | x12 | x12 | z3 =d z7 c | x12 | x12 | x12 |] %47
+V:3
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ z7/4 B/4 z | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %47

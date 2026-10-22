@@ -1,0 +1,37 @@
+% Rule Britannia: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=574
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Rule Britannia
+C:Thomas Arne (1710-1778)
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=88
+M:4/4
+I:linebreak $
+K:Bb
+V:1 bass nm="Lo:Tenor"
+V:2 bass 
+V:3 treble nm="Hi:Sopran"
+V:4 treble 
+L:1/4
+V:1
+ x7 F, | [F,B,,]2 [F,B,,]2 [B,G,][A,F,]/[G,E,]/ F,[B,G,] | [B,E,]2 [A,F,]2 [B,B,,]2 z F, | %3
+ [F,B,,]2 B,2 [CA,]2 B,[CA,] | [DG,]2 [CC,]2 [CF,]2 z [A,F,] | %5
+ [CF,]2 [A,F,]2 [A,F,,][B,G,,] [CA,,][B,B,,] | [A,C,]2 [B,C,]2 [A,F,]2 z2 | %7
+ [F,B,,]2 [F,B,,]>[B,B,,] [B,E,]2 z [B,D,] | [G,C,]>[G,D,] [G,E,][G,=E,] F,2 z [A,F,] | %9
+ [B,D,]2 [A,C,]2 [B,B,,][A,C,] B,-_E, | [B,F,]2 [A,F,,]2 [B,B,,]2 z2 | %11
+ B,2 B,[B,_A,] [B,G,][B,G,] z [B,A,] | [B,G,]>[B,F,] [CE,][C=E,] [CF,]2 z [=A,_E,] | %13
+ [B,D,]2 [A,C,]2 [B,B,,][A,C,] B,-E, | [B,F,]2 [A,F,,]2 [B,B,,]2 x2 |] %15
+V:2
+ x x7 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z6 D,B, | z8 | B,,D,/F,/ z6 | z8 | z6 D,B, | %14
+ z6 x2 |] %15
+V:3
+ x7 F | [BD]2 [BD]2 B/c/d/e/ f[BD] | [cG]2 cd/e/ [dF]2 z F | B/c/B/c/ d/e/d/e/ fc dc | %4
+ Bc/d/ cB [AF]2 z F | [AF]F cA f=e/d/ c/B/[AD] | [FC]2 [GC]2 [FC]2 z2 | %7
+ [BD]2 [BD]>[FD] [GE]2 z [BF] | [eG]>[dF] [cE][B_D] [AC]2 z [cF] | [fF]2 [eF]2 =d/B/e/c/ [fF][eG] | %10
+ [dF]2 [cE]2 [BD]2 z2 | [dF]3 [dF] [eE][eE] z [dF] | [eE]>[dF] [cG][BG] [AF]2 z [cF] | %13
+ [fF]2 [eF]2 d/B/e/c/ [fF][eG] | [dF]2 [cE]2 [BD]2 x2 |] %15
+V:4
+ x/ x7/2 | z2 D3/2 z/ | z F z2 | D F F F/-F/ | F =E z2 | z F F3/2 z/4 G/4 | z7/4 F/4 z2 | z4 | z4 | %9
+ z2 F z | z7/4 B/4 z2 | z4 | z4 | z2 F z | z3 x |] %15

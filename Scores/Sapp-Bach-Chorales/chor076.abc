@@ -1,0 +1,33 @@
+X:1
+T:Freu dich sehr, o meine Seele
+T:Freu dich sehr, o meine Seele
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+L:1/8
+V:3 treble-8 nm="Voice" snm="V"
+L:1/8
+V:4 bass nm="Voice" snm="V"
+V:1
+ G A B A | G F E2 | !fermata!D2 G A | B c B A | !fermata!G4 :| B c d c | B A !fermata!B2 | %7
+ d d e d | c B !fermata!A2 | B/c/ d c B/A/ | G A B2 | !fermata!G2 B/c/ d | c B A B/>c/ | %13
+ A2 !fermata!G2 || %14
+V:2
+ D2 D2 G2 ^C2 | DE ED D2 ^C2 | !fermata!A,4 E2 ED | D2 A2 AG GF | !fermata!D8 :| G2 G=F F2 E^F | %6
+ ^G2 AA, !fermata!E4 | D2 =G=F E2 ^F2 | G D2 E !fermata!F4 | G2 A2 G2 F2 | FE EF G2 F2 | %11
+ !fermata!E4 ^G2 AE | EF =G2 F2 G2- | G F/E/ F2 !fermata!D4 || %14
+V:3
+ B2 d2 de ef | BA A2 B2 AG | !fermata!F4 B2 A2 | AG GF d2 dc | !fermata!B8 :| d2 A2 A^G A2 | %6
+ E e2 d !fermata!^G4 | =GA B2 BA AB | BA B^c !fermata!d4 | d2 d2 GA B2 | B2 cA e3 ^d | %11
+ !fermata!B4 e2 AB | c2 d2 d2 d2 | d3 c !fermata!B4 || %14
+V:4
+ G,, F,, G,, A,, | B,,/^C,/ D, G,, A,, | !fermata!D,,2 E,, F,, | G,, A,, B,,/C,/ D, | %4
+ !fermata!G,,4 :| G,, A,, B,, C,/D,/ | E, =F, !fermata!E,2 | B,,/A,,/ G,, C, D, | %8
+ E,/F,/ G, !fermata!D,2 | G, G,/F,/ E, ^D, | E,/=D,/ C, G,,/A,,/ B,, | %11
+ !fermata!E,,2 E,, F,,/^G,,/ | A,, B,,/C,/ D,/C,/ B,,/=G,,/ | D, D,, !fermata!G,,2 || %14

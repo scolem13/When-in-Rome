@@ -1,0 +1,42 @@
+X:1
+T:4 Petites mélodies
+T:Adieu
+C:Erik Satie
+Z:Raymond Radiguet
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=104
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Chant\nVoice"
+L:1/8
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Modéré" z6 | z6 | z2!p! (d2 c2 | d2) z2 z2 | z2 (c B A B | c4) z2 | z2 z2 z (d | %7
+w: ||A- mi-|ral,|ne crois pas dé-|\- choir|En|
+!mf! =e f c B A G | F4) z2 | z2 z!p!!<(! (F G A!<)! |!f!"^Au temps" B2 B2 A B | %11
+w: a- gi- tant ton vieux mou-|choir|C'est la cou-|– tu- me de chas-|
+ !fermata!G) (F G3"^retenir" F | E2 F2 G A | B4) z2 | z6 | z6 |] %16
+w: ser ain- si les|mou- ches du pas-|sé.|||
+V:2
+!f! z ([dd'] [cc'] | [dd']) z z | z!p! ([=e=e'] [ff']) | z ([=e=e'] [ff']) | %4
+ z ([dd'] [!courtesy!_e!courtesy!_e']) | z ([dd'] [ee']) | (F3 |[I:staff +1] =E3 |"_retenir" _E3 | %9
+[I:staff -1] G2) z |!f! z ([!courtesy!=C!courtesy!=c] [Dd]) | z"_suivre" ([A,A] [B,B]) | %12
+ z ([F,F] [G,G]) |"_Élargir" z[I:staff +1] ([C,C] [D,D]) | %14
+[I:staff -1] z[I:staff +1] ([C,C] [D,D]) |[I:staff -1] !fermata!z[I:staff +1] ([C,C] [D,D]) |] %16
+V:3
+ z ([D=E] [DF]) | z ([D=E] [DF]) | z ([D=E] [DF]) | z ([D=E] [DF]) | z [DF-] [!courtesy!_EF] | %5
+ z [DF-] [EF] | G,,3 | [!courtesy!=C,,!courtesy!=C,] z z | [F,,,F,,] z z | %9
+ z/ ([=B,,,=B,,]/ [C,,C,] [^C,,^C,]) | !>![!courtesy!_B,,!courtesy!_B,]2 .[A,,A,] | %11
+ !>![G,,G,]2 .[F,,F,] | !>![E,,E,]2 .[D,,D,]/.[C,,C,]/ | z F,2 | z F,2 |!<(! z F,2!<)! |] %16
+V:4
+ (B,3 | F,) z z | (B,3 | F,) z z | (C3 | F,) z z | z (^C, D,) | x ([^F,B,] [G,B,]) | %8
+ z ([G,=B,] [A,C]) | x3 | x3 | x3 | x3 | [B,,,B,,]3 | [F,,,F,,]2 [_C,,_C,] | !fermata![B,,,B,,]3 |] %16
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | z ([A,_C] B,) | x3 | x3 | z ([A,F] [A,=E]) | z !>!F2 | z !>!D2 | %12
+ z !>!B,2 | x3 | x3 | x3 |] %16

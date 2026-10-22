@@ -1,0 +1,61 @@
+% Prélude 13: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2174
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Prélude 13
+C:Frederic Chopin (1810-1849)
+%%score ( 1 2 3 ) 4
+L:1/8
+Q:1/4=96
+M:6/4
+I:linebreak $
+K:F#
+V:1 treble nm="upper"
+V:2 treble 
+V:3 treble 
+L:1/4
+V:4 bass nm="lower"
+V:1
+ [CFA]6 [CFA]6 | [FA]6 B4 G2 | [CFA]6 [FA]4 [FA]2 | %3
+ (3:2:5[FA]2 [GB]2 z [EG]2 z2 [Ac]2 [GB]2 z [CG] | [CFA]6 [CAc]6 | [FAf]6 [Gce]4- [Gce]3/2 e/ | %6
+ [GFd]6 [EGc]4 z2 | z8 z7/2 A,/ | [CFA]6 [CFA]6 | [FA]6 [BE]6 | %10
+ [CFA]6 (3:2:6[CFA]4 [CFA][CFA][CFA][CFA][CFA] | [FA]2 [GB][FA][EG][FA] [Ac]2 [GB]2 z C- | %12
+ [C=EA]6 [AE]6 | [=EAc]6 [dEA]6 | [=EAc]6 [DGB]6 | [C=GA]6 [BB,^G]6 | [B,G]6 [CA]6 | %17
+ [A,F]4 z2 [DB]6 | [B,G]6 A6 | [A,F]8 z4 |[Q:1/4=80] f6 A4 =c2 | =c4- c/ ^c/[eE] c6 | =e6 G4 A2 | %23
+ A4- A/ B/[dD] B4 A2 | A2 G2- G/ A/[cC] A2 G2- G/ A/[cC] | A2 G7 [AD][cC][AC] | %26
+ F2 F2 [DF]2 G4 [GD]2 | [B,DG]2 [A,CA]2 [B,DG]2 [A,CA]6 |[Q:1/4=96] [=EA]6 [AE]6 | %29
+ [=EAc]6 [dEAf]6 | [=Ecf]6 d6- | [dC=GB]6 [BB,^G]6 | e12 | [fA,F]6 [gDGB]6 | [eB,E]12 | [FfA,]12 | %36
+[Q:1/4=80] z6 A4 =A/^A/c/B/ | A12 |] %38
+V:2
+ x12 | C12 | z6 C6 | C8- C3 z | x12 | x12 | x12 | x12 | x12 | C12 | x12 | C8- C3 G | z8 z7/2 B/ | %13
+ z8 z7/2 c/ | x12 | z8 z7/2 D/ | E12 | x12 | E12 | x12 | z FFFFF FFFFFF | EEEEE z/ d/ EEEEEE | %22
+ z =EEEEE EEEEEE | z DDDD z/ c/ DDDDDC | B,B,B,B,C z/ B/ DDDDC z/ B/ | B,B,DDED EDE z3 | %26
+ A,A,DD=CC B,B,B,B,B,B, | x12 | z8 z7/2 B/ | z8 z7/2 c/ | z6 [DB]6 | z8 z7/2 D/ | %32
+ [B,EG]6 [B,EG]4 [CA]2 | x12 | G6 A6 | x12 | x12 | x12 |] %38
+V:3
+ x6 | z3 E3 | x6 | z z/4 (3:2:5[FA] z/ [FA] E2- E z | x6 | x6 | x6 | x6 | x6 | z4 z7/4 G/4 | x6 | %11
+ z3 E2 z | x6 | x6 | x6 | x6 | x6 | x6 | z3 C2 B, | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %26
+ z3 [DF] [^CE] z | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z4 z7/4 f/4 | x6 | x6 | x6 |] %38
+V:4
+ F,,E,G,F,A,C, F,,E,G,F,A,C, | F,,E,G,F,A,C, C,,=G,A,^G,B,C, | F,,E,G,F,A,C, F,,E,G,F,A,C, | %3
+ F,,E,G,F,A,C, C,,=G,A,^G,B,C, | F,,E,G,F,A,C, F,,E,G,F,A,C, | D,,=A,=C^A,DF, G,,=G,A,^G,^CE, | %6
+ ^G,,=G,A,^G,=CD, ^C,=G,A,^G,^CE, | G,F,B,D,F,E, A,C,A,B,,A,G, | F,,E,G,F,A,C, F,,E,G,F,A,C, | %9
+ F,,E,G,F,A,C, C,,=G,A,^G,B,C, | F,,E,G,F,A,C, F,,E,G,F,A,C, | F,,E,G,F,A,C, C,,=G,A,^G,B,C, | %12
+ F,,E,G,F,A,C, F,,E,G,F,A,C, | F,,E,G,F,A,C, F,,E,G,F,A,C, | B,,F,G,=G,A,C, B,,G,A,^G,B,D, | %15
+ D,,=D,=E,^D,=G,A,, ^G,,=D,E,^D,^G,G,, | C,,=C,D,^C,^E,G,, ^C,,=C,D,^C,E,G,, | %17
+ F,,=C,D,^C,F,F,, B,,,E,G,F,B,B,, | ^C,,=C,D,^C,E,G,, C,,=C,D,^C,E,G,, | %19
+ F,,=C,D,^C,F,^C,, F,,=C,D,^C,F,E,, | %20
+[Q:1/4=80] D,,[D,A,][D,A,][D,A,][D,D][D,A,] [D,A,][D,^C][D,=C][D,A,][G,,A,][G,,G,] | %21
+ ^C,,[G,,G,][^C,G,][D,G,][C,G,][G,,G,] [C,G,][D,G,][C,G,][F,G,][E,G,][G,,G,] | %22
+ C,,[C,G,][C,G,][C,G,][C,C][C,G,] [C,G,][C,B,][C,A,][C,G,][F,,G,][F,,F,] | %23
+ B,,,[F,,F,][B,,F,][C,F,][B,,F,][F,,F,] [B,,F,][C,F,][B,,F,][F,,F,][B,,F,][C,F,] | %24
+ [D,F,][D,F,][D,F,][D,F,][C,F,][C,F,] [B,,F,][B,,F,][B,,F,][B,,F,][C,F,][C,F,] | %25
+ [D,F,][D,F,][B,,F,][B,,F,][B,,G,][B,,F,] [B,,G,][B,,F,][B,,G,][B,,F,][A,,F,][C,F,] | %26
+ [D,F,][D,F,][D,A,][D,A,][G,,D,G,][G,,D,G,] [C,G,][C,G,][C,G,][C,G,][C,G,][C,G,] | %27
+ [C,G,][F,,C,][F,,C,][F,,C,][F,,C,][F,,E,] [F,,F,]E,,G,,F,,A,,C,, | %28
+[Q:1/4=96] F,,,E,G,F,A,C, F,,E,G,F,A,C, | F,,E,G,F,A,C, F,,E,G,F,A,C, | %30
+ B,,E,G,F,A,C, B,,E,G,F,B,B,, | D,,=D,=E,^D,=G,A,, ^G,,=D,E,^D,^G,G,, | %32
+ C,,=C,D,^C,^E,G,, ^C,,=C,D,^C,E,G,, | F,,=C,D,^C,F,F,, B,,,=D,E,^D,B,G,, | %34
+ ^C,,=C,D,^C,E,G,, C,,=C,D,^C,G,C,, | F,,,=C,D,^C,F,^C,, F,,=C,D,^C,F,C,, | %36
+[Q:1/4=80] F,,,[F,,D,A,][F,,D,A,][F,,D,A,][F,,D,D][F,,D,A,] [F,,D,A,][F,,D,^C][F,,D,B,][F,,C,A,][F,,C,A,][F,,C,A,] | %37
+ [F,,C,A,]12 |] %38

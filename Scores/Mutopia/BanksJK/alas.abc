@@ -1,0 +1,48 @@
+% Alas! and Did My Savior Bleed?: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=813
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Alas! and Did My Savior Bleed?
+C:James Banks
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:Gmin
+V:1 bass nm="BassStaff:TVoice" snm="V"
+V:2 bass 
+V:3 treble nm="TrebStaff:SVoice" snm="V"
+V:4 treble 
+V:1
+ x2 [D,G,,] | D, C,- F, | [B,,E,]2 [A,,F,] | [G,,E,] A,, B,, | [D,F,]2 [D,C,] | E,2 [E,A,,] | %6
+ D,2 [B,,D,] | [D,A,]2- [D,A,] | [C,D,]2 B,,/A,,/ | G,,2 A,, | B,,2 [B,,C,] | C, D, C, | %12
+ [B,,G,]2 [A,,F,] | B,, C,- B, | [D,,D,]2 [F,,F,] | G,,2- G,,- | G,, z [D,F,,] | [D,F,]2 F, | %18
+ F,2 E, | D,2 [D,B,,] | [D,B,,]2 [E,G,] | D,2 A,, | [G,,D,] [G,,E,]- [G,,E,] | [G,,D,]2- [G,,D,] | %24
+ [G,,A,,]2 [A,,C,] | [A,,C,] [D,B,,] [C,A,,] | D, B,,- G, | [A,,F,] [B,,E,] [C,D,] | %28
+ [D,B,,]2 [F,B,] | E,2 [D,B,] | [C,F,]2 [B,,F,] | [G,,G,]2- [G,,G,]- |[Q:1/4=60] [G,,G,]2 [A,D,,] | %33
+[M:3/4] [A,D,,]2 [A,D,,] | A, A,- D,, | [A,D,,] [A,D,,] [A,D,,] | [A,D,,]2 [A,D,,] | %37
+ [A,D,,]2 [A,D,,] | [G,D,,]2 [G,D,,] | _G,2- G,- | _G,2 [A,D,,] | [A,D,,]2 A,/=G,/ | %42
+ [A,D,,]2 [A,D,,] | [B,B,,,]2 [B,C,,] | [A,F,,]2 [A,D,,] | [G,C,,]2 [G,G,,,] | B,2 C/B,/ | %47
+ B, A,- C,, | [_G,D,,]2 [D,D,,] | E, =G,- C,, | [A,D,,]2 [A,E,,] | [B,G,,]2- [B,G,,] | %52
+ [A,D,,]2- [A,D,,] |] %53
+V:2
+ x x2 | G,2 C, | z3 | z E,- E, | z3 | D, C, z | B,, C, z | z3 | z2 F,, | z A,, z | z3 | z A,- A, | %12
+ z3 | E,2 C, | z3 | z3 | z3 | z2 E,/D,/ | C, D, z | z C, z | z3 | E, F,- F, | z3 | z3 | z3 | z3 | %26
+ G,,2 B,, | z3 | z3 | B, G, z | z3 | z3 | z3 |[M:3/4] z3 | D,,2 A, | z3 | z3 | z3 | z3 | %39
+ D,,2- D,, | A,,,2 z | z2 D,, | z3 | z3 | z3 | z3 | G,,, A,,,- A,,, | B,,,2 A, | z3 | C,,2 G, | %50
+ z3 | z3 | z3 |] %53
+V:3
+ x2 [BG] | A2 F | G2 [AF] | B [AB] [GB] | [dF]2 A | [BE] [cE]- z | [cE] [cG]2 | [eG] [dF]2- | %8
+ [dF]3 | [AF] [BG]2 | F G2 | [GD] [GE]2 | [FC] [GD]2 | [AG] B2 | A [GD]2 | [FE] [GB,]2- | %16
+ [GB,]2 z | A [AG]2 | A [cA] [dF] | [eG] [BG] [AF] | [BE] [dF]2 | [GE] G A | G F2 | C D2- | %24
+ D [FC]2 | [GC] [FC] [GE] | [AE] B2 | B e2 | [cC] [dD]2 | [dB] d2 | d [dE]2 | [dD] [dG,]2- | %32
+ [dG,]3 |[K:Gmin][M:3/4][Q:1/4=60] [_G,D,] [G,D,]2 | _G,/=G,/ A,2 | A, [B,D,] [A,D,] | %36
+ [G,D,] [_G,D,]2 | [=E,D,] [_E,C,]2 | [E,C,] G,2 | E, D,2- | D,3 | [_G,D,] G,3/2 =G,/ | %42
+ _G,/=G,/ [A,A,,]2 | [A,D,] [DF,]2 | [B,F,] [A,F,]2 | [A,_G,] [C=E,]2 | [C=E,] [B,_E,]2 | %47
+ A,/G,/ [A,D,]2- | z3 | [A,D,]3 | [A,D,] [G,C,]2 | [F,C,] F,2 | =E, E,2- | =E, _G,2- | D, x2 |] %55
+V:4
+ x x2 | G F z | z3 | z3 | z2 F/G/ | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z G G- | G z2 | z3 | %16
+ z3 | z3 | z/ B/ z2 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z D G- | G C D | z3 | z G D- | D z2 | z3 | %32
+ z3 |[K:Gmin][M:3/4] z3 | D, D, C,- | C, z2 | z3 | z3 | z B,, A,,- | A,, z2 | z3 | z D, C,- | %42
+ C, z2 | z3 | z3 | z3 | z3 | =E, z2 | z3 | z3 | z3 | z2 G,- | G, D,2- | D,3- | _G, x2 |] %55

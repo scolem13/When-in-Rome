@@ -1,0 +1,147 @@
+% Sonata in Ess Per Mandolino, e Basso: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=363
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonata in Ess Per Mandolino, e Basso (1)
+C:Giuseppe Giuliano (17??-?)
+%%score 1 ( 2 3 4 )
+L:1/8
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:Eb
+V:1 bass nm="Basso" snm="B"
+V:2 treble nm="Mand" snm="Mdln"
+L:1/16
+V:3 treble 
+V:4 treble 
+V:1
+ x | G,2 D,2 E,2 F,-F, | G,2 D,B,, E,2 G,E, | D,D, D,D, E,2 E,G, | D,2 D,2 E,2 G,E, | %5
+ D,2 E,D, E,G, F,E, | D,2 B,,2 x E, E,,-E,, | CB, A,G, F,E, D,B,, | DC B,A, G,F, E,E,, | %9
+ ED CB, A,G, F,D, | F,E, D,C, B,,A,, G,,B,, | E,2 A,,=A,, B,,B, B,,-B,, | F,2 F,,2 F,2 F,,-F,, | %13
+ D,2 B,,2 D,2 B,,-B,, | =A,,2 A,,2 x B, B,,-B,, | B,,2 x2 =A,,2 A,,-A,, | B,,2 x2 D,2 =A,,-A,, | %17
+ =A,,B,, E,=E, F,2 x _E, | D,F, B,,2 D,2 =A,,-A,, | B,,2 =E,2 F,2 F,,-F,, | B,,B, F,D, B,,2 D,-D, | %21
+ E,2 G,2 F,2 E,-E, | D,2 x2 D,2 D,-D, | E,2 G,2 F,2 F,,-F,, | B,,B, F,D, B,,B, F,D, | %25
+ B,,2 x2 B,,2 x2 | E,D, C,B,, =A,,2 A,,-A,, | B,,2 x2 B,,2 x2 | E,D, C,B,, =A,,2 F,,-F,, | %29
+ B,,2 D,B,, E,2 D,-D, | C,C, C,C, D,G, F,E, | E,2 D,B,, E,2 D,-D, | C,C, C,C, D,E, F,F,, | %33
+ B,,B, B,,2 G,,2 G,,-G,, | G,,2 x2 A,,2 C,-C, | A,,2 C,2 G,,2 G,,-G,, | G,,2 x2 A,,2 C,-C, | %37
+ A,,2 C,2 =A,,2 A,,-A,, | =A,,2 x2 D,2 F,-F, | B,,2 x2 =A,,2 A,,-A,, | F,,2 x2 D,2 F,-F, | %41
+ B,,2 D,B,, B,,2 x2 | D,4 E,3- E, | F,4 D,3- D, | B,,4 E,E B,G, | E,2 x2 D,2 B,,-B,, | %46
+ E,2 x2 G,2 F,-F, | D,E, A,,=A,, B,,2 B,,-B,, | C,2 x2 G,2 F,-F, | D,E, A,,=A,, B,,2 B,,-B,, | %50
+ E,E B,G, E,2 E-E | A,2 A,,2 B,2 A,-A, | G,2 x2 G,2 x2 | A,2 x2 B,2 B,,-B,, | %54
+ x E B,G, E,2 E,,-E,, | E,,2 x6 |] %56
+V:2
+ x14 B,2 | E2E2 G z EF G2G2 B z GA | B2B2 B2cd e2E2 z2 e2 | fedc B2A2 AFG2 G2e2 | %4
+ fedc BAGF G2E2 z2 e2 | fda2 g2f2 gBb2 a2g2 | aBa2 g2f2 g4 z2 e2 | efde cdBc ABGA F2f2 | %8
+ fgef decd BcAB G2g2 | gafg efde cdBc A2a2 | abga fgef decd B2a2 | g2ab a2g2 f4 z2 F2 | %12
+ =AF=EF _ec=Bc AFEF ecBc | =BF=EF fdcd BFEF fdcd | cF=EF _efge d2_B2 z2 (3:2:2f2=a- | %15
+ (3:2:2a/ z z B3 cd[eg] f=efg f_edc | d2B2 b2<=a2 g2<_g2 f=e-e2 | _e2<d2 c2<B2 =ABcd ecBA | %18
+ B2B,2 b2<=a2 g2<_g2 f=e-e2 | _e2<d2 c2<B2 =ABcd ecBA | B4 z2 f2 fdBd Bdf_a | %21
+ geBe Begb =afaf afaf | b=agf edcB fdBd Bdf_a | geBe Begb =afaf afaf | %24
+ b4 z2 [FB,]2 [FB,]2[FB,][FB,] [FB,]2[FB,]2 | [DB,]4 z2 f2 [fB]4 b2=a2 | g2f2 e2d2 c4 fgfe | %27
+ dB=AB cBAB [fB]4 b2=a2 | g2f2 e2d2 c4 fgfe | d2B2 B4 G2B2 F2B2 | FDEF GFGA B2e2 d2c2 | %31
+ c2B2 B2B2 G2B2 F2B2 | FDEF GFGA B2G2 F2E2 | [DB,]4 z2 B2 [_dEB,]4 d2B2 | %34
+ B,EG,E B,EG,E A,CEE EEEE | A,CEE EEEE [_dEB,]4 d2B2 | B,EG,E B,EG,E A,CEE EEEE | %37
+ A,CEE EEEE [eF=A,]4 e2c2 | =AF=EF GFEF Bcd_e fg=ab | b=agf edcB [eF=A,]4 e2c2 | %40
+ =AF=EF GFEF Bcd_e fg=ab | B4 z2 f2 [_aBD]B=AB cBAB | DFBB BBBB EGBB BBBB | %43
+ DEFG AFED [aBD]B=AB cBAB | DFBB BBBB E4 z2 B2 | d z E2 EFGA B=ABc B_AGF | %46
+ G2E2 e2<d2 c2<=B2 _B=A-A2 | _A2<G2 F2<E2 DEFG AFED | E2E2 e2<d2 c2<=B2 _B=A-A2 | %49
+ _A2<G2 F2<E2 DEFG AFED | E4 z2 B2 BGEG EGB_d | cAEA EAce =dBdB dBdB | edcB AGFE BGEG EGB_d | %53
+ cAEA EAce =dBdB dBdB | e4 z2 [BG]2 [BG]2[BG][BG] [BG]2[BG]2 | [GB,]4 x12 |] %56
+V:3
+ x x7 | z2 F z3 A z | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | b z7 | z8 | %17
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | E/ z7/2 E3- E | z8 | E/ z15/2 | %33
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | e z7 | z8 | z8 | z8 | z8 | z8 | z8 | %52
+ z8 | z8 | z8 | z2 x6 |] %56
+V:4
+ x x7 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %19
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | (24:23:2z8 d/- | (3:2:2d/4 z/ z15/2 | z8 | %33
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %52
+ z8 | z8 | z8 | z2 x6 |] %56
+
+X:2
+T:Sonata in Ess Per Mandolino, e Basso (2)
+C:Giuseppe Giuliano (17??-?)
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Cmin
+V:1 treble nm="Mand" snm="Mdln"
+L:1/16
+V:2 treble 
+V:3 bass nm="Basso" snm="B"
+V:1
+ g2(3:2:2c2 z c2 z2 g2(3:2:2d2 z d2 z2 | g2(3:2:2d2 z d2 z a (3g2[fe]2 z/ d c2 z2 | %2
+ G2d z =Bcd2 d2e z c2g2- | g4 fed2 c2=B_g =gded | ec=B_g =gded ec [BDG,]4 z2 | %5
+ =B2d z E2[_BG][AB] z [cd]e2 E2 z2 | _bge2 e2 z e fg=e2 f2 z2 | afdd z _efg af(3:2:2b2 z e2 z2 | %8
+ [BA][GF]E2 E2 z E FGE2 F2 z2 | [AG][FE]DF z A z F z D2<B2 GE2 | %10
+ [ag][fe]df z a z f z [dd]e2 E2 z2 | bgeg z b z b z [gb]a[gf] f4 | %12
+ _d[BB]A2 GF[=EF][GFA] G[FE]F2 C2A,2 | af=df z a z g z [fa]g[f_e] e4 | %14
+ c[AA]G2 FE[DE][FEG] F[ED]E2 B,2G,2 | ged2 d2>d2 ec=B2 G2>A2 | =Bcde f[gfg]a2 g[ff]e[dc] ccc2 | %17
+ ged2 d2>d2 ec=B2 G2>A2 | =Bcde f[gfg]a2 gBc2 C2 z2 | g2c'c' z gc'_b agaa z fba | %20
+ gfgg z eag feff z agf | edee z gfe dcdd z fed | c=Bc2 z [cd]c[Bcd] c[Bc]a2 g2a2 | %23
+ g[=Bd]c[Bc] C[cd]c[Bcd] c[Bc]a2 g2a2 | g=B c4 z8 z2 |] %25
+V:2
+ z3/2 d/ z7/2 e/ z2 | z3/2 e/ z6 | z c z3 d z2 | x8 | x8 | z e z6 | x8 | z4 z3/2 g/ z2 | x8 | x8 | %10
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %25
+V:3
+ z2 C,E, C, z G,,=B,, | G,, z G,,=B,, B,,C, CC,- | C, E,2 =B,,2 C,2 E, | C, F,3 _G, =G,2 A,- | %4
+ A, G,2 _G,2 =G, D,G,,- | G,, z E, E,,2 z E,E,,- | E,, G,2 G,2 A,2 A,- | A, B,2 B,,2 G,2 D,- | %8
+ D, E,2 G,2 A,2 A,- | A,B, B,B,, B,, G,2 E, | C,B,, B,,B,, B,,E, G,B, | G,C, C,C, C, z F,A, | %12
+ B,D, B,,C, C,,F,, F,F,,- | F,,B,, B,,B,, B,,E, E,G, | A,E, =A,,B,, B,,E,, E,E,,- | %15
+ E,,F, F,F, _G,=G, G,G,,- | G,, =B,,2 B,,2 C,2 E, | C,F, F,F, _G,=G, D,G,,- | %18
+ G,, =B,,3 G,,C, E,G, | CC, C, =E,2 F, F,D,- | D,_E, E, C,2 D, D,=B,,- | B,,C, C, A,2 G, G,G,,- | %22
+ G,, E,2 E, E,=B,, C,F, | G,E, z E, E,=B,, C,F, | G, C,2 z4 z |] %25
+
+X:3
+T:Sonata in Ess Per Mandolino, e Basso (3)
+C:Giuseppe Giuliano (17??-?)
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Mand" snm="Mdln"
+V:2 treble 
+V:3 bass nm="Basso" snm="B"
+L:1/4
+V:1
+ [eEG,]2 E z/ [FG]/ F>[EF] | G2 E2 z3/2 [eE]/ | e2 d2 c2 | cd/c/ B2 z3/2 c/ | c2 B2 A2 | %5
+ AB/A/ G2 z3/2 e/ | f>d B2 z3/2 f/ | g>e B2 z3/2 [gBa]/ | gf/g/ a2 g2 | a/ z/ f [fB]4 | %10
+ (3F=Ac (3ecA (3GFE | (3DFB (3df=a b2 | (3F=Ac (3ecA (3GFE | F/ z D/ D2 z3/2 f/ | %14
+ d/B/=A/B/ c/B/A/B/ fB | gb Eg fe | d/B/=A/B/ c/B/A/B/ fB | gb Eg fe | f/ z/ d d2 z b | %19
+ _g=g z b =ag | =ef z g f_e | _d=d z e dc | =AB B2 z F | B/F/=E/F/ G/F/E/F/ BF | c_e z g fe | %25
+ e/ z/ c/d/ ec B=A | B2 B/c/d/e/ f/g/=a/b/ | _g<=g =e<f d<_e | _d<=d A<c Bb | a/ z/ f/e/ d2 c2 | %30
+ [BDB,]2 B,2 z2 | [bBD]2 B>[cd] c>[Bc] | d2 B2 z3/2 b/ | b2 =a2 g2 | g=a/g/ f2 z3/2 g/ | g2 f2 e2 | %36
+ e>c d2 z3/2 e/ | [eF=A,]2 z/ d/c/B/ =A/G/F/E/ | DF B/ z/ d/ z/ f/ z/ b/ z/ | b3 f ed | %40
+ e/d/c/d/ cc c2 | [=Bd]<g gg gg | =B/g/f/g/ a/g/f/g/ a/g/f/g/ | Ec Gc Ec | Cc Ec Gc | %45
+ [=Bd]<g gg gg | =B/g/f/g/ a/g/f/g/ a/g/f/g/ | Ec Gc Ec | Cc Ec Gc | [=Ac]/f/ z ff ff | %50
+ =A/f/=e/f/ g/f/e/f/ g/f/e/f/ | DB FB DB | B,B DB FB | [=Ac]<f ff ff | %54
+ =A/f/=e/f/ g/f/e/f/ g/f/e/f/ | [bBD]2 z4 | e3 e dc | B>G E2 z3/2 B/ | c>[dc] B2 A2 | A>F G2 z B | %60
+ B/ z/ G/[FB]/ AG/[FA]/ GF/E/ | C/B,/=A,/B,/ C/B,/A,/B,/ C/B,/A,/[B,B]/ | %62
+ _AG/[FA]/ GF/[EA]/ GF/E/ | D2 B,2 z B | [_dEG,]2 G,d cB | c/A/E/A/ E/A/c/e/ e/c/A/E/ | %66
+ [_dEG,]2 G,d cB | c/A/E/A/ E/A/c/e/ e/c/A/E/ | [eF=A,]2 A,e dc | d/f/=e/f/ b/f/e/f/ b/f/e/f/ | %70
+ [_eF=A,]2 A,e dc | e/ z/ c/B/ B2 z e | =Bc z e dc | =A/c/_B z c B_A | F/A/G z A GF | D/F/E D2 B2 | %76
+ e2 e/d/c/B/ A/G/F/E/ | e2 gB bB | aB gB fB | e2 e/d/c/B/ A/G/F/E/ | e2 gB bB | aB gB fB | %82
+ [ge]2 [EG,]4 |] %83
+V:2
+ x6 | x6 | E6 | E4 z2 | x6 | x6 | x6 | x6 | x6 | g z4 z | x6 | x6 | x6 | E3/2 z4 z/ | x6 | x6 | %16
+ x6 | x6 | e z4 z | x6 | x6 | x6 | x6 | x6 | x6 | d z4 z | x6 | x6 | x6 | g z4 z | x6 | x6 | x6 | %33
+ B6 | B4 z2 | x6 | x6 | x6 | x6 | [dF]2 z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %51
+ x6 | x6 | x6 | x6 | x6 | [GB,]2 z4 | x6 | x6 | x6 | A z4 z | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %68
+ x6 | x6 | x6 | d z4 z | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %83
+V:3
+ G, E, D, | E, G, B, | C B, A, | A, G, E, | D,3 | E, E, G, | D, D, D, | E, E, E, | E, A,, =A,, | %9
+ B,, D, F, | =A,,3 | B,,3 | =A,,3 | B,, D, =A,, | B,,2 D, | E, E, F, | B,,2 D, | E,2 =A,, | %18
+ B,, B, B,, | E, E, E, | D, =A,, A,, | B,, F, F,, | B,, D, =A,, | D,3 | =A,, A,, A,, | B,, E, F, | %26
+ G, G,, z | E, D, C, | B,, F,, G,, | E, F, F,, | B,, B,, z | B,, D, =A,, | B,, D, F, | G, F, E, | %34
+ E, D, B,, | =A,,3 | B,, B,, z | C, =A,, F,, | B,,2 B, | D, D,, z | F, z/ F,/ F,,/F,/ | G,2 G,, | %42
+ G,,2 =B,, | C, C, C, | C, C, C, | G,2 G,, | A,,2 =B,, | C, C, C, | C, C, C, | F,2 D, | %50
+ E, =A,, F,, | B,, B,, B,, | B,, B,, B,, | F,2 D, | E, A,, F,, | B,, B,/A,/ G,/F,/ | %56
+ E, E,,/C/ B,/A,/ | G, B, E, | A,/>[B,A,]/ G, F, | D, E, E,, | F, D, E, | B, B,, z | F, D, E, | %63
+ B,, B,/A,/ G,/F,/ | E, E, z | A, A,, z | G, G, z | A, A,, z | F, F,, z | B, B,, z | F, F,, z | %71
+ B, B,, G, | A, A, A, | E,/D,/ D, D, | B,,/E,/ B,, B,, | z/ E,/ G, D, | E, E,, z | G, E, G, | %78
+ F, E, D, | E, E,, z | G, E, G, | F, B, B,, | E,3 |] %83

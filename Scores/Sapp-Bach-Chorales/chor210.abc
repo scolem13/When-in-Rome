@@ -1,0 +1,32 @@
+X:1
+T:Christe, du Beistand deiner Kreuzgemeinde
+T:Christe, du Beistand deiner Kreuzgemeinde
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ D | D E F2 | !fermata!E2 A B | =c d/c/ B2 | !fermata!A2 z c | B A G G | A G F F | %7
+ E2 !fermata!F E | E F G2 | !fermata!E2 A B | c d/c/ B2 | !fermata!A2 z ^F | G G G ^F | %13
+ !fermata!G2 z E | F G E2 | !fermata!D3 x || %16
+V:2
+ A, | A, E E D | !fermata!^C2 E E | A A A ^G | !fermata!E2 z A- | A/G/ F/E/ D G- | %6
+ G/F/- F/E/- E/D/ C/D/ | C2 !fermata!C ^C/D/ | E- E/D/- D/=C/ D/=B,/ | !fermata!C2 A A- | %10
+ A/^G/ A A G | !fermata!E2 z C | D D _E D | !fermata!D2 z ^C | D D- D ^C | !fermata!A,3 x || %16
+V:3
+ F/G/ | A A A2 | !fermata!A2 A e | e d/e/ f e/d/ | !fermata!c2 z e | f/ e/4d/4 c B c | c c A A | %7
+ G/A/ _B !fermata!A A | A A G2 | !fermata!G2 e f | e d/e/ f e/d/ | !fermata!c2 z A | %12
+ G3/2 F/ _E/_B/ A/c/ | !fermata!_B2 z A | A G/_B/ A/E/A/G/ | !fermata!^F3 x || %16
+V:4
+ D,E, | F,E,D,^C, D,E,F,D, | !fermata!A,,4 =C,B,,A,,^G,, | A,,C, F,E, D,B,, E,2 | %4
+ !fermata!A,,4 z2 A,,2 | D,E, F,2- F,2 E,2 | F,2 C,2 D,2 A,,_B,, | C,4 !fermata!F,,2 A,,2 | %8
+ ^C,2 D,=C, =B,,A,,B,,G,, | !fermata!C,4 C,2 D,2 | E,2 F,E, D,2 E,2 | !fermata!A,,4 z2 A,,2 | %12
+ _B,,2 =B,,2 C,2 D,2 | !fermata!G,,4 z2 A,,2 | D,C,_B,,G,, A,,4 | !fermata!D,6 x2 || %16

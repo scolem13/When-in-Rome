@@ -1,0 +1,91 @@
+X:1
+T:3 Chansons de France
+T:La Grotte: Auprès de cette grotte sombre
+C:Claude Debussy
+Z:François Tristan L’Hermite
+Z:OpenScore (CC0)
+%%score 1 { ( 2 6 ) | ( 3 4 5 7 ) }
+L:1/8
+Q:1/4=35
+M:3/4
+I:linebreak $
+K:B
+U:s=!stemless!
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+L:1/16
+V:6 treble 
+L:1/4
+V:3 bass 
+L:1/16
+V:4 bass 
+V:5 bass 
+V:7 bass 
+L:1/4
+V:1
+"^Très lent et très doux" z6 | z6 |$ D2 F F G/ ^E/ D/ B,/ | D2{/D} (3^E F G =A F |$ ^E C D2 G G | %5
+w: ||Au- près de cet- te grot- te|som- breOù l’on res- pire un|air si doux, L'on- de|
+ B d (3G ^E G F/ F/ D/ F/ |$ ^E/ C/ C/ E/ E2 ^B,2 | z6 |$ z2 z =B, !breath!D3/2 ^E/ | %9
+w: lutte a- vec les cail- loux Et la lu-|–mière a- vec- que l'om- bre.||Ces flots, las-|
+ ^B,/ B,/ B,/ D/ D D !tenuto!D D |$ F E/ F/ G/ B/ B (3z C E | F E F G B c- |$ %12
+w: sés de l'ex- er- ci- ce Qu'ils ont|fait des- sus ce gra- vier, Se re-|po- sent dans ce vi- vier|
+"^Un peu retenu" (3c A c (3=A E E E =D | =F2 F z z2 |$"^a Tempo" z2 D D (3D D D | G B ^A2 G2 |$ %16
+w: _ Où mou- rût au- tre- fois Nar-|cis- se...|L'om- bre de cet- te|fleur ver- meil- le|
+ z D (3F F F (3=A B c | d4 c A/ A/ |$ F/ F/ D/ D/ !breath!B, C (3^E D C ||[M:2/4] (3D ^E G E2- ||$ %20
+w: Et cel- le de ces joncs pen-|dants Pa- raissent *|es- tre là de- dans les son- ges de|l"eau qui som- meil-|
+[M:3/4] ^E2 B,2 z2 | z6 | z6 | z6 |] %24
+w: * le...||||
+V:2
+!pp!!<(! (!arpeggio!D/!<)!!>(!^E/-)!>)!E3!<(! (D/!<)!!>(!E/-)!>)!E3!<(! (D/!<)!!>(!E/-)!>)!E3 | %1
+!<(! (!arpeggio!D/!<)!!>(!^E/-)!>)!E3 (D/!>(!E/-)!>)!E3 (D/!>(!E/-)!>)!!fermata!E3 |$ %2
+"^sempre "!>(! (([DG]/[B,^E]/-))!>)![B,E]3!>(! ([CF]/[=A,D]/-)!>)![A,D]3!>(! ([DG]/[B,E]/-)!>)![B,E]3 | %3
+ ([CF]/[=A,D]/-)[A,D]3 ([DG]/[B,^E]/-)[B,E]3 ([CF]/[A,D]/-)[A,D]3 |$ %4
+ ([DG]/[B,^E]/-)[B,E]3 ([CF]/[=A,D]/-)[A,D]3!p! (!tenuto!^e4 | %5
+!>(! d2[G,DFG]2)!>)!!p! (^e4!>(! d2[G,DFG]2)!>)! |$ %6
+ ^e4[K:bass]!pp! (^B,/!<(!^^C/-)C3 (B,/C/-)C3!<)! |!p! (^B,/^^C/-)C3- C8 |$ %8
+[K:treble]!pp! (!arpeggio!D/^E/-)E3 (!arpeggio!D/E/-)E3!>(! (!arpeggio!!tenuto!D/E/-)!>)!E3 | %9
+ (!arpeggio!D/^E/-)E3 (!arpeggio!D/E/-)E3 [CD]/[=CE]/-[CE]3 |$ %10
+!p!!<(! ([DF]/[CEG]/-)[CEG]3 ([DFB]/[CEc]/-)[CEc]3!<)!!>(! ([B,DF]/[CEG]/-)[CEG]3!>)! | %11
+!p!!<(! ([DF]/[CEG]/-)[CEG]3 ([DFB]/[CEc]/-)[CEc]3 ([Bdf]/[ceg]/-)[ceg]3!<)! |$ %12
+"^Un peu retenu"!p!!<(! !arpeggio![Acfa]4 !arpeggio![ce=ac']4!<)!!>(! !arpeggio![Gceg]2!arpeggio![F=A=df]2!>)! | %13
+!pp! !arpeggio![=A=c=f=a]8 z4 |$"^a Tempo" z4 z4 z (=g(3=ab^c') | (d'/^e'/-)e'3- e'8 |$ %16
+ (d'/^e'/-)e'3!<(! ((d/-^e/-)e3- ef(3g=ab) | %17
+!p!!>(! ((c'/!<)!d'/-)d'3 (g/^a/-)a3)!>)!!p!!>(! ((c/d/-)d3!>)! |$ %18
+ (G/A/-)A3)[K:bass]!pp!!>(! ([B,^E]4 [G,D]2!>)![C,G,]2) || %19
+[M:2/4]!pp!!>(! ([B,^E]4 [G,D]2[C,G,]2-)!>)! ||$[M:3/4] ([C,G,]4 [G,D]4[K:treble]!<(! [CG]4!<)! | %21
+ [Gd]4 [cg]4 [c'g']4) |[K:bass]!pp!!<(! (D/!<)!!>(!^E/-)!>)!E3- E8- | E4 z4 z4 |] %24
+V:3
+ [D,G,B,]12 | !arpeggio![D,=A,B,]12[K:treble] |$[K:bass] (^E,4 D,2G,,2) (E,4 | %3
+ D,2G,,2) (^E,4 D,2G,,2) |$ (^E,4 D,2G,,2) (C/B,/-)B,3 | %5
+ (C,/G,,/-)G,,3 (C/B,/-)B,3 (C,/G,,/-)G,,3 |$ (C/B,/-)B,3 ^B,,8 | %7
+ ((^B,,/!<(!^^C,/-)C,3!<)!!>(! B,,4 C,4)!>)! |$ %8
+ !arpeggio![D,^^G,^B,]4!<(! !arpeggio![D,^G,=B,]4!<)!!>(! !arpeggio![D,=A,C]4!>)! | %9
+ !arpeggio![D,^^G,^B,]4 !arpeggio![D,^G,=B,]4 [D,=A,]4 |$ x8 C,4 | (E,,2B,2G,2C,2G,2C2) |$ %12
+[K:treble] (F/G/-)G3 =A4[K:bass] !arpeggio![C,G,E]2!arpeggio![=D,=A,=D]2 | %13
+ (=D/_E/-)E3 (D/E/-)E3 (D/E/-)E3- |$ (_E4 =F4 =G4) | %15
+[K:treble]!pp!"^la m.g. un peu en dehors" [GB]12 |$ [=A=c]4 [AB-]4 B4 | %17
+ (.[C^c]2.[^A,^A]2[K:bass] .[F,F]2.[D,D]2) (.[C,C]2.[A,,A,]2 |$ %18
+ .[F,,F,]2.[D,,D,]2) x4 (B,/C/-)C3 ||[M:2/4] x4 (B,/C/-)C3 ||$[M:3/4] z4 z4 (D/^E/-)E3- | %21
+ E4[K:treble]!>(! (d/^e/-!>)!e3) z4 |[K:bass] z3[K:treble]!>(! (B G8-)!>)! | G4 z4 z4 |] %24
+V:4
+ [G,,,D,,G,,]6 | [B,,,F,,B,,]6[K:treble] |$[K:bass] x6 | x6 |$ x4 x G, | x C,, x G, x C,, |$ %6
+ CG, ^E,,4 | A,,,6 |$ .[^E,,,^E,,]2 .[G,,,G,,]2 .[B,,,B,,]2 | %9
+ .[^E,,,^E,,]2 .[G,,,G,,]2 .[B,,,B,,]2 |$ (E,,B,G,C,-F,,B,,,) | x6 |$ %12
+[K:treble] !arpeggio![F,A,C]2 !arpeggio![=A,CE]2[K:bass] x2 | !arpeggio![=F,,=C,=A,]6 |$ _E4 x2 | %15
+[K:treble] (DGF^EDF |$ =GD F2 =A2) | [D^G]2[K:bass] [G,D]2 [D,G,]2 |$ [G,,D,]2 !tenuto![C,,G,,]4 || %19
+[M:2/4] !tenuto![C,,G,,]4 ||$[M:3/4] G,,,6- | G,,,6[K:treble] | %22
+[K:bass] !arpeggio![G,,,D,,G,,]6-[K:treble] | s[G,,,D,,G,,]2 x2 x2 |] %24
+V:5
+ x6 | z3/2[K:treble] B/ (G>B) (!fermata!G>"^m.d."B) |$[K:bass] x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ %8
+ x6 | x6 |$ x6 | x6 |$[K:treble] x4[K:bass] x2 | x6 |$ x6 |[K:treble] x6 |$ x6 | x2[K:bass] x4 |$ %18
+ x6 ||[M:2/4] x4 ||$[M:3/4] x6 | x2[K:treble] x4 |[K:bass] x3/2[K:treble] x9/2 | x6 |] %24
+V:6
+ x3 | x3 |$ x3 | x3 |$ x2 (G/8^E/8-)E3/4 | (F/8D/8-)D3/4 (G/8^E/8-)E3/4 (F/8D/8-)D3/4 |$ %6
+ (G/8^E/8-)E3/4[K:bass] [^E,G,]2 | [^E,G,]3 |$[K:treble] x3 | x3 |$ G, G =A, | G, G G |$ x3 | x3 |$ %14
+ _e3 | !arpeggio![dgb]3 |$ [d=a=c'] d/<d/- d | [dg] [Ad] [DG] |$ %18
+ [A,D][K:bass] (D,/8^E,/8-)E,3/4 x ||[M:2/4] D,/8^E,/8-E,3/4 x ||$[M:3/4] x2[K:treble] x | x3 | %22
+[K:bass] !arpeggio![D,G,B,]3- | [D,G,B,] x x |] %24
+V:7
+ x3 | x3/4[K:treble] x9/4 |$[K:bass] x3 | x3 |$ x3 | x3 |$ x3 | x3 |$ x3 | x3 |$ x3 | x3 |$ %12
+[K:treble] x2[K:bass] x | x3 |$ x3 |[K:treble] x3 |$ x3 | x[K:bass] x2 |$ x3 ||[M:2/4] x2 ||$ %20
+[M:3/4] x3 | x[K:treble] x2 |[K:bass] x3/4[K:treble] x9/4 | [E,B,E] x x |] %24

@@ -1,0 +1,38 @@
+% Praeludium Nr. 4: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1576
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Praeludium Nr. 4
+C:Johann Sebastian Bach (165-1750)
+%%score ( 1 2 ) 3
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="upper" snm="Hpschd"
+V:2 treble 
+V:3 bass nm="lower" snm="Hpschd"
+L:1/8
+V:1
+ A4 d4- | [dE-]2 E6- | [EGF]4 D4- | [DFE]4 C4- | [CED]4 B,4- | [B,DC]4 A,4- | [A,B,C]4 D4- | %7
+ [DA,-]2 A,6- | E A,2 D C B, A, G, F, E, | F,2FG AGFG | AGFE D=CB,A, | B,DEF GB^cd | eGFE Fedc | %13
+ dF^GA GdcB | cABc DcBA | ^GEFG ABcd | e4 a4- | [aB-]2 B6- | [Bc]2e2 dc[B^G]2 | A8 | A4 e4- | %21
+ e2fg agfe | f8- | f8 A2 B =c d c B A | [gB]4 f4- | [fG]2 G4 AB | [e=c-]2 =c6- | [=ce^d]4 ^d2 ef | %28
+ g2 B8- f g a g f a | g B8- f e g f e ^d f | [Be-]2 e6- | =c e8- B A c B A ^G B | [eA]2 A2 =G4 | %33
+ [eF]2 F2 [eE]2g2 | Agfa gfe^d | [A,e] e5 z2 | b4 d4- | e8- d2 | [eA-]4 A4- | A4 g2 f e f a g b | %40
+ a=cBA Bagf | gB^cd cgfe | fdef Gfed | cABc defg | a4 d'4- | [d'e-]2 e6- | [ef]2a2 gf[ec]2 | d8 |] %48
+V:2
+ F8 | z2 cd e2G2 | z6 d2 | z6 c2 | z6 B2 | z6 A2 | z4 ^G,4 | z2 CD EDCD | x10 | x8 | x8 | x8 | x8 | %13
+ x8 | x8 | x8 | c8 | z2 ^ga b2d2 | z2 A4 z A | z E C6 | x8 | x8 | D4 A4- | x16 | z4 A4 | %25
+ z2 e^d e4- | z2 ab agfe | z4 B4- | x16 | x16 | z2 B=c =dcBd | x16 | z2 f4 e2- | z2 ^d2 z4 | %34
+ z6 A,2- | z G,F,A, G,2 z2 | x8 | z2 cB cA^GB x2 | z4 =g4- | x12 | x8 | x8 | x8 | x8 | f8 | %45
+ z2 c'd' e'2g2 | z2 d4 z d | z A F6 |] %48
+V:3
+ D,E, F,G, | A,B, CA, | DC B,A, | G,E, A,G, | F,B, ^G,E, | A,^G, F,E, | D,C, B,,E, | A,,B,, C,B,, | %8
+ A,,B,, C,A,, | D,E, F,E, | D,E, F,D, | G,F, E,D, | C,B,, ^A,,F,, | B,,E,, E,^G, | A,^G, F,D, | %15
+ E,D, C,B,, | A,,B,, C,D, | E,F, ^G,E, | A,C, D,E, | A,,>E, A,2 | A,B, A,G, | F,E, F,A, | %22
+ D,E, D,=C, | B,,A,, B,,D, | G,,G, A,B, | =C=C, CB, | A,F, G,A, | B,A, G,F, | E,E B,^D | EG, A,F, | %30
+ G,E ^G,E | A,=C DB, | =C/B,/A,/C/ B,/A,/G,/B,/ | A,/G,/F,/A,/ G,/F,/E,/D,/ | %34
+ =C,/B,,/A,,/C,/ B,,2 | E,2- E,/ ^D,/E,/F,/ | ^G,B, G,E, | A, A,,2 B,, | C,E, C,A,, | D, D,,2 E, | %40
+ F,E, ^D,B,, | E,A,, A,C | DC B,G, | A,G, F,E, | D,E, F,G, | A,B, CA, | DF, G,A, | D,>A, D2 |] %48

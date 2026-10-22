@@ -1,0 +1,32 @@
+% Menuet: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=161
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Menuet
+C:Georg Friedrich Händel (1685-1759)
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=84
+M:3/4
+I:linebreak $
+K:D
+V:1 bass nm="down" snm="Hpschd"
+V:2 treble nm="up" snm="Hpschd"
+V:3 treble 
+L:1/4
+V:1
+ x4 D, | D2 C x D x | A, x B, x F, x | G,2 E, x A, x | D x A, x B, x | E, x F, x D, x | A,4 G,2 | %7
+ F,2 E, x D, x | C x D x F, x | G,2 F, x E, x | D, x A, x B, x | E, x F, x D, x | A,,4 A,, x | %13
+ A,,4 G,2 | F,2 E, x D, x | B,4 A,2 | G,2 F, x E, x | A,4 G,2 | F, x A, x B, x | G,2 A, x A,,2 | %20
+ D, x F, x A, x | A,4 A,, x | D,2 F, x D, x | B,2 C x D x | E,2 F, x G, x | A,4 C x | %26
+ D x [F,,F,] x [B,,B,] x | [G,,G,]x[A,,A,] x [A,,,A,,]2 | [D,,D,]4 x2 |] %29
+V:2
+ x4 A z | [dF]2 e z fg | e z d z a z | e2 f z g z | f z ef de | cd e/d/e/d/ e/d/c/d/ | %6
+ [eAc]2 AB c/ z/ A/ z/ | d2 e z f z | e z d z a z | e z f z g z | f z ef d z | g2 f/g/f/g/ (3fgf | %12
+ [eAc]4 e z | [eEc]2 [cA]2 A2 | [aAd]4 f z | [fd]2 ed cB | [gBe]4 g z | g2 f z e z | a z gf ed | %19
+ [eB]2 A z c z | [dFA]4 e z | [ec]2 A2 e z | [fAd]4 f z | [fd]2 e z d z | [gB]4 g z | g2 f z e z | %26
+ f z gf ed | e z c/d/c/d/ c/ z d/ | [dFA]4 x2 |] %29
+V:3
+ x2 F | z A d | c B [Ad] | [Bd]2 [Ac] | [Ad] c F | G A- A | z3 | A2- A | A F [Ad] | B2 [Ac] | %10
+ [Ad] [Ac] [FB] | B/c/ d- d | z2 [Ec] | z3 | z2 d | z F- F | z2 [Be] | [Ac]2 [Ac] | [Ad] c F | %19
+ z F [EA] | z2 c | z2 c | z2 d | z c B | z2 B | c2 A | [Ad] [Ad] [FB] | [GB] [EA]- [EA] | z2 x |] %29

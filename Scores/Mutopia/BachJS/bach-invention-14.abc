@@ -1,0 +1,38 @@
+% Invention 14: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=72
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Invention 14
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 2
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="one" snm="Hpschd"
+V:2 bass nm="two" snm="Hpschd"
+V:1
+ z [Bc][dc]B fdbf d[fe][de]f BdF_A | G[EF][GF]E BGeB G[B_A][GA]B EGCE | %2
+ =A,[CD][ED]C AFcA e[FG][AG]F cAfc | d2 z3 [gf][ef]g c2 z3 [fe][de]f | %4
+ B2 z3 [ed][cd]e A[cB][AB]c F2 z2 | f2F2 A2c2 f4 z4 | z2 F2 B2d2 f4 z4 | z2 G2 B2c2 =e4 z4 | %8
+ z [FG][AG]F cAfc a[_ed][cd]e Ac_GA | B2d2 B2=G2 _A2f2 A2F2 | G[CD][ED]C GEcG d[_AG][FG]A DF=B,G | %11
+ E2 z3 [CD][ED]C c2>_B2 =A[FG][AG]F | f2>e2 d[Bc][dc]B b2>_a2 g[ba][ga]b | %13
+ e[gf][ef]g c[ed][cd]e =A[cd][ed]c f[_AG][FG]A | G[Bc][dc]B e[GF][EF]G F[=AB][cB]A d[FE][DE]F | %15
+ E[GA][BA]G c[ED][CD]E D4 z [Bc][dc]B | fdbf d[fe][de]f BeBe G[EF][GF]E | %17
+ BGeB G[B_A][GA]B E2e3 [ed][cd]e | F2e3 [cd][ed]c f[dc][Bc]d FBc=A | B16 |] %20
+V:2
+ B,2B,,2 D,2F,2 B,4 z4 | z2 B,,2 E,2G,2 B,4 z4 | z2 B,,2 C,2E,2 A,4 z4 | %3
+ z [B,C][DC]B, E2 z3 [A,B,][CB,]A, D2 z2 | z [G,A,][B,A,]G, C[C,D,][E,D,]C, F,2F,,2 z CA,F, | %5
+ z [F,G,][A,G,]F, CA,FC A,[CB,][A,B,]C F,A,C,E, | %6
+ D,[B,,C,][D,C,]B,, F,D,B,F, D,[F,E,][D,E,]F, B,,D,G,,B,, | %7
+ =E,,[G,,A,,][B,,A,,]G,, =E,C,G,E, B,[C,D,][E,D,]C, G,E,CG, | A,2C2 A,2F,2 _G,2A,2 G,2D,2 | %9
+ =G,[G,,A,,][B,,A,,]G,, D,B,,G,D, B,[_A,G,][F,G,]A, D,F,B,,D, | E,2G,2 E,2C,2 =B,,2D,2 B,,2G,,2 | %11
+ C,[C,,D,,][E,,D,,]C,, C,2>_B,,2 A,,[F,,G,,][A,,G,,]F,, F,2>E,2 | %12
+ D,[B,,C,][D,C,]B,, B,2>_A,2 G,[E,F,][G,F,]E, E2>D2 | %13
+ C[ED][CD]E =A,[CB,][A,B,]C F,[A,B,][CB,]A, D[F,E,][D,E,]F, | %14
+ E,[G,A,][B,A,]G, C[E,D,][C,D,]E, D,[F,G,][A,G,]F, B,[D,C,][B,,C,]D, | %15
+ C,[E,F,][G,F,]E, A,[C,B,,][A,,B,,]C, B,,[B,C][DC]B, FDBF | %16
+ D[FE][DE]F B,DF,_A, G,[E,F,][G,F,]E, B,G,EB, | %17
+ G,[B,_A,][G,A,]B, E,G,B,,D, C,[F,,G,,][=A,,G,,]F,, C,A,,E,C, | %18
+ A,,[C,B,,][A,,B,,]C, F,,A,,C,,E,, D,,[B,,C,][D,C,]B,, F,2F,,2 | B,,16 |] %20

@@ -1,0 +1,98 @@
+X:1
+T:Fünf Lieder, Op.49
+T:An ein Veilchen
+C:Johannes Brahms
+Z:OpenScore  (CC0)
+Z:
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=66
+M:6/8
+I:linebreak $
+K:E
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Andante" z6 | z6 | G3 B3 | c3 A2 G | F2 A d2 f | g3 B2 z | e3 c3 | c3 ^B2 B | (c3- c2 d) | %9
+w: ||Birg, o|Veil- chen, in|dei- nen blau- en|Kel- che,|birg die|Trä- nen der|Weh- * *|
+ ^B2 z z2 z | z6 | =B3 A3 | (G2 B) (A2 F) | D2 E G3- | G3 F2 E | E2 z z2 z | z2 z z2 G | G3 B3 | %18
+w: \- mut,||bis mein|Lieb- * chen _|die- se Que-|* le be-|sucht!|Ent-|pflückt sie|
+ =c3 A2 z | z6 | B3 =d3 | e3 =c2 z | z2 z z2 =c | =f3 ^c3 | =d3 =g3 | =f6 | e2 z z2 z | z6 | z6 | %29
+w: lä- chelnd||dich dem|Ra- sen,|die|Brust mit|dir zu|schmü-|cken,|||
+ z6 | G3- G z G |[M:9/8] A2 A z z A ^A2 A |[M:6/8] (c2 B) z z B |[M:9/8] c2 c z z c d2 d | %34
+w: |o _ dann|schmie- ge dich ihr ans|Herz, _ dann|schmie- ge dich ihr ans|
+ (f2 e) z z e ^e2 e |[M:6/8] (^g3 f2) z | z2 z c3 | e6 | B2 z z2 z | z6 | z6 | G3 B3 | c3 A2 G | %43
+w: Herz, _ dich ihr ans|Herz, _|und|sag|ihr,|||dass die|Trop- fen in|
+ F2 A d2 f | g3 B2 z | e3 c3 | c3 ^B2 B | ^e2 c ^B2 c | c3 ^B2 z | z6 | z6 | =B3 A3 | A3 G2 z | %53
+w: dei- nem  blau- en|Kel- che|aus der|See- le des|treu- sten  Jüng- lings|flos- sen,|||der sein|Le- ben|
+ z2 z =G3 | =G6 | F2 z z2 z | z2 z E3- | E3 E3 | =F6 | z2 z =c3 | (B6- | B3 D3) | E3 z2 z | z6 | %64
+w: ver-|wei-|net|und|_ den|Tod,|den|Tod|_ _|wünscht.||
+ z6 | z6 | z6 | z6 | z6 |] %69
+w: |||||
+V:2
+"^Sehr zart" z (G/B,/) z (B/E/) z (G/B,/) | z (G/B,/) z (B/E/) z (G/B,/) | %2
+ z (G/B,/) z (B/E/) z (G/B,/) | z A/C/ z c/E/ z A/C/ | z A/B,/ z d/F/ z A/F/ | %5
+ z B/G/ z g/B/ z B/G/ | z G/E/ z e/G/ z G/E/ | z G/D/ z d/G/ z G/D/ | z G/D/ z c/G/ z ^^F/D/ | %9
+ z G/D/ z d/G/ z!<(! G/D/ | [=Ac]3-!<)! [Ac]2 [cf] | ([GB]3 [FA]3) | ([EG]2 [DB] [CA]2 [A,F]) | %13
+!<(! ([F,D]2 [G,E]!<)! [B,G-]3 | [B,G]3 [A,F]3) | z (E/G,/) z (G/B,/) z (B,/G,/) | %16
+ z (E/G,/) z (G/B,/) z (B,/G,/) | z G/B,/ z B/E/ z G/E/ | z A/=C/ z =c/E/ z A/E/ | ([=ce]3 c2) z | %20
+ z B/=D/ z =d/=G/ z B/G/ | z =c/E/ z e/=G/ z c/G/ |!>(! ([e=g]3 [_B=c]2)!>)! z | %23
+ z =c/A/ z!<(! =f/A/ z ^c/A/ | z =d/_B/ z =g/B/ z _d/!<)!B/ |!f! z _B/=G/ z =g/B/ z B/G/ | %26
+!>(! z _B/=C/ z =c/B/ z B/!>)!C/ |!p! z!>(! _B,/=G,/ z =G/B,/ z B,/G,/ | %28
+ z _B,/=G,/ z =G/B,/ z B,/G,/!>)! | %29
+"_espress. legato      poco   a   poco   cresc." z z/ (^G,[G,B,][G,E][G,B,][G,E]/) | %30
+ z/ [G,G][G,B,][G,E][G,G][G,FG][G,EG]/ | %31
+[M:9/8] z/ [A,A][A,GA][A,FA] [A,GA][A,FA][A,EA] [^A,=G^A][A,FA][A,EA]/ | %32
+[M:6/8] z/ [B,=AB][B,DB][B,FB][B,AB][B,GB][B,FB]/ | %33
+[M:9/8] z/ [CBc][CAc][CGc]!<(! [CAc][CGc][CFc] [D=cd][DBd][DAd]/ | %34
+ z/ [EB=de][Ace][GBe] [Bde][Ace][GBe] [Bd^e][Ace]!<)![GBe]/ | %35
+[M:6/8]!f! z3/2 [Ac][FA][cf][Ac][FA]/ | z3/2 [Fc]"_dim."[EF][ce][Fc][EF]/ | %37
+ z z!<(! ([GB] [=Ge]2!<)! [G^A]) | z z!<(! ([EF] [DB]2!<)! [DF]) | z2 z [CF=A]2 z | z2 z [A,D]2 z | %41
+!p! z3/2 ([EG][B,E][GB][EG][B,E]/) | z3/2 ([EA][CE][Ac][EA][CE]/) | z3/2 ([FA][DF][Ad][FA][DF]/) | %44
+ z3/2 ([GB][EG][Be][GB][EG]/) | z3/2 [Gc][EG][ce][Gc][EG]/ | z3/2 [Gc][DG][^Bd][GB][DG]/ | %47
+ z3/2 [^^F^A][DF][Ac][FA][DF]/ | z3/2 [G^B][DG][Bd] z/!<(! ([GB] | %49
+ [=Acf]2!<)! [Ac]!>(! [Ac]2!>)! [=Bd]) | ([Ac]3 [GB]3- | [GB]3 [FA]3-) | [FA]3 [EG]3- | %53
+ [EG]3 [E=G]3- | (([EG]6 | [DF]2)) z z2 z |!p! z (=CE,ECE,) | z (=CE,ECE,) | z (=C=F,=FCF,) | %59
+ z (=FA,AFA,) | (^GE!<(!B,[GB]E!<)!B, |!>(! [AB]F!>)!B,[FA]DB,) | z (G2 B3 |!>(! c3!>)! B3) | %64
+ z!<(! ([GB]B,!<)! [GBe]3 |!>(! [FAd]3!>)! [B,FA]3- |!p! [B,FA]3) [B,EG]2 z | z2 z [B,EG]2 z | %68
+ !fermata![G,B,EG]6 |] %69
+V:3
+ E,, z (B,/E,/) z (E/B,/) z | E,, z (B,/E,/) z (E/B,/) z | E,, z (B,/E,/) z (E/B,/) z | %3
+ E,, z C/E,/ z E/A,/ z | E,, z B,/E,/ z F/B,/ z | E,, z B,/E,/ z G/E/ z | C,, z C/G,/ z C/G,/ z | %7
+ D,, z G,/D,/ z ^B,/G,/ z | D,, z ^A,/D,/ z A,/D,/ z | D,, z ^B,/D,/ z G,/D,/ z | %10
+ D,, z A,/D,/ z A,/D,/ z | B,,, z D,/B,,/ z F,/B,,/ z | E,, (G,/E,/) z A,,, F,/C,/ z | %13
+ B,,, (F,/B,,/) z G,,, z (E,/G,,/) | z (E,/G,,/) z B,,, z D,/B,,/ | %15
+"^dolce" E,, z (E,/B,,/) z (E,/B,,/) z | E,, z (E,/B,,/) z (E,/B,,/) z | E,, z B,/E,/ z E/B,/ z | %18
+ E,, z =C/E,/ z E/A,/ z | A,,, z A,/E,/ z =C/A,/ z | =G,,, z =D/=G,/ z =G/D/ z | %21
+ =G,, z E/=G,/ z =G/=C/ z | =C,, z E/=C/ z E/C/ z | =F,, z _E/=F,/ z E/F,/ z | %24
+ _B,, z =D/_B,/ z _D/B,/ z | =C,, z =C/_B,/ z C/B,/ z | =C,, z _B,/=C,/ z B,/C,/ z | %27
+ E,, z =G,/E,/ z G,/E,/ z | E,, z =G,/E,/ z G,/E,/ z | (=B,,,E,,B,, B,,,E,,B,,) | %30
+ (E,,G,,B,, E,D,C,) |[M:9/8] (F,E,D, E,D,C, E,D,C,) |[M:6/8] (D,,F,,B,, F,E,D,) | %33
+[M:9/8] (G,F,E, F,E,D, [A,=C][G,B,][F,A,]) | (G,,B,,E,) [B,=DE][A,CE][G,B,E] [B,D^E][A,CE][G,B,E] | %35
+[M:6/8] A,, [A,C][F,A,][CF][A,C][F,A,] | ^A,, [F,C][E,F,][CE][F,C][E,F,] | %37
+ B,, [G,B,][E,G,][CE][=G,C][E,G,] | B,,, [E,F,][B,,E,][F,B,][D,F,][B,,D,] | F,,, (F,C,) z2 z | %40
+ B,,, (F,B,,) z2 z | E,, ([E,G,][B,,E,][G,B,][E,G,][B,,E,]) | E,, ([E,A,][C,E,][A,C][E,A,][C,E,]) | %43
+ E,, ([F,A,][D,F,][A,D][F,A,][D,F,]) | E,, ([G,B,][E,G,][B,E][G,B,][E,G,]) | %45
+ C,, [G,C][E,G,][CE][G,C][E,G,] | D,, [G,C][D,G,][^B,D][G,B,][D,G,] | %47
+ D,, [^^F,^A,][D,F,][A,C][F,A,][D,F,] | D,, [G,^B,][D,G,][B,D][G,B,][D,G,] | %49
+ D,, [=A,C][D,A,][CF][A,C][D,A,] | D,, [F,A,][D,F,][G,B,][D,G,][B,,D,] | B,,, D,B,,F,D,B,, | %52
+ E,, D,B,,E,B,,G,, | E,, B,,G,,E,B,,=G,, | B,,, (C,^A,, E,C,A,,) | B,,, (B,,F,, D,B,,F,,) | %56
+ (=C,,=C,E,,E,C,E,,) | (=C,,=C,E,,E,C,E,,) | (A,,,=C,=F,,=F,C,F,,) | =F,,, (=F,A,,A,F,A,,) | %60
+ B,,, (E,B,,G,E,B,, | A,F,B,,F,D,B,,) | E,, (E,B,,G,E,B,, | A,F,B,,F,D,B,,) | E,, (E,B,,G,E,B,, | %65
+ A,F,B,,F,D,B,,) | E,, (D,B,, E,2) z | z2 z [E,,E,]2 z | !fermata![E,,,E,,]6 |] %69
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x5 ^B | z F/C/!>(! z F/C/ z A/!>)!F/ | %11
+ z D/B,/ z F/B,/ z D/B,/ | x6 | x3 z E/G,/ z | E/G,/ z!>(! E/G,/ z D/B,/!>)! z | x6 | x6 | x6 | %18
+ x6 | z A/E/ z A/E/ z A/E/ | x6 | x6 | z _B/=G/ z B/G/ z B/G/ | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %30
+ x6 |[M:9/8] x9 |[M:6/8] x6 |[M:9/8] x9 | x9 |[M:6/8] x6 | x6 | x x x x!>(! x x!>)! | %38
+ x x x x!>(! x x!>)! | x!>(! x x2 x2 | x3!>)! x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %50
+ x6 | z!>(! DB,FDB, | FDB,EB,G, | z B,G,EB,!>)!=G, | z!>(! C^A, ECA, | z B,F, DB,F,!>)! | x6 | x6 | %58
+ x6 | x6 | x6 | x6 | x E!<(!B,GE!<)!B, | ADB,AFB, | x6 | x6 | x6 | x6 | x6 |] %69
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[M:9/8] x9 |[M:6/8] x6 |[M:9/8] x9 | %34
+ x9 |[M:6/8] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %52
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | E,,3- E,,2 x | x6 | x6 |] %69

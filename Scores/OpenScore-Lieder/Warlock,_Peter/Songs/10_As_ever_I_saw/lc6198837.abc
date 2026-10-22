@@ -1,0 +1,79 @@
+X:1
+T:Songs
+T:As ever I saw
+C:Peter Warlock
+Z:Anonymous
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 6 ) | ( 4 5 ) }
+L:1/4
+Q:1/2=92
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+V:3 treble 
+V:6 treble 
+L:1/8
+V:4 bass 
+V:5 bass 
+V:1
+"^Allegro (\n)" z8 | z8 | z8 | B2 c2 d2 A A | (BA) G2 F3 G | (A2 _c2) B A G2 | A G F2 G2 A2 | %7
+w: |||She is gen- tle and|al- * so wise; Of|all _ o- ther she|bear- eth the prize, That|
+ B d c2 d4 | z4 z2 A2 | B2 c2 d2 A2 | (BA) G2 (F3 G) | A2 _c c (BA) G2 | (AG) F2 G2 A2 | %13
+w: ev- er I saw.|To|hear her sing, to|see * her dance! *|She will the best * her-|\- self * ad- vance, That|
+ B d c2 d4 | z4 z2 A2 | B2 c2 d2 A A | (BA) G2 F3 G | A2 _c2 (BA) G2 | (AG) F2 G2 A2 | %19
+w: ev- er I saw.|To|see her fin- gers that|be * so small! In|my con- ceit * she|pass- * eth all that|
+ B d c2 d2 z2 | z8 | d c d2 B2 A2 | (GF) G A G4 | A2 B _c A2 G2 | (FG) A2 B2 A2 | d =c B2 A4 | z8 | %27
+w: ev- er I saw.||Na- ture in her hath|won- * der- ly wrought,|Christ nev- er such an-|\- oth- * er bought, That|ev- er I saw.||
+ F F =G2 A2 c2 | (BA) =G2 A2 E2 | E E F2 (G2 B2) | A G A2 G2 D2 | z2 F2 E D E2 | D4 z4 | %33
+w: I have seen ma- ny|that * have beau- ty,|Yet is there none _|like to my la- dy|That ev- er I|saw.|
+!f! A2 B c d2 A2 | (BA) G2 (F3 G) | A A _c c (BA) G2 | (AG) F2 G2 A2 | B d =c2 (d2 g2 | %38
+w: There- fore I dare this|bold- * ly say, _|I shall have the best _ and|fair- * est may That|ev- er I saw, _|
+ f2)"^poco rit." A2 B d B2 |"^a tempo" d8 | z8 | z8 | z8 |] %43
+w: _ that ev- er I|saw.||||
+V:2
+!mf! (A _c B/A/ G | A) (!tenuto!d2 _c | B/A/ G A2) | .[DGB] .[=CGc] (d [FA]) | (G/F/) E (D/E/F/G/ | %5
+ A) ._c .B !tenuto!G- | G (F G) (A | .[GB]) .[CEA] .[DF] A | B/d/ c d!mp! A | (B/A/ G) (A/G/ F) | %10
+ (G/F/ E) (D/C/ B, | A,/).G,/.F,/.A,/ .B, [G,DG-] | [EG] F G A- | A [=CEG] [DF] [A,A] | %14
+ [GB]/[Fd]/ [CEAc] [DFd]!p! (A- | A4- | A4 | F/G/A/F/ G) D |!<(! _C/[B,G]/ A/d/!<)! B A | %19
+ .G/.F/.G/.E/ F A |!mf! d/c/ [=GB] A2 | [A,DA] ([F,F] [G,G]) [A,_CF] | .G/.d/.B/.A/ G/ .d'/.b/.g/ | %23
+ d4- | d3 A | (A =G) [CA] [EA] | d/c/ [=GB] A2 | .[A,DF] .[=G,B,E] .E/.D/.C/.E/ | %28
+ .[A,F] .[=G,B,E] !tenuto![A,CE]2 | E F !tenuto!G2 | .A/.G/ F (G D- | D) D .E/.D/ E | %32
+ D!<(! [A,A] [B,B] [A,CA]!<)! |!f! [A,DA] [G,CG] [F,DF] [A,DA] | %34
+ [B,B]/[A,A]/ [G,G] ([F,F]3/2 [G,G]/ | [A,DA]) [F,A,DF] [G,G]2 | %36
+"_cresc." [_CA]/[B,G]/ [A,CDF] [G,CDG] [A,CDA] |!<(! [B,DGB] [=CG=c] [DGd] [EGAe]!<)! | %38
+!ff! [FAdf] [dfad'] (!>![Gd] !>![EB]) | (!tenuto!A !tenuto!_c !tenuto!B/!tenuto!A/ !tenuto!G | %40
+ !tenuto!A) (!tenuto!d2 _c | B/A/ G !>![A,DA]2- | !fermata![DFA]4) |] %43
+V:3
+ D4- | D z _F E | D E G F | x2 A/G/ x | D C D3/2 C/ | D F D [G,D] | [A,E] (D/_C/) B, (D | %7
+ D) x2 (D | D) E F D- | D C (D3/2 C/ | B,) C[I:staff +1] (F,3/2 E,/ | D,3) x | %12
+[I:staff -1] ._C/.B,/.A,/.D/ B, [A,D] | [B,DF] x2 D/C/ | B, x2 D | E F G/E/F/D/ | E/D/ C D3/2 E/ | %17
+ x4 | E F G D | D =C D E | [DF] E/D/ C C/B,/ | x _C2 x | B, _C B, _c | A F G/A/ B | A/G/ F G D | %25
+ E2 x2 | [DF] E/D/ C C/B,/ | x2 A,2 | x4 | ._C/.B,/ .A,/.D/ .B,/.C/.D/.B,/ | _C/B,/ A, (B,3/2 A,/ | %31
+ G,) A, B, =C | B, !>!D !>!E/!>!D/ !>!E | x4 | D x D2- | x2 (B, D) | E x3 | x4 | x4 | %39
+ D/E/F/D/ E/D/=C/E/ | D z _F E | D E !>!G !>!F/!>!E/ | A,4 |] %43
+V:4
+ F, A, G,/F,/ E, | F, z A,2 | B, _C A, D | .G, .E, (F,/E,/ D,) | B,/A,/ G, F,/G,/ A,- | %5
+ A, .D, .G, B,, | _C, D, G, F, | E, A, D, F, | G, A, [D,A,] F, | G,/F,/ E, F,/E,/ D, | %10
+ G,, A,, B,,/A,,/ G,, | .F,,/.E,,/.D,,/.F,,/ G,, .B,,, | ._C,, .D,, .G,, .F,, | %13
+ G,, A,, B,, [F,,F,] | [G,,D,] [A,,E,A,] [B,,F,B,] (F, | G, A, B,/G,/A,/F,/ | G,/F,/ E, F,3/2 G,/ | %17
+ A,/B,/_C/A,/ B,) G, | _C, [D,D] [G,D] F, | [E,B,] [A,,A,] [D,A,] [=C,A,] | [B,,A,] E, E, A, | %21
+ [F,,F,] ([D,,D,] [E,,E,]) [D,,D,] | D, E, D, E | D4- | D A, [G,B,] x | B,2 E, A, | %26
+ [B,,A,] E, E, A, | .D, .D, .C,/.B,,/.A,,/.C,/ | .D, .E, .A,, .A,,, | ._C, .D, !tenuto!D,2 | %30
+ [A,,E,] D, (D,3/2 _C,/ | B,,) D, D, A, | [B,,F,] [F,,F,] [E,,D,G,] [G,,G,] | %33
+ [F,,B,,F,] [E,,B,,E,] [D,,A,,D,] [F,,D,F,] | [G,,G,]/[F,,F,]/ [E,,A,,E,] ([D,,D,]3/2 [E,,E,]/ | %35
+ [F,,A,,F,]) [D,,A,,D,] ([G,,,G,,] [B,,,B,,]) | [_C,,_C,] [D,,A,,D,] [E,,A,,E,] [F,,D,F,] | %37
+ [G,,D,G,] [A,,E,A,] [B,,E,B,] [=C,E,A,=C] | [D,F,A,D][I:staff -1] [A,DFA][I:staff +1] (B, G,) | %39
+ F,/G,/A,/F,/ G,/F,/E,/G,/ | F, z !>!A,2 | !>!B, !>!_C [D,,A,,D,]2- | !fermata![D,,A,,D,]4 |] %43
+V:5
+ D,4- | D, x _F,,2 | G,, A,, D,2 | x4 | E, A,, D,3/2 E,/ | F, x3 | x4 | x4 | x4 | x4 | x4 | x4 | %12
+ x4 | x4 | x3 D,- | D,4- | D,4 | D,2 G,, B,, | x4 | x4 | x2 A,,2 | x A,,2 x | G,,3 G, | %23
+ F, D, E,/F,/ G, | D,2 G, F, | E, E,, A,, C, | x2 A,,2 | x4 | x4 | x2 .G,,/.A,,/.B,,/.G,,/ | %30
+ x2 G,,2- | G,, F,, G,, A,, | x4 | x4 | D, x A,,2- | x4 | x4 | x4 | x2{D,,-D,-} [D,,D,]2 | D,4- | %40
+ D, x _F,,2 | G,, A,, x2 | x4 |] %43
+V:6
+ x8 | x8 | x8 | x4 D3 C | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %37
+ x8 | x8 | x8 | x8 | x8 | x8 |] %43

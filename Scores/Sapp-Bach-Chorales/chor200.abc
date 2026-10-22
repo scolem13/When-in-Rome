@@ -1,0 +1,33 @@
+X:1
+T:Christus ist erstanden, hat &uuml;berwunden
+T:Christus ist erstanden, hat &uuml;berwunden
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+L:1/4
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ c G A B | c2 !fermata!c G | c _B A2 | !fermata!G2 G A | _B c B A | !fermata!G2 G c | %6
+ c B !fermata!c2 | c c d d | c _B !fermata!A2 | G A _B A | !fermata!G2 _B c | d _e/d/ c2 | %12
+ !fermata!d2 d c | d c _B G | A =B !fermata!c2 || %15
+V:2
+ G2 G2- G^F G2 | G3 =F- F!fermata!E E2- | E^F G2 G2 F2 | !fermata!D4 D _E2 D- | D_B AG ^F G2 F | %5
+ !fermata!D4 =E=F G2 | G2 G2 !fermata!G4 | A2 AG FG A2- | A2 _BG !fermata!F4 | E2 E^F G3 F | %10
+ !fermata!G4 D_B- BA | _B4 B2 A2 | !fermata!_B4 B3 A | _B2 A2 G2 =E2 | FEDF !fermata!E4 || %15
+V:3
+ e2 d2 c2 d2 | c_B A2 !fermata!G2 c2 | c2 d2 _e2 dc | !fermata!_B4 B2 c2 | _BG _e2 d2- d>c | %5
+ !fermata!_B4 c2- cd | e d/c/ df- f e/d/ !fermata!e2 | f2 f2 fe de | f2- fe !fermata!c4 | %9
+ c2 c2 d2 _e d/c/ | !fermata!_B4 Bd f2 | f2 _ef ge cf | !fermata!f4 f2 f2 | f2 _ed d2 c2 | %14
+ c2 G2 !fermata!G4 || %15
+V:4
+ C2 B,2 A,2 G,F, | E,2 F,2 !fermata!C,2 C_B, | A,2 G,2 C,2 D,2 | !fermata!G,,4 G,2 ^F,2 | %4
+ G,2 C,2 D,2 D,,2 | !fermata!G,,4 C,D,E,F, | G,2 G,,2 !fermata!C,4 | F,G,F,E, D,E,F,G, | %8
+ A,F,G,C, !fermata!F,4 | C_B, A,2 G,_B,, C,D, | !fermata!_E,4 G,2 F,2 | _B,A,G,F, _E,C, F,2 | %12
+ !fermata!_B,,4 _B,2 F,2 | _B,A,G,^F, G,A,B,C | =F,2 G,2 !fermata!C,4 || %15

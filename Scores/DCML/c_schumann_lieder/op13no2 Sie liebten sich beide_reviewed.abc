@@ -1,0 +1,59 @@
+X:1
+T:6 Lieder mit Begleitung des Pianoforte, op.13
+T:Sie liebten sich beide
+C:Clara Schumann
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=66
+M:6/8
+I:linebreak $
+K:Gmin
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Nicht schnell" z6 | z6 | z6 | z2 z z2 D |$ G G B B2 A | z2 e e2 d | z2 z!>(! e d c!>)! | %7
+w: |||Sie|lieb- ten sich Bei- de,|doch  kei- ner|wollt' es dem|
+!>(! B A G!>)! d3- |$ d6- | d2 z z2!mf! D | E3/2 E/ E E2 E | D3 D2 G |!p! (G2!<(! e) d2!<)!!>(! c | %13
+w: An- dern  ge- stehn|_|* Sie|sa- hen  sich an so|feind- lich, und|woll- * ten vor|
+ d3-!>)! d A B |$ G3 z2 z | z6 | z6 | z2 z z2 D |$ G3/2!<(! G/ B!<)!!>(! B2 A!>)! | %19
+w: Lie- * be ver-|gehn.|||Sie|tren- nten  sich  end- lich|
+[Q:1/4=72]"^stringendo" z2 e e2 d | z2 z e[Q:1/4=78]"^rit." d c | B A G d3- |$ d6- | d2 z z2 D | %24
+w: und  sah'n  sich|nur  noch  zu|wei- len im Traum;|_|* Sie|
+!mf! E2 E E2 E | D3 D2 G |!p! (G2 e) d2 c | d3- dc B |$ G6- | G2 z z2 z | z6 |$ z6 | z6 | z6 |] %34
+w: wa- ren längst ge-|stor- ben und|wuss- * ten es|sel- * * ber|kaum.|_|||||
+V:2
+!p!"_ben legato" z ([B,D]B B2 A) | z ([C^F][Fe] [Fe]2 [Gd]) | z ([F_Ad][=Bd_a] agf | %3
+ [Ge]dc _B2 =A) |$!p! z!<(! ([B,D]B!<)!!>(! B2 A)!>)! | z!<(! ([C^F][Fe]!<)!!>(! [Fe]2 [Gd])!>)! | %6
+ z!<(! ([F_Ad][=Bd_a]!<)! gfe | [Dd][Ec][=E_B] [^F=A]2) [A,DF] |$ [B,DG]>[A,D=F][G,D_E] D3- | %9
+ D2 z z3 |!mf! [B,DE]3 [A,CE]2 [G,CE] | ([A,D-]3 [B,D]2) z | z2 ([CG] [DG]2 [CG] | %13
+ ([A,-D-G]3 [A,D^F]3)) |$ z ([B,D]B B2 A) | z ([C^F][Fe] [Fe]2 [Gd]) | z ([F_Ad][=Bd_a] agf | %17
+ edc B2 A) |$ z!<(! [B,D]B!<)!!>(! B2 A!>)! |"_stringendo" z [C^F][Fe] e2 d | z [F_Ad][=Bd_a] gfe | %21
+ [Dd][Ec][=EB] [^FA]2 [A,DF] |$ [B,DG]>[A,D=F][G,D_E] D3- | D2 z z3 |!mf! [B,DE]3 [A,CE]2 [CE] | %25
+ D3- [B,D]2 z |!p! z2 ([CG] [DG]2 [CG] | G3 ^F3) |$!pp! z ([DG][E_A]!<(! [Gc]2 [F=B])!<)! | %29
+ z ([_A=B][Ac]!<(! e2 d)!<)! | z ([_A=Bf][Bd_a] agf |$ ed[Gc] _B2 =A | [B,G]3) [G,B,D]3- | %33
+ [G,B,D]3 z3 |] %34
+V:3
+ x3 ^F3 | x6 | x3 [=Bd]3 | x2 [EG] [C^F]3 |$ x3 ^F3 | x6 | x3 G3 | x6 |$ x6 | x6 | x6 | x6 | x6 | %13
+ x6 |$ x3 ^F3 | x6 | x3 [=Bd]3 | G2 [EG] [C^F]3 |$ x3 ^F3 | x3 ^F2 G | x3 G3 | x6 |$ x6 | x6 | x6 | %25
+ x6 | x6 | [A,D]6 |$ x6 | x3 _A3 | x3 [=Bd]3 |$ G2 E [C^F]3 | x6 | x6 |] %34
+V:4
+"m" (G,,D,D"""" [CD]3) |"m" (G,,"m"A,"m"C"m" [A,C]2"m" [B,D]) | (G,,"m" =B,"m"F FE"m"D | %3
+"m" CD"m" A,,"""" D,3) |$"m" G,,D,D"""" [CD]3 |"m" G,,"m"A,"m"C"m" [A,C]2"m" [B,D] | %6
+ G,,"m" =B,"m"F"m" E"^dim."DC |"" B,"m"C"m"^C"" D2 x |$"""m" x2"m" x"" ^F,3- | ^F,2 z z3 | %10
+"m""m""m" [C,,C,]6 |"" (^F,3"m" G,3) |"m" G,3-"m" G,2"m" G, |"""" D,6 |$"m" G,,D,D"""" [CD]3 | %15
+"m" (G,,"m"A,"m"C"m" [A,C]2"m" [B,D]) | G,,"m" (=B,"m"F) (FE"m"D) |"m" CD"m" A,,"""" D,3 |$ %18
+"m" G,,D,D"m""m" [CE]3 |"m""_string." G,,"m"A,"m"C"m" [A,C]2"m" [B,D] | %20
+ G,,"m" =B,"m"F"m" E"_rit."DC |"" B,"m"C"m"^C"" D2 x |$"""m""m" x3"" ^F,3- | F,2 z z3 | %24
+"m""m" x4 x"m" G, |"" [D,-^F,A,]3"m" [D,G,]2 z |"m" [A,,G,]3"m" [B,,G,]2"m" [E,G,] |"""" D,6 |$ %28
+"m" ([G,,,G,,]"" =B,""C"m" E2"m" D) |"m" G,,"m" [DF]"m"[CF]"m""m" F3 |"m" (G,,"m" D"m"F FE"m"D |$ %31
+"m" CD"""" x4 |"m" [G,,D,]3)"m" (D,,3 |"m" G,,,3) z3 |] %34
+V:5
+ G,,6 | G,,6 | x6 | C,2 x4 |$ G,,6 | G,,6 | x3 C,3 | D,3- D,3- |$ [D,,D,]6- | [D,,D,]2 x4 | x6 | %11
+ (([C,,C,]3 [B,,,B,,]2)) z | (A,,3 B,,2) E, | x6 |$ G,,6 | G,,6 | x6 | C,2 x4 |$ G,,6 | G,,6 | %20
+ x3 C,3 | D,3- D,3- |$ [D,,D,]6- | [D,,D,]2 x4 | [C,,C,]6 | (([C,,D,,-C,]3 [B,,,D,,B,,]2)) x | x6 | %27
+ x6 |$ x6 | x3 C2 =B, | x6 |$ C,3 D,3 | x6 | x6 |] %34

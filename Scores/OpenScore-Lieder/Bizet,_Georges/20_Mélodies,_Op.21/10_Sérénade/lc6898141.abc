@@ -1,0 +1,93 @@
+X:1
+T:20 Mélodies, Op.21
+T:Sérénade
+C:Georges Bizet
+Z:Michel Carré
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:3/8=52
+M:12/8
+I:linebreak $
+K:C
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+L:1/16
+V:4 treble 
+V:3 bass 
+V:1
+"^Andante" z12 | z12 | z12 | z12 | z12 | z2!pp! A c2 c c2 c c c c || %6
+w: |||||De mon a- mi- e, Fleur en- dor-|
+[M:9/8] (B-(3:2:2Bc/(3B/A/c/) B3- B2 z ||[M:12/8] z2 B d2 B (cB) A (B({cB}A)) ^G || %8
+w: mi- * * * * * e, _|Au fond du lac _ si- len- * ci-|
+[M:9/8] A3- A2 z z2 z ||[M:12/8] z2 =G c2 c c2 c c G c ||[M:9/8] (B-(3:2:2Bc/(3B/A/B/) G3- G2 z || %11
+w: eux, _|J’ai vu dans l’on- de Claire et pro-|fon- * * * * * de _|
+[M:12/8] z2 A c2 c c2 B (AB) c | (3c/d/c/ B2- B3 z2 B c2 A | ^c6 z (Ac) (B({cB}A)) ^G | %14
+w: É- tin- ce- ler le front * jo-|yeux _ _ _ _ Et les doux|yeux. Et * les * doux|
+ A6- A2 z z2 z |"^poco a poco crescendo" z2 A c2 c c2 c c2 c || %16
+w: yeux. _|Ma bien- ai- mée Est en- fer-|
+[M:9/8] (B-(3:2:2Bc/(3B/A/c/) B3- B2 z ||[M:12/8] z2 B d2 B (cB) A (B({cB}A)) ^G || %18
+w: – mé- * * * * * e _|Dans un pa- lais * d’or et _ d’a-|
+[M:9/8] A3- A2 z z2 z ||[M:12/8] z2 =G c2 c c2 c (cG) c ||[M:9/8] (B-(3:2:2Bc/(3B/A/B/) G3- G2 z || %21
+w: \- zur ! _|Je l’en- tends rire Et je _ vois|lui- * * * * * re _|
+[M:12/8] z2 A c2 c c2 B (AB) c | (3c/d/c/ B2- B3 z2 B c2 A | %23
+w: Sur le cri- stal du gouffre * obs-|– cur _ _ _ _ Son re- gard|
+!f! ^c3- c2 z!ff! (e2 c) (c({dc}!fermata!B3/2)) ^A/ | A6- A2 z z2 z | z12 | !fermata!z12 |] %27
+w: pur _ son _ re- * gard|pur. _|||
+V:2
+!f! (E6 B6- B4 c/B/A/B/ c4 A2) |!p! (E6 B6- B4 c/B/A/B/ c4 A2 | E2) z2!f! (B2 e4 B2 d2c2B2 A2D2F2 | %3
+"_dim." E6({FED} E6)!pp!({FED} !fermata!E6)) z4 !fermata!z2 | %4
+[K:bass]!pp! !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 | %5
+ !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 || %6
+[M:9/8] !arpeggio![F,A,B,D]6 !arpeggio![F,A,B,D]6 !arpeggio![F,A,B,D]6 || %7
+[M:12/8] !arpeggio![F,A,B,D]6 !arpeggio![F,A,B,D]6 !arpeggio![E,A,CE]6 !arpeggio![E,B,DE]6 || %8
+[M:9/8] !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 || %9
+[M:12/8] !arpeggio![E,=G,CE]6 !arpeggio![E,G,CE]6 !arpeggio![E,G,CE]6 !arpeggio![E,G,CE]6 || %10
+[M:9/8] !arpeggio![F,G,B,D]6 !arpeggio![F,G,B,D]6 !arpeggio![F,G,B,D]6 || %11
+[M:12/8] !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 | %12
+ !arpeggio![D,A,B,D]6 !arpeggio![D,A,B,D]6 !arpeggio![D,A,B,D]6 !arpeggio![^D,A,C^D]6 | %13
+ !arpeggio![E,A,^CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,^G,DE]6 | %14
+ !arpeggio![E,A,^CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 | %15
+"_poco a poco crescendo" !arpeggio![E,A,=CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 || %16
+[M:9/8] !arpeggio![F,A,B,D]6 !arpeggio![F,A,B,D]6 !arpeggio![F,A,B,D]6 || %17
+[M:12/8] !arpeggio![F,A,B,D]6 !arpeggio![F,A,B,D]6 !arpeggio![E,A,CE]6 !arpeggio![E,B,DE]6 || %18
+[M:9/8] !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 || %19
+[M:12/8] !arpeggio![E,=G,CE]6 !arpeggio![E,G,CE]6 !arpeggio![E,G,CE]6 !arpeggio![E,G,CE]6 || %20
+[M:9/8] !arpeggio![F,G,B,D]6 !arpeggio![F,G,B,D]6 !arpeggio![F,G,B,D]6 || %21
+[M:12/8] !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 | %22
+ !arpeggio![D,A,B,D]6 !arpeggio![D,A,B,D]6 !arpeggio![D,A,B,D]6 !arpeggio![^D,A,C^D]6 | %23
+!f!"_cresc." !arpeggio![E,A,^CE]6 !arpeggio![E,A,CE]6 !arpeggio![E,A,CE]6 !arpeggio!!fermata![E,^G,DE]6 | %24
+!ff! (!arpeggio!A,6 !arpeggio!E6- !arpeggio!E4 ^F/E/D/E/ !arpeggio!F4 D2) | %25
+!p! (!arpeggio!A,6 !arpeggio!E6-"^smorzando" !arpeggio!E4 =F/E/D/E/ !arpeggio!F4 D2) | %26
+ !arpeggio!!fermata!E24 |] %27
+V:3
+ z12 | z12 | z12 | !fermata!z12 | %4
+ !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 | %5
+ !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 || %6
+[M:9/8] !arpeggio![A,,,F,,A,,]3 !arpeggio![A,,,F,,A,,]3 !arpeggio![A,,,F,,A,,]3 || %7
+[M:12/8] !arpeggio![A,,,F,,A,,]3 !arpeggio![A,,,F,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,]3 || %8
+[M:9/8] !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 || %9
+[M:12/8] !arpeggio![C,,=G,,]3 !arpeggio![C,,G,,]3 !arpeggio![C,,G,,]3 !arpeggio![C,,G,,]3 || %10
+[M:9/8] !arpeggio![C,,G,,]3 !arpeggio![C,,G,,]3 !arpeggio![C,,G,,]3 || %11
+[M:12/8] !arpeggio![C,,A,,]3 !arpeggio![C,,A,,]3 !arpeggio![C,,A,,]3 !arpeggio![C,,A,,]3 | %12
+ !arpeggio![F,,A,,]3 !arpeggio![F,,A,,]3 !arpeggio![F,,A,,]3 !arpeggio![F,,A,,]3 | %13
+ !arpeggio![E,,A,,^C,]3 !arpeggio![E,,A,,C,]3 !arpeggio![E,,A,,C,]3 !arpeggio!E,,3 | %14
+ !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 | %15
+ !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 || %16
+[M:9/8] !arpeggio![A,,,F,,A,,]3 !arpeggio![A,,,F,,A,,]3 !arpeggio![A,,,F,,A,,]3 || %17
+[M:12/8] !arpeggio![A,,,F,,A,,]3 !arpeggio![A,,,F,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,]3 || %18
+[M:9/8] !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 !arpeggio![A,,,E,,A,,]3 || %19
+[M:12/8] !arpeggio![C,,=G,,]3 !arpeggio![C,,G,,]3 !arpeggio![C,,G,,]3 !arpeggio![C,,G,,]3 || %20
+[M:9/8] !arpeggio![C,,G,,]3 !arpeggio![C,,G,,]3 !arpeggio![C,,G,,]3 || %21
+[M:12/8] !arpeggio![C,,A,,]3 !arpeggio![C,,A,,]3 !arpeggio![C,,A,,]3 !arpeggio![C,,A,,]3 | %22
+ !arpeggio![F,,A,,]3 !arpeggio![F,,A,,]3 !arpeggio![F,,A,,]3 !arpeggio![F,,A,,]3 | %23
+ !arpeggio![E,,A,,^C,]3 !arpeggio![E,,A,,C,]3 !arpeggio![E,,A,,C,]3 !arpeggio!!fermata!E,,3 | %24
+!ped! !arpeggio![A,,,E,,^C,]3 !arpeggio![A,,,E,,C,]3 !arpeggio![A,,,E,,C,]3!ped-up! !arpeggio![D,,A,,B,,]3 | %25
+!ped! !arpeggio![A,,,E,,=C,]3 !arpeggio![A,,,E,,C,]3 !arpeggio![A,,,E,,C,]3!ped-up! !arpeggio![D,,A,,B,,]3 | %26
+ !arpeggio![A,,,E,,C,]12 |] %27
+V:4
+ x12 | x12 | x12 | x12 |[K:bass] x12 | x12 ||[M:9/8] x9 ||[M:12/8] x12 ||[M:9/8] x9 || %9
+[M:12/8] x12 ||[M:9/8] x9 ||[M:12/8] x12 | x12 | x12 | x12 | x12 ||[M:9/8] x9 ||[M:12/8] x12 || %18
+[M:9/8] x9 ||[M:12/8] x12 ||[M:9/8] x9 ||[M:12/8] x12 | x12 | x12 | %24
+ !arpeggio!E,3 !arpeggio![E,A,]3 !arpeggio![E,A,]3 !arpeggio![A,B,]3 | %25
+ !arpeggio!E,3 !arpeggio![E,A,]3 !arpeggio![E,A,]3 !arpeggio![A,B,]3 | !arpeggio![E,A,]12 |] %27

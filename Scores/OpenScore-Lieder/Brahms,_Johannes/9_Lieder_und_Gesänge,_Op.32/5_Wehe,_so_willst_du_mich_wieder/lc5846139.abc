@@ -1,0 +1,101 @@
+X:1
+T:9 Lieder und Gesänge, Op.32
+T:Wehe, so willst du mich wieder
+C:Johannes Brahms
+Z:August von Platen
+Z:OpenScore (CC0)
+%%score 1 2 { ( 3 6 ) | ( 4 5 7 ) }
+L:1/8
+Q:1/4=144
+M:9/8
+I:linebreak $
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble stafflines=5 nm="Voice\n(Verse 2 cutaway)"
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+V:7 bass 
+V:1
+"^Allegro" z9 |: z9 | d3- d c B ^A B c | G3 F2 z F B d | f3- f2 e d3 | d3 c2 z z2 z | z9 | %7
+w: ||We- * he, so willst du mich|wie- der, hem- men- de|Fes- * sel, um-|fan- gen?||
+w: ||Stre- * be dem Wind nur ent-|ge- gen, dass er die|Wan- * ge dir|küh- le,||
+ z2 z z2 z c3- | c ^A B c3- c A B | c3 z2 z ^d3- | d B c ^d3- d B d | (^g3- (2:3:2gf) (2:3:2^d ^e | %12
+w: Auf|_ und hin- aus _ in die|Luft, auf|_ und hin- aus, _ und hin-|aus _ _ in die|
+w: grüs-|* se den Him- * mel mit|Lust, grüs-|* se den Him- * mel, den|Him- * * mel mit|
+ f3 z2 z z2 z | z9 | _e =d e _f3 e2 _c | _B3 _e2 z | z2 z | _e d e =f3 (2:3:2e =c | %18
+w: Luft!||Strö- me der See- le Ver-|lan- gen,||ström  es in brau- sen- de|
+w: Lust!||Wer- den sich ban- ge Ge-|füh- le|||
+ =A3 _B2 z _e3- | e6 _A2 z | =f6 _B2 B | _g3 =f3 =e3 | (=e3 =f2) z z2 z | _e6 _A2 z | %24
+w: Lie- der, sau-|* gend,|sau- gend ä-|the- ri- schen|Duft, _|sau- gend,|
+w: re- gen? At-|* me,|at- me den|Feind aus der|Brust, _|at- me,|
+ (^g3- (2:3:2g=e) (2:3:2^d ^c | f6- f3- | f6 ^A2 A | B3 z2 z z2 z :| z9 | z9 | z9 | z9 | z9 | z9 | %34
+w: sau- * * gend ä-|the- *|* ri- schen|Duft!|||||||
+w: at- * * me den|Feind _|_ aus der|Brust!|||||||
+ !fermata!z9 |] %35
+w: |
+w: |
+V:2
+ z9 |: z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z6 | (2:3:2z _e | %17
+w: ||||||||||||||||im|
+ (2:3:2=f _e (2:3:2(_df) (2:3:2e =c | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 :| z9 | z9 | %30
+w: Un- er- mess- * li- chen|||||||||||||
+ z9 | z9 | z9 | z9 | z9 |] %35
+w: |||||
+V:3
+ !>!D3- D.C.B, !>!F3 |: !>!d3- d.c.B !>!f3 | [D^EB][DEB][DEB] [DFB][DFB][DFB] [^A,CF][A,CF][A,CF] | %3
+ [B,DG][B,DG][B,DG] [B,DF][B,DF][B,DF]!<(! [CF][DF][DB]!<)! | %4
+ [GBd][GBd][GBd] [GBd][GBd][GBc]!>(! [D^GB][DGB][DGB] | %5
+ [DFB]!>)![DFB][DFB]!<(! [CF^A][CFA]!<)![CFA]!>(! (d3-!>)! | d3!<(! c2)!<)! z!>(! (d3-!>)! | %7
+ d3 c2) z [C^Ac][CAc][CAc] | [C^Ac][CFA][C^GB] [CAc][CAc][CAc] [CAc][CFA][CGB] | %9
+ [C^Ac][CAc][CAc] [CAc][CFA][CAc] [^DFA^d][DFAd][DFAd] | %10
+ [FB^d][^DB][EBc] [FBd][FBd][FBd] [FBd][DFB][FBd] | %11
+ [^GB^d^g][GBdg][GBdg] [GBdg][GBdg][F^Adf] [FAd][FAd][GB^e] | [F^Acf][FAcf][FAcf] =e6 | _e2 z _f6 | %14
+ ([_B_d_e]_E[Bde] _F[GB_f]F [_A_ce]E[Ace]) | (_E[_A_B_e]E [GBe]E[GBe] | _E[_A_c_e]E) | %17
+ ([_B_d_e]G[Bde] G[B=f]G [_Ae]_E[A=c]) | (_E[^F=A]E [G_B]E[GB] E[_A=c]E) | %19
+ ([_A_B_e]_E[ABe] E[GBe]E [A=ce]E[Ace]) | (=F[_B=c=f]F [=Acf]F[Acf] F[B_df]F) | %21
+ ([=c_g]_G[cg] G[_A=f]G [c=e]G[ce]) | (_G[=c=e]G [_d=f]=F[cf] F[_cf]F) | %23
+ ([_A_B_e]_E[ABe] E[GBe]E [A=ce]E[A_de]) | ^G([^B^d^g]G [^c=eg]G[ceg]) (G[B^f][Gce]) | %25
+!<(! (F[B^d]F [Bd]F[Bd] ^E[B=d]!<)!E |!>(! [Bc]=E[Bc] E[Bc]E [^Ac]!>)!E[Ac]) | !>!=D3- D.C.B, F3 :| %28
+ !>!d3- d.c.B !>!f3 | !>!f6 !>!d3- | d3 !>!B6 | F6- F3 | F6-"^riten." F3 | F6- F3 | %34
+ !fermata!F6 z2 z |] %35
+V:4
+!f! [D,^G,][D,G,][D,G,] [D,F,][D,F,][D,F,] [F,^A,C][F,A,C][F,A,C] |: %1
+ (!>![B,,-^E,]3 [B,,F,]3) [B,=E]3 |!mf! ([^G,,^G,]3 [F,,F,]3 [=E,,=E,]3) | %3
+{/D,,} (!>!D,3- D,C,B,, ^A,,B,,G,,) | E,,3- [E,,E,]3 [^E,,^E,]3 | %5
+ [F,,F,]3-"^col 8va ad lib." [F,,F,]E,D, C,^D,^E, | %6
+ [F,,F,]3-"^col 8vaad lib." [F,,F,]E,D, C,^D,^E, | %7
+ [F,,F,]3-"^col 8va ad lib." [F,,F,]E,D, C,^D,^E, | [F,,F,]3- [F,,F,][C,,C,][^E,,^E,] [F,,F,]3- | %9
+ [F,,F,][C,,C,][^E,,^E,] [F,,F,]3-"_cresc." [F,,F,][^D,,^D,][C,,C,] | %10
+ [B,,,B,,]3- [B,,,B,,][F,,,F,,][^A,,,^A,,] [B,,,B,,]3- | %11
+!f! [B,,,B,,].[^D,,^D,].[B,,,B,,] (2:3:2([^G,,,^G,,][^D,,,D,,]) (2:3:2.[D,,D,].[C,,C,] | %12
+ [F,,F,]3!>(! (2:3:2z (C(2:3:2^A,F,)!>)! | =G,3!>(! (2:3:2z (_D,(2:3:2_B,,_G,,)!>)! | %14
+!p! =G,,3 (2:3:2z (_D(2:3:2_C_A,) | (2:3:2(_E,_F,(2:3:2E,_D, |(2:3:2_C,_A,,) | %17
+ _E,,3 (2:3:2z (_D(2:3:2=C_A,) | (2:3:2(_E,=F,(2:3:2E,_D,(2:3:2=C,_A,,) | %19
+"_cresc." [_E,,_E,]3- (2:3:2[E,,E,]([_D,_D](2:3:2[=C,=C][_A,,_A,]) | %20
+ [=F,,=F,]3- (2:3:2[F,,F,]([_E,_E](2:3:2[_D,_D][_B,,_B,]) | _A,3- =C,3 A,3- | %22
+ [_D,A,]3 (([_D,,D,]3 [=D,,=D,]3)) | [_E,,_E,]3- (2:3:2[E,,E,]!<(!([_D,_D](2:3:2[=C,=C][_A,,_A,]) | %24
+ (2:3:2([^G,,^G,][^F,^F]!<)!(2:3:2[=E,=E]) ([^C,,^C,](2:3:2[^D,,^D,][E,,E,]) | %25
+ ([F,,F,]3 [B,,,B,,]6) | ([F,,,F,,]3 [F,,F,]6) | %27
+!f! [D,^G,][D,G,][D,G,] [D,F,][D,F,][D,F,] [F,^A,C][F,A,C][F,A,C] :| %28
+ (!>![B,,-^E,]3 [B,,F,]3) [B,=E]3 |!f!"_dim." !>!F,6 !>!D,3- | D,3 !>!B,,6 | %31
+!p! [F,D]!>(![F,D][F,D] [F,D]!>)![F,D][F,D] [F,D][F,D][F,D] | %32
+ [F,D]!>(![F,D][F,D] [F,D]!>)![F,D][F,D] [F,D][F,D][F,D] | %33
+ (2:3:2[F,D][F,D](2:3:2[F,D][F,D](2:3:2[F,D][F,D] | !fermata![F,D]6 z2 z |] %35
+V:5
+ ([B,,,-^E,,]3 [B,,,F,,]3) [B,,=E,]3 |: x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | %13
+ x9 | x9 | x6 | x3 | x9 | x9 | x9 | x9 | _A,,6 A,,3 | x9 | x9 | x9 | x9 | x9 | %27
+ ([B,,,-^E,,]3 [B,,,F,,]3) [B,,=E,]3 :| x9 | (D,3- D,C,B,, ^A,,B,,F,,) | %30
+ (G,,E,,F,, D,,E,,C,, D,,B,,,C,,) | (^A,,,3 B,,,6) | (^A,,,3 B,,,6) | [F,,,F,,]6- [F,,,F,,]3 | %34
+ !fermata![B,,,,B,,,]6 x3 |] %35
+V:6
+ x9 |: [D^G][DG][DG] [DF][DF][DF] [F^Ac][FAc][FAc] | x9 | x9 | x9 | x6 [^E^GB][EGB][EGB] | %6
+ [FB][FB][FB] [F^A][FA][FA] [^E^GB][EGB][EGB] | [FB][FB][FB] [F^A][FA][FA] x3 | x9 | x9 | x9 | x9 | %12
+ x3 [^Ac]E[Ac] E[Ac]E | [_B_d]_E[Bd] [Bd]_F[Bd] F[Bd]F | x9 | x6 | x3 | x9 | x9 | x9 | x9 | x9 | %22
+ x9 | x9 | x9 | x9 | x9 | x9 :| [D^G][DG][DG] [DF][DF][DF] [F^Ac][FAc][FAc] | %29
+ [FB][FB][FB] [FB][FB][FB] [DF][DF][DF] | [DF][DF][DF] [B,D][B,D][B,D] [B,D][B,D][B,D] | x9 | x9 | %33
+ x9 | x9 |] %35
+V:7
+ x9 |: x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x6 | x3 | x9 | x9 | %19
+ x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 :| x9 | x9 | x9 | F,,3- F,,6 | F,,3- F,,6 | x9 | x9 |] %35

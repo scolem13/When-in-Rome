@@ -1,0 +1,85 @@
+X:1
+T:6 Lieder, Op.19
+T:Abschied
+C:Johanna Kinkel
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 6 7 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=64
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:6 treble 
+L:1/4
+V:7 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+"^Larghetto" z4 | z4 | z4 | z4 | z4 | z4 | z4 | !fermata!z4 |: (AB) (GE) | G3 F | (F2{G/F/} E) D | %11
+w: ||||||||1. Schö- * ne *|Wie- ge|mei- * ne|
+w: ||||||||2. Hätt' * ich *|dich doch|nie * ge-|
+w: ||||||||3. Doch * du *|drängst mich|selbst * von|
+ (DC) C2 | A2 c2 | B2 G2 | c3 B | A3 z |!f! d2 A2 | G3 G | A3 G | G^F F z | d3 ^d | e2 c2 | =B3 B | %23
+w: Lei- * den,|schö- nes|Grab- mal|mei- ner|Ruh,|schö- ne|Stadt, wir|müs- sen|schei- * den,|Le- be-|wohl! ruf|ich dir|
+w: se- * hen,|schö- ne|Her- zens-|kö- ni-|gin!|nim- mer|wär es|dann ge-|sche- * hen,|dass ich|jetzt so|e- lend|
+w: hin- * nen,|bitt'- re|Wor- te|spricht dein|Mund;|Wahn- sinn|wühlt in|mei- nen|Sin- * nen,|und das|Herz ist|krank und|
+ c2 z2 |!p! d3 A | c3 B | _d3 c | c2 F2 | =B3 B | _B3 G | B_A GF | G4 | A3 c | B3 G | d3 c | %35
+w: zu.|Le- be-|wohl! du|heil'- ge|Schwel- le,|wo da|wan- delt|Lieb- * chen *|traut;|Le- be-|wohl! du|heil'- ge|
+w: bin.|Nie wollt'|ich dein|Her- ze|rüh- ren,|Lie- be|hab' ich|nie * er- *|fleht;|nur ein|stil- les|Le- ben|
+w: wund.|Und die|Glie- der|matt und|trä- ge,|schlepp' ich|fort am|Wan- * der- *|stab,|bis mein|mü- des|Haupt ich|
+ c2 A2 | =B3 B | c3 A |"^molto rall." (G2 !fermata!!turn!B3/2) G/ | F4 | z4 | z4 | z4 | z4 | z4 | %45
+w: Stel- le,|wo ich|sie zu-|erst * ge-|schaut.||||||
+w: füh- ren,|wollt ich|wo dein|O- * dem|weht.||||||
+w: le- ge|fer- ne|in ein|küh- * les|Grab.||||||
+ z4 | !fermata!z4 :| %47
+w: ||
+w: ||
+w: ||
+V:2
+ z [Fc][FB][FA] | z [FB][Fc][F_d] | z [G_d][Gc][GB] | z [CA][CG][CF] | z [c_ec'][B_db][Aca] | %5
+ z [B_db][c_ec'][dfd'] | z [_d=e_d'][cec'][Bdb] | !fermata![Aca]4 |: z [G,B,C]!>![G,B,_D][G,B,C] | %9
+ z [A,C]!>![A,E][A,F] | z [^G,=B,][G,B,D][G,B,F] | z [A,C][A,CE][A,CF] | z [^FAc]!>![FA_e][FAd] | %13
+ z [GB]!>![GB_e][GBd] | z [Gd][Gc][GB] | z [CA][CG][CF] | z [FAd]!>![FAe][FAd] | %17
+ z [GBe]!>![GBf][GBe] | z [GAe]!>![GAf][GAe] | z [^FAd]!>![FA_e][FAd] | z [G=f][G=e][G^d] | %21
+ z [Ge][G=d][Gc] | z [_A=Bd_a][GBdg][GBdf] | !>![Gcf][Gce][EGd][EGc] | z A,D^F | z B,D=F | %26
+ z B,_DG | z A,CF | z =BD=B, | z _B3 | z [F_A]3 | G2 z2 |!pp! z [FAc]!>![FAd][FAc] | %33
+ z [EGc]!>![EGd][EGc] | z [GBe]!>![GBf][GBe] | z [Acf]!>![Acg][Acf] | z [_A=B_a][ABg][ABf] | %37
+ z [=Ac=a][Acg][Acf] |!>(! z [Ge]!fermata![Gd][Gc]!>)! | z [Fc][FB][FA] | %40
+ z"^a Tempo" [FB][Fc][F_d] | z [G_d][Gc][GB] | z [CA][CG][CF] | z [c_ec'][B_db][Aca] | %44
+ z [B_db][c_ec'][df_d'] | z [_d=e_d'][cec'][Bdb] | !fermata![Aca]4 :| %47
+V:3
+!pp! z [A,_E][B,E][CE] | z [B,_D][B,D][B,D] | z [B,=E][B,E][B,E] | z [C,A,][C,A,][C,A,] | %4
+!f!!ped! z [C_E][_DF][E_G]!ped-up! |!ped! z [_DF][C_E][B,D]!ped-up! | %6
+!ped! z [B,_D][CE][DE]!ped-up! | !fermata![F,CF]4 |:!p! [C,,C,]4 | [F,,F,]4 | [F,,F,]4 | [F,,F,]4 | %12
+ z [A,D][A,D][A,D] |!<(! z [B,D][B,D][B,D]!<)! | z [G,C][G,C][G,C] | z A,A,A, | %16
+!mf! z [F,A,D][F,A,E][F,A,D] | z [G,B,E][G,B,F][G,B,E] | z [G,A,E][G,A,F][G,A,E] | %19
+ z [^F,A,D][F,A,_E][F,A,D] | z [G,=B,F][G,B,F][G,B,F] |!<(! z [G,CE][G,CE][G,CE]!<)! | %22
+ z [G,B,F][G,B,F][G,B,F] |!>(! z [E,G,C][E,G,C][E,G,C]!>)! |!p! [C,^F,]4 | [C,G,]4 | [C,E,]4 | %27
+ [C,F,]4 | [C,_A,]4 | [C,G,]4 | [C,F,]4 | C2 [E,B,]2 | z [F,A,C][F,A,D][F,A,C] | %33
+ z [G,B,C][G,B,D][G,B,C] | z [G,B,E][G,B,F][G,B,E] |!<(! z [A,CF][A,CG][A,CF]!<)! | %36
+ z [_A,=B,F][A,B,F][A,B,F] | z [=A,CF][A,CF][A,CF] | z [G,B,E]!fermata![G,B,E][G,B,E] | %39
+!pp! z [A,C][A,C][A,C] | z [B,_D][B,D][B,D] | z [B,E][B,E][B,E] | z [C,A,][C,A,][C,A,] | %43
+ z [C_E][_DF][E_G] | z [_DF][C_E][B,D] | z [B,_D][CE][DE] | !fermata![F,CF]4 :| %47
+V:4
+ F,2 | F,2 | F,2 | F,,2 | [F,,F,]2 | [F,,F,]2 | [F,,F,]2 | x2 |: x2 | x2 | x2 | x2 | D,2 | G,2 | %14
+ =E,2 | F,2 | D,2 | D,2 | ^C,2 | =C,2 | =B,,2 | C,2 | [G,,G,]2 | C,2 | x2 | x2 | x2 | x2 | x2 | %29
+ x2 | x2 | C,2 | [F,,F,]2 | [F,,F,]2 | [F,,F,]2 | [F,,F,]2 | [_D,,_D,]2 | [C,,C,]2 | [C,,C,]2 | %39
+ [F,,F,]2 | F,2 | F,2 | F,,2 | [F,,F,]2 | [F,,F,]2 | [F,,F,]2 | x2 :| %47
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x A,3 | x B,3 | x B,3 | x A,3 | x [F=B]3 | x FEC | x F(D=B, | F)EDC | %32
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 :| %47
+V:6
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |: x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %19
+ x2 | x2 | x2 | x2 | x2 | x D | x D | x _D | x C | x D | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %37
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 :| %47
+V:7
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |: x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %19
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x E | x D | x2 | x2 | x2 | x2 | x2 | x2 | x2 | %38
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 :| %47

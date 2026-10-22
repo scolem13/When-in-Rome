@@ -1,0 +1,71 @@
+X:1
+T:Sonata in F Major
+T:Larghetto
+C:Carl Philipp Emanuel Bach
+%%score { ( 1 3 6 ) | ( 2 4 5 ) }
+L:1/8
+Q:1/4=72
+M:9/8
+I:linebreak $
+K:Ab
+U:s=!stemless!
+V:1 treble nm="Harpsichord" snm="Hch."
+V:3 treble 
+V:6 treble 
+V:2 bass 
+V:4 bass 
+V:5 bass 
+V:1
+!f!"^Larghetto" (A,CC) (CFA) (G=EB,) | A,CC CFA GCB | AFA z cf e=dA |$ GEF _G_eP!turn!_d =c_gG | %4
+ F3 A3!p! A3 |!f! G3!ff! d3 c3 |$!p! Bdc B3{B/} AGA | G3 z3 z3 | z CD =EFA c=ef |$ %9
+ !turn!fg=d (f3"^" P!turn!_e3-) | eaf e_dd{ce} dc_g- | gf3/2 e/8d/8c/8B/8 (A3 P!turn!=G3) |$ %12
+ z E(.e .e.e.e) (e!p!{g/}fe) | z!f! E(.e .e.e.e) (e!p!{g/}fe) | z!f! Aa agg gff |$ %15
+ !turn!fg=d"^" Me!p!fc _dBG | DC!f![=E=e-] eg/<f/_e/<d/ z c/<B/A/<G/ | (B3 P!turn!A3) z3 |$ x9 | %19
+ x3 EAc BEd | cee"^" !turn!e_d/c/B/=A/ !arpeggio!_gfP!turn!e |$ d[I:staff +1]F,F, F,B,D C=A,E, | %22
+ D,[I:staff -1]FF FBd cFe | dfe PdcB _g3- |$ gf"^"!turn!=e f3 f=d_e | e3- e_dc (e2 !turn!d) | %26
+ c x8 |$ z!f! F,(.F .F.F.F) (F!p!{A/}_GF) | z!f! Ff [ef][ef][ef] [df][df][df] | %29
+!ff! [f_g][fg][fg] [eg][eg][eg]!mf! [ef][ef][ef] |$!p! fff bbb bag |!pp! (b2 P!turn!a) g2 g d'c'b | %32
+ [fa]!f!CC CFA G=EB, |$ A,CC CFA GCB | A3 !turn!c3 f3- | f3 !turn!B3 e3- |$ %36
+ efc{e} P!turn!d3- d"^"!turn!=Bc- | cf{e/}d"^"{c} P!turn!_B3- BG_A- | %38
+ A!f!F_G !turn!GBd- dc/<B/A/<G/ |$ (F3"^" P!turn!=E3) z3 | z C(.c .c.c.c) (c!p!{e/}dc) | %41
+ z!f! C(.c .c.c.c) (c!p!{e/}dc) |$ z!f! Ff f_ee edd | !turn!d^fg g=Bc!p!"^""^" !turn!c2 _B | %44
+ A/<c/B/<A/G/<F/ [=D=d]3 [Ee]3 |$ [=E=e]3 [Ff]3 [_G_g]3- | gff- fff- fff- | %47
+ fff-!p! fe/<_d/c/<_B/ (A2!pp! P!turn!G) | F6 z3 |] %49
+V:2
+"m" F,2 z [F,A,]2 z"m" =E,2 z |"m" F,2 z [F,A,]2 z"" =E,2 z |"m" F,2 z F,,2 z"" B,,2 z |$ %3
+"" E,2 z"m" E,,2 z"" A,,2 z |"" D,DD DDD"m" CCC |"" =B,B,B,"m" _B,B,B,"m" A,A,A, |$ %6
+"m" G,G,G,"m" F,F,F,"" =B,,B,,B,, |"" C,,!f!C,D, B,G,=E, DCB, |"m" A,2 z"m" [A,C]2 z A,2 z |$ %9
+"" [G,B,]3 z [G,B,][G,B,]"" [G,B,][G,B,][G,B,] |"m" [F,A,]2 z"" [F,A,]2 z"" [E,_G,]2 z | %11
+"" D,2 z"" z E,,E,"" D,C,B,, |$"m" C,2 z z3"" [G,D]3 |"" [A,C]2 z z3"" [B,DG]3 | %14
+"" [CE]2 z"m" [B,D]2 z"m" [A,C]2 z |$"" [G,B,]6"" z z E, |"" A,2 z"" D,2"" z z z D- | %17
+ D!p!DD DCB, x3 |$!f! C,E,E, E,A,C B,G,D, | C,[I:staff -1]EE[I:staff +1] x6 | %20
+"" A,,2 z"m" _G,,2 z"" F,,2 z |$"m" B,,2 z [B,,D,]2 z"m" =A,,2 z |"m" B,,2 z [B,,D,]2 z"" =A,,2 z | %23
+"m" B,,2 z B,2 z"m" E,2 z |$"m" A,2 z"m" D,2 z"m" _G,2 z |"m" C,2 z"" F,2 z"m" =E,2 z | %26
+"" F,2 z z3 E,3 |$"m" [B,,D,]2 z z3 [E,=A,]3 |"" [D,D]3"" C3"m" B,3 | %29
+"" [B,D_G]3"" [_CEG]3"" [=A,=C]3 |$ B,3"m" G,3"" C,3 |"m" z =B,,B,,"" C,D,C, _B,,A,,G,, | %32
+"m" F,,2 z [F,A,]2 z"m" =E,2 z |$"m" F,2 z [F,A,]2 z"" =E,2 z |"m" F,F,,G,, A,,C,F,"m" E,=D,A,, | %35
+"" G,,E,,F,,"m" _G,,E,D,"m" C,_G,G,, |$"m" F,,3"" z [F,A,][F,A,]"m" [E,_G,][E,G,][E,G,] | %37
+"" [D,F,]3"m" z [D,F,][D,F,]"" [C,E,][C,E,][C,E,] | D,6 x3 |$"" z C,,C,"" C,{E,/}D,C, B,,A,,G,, | %40
+"m" A,,2 z z3"" [=E,B,]3 |"m" [F,A,]2 z z3"" [G,B,=E]3 |$"m" [A,C]2 z"" [G,B,]2 z"" [F,A,]2 z | %43
+ G,6- G,2 z |"m" F,G,A,"" z!mf! B,,A,"m" _G,F,E, |$ %45
+"" z!f! C,B,"m" A,=G,F,"m"!ff! E,[_C,_C][B,,B,] |"" [=A,,=A,]3!mf! [A,CE]3"m"!p! [B,D]3 | %47
+"m"!ff! [=B,,=D,F,_A,]3"m" C,3"" C,,3 |"m" F,,6 z3 |] %49
+V:3
+ x9 | x9 | x3 A3/2sAA/ GF=D |$ E x8 | x3 F3 F3 | F3 [=EG]3 F3 |$ F2 =E z CE F3 | =E3 x6 | x9 |$ %9
+ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x6 [=Ace] x2 |$ x9 | x9 | x9 |$ %24
+ c3- cB!turn!=A B3- | BG=A ABA (c2 B) | =AF,(.F .F.F.F) (F!p!{A/}_GF) |$ x9 | x3 =A3 B3 | %29
+ ddd _ccc =ccc |$ =ddd =eee efe | (g2 f-) f =e2- e3 | x9 |$ x9 | x9 | x9 |$ x7 x/4 s=A/4 x3/2 | %37
+ x3 x/4 s=A/4 x11/2 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | GFF- FFF- FFF- | FFF- F x5 | x9 |] %49
+V:4
+ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x6"" E,3 | %17
+"""" A,6- [A,C]E,C, |$"C{" A,,2 z [A,,C,]2 z"m" G,,2 z |"" A,,2 z A,,2 z"" G,,2 z | x9 |$ x9 | x9 | %23
+ x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 |"" B,,6 B,,,3 |$ %39
+ x9 | x9 | x9 |$ x9 |"" =E,6"" E,2 C, | x9 |$ x9 | x9 | x9 | x9 |] %49
+V:5
+ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ %18
+ x9 | x3 C,2 x4 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x6"" =A,,3 |$ x6"" C,3 | x9 | x9 |$"" _A,3 x6 | %31
+ x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 | x9 |] %49
+V:6
+ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ %18
+ x9 | x9 | x9 |$ x9 | x9 | x6 z Bd |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | %35
+ x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 |$ x9 | x9 | x9 | x9 |] %49

@@ -1,0 +1,30 @@
+% 160 Eight-Measure Exercises, No. 6: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2067
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:160 Eight-Measure Exercises, No. 6
+C:Czerny, C.
+%%score 1 ( 2 3 )
+L:1/16
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Staff_pfUpper" snm="Pno"
+L:1/8
+V:2 bass nm="Staff_pfLower" snm="Pno"
+V:3 bass 
+V:1
+ [FA]c [FA]c [FA]c | [EB]c [EB]c [EB]c | [EB]c [EB]c [EB]c | [FA]c [FA]c [FA]c | %4
+ [Ac]f [Ac]f [Ac]f | (3[Bc][BA][Bc] (3[de][=d_d][=de] (3[fd][gf][ed] | %6
+ (3[cc'][=b_b][ag] (3[fe][dc][_BA] (3[cB][AG][FE] | F/ z3/2 [Acf]/ z7/2 |] %8
+V:2
+ (3:2:2[F,G,]2[F,G,]2[F,G,] (3:2:2z/ [F,G,]-(3:2:2[F,G,][F,G,]2[F,G,] (3:2:2z/ [F,G,]-(3:2:2[F,G,][F,G,]2[F,E,] (3:2:1z/ | %1
+ z4 C, z3 C, z3 | %2
+ (3:2:2[G,A,]2[G,A,]2[G,A,] (3:2:2z/ [G,A,]-(3:2:2[G,A,][G,A,]2[G,A,] (3:2:2z/ [G,A,]-(3:2:2[G,A,][G,A,]2[G,F,] (3:2:1z/ | %3
+ z4 F, z3 F, z3 | %4
+ (3:2:2[_E,F,]2[E,F,]2[E,F,] (3:2:2z/ [E,F,]-(3:2:2[E,F,][E,F,]2[E,F,] (3:2:2z/ [E,F,]-(3:2:2[E,F,][E,F,]2[E,D,] (3:2:1z/ | %5
+ D,2F,2 B,,2F,2 =B,,2F,2 | C,8 C,4 | [A,F,]2F,2 C,2A,,2 F,,2 z2 |] %8
+V:3
+ z3 [F,G,] z3 [F,G,] z3 [F,G,] | x12 | z3 [G,A,] z3 [G,A,] z3 [G,A,] | x12 | %4
+ z3 [_E,F,] z3 [E,F,] z3 E, | x12 | z2 [F,A,]4 [F,A,]2 z2 [G,_B,]2 | x12 |] %8

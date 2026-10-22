@@ -1,0 +1,37 @@
+% Les Lanciers: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=681
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Les Lanciers
+C:Yaniewicz
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=86
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="upper"
+V:2 treble 
+L:1/16
+V:3 bass nm="lower"
+L:1/4
+V:1
+ g>^f g>a g>=f e>d | c2 c2 d/ z B/ c>d | e2 e2 f/ z d/ e>f | d2 d2 d>e f>^f | g>^f g>a g>=f e>d | %5
+ c2 c2 d/ z B/ c>d | e2 e2 e/ z c/ d>e | c2 c2 c>d e>f | g>^f g>a g>=f e>d | c2 c2 d/ z B/ c>d | %10
+ e2 e2 f/ z d/ e>f | d2 d2 d>e f>^f | g>^f g>a g>=f e>d | c2 c2 d/ z B/ c>d | e2 e2 e/ z c/ d>e | %15
+ c2 z4 B2 | c>B c>d e3 c | c>B d>B G2 A>B | c>B c>d e>d e>c | c>B d>B G2 z2 | g>f e>f g>a b>c' | %21
+ g>f e>f g>a b>[c'e] | g3 e e/ z c/ d>e | c2 c'2 c4 |] %24
+V:2
+ x16 | z8 c3 z4 z | z8 e3 z4 z | x16 | x16 | z8 c3 z4 z | z8 d3 z4 z | x16 | x16 | z8 c3 z4 z | %10
+ z8 e3 z4 z | x16 | x16 | z8 c3 z4 z | z8 d3 z4 z | x16 | x16 | x16 | x16 | x16 | x16 | x16 | %22
+ z8 d3 z4 z | x16 |] %24
+V:3
+ C,4 [E,G,] [E,G,] [E,G,] | C,4 [E,G,] [E,G,] [E,G,] | C,4 [E,G,] [E,G,] [E,G,] | %3
+ G,,4 [D,F,] [D,F,] [D,F,] | C,4 [E,G,] [E,G,] [E,G,] | C,4 [E,G,] [E,G,] [E,G,] | %6
+ [C,E,] G, [G,,D,] G, | [C,E,] G, [C,E,] G, | C,4 [E,G,] [E,G,] [E,G,] | C,4 [E,G,] [E,G,] [E,G,] | %10
+ C,4 [E,G,] [E,G,] [E,G,] | G,,4 [D,F,] [D,F,] [D,F,] | C,4 [E,G,] [E,G,] [E,G,] | %13
+ C,4 [E,G,] [E,G,] [E,G,] | [C,E,] G, [G,,D,] G, | [C,E,G,] z3 | %16
+ [C,E,G,]/ z/ [C,E,G,]/ z/ [C,E,G,]/ z/ [C,E,G,]/ z/ | [G,,D,G,] [G,,D,G,] [G,,D,G,]2 | %18
+ [C,E,G,]/ z/ [C,E,G,]/ z/ [C,E,G,]/ z/ [C,E,G,]/ z/ | [G,,D,G,] [G,,D,G,] [G,,D,G,]2 | %20
+ C,/G,/ E,/G,/ C,/G,/ E,/G,/ | C,/G,/ E,/G,/ C,/G,/ E,/G,/ | C,/G,/ E,/G,/ G,,/G,/ D,/G,/ | %23
+ C,/G,/ E,/G,/ C,2 |] %24

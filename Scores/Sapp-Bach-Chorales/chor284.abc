@@ -1,0 +1,31 @@
+X:1
+T:Herr Jesu Christ, wahr Mensch und Gott
+T:Herr Jesu Christ, wahr Mensch und Gott
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+L:1/8
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ f | f f e c | d e !fermata!f f | e d c B | A G !fermata!A A | G A/=B/ c d | c =B !fermata!c c | %7
+ d e f e | d d !fermata!c c | B A d c | B A !fermata!G G | A =B c d | c =B !fermata!c x || %13
+V:2
+ A2 | A2 A2 G2 AG | F2 G2 !fermata!A2 A2 | GF FG GA DE | F2 ED !fermata!^C2 D2 | D=C C2 CF F2 | %6
+ FE D2 !fermata!E2 F2 | F2 B2 AG G2 | ^F2 ^G2 !fermata!A2 A2 | A=G G=F F_E ED | %10
+ D=E =F2 !fermata!E2 E2 | _ED D2 E2 F2 | F_E D2 !fermata!=E2 x2 || %13
+V:3
+ c | c c/d/ e f/e/ | d/c/ B !fermata!c d/c/ | B/c/ d e/d/ d/^c/ | d/A/ B !fermata!E =F | %5
+ G F E/A/ A/G/ | G G !fermata!G A | B B c/d/ e | A/ =B/4c/4 d/e/ !fermata!e e | f/c/ c _B ^F | %10
+ G c !fermata!c c | c G G _A/G/ | G G !fermata!G x || %13
+V:4
+ F,/G,/ | A, G,/F,/ C/B,/ A, | B,/A,/ G, !fermata!F, D, | G,/A,/ B, E,/^F,/ G, | %4
+ D,/=C,/ B,, !fermata!A,, D, | E, F,/G,/ A, =B, | C G, !fermata!C, F, | B, A,/G,/ A,/=B,/ C | %8
+ C/ =B,/4A,/4 B,/E,/ !fermata!A, A,, | D,/E,/ =F, _B,,/C,/ D, | G,, A,,/B,,/ !fermata!C, C | %11
+ ^F, =F, _E, =B,, | C, G,, !fermata!C, x || %13

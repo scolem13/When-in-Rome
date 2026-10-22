@@ -1,0 +1,78 @@
+X:1
+T:A Shropshire Lad
+T:Loveliest of trees
+C:Butterworth, George
+Z:Housman,  Alfred Edward
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=75
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="Voice"
+L:1/4
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Molto moderato, sempre rubato e con espressione" z4 | z4 | z4 |!p!!<(! (e2 d)!<)! c/ A/ | B3 A | %5
+w: |||Love- * liest of|trees, the|
+ G/ E/ F2 E | C c c B |"^poco rit." G3/2 F/!>(! G2-!>)! | %8
+w: cher- ry now Is|hung with bloom a-|long the bough,|
+ G/ z/!p![Q:1/4=80]"_a tempo"[Q:1/4=75]"^a tempo" E!<(! F!<)! G | B G D E | C4- | C z z2 | %12
+w: _ and stands a-|bout the wood- land|ride|_|
+ c"^cresc." ^A e2- | e3 B | G3 F |!f! E4- | E z z2 | z4 | z4 | z4 | z4 | z!p! G2 E/ F/ | %22
+w: wear- ing white|_ for|Eas- ter-|tide.|_|||||Now of my|
+[M:2/4] G E |[M:4/4] D3/2 C/ C z | G3/2 G/ (E/F/) G | (F/ E) D/ C z/ C/ | G3/2 E/ F"^cresc." G | %27
+w: three- score|years and ten,|Twen- ty will * not|come * a- gain, And|take from seven- ty|
+ B3/2 B/ A z/ G/ | d3/2 d/ c B |"^poco rit." (C/D/)!>(! (E/F/) G2-!>)! | G2 z2 | %31
+w: springs a score, It|on- ly leaves me|fif- * ty _ more.|_|
+ z!p![Q:1/4=75]"^a tempo" E F G | B3/2 G/ D E | C3 z | c3/2 ^A/"^cresc." ^E F | D d c2- | %36
+w: And since to|look at things in|bloom|Fif- ty springs are|lit- tle room,|
+ c/ z/ B =A F |!f! e3 d | c/ A/"^dimin." B2 A | G/ E/ F2 E |!<(! C!<)! c c2- | c2- c/ z/ z | z4 | %43
+w: _ A- bout the|wood- lands|I will go To|see the cher- ry|hung with snow.|_ _||
+ z4 | z4 | z4 | z4 | !fermata!z4 |] %48
+w: |||||
+V:2
+ z2!p! (d4 d2 | cA B3 AGE |!ped! F!>(!ECA,!>)![I:staff +1] E,C, F,,2-) |[I:staff -1] z8!ped-up! | %4
+ z!p! (AGE FECA,) | z4!ped! CEGA!ped-up! |!>(! ([B,B]4!>)! [A,A]) z z2 | [CE]4 [B,EG]4- | %8
+ b z z2 z4 | z8 | z2!p! (e4 d2 | cA B3 AGE) | (FE"_cresc."CB, ^A,CE^A) | %13
+ !tenuto!B2 !tenuto!G2 !tenuto![Ee]4- | (([Ee]4 [Dd]4)) | %15
+ !tenuto![EGBe]2 !tenuto![EGB]2 !tenuto![Beg]4- | %16
+ (3[Beg]2 !tenuto![GBe]2"_cresc." !tenuto![Beg]2 (3!tenuto![egb]2 !tenuto![Beg]2 !tenuto![egb]2 | %17
+ !tenuto![eac']2!ped!!ff! ([ec'e']4 [dbd']2 | [cac']6 [Afa]2)!ped-up! | %19
+ z2!f! ((!>![Geg]4 [EGe])) z | z2 ((!>![EG]4 [CE])) z | z8 |[M:2/4] z4 | %23
+[M:4/4] z2!p! ((!>![G,G]4 [CE])) z | z8 | z8 | z2 (!>!G2 F2"_cresc." E) z | z2 (!>!G2 F2 E) z | %28
+ z2 (([DG]2 [CF]2"_dimin." [B,E])) z | z2 !tenuto!C2 z2!p! .G,2 | z2 !>!G6- | (G2 E) z z4 | z8 | %33
+ (!>![ce]4 [Bd]4 | [^Ac]2) z2 z4 | (!>![df]4 [ce]4- | [ce]2 [Bd][GB] [=Ac]2 [FB]) z | %37
+ z4[I:staff +1] C[I:staff -1] EAc!mf! | e z z2 z eac' | e' z z2 z!8va(! e'^a'c'' | %40
+ e''!8va)! z z2 z"_cresc." G,CE | G z z2 z G (3ceg | z2 ([gb]4 [fa]2 | [eg][ce] [=df]4 [ce]2 | %44
+"_dimin." [B=d][=GB] [Ac]4 [GB]) z | z2!p! ([Ac]4 [FA]) z | z2!pp! ([^GB]4 !arpeggio![Geb]2) | %47
+ !arpeggio!!fermata![Geb]8 |] %48
+V:3
+ z8 | z8 | z8 | F,,2 z2 z4 | z8 | B,,C,E,G,!<(! z4!<)! | [A,,E,]4- [A,,E,] z z2 | z8 | z8 | %9
+ z4 z!pp! (G,,B,,E,) | [A,,C,E,F,]8- | [A,,C,E,F,]6 z2 | [F,,C,]8 | E,6- (E,G,) | %14
+ ((!^![A,,C]4 [B,,B,]4)) |!f! [E,B,]6 !tenuto![E,E]2 | %16
+ !tenuto![D,D]6 !tenuto![C,C]!tenuto![B,,B,] | !tenuto![A,,A,]3 !tenuto!A, !tenuto!B,3 !tenuto!C | %18
+ !tenuto!D3 !tenuto!E!>(! [A,CDF]4!>)! | z2 (!>!C,3 G, C) z | z8 | z8 |[M:2/4] z4 |[M:4/4] z8 | %24
+ z8 | z2!pp! ((!>![G,,G,]4 [A,,E,])) z | z2 (!>!E,2 F,2 G,) z | z2 (!>!E,2 F,2 G,) z | %28
+ z2 (^C,2 D,2 E,) z |"^poco rit." z2 !tenuto![A,,E,]2 z2 .[E,,B,,]2 | [F,,C,]8- | %31
+ [F,,C,]2- [F,,C,]"^a tempo" z z4 | z!pp! (G,,D,B,) z (G,,E,B,) | z (A,,E,C) z (A,,^E,C) | %34
+ z (^A,,^E,C)"^cresc." z (A,,F,C) | z (B,,F,D) z (B,,^^F,D) | z (B,,G,D) z (B,,A,D) | %37
+ z C,E,A, x z z2 |[K:treble] z C"^dimin."EA c z z2 | z ce^a c' z z2 | %40
+[K:bass] z!pp! F,,C,E, ^A, z z2 | z F,CE ^A z z2 | z B,,, E,,!f!G,, (3B,,E,G, (3B,EG | z8 | %44
+ z2 (3z (=G,B, E) z z2 | z4 !arpeggio![F,A,=D] z !arpeggio![A,CE] z | z4 !arpeggio![E,,B,,G,]4 | %47
+ !arpeggio!!fermata![E,,B,,G,]8 |] %48
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | [CE]8- | z"^poco rit." (cBA G)!pp! .e'.d'.c' | [B,EG] x7 | x8 | x8 | %11
+ x8 | ^A,4 A,4 | B,2- (3B,CD EFGB | (!^!B6 A2) | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:2/4] x4 | %23
+[M:4/4] x8 | x8 | x8 | x2 (C4 B,) x | x8 | x8 | x8 | ^A,8- | A,2- A, x x4 | x8 | x8 | x8 | x8 | %36
+ x8 | x8 | x8 | x5!8va(! x3 | x!8va)! x7 | x8 | x8 | B z z/ (B,/E/=G/ B) z z2 | x8 | x8 | x8 | %47
+ x8 |] %48
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | G,,8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | x8 | x8 | x2 (^A,,4 B,,) x | x2 (=C,4 B,,) x | %28
+ x2 (A,,4 G,,) x | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:treble] x8 | x8 |[K:bass] x8 | %41
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %48

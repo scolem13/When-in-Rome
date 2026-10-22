@@ -1,0 +1,50 @@
+X:1
+T:Trigueira
+C:Chiquinha Gonzaga [published as Francisca Gonzaga]
+Z:Júlio Dinis
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | 4 }
+L:1/16
+Q:1/4=116
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="Canto\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+L:1/8
+V:1
+"^Allegretto" z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z2 A2 || d4- d2 z A | c6 z2 | A A A A A2 G F | %11
+w: |||||||1. Tri-|guei- ra, que|tens?|Fei- a co’es- sa côr tei- ma-|
+ A4 A2 z2 | D D G2 z F E F | c4 c4 | z2 c d e d c B | A4 z2 A2 | d2 d2 c2 z A | c4 c4 | %18
+w: gi- nas?|Fei- a, tu Queas- sim fas-|ci- nas|Com um só o- lhar dos|teus! Que|ciu- me tens d’al-|vu- ra|
+ z A A A A2 G F | A4 A2 z2 | D z G G z F E F | c4 c4 | z e2 d c c B E | F4 z2 G G || B2 B4 A G | %25
+w: D’es- ses sem- blan- tes de|ne- ve!|Ai! po- bre ca- be- ça|le- ve|Que te não cas- ti- gue|Deus! E sus-|pi- ras, e mur-|
+ c2 c4 z G | B4 B B A G | c2 c2 z2 c ^c | d2 d4 e d | A4 c4 | z2 e d c c =B _B | A4 z2 c ^c | %32
+w: mur- as Que|mais de- se- ja- vas|in- da? Pois se-|ri- as tu mais|lin- da,|Se ti- ves- ses ou- tra|cor? Pois se-|
+ d3 d !fermata!e3 d | F4 c2 !fermata!z2 | z2 e d c c B E | F8 :| %36
+w: ri- as tu mais|lin- da,|Se ti- ves- ses ou- tra|cor?|
+V:2
+!p! (!>!d4 c4) | (!>!d4 c4) | z2 b2a2g2 | [Af]2c2 z2 A2 | (!>!d4 c4) | (!>!d4 c4) | z2 b2a2g2 | %7
+ [Af]4 z4 ||!p! (FcAf) (FcAf) | (EcBe) (EcBe) | (DAFd) (DAFd) | (^CAG^c) (CAGc) | %12
+ (B,GDB) (=B,FEF) | (CAFc) (CAFc) | (CBEc) (CBEc) | (CAFc) (CAFc) |!pp! (FcAf) (FcAf) | %17
+ (EcBe) (EcBe) | (DAFd) (DAFd) | (^CAG^c) (CAGc) | (B,GDB) (=B,FEF) | (CAFc) (CAFc) | %22
+ (CBEe) (CBEe) | (FcAf) z4 ||!p! (CBEc) (CBEc) | (CAFc) (CAFc) | (CBEc) (CBEc) | (CAFc) (CAc^c) | %28
+!<(! (dDGD)!<)! z (ded) |!>(! (ACcC) z (C!>)!cC) | z2 ed (cc=B_B) | (AAFc) (CAc^c) | %32
+!<(! z (DGD)!<)! !fermata!e2>d2 | (ACcC) c2 !fermata!z2 | z2 ed!>(! (ccBE)!>)! |!p! (FcAf-) f4 :| %36
+V:3
+ dFAF cFAF | dEBE cEBE | x2 be acgB | x8 | dFAF cFAF | dEBE cEBE | x2 be acgB | x8 || x8 | x8 | %10
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | %29
+ x8 | x8 | x8 | x4 !fermata![F^G]4 | x8 | x8 | x8 :| %36
+V:4
+ (F,/C/A,/C/ C,/C/A,/C/) | (G,/C/B,/C/ C,/C/B,/C/) | (G,/C/B,/C/ C,/C/B,/C/) | %3
+ (A,/F/C/F/ F,/C/A,/C/) | (F,/C/A,/C/ C,/C/A,/C/) | (G,/C/B,/C/ C,/C/B,/C/) | %6
+ (G,/C/B,/C/ C,/C/B,/C/) | [F,A,]2 F,, z || F,[A,C] C,[A,C] | G,[B,C] C,[B,C] | %10
+ D,[F,A,] A,,[F,A,] | E,[G,A,] A,,[G,A,] | B,,[D,G,] =B,,[D,^G,] | C,[F,A,] A,,[C,F,] | %14
+ G,,[C,E,] G,,[C,E,] | F,,[C,F,] z2 | F,[A,C] C,[A,C] | G,[B,C] C,[B,C] | D,[F,A,] A,,[F,A,] | %19
+ E,[G,A,] A,,[G,A,] | B,,[D,G,] =B,,[D,^G,] | C,[F,A,] C,[F,A,] | C,[G,B,] C,[G,B,] | %23
+ (F,/A,/F,/C,/) F,, z || C,[E,G,] B,,[E,G,] | A,,[C,F,] A,,[C,F,] | C,[E,G,] B,,[E,G,] | %27
+ A,,[C,F,] z2 | B,,[D,G,] =B,,[D,F,^G,] | C,[F,A,] C,[F,A,] | G,[B,C] C,[B,C] | F,[A,C] A,,[C,F,] | %32
+ B,,[D,G,] =B,,!fermata![D,^G,] | C,[F,A,] C, !fermata!z | G,[B,C] C,[B,C] | %35
+ [F,A,]/F,/C,/A,,/ F,,2 :| %36

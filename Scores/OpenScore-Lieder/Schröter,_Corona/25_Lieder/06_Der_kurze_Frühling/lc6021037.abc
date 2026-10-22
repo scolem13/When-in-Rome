@@ -1,0 +1,39 @@
+X:1
+T:25 Lieder
+T:Der kurze Frühling
+C:Corona Elisabeth Wilhelmine Schröter
+Z:Johann Gottfried Herder (after Luis de Góngora y Argote)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=114
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+L:1/4
+V:3 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Warnend\n" c2 B2 | A F G E | F2 A2 | c B A G |{G} F2 F z | G2 A =B | c d e d |{d/} c2 c2 | %8
+w: Früh- ling|währt nicht im- mer,|Mäd- chen,|Früh- ling währt nicht|im- mer.|Lasst _ euch|nicht die Zeit be-|trü- gen,|
+ f2 e2 | f c d B |{B} PA2 G2 | c2 B2 | A2 G2 | c2 B2 | A2 G2 | F3!p! F | (Fd) (BG) | F2{A} G2 | %18
+w: lasst euch|nicht die Ju- gend|täu- schen,|Zeit und|Ju- gend|flech- ten|Krän- ze|aus gar|zar- * ten *|Blu- *|
+ F2 z2 |] %19
+w: men.|
+V:2
+ [CFc]2 [CEB]2 | AFGE | F2 [FA]2 | [Ac][GB][FA][EG] |{[GB]} F2 F z | G2 A=B | cded |{d/} c2 c2 | %8
+ [cf]2 [_Be]2 | [cf][Ac] [Fd][GB] |{[GB]} [FA]2 [EG]2 | [CFc]2 [CEB]2 | [CFA]2 [CEG]2 | %13
+ [CFc]2 [CEB]2 | [CFA]2 [CEG]2 | [C_EF]3!p! [EF] | (Fd) (BG) | F2{A} [CG]2 | [CF]2 z2 |] %19
+V:3
+ A,C,G,C, | F,A,,B,,C, | F,C,F,C, | F,2 CC, | F,C,A,,F,, | E,C,F,D, | E,F,G,G,, | C,G,,E,,C,, | %8
+ A,,C,G,,C, | A,,F,,B,,G,, | C,C,,C,B,, | A,,C,G,,C, | F,,C,B,,C, | A,,C,G,,C, | F,,C,B,,C, | %15
+ z A,,C,F,, | B,,4 | A,2 B,2 | A,2 z2 |] %19
+V:4
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | D x | x2 | x2 |] %19
+V:5
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | C, C,, | %18
+ F, x |] %19

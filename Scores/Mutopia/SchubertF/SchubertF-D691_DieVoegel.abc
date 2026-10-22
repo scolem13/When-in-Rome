@@ -1,0 +1,53 @@
+% Die Vögel: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1557
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Die Vögel
+C:SchubertF
+%%score ( 1 2 ) 3 4
+L:1/8
+Q:1/4=60
+M:3/8
+I:linebreak $
+K:none
+V:1 bass nm="pianoDown" snm="Ac Gtr"
+V:2 bass 
+V:3 treble nm="chant" snm="V"
+V:4 treble nm="pianoUp" snm="Ac Gtr"
+L:1/16
+V:1
+ x |[Q:1/4=66] z E/^C/E |[M:3/8] A/ z/ ^C/A,/C | E/ z/ A,/B,/[A,^C]- | [A,^C][^G,D][A,C] | %5
+ z [A,,E,A,]A,,- | A,,2 A,,- | A,,2 A,,- | A,,2 A,,- | A,,2 ^G, | A,B,A,- | A, z A,,- | A,,2 A,,- | %13
+ A,,2 A,,- | A,,2 A,,- | A,,2 A,,- | A,,2- A, | ^G,A,E,- | E,2- A,,- | A,, z [E,,B,,] | %20
+ z2 [E,,B,,] | z2 [B,,,B,,] | z [B,,,B,,][E,,B,,] | z2 [B,,,B,,] | z [B,,,B,,][E,,B,,] | z E,^F, | %26
+ z B,,E, | z E,^F, | z B,,E, | z2 [E,,B,,] | z2 [E,,B,,] | z2 [B,,,B,,] | z [B,,,B,,][E,,B,,] | %33
+ z2 [B,,,B,,] | z [B,,,B,,][E,,B,,] | z E,^F, | z B,,E, | z E,^F, | z B,,E, | z2 E,- | E,2 A,,- | %41
+ A,,2 A,,- | A,,2 A,,- | A,,2 ^G, | A,B,A,- | A, z A,,- | A,,2 A,,- | A,,2 A,,- | A,,2 A,,- | %49
+ A,,2 A,,- | A,,2- A, | ^G,A,E,- | E,2- A,,- | A,,2 [A,,E,]- | [A,,E,]2- [A,,E,]- | %55
+ [A,,E,]2 [A,,E,]- | [A,,E,]2 x |] %57
+V:2
+ x | z3 |[M:3/8] z3 | z2 E,- | E,2 z | z3 | [E,B,][E,B,] z | [E,A,][E,A,] z | [E,B,][E,B,] z | %9
+ [E,A,][E,A,][A,,E,]- | [A,,E,]2- [A,,E,]- | [A,,E,] z2 | [E,B,][E,B,] z | [E,A,][E,A,] z | %14
+ [E,B,][E,B,] z | [E,A,][E,A,] z | ^C,D,A,,- | A,,2 A,, | ^F,,^G,,E,- | E, z2 | z3 | z3 | z3 | z3 | %24
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | B,B, z | %41
+ [E,A,][E,A,] z | [E,B,][E,B,] z | [E,A,][E,A,][A,,E,]- | [A,,E,]2- [A,,E,]- | [A,,E,] z2 | %46
+ [E,B,][E,B,] z | [E,A,][E,A,] z | [E,B,][E,B,] z | [E,A,][E,A,] z | ^C,D,A,,- | A,,2 A,, | %52
+ ^F,,^G,,E,- | E,2 z | z3 | z3 | z2 x |] %57
+V:3
+ x |[K:A][M:3/8][M:3/8] x[Q:1/4=66] x x |[M:3/8] x3 | x3 | x3 | x ^d'/e'/^f'/=d'/ | %6
+ b^c'/d'/e'/c'/ | aa/^c'/e- | e/e/ea/^c'/ | e'2- e'- | e'2 x | x ^d'/e'/^f'/=d'/ | b^c'/d'/e'/c'/ | %13
+ aa/^c'/e- | e/e'/e'^c' | a2- a- | a2 x | x3 | x3 | x ^c'^a | b^c'^a | b^c'^d' | ^c'^d'e' | %23
+ ^g'e'^d' | ^c'^d'e' | ^g' x2 | x3 | x3 | x3 | x ^c'^a | b^c'^a | b^c'^d' | ^c'^d'e' | ^g'e'^d'- | %34
+ d'/^c'/^d'e' | ^g' x2 | x3 | x3 | x3 | x ^d'/e'/^f'/=d'/ | b^c'/d'/e'/c'/ | aa/^c'/e- | %42
+ e/e/ea/^c'/ | e'2- e'- | e'2 x | x ^d'/e'/^f'/=d'/ | b^c'/d'/e'/c'/ | aa/^c'/e- | e/e'/e'^c' | %49
+ a2- a- | a2 x |] %51
+V:4
+ x2 |[K:A][M:3/8][M:3/8] x2[Q:1/4=66] e^ce2 |[M:3/8] ax^cAc2 | exAB^cA | EABeAE | ^CECEDE | %6
+ ^GEDE^CE | AE^CEDE | ^GEDE^CE | AE^CE[DB]E | [^CA]E[D^G]E[CA]E | ^CECEDE | ^GEDE^CE | AE^CEDE | %14
+ ^GEDE^CE | AE^CE[^Fd]A | [=Ge]A[^Fd]A[E^c]A | [DB]E[^CA]E[DB]E | [^D^c]E[=DB]E[^CA]E | ^CEAE=GB, | %20
+ ^GB,AB,=GB, | ^GB,AB,^FB, | EB,^FB,^GB, | BB,^GB,^FB, | EB,^FB,^GB, | BB,[E^G]B,[^CA]B, | %26
+ BB,[^D^F]B,[E^G]B, | BB,[E^G]B,[^CA]B, | BB,[^D^F]B,[E^G]B, | BB,AB,=GB, | ^GB,AB,=GB, | %31
+ ^GB,AB,^FB, | EB,^FB,^GB, | BB,^GB,^FB, | EB,^FB,^GB, | BB,[E^G]B,[^CA]B, | BB,[^D^F]B,[E^G]B, | %37
+ BB,[E^G]B,[^CA]B, | BB,[^D^F]B,[E^G]B, | BB,E^G=DE | ^GEDE^CE | AE^CEDE | ^GEDE^CE | AE^CE[DB]E | %44
+ [^CA]E[D^G]E[CA]E | ^CECEDE | ^GEDE^CE | AE^CEDE | ^GEDE^CE | AE^CE[^Fd]A | [=Ge]A[^Fd]A[E^c]A | %51
+ [DB]E[^CA]E[DB]E | [^D^c]E[=DB]E[^CA]E | ^CEAE[CA]E | ^CEAE[CA]E | ^CEAE[CA]2- | [CA]4 x2 |] %57

@@ -1,0 +1,34 @@
+X:1
+T:Jesu, Jesu, du bist mein
+T:Jesu, Jesu, du bist mein
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ G3/2 c/ =B c | d e/d/ !fermata!d2 | e c f e | d d/>e/ c !fermata!c | G G c B | %5
+ _A G/F/ !fermata!F2 | B G c/d/ e | G F/E/ E !fermata!E | G3/2 =A/ =B B | c d =B !fermata!B | %10
+ c d e c | f e d !fermata!d | c G _A G | G3/2 F/ !fermata!G2 | c G _A/G/ F/ E/4D/4 | %15
+ E D/C/ !fermata!C2 || %16
+V:2
+ E G F G | G G !fermata!G2 | G G F/G/ _A- | A/D/G/F/ E !fermata!E | E/F/ G C/D/ E | %5
+ F E !fermata!D2 | F3/2 E/ E/F/ G/F/ | E D B, !fermata!B, | E E F G | G _A G !fermata!G | G G G G | %11
+ F G G !fermata!G | G G- G/ F E/ | E/D/ C !fermata!D2 | G/F/ G/E/ F C | C =B, !fermata!G,2 || %16
+V:3
+ c c d e | d c c !fermata!=B | c e/d/ c c | c =B G !fermata!G | c d e _B | B B !fermata!B2 | %6
+ B B c/B/- B/c/ | B B/>_A/ G !fermata!G | B c/e/ d d | e f d !fermata!d | e d c/d/e/d/ | %11
+ c c c !fermata!=B | c e c =B | c/=B/ c !fermata!B2 | c c c _A | G G/>F/ !fermata!=E2 || %16
+V:4
+ C,2 E,2 D,2 C,2 | =B,,2 C,2 !fermata!G,,4 | C,2 C_B, _A,3 G, | F,2 G,2 !fermata!C,4 | %4
+ C2 B,2 _A,2 G,F, | E,D, E,2 !fermata!B,,4 | D,B,, E,2 _A,,2 G,,A,, | B,,_A,, B,,2 !fermata!E,,4 | %8
+ E,D,E,C, D,_A,G,F, | E,C, F,,F, G,G,,G,!fermata!F, | E,D,C,=B,, C,G,C_B, | %11
+ _A,2 G,F, G,2 !fermata!G,,2 | E,2 C,2 F,2 G,2 | _A,4 !fermata!G,4 | E,D,E,C, F,G,_A,F, | %15
+ G,2 G,,2 !fermata!C,4 || %16

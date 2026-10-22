@@ -1,0 +1,45 @@
+% Allegro in G Major: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2090
+% Licence: Creative Commons Attribution-ShareAlike 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Allegro in G Major
+C:D. Aguado
+%%score ( 1 2 3 4 )
+L:1/8
+Q:1/4=92
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="Guitar:upperVoice" snm="Ac Gtr"
+V:2 treble 
+V:3 treble 
+V:4 treble 
+L:1/16
+V:1
+ x3 D | BA/G/ F[EC,] | D2 [G,B,][B,D] | [A,C][A,C]/[^G,B,]/ [A,C][CE] | [CE]2 [B,D=G,]D | %5
+ BA/G/ F[EC,] | D2 ^C-G,, | DE/F/ G[G,^C] | [F,DD,]2 z D | BA/G/ F[EC,] | D2 [G,B,][B,D] | %11
+ [A,C][A,C]/[^G,B,]/ [A,C][CE] | [CE]2 [B,D=G,]D | BA/G/ F[EC,] | D2 ^C-G,, | DE/F/ G[G,^C] | %16
+ [F,DD,] z3 | [FA]B/[=F^G]/ [^FA][=GB] | [FA]2 D, z | [FA]B/[=F^G]/ [^FA][=GB] | [FA]2 D, z | %21
+ [A=c]d/[^GB]/ [Ac][Bd]/ z/ | [ce]2 [Bd] z | FG/E/ F[A,F]/ z/ | [B,G]2 G,,-G,, | %25
+ [FA]B/[=F^G]/ [^FA][=GB] | [FA]2 D, z | [FA]B/[=F^G]/ [^FA][=GB] | [FA]2 D, z | %29
+ [A=c]d/[^GB]/ [Ac][Bd]/ z/ | [ce]2 [Bd] z | FG/E/ F[A,F]/ z/ | [B,G]2 G,,-G,, |[K:C] G>A G-[B,F] | %34
+ [CE]2 (3:2:2d z A/- | (3:2:2A/4 z/ z A/ G[FB,] | [FC]2 E z | EE/F/ E[B,D^G,,] | %38
+ [A,CA,,][^G,B,B,,] [A,C,][=G,^C,] | F,A, [B,G,,]- z | G, [CC,]3 | E,G3/2 A/G- | %42
+ [B,F][GCE] c/B/(3:2:2d z/ | z/ (3:2:2A z2 A/G | [FB,] F2 E | z E E/F/E | %46
+ [B,D^G,,][A,CA,,] [^G,B,B,,][A,C,] | [=G,^C,]F, A,[B,G,,]- | z G, [=C=C,]2- | [CC,]E, x2 |] %50
+V:2
+ x x3 | [G,B,]2 z2 | B,, G,,2 z | D,3- D, | z G, z2 | [G,B,]2 z2 | B,,^A,, =A,,^C | F,,2 A,,-A,, | %8
+ z4 | [G,B,]2 z2 | B,, G,,2 z | D,3- D, | z G, z2 | [G,B,]2 z2 | B,,^A,, =A,,^C | F,,2 A,,-A,, | %16
+ z4 | D,3- D, | z D z2 | D,3- D, | z ^C/ z2 z/ | D,3- [ce] | =G,3 z | D,3- [CA] | G,D, z2 | %25
+ D,3- D, | z D z2 | D,3- D, | z ^C/ z2 z/ | D,3- [ce] | =G,3 z | D,3- [CA] | G,D, z2 | %33
+[K:C] [CE]3 G- | Gc/B/ z/ c/ z | G3/2 z2 z/ | z4 | z4 | z4 | D,2 F, z | [B,G,,]E, G,E,- | z [CE]3 | %42
+ G z2 z/ c/ | z G3/2 z3/2 | z C3 | z4 | z4 | z D,2 F, | z [B,G,,] E,G, | E,- z x2 |] %50
+V:3
+ x x3 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %17
+ z [FA]/ z2 z/ | z4 | z [FA]/ z2 z/ | z D z2 | z [Ac]/ z3/2 D, | z4 | C2 z D, | z4 | %25
+ z [FA]/ z2 z/ | z4 | z [FA]/ z2 z/ | z D z2 | z [Ac]/ z3/2 D, | z4 | C2 z D, | z4 |[K:C] z4 | z4 | %35
+ [CE]3 z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z [CE]3 | z4 | z4 | z4 | z4 | z4 | z2 x2 |] %50
+V:4
+ x2 x6 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %19
+ z8 | z8 | z8 | z8 | z2 F z4 z | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z2 F z4 z | z8 |[K:C] z8 | z8 | %35
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 x4 |] %50

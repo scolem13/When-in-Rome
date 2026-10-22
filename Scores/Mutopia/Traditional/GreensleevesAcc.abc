@@ -1,0 +1,29 @@
+% Greensleeves: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1265
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Greensleeves
+C:Traditional
+%%score 1 2
+L:1/4
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Amin
+V:1 bass nm="bass" snm="B"
+V:2 treble nm="treble"
+L:1/8
+V:1
+ x | A,, [E,A,C] [E,A,C] | E,, [E,A,C] [E,A,C] | G,, [G,B,D] [G,B,D] | D, [G,B,D] [G,B,D] | %5
+ F,, [F,A,C] [F,A,C] | C, [F,A,C] [F,A,C] | E,, [E,^G,B,] [E,G,B,] | B,, [E,^G,B,] [E,G,B,] | %9
+ A,, [E,A,C] [E,A,C] | E,, [E,A,C] [E,A,C] | G,, [G,B,D] [G,B,D] | D, [G,B,D] [G,B,D] | %13
+ F,, [F,A,C] [F,A,C] | E,, [E,^G,D] [E,G,D] | A,, [E,A,C] [E,A,C] | [A,,E,A,C]2- [A,,E,A,C] | %17
+ C, [E,G,C] [E,G,C] | G,, [E,G,C] [E,G,C] | D, [G,B,D] [G,B,D] | G,, [G,B,D] [G,B,D] | %21
+ F,, [F,A,C] [F,A,C] | C, [F,A,C] [F,A,C] | E,, [E,^G,D] [E,G,D] | B,, [E,^G,D] [E,G,D] | %25
+ C, [E,=G,C] [E,G,C] | G,, [E,G,C] [E,G,C] | D, [G,B,D] [G,B,D] | G,, [G,B,D] [G,B,D] | %29
+ F,, [F,A,C] [F,A,C] | E,, [E,^G,D] [E,G,D] | A,, [E,A,C] [E,A,C] | [A,,E,A,C]2- [A,,E,A,C] |] %33
+V:2
+ x4 A2 | c4 d2 | e3 f e2 | d4 B2 | G3 A B2 | c4 A2 | A3 ^G A2 | B4 ^G2 | E4 A2 | c4 d2 | e3 f e2 | %11
+ d4 B2 | G3 A B2 | c3 B A2 | ^G3 ^F G2 | A4- A2 | A4- A2 | g4- g2 | g3 ^f e2 | d4 B2 | G3 A B2 | %21
+ c4 A2 | A3 ^G A2 | B4 ^G2 | E4- E2 | g4- g2 | g3 ^f e2 | d4 B2 | G3 A B2 | c3 B A2 | ^G3 ^F G2 | %31
+ A4- A2 | A4- A2 |] %33

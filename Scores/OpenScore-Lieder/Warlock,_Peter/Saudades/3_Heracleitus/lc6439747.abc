@@ -1,0 +1,77 @@
+X:1
+T:Saudades
+T:Heracleitus
+C:Peter Warlock
+Z:Callimachus (Greek poet and scholar, c. 310 - c. 240 BC)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 7 ) | ( 4 5 6 ) }
+L:1/8
+Q:1/8=40
+M:none
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+L:1/16
+V:2 treble nm="Piano"
+V:3 treble 
+V:7 treble 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+V:1
+"^(\nabout 80)\n""^Slow  tempo very free - the voice murmuring to itself" z2 E2 !tenuto!^F2 G2 z2 A3 B B2 A2 | %1
+w: They told me, Her- a- clei- tus,|
+ z2 E2 !tenuto!E2 D2 z2 E3 G | !tenuto!!fermata!_B6 A2 G3 G A c | %3
+w: they told me you were|dead, They brought me bit- ter|
+ c3 _B A2 E2 !tenuto!G !tenuto!G !tenuto!F3 _E | %4
+w: news to hear and bit- ter tears to|
+ F4 z2!<(! _E2!<)! !tenuto!=E3 ^F G c (4:3:4d2 c2 z2 f2 e3 d c A | %5
+w: shed; I wept as I re- mem- bered how of- ten you and|
+ G3 A !tenuto!c !tenuto!d !tenuto!f d c2 A2 z F | %6
+w: I Had tired the sun with talk- ing and|
+ c2 _A2 _B3/2 G/"^rit. molto" C4 z4 !fermata!z6 !fermata!z6 | %7
+w: sent him down the sky.|
+ z"^Più lento" C D _E =F ^F A =E3 z"^mezzo voce" E | ^c3 B ^G A B4 z"^naturale" c e2 e e B2 | %9
+w: And now that thou art ly- ing, my|dear old Cari- an guest, A hand- ful of grey|
+ =d ^c3 ^F2 B3 A ^G E =G4 z2 | z4 z4 z4 z4 z4 z4 z4 z2 | z2 !tenuto!^C2 ^D2 E2 A2 ^F2 | %12
+w: ash- es, long, long a- go at rest,||Still are thy plea- sant|
+"^Più lento" B2 A3 E !tenuto!c _e d3 A c4 z4 | %13
+w: voic- es, thy night- in- gales, a- wake.|
+ z2[Q:1/4=30]"^Adagio assai" A2 !fermata!E2 z F G G !tenuto!c3 F !tenuto!!fermata!A2 | %14
+w: For Death, he tak- eth all a- way,|
+ z4 z4 z4 z2 z3 A |"^rall. al fine" c3 _B (3:2:2A E2 E4 !fermata!z4 |] %16
+w: But|them he can- not take.|
+V:2
+!mp! (d4 c4- c- | c4 =B3) | !fermata!d3 (c _B2 A | _A2 G2)!<(! (A2 =A)!<)! | %4
+!sfz!"^pochiss."!>(! (c>_A"^rit."_BG)!>)!"^a tempo" (d3 c3- c3/2[G_e][^Fd]/ | %5
+ [Ec]2) g>f (3z e'c'!>(!(e!>)! | %6
+ c>)_A_B/z/4G/4"^rit. molto" !tenuto!C!tenuto!_A,!tenuto!_B,z/!tenuto!G,/ !fermata![A,_E]3!pppp! !fermata![=A,C]3 | %7
+!pp! [_A,G]2 [^D^F]!<(! (A>GF)!<)! | (A>^G^F)!p!!>(! (A2 G =G3)!>)! | %9
+!<(! (^F>!<)!E!>(!^D!>)! E2-)!>(! (!tenuto![E^G]!>)! !tenuto![=D=G]3) | %10
+ z2 z"_”"!pppp![I:staff +1] ([E,A,^C]4 D2 ^D2!<(! [A,=F]2"_”" [^G,E]2)!<)! | %11
+!mf!!>(![I:staff -1] (B4 A2)!>)! | ^F=FE!<(! (_B2 A!<)!!mf! (_e/)g/(3f/e/_A/) (5:4:5=A/e/d/c/_E/ | %13
+!p! (d2 !fermata!c2 B/G/)!>(! !tenuto!_B2!>)! !breath!!fermata!A | %14
+!p! (_e'-e'/4_b/4_a/4f/<_e/)(_B/<_A/)F/4 (=A/Bf/) (=e/d/) !tenuto!G2 | %15
+"^rall. al fine" ((A!>!G-"^not struck" G/4A/_B/4) =B/4^c/d/4e/4^f/(g/4) x2) |] %16
+V:3
+ E4- E4- E | F4 E3 | _E4- E2 F | _D2 =E2 _E3 | F2 _E2 =E3- (4:3:2E2 F2 [F_A]>_BA | %5
+ G2 c!<(! =B!<)! [ca]2 G/F/ | F>_ED/ z/ x10 | x3 [=CE-]3 | [^CE]3 D2 ^D =C3 | (^C3 =C2 B, _B,3) | %10
+ x7[I:staff +1] [^F,B,]4 [B,=D]4 |[I:staff -1] ^C6 | =C3 _E2 =E [_E_A]2 x2 | %13
+ =E3- E/F/D [_B,F]2 ^F | [=F_A]4 =E F2 z (F/E/) | _E>FG A/G/^F/E/ x2 |] %16
+V:4
+ _B,4 A,4- A, | _A,4 G,3 | ^F,4 G,2 C | F,2 =B,2 (_A,2 =A,) |"^tenuto" _A,2 _B,2 B,3 A,3 B,2 C | %5
+"_Since this piece is unmeasured, accidentals only apply to the notes they immediately precede.\nAlthough this renders naturals unnecessary, some precautionaries have been added as an aid to musicians unfamiliar with this system.\n" DC D2 [=A,F]2 =B, | %6
+ _A,>G,F,/ z/ _E,2 D,2 !tenuto!C,3 !fermata!G,3 | F,,,2 [=A,^C] (^F,>G,A,) | %8
+!pppp! (^F,>^G,A,) (=F,3 E,3) | (^D,>E,^F, =F,2 E,- E,2) x | %10
+ !tenuto!E,,2 !tenuto!E,,2 !tenuto!E,,2 !tenuto!E,,2 !tenuto!E,,2 !tenuto!E,,2 !tenuto!E,,2 !tenuto!E,, | %11
+ (=G,4 ^F,2) | (E,=F,^F, G,2 F, =F,2) (3(^F,G,^G, | !tenuto!A,3- A,/_A,/G,) [=G,,_D,]2 !breath!^C | %14
+!pp! _E4 _B,3 z =B, | (G,>A,_B,!ped! [D,=B,]2)!pppp! !fermata![D,,G,,E,B,]2!ped-up! |] %16
+V:5
+ C,4- C,4- C,- | C,4- C,3 | C,4- C,2 D, | _B,,2 ^C,2 _C,3 | D,2 _D,2 C,3- C,3 [G,,=D,]2 D, | %5
+ _B,2 _A, G, D,2 ^C, | =C,2- C,/ x/ G,,4 F,,3 _E,3 | x3 =B,,3- | B,,3- B,,3- B,,3 | %9
+ A,,3- A,,3- A,, !tenuto!E,,2 | x15 | A,,6- | A,,3 C,3- C,4 | C,4- C, x x _E, | %14
+ _C4 [G,,D,]3 x ^C, | =C,2 [G,,-^C,] G,,2 x2 |] %16
+V:6
+ x9 | x7 | x7 | x7 | G,,4 x9 | x7 | x13 | x6 | x9 | x9 | x15 | x6 | x10 | x8 | x9 | x7 |] %16
+V:7
+ x9 | x7 | x7 | x7 | x13 | x2 =F2 x3 | x13 | x6 | x9 | x9 | x15 | x6 | x10 | x8 | x9 | x7 |] %16

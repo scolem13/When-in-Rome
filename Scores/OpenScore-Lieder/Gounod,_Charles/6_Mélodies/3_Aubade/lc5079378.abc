@@ -1,0 +1,99 @@
+X:1
+T:6 Mélodies
+T:Aubade
+C:Charles Gounod
+Z:Victor Hugo
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+L:1/16
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Moderato un poco Andante" z6 | z6 | z6 | z6 | !fermata!z6 || F G A4 | (G2 A) B c d | %7
+w: |||||L'au- be naît|et * ta porte est|
+ (A/G/F/G/) A4- | A z z2 z2 | (AB) c2 f2- | f2 e d G d | (c/d/e/d/) c4- | c2- c z z2 | %13
+w: clo- * * * se!||Ma * bel- le,|_ pour- quoi som- meil-|ler? _ _ _ _|_ _|
+ z F G A B({Bd} c) | B G (_e4 | (d/)c/B/c/) d4- | d z z2 z2 | z f =e d c B |({AB} A) G A4- | %19
+w: A l'heure où s'é- veil-|le la ro-|* * * * se|_|Ne vas– tu pas te|ré- veil- ler?|
+ A2- A z z2 | z6 | z A ^F A d e | d ^c A4- | A2- A z z2 | z6 | z A F A d e | d c B4 | %27
+w: _ _||Ô ma char- mante é-|coute i- ci|_ _||L'a- mant qui chante et|pleure aus- si!|
+ z A[Q:1/4=90]"^rit." d A B A |({Ac} B) A A4- | A6- | A2- A z z2 | z6 | (FG) A4 | G A B2 c d | %34
+w: L'a- mant qui chante et|pleure au- ssi! |_|||Tout * frappe|à ta por- te bé-|
+ (A/G/F/G/) A4- | A z z2 z2 | (AB) c2 f2- | f2 e d G d | (c/d/e/d/) c4- | c2- c z z2 | %40
+w: ni- * * * e |_|L'au- * ro- re|_ dit: je suis le|jour!  _ _ _ _|_ _|
+ z F G A B({Bd} c) | B G _e4 | (d/c/B/c/) d4- | d z z2 z2 | z f =e d c B |({AB} A) G A4- | %46
+w: L'oi- seau dit: je suis|l'har- mo- ni-|* * * * e |_|Et moi je dis: je|suis l'a- mour! |
+ A2- A z z2 | z6 | z A ^F A d e | d ^c A4- | A2- A z z2 | z6 | z A =F A d e | d c B4 | %54
+w: _ _||O ma char- mante ~é-|coute i- ci |_ _||L'a- mant qui chante et|pleure aus- si|
+ z A[Q:1/4=85]"^rit." d A B A |({Ac} B) A A4- | A6- | A2- A z z2 | z6 |] %59
+w: L'a- mant qui chante et|pleure aus- si. |_|||
+V:2
+!p! [F,A,D]4 [F,A,D]4 [F,A,D]4 | x8 !>!a4- | (agfg) a8- | (agfg)"_dim." a6!pp! f2 |!pp! x12 || %5
+!pp! x12 | x12 | x12 | (agfg) a4- a2 z2 |"_cresc." [A,CF]4 [A,CF]4 [A,CF]4 | %10
+ [G,=B,F]4 [G,B,F]4 [G,B,F]4 |"_dim." [G,CE]4 [G,CE]4 [G,CE]4 |!p! (fgag) f4- f2 z2 | %13
+!pp! [F,B,DF]4 [F,B,DF]4 [F,B,DF]4 | [G,B,_EG]4 [G,B,EG]4 [G,B,EG]4 | %15
+ [F,B,DF]4 [F,B,DF]4 [F,B,DF]4 | (f_ede) f4- f2 z2 |"_cresc." x12 | x8 a4- | (ag^fg) a8 | %20
+ (g^fef) g8 | ^f2 z2 [A,D^F]4 [A,EG]4 | x8"_cresc." a4- | (ag^fg) a8 |"_dim." (g=fef) g8 | %25
+!p! f2 x2!<(! x8!<)! |!>(! [B,DF]4 [B,DF]4 [B,DF]4!>)! | [A,DF]2 z2"^rit."!pp! [A,DF]4 [A,DG]4 | %28
+ x8 !>!a4- | (agfg) a8- |"_dim." (agfg) a6!pp! f2 |!pp! [Fd]8- [Fd]2 !fermata!z2 | %32
+!pp! [F,A,D]4 [F,A,D]4 [F,A,D]4 | [G,B,D]4 [G,B,D]4 [G,B,D]4 | [F,A,D]4 [F,A,D]4 [F,A,D]4 | %35
+ (agfg) a4- a2 z2 |"_cresc." [A,CF]4 [A,CF]4 [A,CF]4 | [G,=B,F]4 [G,B,F]4 [G,B,F]4 | %38
+"_dim." [G,CE]4 [G,CE]4 [G,CE]4 |!p! (fgag) f4- f2 z2 |!pp! [F,B,DF]4 [F,B,DF]4 [F,B,DF]4 | %41
+ [G,B,_EG]4 [G,B,EG]4 [G,B,EG]4 | [F,B,DF]4 [F,B,DF]4 [F,B,DF]4 | (f_ede) f4- f2 z2 | %44
+ [A,DF]4 [A,DF]4 [A,DF]4 |"_dim." x8 a4- |!pp! (ag^fg) a8 | (g^fef) g8 | ^f2 z2 [A,D^F]4 [A,EG]4 | %49
+ x8"_cresc." a4- | (ag^fg) a4 x4 |"_dim." (g=fef) g8 |!p! f2 z2!<(! x8!<)! | %53
+!>(! [B,DF]4 [B,DF]4 [B,DF]4!>)! | [A,DF]2 z2!pp! [A,DF]4 [A,DG]4 | x8"_dim." !>!a4- | (agfg) a8- | %57
+ (agfg) a6!pp! f2 | d8- d2 !fermata!z2 |] %59
+V:3
+!ped! [D,,A,,D,] [D,,A,,D,] [D,,A,,D,] | [D,,A,,D,] [D,,A,,D,] [D,A,F]!ped-up! | %2
+!ped! [D,A,E]!ped-up!!ped! [D,A,F] [D,A,F]!ped-up! | %3
+!ped! [D,A,E] [D,A,F]/!ped-up!"^rit." z/ [D,A,F]/ z/ | [D,A,]2- [D,A,]/ !fermata!z/ || %5
+"^a tempo"!ped! [D,,A,,D,] [D,,A,,D,] [D,,A,,D,]!ped-up! | %6
+!ped! [D,,G,,D,] [D,,G,,D,] [D,,G,,D,]!ped-up! |!ped! [D,,A,,D,] [D,,A,,D,] [D,,A,,D,] | %8
+ [D,A,F] [D,A,F] [D,A,F]!ped-up! |!ped! [F,,C,F,] [F,,C,F,] [F,,C,F,]!ped-up! | %10
+!ped! G,, G,, G,,!ped-up! |!ped! [C,,C,] [C,,C,] [C,,C,]!ped-up! | %12
+!ped! [F,,C,_E,A,] [A,C_EF] [A,CEF]!ped-up! |!ped! [B,,,B,,] [B,,,B,,] [B,,,B,,]!ped-up! | %14
+!ped! [B,,,_E,,B,,] [B,,,E,,B,,] [B,,,E,,B,,]!ped-up! | %15
+!ped! [B,,,B,,] [B,,,B,,] [B,,,B,,]!ped-up! |!ped! [^G,D] [G,D] [G,D]!ped-up! | %17
+!ped! A,, A,, A,,!ped-up! |!ped! [A,,E,] [A,,E,] [A,E]!ped-up! | %19
+!ped! [D,,A,,^F,] [A,=C^F] [A,CF]!ped-up! |!ped! [D,=B,D] [D,B,E]!ped-up! [D,B,E] | %21
+ [D,A,D]/ z/ D, D, | A,,!ped! A,, [A,EG]!ped-up! |!ped! [D,,A,,^F,] [A,=CF] [A,CF]!ped-up! | %24
+!ped! [D,_B,D] [D,B,E]!ped-up! [D,B,E] | [D,A,D]/ z/ D, C, | F,3- | F,/ z/ A,, A,, | %28
+ A,,!ped! D,, [D,A,F]!ped-up! |!ped! [D,A,E]!ped-up!!ped! [D,A,F] [D,A,F]!ped-up! | %30
+!ped! [D,A,E] [D,A,F]/!ped-up!"^rit." z/ [D,A,F]/ z/ | [D,A,]2- [D,A,]/ !fermata!z/ | %32
+!ped! [D,,A,,D,] [D,,A,,D,] [D,,A,,D,]!ped-up! |!ped! [D,,G,,D,] [D,,G,,D,] [D,,G,,D,]!ped-up! | %34
+!ped! [D,,A,,D,] [D,,A,,D,] [D,,A,,D,]!ped-up! | [D,A,F] [D,A,F] [D,A,F] | %36
+!ped! [F,,C,F,] [F,,C,F,] [F,,C,F,]!ped-up! |!ped! G,, G,, G,,!ped-up! | %38
+!ped! [C,,C,] [C,,C,] [C,,C,]!ped-up! |!ped! [F,,C,_E,A,] [A,C_EF] [A,CEF]!ped-up! | %40
+!ped! [B,,,B,,] [B,,,B,,] [B,,,B,,]!ped-up! | %41
+!ped! [B,,,_E,,B,,] [B,,,E,,B,,] [B,,,E,,B,,]!ped-up! |!ped! [B,,,B,,] [B,,,B,,] [B,,,B,,] | %43
+ [^G,D] [G,D] [G,D]!ped-up! |!ped! A,, A,, A,,!ped-up! |!ped! [A,,E,] [A,,E,] [A,E]!ped-up! | %46
+!ped! [D,,A,,^F,] [A,=C^F] [A,CF]!ped-up! |!ped! [D,=B,D] [D,B,E]!ped-up! [D,A,E] | %48
+ [D,A,D]/ z/ D, D, | A,,!ped! A,, [A,EG]!ped-up! |!ped! [D,,A,,^F,] [A,=C^F] [A,CF]!ped-up! | %51
+!ped! [D,_B,D] [D,B,E]!ped-up! [D,B,E] | [D,A,D]/ z/ D, C, | F,3- | F,/ z/ A,, A,, | %55
+ A,,!ped! D,, [D,A,F]!ped-up! |!ped! [D,A,E]!ped-up!!ped! [D,A,F] [D,A,F]!ped-up! | %57
+!ped! [D,A,E] [D,A,F]/!ped-up!"^rit." z/ [D,A,F]/ z/ | [D,A,]2- [D,A,]/ !fermata!z/ |] %59
+V:4
+ x3 | [F,A,D] [F,A,D] [Ad] | [A^c] [Ad] [Ad] | [A^c] [Ad]/ z/ A/ z/ | [Fd]2- [Fd]/ !fermata!z/ || %5
+ [F,A,D] [F,A,D] [F,A,D] | [G,B,D] [G,B,D] [G,B,D] | [F,A,D] [F,A,D] [F,A,D] | [Ad] [Ad] [Ad] | %9
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | [FB] [FB] [FB] | [A,DF] [A,DF] [A,DF] | [A,^CE] [A,CE] [A^c] | %19
+ [Ad] [Ad] [Ad] | [Gd] [Gd] [G^c] | [^Fd]/ x/ x2 | [A,D^F] [A,^CE] [Ac] | [Ad] [Ad] [Ad] | %24
+ [Gd] [Gd] [G^c] | [Fd]/ z/ [A,DF] [A,DF] | x3 | x3 | [^A,CE] [A,DF] [Ad] | [A^c] [Ad] [Ad] | %30
+ [A^c] [Ad]/ z/ A/ z/ | x3 | x3 | x3 | x3 | [Ad] [Ad] [Ad] | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %43
+ [FB] [FB] [FB] | x3 | [A,^CE] [A,CE] [A^c] | [Ad] [Ad] [Ad] | [Gd] [Gd] [G^c] | [^Fd]/ x5/2 | %49
+ [A,D^F] [A,^CE] [Ac] | [Ad] [Ad] [Ad] | [Gd] [Gd] [G^c] | [Fd]/ x/ [A,DF] [A,DF] | x3 | x3 | %55
+ [^A,CE] [A,DF] [Ad] | [A^c] [Ad] [Ad] | [A^c] [Ad]/ z/ A/ z/ | F2- F/ x/ |] %59
+V:5
+ x3 | x3 | x3 | x3 | x3 || x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | B,, F,, G,, | A,,/ x5/2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %35
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %53
+ B,, F,, G,, | A,,/ x5/2 | x3 | x3 | x3 | x3 |] %59

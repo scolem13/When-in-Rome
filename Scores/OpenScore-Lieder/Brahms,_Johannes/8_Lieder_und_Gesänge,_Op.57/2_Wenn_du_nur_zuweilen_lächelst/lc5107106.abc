@@ -1,0 +1,58 @@
+X:1
+T:8 Lieder und Gesänge, Op.57
+T:Wenn du auch zuweilen lächelst
+C:Johannes Brahms
+Z:Georg Friedrich Daumer
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=75
+M:9/8
+I:linebreak $
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Poco Andante" G2 B A3 z2 f | e2 c B3 A2 z | z2 z (cB) g (fe) c | B2 c B3 =A2 z | %4
+w: Wenn du nur zu-|wei- len lä- chelst,|nur * zu- wei- * len|Küh- le fä- chelst|
+ c2 B e2 d (gd) B | =A2 z e2 d (gd) B | B3- B2 =A G3 | z2 z z2 z c2 B | B3 z2 z c2 B | %9
+w: die- ser un- ge- mess- * nen|Glut, die- ser un- * ge-|mess- * nen Glut|in Ge-|duld, in Ge-|
+ B3- B2 B =A2 e | d3 B2 z _d2 c | c3 B2 z _d2 c | c3- c2 c =B2 f | f3 e2 z e2 e | (_g3 f3)"B7" e3 | %15
+w: duld _ will  ich mich|fas- sen und dich|Al- les, Al- les,|Al- * les trei- ben|las- sen, was der|Lie- * be|
+ (__e3 _d3) _c3 | B2 z z2 z (e3- | e3 =d3) e3 | e6 B3 | _c6 B3 | G2 z z2 z z2 z | z9 | z9 | z9 | %24
+w: we- * he|tut, was|_ _ der|Lie- be|we- he|tut.||||
+ !fermata!z9 |] %25
+w: |
+V:2
+!p! ([G,EG]2 B [A,DA]3) (F2 [Bdf]) | ([Ee]2 c [Ee]2 B [Dd]2 A) | %2
+!<(! ([G,EG][B,B]) ([A,DA][Cc]) ([B,EB][Gg])!<)!!>(! ([Fcf]ec)!>)! | ([Ee]2 c [Ee]2 B [_G_g]2 =A) | %4
+!<(! ([Ff]2 B [^F^f]2 =A!<)!!>(! [Gg]2 B)!>)! |!<(! ([^F^f]2 =A) ([Ff]2 A) ([Gg]2 B)!<)! | %6
+!>(! [DB]3- [DB]2 [C=A] [B,G]3!>)! | (=E2 G F6)!p! | (=E2 G F6) | %9
+!<(! ([B,D]2 F [B,E]2!<)! B!>(! [E=A]3)!>)! | (F2 _A G6) | (F2 _A G6) | %12
+!<(! ([C=E]2 G [CF]2 c [F=B]2 f) | ([F=B]2 d [Ec]2 g [c^f]2 c')!<)! |!f! ([B_gb]3 [Afa]3 [_Geg]3) | %15
+ (__e3 _d3 _c3) |!>(! ([_GB_g]3 [=DA=d]3 [EBe]3)!>)! |!>(! ([_DE_d]3!>)! [_CE_c]6) | %18
+!p!!>(! ([_CE_c]3!>)! [B,EB]6) |!>(! (A3!>)! D6) |!p! ([G,EG]2 [B,B] [A,DA]6) | %21
+!<(! ([G,EG][B,B]) ([A,DA][Cc]) ([B,EB][Ee])!<)!!<(! ([_CE_c]3-!<)! | %22
+!>(! [CEc]3!>)! [B,EB]2) z!<(! ([=CE=c]3-!<)! |!>(! [CEc]3!>)! [B,EB]2) z!p!!>(! ([_A,D_A]3- | %24
+ [A,DA]3!>)! !fermata![G,EG]6) |] %25
+V:3
+ E,,3 F,,3 A,,3 | G,,3 F,,3 B,,,3 | [E,,B,,]E,[F,,B,,]F,[G,,E,]G, A,,A,E, | B,,3 C,3 E,3 | %4
+ D,3 C,3 B,,3 | D,3 C,3 B,,3 | D,,G,D, D,,^F,D, G,,G,D, | B,,3 B,,6 | B,,3 B,,3 A,,3 | %9
+ G,,3 _G,,3 F,,3 | B,,3 B,,6 | B,,3 B,,6 | A,,3 A,,3 G,,3 | C,3 C,3 =A,,3 | B,,,3 B,,,3 _C,,3 | %15
+ _D,,_D,A,, z D,A,, =D,,=D,A,, | E,,E,B,, F,,F,B,, _G,,_G,B,, | A,,A,E,- (E,A,E,-) E,3 | %18
+ B,,=G,E,- (E,G,E,-) E,3 | B,,,B,,F,,- (F,,B,,F,,-) F,,3 | E,,E,B,, F,,F,B,,- B,,F,B,, | %21
+ ([E,,B,,]E,)([F,,B,,]F,)([G,,E,]G,) A,,A,E, | B,,G,-E,- [E,G,]3 =A,,_G,E, | %23
+ B,,=G,-E,- [E,G,]3 z F,B,,- | (F,3 !fermata!E,6) |] %25
+V:4
+ (E,,E,B,, F,,F,B,, A,,A,B,,) | G,,G,B,, F,,F,C, B,,,B,,F,, | x6 A,,3 | B,,G,E, C,_G,E, E,CG, | %4
+ D,B,F, C,=A,^F, B,,G,D, | D,=A,^F, C,A,F, B,,G,D, | x9 | B,,G,=E, B,,_A,F, z A,F, | %8
+ B,,G,=E, B,,A,F, A,,F,D, | G,,F,D, _G,,E,B,, F,,F,C, | B,,A,F, B,,G,=E, z G,E, | %11
+ B,,A,F, B,,G,=E, z G,E, | A,,G,=E, A,,F,C, G,,G,D, | C,A,F, C,G,E, =A,,=A,E, | %14
+ B,,,B,,E,, B,,,B,,D,, _C,,_C,_G,, | _D,,6 =D,,3 | E,,3 F,,3 _G,,3 | A,,6- A,,3 | B,,6- B,,3 | %19
+ B,,,6- B,,,3 | E,,3 F,,6 | x6 A,,3 | B,,6 x3 | B,,6 x F,2- | [E,,B,,]3- [E,,B,,]6 |] %25
+V:5
+ x9 | x9 | x9 | x9 | x9 | x9 | x9 | ^C3 D6 | ^C3 D6 | x9 | D3 _D6 | =D3 _D6 | x9 | x9 | x9 | %15
+ [_G_g]6 [Ff]3 | x9 | x9 | x9 | A,3- A,6 | x9 | x9 | x9 | x9 | x9 |] %25

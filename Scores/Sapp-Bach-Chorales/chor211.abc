@@ -1,0 +1,34 @@
+X:1
+T:Weltlich Ehr und zeitlich Gut
+T:Weltlich Ehr und zeitlich Gut
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+L:1/8
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ c B A A | A B c/B/ A | !fermata!G2 z B | c B c A | B G A2 | !fermata!B2 z B | B B A B | %7
+ !fermata!c2 G G | A B c A | !fermata!B2 B c | d d c A | !fermata!B2 d d | d d e d/c/ | %13
+ !fermata!B2 B G | A B/c/ d/c/ B | A B !fermata!c2 || %16
+V:2
+ EF G2- G F/E/ F2 | FA G2 G2- GF | F2 !fermata!E2 z2 G2 | G2 G2 G2 F2- | F2 E2 E4 | %5
+ !fermata!E4 z2 E2 | ^FA- AG F2 E2 | !fermata!E4 D=F- FE- | ED D2 C G2 ^F | !fermata!G4 G3 ^F | %10
+ GA B2 AG ^F2 | !fermata!G4 A2 GA | BAG=F E2 ^F2 | !fermata!G4 G=F E2- | E^F G2 A2- AG- | %15
+ G =F/E/ F E/D/ !fermata!E4 || %16
+V:3
+ G G/c/ c c | d/f/ e/d/ c c | !fermata!c2 z d | e d c c | d B A/B/c/A/ | !fermata!^G2 z =G | %6
+ B/^f/- f/e/- e/d/ c/B/ | !fermata!A2 d- d/ c/4B/4 | c B/A/ G/e/ d | !fermata!d2 d c | B e e d | %11
+ !fermata!d2 ^f/e/d/c/ | B B c/B/ A | !fermata!e2 d c | c d d d | d d/G/ !fermata!G2 || %16
+V:4
+ C,D, E,2 F,G, F,E, | D,2 G,F, E,2 F,2 | !fermata!C,4 z2 G,2 | C,E,G,F, E,C,F,E, | %4
+ D,B,,E,D, C,B,,A,,C, | !fermata!E,4 z2 E,2 | ^D,2 E,2 ^F,2 ^G,2 | !fermata!A,4 B,2 C2 | %8
+ ^F,2 G,F, E,C, D,2 | !fermata!G,,4 G,,2 A,,2 | B,,2 ^G,,2 A,,B,,C,D, | !fermata!=G,,4 DCB,A, | %12
+ G,=F,E,D, C,2 D,2 | !fermata!E,4 G,,2 C,B,, | A,,2 G,,2 ^F,,2 G,,2 | D,2 G,,2 !fermata!C,4 || %16

@@ -1,0 +1,48 @@
+% Herzlich thut mich verlangen: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=715
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Herzlich thut mich verlangen
+C:Johann Sebastian Bach
+%%score 1 2 ( 3 4 ) 5
+L:1/8
+Q:1/4=34
+M:4/4
+I:linebreak $
+K:Bmin
+V:1 bass nm="Recorder" snm="Rec"
+V:2 treble nm="Flute" snm="Fl"
+L:1/16
+V:3 treble nm="Pan Flute" snm="P Fl"
+V:4 treble 
+L:1/16
+V:5 bass nm="Pan Flute" snm="P Fl"
+V:1
+ x6 F,,,2 | G,,,3 F,,, E,,,2 D,,,2 | G,,,4 F,,,2 F,,E,, | D,,C,, B,,,C,,/D,,/ E,,2 F,,F,,, | %4
+ B,,,4- B,,, B,,, B,,A,, | G,,A,,/B,,/ ^D,,2 E,,F,,/G,,/ ^A,,,2 | B,,,=A,,, G,,,2 F,,,2- F,,,F,, | %7
+ B,,,C,,/D,,/ D,,,D,, E,,F,,/G,,/ F,,F,,, | B,,,6 x B,, | =F,,C,, ^F,,^F,,, x G,,E,,A,, | %10
+ D,,4- D,, D,,, F,,D,, | G,,G,,, =C,,=C, ^D,,B,,, E,,G,, | ^A,,,4 B,,,2- B,,,B,,, | %13
+ C,,3 C,, D,,2- D,,^D,, | E,,3 E,,, A,,,2 =D,,2 | B,,,2 A,,,2 ^G,,,2 A,,,2 | %16
+ ^A,,,2 B,,,C,, D,,A,,, B,,,=F,,, | ^F,,,6- F,,,2 |] %18
+V:2
+ x12 F4 | B4 A4 G4 F4- | FFGA E2>F2 F4 c4 | d4 d4 x cde ^A2>B2 | B12 F4 | B4 x =cBA G4 x GFE | %6
+ D^CDE E2>F2 F4 x ^cde | d4 x def gcde d2>c2 | B12 d4 | c2>B2 A4 B4 c4 | d8 d4 A4 | B4 A4 A4 G4 | %12
+ F12 d4 | c4 e4 d4 c4 | x Bcd B2>c2 c4 F4 | G4 F4 E4 x AGA | F12- F4- | F12- F4 |] %18
+V:3
+ x6 ^A,2 | B,2 ^C D2 C [DA,]D,- | D,D, ^C,B,, [^A,C,]2 [^FA,]2 | [^FB,]2 BA G2 [F^C][E^F,]- | %4
+ [E^F,][EG,] [DF,][^CE,] [DF,]2 [DB,]2 | [DB,]2 z [^FB,] [EB,]2 z [^C^F,] | %6
+ [B,^F,]2 E,7/2 D,/ ^C,[^A,F,] | [B,^F,]2 z [^FB,] E2 F[E^A,] | [DB,][E^C] [^FD][GE] F2 [BB,]2 | %9
+ [^G^C][=FC] [^FC]2 [DB,]>A, [=GG,]F/E/ | ^F[A,^F,] [B,G,][A,F,]/[G,E,]/ [A,F,]2 D2 | %11
+ [GD]2 E/^F/^D/E/ F2- B,2 | ^C^C, ^F,3 F, B,2- | B,B, A,4 [A^F]2 | z A2 ^G [AA,]2 A,2 | %15
+ G,2 A,2 B,2 [=CE,]2- | [CE,]/E,/^F,/E,/ D,E, B,^C D>[DB,] | [^A,^C]6- z2 | [^A,^C]2 x6 |] %19
+V:4
+ x12 ^F,4- | ^F,2 E,4 F,2 G,4 z3 ^C | B,8 z8 | z4 ^F4 E2D2 z4 | z16 | z16 | %6
+ z4 z D^CB, ^A,^F,B,2- B,B, z2 | z8 B,4- B,2 z2 | z8 D2^C2 z3 A | z7 E z6 A,2- | A,2 z8 z3 ^FEF | %11
+ z3 ^F =C4 B,4 F2E2- | E4- E DE^C D4 z2 ^F2 | E4- E E^FG F2^G2 z4 | z2 ^C2 B,4 z4 z DCD | %15
+ z D^CD z DCD z DED z4 | ^C4- C B,2^A, z ^F,2F,- F,F,^G,2 | z16 | z4 x12 |] %19
+V:5
+ x6 F,,2 | G,,3 F,, E,,2 D,,2 | G,,4 F,,2 F,E, | D,C, B,,C,/D,/ E,2 F,F,, | B,,4- B,, B,, B,A, | %5
+ G,A,/B,/ ^D,2 E,F,/G,/ ^A,,2 | B,,=A,, G,,2 F,,2- F,,F, | B,,C,/D,/ D,,D, E,F,/G,/ F,F,, | %8
+ B,,6 x B, | =F,C, ^F,^F,, x G,E,A, | D,4- D, D,, F,D, | G,G,, =C,=C ^D,B,, E,G, | %12
+ ^A,,4 B,,2- B,,B,, | C,3 C, D,2- D,^D, | E,3 E,, A,,2 =D,2 | B,,2 A,,2 ^G,,2 A,,2 | %16
+ ^A,,2 B,,C, D,A,, B,,=F,, | ^F,,6- F,,2 |] %18

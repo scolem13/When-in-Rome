@@ -1,0 +1,45 @@
+% La Bayadère - Variation des Ombres: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=895
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:La Bayadère - Variation des Ombres
+C:Ludwig MINKUS
+%%score 1 2 3 4
+L:1/4
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="flute" snm="Fl"
+L:1/16
+V:2 treble nm="triangle" snm="Tri"
+V:3 treble nm="uppera"
+L:1/8
+V:4 bass nm="lowera"
+V:1
+ z8 | z6 [fg][^f=f] | z2 ^f z a z g z | f z ^d z e z [ef][ed] | z2 e z g z f z | %5
+ e z c z d z [de][dc] | z2 e z d z B z | A z b z a z [Bc][BA] | z2 a z g z [GA][GF] | %9
+ z2 g z f z [fg][^f=f] | z2 ^f z a z g z | f z ^d z e z [ef][ed] | z2 e z g z f z | %13
+ e z c z d z [de][dc] | z2 e z d z B z | A z b z a z [Bc][BA] | z2 f z e z A z | %17
+ d2 z2 d' z [d'e'][d'c'] | z2 f' z e' z [bc'][ba] | z2 d' z c' z a z | edef ^gabc' | %21
+ d'2 z4 [d'e'][d'b] | z2 f' z e' z [bc'][b^g] | z2 c' z b z ^g z | e^def ^gab=c' | ^c'2 z6 | %26
+ c' z f' z e' z [bc'][ba] | z2 d' z c' z a z | ef^ga bc'd'e' | f'2 z6 | f z c' z b z f z | %31
+ e z b z a z A z | ^G z f z e z G z | A2 z2 a z [f=g]f | d2 z2 d'2 z2 |] %35
+V:2
+ z2 | z2 | z2 | z/ =C/ C | z2 | z/ =C/ C | z2 | z =C | z =C | z =C | z2 | z/ =C/ C | z2 | %13
+ z/ =C/ C | z2 | z =C | z =C | z =C | z2 | z2 | =C C | =C C | z2 | z2 | =C C | =C C | =C C | =C C | %28
+ =C C | =C C | =C C | =C C | =C C | =C C | z =C |] %35
+V:3
+ z [A,DF] z [A,DF] | z [A,DF] z [A,DF] | z [A,DF] z [A,DF] | z [A,CG] z [A,CG] | %4
+ z [A,EG] z [A,EG] | z [A,DF] z [A,DF] | z [A,DA] z [B,D^G] | z [A,C=G] z [A,CG] | %8
+ z [A,CG] z [A,CG] | z [A,DF] z [A,DF] | z [A,DF] z [A,DF] | z [A,CG] z [A,CG] | %12
+ z [F,CE] z [F,^A,E] | z [F,B,D] z [F,B,D] | z [G,B,DE] z [^G,B,D=F] | z [A,D^F] z [A,DF] | %16
+ z [A,CE] z [A,CE] | z2 [DFAd] z | z [A,CEA] z [A,CEA] | z [A,CEA] z [A,CEA] | %20
+ z [A,CEA] z [A,CEA] | z [DF] z2 | z [B,D^G] z [B,DG] | z [B,D^G] z [DEB] | z [DEB] z [DE^G] | %25
+ z [A,CEA] z [A,CEA] | z [A,CEA] z [A,CEA] | z [A,CEA] z [A,CEA] | z [A,CEA] z [A,CEA] | %29
+ z [DF] z [DF] | z [FB] z [FB] | z [CEA] z [CEA] | z [DEB] z [DE^G] | z2 [Acea] z | z2 [dfad'] z |] %35
+V:4
+ D, A,, | D, A,, | D, A,, | E, A,, | C, A,, | D, A,, | F, =F, | E, A,, | E, A,, | D, D, | D, A,, | %11
+ E, A,, | ^A,, F,, | B,, =A,, | G,, ^G,, | A,, A,, | A,, A,, | D, z | A,, E,, | A,, E,, | A,, E,, | %21
+ B,, E,, | B,, E,, | B,, E,, | ^G,, E,, | A,, E,, | A,, E,, | A,, E,, | A,, E,, | D, D, | D, D, | %31
+ E, E, | E, E, | A,, z | D, z |] %35

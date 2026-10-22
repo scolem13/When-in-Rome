@@ -1,0 +1,33 @@
+X:1
+T:Ich dank' dir, lieber Herre
+T:Ich dank' dir, lieber Herre
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ B | B B x2 |: B c x2 | _A G !fermata!F c | d c B =A/G/ | A G !fermata!F B | B x3 :: B B c x | %8
+ _A G !fermata!F c | d c B =A/G/ | A G !fermata!F f | e d c B | B/c/ d !fermata!c d | e d c =B | %14
+ !fermata!c3 F | B c d e | f e/d/ !fermata!c e | d c f B/c/ | d c !fermata!B x || %19
+V:2
+ F | G _A x2 |: G G x2 | G/ F =E/ !fermata!F F | F =E F C- | C/ F =E/ !fermata!C F | G x3 :: %7
+ F G G x | G/ F =E/ !fermata!F F | F =E F C- | C/ F =E/ !fermata!C B/A/ | G F/G/ A B/_A/ | %12
+ G F !fermata!F F | E _A/G/ G/F/ G | !fermata!G3 C | F G/A/ B A/G/ | F G !fermata!A B | %17
+ _A G F F/G/ | F/E/ E/D/ !fermata!D x || %19
+V:3
+ d | d/e/ f x2 |: e/d/ c x2 | c B !fermata!=A c | B/A/ G F c | c B !fermata!A B | B/c/ x3 :: %7
+ d e/d/ c x | c B !fermata!=A c | B/A/ G F c | c B !fermata!A d/c/ | B/c/ d/e/ f f | %12
+ B2 !fermata!=A =B | c3/2 =B/ c d | !fermata!e3 =A | B E F/f/ e- | e/d/ c/B/ !fermata!f B | %17
+ B B/c/ =A B | B A !fermata!F x || %19
+V:4
+ B,/A,/ | G, D, x2 |: E, =E, x2 | F, C, !fermata!F,, A,, | B,, C, D, =E, | F, C, !fermata!F,, D, | %6
+ E, x3 :: B,, E, =E, x | F, C, !fermata!F,, A,, | B,, C, D, =E, | F, C, !fermata!F,, D, | %11
+ G,/A,/ B, E, D, | E, B,, !fermata!F, D, | C, F,/G,/ _A, G, | !fermata!C,3 E, | D, C, B,, C, | %16
+ D, E, !fermata!F, G, | F, E,2 D,/E,/ | F, F,, !fermata!B,, x || %19

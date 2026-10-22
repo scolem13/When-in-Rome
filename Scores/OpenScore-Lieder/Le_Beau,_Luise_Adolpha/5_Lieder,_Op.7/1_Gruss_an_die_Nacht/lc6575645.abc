@@ -1,0 +1,54 @@
+X:1
+T:5 Lieder, Op.7
+T:Gruss an die Nacht
+C:Luise Adolpha Le Beau
+Z:Julius Sturm
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=118
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+L:1/4
+V:1
+"^Mässig bewegt" z4 z2 z!mf! D | B2 A2 G3 D | d2 c2 B2 z d |!<(! g2 d2 f2 e2 | %4
+w: Wie|hast du mich so|müd’ ge- macht, o|Tag mit dei- ner|
+ d2 ^c c!<)! d2 z!mf! d | e3!>(! e d2 G2 | c2 d2 B2!>)! z B | B2 AG!<(! d2 D D!<)! | %8
+w: leuch- ten- den Pracht, mit|dei- ner Far- ben|bun- tem Schein, mit|dei- nen * rau- schen- den|
+!>(! B2 A2!>)! G2 z2 | z8 | z4 z2 z!mf! G | G2 G G c2 c2 | d2 G2 e3!<(! e | %13
+w: Me- lo- dei’n!||Will-|kom- men, o Nacht, nun|de- cke du, Die|
+ e2!<)! e f!>(! e2 c_A!>)! | GB _df e2 z!p! e | =d2 B A G2 D D | d2!>(! A B G2 z G | G2 G2 G2 G G | %18
+w: Er- de mit dei- nem *|Schlei- * er * zu, Lass|schwin- den die Far- ben, die|Tö- ne ver- weh’n, Lass|al- les Le- ben um|
+ G2 G2!>)! G2 z G |!<(! G2 ^F G =B2 A G!<)! ||[K:G]!<(! (e2 d) ^c d2 z!f! d!<)! | g2 ^c e d2 BA | %22
+w: mich ver- geh’n, und|las- se mich träu- men, al-|lein * mit dir, am|leuch- ten den Him- mel, *|
+ G2 A D B2!<(! z G | G2 F G B2 G G | (_B2 A) G!<)! d2 z d | e2 f g!<(! g4- | g6 B2!<)! | d4 A2 B2 | %28
+w: hoch ü- ber mir! und|las- se mich träu- men, al-|lein * mit dir, am|leuch- ten den Him-|* mel|hoch ü- ber|
+ G4 z4 | z8 | z8 | !fermata!z8 |] %32
+w: mir!||||
+V:2
+!mf! [B,G]D^CD [B,G]DCD | [GB]D[^FA]D GD^CD | [Gd]D[^F=c]D [GB]D^CD |!<(! z D[Gd]D z G[=ce]G | %4
+ z GBG ^FG!<)!FD |!>(! z D^FD- DGBG- | [Gc]D[^Fd]D [GB]D!>)!GD | z G^CG!<(! BD[B,G]D!<)! | %8
+!>(! =CD^FD!>)! z2 z D | B2 G2 d2 ^CD |!>(! B2 A2 G2!>)!!mf! z2 | =B,DGD G,CGC | %12
+ FG,[=B,F]G, z G,[CE]!<(!G, | %13
+ z!<)! [G,_B,]E[G,B,] z!>(![I:staff +1] [E,_A,][I:staff -1]E[I:staff +1][E,A,] | %14
+[I:staff -1] z!>)! [G,B,]E[G,B,] z!p! E_AE | z D^FD z D[Gd]D | z!>(! D^FD z DGD | %17
+ z [D=FG]d[DFG] z [=E-G][Ec][EG] | z [=EG]_B!>)![EG] z GBG |!<(! z G[B^c]G z G[=Bd]G!<)! || %20
+[K:G]!<(! z D[FA]D z D!<)!!f![Gd]D | z E[G^c]E z D[Gd]D | [B,G]D[=CF]D B,D[GB]!<(!D | %23
+ z E^AE z GBG | z GeG z!<)! [Dd]Gd | z D[G^A]E!<(! [GB]D[B,G]D | [G,G]C[^A,G]^C [B,G]DGD!<)! | %27
+ =CDFD CDFD |!<(! [B,G]DBD [Gd]D[^Ae]G | z!<)! D[GB]D [=C=A]D[CFB]D |!>(! [B,G]D^CD BDCD!>)! | %31
+ !fermata![B,G]8 |] %32
+V:3
+ G,, D, G, B, | G, =C B,2 | B, A, G,2 | B,2 C2 | E2 D2 | C D, B, D, | A, D, G,2 | E,2 D,2 | %8
+ ^F, D, G,2 | E,2 D,2 | ^F, D, G,2 | =F,2 E,2 | D,2 C,2 | _D,2 C,2 | _D,2 C,2 | D, C, B,, D, | %16
+ C D, B,2 | B,2 C2 | ^C2 D2 | E2 D2 ||[K:G] C2 B,2 | ^A,2 B,2 | D,2 G,3/2 B,/ | ^C2 D2 | %24
+ ^C2 D/=B,/G,/D,/ | C, ^C, D, =F, | E, _E, D,2 | D,2 ^F, D, | G,2 B, ^C | D D, F, D, | G,2 D,2 | %31
+ !fermata![G,,D,]4 |] %32
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 B,DGD | B!<(!^CGC B,DCD!<)! | =CDCD B,DB,D | x8 | x8 | %13
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 ||[K:G] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %31
+ x8 |] %32

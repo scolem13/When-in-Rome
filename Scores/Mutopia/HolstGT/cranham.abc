@@ -1,0 +1,29 @@
+% Cranham (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1233
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Cranham (hymntune)
+C:Gustav Theodore Holst (1874-1934), 1906
+%%score 1 ( 2 3 )
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:F
+V:1 bass nm="lower"
+V:2 treble nm="upper"
+V:3 treble 
+V:1
+ x3 [F,C] | [F,C]3/2 [G,C]/ [A,C] F, | [D,A,]2 [D,A,]- [D,A,] | %3
+ [B,,G,]3/2 [C,D,]/ [B,,D,] [A,,F,] | [G,,F,]2 [C,E,] x | F,3/2 [G,C]/ [A,C] F, | %6
+ [D,A,]2 [D,A,]- [D,A,] | [B,,D] [B,,D] [C,B,]- [C,B,]/[F,A,]/ | [F,A,]3 x | %9
+ [D,B,]3/2 [F,C]/ [D,B,] [C,A,] | [B,,B,] [B,,B,] [D,A,]- [D,A,] | [A,,F,] [A,,C] [B,,B,] [B,,A,] | %12
+ [C,G,]3 F, | F,3/2 [G,C]/ [A,C] F, | [D,A,]2 [D,A,]- [D,A,] | [B,,D]2 [C,B,]- [C,B,]/[F,A,]/ | %16
+ [F,A,]3 x |] %17
+V:2
+ x3 [FA] | [FA]3/2 [FB]/ [Fc] [CA] | [DG]2 [DF]- [DF] | [DG]3/2 [DA]/ [DG] [CD] | [B,G]3 z | %5
+ [CA]3/2 [FB]/ [Fc] [CA] | [DG]2 [DF]- [DF] | [FG] [FA] [EG]- [EG]/F/ | F3 z | %9
+ [FB]3/2 [FA]/ [FB] [_Ec] | [Dd] [Dd] [FA]- [FA] | [Fc] [EA] [DG] [DF] | [CE]3 [CA] | %13
+ [CA]3/2 [FB]/ [Fc] [CA] | [DG]2 [DF]- [DF] | F2 [EG]- [EG]/F/ | F3 x |] %17
+V:3
+ x x3 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | G A z2 | z3 x |] %17

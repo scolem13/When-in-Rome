@@ -1,0 +1,37 @@
+% Komm Gott Schöpfer, Heiliger Geist: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1164
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Komm Gott Schöpfer, Heiliger Geist
+C:Johann Sebastian Bach
+%%score 1 ( 2 3 ) 4
+L:1/8
+Q:1/4=60
+M:12/8
+I:linebreak $
+K:C
+V:1 bass nm="Pipe Organ" snm="P Org"
+V:2 treble nm="right" snm="P Org"
+L:1/16
+V:3 treble 
+V:4 bass nm="left" snm="P Org"
+L:1/16
+V:1
+ x8 x3 G,, | x2 F,, x2 E,, x2 D,, x2 E,, | x2 F,, x2 G,, C,,3 x2 C,, | %3
+ x2 E,, x2 D,, x2 C,, x2 B,,, | x2 C,, x2 C,,, G,,,3 x2 G,,, | x2 C,, x2 E,, x2 F,, x2 G,, | %6
+ x2 G,,, x2 E,,, D,,,3 x2 E,,, | x2 A,,, x2 ^C,, x2 D,, x2 A,,, | %8
+ x2 =C,, x2 E,, G,,3[Q:1/4=50][Q:1/4=12] x3 |] %9
+V:2
+ x16 x4 DCD2 | E2C2F2 D2B,2E2 C2DCD2 B,2ED[Ed]2- | [Ed]2FGAG F2D2 G4 E4 c4 G2 | %3
+ D2B,2E2 C2FEF2 G2AGFE D2GF[Gc]2- | [Gc]2E2G2 cBAGA2<^F2 GFGA BAGFG2- | %5
+ G2[G=c]2c2 G2E2 [G=F]4 FEF2- G6- | G2G2 G4 G^F G4 =FEF2- F2EDE2- | E2C2 =F4 ED E4 D^CDE FGFED=C | %8
+[Q:1/4=50][Q:1/4=12] B,DG,2CD E[DD]2<E2[FE] D6 x6 |] %9
+V:3
+ x8 x3 G- | G A2 G2 F2 G2 c2 z | z c2 c2 z2 AB z G/F/d- | d e2 e2 d2 d2 e2 z | %4
+ z A2 G3/2 z/ B2 ^c2 d2 z | z3 A2 z2 A2 FE/D/E | D z/ ^F/ z8 z2 | z12 | z8 z x3 |] %9
+V:4
+ x16 x4 B,A,B,2 | C2A,2D2 B,2G,2C2 A,2B,A,B,2 G,2CB,C2 | A,G,A,B, C4 B,A,B,2 C2G,F,G,2 C,2EDE2 | %3
+ B,2G,2C2 F,2DCD2 E2E,2A,2 F,2D,2G,2 | C,E,G,F,E,D, E,2C,2 C4 B,A,B,2 G,2B,A,B,G, | %5
+ C,2CB,C2 E,2CB,C2 F,2A,2D2 B,2G,2C2 | G,A,B,CDB, EG,A,_B,A,G, A,2D,2D2 =B,2G,2C2 | %7
+ C,E,F,G,A,_B, CDCB,2<A,2 D,F,A,B,2 A,^C,D,E,F,2- | %8
+ F,2E,D,E,F, G,2=C,2 C4[Q:1/4=50] =B,A,[Q:1/4=12]B,2 x6 |] %9

@@ -1,0 +1,62 @@
+X:1
+T:Lyric Pieces
+T:Badnlat
+C:Edvard Grieg
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="Midi_1"
+L:1/8
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Allegretto tranquillamente"!p! (B"_cantando"cde d2 Bd | c2 c2 B4) | (Bcde d2{cd} cB | c4 B4) |$ %4
+ (ed{cd}cB G2) G2 | (cB{AB}AG"^cresc." E3) (F | G^ABd f2{ef} ed) |1!f! B4 B4 :|2 %8
+!f! B4!>(! B4!>)! ||$!pp! ([!courtesy!=Ac][GB][FA][GB]) [Ac]2 [Ac]2 | f2 f2 f4 | %11
+ ([Ac][GB][FA][GB]) [Ac]2 [Ac]2 | f8 | ([=df][ce][Bd][ce]) [df]2 [df]2 |$ b2 b2 b4 | %15
+ ([=df][ce][Bd][ce]) [df]2 [df]2 | b8 |!pp! (e"_sempre"fef) !courtesy!^d2 d2 | (dede) c4 |$ %19
+ (cdcd) B2 B2 | (BcBc) A4 | (AB"_cresc. molto"AB) G2 G2 |!>(! (G4 c4)!>)! |$!p! (g4 c'4-) | %24
+ [Aegc']4 z4 |!ppp! (=d4 =g4) | (=d'4 =g'4-) | g'4 z4 | %28
+"^a tempo"!p! !courtesy!=B!courtesy!^c!courtesy!^de d2"^cresc." Bd |$ c2 c2 B4 | %30
+"_molto"!<(! !tenuto!B!tenuto!c!tenuto!d!tenuto!e!<)! f2{ef} ed | %31
+"^poco rit.""_molto"!>(! B4 B4!>)! |"^a tempo""_la melodia ben ten."!p! ([G,E]2 [B,G]2 [A,F]4- |$ %33
+ [A,F]4 [DB]2 [B,G]2) | ([A,F]4 [DB]2 [B,G]2) | %35
+!<(! ([A,F]2 [DB][B,G])!<)!!>(! ([A,F]2 [DB][B,G])!>)! | [G,E]8 | [G,E]4 [G,E]4 |$ %38
+ ([=df][ce][Bd][ce]) [df]2 [df]2 | b2 b2 b4 | z4!pp!!8va(! b'2 b'2 | b'4!8va)! z4 | %42
+[K:bass]!ppp! [G,E]4 [G,E]4 | !fermata!E8 |] %44
+V:2
+ G A G E | F D E F | G A G E | F D E F |$ E F D2 | C D E2 | E G E F |1 %7
+ E!>(! D F !courtesy!=A!>)! :|2 E F D2 ||$ x4 | ([Bd]/[Fc]/[DB]/[Fc]/) [Bd]2 | x2 F2 | %12
+ ((!arpeggio![DAc]2 [Bd]2)) | x4 |$ ([eg]/[Bf]/[Ge]/[Bf]/) [eg]2 | x2 B2 | %16
+ ((!arpeggio![G=df]2 [eg]2)) | [Ac] [Gc] [Fc] [Fc] | [GB] [FB] [EB]2 |$ [FA] [EA] [DA] [DA] | %20
+ [EG] [DG] [CG]2 | [DF] [CF] [^B,F] [=B,^E] | !arpeggio![^A,!courtesy!=EG]4 |$ !arpeggio![^Aeg]4- | %24
+ x4 | !arpeggio![E_B=d]4 | !arpeggio![e_b=d']4- | [ebd']2 x2 | E A G E |$ F D C D | E G A F | %31
+ E B, ^A, =A, | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | ([eg]/[Bf]/[Ge]/[Bf]/) [eg]2 | %40
+ z2!8va(! ([e'g']/[bf']/[ge']/[bf']/) | [e'g']2!8va)! x2 |[K:bass] x4 | G,4 |] %44
+V:3
+"" B,"" C"" B, G, |"m" A,"m" F,"" G, A, | B,"" C"" B,"" G, |"m" A,"m" F,"" G, A, |$ %4
+"m" G,"" ^A,"m" C"m" B, |"" E,"m" F,"m" G,"m" ^A, |"m" B,"m" D/B,/""!ped! G,"" ^A,!ped-up! |1 %7
+"" G,"" F,"" !courtesy!=A,"" C :|2"" G,"" ^A,"" F,2 ||$"m" z (F!ped! C F,)!ped-up! | %10
+"" z!ped! (B, F, B,,)!ped-up! |"m" z (F,!ped! C, F,,)!ped-up! |""!ped! z (B,,"" F,, B,,,)!ped-up! | %13
+"m" z[K:treble] (B!ped! F B,)!ped-up! |$"" z!ped! (E B, E,)!ped-up! | %15
+"m" z (B,!ped! F, B,,)!ped-up! |""!ped! z (E,"" B,, E,,)!ped-up! | %17
+"" z[K:treble]"""m" (A2"m" !courtesy!^D) |"m" z"m""m" (G2"m" C) |$"m" z"m""" (F2"" B,) | %20
+"" z"""" (E2"" A,) |"m" z[K:bass]"m" [D,D]"" [G,,G,]"" [C,C] | %22
+"m"!ped! z"" ([F,,F,] [C,,C,] [F,,,F,,]) |$ z ([F,F] [C,C] [F,,F,]) | z4!ped-up! | %25
+"""_una corda"!ped! z ([=C,=C]"^poco rit." [=G,,=G,] [=C,,C,]) | %26
+ z[K:treble] ([=C=c] [=G,=G] [=C,C]) | z4!ped-up! | %28
+[K:bass]"" !courtesy!^G,"" !courtesy!^C"" B,"" G, |$"" A,"" F,"" E,"" F, |"" G,"" B,"m" C"" A, | %31
+"" G,"""" (!>!E,2"" D,) |"" B,,/C,/D,/E,/"m" D,"" B,,/D,/ |$"m" C, (C,"" B,,2) | %34
+"m" C, (C,"" B,,2) |"m" (C,"" B,,)"m" (C,"" B,,) |"" (C,"" B,, C, B,,) | (C, B,, C, B,,) |$ %38
+"m""^dim   e  rit." z[K:treble]!ped! (B F B,)!ped-up! |"" z[K:bass]"_Ped. al fine" (E B, E,) | %40
+ z2 z[K:treble] (e | B E) z2 |[K:bass] [E,,B,,]2 [E,,B,,]2 | !fermata!B,,4 |] %44
+V:4
+ E,4- | E,4 | E,4- | E,4 |$ C,2 G,2 | A,,2 C,2- | C,2 !arpeggio!F,,2 |1 B,,4 :|2 B,,2 B,,2 ||$ x4 | %10
+ x4 | x4 | x4 | x[K:treble] x3 |$ x4 | x4 | x4 | x[K:treble] x3 | x4 |$ x4 | x4 | x[K:bass] x3 | %22
+ x4 |$ x4 | x4 | x4 | x[K:treble] x3 | x4 |[K:bass] B,,4 |$ B,,4 | B,,4- | B,, G,, F,,2 | E,,4- |$ %33
+ E,,4 | E,,4 | E,,2 E,,2 | E,,4- | E,,4 |$ x[K:treble] x3 | x[K:bass] x3 | x3[K:treble] x | x4 | %42
+[K:bass] x4 | E,,4 |] %44

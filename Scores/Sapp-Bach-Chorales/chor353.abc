@@ -1,0 +1,32 @@
+X:1
+T:Der Herr ist mein getreuer Hirt
+T:Der Herr ist mein getreuer Hirt
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+L:1/8
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ G/A/ | B c d c | B A !fermata!B B | B A/B/ c/B/ A | G/>A/ A !fermata!G x :: G x3 | A B c B | %7
+ A ^G !fermata!A A | B c d c | B A !fermata!B B | B A/B/ c/B/ A | G/>A/ A !fermata!G x || %12
+V:2
+ DF | G2 G2 F2 EF | G2 F2 !fermata!G2 G2 | G2 FG AG F2 | G2 GF !fermata!D2 x2 :: D2 x6 | %6
+ D2 D2 E2 E2 | EC =FE !fermata!E2 ^F2 | =G2 G=F E2 E^F | =G2 G F/E/ !fermata!^D2 E2 | %10
+ =DE FG AG- GF | ED ED !fermata!D2 x2 || %12
+V:3
+ B/c/ | d e A A | d d !fermata!d e | d d e/d/ d/c/ | B e/ d/4c/4 !fermata!B x :: B x3 | A G G ^G | %7
+ A B !fermata!c A | d c B c/d/ | e E !fermata!F G/A/ | B/c/ d/G/ F/ G/4F/4 E/F/ | %11
+ G3/2 F/ !fermata!B x || %12
+V:4
+ G,,2 | G,F, E,2 D,2 A,,2 | B,,C, D,2 !fermata!G,,2 E,2 | B,,C, D,2 A,,B,, C,D, | %4
+ E,D, C,D, !fermata!G,,2 x2 :: G,2 x6 | F,2 =F,2 E,2 D,2 | C,=F, D,E, !fermata!A,,2 D,C, | %8
+ B,,2 A,,2 ^G,,2 A,,2 | E,D, C,2 !fermata!B,,2 E,F, | G,2 F,E, ^D,E, ^C,D, | %11
+ E,B,, =C,=D, !fermata!G,,2 x2 || %12

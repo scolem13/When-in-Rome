@@ -1,0 +1,50 @@
+X:1
+T:Variations on a Theme of Corelli
+T:Variation 13
+C:Sergei Rachmaninoff
+%%score { 1 | ( 2 3 ) }
+L:1/16
+Q:1/4=126
+M:9/8
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+L:1/8
+V:1
+"^Agitato"!p! !>![F,A,DE]2z(G[A,DF]2) !>![F,CDE]2z(G[CDF]2) !>![F,=B,DE]2z(G[B,DF]2) | %1
+ [F,_B,DE]2z(G[B,DF]2) [F,=B,D]2z(F[B,DE]2) z3 (F[A,^CE]2) |$ %2
+!mf! !>![F,A,DE]2z(G[A,DF]2) !>![F,^G,^CE]2z(=G[G,CF]2) !>![^F,A,=CE]2z(G[A,CF]2) | %3
+ z3 (A[CEG]2) [G,=B,DE]2z(A[B,DG]2) [G,_B,DE]2z(A[B,DG]2) |$ %4
+!f! [CEG]2z(c[EGA]2) [CDF]2z(c[DFA]2) z3 (G[_A,DF]2) | %5
+ [=A,CDF]2z(A[CDFG]2) [_A,CE]2z(_A[CEG]2) z3 (G[=B,^D^F]2) |$ %6
+[M:6/8] [G,_B,=D]2z(=G[B,DF]2) z3 (F[A,^CE]2) | %7
+[M:9/8][K:bass]!p! [F,A,=C]2z(F"_dim."[A,CE]2) z3 (E[F,=B,_E]2) z3 (E[G,_B,F]2) |$ %8
+!mf! !>![F,A,D=E]2z(G[A,DF]2) !>![F,CDE]2z(G[CDF]2) !>![F,=B,DE]2z(G[B,DF]2) | %9
+ [F,_B,DE]2z(=G[B,DF]2) [F,=B,D]2z(F[B,DE]2) z3 (F[A,^CE]2) |$ %10
+ [=CEG]2z(c[EGA]2) [CDF]2z(c[DFA]2) z3 (G[_A,DF]2) | %11
+ [=A,CDF]2z(=A[CDFG]2) [_A,CE]2z(_A[CEG]2)!f! z3 (e[E=Ac]2) |$ %12
+ [C_EA]2z(d[EG_B]2) z3 ([B,D^F]A2) [B,_D=F]2z(c[DFA]2) |[M:6/8] z3 ([A,CE]G2) z3 ([G,=B,^D]^F2) |$ %14
+[M:9/8] z3 ([_G,_B,=D]F2)[K:bass] !>![F,A,^C]2z(E[^F,A,D]2) z3 (D[=F,_A,_D]2) | %15
+[M:6/8] z3 (=D[F,=A,=C]2) z3 (D!p![E,G,^C]2) | z4[K:treble] !fermata![dfad']4 x4 || %17
+V:2
+"m" !>![D,,A,,]2z(A,,,"m"[D,,,D,,]2)"m" !>![D,,A,,]2z(A,,,"m"[D,,,D,,]2)"" !>![D,,G,,]2z(G,,,"m"[D,,,D,,]2) | %1
+"CFr2" [D,,^G,,]2z(^G,,,[D,,,D,,]2)"" A,,2z(A,,,D,,2)"""^dim." A,,2z(E,,"C}"A,,,2) |$ %2
+"m" !>![D,,A,,]2z(A,,,"m"[D,,,D,,]2)"m" !>![D,,^G,,]2z(^G,,,"m"[D,,,D,,]2)"m" !>![D,,=G,,]2z(D,,"m"=G,,,2) | %3
+"" [C,,G,,]2"^cresc."z(G,,,[C,,,C,,]2)"" F,2z(G,,C,,2)"" E,2z(G,,C,,2) |$ %4
+"" [C,A,]2z(C,,""[F,,,F,,]2)"" z3 (A,C,2)"" C,2z(C,,"m"F,,2) | %5
+"" G,,2z(G,,,""C,,2)"" z3 (E,_A,,2)"m""^dim." =B,,2z(E,,G,2) |$ %6
+[M:6/8]"" A,,2z(D,,A,,,2)"m" A,,2z(D,,F,2) | %7
+[M:9/8]"m" D,,2z"m"(G,,,G,,2) D,,2z"m"(_A,,,_A,,2)"" =A,,2z(B,,,=A,,,2) |$ %8
+"m" !>![D,,A,,]2z(A,,,"m"[D,,,D,,]2)"m" !>![D,,A,,]2z(A,,,"m"[D,,,D,,]2)"" !>![D,,G,,]2z(G,,,"m"[D,,,D,,]2) | %9
+"CFr2" [D,,^G,,]2z(^G,,,[D,,,D,,]2)"" A,,2z(A,,,D,,2)"" A,,2z(E,,"C}"A,,,2) |$ %10
+"""^cresc." [C,A,]2z(C,,""[F,,,F,,]2)"" z3 (A,C,2)"" C,2z(F,,"m"C,,2) | %11
+"" G,,2z(G,,,""C,,2)"" z3 (E,"C}"_A,,2)"m" !>![E,=A,C]2z(E,,A,,,2) |$ %12
+"m" !>![C,G,]2z(G,,"m"C,,2)"m" !>!D,2z(D,,G,,2)"" !>!G,,2z(C,,""F,2) | %13
+[M:6/8]"""^dim." !>!C,2z(C,,F,,2)"m" !>!=B,,,2z(=B,,E,,2) |$ %14
+[M:9/8]"m" !>!_B,,2z(_B,,,_E,,2)""!mf! !>!A,,,2z(A,,""D,,2)"""^dim." !>!_A,,2z(_A,,,_D,,2) | %15
+[M:6/8]"m" !>!G,,2z(=A,,,G,,,2)"" !>!A,,2z(B,,,A,,,2) |"m""C}"!ff! [D,,,D,,]8 x4 || %17
+V:3
+ x9 | x9 |$ x9 | x9 |$ x9 | x9 |$[M:6/8] x6 |[M:9/8] x9 |$ x9 | x9 |$ x9 | x9 |$ x9 |[M:6/8] x6 |$ %14
+[M:9/8] x9 |[M:6/8] x6 | z2 !fermata![F,A,DF]2 x2 || %17

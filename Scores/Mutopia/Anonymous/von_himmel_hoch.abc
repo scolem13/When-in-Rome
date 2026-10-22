@@ -1,0 +1,30 @@
+% Von Himmel Hoch (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1302
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Von Himmel Hoch (hymntune)
+C:Anonymous; Geistliche Lieder (Leipzig, Germany): 1539
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 bass nm="lower"
+V:2 bass 
+L:1/4
+V:3 treble nm="upper"
+V:4 treble 
+L:1/4
+V:1
+ x6 [C,E]2 | G,3 [^F,C] G,=F, E,2 | [F,A,][E,G,] [D,F,]2 [C,G,]2 C,D, | %3
+ [E,C]2 E,F, [G,B,]2 [G,_B,][F,A,] | E,D, C,=B,, [C,G,]2 [C,G,]2 | %5
+ [^C,G,]2 D,=C, [B,,G,][A,,C] G,,2 | [D,G,][C,B,] [C,E][D,D] [G,B,]2 G,^F, | %7
+ G,E, [C,G,][D,=F,] [B,,F,][C,E,] [F,A,][G,B,] | A,F, G,[G,,F,] [C,E,]2 x2 |] %9
+V:2
+ x x3 | D C/ z/ B, C/B,/ | z3 G, | z C z2 | G, G, z2 | z ^F, z B,/A,/ | z3 A, | z4 | C z2 x |] %9
+V:3
+ x6 [Gc]2 | G^F [EA]2 D2 ED | [CA]2 [DB]2 [Ec]2 E=F | GF [EG]2 [DG]2 C2 | [CG]2 [DF]2 [CE]2 CD | %5
+ [EA]2 [DA]2 [DG][^FA] [GB]2 | G2 G^F G2 ED | DE ED DC C2 | [CF][A,E] [B,D]2 C2 x2 |] %9
+V:4
+ x x3 | B z B/A/ G | z3 c | c z2 E/F/ | z3 E | z4 | c/B/ A z c | B A G A/G/ | z3 x |] %9

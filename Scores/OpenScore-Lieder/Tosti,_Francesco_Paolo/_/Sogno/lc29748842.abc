@@ -1,0 +1,81 @@
+X:1
+T:Sogno
+C:Francesco Paolo Tosti
+Z:Lorenzo Stecchetti (Olindo Guerrini)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/8=160
+M:6/8
+I:linebreak $
+K:Gb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:4 treble 
+V:3 bass 
+L:1/16
+V:5 bass 
+V:1
+ z6 | z6 |$ z6 | z6 |$ z2 z G2 =D | F E E A G A |$ B2 B z G =D | F E F G B A |$ A3- A!<(! B B | %9
+w: ||||Ho so-|gna- to che sta- vi a gi-|noc- chi Co- me un|san- to che pre- ga il Si-|gnor, _ Mi guar-|
+ B =A B!<)! _d =c d |$ e2 d z!>(! d d | d c B B A3/2 G/ |$ G2 z z!p! B B | B A G F G A |$ %14
+w: da- vi nel fon- do de-|gl’oc- chi, Sfa- vil-|la- va il tuo sguar- do d’a-|mor. Tu par-|la- vi e la vo- ce som-|
+ B2 B- B B B | B A G({GA} G) F G | A3- A z z ||$!p! d3 B2 G |!<(! F3 F2 d!<)! |$ e3 d2 B | %20
+w: mes- sa _ Mi chie-|de a dol- ce men- te mer-|cè, _|So- lo un|guar- do che|fos- se pro|
+ d3 c3- |$ c2 z z!pp!"^rit." G A | B3 D!ppp! z G | B3"^ten."({AB} A2) G |$[Q:1/4=80] G3- G z z | %25
+w: mes- sa|_ Im- plo-|ra- vi cur-|va- to al mio|piè _|
+ z6 |$ z6 | z6 |$ z2 z !>!G2 =D | F E E A G A |$ B2 B z G =D |!<(! F E F G B A!<)! |$ %32
+w: |||Io ta-|ce- va, e col- l’a- ni- ma|for- te Il de-|sio ten- ta- to- re lot-|
+ A3- A!<(! B B |[Q:1/4=80] B =A B _d =c d |$ e2 d z d d | d c B B A3/2 G/ |$ G2 z z!p! B B | %37
+w: tò _ Ho pro-|va- to il mar- ti- rio e la|mor- te, Pur mi|vin- si e ti dis- si di|no. Ma il tuo|
+ B A G F G A |$ B2 B- B!pp! B"^e rit." B |[Q:1/4=80] B A G G F G |$ A3- A z z!pp! || %41
+w: lab- bro sfio- rò la mia|fac- cia _ E la|for- za del cor mi tra-|dì _|
+[Q:1/4=70]"^Lentamente" d3 B2 G |$!<(! F3 F2 d!<)! | e3 d2 B |$ d3 c3- | c z z!pp!"^rit." G2 A | %46
+w: Chiu- si gli|oc- chi, ti|ste- si le|brac- cia,|_ Ma so-|
+ B3 D z!ppp! G/ G/ |$ B3"^ten."({AB} A2) G |[Q:1/4=70] G3- G z z | z6 |$ z6 |"_rit." z6 | z6 |] %53
+w: gna- vo e il bel|so- gno sva-|nì! _|||||
+V:2
+ z4 z2 (g4 d2 | d6) (e4 B2 |$ B4 A2- A2G2A2 | G12-) |$ G2 z2 z2 z[I:staff +1] (=D,G,=DB,G,) | %5
+[I:staff -1] z[I:staff +1] (E,A,[I:staff -1]ECA,) z[I:staff +1] (F,[I:staff -1]CFDC) |$ %6
+ z (G,B,GDB,) z[I:staff +1] (=D,G,=DB,G,) | %7
+[I:staff -1] z[I:staff +1] (E,A,[I:staff -1]ECA,) z (A,EAGE) |$ z (A,DAFD) z (B,FBAF) | %9
+ z (B,EBGE) z (DAd_cA) |$ z (DBdBG) z (_FB_fdB) | z (EAecA) z (C=FcFC) |$ z (B,DBGD) z (B,=DBAD) | %13
+ z (B,EBGE) z (B,FBFB,) |$ z (B,EBGE) z (B,EBGE) | z (A,EAGE) z (G,=CGEC) | %16
+ z (F,_CFDC)"_rit." z (DFdBA) ||$!p! z4 z2 (g4 d2 |!<(! [Fd]6-) [Fd]2 z2 z2!<)! |$ %19
+ z4 z2 (!>!g4 d2 | d6 c6-) |$ (c12 |"_rit."!pp! [Bg]6-) [Bg]2 z2!ppp! (B,2 | %23
+ D6"_col canto" C4 B,2 |$ B,2) z2 z2 (!>!g4 d2 | d6) (e4 B2 |$ B4 A2- A2G2A2 | G12-) |$ %28
+ G2 z2 z2 z[I:staff +1] (=D,G,=DB,G,) | %29
+[I:staff -1] z[I:staff +1] (E,A,[I:staff -1]ECA,) z[I:staff +1] (F,[I:staff -1]CFDC) |$ %30
+ z (G,B,GDB,) z[I:staff +1] (=D,G,=DB,G,) | %31
+!<(![I:staff -1] z[I:staff +1] (E,A,[I:staff -1]ECA,) z (A,EAGE)!<)! |$ %32
+ z (A,DAFD)"_cresc." z (B,"_col canto"FBAF) | z (B,EBGE) z (DAd_cA) |$ z (DBdBG) z (_FB_fdB) | %35
+ z (EAecA) z (C=FcFC) |$ z (B,DBGD)!p! z (B,=DBAD) | z (B,EBGE) z (B,FBFB,) |$ %38
+ z (B,EBGE)!pp!"_e rit." z (B,EBGE) | z (A,EAGE) z (G,=CGEC) |$ z (F,_CFDC)"_rit." z (DFdBA) || %41
+!pp! z4 z2 (g4 d2 |$!<(! [Fd]6-) [Fd]2 z2 z2!<)! | z4 z2 (!>!g4 d2 |$ d6 c6-) | (c12 | %46
+!pp!"_rit." [Bg]6-) [Bg]2 z2!ppp! (B,2 |$ D6"_col canto" C4 B,2 | B,2) z2 z2 (!>!g4 d2 | %49
+ d6) (e4 B2 |$ B4) (A2- A2G2A2 |"_rit." G12-) | G4 z2 z4 z2 |] %53
+V:3
+ (G,,D,G,B,G,D,) (G,,D,G,B,G,D,) | (A,,D,F,CF,D,) (B,,D,G,B,G,D,) |$ (C,E,A,CA,E,) (D,F,A,CF,D,) | %3
+ (G,,D,G,B,G,D,) (G,,D,G,B,G,D,) |$ (G,,D,G,B,G,D,) B,,6 | C,6 D,6 |$ G,,6 B,,6 | C,6 (=C,6 |$ %8
+ D,6) (!>!=D,6 | E,6) (F,6 |$ G,6) (!>!=G,6 | A,6) (D,6 |$ G,6) (F,6 | E,6) (=D,6 |$ E,6) (_D,6 | %15
+ =C,6) A,,6 | z4 z2 (_C6 ||$ (G,,)D,G,B,G,D,) (B,,D,G,B,G,D,) | (A,,D,F,CF,D,) (A,,D,F,CF,D,) |$ %19
+ (G,,D,G,B,G,D,) _F,6 | E,6 E,6 |$ __E,12 | (D,G,B,DB,G, D,2) z2 z2 | z4 z2 (D,,6 |$ %24
+ (G,,)D,G,B,G,D,) (G,,D,G,B,G,D,) | (A,,D,F,CF,D,) (B,,D,G,B,G,D,) |$ (C,E,A,CA,E,) (D,F,A,CF,D,) | %27
+ (G,,D,G,B,G,D,) (G,,D,G,B,G,D,) |$ (G,,D,G,B,G,D,) B,,6 | C,6 D,6 |$ G,,6 B,,6 | C,6 (=C,6 |$ %32
+ D,6) (!>!=D,6 | E,6) (F,6 |$ G,6) (!>!=G,6 | A,6) (D,6 |$ G,6) (F,6 | E,6) (=D,6 |$ E,6) (_D,6 | %39
+ =C,6) A,,6 |$ z4 z2 (_C6 || (G,,)D,G,B,G,D,) (B,,D,G,B,G,D,) |$ (A,,D,F,CF,D,) (A,,D,F,CF,D,) | %43
+ (G,,D,G,B,G,D,) F,6 |$ E,6 E,6 | (__E,12 | (D,)G,B,DB,G, D,2) z2 z2 |$ z4 z2!ppp! (D,,6 | %48
+ (G,,)D,G,B,G,D,) (G,,D,G,B,G,D,) | (A,,D,F,CF,D,) (B,,D,G,B,G,D,) |$ (C,E,A,CA,E,) (D,F,A,CF,D,) | %51
+ (G,,D,G,B,G,D,) (G,,D,G,B,G,D, | G,,4) z2 z4 z2 |] %53
+V:4
+ x6 | F3 (G3 |$ E3) D3- | D6- |$ D x5 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 | %16
+ x6 ||$ x6 | x6 |$ x6 | G6- |$ G6 | G3- G x2 | x6 |$ x6 | F3 (G3 |$ E3) D3- | D6- |$ D x5 | x6 |$ %30
+ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 || x6 |$ x6 | x6 |$ G6- | G6 | %46
+ G3- G x2 |$ x6 | x6 | F3 G3 |$ E3 (D3 | G6) | x6 |] %53
+V:5
+ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 | D,6 ||$ %17
+ x6 | x6 |$ x3 (_F,/G,/B,/D/B,/G,/) | (E,/G,/C/E/C/G,/) (E,/G,/C/E/C/G,/) |$ x6 | x6 | x6 |$ x6 | %25
+ x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ D,6 || x6 |$ %42
+ x6 | x3 (F,/G,/B,/D/B,/G,/) |$ (E,/G,/C/E/C/G,/) (E,/G,/C/E/C/G,/) | x6 | x6 |$ x6 | x6 | x6 |$ %50
+ x6 | x6 | x6 |] %53

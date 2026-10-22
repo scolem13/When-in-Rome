@@ -1,0 +1,31 @@
+X:1
+T:Aus meines Herzens Grunde
+T:Aus meines Herzens Grunde
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ G | G2 d | B3/2 A/ G | G3/2 A/ B | !fermata!A2 B | d2 c | B A2 | !fermata!G2 x :: B x2 | B c d | %10
+ d3/2 c/ B | !fermata!A2 G | B2 c | d2 c | B3 | !fermata!G2 B | d2 c | B2 A | G3/2 A/ B | %19
+ !fermata!A2 B | d2 c | B A2 | !fermata!G2 x || %23
+V:2
+ D | D E D | D2 B, | E/D/E/F/ G | !fermata!F2 G | D E F | G2 F | !fermata!D2 x :: G- x2 | %9
+ G/F/ E/F/ G- | G/A/ G/F/ G | !fermata!F2 E | E F/G/ A | A G3/2 F/ | G2 =F | !fermata!E2 G | %16
+ A3/2 G/ F | G2 F- | F/E/ E/F/ G | !fermata!F2 G | A2 G/F/ | G2 F | !fermata!D2 x || %23
+V:3
+ B | B c/B/ A | G F G | c/B/ c d | !fermata!d2 d | A B c | d e d/c/ | !fermata!B2 x :: d x2 | %9
+ d c B/A/ | B/c/ d d | !fermata!d2 B | G B e | d2 d | d3 | !fermata!c2 d | d/c/ B c | d2 d/c/ | %18
+ B c d | !fermata!d2 d | d2 e | e2 d/c/ | !fermata!B2 x || %23
+V:4
+ G,, | G, E, F, | G, D, E, | C, B,,/A,,/ G,, | !fermata!D,2 G,, | F,, G,, A,, | B,, C, D, | %7
+ !fermata!G,,2 x :: G,, x2 | G,, A,, B,, | B,,3/2 A,,/ G,, | !fermata!D,2 E,- | E, D, C, | %13
+ B,,3/2 C,/ D, | G,,/A,,/ B,, G,, | !fermata!C,2 G,, | F,, G,, A,, | B,, G,, D, | %18
+ E,/D,/C,/B,,/A,,/G,,/ | !fermata!D,2 G,- | G, F, E,- | E,/D,/ C, D, | !fermata!G,,2 x || %23

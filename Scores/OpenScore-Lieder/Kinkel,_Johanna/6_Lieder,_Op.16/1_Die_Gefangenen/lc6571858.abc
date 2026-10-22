@@ -1,0 +1,57 @@
+X:1
+T:6 Lieder, Op.16
+T:Die Gefangenen
+C:Johanna Kinkel (published as J. Mathieux)
+Z:Johanna Kinkel
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=94
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+L:1/16
+V:5 treble 
+V:4 bass 
+V:6 bass 
+V:1
+"^Andantino" E | A2 A A2 B | (c2 A) E2 A/c/ | e2 c B2 c | A3 z2 E | A2 ^G/ G/ A2 B/c/ | %6
+w: 1. Der|er- ste Ta- ges-|schim- * mer hellt *|un- sers Ker- kers|Raum, und|weht um die dü- stern *|
+w: 2. Und|ich, und Du, wir|wan- * deln da- *|rin- nen Hand in|Hand, und|schau’n von der ho- hen Ter-|
+w: 3. Die|fer- nen Se- gel|zie- * hen am *|blau- en U- fer-|saum; wir|schau- en uns an voll *|
+ (d2 c) B2 z | e2 G/ A/ B>c A/d/ | G3 z2 G | _e2 e f2 c | _e3 d2 d | _d2 d d3/2 _e/ _B | %12
+w: Stir- * nen|lieb- lich- en Mor- * gen- *|traum. Ein|stil- ler Gar- ten|win- ket da-|heim am lie- * ben|
+w: ras- * se|weit in das gol- * de- ne|Land; und|Kin- der sind wir|wie- der, so|schuld- los, glück- lich und|
+w: Sehn- * sucht    \-\-\-\-\-|weh, da zer- flie- * sset der|Traum. Wir|sind ja beid’ ge-|fang- en, in|Ket- ten sind wir ja|
+ (_c3 =B2) B | A2 c/ B/ A>^G A | (^f2 ^d) A3 | ^G2 f/ e/ (e>d) c/B/ | A3 z2 :| %17
+w: Rhein; _ die|sin- ken- de Son- * ne|grüsst _ ihn|la- chend mit ro- * si- gem|Schein.|
+w: frei, _ und|wis- sen noch nicht * was|Schei- * den,|ach, und Ent- sa- * gen *|sei.|
+w: beid’; _ und|nur im * Wech- sel- ge-|san- * ge|ei- nen wir e- * wi- ges|Leid.|
+V:2
+ x | x6 | x6 | x6 | x6 | x2 x x2 B/ c/ | x6 | x3 x2 A/ d/ | x6 | x6 | x6 | x3 _d>_e x | x6 | %13
+ x2 c/B/ A3/2 ^G/ x | x6 | x3 x2 c/ B/ | x5 :| %17
+V:3
+ z2 |!p! [CA]2E2[^CG]2 [D^F]2A,2[D=F^G]2 | [CA]2E2[CA]2 E2A2[Ec]2 | [Ec]2[DB]2[CA]2 A2^G^FG2 | %4
+ [CA]2E2[EG]2 [DF]2E2[D^G]2 | [CA]2E2!<(![B,DF]2 [CE]2!<)!A2[CE]2 | [CD]2A2[CD]2 [B,^D]2A2[B,D]2 | %7
+!mf! [B,EG]2[B,EG]2[B,EG]2 [B,DG]2!>(![B,DG]2[A,CG]^F!>)! | %8
+!p! [B,DG]2[B,DF]2[C_E]2 [B,D]4!mf! [G,G]2 | [Cc]2[_E_e]2[Gg]2 [Aa]4 [Aa]2 | %10
+ [_A_a]4 [Gg][Aa] [_B_b]4 [Ff]2 | [_A_a]4 [Gg][Ff] [Gg]4 [Gg]2 | %12
+ [_A_a]_e_cAE_C!>(! [B,D]=E^G!>)!E[B,D]E | [A,C]EAE[A,C]E!<(! [A,C]EAE[A,C]!<)!E | %14
+!mf! [A,^D]^FAF[A,D]F [A,D]FAF[A,D]F |!>(! [B,=D]E^GE[B,D]!>)!E [B,D]EGE[B,D]E | %16
+!pp! [CA]A,[^CG]A,[D^F][A,=F] !fermata![=CE]4 :| %17
+V:4
+ z | [A,,E,A,]2 [A,,E,A,] [A,,D,A,]2 [A,,A,] | [A,,A,]2 [A,,A,] [C,A,]2 [A,,A,] | %3
+ [E,,E,]2 [E,,E,] [E,,E,]2 [E,,E,] | [A,,A,]2 [^C,A,] A,2 [B,,E,] | %5
+ [A,,E,]2 [A,,A,] [A,,A,]2 [G,,G,] | [^F,,^F,]2 [F,,F,] [F,,F,]2 [F,,F,] | %7
+ [E,,E,][E,,E,][E,,E,] [D,,D,][D,,D,][D,,D,] | [G,,G,]2 [G,,G,] [G,,G,]2 z | %9
+ [C,,C,][G,C][G,C] [F,,F,][F,C_E][F,CE] | [_B,,_B,][F,B,D][F,B,D] [B,,B,][F,B,D][F,B,D] | %11
+ [_E,,_E,][E,_B,_D][E,B,D] [E,,E,][E,B,D][E,B,D] | [_A,,_A,]3 [E,,E,]2 [E,,E,] | %13
+ [A,,E,]2 [A,,E,] [A,,E,]2 [A,,E,] | [B,,,B,,]2 [B,,,B,,] [B,,,B,,]2 [B,,,B,,] | %15
+ [E,,E,]2 [E,,E,] [E,,E,]2 [E,,E,] | [A,,E,][A,,,A,,][A,,,A,,] !fermata![A,,,A,,]2 :| %17
+V:5
+ x | x6 | x6 | x3 D2 D | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x5 :| %17
+V:6
+ x | x6 | x6 | x6 | x3 D,=C, x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x5 :| %17

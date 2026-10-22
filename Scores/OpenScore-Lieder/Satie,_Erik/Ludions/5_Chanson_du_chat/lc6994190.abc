@@ -1,0 +1,44 @@
+X:1
+T:Ludions
+T:Chanson du chat
+C:Erik Satie
+Z:Léon-Paul Fargue
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=100
+M:2/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:1
+"^Gaiement" z |: z4 | z4 | z4 |$ z2 z F | B B B d | B2 B F | G A B c | d d/ d/ d B |$ f d B A | %10
+w: ||||1. Il|est u- ne bé|bê- te Ti-|li pe- tit n’en-|fant Ti- re- lan C’est|u- ne by- ron-|
+w: ||||2. Il|saut’ sur la fe-|nê- tre Et|grou- me du mu-|seau Ti- re- lo Pas-|qu’il voit sur la|
+ G2 G G | G G c d | e e/ g/ f d |$ d e/ f/ e c | c d/ e/ d G | F =D G B |$ A2- A F | B c d z/ B/ | %18
+w: net- te La|beste à sa mo-|man Ti- re- lan Le|peu Ti- nan faon c’est|un ti blan- blanc Un|pe- tit Po- tas-|son _ C’est|mon go- ret, c’est|
+w: crê- te S’dé-|cou- per les oi-|seaux Ti- re- lo Le|pe- tit n’en faut c’est|un ti blo- blo Un|pe- tit Po- ta-|çao _ C’est|mon go- ret, c’est|
+ ^F B G z/ E/ ||1$ D =F G A | B2- B z :|2 D d e f | B2- B z |] %23
+w: mon pour- çon mon|pe- tit po- tas-|son _|pe- tit po- tas-|seau. _|
+w: mon pour- ceau mon|||||
+V:2
+!f![I:staff +1] .F, |: .G,.B,[I:staff -1].D.F | !^![GBdg]2 .[EFA]2 | !^![DFB]2 z2 |$ %4
+ !^![Bdfb]2- .[Bdfb] z | [F,B,D] z [G,B,E] z | [B,DF]2 z2 | [G,B,D] z [^F,CD] z | %8
+ [!courtesy!=F,B,D] z z2 |$ [B,FB] z z2 | [B,GB] z z2 | [CEG] z z2 | [CEG] z [B,DF] z |$ %13
+ [B,DF] z [A,CE] z | [A,CE] z [G,B,D] (G | F=D G2) |$ F2 z2 | [B,!courtesy!_EB] z [B,FB] z | %18
+ [C^FB] z [CGB] z ||$ [D!courtesy!=FB] z [EFA] z | !^![DFB]2- [DFB] z :| %21
+ [D!courtesy!=FB] z [EFA] z | !^![DFB]2- [DFB] z |] %23
+V:3
+ .[F,,,F,,] |: .[G,,,G,,].[B,,,D,].[D,,D,].[F,,F,] | .[G,B,D]2 .[F,,F,]2 | [B,,,B,,]2 z2 |$ %4
+ x2 x z | [B,,,B,,] z [C,,C,] z | [D,,D,] z z2 | [G,,,G,,] z [A,,,A,,] z | [B,,,B,,] z z2 |$ %9
+ [D,,D,] z z2 | [E,,E,] z z [D,,D,] | [C,,C,] z z [B,,,B,,] | [A,,,A,,] z [B,,,B,,] z |$ %13
+ [G,,,G,,] z [A,,,A,,] z | [F,,,F,,] z [G,,,G,,] z | ([_D,,_D,][=B,,,=B,,] [C,,C,]2 |$ %16
+ [F,,,F,,]2) z2 | [C,,C,] z [D,,D,] z | [D,,D,] z [E,,E,] z ||$ %19
+ .[!courtesy!=F,,!courtesy!=F,].[D,,D,] .[_C,,_C,] z | !^![B,,,B,,]2- [B,,,B,,] z :| %21
+ .[!courtesy!=F,,!courtesy!=F,].[D,,D,] .[_C,,_C,] z | !^![B,,,B,,]2- [B,,,B,,] z |] %23
+V:4
+ x |: x4 | x4 | x4 |$ !^![B,DF]2- .[B,DF] x | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | %15
+ x [A,C] [B,=E]2 |$ [A,F]2 x2 | x4 | x4 ||$ x4 | x4 :| x4 | x4 |] %23

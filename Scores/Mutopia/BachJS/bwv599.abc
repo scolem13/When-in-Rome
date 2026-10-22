@@ -1,0 +1,49 @@
+% Nun komm' der Heiden Heiland: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=713
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Nun komm' der Heiden Heiland
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 5 ) 6 7
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Amin
+V:1 treble nm="Pipe Organ" snm="P Org"
+V:2 treble 
+V:3 bass nm="Pipe Organ" snm="P Org"
+V:4 bass 
+V:5 bass 
+L:1/8
+V:6 bass nm="Pipe Organ" snm="P Org"
+L:1/8
+V:7 bass transpose=-12 nm="Contrabass" snm="Cb"
+L:1/8
+V:1
+ A8 z AB^F G4 | [Ec] c3 E4- E E2<=F2 =DEB, | C4 z =DEB, [CA]2>[DB]2 [Ec]4 | AD G4 F3 AD2 e4 | %4
+ [_Bc] c7 c4 d4 | [Be] e3 [Ac]4 d2[Ac]2 =B4 | A8 A8 | z AB^F G4 c4 [EB]2A2- | [AB] B7 A8- | %9
+ A16 F E F3 G F3 D E6 |] %10
+V:2
+ z D E4 ^D6 z DE2- | z ^GA^D B2A2 B8 | A8 z8 | d4 c4 d4 z Gc_B- | z G A8- A3 c=B2- | %5
+ z Bc^G z4 z G z3 ^FG2 | z D E7 E2<=F2 EF2 | z4 z ^D2<E2 ^GAD z4 | z ^G2<A2 ^F2<=G2 =F2<G2 EF2- | %9
+ x32 |] %10
+V:3
+ z3 B, C8 B,2>B,2 | A,4 z B,C^F, ^G,2 A,4 G,2 | z ^G,A,^D, E,B,,C,^G,, A,,G,2<A,2 B,C2- | %3
+ C2B,2 C=G,2<A,2 CB,2 CEG,2 | z3 E F6 F3 ADF | E4- E EFC =B,2A,2 E2>D2 | %6
+ C2>B,2 C4- C [^CG,]2<[DF,]2 [CA,][DD,]2 | z7 B, A,4 z B,=C2 | [DF,]4 B,2E3 D2<E2 ^CD2- | %9
+ D [A,^CG,]2<D2 [E^C,] D4- D B, C4 |] %10
+V:4
+ z4 z ^G, A,6 z4 | x16 | x16 | x16 | z4 z _B,CG, A,C z6 | x16 | z4 z ^G,2<A,2 z7 | z15 E, | %8
+ z3 F G,4 A,8- | z2 A,E, F, z D,^G,, A,,8 |] %10
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 z2 z/ ^G,/A, |] %10
+V:6
+ z7/2 A,,/ E,>^D, E,2 | ^F,2 ^G,A, E,>=D, E,E,, | A,,4 z3/2 A,,/ A,>=G, | F,>G, E,>F, D,>G, C,>E, | %4
+ F,,4 F,>A, D,>G, | C,>E, F,,>A,, D,,>D, E,E,, | A,,2 A,>C F,>A, D,>F, | %7
+ B,,>^D, E,,2 ^F,,2 ^G,,A,, | =D,,D, E,>=G, ^C,>E, D,>=F, | A,,8 |] %10
+V:7
+ z7/2 A,,,/ E,,>^D,, E,,2 | ^F,,2 ^G,,A,, E,,>=D,, E,,E,,, | A,,,4 z3/2 A,,,/ A,,>=G,, | %3
+ F,,>G,, E,,>F,, D,,>G,, C,,>E,, | F,,,4 F,,>A,, D,,>G,, | C,,>E,, F,,,>A,,, D,,,>D,, E,,E,,, | %6
+ A,,,2 A,,>C, F,,>A,, D,,>F,, | B,,,>^D,, E,,,2 ^F,,,2 ^G,,,A,,, | %8
+ =D,,,D,, E,,>=G,, ^C,,>E,, D,,>=F,, | A,,,8 |] %10

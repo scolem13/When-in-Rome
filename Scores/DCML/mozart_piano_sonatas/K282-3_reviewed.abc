@@ -1,0 +1,86 @@
+X:1
+T:Piano Sonata no. 4 in E flat major
+T:Allegro
+C:Wolfgang Amadeus Mozart
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/16
+Q:1/4=144
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Klavier linke Hand"
+V:4 treble 
+L:1/8
+V:2 treble 
+V:3 treble 
+L:1/8
+V:1
+!p!"^Allegro" !wedge!B2 | !wedge!B6 !wedge!b2 | (b6 a2) |({a/} g2)fe (cedf) | %4
+ (egfa) !wedge!g2!f!!wedge!B2 | !wedge!B6 !wedge!b2 |$ (b6 a2) |({a/} g2)fe !wedge!a2!wedge!g2 | %8
+ (g2f2) z2!p! f2 | (=e2<f2) z2 Tf2 |$!f! (e'2>c'2 =a2)!wedge!e2 |!p! (d2<f2) z2 Tf2 | %12
+!f! (e'2>c'2 =a2)Te2 |$ (defg) (fg=ab) | (^fg)(de) (=Bc)(Gc) | (B2=A2) z4 | z2!p! (f2 e2d2) |$ %17
+ z2 !wedge!=B2 (B2c2) | z2 (g2 f2e2) | z2 !wedge!^c2 (c2d2) |!f! b8 | g8 |$ %22
+({g/} f2)ed({d/} c2)B=A | (cBdc) (edfe) |!p! (g2 f4 d2) | (=B2 d4 c2) | (^f2 g4 e2) |$ %27
+ (^c2 e4 d2) |!f! !arpeggio!b8 | g8 |({g/} f2)ed({d/} c2)B=A |$({=A/} B2)cd efg=a | %32
+ (bc'd'=a) !wedge!b4 | (g=ab^f) !wedge!g4 |$({g/} f2)ed({d/} c2)B=A | Bcde fg=ab | %36
+ (^fgec) (dec=A) |$ Bcde fg=ab | (^fgec) (dec=A) | B4 z2 ::!p! !wedge!B2 | !wedge!B6 !wedge!b2 |$ %42
+ !wedge!b6!f! c2 | (_dc=dc ec=ec) | (fcgc) !wedge!a2!p!!wedge!A2 | !wedge!A6 !wedge!a2 | %46
+ !wedge!a6!f! B2 |$ (_cB=cB _dB=dB) | (eBfB) !wedge!g2 z2 | z2!p! [G_d]2 [Gd]4- | %50
+ [Gd]2[Ac]2 [Ac]4- | [Ac]2!f![_GB]2 [GB]4- | [GB]2[F=A]2 [FA]4- |$ [FA]2!p![=Ae]2 [Ae]4- | %54
+ [Ae]2[B_d]2 [Bd]4- | [Bd]2!f![Ac]2 [Ac]4- | [Ac]2[G=B]2 [GB]2B2 | (c2d2 e2f2) |$ %58
+ !wedge!Te2!wedge!d2 !wedge!c2!wedge!=B2 | (c2d2 e2f2) | x2 !wedge!c'2 !wedge!=b2 z2 | %61
+!p! (c2=B2) z2 !wedge!B2 |$ (=B2_B2) z2 !wedge!B2 | !wedge!B6 !wedge!b2 | (b6 a2) | %65
+({a/} g2)fe (cedf) | (egfa) !wedge!g2!f!!wedge!B2 | !wedge!B6 !wedge!b2 |$ (b6 a2) | %69
+({a/} g2)fe !wedge!a2!wedge!g2 | (g2f2) z2!p! x2 | =A2<B2 z2 TB2 |$!f! (a2>f2 d2)!wedge!A2 | %73
+!p! (G2<B2) z2 TB2 |!f! (a2>f2 d2)TA2 |$ (GBeg) (bgeB) | c(c'=bc') (ga)(=ef) | (e2d2) z4 | %78
+ z2!p! (b2 a2g2) |$ z2 !wedge!=e2 (e2f2) | z2 (c'2 b2a2) | z2 !wedge!^f2 (f2g2) |!f! e8 |$ c8 | %84
+({c/} B2)AG({G/} F2)ED | (FEGF AGBA) |!p! (c2 B4 G2) |$ (=E2 G4 F2) | (=B2 c4 A2) | (^F2 A4 G2) | %90
+!f!!f! e8 | c8 |$({c/} B2)AG({G/} F2)ED | Eefg abc'd' | (e'bge) Te4 |$ (cfac') Tc'4 | %96
+({c'/} b2)ag({g/} f2)ed | efga bc'd'e' |$ (=bc'af) (gafd) | efga bgeB | (=BcAF) (GAFD) |$ %101
+ E(B=AB) (cBdB) | (eB=AB) (cBdB) | e4 !fermata!z2 :| %104
+V:2
+"" z2 | z2!p! G2 G4 |"" z2 F2 F4 |"" E2""G,2"" A,2""B,2 |"m" C2"m"D2"" E2 z2 | z2!f! G2 G4 |$ %6
+"" z2 F2 F4 |"" E2""B2"" B2""B2 |"" B,2""B2 B,2"" z2 |!p! B,FDF B,FDF |$"" =A,FCF A,FCF | %11
+"" B,FDF B,FDF |"" =A,FCF A,FCF |$"" B,4"" D4 |"m" E4 z2[K:bass] [E,E]2 | %15
+"" (D2""C2)"C{" (F,G,E,F,) |"" D,4[K:treble] z2!p! [DF]2 |$"m" [EG]4 z2"m" [EG]2 | %18
+"" [F=A]4 z2 [FA]2 |"m" [GB]4 z2"m" [GB]2 |"" D,B,F,B, D,B,F,B, |"m" E,CG,C E,CG,C |$ %22
+"" F,DB,D"" F,ECE |"" [B,D]4 z4 |"" z4!p! [DF]4 |"m" z4"m" [EG]4 |"" z4"" [F=A]4 |$ %27
+"m" z4"m" [GB]4 |"" D,B,F,B, D,B,F,B, |"m" E,CG,C E,CG,C |"" F,DB,D"" F,ECE |$"m" [G,D]4 z4 | %32
+"" D,B,F,B, D,B,F,B, |"" E,B,G,B, E,B,G,B, |$"" F,DB,D"" F,ECE |"" D4 z4 | %36
+"m" z2 !wedge!E2"m" !wedge!C2""!wedge!F2 |$"" !wedge!D4 z4 | %38
+"m" z2 !wedge!E,2"m" !wedge!C,2""!wedge!F,2 |"" B,2F,2 B,,2 ::"" z2 | z2!p! [F,_D]2 [F,D]4 |$ %42
+"" z2 [=E,C]2 [E,C]4 | z2"m"!f! F2"m" G2""B2 |"m" A2""=E2"m" F2"C{" z2 |"m" z2!p! [E,_C]2 [E,C]4 | %46
+"" z2 [D,B,]2 [D,B,]4 |$ z2""!f! E2"m" F2""A2 |"" G2""D2"" E2[K:bass]"C{"!p! E,2 |"" E,6 E2 | %50
+"" E6!f! [E,,E,]2 |"m" [E,,E,]6 [E,E]2 |"" [E,E]6!p! F,2 |$"" F,6 F2 |"m" F6!f! [F,,F,]2 | %55
+"m" [F,,F,]6 [F,F]2 |"" [F,F]6[K:treble]"C{" (FG) |"m" (EG""DG"m" CG""=B,G) |$ %58
+"m" (CG""DG)"m" (EG""FG) |"m" (EG""DG"m" CG""=B,G) |"m" C2""!wedge![A,A]2"" !wedge![G,G]2 z2 | %61
+"""" D8- |$"""C{" D8 |"" E2[K:treble] [EG]2 [EG]4 |"" z2 [DF]2 [DF]4 |"" E2""G,2"" A,2""B,2 | %66
+"m" C2"m"D2"" E2 z2 | z2!f! [EG]2 [EG]4 |$"" z2 [DF]2 [DF]4 |"" E2""G2"m" F2""E2 | %70
+"" B,2""B2 B,2"C{" z2 |""!p! E,B,G,B, E,B,G,B, |$"" D,B,F,B, D,B,F,B, |"" E,B,G,B, E,B,G,B, | %74
+"" D,B,F,B, D,B,F,B, |$"" E,4"" G,4 |"m" A,4 z2[K:treble] [A,A]2 | %77
+"" (G2""F2)[K:bass]"C{" (B,CA,B,) |"" G,4 z2[K:treble]!p! [GB]2 |$"m" [Ac]4 z2"m" [Ac]2 | %80
+"" [Bd]4 z2 [Bd]2 |"m" [ce]4 z2"m" [ce]2 |"" G,,E,B,,E, G,,E,B,,E, |$"m" A,,F,C,F, A,,F,C,F, | %84
+"" B,,G,E,G,"" B,,A,F,A, |"" [E,G,]4 z4 |"" z4!p! [G,B,]4 |$"m" z4"m" [A,C]4 |"" z4"" [B,D]4 | %89
+"m" z4"C|DC""m" [CE]4 |"" G,,E,B,,E, G,,E,B,,E, |"m" A,,F,C,F, A,,F,C,F, |$ %92
+"" B,,G,E,G,"" B,,A,F,A, |"m" [C,G,]4 z4 |"" G,EB,E G,EB,E |$"m" A,FCF A,FCF |"" B,GEG"" B,AFA | %97
+"" [EG]4 z4 |$"m" z2 !wedge!A2"m" !wedge!F2""!wedge!B2 |"" !wedge!G4 z4 | %100
+"m" z2 !wedge!A,2"m" !wedge!F,2""!wedge!B,2 |$"" !wedge!E,4 z2[K:treble]"" [B,FA]2 | %102
+"" [EG]4 z2"" [B,FA]2 |"" G4 z2 :| %104
+V:3
+ x | x E E2 | x D D2 | x4 | x4 | x E E2 |$ z D D2 | x G FE | x4 | x4 |$ x4 | x4 | x4 |$ x4 | %14
+ x3[K:bass] x | F,2 x2 | x2[K:treble] x2 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ %27
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | B,2 x2 | x4 |$ x4 | x4 | x3 :: x | x x3 |$ x4 | x4 | %44
+ x4 | x4 | x4 |$ x4 | x3[K:bass] x | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x3[K:treble] x | x4 |$ %58
+ x4 | x4 | x4 | (^F,G, A,G,) |$ (G,A, B,A,) | G,[K:treble] x3 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %71
+ x4 |$ x4 | x4 | x4 |$ x4 | x3[K:treble] x | B,2[K:bass] x2 | x3[K:treble] x |$ x4 | x4 | x4 | %82
+ x4 |$ x4 | x4 | x4 | x2 x2 |$ x2 x2 | x2 x2 | x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | %99
+ x4 | x4 |$ x3[K:treble] x | x4 | E2 !fermata!x :| %104
+V:4
+ x | x4 | x4 | x4 | x4 | x4 |$ x4 | x2 !wedge!d!wedge!e | (ed) x2 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | %15
+ x4 | x4 |$ x4 | x4 | x4 | !arpeggio![Bdf]2 x2 | !arpeggio![Gce]2 x2 |$ x4 | x4 | x4 | x4 | x4 |$ %27
+ x4 | [Bdf]2 x2 | !arpeggio![Gce]2 x2 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x3 :: x | %41
+ x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | %60
+ e!wedge!^f !wedge!g x | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x2 !wedge!d!wedge!e | (ed) x B | %71
+ x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | !arpeggio![EGB]2 x2 |$ %83
+ !arpeggio![CFA]2 x2 | x4 | x4 | x4 |$ x4 | x4 | x4 | !arpeggio![EGB]2 x2 | !arpeggio![CFA]2 x2 |$ %92
+ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x3 :| %104

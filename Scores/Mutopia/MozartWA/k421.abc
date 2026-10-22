@@ -1,0 +1,173 @@
+% String Quartet KV. 421 (nr. 15): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=273
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:String Quartet KV. 421 (nr. 15) (1)
+C:W. A. Mozart (1756-1791)
+%%score ( 1 2 )
+L:1/16
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="Viola" snm="Vla"
+V:2 treble 
+L:1/8
+V:1
+ x14 F, z | F, z F, z3 F, z F, z F, z3 F, z | F, z F, z3 A, z A, z A, z3 B, z | %3
+ B, z B, z3 E, z E, z E, z D,4 | z6 E2 D2_D2 =D2F z | F z F z3 _G z G z G z3 =G z | %6
+ G z G z3 _A z A z A z A4 | =A4 z2 A,2 =B,2_D2 =D2G,2 | A,2A,2 D4 z8 | z2 F2 E2>F2 G2G2 F2E2 | %10
+ D2 z4 A_A =A_A=A_A =A4- | A2F2 E2>F2 G2G2 F2A2- | A2=B2 E4 z8 | %13
+ z2 FD _D_A,=A,_A, =A,_A,=A,F, E,2 z2 | z4 [C,C]6 G,2 F,2F, z | z2 F,2 F,4 z2 C2 B,2=B,2 | %16
+ _B,2A,2 G,4 z2 C2 F4- | F6 F2 E2_E2 D4 | z2 G,D C4 z8 | z8 C,2>_D,2 D,4- | D,2>[C,_D,]2 C,4 z8 | %21
+ z4 F8- F2G,2 | G2F z F4 E2D2- D2C2 | A2G z F2 z2 F2 z2 C2B,2 | A,2G,2 z F,A,A, A,A,A,A, z A,CC | %25
+ CCCC z G,DD DDDD z G,B,B, | B,B,B,B, z F,A,A, A,A,A,A, z A,CC | CCCC z G,DD DDDD z G,B,B, | %28
+ B,B,B,B, A,FED _D=DCB, A,CFC | A,CFC G,DFD G,DFD G,CEC | G,CEC F,A,FA, F,A,FA, A,CFC | %31
+ A,CFC G,DFD G,DFD F2C2 | D2CB, A,8 D2_G z | =G z A z ABDB, A,2G,2 A,2c2- | %34
+ c2(3:2:2B2 z4 _G z =G z A z ABDB, | A,2G,2 A,2 z2 B z B z A z A z | %36
+ E z E z F z D z A, z B, z A,2D2 | C2C,2 (3[F,A,]2[CC]2[CC]2 (3[CC]2[CC]2[CC]2 (3[CC]2[CC]2[CC]2 | %38
+ (3[CC]2[CC]2[CC]2 (3[CF]2[FF]2[FF]2 (3[FF]2[FF]2[FF]2 (3[FF]2[FF]2[FF]2 | %39
+ (3[FG]2[FE]2[DE]2 F4 z2 (3:2:2G2 z F4 | z2 (3:2:2G,2 z F,2F, z F, z4 z D z | %41
+ D z4 z B, z A, z4 z D2 | D2F2 F2B,2 B,2_A,2 G,2G, z | G, z G, z3 G, z G, z G, z3 _A, z | %44
+ _A, z A, z3 G, z G, z G, z3 A, z | _A, z A, z3 _E, z E, z E, z C,4- | C,12 =E,4- | %47
+ E,4 E,2>_E,2 =E,2E,2 E,4- | E,4 E,2>_E,2 =E,2E,2 E,4- | E,4 E,2>_E,2 =E,2E,2 _G,2>E,2 | %50
+ _G,2G,2 _A,2>G,2 A,2A,2 =A,2d2 | c2=B z E z F z E z E z4 z | z4 G,8 A,2=B,2 | C2_A, z =A, z7 A4- | %54
+ A4 A,6 A,2 A,2>_A,2 | =A,2A,2 A,8 G,4- | G,12 F,2D2 | E2F2 z2 F2 E2D2 z2 G2 | %58
+ _G2=G2 z2 B2 A2G2 z2 A2 | _A2=A2 z2 c2 B2A2 z [DG][BB]B | B2 z8 z3 [G,B,][EE]E | %61
+ E2 z8 z3 [F,C][FF]F | F2 z8 z3 [F,B,][DD]D | D2 z8 z3 [G,B,][_DD]D | %64
+ _D2 z3 [G,B,][=DD]D D2 z3 [G,D][GG]G | G2 z3 [A,_D][EE]E E2 z4 =D2 | G2 A4 D4 _D=D E4 | %67
+ z4 z [_DE][AA]A A2 z3 [_D,E,][A,A,]A, | A,12- A,[=D,F,][B,B,]B, | B,12- B,[G,_D][EE]E | %70
+ E8- E2 z4 F, z | F, z F, z3 F, z F, z F, z3 F, z | F, z F, z3 A, z A, z A, z3 B, z | %73
+ B, z B, z3 E, z E, z E, z D,4 | z6 E2 D2_D2 =D2F z | F z F z3 _G z G2G z3 =G z | %76
+ G z G z3 _A z A z A z A4 | =A4 z2 A,2 =B,2_D2 =D2G,2 | A,2A,2 D4 z8 | z2 F2 E2>F2 G2G2 F2E2 | %80
+ D2 z4 A_A =A_A=A_A =A4- | A2F2 E2>F2 G2G2 F2A2- | A2=B2 E4 z8 | %83
+ z2 FD _D_A,=A,_A, =A,_A,=A,F, E,2 z2 | z4 E6 G,2 F,2F, z | z2 _G,2 z2 =G,2 z2 C2 _G2=G2 | %86
+ z4 E8 _G2=G2 | z2 E2 F4 G4 A2G2 | F2_D2 =D6 E2 A,4 | A2>_A2 A7 [_GA] =A4 | z8 D2F2 F4 | %91
+ E2 z8 z2 D4- | D6 E,2 E2D z D4 | _D2=B,2 A,4 E4 =D2 z2 | _D2 z2 A,2G,2 F,2E,2 z F,F,F, | %95
+ F,F,F,F, z =D,A,A, A,A,A,A, z D,B,B, | B,B,B,B, z F,DD DDDD z F,DD | DDDD z A,FF FFDD z B,_EE | %98
+ _EEDD z _D=DD DD=EE DGFE | FED_D =DA,DA, F,A,DA, G,B,DB, | G,B,DB, A,DFD A,DFD B,DFD | %101
+ B,DFD A,DFD A,DFD B,DED | B,DED D2 B,4 A,G, F,4 | _G,4 =G, z C z D z _E z D z _A z | %104
+ G z B z =A2(3:2:2G2 z D2_D2 =D2A2- | A2(3:2:2G2 z4 C z D z _E z D z _A z | %106
+ G z B z =A2(3:2:2G2 z D2_D2 =D2 z2 | G z G z F z F z _D z D z =D z C z | %108
+ =B, z _B, z A, z G, z A, z A, z (3[D,F,]2[A,A,]2[A,A,]2 | %109
+ (3[A,A,]2[A,A,]2[A,A,]2 (3[A,A,]2[A,A,]2[A,A,]2 (3[A,A,]2[A,A,]2[A,A,]2 (3[A,D]2[DD]2[DD]2 | %110
+ (3[DD]2[DD]2[DD]2 (3[DD]2[DD]2[DD]2 (3[DD]2[DD]2[DD]2 (3[DD]2[DD]2[DD]2 | %111
+ (3[DE]2[=D_D]2[=B,D]2 =D4 z2 (3:2:2E2 z D4 | z2 (3:2:2E,2 z =D,2D,2 D,2 z4 F, z | %113
+ F,2_A,2 z2 B,2 B,2A,2 z2 =D, z | D, z4 z D, z D, z4 z E, z | E, z4 z F, z F, z4 z G, z | %116
+ G,2B,2 A,2_D2 =D2A,2 B,2G,2 | A,2G,2 F,4 z2 A,2 A,4 | z2 _D2 =D4 z2 A2 A4 |] %119
+V:2
+ x2 x6 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %19
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z3/2 [Ad]/ z6 | z8 | %36
+ z8 | z8 | z8 | z4 z3/2 E/ z2 | z3/2 E,/ z6 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %51
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %70
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %89
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z7/2 =E/ z4 | %105
+ z3/2 [_G=G]/ z6 | z7/2 =E/ z4 | z8 | z8 | z8 | z8 | z4 z3/2 _D/ z2 | z3/2 _D,/ z6 | z8 | z8 | z8 | %116
+ z8 | z8 | z8 |] %119
+
+X:2
+T:String Quartet KV. 421 (nr. 15) (2)
+C:W. A. Mozart (1756-1791)
+%%score ( 1 2 )
+L:1/16
+Q:1/4=70
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Viola" snm="Vla"
+V:2 treble 
+L:1/8
+V:1
+ C2 z2 C2 B,6 | A,4 C2 C2 z4 | z8 z F,A,C | F2 z2 F2 F2E2D2 | C2D2E2 F2 z4 | z8 z F,A,C | %6
+ F6 D2 z DEF | G4 F2 E2 z4 | _E2 z2 E2 D2 F4 | _E4 (3D2[=B,C]2 z2 z4 | C6 _B,2 z4 | B,4 G,2 D2 z4 | %12
+ z3 D,_G,A, D2A, z A, z | A,2 z4 C2 z4 | C2 z2 C2 B,6 | A,4 C2 C z4 z | z8 z F,A,C | %17
+ F2 z2 F2 F2E2D2 | C2D2E2 F2 z4 | z8 z A,CF | A6 A,2 z FFF | z3 GG_A A2 z FFF | F4 C2 C6- | %23
+ C2 z _D=DB, C4 C,2 | D,2 z G,F,_A, C4 B,2 | =A,2 z4 C2 z4 | A,2 z4 C2 z4 | C z C z C z C z4 z | %28
+ E z E z E z E z4 z | _A, z A, z A, z A, z4 z | E, z E, z E, z E, z4 z | %31
+ G z [C,G,] z3 c z [C,C] z3 | d z [C,_A,] z3 G z [=B,G] z3 | z GGG z _A z AAA z G | %34
+ G2G,2G,2 G,2 z4 | _A,6 G,6 | _A,6 _D,G,B,B,G,G, | _E12- | C6 _E6 _D, _A, C C C C | _A,12- | A,12 | %41
+ F,2 z2 F,2 _E,2 z2 _D,2 | C,2 z8 z2 | C z C z C z C z4 z | C z C z C z C z4 z | %45
+ C z _D z C z =B,2 z4 | E, z E, z E, z E, z4 z | C z E, z3 C z E, z3 | C z E, z3 C z E, z3 | %49
+ z3 C,E,G, C2 z4 | z3 E,G,C E z E z E z | D6 E6 | C2 z2 C2 B,6 | A,4 C2 C2 z4 | z8 z F,A,C | %55
+ F2 z2 F2 F2E2D2 | C2D2E2 F2 z4 | z8 z F,A,C | F6 D2 z DEF | G4 F2 E2 z4 | _E2 z2 E2 D2 F4 | %61
+ _E4 (3D2[=B,C]2 z2 z4 | C6 _B,2 z4 | B,4 G,2 D2 z4 | z3 D,_G,A, D2A, z A, z | A,2 z4 C2 z4 | %66
+ C2 z2 C2 B,6 | A,4 C2 C2 z4 | z8 z F,A,C | F2 z2 F2 F2E2D2 | C2D2E2 F2 z4 | z8 z A,CF | %72
+ A6 A,2 z FFF | F2 z GG_A A2 z FFF | F4 C2 C6- | C2 z _D=DB, C4 C,2 | D,2 z G,F,_A, C4 B,2 | %77
+ =A,2 z4 C2 z4 | F2 z4 F2 z4 | D2 z7 D=B,D | F2 z8 z2 | z3 A,F,A, C6- | C2 z4 E6 | F2 z4 C6- | %84
+ C2 z8 z2 | z3 A,CF A2A z A z | A2 z8 z2 |] %87
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %37
+ _A,3 _D3 | x9 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %55
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %74
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %87
+
+X:3
+T:String Quartet KV. 421 (nr. 15) (3)
+C:W. A. Mozart (1756-1791)
+L:1/4
+Q:1/4=130
+M:3/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="Viola" snm="Vla"
+V:1
+ z3 | F/>F/ G E | F D z | D/>D/ E A | z C z | C/>C/ D G | z _A z | D3/2 _D/ D/E/ | =D B, A, | %9
+ G, F,2 | z D F | z E C | z2 E | A, =B, _A, | E _G _A | =A _A _G | E2 _G | =G _G E | _E D =B, | %19
+ C _A, =B, | =A,3/2 D/ C | =B, A, z | A,/>A,/ D, D | z3 | G,/>G,/ C, C | z3 | F,/>F,/ F,2 | %27
+ E, D, _D, | =D, E, z | z3 | F/>F/ G E | F D z | D/>D/ E A | z C z | C/>C/ D G | z _A z | %36
+ D3/2 _D/ D/E/ | =D B, A, | G, F,2 |[K:D] z A, z | z A z | z [CE] [CE] | [CE] [CE] z | E D z | %44
+ A G z | C D D | A, F,2 | z [CE] [CE] | [CE] [CE] z | z D [A,F] | [A,F] [A,F] z | z [B,^G] z | %52
+ z [EB] z | z [CA] [CA] | [CA] [CA] z | D,/<F,/ F,/<A,/ A,/<D/ | D/<F/ F/<A/ A/<d/ | %57
+ d/<c/ c/<e/ e/<g/ | g/<G/ G2 | B/<G/ G/<F/ F/<A/ | A/<F/ F/<E/ E/<G/ | G/<E/ E/<D/ D/<F/ | %62
+ F/<D,/ D,2 |] %63
+
+X:4
+T:String Quartet KV. 421 (nr. 15) (4)
+C:W. A. Mozart (1756-1791)
+%%score ( 1 2 )
+L:1/8
+Q:1/4=100
+M:6/8
+I:linebreak $
+K:Dmin
+V:1 treble nm="Viola" snm="Vla"
+V:2 treble 
+V:1
+ z F>E FD>E | F E2 _D D2 | _D =D2 _D=D>E | D _D2 D D2 | E_D>=D EE>D | _D =D2 D D2 | A G2 G F2 | %7
+ G,F,>G, A,F, z | z D>E F D2 | A G2 G G2 | GF>G AA,>G, | F, F3 E2 | C _D2 D D2 | _D =D2 D D2 | %14
+ D C2 C C2 | C C4- C | FF>G A A2 | F F3 E2 | E D4- D- | D2- D/ _D/ =B, D2 | z _B,2 B, B,2 | %21
+ B,B,>_E G =E2- | E D2 D_D>A, | G, G,3 F, z | z F,3 A,2- | A,6 | G, F,3 D2 | EFE D A2- | %28
+ A _D3 B,2 | z A, z A,G, z | CB, z D2 z | G, G,3 F, z | z F,3 A,2- | A, G,4- G, | C C4 C | %35
+ F F3 E z | E E2 E/F/ G2 | G _A2 F _A,2 | _A, =A,2 A, G,2 | C C4 z | z A,F A c2 | A A3 c2 | %42
+ EA,D F A2 | F F3 A z | z B,4- B,- | B,_D z2 =B, z | z =D3 _D2 | G, G,3 F, z | z A,F, D,A,F, | %49
+ D,B,G, E,A,G, | E,A,F, D,FD | A,E_D A,AE | _DB,/ z/ E/ z/ G/ z/ B z | z A,/ z/ =D/ z/ F/ z/ A z | %54
+ z G/ z/ E/ z/ F/ z/ B/ z/ A/ z/ | G/ z/ F/ z/ [F,A,]/ z/ [F,A,]/ z/ [F,A,] z | z A,F, D,A,F, | %57
+ D,B,G, E,GE | CFC A,CA, | F,CA, F,CG, | E,G,/ z/ B,/ z/ E/ z/ G z | z F,/ z/ =B,/ z/ D/ z/ F z | %62
+ z C4- C- | CC/ z/ C/ z/ C/ z/ C z | z CA, F,CA, | F,A,F, C,A,E, | _D,A,F, =D,A,F, | D,DA, F,_DA, | %68
+ E,B,/ z/ E/ z/ G/ z/ B z | z =B,/ z/ D,/ z/ F,/ z/ B,D | F A4- A- | %71
+ A2 [F,A,]/ z/ [F,A,]/ z/ [F,A,]/ z3/2 | A,A,D z FD | z _D/E/A/A/ A/A/ A2 | %74
+ (3:2:1[GF]E/ (6:5:1z =d z f_A | z E/ z/ E/ z/ E/ z/ =A2 | z2 [B,G] [B,G] z [B,G] | %77
+ [B,G] z [A,F] [A,F] z [A,F] | [A,F] B,3 _D,E, | G, A,4 z | A,A,D z FD | %81
+ z C,/E,/G,/C/ E/G/B/G/E/C/ | B,/G,/A,c z G,d | z F2 [EF]/[GF]/ E2 | z2 _D C z D | %85
+ C z [F,_A,] [F,A,] z [F,A,] | [F,_A,] [F,=A,]2 z C,/C/C/C/ | C/C/ C4 z | %88
+ F,A,C/ z/ E/ z/ F/G/_A/=A/ | B/[=Bd]/ (3:2:2c4 z/ G z | _D,=D,F,/ z/ A,/ z/ D/E/F/_G/ | %91
+ =G/[_AB]/ (3:2:2=A4 z/ E z | z2 G, B, z G, | B, z D, F, z D, | F, F,2 z A,/A/A/A/ | A/A/ G3 F z | %96
+[K:D] z [A,F]4- [A,F]- | [A,F] [A,G]3 [G,E]2- | [G,E] [F,D]3 A,/ z/ A,/ z/ | D/ z/ D3 C z | z6 | %101
+ z6 | z c/A/B/c/ d/c/B/A/G/F/ | E/G/F/D/A,/D/ F/A/F z | F F2 EDC | B,A,A, A,A, z | F/ z/ F2 EDC | %107
+ B,A,E E E2 | z6 | z6 | z c/A/B/c/ d/c/B/A/G/F/ | E/G/F/D/A,/D/ F/A/F z |[K:Dmin] z F>E FD>E | %113
+ F E2 _D D2 | _D =D2 _D=D>E | D _D2 D D2 | E_D>=D EE>D | _D =D2 D D2 | A G2 F D2 | G, G,3 F, z | %120
+ (3:2:1[AA]A/ (12:11:1z2 [AA]/A/A z | (3:2:1[AA]A/ (24:17:1z4 A, z | z6 | z6 | z6 | z [GB]4 z | %126
+ z6 | z _A4- A | d=A z4 | z6 | z6 | (3:2:1[FF]F/ (12:11:1z2 [FF]/F/F z | %132
+ (3:2:1[FF]F/ (24:17:1z4 _A, z | z =A, z2 A, z | z A, z4 | z4 A,2- | A,2 z4 | z3 F,F,G, | %138
+ E,/ z/ _G,4- G,- | G, =G,4- G,- | G,4 _G,2 | E, _G,2 z3 |] %142
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %57
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z D z4 | %75
+ (3:2:2z2 A_d/ (6:5:2z e z2 | x6 | x6 | x6 | z G,3 F, z | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %88
+ x6 | z7/2 [_BA]/ z2 | x6 | z7/2 [GF]/ z2 | x6 | x6 | x6 | x6 |[K:D] x6 | x6 | x6 | x6 | x6 | x6 | %102
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[K:Dmin] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %120
+ z A z4 | z A3 z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z F z4 | z F3 z2 | x6 | x6 | x6 | %136
+ x6 | x6 | x6 | x6 | x6 | x6 |] %142

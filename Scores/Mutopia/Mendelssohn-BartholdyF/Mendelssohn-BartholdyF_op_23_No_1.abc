@@ -1,0 +1,256 @@
+% Aus tiefer Not schrei’ ich zu dir: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2121
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Aus tiefer Not schrei’ ich zu dir (1)
+C:Felix Mendelssohn Bartholdy (1809-1847)
+%%score 1 2 3 4
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Ab
+V:1 bass nm="basOneVoice"
+V:2 treble nm="sopOneVoice"
+V:3 treble nm="alt" snm="A"
+V:4 bass nm="tenOneVoice"
+V:1
+ x F,, F, A,, | B,, C, F,/E,/ D, | C, F, B, E, | B,, D, C,/B,,/ C, | F, F,, F, =E, | %5
+ F, C, D,/C,/ D, | C, F, B, E, | B,, D, C,/B,,/ C, | F, E,/D,/ C, B,, | F, _G, E, F,/E,/ | %10
+ D, B,, F, B,/A,/ | G, F, C,/D,/ E, | A,, F, B,, C, | D, C,/B,,/ C,2 | F,, x3 |] %15
+V:2
+ x c F c | d c/B/ A B | c c d e | d B A G | F c F c | d c/B/ A B | c c d e | d B A G | F B A d | %9
+ c B e/d/ c | B d c d | e A c B | A A d c | B F A G | F x3 |] %15
+V:3
+ x A,/B,/ C C | F =E F F | =E F F _G | F F/=E/ F E | C A,/B,/ C C | F =E F G/F/ | =E F F _G | %7
+ F F F =E | F G _E F/G/ | =A B B A | B F/G/ =A G/F/ | E _A A G | E F F =E | F F F =E | C x3 |] %15
+V:4
+ x F,/G,/ A, F, | F, C C F, | G, A, B, B, | B, F, C3/2 B,/ | A, F,/G,/ A, G,/B,/ | %5
+ A, G, F, =E,/F,/ | G, A, B, =B,/=A,/ | _B, F, C3/2 B,/ | A, B, C D | E D C C | F B, C B, | %11
+ B, C/D/ E E/D/ | C C B, G, | F,/G,/ A,/D/ C3/2 B,/ | A, x3 |] %15
+
+X:2
+T:Aus tiefer Not schrei’ ich zu dir (2)
+C:Felix Mendelssohn Bartholdy (1809-1847)
+%%score 1 2 3 4
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="sopTwoVoice"
+V:2 treble nm="alt" snm="A"
+V:3 treble nm="tenTwoVoice"
+V:4 bass nm="basTwoVoice"
+V:1
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | c2 F c | d c/B/ A B | c2 z f | f3 d/e/ | %13
+ f a/g/ f e/=d/ | c =B c z | z G A _B | A F/G/ A2 | G c e =d | c3 _d/e/ | d f/e/ d c | B d c B | %21
+ e z e2 | =d2 _d2 | c/d/ c/d/ e2- | e A d2- | d e/d/ c B | A A c B/A/ | G2 z2 | z c d e | %29
+ d B/c/ d2- | d c/d/ e2- | e _g f e | f e d2- | d c/B/ e A | c2 B2 | A2 z2 | z4 | z B e2- | %38
+ e _g f e | d e f2 | B2 c d | c2 z2 | z4 | z G c2- | c e d c | =B c d2- | d f e d | c d e2- | %48
+ e _g f e | f B e2- | e e d c | B B/c/ d c/B/ | =A2 z2 | z4 | f2 B f | _g f/e/ d e | f B/c/ d2- | %57
+ d c/B/ e2- | e d/c/ d e | d2 c2 | B2 z2 | z4 | c2 F c | d c/B/ A B | c G c B | A F/G/ A =A | %66
+ B B/c/ d =d | e =e f a | g4- | g4- | g f/e/ =d c | =B c/=d/ G2 | z G c2- | c/ z/ c e =d/c/ | %74
+ =B c f e/=d/ | c3 =B | c e/=d/ c2- | c e/=d/ c2- | c e/=d/ c2- | c =B f2- | f e/=d/ g c | c2 =B2 | %82
+ c G c _B | A c f3/2 f/ | =e c/B/ A G | F c f3/2 f/ | =e2 z2 | z4 | z4 | z2 f2 | =e2 _e2 | %91
+ =d2 _d2 | c2 C z | c2 F c | d c/B/ A B | c2 z c | f d B2- | B d c B | A2 G2 | F2 z2 | z4 | %101
+ z G c B/A/ | d B d c/B/ | g2 z A | d2 c2 | B2 F2 | A2 G2 | F4 |] %108
+V:2
+ z4 | z4 | z4 | z4 | F2 C F | A G/F/ E F | G2 z =E | F3 =D | E2 z =D | C3 F | F z3 | z c d e | %12
+ d B/c/ d2 | c A/B/ c2- | c G c =d/c/ | =B2 z c | c3 A/_B/ | c B/A/ G F | E3 D/C/ | F G/=A/ B _A | %20
+ G F/G/ A G | A z2 E | F3 G | A2 E A | c B/A/ G A | B2 A G | A G/F/ E F | G2 z c/B/ | =A2 B c | %29
+ B3/2 _A/ G F | E c/B/ A G | A3 _G | F A =G F | E z2 A | A F G2 | z E A2- | A =B _B A | %37
+ G A B c/B/ | =A2 z F | B c d F | B G =E2 | F C F2- | F A G F | =E D C B, | =A,2 B, z | z4 | %46
+ B2 F B | c c/B/ =A B | c B =A c | F2 c B | =A c F E | D2 z _G | F2 z2 | B2 F B | %54
+ =A G/A/ B/d/ c/B/ | =A2 F _G | F F B2- | B =A/B/ c2- | c F d c | B2 =A2 | F2 B, F | _G F/E/ D E | %62
+ F2 z2 | z C F3/2 F/ | =E C/=D/ _E =E | F2 z2 | z F F F | B/A/ G c c/=B/ | c4- | c e =d c | %70
+ =B =d F2- | F z3 | G2 C G | A G/F/ E F | G F A G/F/ | E =D/C/ D2 | C2 z2 | z4 | z4 | z3 A | %80
+ G G G G | G3 F | =E C/=D/ _E =E | F F/G/ A =B | c C c _B | A F/G/ A G/F/ | c2 z2 | z4 | c2 F c | %89
+ d c/B/ A B | c B/A/ G =A | B F =E F | G B A G | F =E F _G | F =E A =G- | G A/B/ c A/G/ | %96
+ F2 z =E/F/ | G B A G | F2 G2 | C2 z2 | z G, G F | =E =D/E/ F C | F F F =E | B2 z F | F2 =E2 | %105
+ F2 F2 | F2 =E2 | C4 |] %108
+V:3
+ z4 | z4 | z C D E | D B,/C/ D2 | C A,/B,/ C2- | C =B, C =D/C/ | =B,2 z2 | z C/=B,/ C2 | %8
+ z G, C =B, | C/D/ C/D/ E D/C/ | B, =E F G/F/ | =E2 z2 | z4 | F2 C F | A G/F/ E F | G2 F =E | %16
+ F C2 C | C3 =B, | C C F2- | F D B, C/D/ | E4 | E, z3 | z4 | z4 | z4 | E2 A, E | F E/D/ C D | %27
+ E B, E2- | E F/E/ D C | D F/E/ D C | B, E/D/ C B, | C E D C | D3 C | B, A,/G,/ A, F | E2 D/C/ D | %35
+ C2 z A, | F2 =D2 | E F G E | C2 F2 | z F, B,2- | B, D C B, | A, G, A, F, | =B,3 B, | C z3 | %44
+ F2 B, F | _G F/E/ D E | F3 B, | E D C2 | C2 F, C | D C/B,/ =A, B, | C B,/=A,/ B, A, | %51
+ B, D/E/ F E/D/ | C C D E | D B,/C/ D2 | C B,/C/ D E/D/ | C2 D C | D2 z D | _G3 E | %58
+ C B,/=A,/ B, _G | F3 E | D2 z2 | z F, B,3/2 B,/ | =A, F,/G,/ _A, =A, | B, C D3/2 D/ | C2 z2 | %65
+ z F, F E | D D/C/ B, B, | =B, C/_B,/ A, F | E4- | E G F E | F =D =B, C | =D =B, C D | G, z3 | z4 | %74
+ z4 | z3 F | F2 z C | F2 z F | C2 z C | F2 z F | =D =B, C E/D/ | =E2 =D2 | C2 z2 | z A, F3/2 F/ | %84
+ G z3 | z A, D3/2 D/ | C2 z2 | z2 F2 | =E2 _E2 | D2 D2 | C3 D/C/ | B,4- | B, D C B, | %93
+ A, B, C D/E/ | D z F2 | =E F/G/ C z | z F, D2- | D G, A, D | C C/=D/ E =E | F F, F _E | %100
+ =D B,/C/ D2 | C2 C F | D F/E/ D G, | C2 z F | F2 =E2 | F2 F2 | F2 =E2 | C4 |] %108
+V:4
+ C2 F, C | D C/B,/ A, B, | C2 z =A, | B,3 G, | A,2 z A, | F, G, A,2 | z G, A, B, | A, F,/G,/ A,2 | %8
+ G, E,/F,/ G,2 | A,2 =A,2 | B, C D2 | C2 B, =A, | B,2 z G, | A,2 z F, | F, G, A,2 | G,2 C2 | %16
+ F,2 z F, | E, F, G,2 | A,2 =A,2 | B, z3 | z B, C D | C A,/B,/ =B,2 | _B, G,/A,/ B,2 | A,2 C A, | %24
+ F, F, B, A, | G, F,/G,/ A, z | z4 | z E, F, _G, | F,3 F, | B, D/C/ B, A, | G, z3 | A,2 D, A, | %32
+ D C B, A, | G, E, C, D, | E, D, E,2 | A,,2 z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %45
+ z F, B,2- | B, D C B, | =A, B, C2- | C z3 | z4 | F,2 B,, F, | _G, F,/E,/ D, E, | F,4- | F,4- | %54
+ F,4- | F, F, B, A, | D2 z B, | E3 C | =A, F, B, E, | F,2 F,,2 | B,, B,,/C,/ D, =D, | %61
+ E, F, _G,3/2 G,/ | F,2 z2 | z4 | z4 | z4 | z B,, B, A, | G, z3 | C2 G, C | E =D/C/ =B, C | %70
+ =D F, A,3/2 A,/ | G, F, E, =D, | E,2 z =E, | F, A, C B,/A,/ | G, A, F, F, | G,2 G,, G, | %76
+ A,2 z F,/G,/ | A,2 z A, | E,2 z E, | =D,2 z =D | =B, G, E, C, | G,2 G,,2 | C,2 z2 | z A, D3/2 D/ | %84
+ C C,/=D,/ E, =E, | F, z3 | C2 C, C | D C/B,/ A, B, | C B, =A, G,/A,/ | B, _A,/G,/ F, G, | %90
+ C,2 F,2 | B,, A, G, F, | =E,2 z C, | F, G, A, =A, | B, C D2 | C B, A, F, | D,3 B,, | =E,2 F, B,, | %98
+ C,2 C B, | =A, F,/G,/ _A, =A, | B, G,/=A,/ B, =B, | C _B, _A, F, | B, D/C/ B, G, | =E,2 z F, | %104
+ B,,2 C,2 | =D,2 B,,2 | C,4 | F,,4 |] %108
+
+X:3
+T:Aus tiefer Not schrei’ ich zu dir (3)
+C:Felix Mendelssohn Bartholdy (1809-1847)
+%%score 1 2 3 4 ( 5 6 ) ( 7 8 )
+L:1/8
+Q:1/4=60
+M:3/8
+I:linebreak $
+K:Ab
+V:1 treble nm="sopThreeVoice"
+V:2 treble nm="altThreeVoice"
+V:3 treble nm="tenThreeVoice"
+V:4 bass nm="basThreeVoice"
+V:5 treble nm="organThreeRightVoice"
+V:6 treble 
+V:7 bass nm="organThreeLeftVoice"
+V:8 bass 
+V:1
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %19
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %38
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z2 A | c2 B | A2 A | %56
+ d2 d/c/ | c2 z | cfe | d2 c | B3 | c z2 | cec | =A2 A | =ABc | d2 z | dcB | ABc | =def | =d3 | %70
+ e2 z | Adc/B/ | c2 z | Bed/c/ | d2 z | dcB | f3- | fce | d2 c | B z e | d2 c | B2 A | e3- | e3- | %84
+ edc | def | e2 A | c2 B | A3 | z3 | z3 | z3 | cBA | e3- | e3- | edc | def | e2 A | c2 B | A3- | %100
+ A3- | A3- | A3 | E3 |] %104
+V:2
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %19
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %38
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z2 E | A2 G | A2 C | %56
+ FAG | ACD | EFG | FEA | A G2 | A z2 | AE_G | _GFE | F2 E | D2 z | BAG | FGA- | AGF | FBA | G2 z | %71
+ EFG | A2 z | D _G2- | GFE | F2 =G | =AcB | =A2 c | B2 _A | G2 z | z3 | z2 A | G2 A | B2 c | cB=A | %85
+ B2 _A | G A2 | AED- | DCB, | C2 z | z BA | GcB | A2 z | GBA | G2 B | cB=A | Bcd | G A2 | AED | %99
+ C2 A | G2 F | E2 E | E3 | A3 |] %104
+V:3
+ z3 | A,CB, | A,2 A, | D2 D/C/ | C z C | F2 E | D2 C | B,3 | C2 z | CEC | =A,2 A, | =A,B,C | D2 z | %13
+ DCB, | A,B,C | =DEF | =D3 | E2 z | A,DC/B,/ | C2 z | B,ED/C/ | D2 z | DCB, | F3- | FCE | D2 C | %26
+ B, z E | D2 C | B,2 A, | E3- | E3- | EDC | DEF | G,A,D | C2 B, | A,2 z | A,DC/B,/ | C2 z | %38
+ B,ED/C/ | D2 z | DCB, | F3- | FCE | D2 C | B, z E | D2 C | B,2 A, | E3- | E3- | EDC | DEF | %51
+ E2 A, | C2 B, | A, z C | E2 D | C2 F, | A,2 B, | A,2 B, | CDB, | A,B,C/D/ | E2 D | C z2 | A,CE | %63
+ EDC | F,G,=A, | =B,2 _A, | G, C2 | C3 | B,2 C | B,3- | B,ED | CB,E | A,2 z | B,B,A, | A,3 | D3 | %76
+ CED | C2 C | DEF | B,2 z | z2 E | D2 C | B,2 E | D2 C | F3- | F2 B,- | B,CD | A,2 G, | A,3- | %89
+ A, z2 | z GF | =E2 E | F2 z | B,DC | B, E2 | E2 z | F,2 B,- | B,CE | A,2 G, | A,2 F | E2 D | %101
+ C2 D | DCB, | C3 |] %104
+V:4
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %19
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %38
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z2 A,, | A,2 E, | %55
+ F,2 F, | F,2 E, | A,2 z | A,D,E, | F,G,A, | E,3 | A,,C,E, | A,2 E, | F,3 | E,D,C, | =B,,G,F, | %66
+ =E,2 C, | F,3- | F,E,A,, | B,,3 | E,2 z | z3 | z E,F, | _G,E,A, | D,3 | z3 | F,3- | F,2 =A,, | %78
+ B,,C,D, | E,3- | E,3- | E, z E, | D,2 C, | B,,2 A,, | D,3- | D,3- | D,C,F, | E,3 | A,,2 z | %89
+ A,G,F, | C3- | C3 | F,2 z | E,3- | E,2 D, | C,2 F, | D,C,B,, | D,C,F, | E,3 | A,,3- | A,,3- | %101
+ A,,3- | A,,3 | A,,3 |] %104
+V:5
+ z [A,C][B,D] | [CE]2 [EB] | [CA]2 z | d2 [dG] | [Cce]EA | f2 [eG] | d2 [cA] | B3 | %8
+ [Cce][A,C][B,D] | [CE]2 [E_G]- | [EG][DF][CE] | F2 [=AE] | B=ef | [Bd][Ac][GB] | [FA][GB][Ac] | %15
+ [=dA][eG]f | [F=d] =d2 | [eG]2 z | [AE][dF][cG] | [cA]3 | [BD]ed/c/ | [dF]3- | [dF] z2 | %23
+ [C=A][Ec][DB] | [=AC] z [ce] | [Fd] d [c_A] | [GB] z e | d2 [Ec] | [DB]2 [CA] | [B,G]2 [CA] | %30
+ [BDG]2 c- | [cF] F2 | Bcd | G A2 | c2 [BD] | [AC]2 z | [AE][dF][cG] | [cA]2 z | [BD]ed/c/ | %39
+ [dF]3- | [dF] z2 | [C=A][Ec][DB] | [=AC] z [ceF] | [FBd]2 [_Ac] | [GB] z e | d2 [Ec] | %46
+ [DB]2 [CA] | [B,G]2 [CEA] | [BDG]2 c- | [cF-] F2- | B F3 c d | G A2 | [CAc]2 [DGB] | [CEA]3 |] %54
+V:6
+ x3 | x3 | x3 | z A z | x3 | FA z | FE z | [EA]GD | x3 | x3 | x3 | z =G z | D3 | x3 | x3 | z2 F- | %16
+ z BA | x3 | z2 z/ B/ | x3 | z _G2 | x3 | x3 | x3 | z2 F- | z B z | x3 | x3 | x3 | x3 | z2 [CE] | %31
+ z B=A | F3 | E2 D | CE z | x3 | z2 z/ B/ | x3 | z _G2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %47
+ x3 | z2 [C_G] | z B=A | x6 | E2 D | x3 | x3 |] %54
+V:7
+ A,,2 z | z A,[E,G,] | [F,A,]2 z | F,2 [B,E,] | A,,2 A, | [D,D]2 [E,B,] | [F,A,][G,B,][A,C] | E,3 | %8
+ A,,2 z | z3 | F,,2 F, | E,D,C, | B,3 | G,2 C- | F,3- C3 | [F,B,] B, [CA,] | B,3- | [B,E,] E, D | %18
+ CB,E | A,CE | B,2 A,- | D, A, F, A, | D z2 | F,,3- | F,,2 =A,, | B,,C,D, | E,3 | E,,3- | E,,2 E, | %29
+ D,2 C, | B,,2 A,, | D,3- | D,3 | D,C,F, | A,2 z | A,,C,E, | CB,E- | A, E2 E, F, | B,2 A, | %39
+ A,F,A, | D z2 | F,,3- | F,,2 =A,, | B,,C,D, | E,3 | E,,3- | E,,2 E, | D,2 C, | B,,2 A,, | D,3- | %50
+ D,3- | D,C,F, | E,3 | A,,3 |] %54
+V:8
+ x3 | x3 | x3 | z A, z | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | B,,G,F, | =E,3 | x6 | z E, z | %16
+ z2 B,, | z E z | x3 | x3 | _G,E, z | x4 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %33
+ x3 | E,3 | x3 | A,3 | x5 | _G,E, z | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %51
+ x3 | x3 | x3 |] %54
+
+X:4
+T:Aus tiefer Not schrei’ ich zu dir (4)
+C:Felix Mendelssohn Bartholdy (1809-1847)
+%%score 1 2 3 4
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="sopFourVoice"
+V:2 treble nm="alt" snm="A"
+V:3 treble nm="tenFourVoice"
+V:4 bass nm="basFourVoice"
+V:1
+ z4 | z4 | z4 | z4 | z c2 F- | F c2 d- | d c B A- | A B2 c- | c4 | z4 | z4 | z c2 d- | d e2 d | %13
+ c B2 A- | A G2 F- | F4- | F4 | z4 | z4 | z c2 F- | F c2 d- | d c B A- | A B2 c- | c3 z | z4 | z4 | %26
+ z c2 d- | d e2 d- | d B2 A- | A G2 F- | F4- | F4- | F4 | z4 | z B2 A- | A d2 c- | c B2 e | %37
+ d c2 B- | B4- | B z3 | d d d e- | e A2 c- | c B2 A- | A3 z | z4 | z4 | z4 | z4 | z4 | z A2 d- | %50
+ d c2 B- | B F G A- | A G2 F- | F4- | F4- | F4- | F4- | F4- | F z3 |] %59
+V:2
+ z4 | z4 | =E G F/_E/ F | D B, =D C | F2 =E F | _E/D/ C E D | z4 | C D E/D/ C- | C z3 | z4 | %10
+ D C B, =A, | B, F E D- | D _G2 F | A =G F/=E/ F- | F2 =E z | C F _E D | C/B,/ E D C | _G F2 z | %18
+ A =G2 z | B A G F | A G =E F | =E F G A | C D _E/D/ C | E A _G F | =B _B3 | A/G/ c B =A- | A z3 | %27
+ z c2 B | D/E/ F G A | F2 =E F- | F z B B | =A z B A | B e d/c/ d- | d z A G | A d c/B/ c- | %35
+ c A F _G | F/E/ D B =A | B2 =A B | _G F2 z | _G F3 | D E F B | A/G/ A3 | C D E/D/ C | A, A3 | %44
+ A, A2 z | B A _G F | d/c/ B/A/ =G/G/ c- | c z C F- | F G2 A- | A F2 F- | F =E2 F- | F F2 F- | %52
+ F =E2 F- | F z D D | C2 B, F | E =D C _D | E/D/ C B, E- | E D F B- | B3 =A- | A3 z |] %60
+V:3
+ z4 | z4 | G, B, A,/G,/ F, | A,2 G, A,- | A, G,2 F,- | F, F3 | =E/F/ G E C | A,2 G, A,- | A, z3 | %9
+ C B, A, G, | F, =E,2 F,- | F, z F, B,- | B, C2 D- | D z D C- | C B,2 =A,- | A, z F, B, | %16
+ F,/G,/ =A, B, C- | C z E D- | D z F =E- | E2 =E F | C/=B,/ C _B, A, | B, C2- C/ B,/ | %22
+ A, A, G, A,- | A, z3 | F A,/G,/ A, G,- | G, z3 | _G F E D | C/B,/ =A, A, F | z D2 C- | C3 F,- | %30
+ F, z D D | C z F E | D C B,/=A,/ B,- | B, z D/C/ D | C F E/D/ C- | C z B,2 | =A, B, D C | %37
+ D/E/ F2 z | E D2 z | E D3 | B, C B, B, | C/D/ E C A,- | A,2 G, A,- | A, z F E- | E z F E- | %45
+ E z C D | F2 B, =E- | E z C C- | C C B, A,- | A,3 B,- | B, G,2 F,- | F, D2 C- | C2 B, =A,- | %53
+ A, z B, B, | =A, z B, C- | C z =A, B,- | B, =A, B, A,- | A, B, C D- | D3 C- | C3 z |] %60
+V:4
+ A, A, G,/F,/ =E, | F, _E, D, C,- | C,3 D,- | D, E,2 A, | G,/F,/ C,2 D, | C,/B,,/ =A,, F, B, | %6
+ G, =E, C, F,- | F, _E,2 z | C G, A, =E,- | E, F,2 B,,- | B,, C,2 D, | C,/B,,/ =A,, z2 | %12
+ B, B, =A, B,- | B, z B,, C, | B,, C,2 F,,- | F,, z3 | B,, C, B,, =A,,- | A,, z =A, B,- | %18
+ B, z B, C | D C B, A,/G,/ | F, =E, C, F, | G, A, =E, F,- | F, _E,2 A,,- | A,, C,2 D,- | %24
+ D, =D,2 E,- | E, =E,2 F,- | F, =A,2 B, | z2 F, B, | B,,/C,/ D, E, F, | A,,/B,,/ C,2 F,- | %30
+ F, z B, F,- | F, z D C | B, =A, F, B, | F, B,3 | A, A, G, A, | _G, F, E,/D,/ E, | F, _G,2 z | %37
+ z2 F, B,- | B,2 B,, B,- | B, z B,, B,- | B,2 A, G, | E, C, F, E,- | E, E,2 A,,- | A,, z D C- | %44
+ C z D C- | C z A, D- | D D,2 C,- | C, z C A,- | A, =E,2 F,- | F, D,2 B,,- | B,, C,2 D,- | %51
+ D, B,,2 C, | B,, C,2 F,,- | F,, z B,, F,- | F, D,2 =A,,- | A,, z F, B, | F, E, D, C,- | %57
+ C, B,,2 F,- | F, F,,2 z |] %59
+
+X:5
+T:Aus tiefer Not schrei’ ich zu dir (5)
+C:Felix Mendelssohn Bartholdy (1809-1847)
+%%score 1 2 3 4
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="sopFiveVoice"
+V:2 treble nm="alt" snm="A"
+V:3 bass nm="tenFiveVoice"
+V:4 bass nm="basFiveVoice"
+V:1
+ c2 F c | d c/B/ A B | c c d e | d B A G | F c F c | d c/B/ A B | c c d e | d B A G | F B A d | %9
+ c B e/d/ c | B d c d | e A c B | A A d c | B F A G | F4- | F4 |] %16
+V:2
+ C F/=E/ F A | B A/G/ F F | =E F D A | A F/G/ A/ F =E/ | F C C F | F G C =E/F/ | G =A B _G | %7
+ F D/E/ F3/2 =E/ | F D F F | E/F/ _G G/F/ G/E/ | D F/=G/ A/G/ F | E A A G | E F F =E | F F F _E | %14
+ D2 =A, B,/C/ | D2 C2 |] %16
+V:3
+ A,, C,/B,,/ C, F, | F, =E, F, F,, | G,, =A,, B,, C, | D, D, C,/D,/ B,, | A,, C,/B,,/ A,, =A,, | %5
+ B,, G,,/C,/ C, G,/F,/ | =E, F, F, C, | D, D, D,3/2 B,,/ | A,, _G,, A,, A,, | %9
+ A,, B,, B,, B,,/=A,,/ | B,, B,, C,/B,,/ _A,, | A,, F, E,3/2 D,/ | C, C, B,,/A,,/ G,, | %13
+ F,, D, C,2 | A,, B,, C, B,,/=A,,/ | B,, F,,/G,,/ =A,,2 |] %16
+V:4
+ F, A,/G,/ A, F, | B,, C, D, D, | C, F, B, A,/_G,/ | F, D,/E,/ F,/B,,/ C, | F,, A,/G,/ F, F, | %5
+ B,, =E, F, D | C F, B, B,/=A,/ | B, B,,/C,/ D,/C,/ B,,/C,/ | F, _G, D, F, | A, E, C,/D,/ E,/F,/ | %10
+ B,, B, F, F, | C, D, E,/D,/ E, | A,, F, B,, C, | D, B,, C, A,, | D, B, F, D,/C,/ | B,,2 F,,2 |] %16

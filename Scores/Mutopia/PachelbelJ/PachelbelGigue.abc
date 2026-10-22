@@ -1,0 +1,37 @@
+% Gigue: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2212
+% Licence: Creative Commons Attribution 4.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Gigue
+C:Johann Pachelbel
+%%score 1 2 3 4
+L:1/8
+Q:1/4=135
+M:12/8
+I:linebreak $
+K:D
+V:1 treble nm="vl_i" snm="Vln"
+V:2 treble nm="vl_ii" snm="Vla"
+V:3 treble nm="vl_iii" snm="Vln"
+V:4 bass nm="Harpsichord" snm="Hpschd"
+V:1
+ z12 | z12 | z6 d'2 c' bc'a | gaf efd c3 d2 e | fge dec BAB E3 | E3 z8 z | a2 g fge dec BcA | %7
+ ^GEG AFA BGB cAc | B^GB cAc BGc B3 | cAd c2 B c6 | z12 | z12 | z12 | d2 a f>ef dAd fdf | %14
+ g2 f e2 d cFd c3 | B3 B2 e c>Bc d3 | d2 g e>de f3 a3 | a3 c'ac' d'bd' c'ac' | %18
+ d'bd' c'ac' d'bd' d'2 c' | d'3 d'2 c' d'6 |] %20
+V:2
+ z12 | a2 g fge dec BcA | ^G3 AB=G FGA B2 c | d2 d B3 A3 A2 G | F3 z3 e2 d cdB | ABG FGE DEF EFD | %6
+ CDE Ddc B2 c dec | B^GB cAc GEG AFA | ^GEG AFA GEA A2 G | A3 A2 ^G A6 | A2 e c>Bc AEA cAc | %11
+ d2 e d2 e f2 g a2 A | BeB AdA B2 A BAG | F2 G A3 A3 A3 | B3 c2 B ^A2 B c2 f | ^dcd e3 e2 =a f>ef | %16
+ g2 b a3 a2 =d' c'>bc' | aea ece fdf ece | fdf ece fdf e3 | fdg f2 e f6 |] %20
+V:3
+ d2 c BcA GAF EFD | C3 Ddc BcA GAF | EFD C3 DEF G2 A | B2 A ^G3 A2 =G FGE | DEC B,CA, ^G,3 A,2 B, | %5
+ C3 DEC B,CD B,3 | A,3 A2 G F2 E F3 | B,2 E E3 EB,E E3 | EB,E E3 E3 E3 | E2 F E2 D E6 | z12 | %11
+ D2 A F>EF DA,D FDF | GEG FDF G2 F GFE | D2 E D3 F3 D3 | D3 A2 F F2 B B2 ^A | BFB ^G>FG =A3 A2 d | %16
+ B>AB c>Bc d3 e3 | c3 AA,A AA,A AA,A | AA,A AA,A AA,A AA,A | A2 B A2 G A6 |] %20
+V:4
+ D,3 G,2 F, E,2 D, C,2 B,, | A,,3 D,,3 G,,3 B,,3 | E,3 A,,3 D,3 G,,3 | G,,2 D,, E,,3 A,,3 D,2 G,, | %4
+ D,3 D,3 E,2 B,, A,,3 | A,,3 D,3 G,2 D, ^G,,3 | A,,B,,C, D,3 D,,3 D,,3 | E,,3 E,,3 E,,3 E,,3 | %8
+ E,,3 E,,3 E,,3 E,,3 | A,,3 A,,3 A,,6 | A,,2 ^G,, A,,3 A,,3 A,,3 | D,2 C, D,3 D,3 D,3 | %12
+ G,,3 D,3 G,,2 D, G,,2 A,, | D,2 C, D,3 D,3 D,3 | G,,3 A,,2 B,, F,,3 F,,3 | B,,3 E,3 A,,3 D,3 | %16
+ G,,3 A,,3 D,3 A,,3 | A,,3 A,,3 A,,3 A,,3 | A,,3 A,,3 A,,3 A,,3 | D,,3 D,,3 D,,6 |] %20

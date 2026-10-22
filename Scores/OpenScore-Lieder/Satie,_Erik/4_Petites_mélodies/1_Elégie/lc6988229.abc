@@ -1,0 +1,38 @@
+X:1
+T:4 Petites mélodies
+T:Elégies
+C:Erik Satie
+Z:Alphonse de Lamartine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | 4 }
+L:1/4
+Q:1/4=52
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Chant\nVoice "
+L:1/8
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:1
+"^Déclamé" z!p! F E!<(! F A d!<)! | c2 c _B!>(! G2 | A!>)! !courtesy!=B e2 E z | %3
+w: Que me font ces val-|lons, ces pa- lais,|ces chau- mi- ères,|
+!mf! ^F!<(! _B _A2 G!<)! d |!f! ^c!<(! !courtesy!=B A !courtesy!=f!<)! f!>(! e | %5
+w: Vains ob- jets dont pour|moi le charme est en- vo-|
+ !courtesy!=c2-!>)! c z z2 |!p! E2!<(! F F f f!<)! | f2 c _B G2 |!>(! G A =B2!>)! B z | %9
+w: lé? _|Fleu- ves, ro- chers, fo-|rêts, so- li- tu-|– des si chè- res,|
+!f! c E ^F2 E!<(! e |"^ralentir" d!<)! _e f!ff!!<(! g f d!<)! | _d2- d z z2 |] %12
+w: Un seul ê- tre vous|manque et tout est dé- peu-|plé! _|
+V:2
+!p!"^Lent" ([eb]2!<(! [da]!<)! | [fc']2 [gd'] | [e!courtesy!=b]2) z |!mf! (E2 D | %4
+!f!!<(! !courtesy!=F2!<)!!>(! G!>)! |"^ralentir"!mf! E/G/!>(! ^G- _A/!>)!=G/) | %6
+!p!"^reprendre" ([eb]2!<(! [da]!<)! | [fc']2!>(! [gd']!>)! | [eb]2) z |!f! (E3 |!ff!"^suivre" =F3 | %11
+"_retenir" F)!>(! .!tenuto!F!>)! .!tenuto!F |] %12
+V:3
+ (f2 x | _b2 a | g2) z | [^F,C]2 [G,C] | ([A,^C]2 [!courtesy!=B,_D] | C D/^D/ E) | (f3 | _b2 a | %8
+ g2) x | ([^F,_A,]2!<(! G,!<)! | [=B,_B]3 | [_DA]2) x |] %12
+V:4
+ (A,,3 | _D,2 C, | B,,2) z |[K:bass] ([C,,C,]2 [G,,,G,,] | %4
+ [!courtesy!=F,,,!courtesy!=F,,]2 [=C,,,=C,,]- | [C,,,C,,]2) z |[K:treble] (F3 | _B2 A | G2) z | %9
+[K:bass] ([C,,C,]3 | [!courtesy!=F,,,!courtesy!=F,,]3- | [F,,,F,,]3) |] %12

@@ -1,0 +1,30 @@
+X:1
+T:Ach wie fl&uuml;chtig, ach wie nichtig
+T:Ach wie fl&uuml;chtig, ach wie nichtig
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+L:1/8
+V:1
+ A B c !fermata!c | c d e !fermata!e | e e d c | B3/2 A/ !fermata!A2 | e e f f | e e d !fermata!d | %6
+ d d e e | d d c !fermata!c | c d e d/c/ | B B A !fermata!A || %10
+V:2
+ E E E !fermata!E | E G G !fermata!G | G c- c/ B A/ | A ^G !fermata!E2 | A A A _B | %5
+ _B A/G/ G/E/ !fermata!^F | G G G A | A G/F/ F/D/ !fermata!E | F F E E | %9
+ ^F E/=D/ D/B,/ !fermata!^C || %10
+V:3
+ c B A !fermata!A | A B c !fermata!c | c/d/c/B/ A/B/c/e/ | =f e/d/ !fermata!^c2 | ^c/d/e/c/ d d | %5
+ d ^c d !fermata!A | B/=c/d/B/ c c | c B c !fermata!G | A A B A | A ^G A !fermata!E || %10
+V:4
+ A,2 ^G,2 A,2 !fermata!A,,2 | A,2 =G,2 C2 !fermata!C,2 | CB,A,G, ^F,^G, A,2 | %3
+ D,2 E,2 !fermata!A,,4 | A,,B,,^C,A,, D,=C, _B,,A,, | G,,E,, A,,2 D,2 !fermata!D,,2 | %6
+ G,,A,,B,,G,, C,B,,A,,G,, | F,,D,, G,,2 C,2 !fermata!C,,2 | F,2 E,D, ^G,,^G, A,2 | %9
+ ^D,2 E,2 A,2 !fermata!A,,2 || %10

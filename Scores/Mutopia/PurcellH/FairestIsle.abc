@@ -1,0 +1,35 @@
+% Fairest Isle: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=268
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Fairest Isle
+C:Henry Purcell (1658-1695)
+%%score 1 2 3 4
+L:1/4
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm="soprano:soprano" snm="V"
+V:2 treble nm="alto:alto" snm="V"
+V:3 treble nm="tenor:tenor" snm="V"
+V:4 bass nm="bass:bass" snm="V"
+V:1
+ d f2 | B2 f | g/f/ g/_a/ g | f2 d | d/e/ f c | d/c/ B A | G/A/ B c | A3 | d f2 | B2 f | %10
+ g/f/ g/_a/ g | f2 d | d/e/ f c | d/c/ B A | G/A/ B c | A3 | c A2 | d2 B | e c2 | d2 d | %20
+ d/e/ f/g/ f | =B2 c | c/d/ e c | c3 | f d2 | B2 d | e/d/ c/d/ c | c F F | B/A/ G e | e/d/ c f | %30
+ f/e/ d c/B/ | B3 |] %32
+V:2
+ B A2 | G2 B | B2 B | B/c/ d2 | c2 F | F3/2 =E/ F | G F =E | F3 | B2 A- | A G F | B2 B | %11
+ B/A/ B/c/ B | F2 F | D3/2 E/ F | B,3/2 F/ =E | F3 | F F2 | F2 G | G F2 | F2 F | F2 F | %21
+ D/E/ F/G/ _A | G2 F | E3 | F F2 | G2 A | G2 G | F2 F | F E G | A2 B/A/ | G F E | D3 |] %32
+V:3
+ F F2 | D2 D/C/ | B,2 B,/C/ | D3/2 E/ F | F2 A, | B,2 C/D/ | E F G | C3 | D C2 | B,2 B, | %10
+ B,2 B,/C/ | D3/2 E/ F | C2 A, | B,2 C/D/ | E F C | C3 | A, C2 | B,2 B, | B, A,2 | B,2 B, | %20
+ C2 =B,/C/ | D2 F | E3/2 C/ D | C3 | C B,2 | E D A,/B,/ | C2 B, | A,2 A, | B,2 C | C2 D | B,2 A, | %31
+ B,3 |] %32
+V:4
+ B, F,2 | G,2 D, | E,2 E, | B,2 B, | A,2 F, | B,/A,/ G, F, | E, D, C, | F,3 | B, F,2 | G,2 D, | %10
+ E,2 E, | B,2 B, | A,2 F, | B,/A,/ G, F, | E, D, C, | F,3 | F, F,2 | D,2 G, | C, F,2 | B,,2 B, | %20
+ _A,2 A, | G,2 F, | G,2 G,, | C, C B, | A, B,2 | G,2 F, | E,2 =E, | F,2 F,/_E,/ | D, E, C, | %29
+ F,2 D, | E, F, F,, | B,,3 |] %32

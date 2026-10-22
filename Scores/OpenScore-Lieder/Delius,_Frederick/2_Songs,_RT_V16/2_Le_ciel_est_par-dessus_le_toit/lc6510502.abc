@@ -1,0 +1,62 @@
+X:1
+T:2 Songs, RT V/16
+T:Le ciel est par-dessus le toit
+C:Frederick Delius
+Z:Paul Verlaine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=52
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble nm="Chant\n\n          \n          \n          Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:4 treble 
+V:3 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Lento molto tranquillo" z2 z!p! F B3 B | B B c d c d e c | c B z F B B B B | d d _f2 c2 c e | %4
+w: Le ciel est,|par des- sus le toit, Si bleu, si|cal- me! Un ar- bre, par- des-|sus le toit Ber- ce sa|
+ =B B z =G _B B B3/2 B/ | B e _g2 f2- (3f =d d |[M:12/8] B2 E z2 z z6 | z B e A2 d d d B A3 | %8
+w: pal- me. La clo- che, dans le|ciel qu’on voit Dou- * ce- ment|tin- te.|Un oi- seau sur l’ar- bre qu’on voit|
+ d3- d d A A2 A z2 z |!f! (e6- e2 c) B (BF) |!pp! F3- F2 E z z z z2!mf! B |[M:4/4] _c3 F A A B c | %12
+w: Chan- * te sa plain- te,|chan- * * te sa *|plain- * te. Mon|Dieu, mon Dieu, la vie est|
+ d4 (3ed d _c =G | B2 A A/ A/ B _c- (3c B A | e2 A2 _c2- (3c B A | _c3 B z4 |!f! _c2 d2 =d2 d2 | %17
+w: là, Sim- * ple et tran-|quil- le. Cet- te pai- si- * ble ru-|meur- là Vient _ de la|vil- le.|Qu’as- tu fait, ô|
+ =d2 F F F4 | =d2 =c4 A2 | _F3 E z4 | d4 _c2 __B2 | A4 A2 __B _c | G3 G"^ritardando molto" d3 d | %23
+w: toi que voi- là|Pleu- rant sans|ces- se,|Dis, qu’as- tu|fait, toi que voi-|là, De ta jeu-|
+!<(! d4-!<)!!>(! d!>)! G z2 |[M:12/8] z z!pp! D D2 D E3- E D z | z12 | z12 |] %27
+w: nes- * se,|De ta jeu- nes- * se?|||
+V:2
+!pp! (F8 B4 d4 | f6 ed e8) | (f4 b4 e4 b4) | (d4 __b4 c4 a4) | (=B4 =g4 _B4 _g4) | (B4 g4 A4 f4) | %6
+[M:12/8] ([GB]4 [eg]2) ([=Ac]4 [_A_cf]2) ([GB]4 [gb]2)!<(! ([ce]2[df][ea][fb][ad'])!<)! | %7
+!mp! [be']6- [be']2>[e'a']2[_c'f']2 ([gd']4 [_fb]2) ([eg]4 [_ce]2) | (de d4- deabae de d4- de d4) | %9
+!f! (bc' b4- bc'f'=g'f'c' bc' b4- bc' b4) |!pp! (bc' b4- bc'f'_g'f'c' bc' b4- bc' b4) | %11
+[M:4/4]!p! [A,_C=DA]16 | [=G,_D_F=G]16 | [A,_CEA]16 | [G,_CEF]8 [F,A,CE]8 | [B,=D]16 | %16
+!f! ([_C_c]8 [B,B]8) | [=A,F=A]16 | [_A,=D_A]16 |!mf! _D16 |!p! [__B,D_G__B]16 | [A,CGA]16 | %22
+ [G,B,_FG]16 |!p! [__B,G__B]16 | %24
+[M:12/8]!pp! (B4 [Ge]2) ([_CA]4 [_cd]2) ([B,B]4 [=E=G_e]2) ([C_GA]4 !fermata![F=Ad]2) | %25
+ [GB]12[I:staff +1] [G,B,]12 |[I:staff -1] z24 |] %27
+V:3
+ z2"^con Pedale" (E2 D2 B,2 | [E,B,]8) | (B,4 (3FED E2) | (F2 _F2- (3FE=D E2-) | %4
+"_In this trascription we have included only the French lyrics by Paul Verlaine, because the German text by Gerhard Tischer (1877 - 1959) is still under copyright." (E2 =D2- (3D_DC D2-) | %5
+ (D2 C2- (3C_CB, C2) |[M:12/8] (B,2 =B,) (C2 =D) (E>__E_D-) (D_C/A,/F,/E,/) | %7
+ ([G,B,]2[I:staff -1] [GB])[I:staff +1] ([_CE]2[K:treble] [FA]) ([B,D]2 [GB]) ([CE]2 [FA]) | %8
+[K:bass] ([B,D]2[I:staff -1] [GB])[I:staff +1] ([_CE]2[I:staff -1] [FA])[I:staff +1] ([B,D]2[I:staff -1] [GB])[I:staff +1] ([CE]2[I:staff -1] [FA]) | %9
+[I:staff +1] ([=G,E]2[I:staff -1] [EB])!>(! ([CA]2 [EB]) ([B,=G]2 [EB]) ([A,F]2 [=DB])!>)! | %10
+ ([=G,E]2 [DB]) ([_G,E]2 [CB])[I:staff +1] ([F,E]2[I:staff -1] [_CB])[I:staff +1] ([F,=D]2[I:staff -1] [B,A]) | %11
+[M:4/4][I:staff +1] B,, B,,2 B,,2 B,,2 B,,- | B,, B,,2 B,,2 B,,2 B,,- | B,, B,,2 B,,2 B,,2 B,,- | %14
+ B,, B,,2 B,,2 B,,2 B,,- | B,, B,,2 B,,2 B,,2 B,, | [A,,,A,,]8 |{/F,,,-} [F,,,F,,E,]8 | %18
+ [_F,,_C,_F,]8 | [__B,,,E,,__B,,_D,=G,]8 | [E,,,E,,]8 | [__E,,,__E,,]8 | [D,,,D,,]8 | [_C,,G,,]8 | %24
+[M:12/8] _B,3 A,2 F, D,6 | [G,,D,]6 [G,,D,]6 | G,,,2 z z2 z z6 |] %27
+V:4
+ x8 | G8 | B4 B4 | __B4 A4 | =G4 _G4- | G4 F4 |[M:12/8] x12 | x12 | x12 | x12 | x12 |[M:4/4] x8 | %12
+ x8 | x8 | x8 | x8 | [=DF]8 | (=D4 =C4) | x8 | x8 | x8 | x8 | x4"^ritardando molto" x4 | (=D4 E4) | %24
+[M:12/8] (D/E/ D2) (D/E/A/B/A/E/) (D/E/ D2 D/_E/ DE | D/E/ D2- D3) x6 | x12 |] %27
+V:5
+ x4 | x4 | F, D, G,2 | F,4 | F,2 _F,2 | E,2 =D,2 |[M:12/8] E,3 D,3 | D,6[K:treble] |[K:bass] x6 | %9
+ B,,3- B,,3- | B,,3- B,,3 |[M:4/4] B,,,4 | B,,,4- | B,,,4 | B,,,4- | [B,,,F,]4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 |[M:12/8] [G,,D,]3 [G,,D,]3- | x6 | x6 |] %27

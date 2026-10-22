@@ -1,0 +1,105 @@
+X:1
+T:5 Lieder, Op. 3
+T:In der Mondnacht
+C:Clara Faisst
+Z:Anna Ritter
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+M:6/8
+I:linebreak $
+K:E
+V:1 treble nm="Voice\nGesang"
+V:2 treble nm="Piano"
+L:1/16
+V:4 treble 
+V:3 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Leise und ziemlich langsam." z6 | z2 z z!p! E F | G2 G z G G | c3- (c^B) c | c2 F z F F | %5
+w: |In der|Mond- nacht, in der|Früh- * * lings-|mond- nacht ge- hen|
+ G2 A B2 e | e2 d!pp! (fe) c | (d2 c) B z z | F3- (FG) A | B3 ^B2 z | c2 c (ec) G | F2 G (^AB) c | %12
+w: En- gel um auf|lei- sen, lei- * sen|Soh- * len,|blon- * * de|En- gel|in- nig und _ ver-|stoh- len küs- * sen|
+ (dc) B!<(! e3- | (e!<)!d) c f2 c |!>(! e3!>)! d2 z | z2 z z!pp! E E | c2 E z E F | %17
+w: sie _ die schön-|* * sten Men- schen-|blu- men.|In der|Mond- nacht, in der|
+!<(! G2!<)! c!>(! (B2!>)! D) | E3 z2 z | z6 || %20
+w: Früh- lings- mond- *|nacht.||
+[K:C][M:3/4]!mf![Q:1/4=92]"^Andante" e3/2 G/ G G d/ B/ A/ G/ | (c3/2 d/) e z G G | %22
+w: Tau- send- schön- chen, al- ler- lieb- ste|Blu- * me, weiss es|
+ c3/2 E/ E E E G | G2 ^F z G A | B4!<(! B2 | B3 B A G | d2!<)! ^c z z2 | z6 | z6 |!p! E4 E2 | %30
+w: wohl, wo- her der Schim- mer|stam- met, der dir|heut’ das|Ant- litz ü- ber-|flam- met:|||Bist noch|
+ E3 E E E | E4 (E^F) |"^rit." ^F6 ||[K:E][M:6/8] B, z z z!p!"^Tempo I." E F | G2 G z G G | %35
+w: ganz in Traum der|Nacht be- *|fan-|gen. Denkst der|En- gel, die durch’s|
+ c3- (c^B) c | c2 F z2 z |!<(! G2 A B2 e | e2 d!<)! (fe) c |!>(! (d2 c)!>)! B z z | %40
+w: klei- * * ne|Fen- ster|sich auf Mon- des-|strah- len zu _ dir|schwan- * gen|
+!pp! F3- (FG) A | B2 B ^B2 B | c2 c (ec) G | F2 G (^AB) c | c3 B z z | z2 z z!pp! E E | %46
+w: lei- * * se,|lei- se dir zu|küs- sen dir _ zu|küs- sen Mund _ und|Wan- gen.|In der|
+ c2 E z E!<(! F | G2!<)!"^rit." c!>(! (B2!>)! D) | E3 z2 z | z6 |] %50
+w: Mond- nacht, in der|Früh- lings- mond- *|nacht.||
+V:2
+!pp! z2"^r." ([e'g']b"^l." [eg]B"^r." [eg]B"^l." [EG]B,"^r." [EG]B,) | %1
+ z2 ([e'g']b [eg]B [eg]B [EG]B, [EG]B,) | z2 ([e'g']b [eg]B [eg]B [EG]B, [EG]B,) | %3
+ z2"^r." ([e'a']c'"^l." [ea]c"^r." [ea]c"^l." [EA]C"^r." [EA]C) | %4
+ z2 ([f'a']"^r.H."c' [fa]c) z2 ([da]"^r.H."B [DA]B,) | %5
+ z2"^r." ([e'g']b"^r." [eg]B"^r." [be']e"^l." [Be]E"_r."[I:staff +1] [B,E]E,) | %6
+"^r."[I:staff -1] ([c'e']a"^r." [ce]A"^r." [c'e']a!pp!"^r." [c'e']f"^l." [ce]F"^r." [c'e']f) | %7
+ z2"^r." ([bd']f"^l." [Bd]F"^r." [Bd]F"_l."[I:staff +1] [B,D]F,"_r." [B,D]F,) | %8
+[I:staff -1] z2"^r." ([d'f']b"^l." [df]B"^r." [df]B"^l." [DF]B,"^r." [DF]B,) | %9
+ z2"^r." ([e'g']b"^r." [eg]B"^r." [dg]^B"^l." [DG]^B,"^r." [DG]B,) | %10
+ z2 ([e'g']"^r.H."c' [ce]G"^r." [c'e']g"^l." [ce]G"^r." [ce]G) | %11
+ z2 ([c'e']"^r.H."f [ce]F [^Ae]F"_l."[I:staff +1] [^A,E]F,"_r." [A,E]F,) | %12
+[I:staff -1] z2 ([bd']"^r.H."f [Bd]F)!<(! z2"^r." ([be']e"^l." [Be]E) | %13
+ z2"^r." ([c'e']a!<)!"^l." [ce]A"^r." [ce]F"_l." [CE][I:staff +1]F,"_r." [CE]F,) | %14
+[I:staff -1] z2"^r."!>(! ([be']f"^l." [Be]F [bd']"^r.H."f [Bd]F [B,D]F,)!>)! | %15
+ z2"^r."!ppp! ([ge']e"^l." [Ge]E)"^r." ([g=d'e']e"^l." [G=de]E)"^r." ([gd'e']e) | %16
+ z2"^r." ([ac'e']e"^l." [Ac]E"^r." [Ac]E"_l."[I:staff +1] [A,C]E,"_r." [A,C]E,) | %17
+!<(![I:staff -1] ([gbe']e[gbd']e[gc']e!<)!!>(! [dfb]B[df]B[dg]B!>)! | %18
+ [Beg]2)"_l."[I:staff +1] ([G,B,]E,)"^r."!>(![I:staff -1] ([GB]E)"_l." ([eg]B)"^r." ([e'g']b"^l." [eg]B)!>)! | %19
+!8va(! [e'g'e'']6!8va)! z4 z2 ||[K:C][M:3/4]!p! !arpeggio![EGe]8 !arpeggio![FGd]4 | %21
+"^dolce" (e2>G2 .G2.G2) (dBAG) | (c2>d2 .[Ee]2.[Ed]2.[Ec]2.[EGB]2) | %23
+ ([DGB]4 [D^FA]2) z2 (.[DG]2.[DFA]2) | (.[GB]2.[GB]2 .[Gd]2.[Gd]2 .[AB^d]2.[ABd]2) | %25
+"_cresc." (.[GBe]2.[GBe]2.[GBe]2.[GBe]2 .[AB^f]2.[GBg]2) | %26
+ (.[Ada]2.[Ada]2 .[A^cg]2.[Ac^g]2.[Aca]2.[Ac=g]2 | %27
+ .[A=cg]2"_dimin.".[Ac^f]2.[Ace]2.[Acd]2.[Acd]2.[Acd]2) |!p! (d2b2a2g2d2d2) | (d2b2a2^g2^f2e2) | %30
+ (e2^c'2b2a2e2e2) |!pp! (e2^c'2b2^a2^g2^f2) |"_rit." (^f2^g2f2^d2d2^c2) ||[K:E][M:6/8] B6 z4 z2 | %34
+!pp! z2"^r." ([e'g']b"^l." [eg]B"^r." [eg]B"^l." [EG]B,"^r." [EG]B,) | %35
+ z2"^r." ([e'a']c'"^l." [ea]c"^r." [ea]c"^l." [EA]C"^r." [EA]C) | %36
+ z2"^r.H." ([f'a']c' [fa]c) z2"^r.H." ([da]B [DA]B,) | %37
+ z2 ([e'g']"^r."b [eg]B"^r." [be']e"^l." [Be]E"_r."[I:staff +1] [B,E]E,) | %38
+[I:staff -1] ([c'e']a [ce]A) ([c'e']a [c'e']f) ([ce]F) ([c'e']f) | %39
+ z2 ([bd']f [Bd]F [Bd]F[I:staff +1] [B,D]F, [B,D]F,) | %40
+[I:staff -1] z2!ppp!"^r." ([d'f']b"^l." [df]B"^r." [df]B"^l." [DF]B,"^r." [DF]B,) | %41
+ z2 ([e'g']b [eg]B [dg]^B [DG]^B, [DG]B,) | %42
+ z2"^r." ([e'g']c'"^l." [ce]G)"^r." ([c'e']g"^l." [ce]G)"^r." ([ce]G) | %43
+ z2 ([c'e']"^r.H."f [ce]F)"^r.H." ([^Ae]F)"_l."[I:staff +1] ([^A,E]F,)"_r." ([A,E]F,) | %44
+[I:staff -1] z2"^r." ([be']f"^l." [Be]F)"^r." ([bd']f"^l." [Bd]F"^r." [B,D]F,) | %45
+ z2!ppp! ([ge']e [Ge]E) ([g=d'e']e [G=de]E) ([gd'e']e) | %46
+ z2 ([ac'e']e"^l." [Ac]E)"^r." ([Ac]E"_l."[I:staff +1] [A,C]E,"_r." [A,C]E,) | %47
+[I:staff -1] ([gbe']e[gbd']e[gc']e [dfb]B[df]B[dg]B | %48
+ [Beg]2)"_l."[I:staff +1] ([G,B,]E,)"^r."!>(![I:staff -1] ([GB]E)"^l." ([eg]B)"^r." ([e'g']b)"^l." ([eg]B)!>)! | %49
+!8va(! [e'g'e'']6!8va)! z4 z2 |] %50
+V:3
+ E,, x x x2 x | E,, x x x2 x | E,, x x x2 x | A,,, x x x2 x | A,, x x B,, x x | E,, x x G,, x x | %6
+ A,, x x ^A,, x x | B,, x x x x x | A,, x x x x x | G,, x x F,, x x | E,, x x C,, x x | %11
+ ^A,, x x F,, x x | B,,2 A,, G,, x2 | A,, x x ^A,, x x | B,, x x x x x | C, x x B,, x x | %16
+ A,, x x x x x | (B,,/E,/G,/B,/E/G/)[I:staff -1] A2 [B,G] |[I:staff +1] [E,B,] x x4 | %19
+[I:staff -1] E3[I:staff +1] z2 z ||[K:C][M:3/4] !arpeggio![C,G,C]4 !arpeggio![C,G,B,]2 | %21
+ [C,G,C]4 [C,G,]2 | [C,G,]2 (.[C,^G,].[C,G,].[C,A,].[^C,=G,]) | (D,>D,, .D,,.D,,) (.B,.A,) | %24
+ (.[G,D].[G,D] .[G,B,].[G,B,] [^F,B,][F,B,]) | [E,B,E][E,B,E][E,B,E][E,B,E] [E,B,^D][E,B,E] | %26
+ [A,E][A,E][A,E][A,E][A,E][A,E] | A,[I:staff -1]DE^E^FD |[I:staff +1] [G,D]4 [^F,A,D]2 | %29
+ [E,B,E]4 [E,D]2 | [A,^C]4 [^G,E]2 | [^F,^CE]4 [F,CE]2 | ^D3[I:staff -1] ^FFE || %33
+[K:E][M:6/8][I:staff +1] B,3 z2 z | E,, x x x2 x | A,,, x x x2 x | A,, x x B,, z x | %37
+ E,, x x G,, x x | A,, x x ^A,, x x | B,, x x x x x | A,, x x x x x | G,, x x F,, x x | %42
+ E,, x x C,, x x | ^A,, x x F,, x x | B,, x x2 x2 | C, x x B,, x x | A,, x x x x x | %47
+ (B,,/E,/G,/B,/E/G/)"^poco rit."[I:staff -1] A2 [B,G] |[I:staff +1] E, x x4 | %49
+[I:staff -1] E3[I:staff +1] z2 z |] %50
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | G x5 | %19
+!8va(! x3!8va)! x3 ||[K:C][M:3/4] x6 | [EG]4 F2 | E2 x4 | x6 | x6 | x6 | x6 | x6 | B4 A2 | %29
+ ^G4 [GB]2 | A4 B2 | ^A4 A2 | =A6- ||[K:E][M:6/8] [DA]3 x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %41
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | [B,G] x5 |!8va(! x3!8va)! x3 |] %50
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 ||[K:C][M:3/4] x3 | x3 | x3 | x3 | x3 | x3 | A,,3 | D,3 | x3 | x3 | x3 | x3 | B,3- || %33
+[K:E][M:6/8] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %50

@@ -1,0 +1,36 @@
+% Goldberg Variations - 2: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=981
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Goldberg Variations - 2
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 ) 3
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="upper" snm="Hpschd"
+V:2 treble 
+V:3 bass nm="lower" snm="Hpschd"
+L:1/8
+V:1
+ B4 e4- | e2dc dcBA | [gG]4 c'4- | [c'f]2[bd]2 bagf | g4- g =fed | [Be-] e3- e dcB | %6
+ [GA-] A3- A cBA | [BG]2fa gfed | [c'G]A[bB]d e4- | ed^ce dcBA | B^deg b4- | [be] e[g^c]2 agfe | %12
+ d4- d =cBA | [FB-] B3- B AGF | [DE-] E3- E GFE | D2 z6 | D4 z4 | A4 a4- | [ad] d3 gf[eB]2 | %19
+ e4 A4- | [A^d] ^d[BF]A GFE^D | e4- e =dcB | [Gc-] c3- c BAG | [EF-] F3- F AGF | [GE]4 B4- | %25
+ E4 B A4- | [AD] D3 G4- | [GC] C3 c4- | [cD] D3 BAGF | B2G2 B2d2 | [=fg] g3 c'4- | %31
+ [c'a] aac' b[ac][gB][^fA] | [gB]4 z4 | [gB]4 z4 |] %34
+V:2
+ x8 | x8 | z6 a2 | z3 a z4 | z dce d2B2- | z AGB A2G2- | z FEG F4 | z g z6 | x8 | x8 | G4 z2 g2 | %11
+ z a z b z4 | z AGB A2F2- | z EDF E2D2- | z ^CB,D C4 | x8 | x8 | z feg fed^c | z gfa z3 ^d | %19
+ G2E2 z2 f2 | z G z6 | EBAc B2G2- | z FEG F2E2- | z ^D^CE D4 | x8 | z AGB z GFE x | z GFA z FED | %27
+ z FEG FEDC | z BAc z4 | d4 =f4- | z ed=f eg^fg | z b2<d2 z3 | x8 | x8 |] %34
+V:3
+ G,F, G,E, | F,E, F,D, | E,D, E,C, | D,D,, D,/C,/B,,/A,,/ | B,,A,, B,,G,, | C,B,, C,A,, | %6
+ D,C, D,D,, | G,,G, B,D | GF GE | FE FD | ED EB, | ^CE/D/ C/B,/A,/G,/ | F,E, F,D, | G,F, G,E, | %14
+ A,G, A,A,, | D,D/C/ D/C/B,/A,/ | D,A,, D,,2 | D^C DA, | B,A, B,G, | C/C,/B,,/D,/ C,/B,,/A,,/C,/ | %20
+ B,,/B,/A,/C/ B,/A,/G,/F,/ | G,F, G,E, | A,G, A,F, | B,^A, B,B,, | E,,/E,/^D,/F,/ E,/=D,/C,/B,,/ | %25
+ C,B,, C,A, | B,,A,, B,,G, | A,,G,, A,,G, | F,/D,/C,/E,/ D,/C,/B,,/A,,/ | %29
+ G,,/G,/=F,/A,/ G,/F,/E,/D,/ | C,/C/B,/D/ C/B,/A,/G,/ | F,/G,/F,/A,/ B,,D, | %32
+ G,,G,/F,/ G,/A,/B,/C/ | G,D, G,,2 |] %34

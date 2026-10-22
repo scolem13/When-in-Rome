@@ -1,0 +1,27 @@
+X:1
+T:Mach's mit mir, Gott, nach deiner G&uuml;t
+T:Mach's mit mir, Gott, nach deiner G&uuml;t
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ E/F/ | G A B B | A G !fermata!F B | c d e d | c2 !fermata!B x :: B x3 | e d/c/ c B | %7
+ A G/F/ !fermata!F B | A G F/G/ A | G F !fermata!E x || %10
+V:2
+ B, | E E E E | E/D/ E !fermata!D F | F ^A B/F/ F/G/ | G ^A !fermata!F x :: G x3 | %6
+ c B- B/=A/- A/G/- | G/F/ E !fermata!D =D | =C B, A,/B,/ C | B,/=E/- E/D/ !fermata!B, x || %10
+V:3
+ G/A/ | B c =d c/B/ | c B !fermata!B ^d | c f B/c/ d/e/ | e/d/ c !fermata!d x :: e x3 | %6
+ g g g/f/ f/d/ | e/B/ B !fermata!B G/F/ | E ^E F F | G/>A/ B/F/ !fermata!G x || %10
+V:4
+ E,, | E, C, G,, C, | F,, G,,/A,,/ !fermata!B,, B, | ^A, G,/F,/ G,/A,/ B, | E, F, !fermata!B,, x :: %5
+ E,/D,/ x3 | C, G,, A,, B,, | C,/D,/ E, !fermata!B,, B,, | =C, ^C, =D, ^D, | %9
+ E, B,, !fermata!E,, x || %10

@@ -1,0 +1,85 @@
+X:1
+T:Liederkreis
+T:In der Fremde (II)
+C:Robert Schumann
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 6 ) }
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:6 bass 
+V:1
+"^Zart, heimlich" z4 z2 z!p! e | e2-e A A2 B2 | c2 c2 z2 z B | B2-B E E2 ^F2 |$ G2 z2 z2 z e | %5
+w: Ich|hör' * die Bäch- lein|rau- schen im|Wal- * de her und|hin, im|
+ e2-e A A2 B2 | c2 c2 z2 z B | B2 E4 E ^F |$ G4 z2 z G |$!<(! G3 G (Ge2)!<)! d | ^c2 e2 z4 | %11
+w: Wal'- * de, in dem|Rau- schen ich|weiss nicht, wo ich|bin. Die|Nach- ti- gal- * len|schla- gen|
+ G2 G G e3 d | ^c4 z2 z c |$ =c3 c d2 c2 | B2 d2 z2[Q:1/4=55] B"^dim." B | %15
+w: hier in der Ein- sam-|keit, als|woll- ten sie was|sa- gen von der|
+[Q:1/4=50] B3[Q:1/4=50] B d3[Q:1/4=50] c | B4 z2 z"_Im""^Im"[Q:1/4=60]!p! e |$ %17
+w: al- ten schö- nen|Zeit! Die|
+"_Tempo""^Tempo" e2-e A A2 B2 | c2 c2 z2 z B | B2-B E E2 ^F2 | G2 z2 z2 z e |$ e2-e A A2 B2 |$ %22
+w: Mon- * des- schim- mer|flie- gen, als|säh' * ich un- ter|mir das|Schloss * im Tha- le|
+ c2 c2 z2 z B | B2 E3/2 E/ E3 ^F | G4 z2 z G | G3 G (Ge2) d |$ ^c2 e2 z2 z G |$ G3 G e3 d | %28
+w: lie- gen, und|ist doch so weit von|hier! Als|müss- te in * dem|Gar- ten voll|Ro- sen weiss und|
+ ^c4 z2 c c | =c3 c d2 c2 | B2 d2 z2 z[Q:1/4=50]"^dim." B |$ B2 B B[Q:1/4=40] d3 c |$ %32
+w: roth mei- ne|Lieb- ste auf mich|war- ten, und|ist doch so lan- ge|
+ B4 z2 z[Q:1/4=50] e | e2-e A[Q:1/4=40] c2 B2 |[Q:1/4=50] d6 z f | %35
+w: todt, und|ist * doch lan- ge|todt, und|
+ e2-e[Q:1/4=50] A[Q:1/4=50]"^dim." c2[Q:1/4=50] B2 |[Q:1/4=30] A4 z4 |$ z8 | z8 |] %39
+w: ist * doch lan- ge|todt.|||
+V:2
+!mf! z!>(! (e{g/}fe fdcB)!>)! | z [Ace] z [EA] z [FA] z [^GB] | [Ac]!>(! (B{d/}cB cA=G^F)!>)! | %3
+ z [EGB] z [B,E] z [CE] z [^D^F] |$ [EG]!>(! (E{G/}=FE F=DCB,)!>)! | %5
+ z [Ace] z [EA] z [FA] z [^GB] | [Ac]!>(! (B{d/}cB cA=G^F)!>)! | z [EGB] z [B,E] z [CE] z [^D^F] |$ %8
+ [EG]!>(! (E{G/}=FE F=DCB,)!>)! |$ z!<(! [^CEG] z [CEG] z [DEG] z [DEG]!<)! | %10
+ [^CEG]!<(! (e{a/}g^f ged!<)!^c) | z!<(! [^CEG] z [CEG] z [DEG] z [DEG]!<)! | %12
+ [^CEG]!<(! (e{a/}g^f ged!<)!^c) |$ z!<(! [=C=F] z (.[CF] z .[DF]!<)! z .[CF]) | %14
+ [=B,DF] (d{g/}fe fdc"^dim."B) | z!<(! [B,DF] z (.[B,DF] z .[DF]!<)! z!>(! .[CF]) | %16
+ [=B,DF]!>)! (B{g/}fe f2>e2) |$!p! z [Ace] z [EA] z [FA] z [^GB] | [Ac]!>(! (B{d/}cB ec=G!>)!^F) | %19
+ z [EGB] z [B,E] z [CE] z [^D^F] | [EG]!>(! (E{G/}=FE F=DC!>)!B,) |$ %21
+ z [Ace] z [EA] z [FA] z [^GB] |$ [Ac]!>(! (B{d/}cB ec=G!>)!^F) | z [EGB] z [B,E] z [CE] z [^D^F] | %24
+ [EG]!>(! (E{G/}=FE F=DC!>)!B,) | z!<(! [^CEG] z [CEG] z [DEG] z [DEG]!<)! |$ %26
+ [^CEG]!<(! (e{a/}g^f ged^c)!<)! |$ z!<(! [^CEG] z [CEG] z [DEG] z [DEG]!<)! | %28
+ [^CEG] (e{a/}g^f ged^c) | z!<(! [=C=F] z (.[CF] z .[DF] z .[CF])!<)! | %30
+ [=B,DF] (d{g/}fe fdc"^dim."B) |$ z!<(! [B,DF] z (.[B,DF] z .[DF] z .[CF])!<)! |$ %32
+!>(! [B,DF]!>)! (B{g/}fe f2>e2) | z!<(! [ce] z [FA] z [Ac] z [^GB]!<)! | %34
+ [Ad]!<(! (A{e/}d^c!<)! dA=GF) | z [EA=c] z [A,C]"^dim." z [A,C]2[^G,B,] |[I:staff +1] A,8- |$ %37
+[I:staff -1] [DA-]8 | [^CA]8 |] %39
+V:3
+"m" z (E{G/}FE"m" FDCB,) |"m" A,2"m" C2"m" D2"" E,2 |"m" A, (B,{D/}CB,"m" CA,G,^F,) | %3
+"m" E,2"m" G,2"m" A,2"" B,,2 |$"m" E, (E,{G,/}=F,E,"m" F,D,C,B,,) |"m" A,,2"m" C2"m" D2"" E,2 | %6
+"m" A, (B,{D/}CB,"m" CA,G,^F,) |"m" E,2"m" G,2"m" A,2"" B,,2 |$ %8
+"m" E, (E,{G,/}=F,E,"m" F,D,C,B,,) |$"m" A,,2 A,2"m" _B,2 B,2 |"" A,[K:treble](E{A/}G^F GED^C) | %11
+ A,2 A,2"m" _B,2 B,2 |"" A, (E{A/}G^F GED^C) |$"" (_A,2A,2""_B,2"m"A,2 | %14
+"" G,)[K:treble] (D{G/}FE FDCB,) | (G,2G,2""_B,2"m"_A,2 |"" G,)[K:treble] (B,{G/}FE FDC"m"E) |$ %17
+"m" A,2"m" C2"m" D2[K:bass]"" E,2 |"m" A, (B,{D/}CB, CA,G,^F,) |"m" E,2"m" G,2"m" A,2"" B,,2 | %20
+"m" E, (E,{G,/}=F,E,"m" F,D,C,B,,) |$"m" A,,2"m" C2"m" D2"" E,2 |$"m" A, (B,{D/}CB, CA,G,^F,) | %23
+"m" E,2"m" G,2"m" A,2"" B,,2 |"m" E, (E,{G,/}=F,E,"m" F,D,C,B,,) |"m" A,,2 A,2"m" _B,2 B,2 |$ %26
+"" A,[K:treble] (E{A/}G^F GED^C) |$ A,2 A,2"m" _B,2 B,2 |"" A, (E{A/}G^F GED^C) | %29
+[K:bass]"" (_A,2A,2""_B,2"m"A,2 |"" G,)[K:treble] (D{G/}FE FDCB,) |$ %31
+[K:bass] (G,2G,2""_B,2"m"_A,2 |$"" G,)[K:treble] (B,{G/}FE FDC"m"E) | %33
+"m" A,2"m" D2"" E2[K:bass]"" E,2 |"m" !>![F,D] (A,{E/}D^C DA,G,F,) |"m" =C,2"" F,2"m" D,2"" E,2 | %36
+"m""m" A,,8- |$"m""m" A,8- |"" A,8 |] %39
+V:4
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x B3 fdcB |$ %17
+ x8 | x8 | x8 | x8 |$ x8 |$ x8 | x8 | x8 | x8 |$ x8 |$ x8 | x8 | x8 | x8 |$ x8 |$ x B3 fdcB | x8 | %34
+ x8 | x8 | x8 |$ x8 | x8 |] %39
+V:5
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 |$ x8 | x[K:treble] x7 | x8 | x8 |$ x8 | %14
+ x[K:treble] x7 | x8 | x[K:treble] B,3- B,2z[^G,B,] |$ x6[K:bass] x2 | x8 | x8 | x8 |$ x8 |$ x8 | %23
+ x8 | x8 | x8 |$ x[K:treble] x7 |$ x8 | x8 |[K:bass] x8 | x[K:treble] x7 |$[K:bass] x8 |$ %32
+ x[K:treble] B,3- B,2z[^G,B,] | x6[K:bass] x2 | x8 | x8 | A,,4 [=G,,E,]4 |$ %37
+ [A,,D,]"^dim."!<(! A,,{C,/}_B,,G,,!<)!!>(! (A,,F,,E,,D,,!>)! | [A,,,A,,]8) |] %39
+V:6
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 |$ x8 | x[K:treble] x7 | x8 | x8 |$ x8 | %14
+ x[K:treble] x7 | x8 | x[K:treble] x7 |$ x6[K:bass] x2 | x8 | x8 | x8 |$ x8 |$ x8 | x8 | x8 | x8 |$ %26
+ x[K:treble] x7 |$ x8 | x8 |[K:bass] x8 | x[K:treble] x7 |$[K:bass] x8 |$ x[K:treble] x7 | %33
+ x6[K:bass] x2 | x8 | x8 | x8 |$ F,,4 A,,4 | x8 |] %39

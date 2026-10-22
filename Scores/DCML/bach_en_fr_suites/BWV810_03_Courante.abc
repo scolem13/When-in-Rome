@@ -1,0 +1,52 @@
+X:1
+T:English Suite No. 5
+T:Courante
+C:Johann Sebastian Bach
+%%score { ( 1 3 5 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=170
+M:3/2
+I:linebreak $
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:5 treble 
+L:1/4
+V:2 bass 
+V:4 bass 
+V:1
+ B | B3 c BA(GF E)^D [Ac]2 | B3 g fe^de Pe3 d/e/ |$ x4 e3 x x4 | x4 e3 x x4 | x4 AGFG PG3 F/G/ |$ %6
+ A3 x x4 cB a2 |{c} B3 g x4 cB !wedge!g2 |{B} A3 x BAGF ED !wedge!c2 |$ x3 A GFGA PA3 G/A/ | %10
+ G2 x2 x4 x4 |$ x4 z2 b2 P^c3 B | B6- B4 z ::$ f | f2 x2 x4 x4 | g3 E F^GAB cd-dd |$ %16
+({d} c3) d ede=f PB3 A | A3 x x4 ga-aa | x12 |$ x2 AB/^c/ c4- c3 B/c/ | d8- d3 ^c/d/ | %21
+ e3 f d^cde Pc3 d |$ d2 x2 x4 x4 | x12 | x4 x4 PG3 F |$ F3 x x4 ^cB- B2 |$ PA3 x x4 BA- A2 | %27
+ G3 B ^c^def ga- a2- |$ a3 b g3 f Pf3 e | e6- e4- !fermata!e :| %30
+V:2
+"m" z | E,2 E,,2 z4"m" z4 |"m" z E,F,G,"m" A,B,"m"CB,"m" A,G,"m"F,E, |$ %3
+"" x4"m" x4"m" z2 !wedge!C2 |"m" B,3 z"" z4"m" z2"m" !wedge!=F,2 |"m" z E,A,B, CDED"" CB,""A,G, |$ %6
+"" D2 D,2 z4 z2"" D2 |"" D2 D,2 z4 z2 D2 |"" D2 D,2 z4"" z D,E,F, |$"""m""m""" x12 | %10
+"" x4"m" x4"m" z2 !wedge!G,2 |$"""""m" F,6"m" G,2"" F,4 |"" z2 ^D,2 F,2 B,4 z ::$"" z | %14
+ B,3 B,, ^C,^D,E,F,"m" G,A,-"m" A,2 |"m" x4"" x4"" x2 E,2- |$"m" E,^G, A,2-"m""m" A,4"" E,4 | %17
+"m" A,,2 x2"m""" x4"m""" x4 |"""""""" x12 |$"" A,3 A,, B,,^C,D,E,"" F,G,- G,2 | %20
+""{G,} F,3 B,, ^C,D,E,F, G,A,-"m" A,2- |"" A,F,G,E,"""m" F,3 E,"" PE,3 D, |$ %22
+"" D,3 D"m" CB,A,G,"m" F,G,A,F, |"" B,3 A, G,F,E,^D,"m" E,F,G,E, | %24
+"m" A,B,A,G,"m" F,E""^DB,"m" EB,"m"^C^A, |$"" B,2 B,,2 z4 B,2"" B,2 |$"" B,,2 z4 z2 B,2 x2 | %27
+"" B,2 B,,2-"" B,,B,,^C,^D,"m" E,F,"m"G,A, |$"" B,^C^DB,"m" E2"m" A,2"" B,2 B,,2 | %29
+"m" E,4 B,,2 E,4- E, :| %30
+V:3
+ x | [EG]3 z x6 ^D2 | [EG]3 x9 |$ f2 B2 [GB]3 f Pf3 e/f/ | g2 B2 [E^GB]3 d Pc3 B | c3 B x8 |$ %6
+ F3 a gfed z2 [FAc]2 | G4 fedc z2 [GB]2 | F3 c x6 !wedge!c2 |$ PB3 x5 F4 | x2 B2 Me3 f ge^cd |$ %11
+ egfe d^c- c2 ^A4 | B6 [^DF]4 z ::$ x | [B^d]2 ed ^cBcd efPf3/2e/4f/4 | [Be]3 x5 z2 ^G2 |$ A8 ^G4 | %17
+ [CE]3 B ^cdef z2 [=cd]2 | bc'ba gfed ^cdPd3/2c/4d/4 |$ e2 A2- A8 | A12- | A8 G4 |$ %22
+ [FA]2 f2 a3 b agfe | ^dB^cd efga gfe=d | c3 B AcBA E4 |$ ^D3 a gfe^d z2 g2 |$ %26
+ [^DF]3 g fe^d^c z2 [DF]2 | E4 z4 z2 ^c2 |${e} ^d4 e4 d4 | e6 [GB]4- [GB] :| %30
+V:4
+ x | x12 | x12 |$ B,3 C B,A,G,F, E,^D,- D,2 | E,3 =F, E,D,C,B,, A,,^G,,- G,,2 | A,,2 z2 z4 z4 |$ %6
+ x12 | x12 | x12 |$ G,A,G,F, E,D,E,C, D,2 D,,2 | G,,2 G,A, G,F,E,D, ^C,B,,- B,,2 |$ %11
+ ^A,,2 F,,2 B,,2 E,2 F,2 F,,2 | B,,6- B,,4 z ::$ x | x10 ^D,2 | %15
+ E,F,E,D, C,B,,A,,^G,, F,,E,,- E,,2 |$ A,,3 B,, C,2 D,2 E,2 E,,2 | x2 A,2 G,2 F,2 E,2 F,2 | %18
+ G,3 A, B,A,G,F, E,F,E,D, |$ x8 z2 A,,2- | A,,3 x5 z2 B,,2 | ^C,4 D,2 G,,2 A,,4 |$ D,,3 x9 | x12 | %24
+ x12 |$ x12 |$ x12 | x12 |$ x12 | z2 E,,4- E,,4- !fermata!E,, :| %30
+V:5
+ x/ | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 |$ x6 | x11/2 ::$ x/ | x6 | x6 |$ x6 | %17
+ x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x5 E |$ x5 !wedge!f | x6 |$ x6 | x11/2 :| %30

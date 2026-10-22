@@ -1,0 +1,29 @@
+X:1
+T:Ach Gott, vom Himmel sieh darein
+T:Ach Gott, vom Himmel sieh darein
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ A | B A G d | d/c/ B !fermata!A c | B =A G c | B A !fermata!G x :: G x3 | A F E D/E/ | %7
+ F G !fermata!A F | G/A/ B A B | G ^F !fermata!G G | d B c d | c B A2 | !fermata!A3 x || %13
+V:2
+ ^F | G ^F G B | A G !fermata!^F _A | G ^F ^C D | D2 !fermata!D x :: D x3 | E D ^C D | %7
+ D D !fermata!E D/=C/ | B,/C/ D C D | D/_E/ D !fermata!D D | D D _E =F | _E D ^C/D/D/C/ | %12
+ !fermata!D3 x || %13
+V:3
+ d | d c d g | d d !fermata!d _e | =e d/c/ B A | G ^F/c/ !fermata!B x :: B x3 | A A A A | %7
+ A d !fermata!^c A | G F/G/ A/G/ ^F | G/c/ A !fermata!B B | A G G G | G G G/F/ =E | %12
+ !fermata!^F3 x || %13
+V:4
+ D, | G, A, B, A,/G,/ | ^F, G, !fermata!D, C, | ^C, D, =E, ^F, | G, D, !fermata!G,, x :: G, x3 | %6
+ ^C, D, A,/G,/ F,/E,/ | D,/=C,/ B,, !fermata!A,, D, | _E, D,/=E,/ F,/_E,/ D,/C,/ | %9
+ B,,/C,/ D, !fermata!G,, G, | ^F, G,/=F,/ _E,/D,/ C,/=B,,/ | C, G,, A,,2 | !fermata!D,3 x || %13

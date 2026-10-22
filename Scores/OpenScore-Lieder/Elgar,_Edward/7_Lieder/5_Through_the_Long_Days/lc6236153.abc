@@ -1,0 +1,90 @@
+X:1
+T:7 Lieder
+T:Through the Long Days
+C:Edward Elgar
+Z:John Milton Hay
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/16
+Q:1/8=66
+M:3/8
+I:linebreak $
+K:Ab
+V:1 treble nm="Voice"
+L:1/8
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+L:1/8
+V:1
+"^Poco lento" z3 | z3 |!p! (E F E | E3/2 A/ !breath!A |"^cresc." G A G | G3/2 c/ !breath!c) | %6
+w: ||Through the long|days and years|What will my|lov'd one be,|
+w: ||Ta- ge und|Jah- re geh'n,|Wo wird mein|Lieb wohl sein,|
+!p! !tenuto!e !tenuto!=d !tenuto!=B |!>(! !breath!c3!>)! | (c A G | G3/2 F/ F-) | F2 z | z3 | %12
+w: Part- ed from|me?|Through the long|days and years.|_||
+w: Fremd und al-|lein?|Ta- ge und|Jah- re geh’n.|_||
+"^cresc." (E F3/2 E/ | E3/2 A/ !breath!A) | (G3/2 A/ G | %15
+w: Al- ways as|then she was|Love- li- est,|
+w: Je- dem ein|Glück sie war,|Lieb- lich und|
+"^poco rit."!>(! G3/2!>)!{/e} e/ !breath!e) |!mf! (e c B |!>(! !breath!=A3)!>)! | %18
+w: bright- est, best,|Bless- ing and|blest,|
+w: gut und rein,|Wie Son- nen-|schein.|
+!p!"^poco rit." (B G F | F3/2 E/ E- | E2) z | z3 |!pp!"^molto espress." d!<(! c3/2!<)! B/ | %23
+w: Al- ways as|then she was.|_||Nev- er on|
+w: Je- dem ein|Glück sie war.|_||Nie mehr auf|
+!>(! (d3/2!>)! A/) !breath!G |"^cresc." d _c3/2 (B/ | e3/2 _c/ !breath!B) | %26
+w: earth a- gain|Shall I be-|fore her stand,|
+w: die- ser Welt|Wer- de ich|vor ihr steh'n,|
+!pp! (_c A3/2"^dim." B/ | !breath!B3) |"^cresc." A _c B |"^rit." e2 E | !breath!E3 | %31
+w: Touch lip or|hand|Nev- er on|earth a-|gain.|
+w: In’s Aug’ ihr|seh’n.|Nie mehr auf|die- ser|Welt.|
+!p!"^a tempo" (E F3/2 E/ | E3/2 A/ !breath!A) |"^cresc." (A B A | A3/2 f/ !breath!f) |!f! f c B | %36
+w: But, while my|dar- ling lives,|Peace- ful I|jour- ney on,|Not quite a-|
+w: Wandr’ ich auch|weit von hier,|Lebt doch ihr|Bild al- lein|Im Her- zen|
+!>(! (=A2!>)! !breath!c) |!pp! c"^rit." =A G | G3/2 F/ F- | %39
+w: lone, _|Not while my|dar- ling lives,|
+w: mein. _|Lebt doch ihr|Bild al- lein|
+ !breath!F"^lento"!<(! !tenuto!F !tenuto!F!<)! |!>(! A2!>)! E | E3- | E2 !fermata!z |] %43
+w: _ While my|dar- ling|lives.|_|
+w: _ In dem|Her- zen|mein.|_|
+V:2
+!p! [DF][D-F]!<(![FA][FA]!>(![EG][E-G]!<)!!>)! |!mf! [Ac][Ac]!>(![EA][EA]EE!>)! | %2
+!pp! [CE][CE][DE][DE][B,DE][B,DE] | [CE][CE][CE][CE][CE][CE] | [DE][DE]!<(![D=E][DE][DE]!<)![DE] | %5
+!>(! (G2>F2) F!>)!F |!pp! [_EG][EG][FA][FA][FG][FG] |!<(! [EG][EG][FA][FA][GB]!<)![GB] | %8
+ [Ac][Ac][FA][FA][B,=EG][B,EG] | [B,=EG][B,EG][B,EG][A,F][A,F][A,-F] | %10
+!<(! [DF][DF][FA][FA][_EG]!<)![EG] |!mf!!>(! [Ac][Ac]([Ac][ce])[ce]!>)![ce] | %12
+!p! [ce][ce][=B=d][Bd][_B_d][Bd] | [Ac][Ac][EB][EB][EA][EA] |"_cresc." [=DG][DG][DG][DA][DG][DG] | %15
+ [EG][EG][EG][EG][EG][EG] |!mf!!>(! [EGe][EGe][EGc]!>)![EGc]!p!BB | (=A6 | %18
+!pp! [=GB])[EB][=DG][DG][B,F][B,F] | [B,F][B,F][B,F][B,E][B,E][B,-E] | %20
+"_cresc." [EG][EG][GB][GB][F=A][F-A] |!mf!!>(! [Bd][Bd][Bd][Bd][Bd]!>)![Bd] | %22
+!pp! [df][df][ef][ef][df][df] | [df][df][d_f][df][de][de] | [_fg][fg][eg][eg][dg][dg] | %25
+ [_ca][ca][ca][ea][eg][eg] | [_cea][cea][c_fa][cfa][=da][dab] | %27
+"_dim." [egb][egb][Beg][Beg][Ge][Ge] | [A_c][Ac][Ac][Ac][=DAB][DAB] | %29
+ [EG][E-G]"_rit."[FA][FA][A_c][Ac] |!<(! [GB][GB][A=c][Ac][Bd][Bd]!<)! | %31
+!p!"_a tempo" [Ece][Ece][=D=B=d][DBd][_D_B_d][DBd] | [CAc][CAc][DEB][DEB][CEA][CEA] | %33
+"_cresc." [CEA][CEA][DAB][DAB][EAc][EAc] | [FAd][FAd][_GAe][GAe][FAdf][FAdf] | %35
+!f! [F=Af][FAf][Fc][Fc][=EB][EB] |!>(! [F=A][FA][FA][FA][Fc][Fc]!>)! | %37
+!pp! [Fc][Fc]"_rit."[=E=A][EA][EG][EG] |!>(! [B,=EG][B,EG][B,EG][_A,F][A,F][A,F]!>)! | %39
+"^colla voce" [A,F][A,F]2"_cresc."[DF][FA][FAd] | %40
+!<(! (!tenuto![Fdf]!tenuto![Fdf]!<)!!tenuto![Adfa]!>(!!tenuto![Adfa]!tenuto![Gdeg]!>)!!tenuto![Gdeg]) | %41
+!p! !tenuto![ceac'](.[cea]"_rit.".[Ace]!>(!.[EAc])!>(!([CA]!>)!!>)![DE]) | !fermata![CA]6 |] %43
+V:3
+ x2 D2D2 | [C-E]2C2CC | x6 | x6 | x6 | [CE][CE][CE]CCC | x6 | x6 | x6 | x6 | A,4 D2 | [CE]2 x4 | %12
+ x6 | x6 | x6 | x6 | x4 E2- | EEFF_GG | x6 | x6 | B,4 E2 | [DF]4 x2 | x6 | x6 | x6 | x6 | x6 | x6 | %28
+ x6 | x2 E2 x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %43
+V:4
+ [D,,D,]4 [B,,,B,,]2 |!ped! [A,,,A,,]6- | [A,,,A,,]2!ped-up! z2 z2 | z6 | B,B,B,B,B,B, | %5
+ A,A,A,A,A,A, | G,6 | C6- | C2 z2 [C,,C,]2 | [D,,D,]6 | [D,,D,]4 [B,,,B,,]2 |!ped! [A,,,A,,]6- | %12
+ [A,,,A,,]2!ped-up! z2 z2 | z2 DDCC | =B,B,B,B,B,B, | C4 z2 |!ped! [C,,C,-]4 G,2!ped-up! | %17
+ _G,G,F,F,E,E, | E,G,B,B,A,A, | A,A,A,G,G,G, | [E,,E,]4 [C,,C,]2 |!ped! [B,,,B,,]4 z2!ped-up! | %22
+[I:staff -1] BB[Bc][Bc]BB | BB[AB][AB][GB][GB] |!<(! [Ed][Ed][E_c][Ec][Ec]!<)![EB] | %25
+ [EA]!>(![EA][EA][E=c][EB]!>)![EB] | (A2_F2[I:staff +1]B,2 | E4 E,2) | (=E,2F,2B,,2) | E,6- | E,6 | %31
+ (E,2F,2>E,2 | E,4 A,2) | (A,2G,2_G,2 | F,2E,2D,2) |!ped! z2 [=A,C][A,C][G,C][G,C]!ped-up! | %36
+ [F,C][F,C]CC=A,A, | =A,A,CCB,B, |!pp! [D,,D,]6- | [D,,D,]6 | %40
+!ped! [D,,D,]4!ped-up!!ped! [B,,,B,,]2!ped-up! |!ped! [A,,,A,,]4 z2!ped-up! | %42
+!ped! !fermata![A,,,A,,]6!ped-up! |] %43
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x2 C,- | C,3 | %18
+ B,,3 | E,3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | A,,3- | A,,3 | A,,3- | %34
+ A,,2 D,, |({/C,,} C,3-) | C,3 | C,3 | x3 | x3 | x3 | x3 | x3 |] %43

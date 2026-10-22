@@ -1,0 +1,64 @@
+% Wir Christenleut: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1083
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Wir Christenleut
+C:Johann Sebastian Bach
+%%score ( 1 2 ) ( 3 4 ) 5
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="right" snm="P Org"
+V:2 treble 
+V:3 bass nm="left" snm="P Org"
+V:4 bass 
+L:1/8
+V:5 bass nm="pedal" snm="P Org"
+L:1/8
+V:1
+ G8 B4 A4 | G2 G6 F_EDC B,2DC | B,A,B,2 CB,A,G, C2=B,C D4 | CD_E2 D2GF EDE2 FEDC | %4
+ [B,A]3 A4- A A8 | B2B2 [FB]2 B4 AG F_EF2 | GF_ED _D2D=D [=Ec]4 DEF2 | E2GF EDE2 FED_D =D2_G=G | %8
+ A2D2 _EDCB, G2BA GFG2 | A4 D2F2 [Ac]4 G4- | [GA]2 A6 GF_ED E2GF | _EDE2 FEDC =B,2B,C [Dc]4 | %12
+ d4 d4 c4 B4 | A2A2 A12 | [=G_G]2 =G4 G8- G2 | d8 c4 B4 | A4 d4 c4 B4 | A8 A8 | B4 B4 c4 c4 | %19
+ [d_E]4 d4 c4 B4 | [=EA]3 A13 | G16- | C2 G16 _E D C =B, C2 G,2 C2 C2 D C | %23
+ _B,A,B,2 CB,A,G, A,2AG A4 | G_G =G4 _GE G2=GA BAGF | _E2FE DCD2 EDCB, z4 | %26
+ z2 _EF EDCB, CEGF EDE2 | F_EDC B,2 z6 EDCB, | A,2 z6 F_EDC B,2 z2 | z4 GF_ED E4 D2GF | %30
+ _EDCB, =E7 G _GED_D | =D2=GF _EDE2 FEDC =B,2DC | =B,A,B,2 CB,A,G, C2_ED CB,C2 | G,2C2 =B,12- | %34
+ B,4 z12 |] %35
+V:2
+ x16 | z3 F _EDE2 G8 | _B4 A4 G4 z4 | d8 c4 B4 | z2 B z GFG2 z GF_E D2>c2 | z A z6 c4 c4 | %6
+ d4 d4 z4 B4 | A8 G7 z | d8 c4 B4 | z GF_E d4 z4 B4 | z3 G F_EF2 A8 | _B4 B4 c4 z4 | x16 | %13
+ z3 G z4 G_G =G4 _GE | z3 A BA z F _E2FE DCD2 | _EDCB, z6 EF EDCB, | C_EGF EDE2 FEDC B,2 z2 | %17
+ z4 _EDCB, A,2 z6 | F_EDC B,2 z6 GFED | z4 D2GF _EDCB, =E4- | z3 G _GED_D =D2=GF _EDE2 | %21
+ F_EDC =B,2DC B,A,B,2 CB,A,G, | x32 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | %33
+ x16 | x16 |] %35
+V:3
+ z16 | z2 G,F, _E,D,E,2 F,E,D,C, G,4- | G,6 _G,2 =G,2 z6 | z6 G,F, _E,D,E,2 F,E,D,C, | %4
+ G,8- G,2 _G,2 =G,4 | B,6 A,2 z2 B,A, G,F,G,2 | A,G,F,_E, F,2 A,6 G,4- | %7
+ G,2A,G, F,=E,F,2 G,F,E,D, _D,2=D,E, | F,2G,2 E,2 A,4 B,A, G,_G,=G,2 | B,14 A,2 | %10
+ B,2DC B,A,B,2 CB,A,G, A,4- | A,6 G,8- G,2 | %12
+ G,2_G,2 =G,2[G,D][F,C] [_E,B,][D,A,][E,B,]2 [F,C][E,B,][D,A,][C,G,] | G,14 F,_E, | %14
+ D,C,D,2 _E,D,C,B,, C,2D,C, B,,A,,B,,2 | G,,2B,3 B,A,[G,B,] A,4 G,_G,=G,2- | G,8 G,_G, =G,6- | %17
+ G,4 A,G,_G,2 =G,2B,A, G,_G,=G,2- | G,6 CB, A,G, A,6- | A,2DC B,A, B,8 B,A, | %20
+ G,_G, =G,8 B,A, G,_G,=G,2- | G,14 _G,2 | =G,2=B,2 _G,2=G,2 D,2F,2 _E,2G,F, | %23
+ _E,D,E,2 F,E,D,C, G,8- | G,6 F,_E, D,C,D,2 E,D,C,B,, | C,2D,C, B,,A,,B,,2 G,,2B,3 B,A,[G,B,] | %26
+ A,4 G,_G, =G,8- G,2 | G,_G, =G,8- G,2 A,G,_G,2 | =G,2B,A, G,_G, =G,8 CB, | A,G, A,8 DC B,A,B,2- | %30
+ B,6 B,A, G,_G, =G,6- | G,2B,A, G,_G, =G,8- G,2- | G,6 _G,2 =G,2=B,2 _G,2=G,2 | %33
+ D,2F,2 _E,2G,F, E,D,E,2 F,E,D,C, | D,16 |] %35
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z C2 z4 z | A, z7 | x8 | %15
+ z2 C/ z3/2 C/D/ z3 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z6 C/ z3/2 | C/D/ z7 | x8 | x8 | %29
+ x8 | x8 | x8 | x8 | x8 | x8 |] %35
+V:5
+ z8 | z _E,, B,,,C,, A,,,D,, G,,,B,,, | _G,,,=G,,, D,,,F,,, _E,,,_E,, =B,,,C,, | %3
+ C,,, z2 _E,, _B,,,C,, A,,,D,, | G,,,G,, D,,_E,, C,,F,, B,,,2- | B,,, z4 F,, C,,D,, | %6
+ B,,,_E,, A,,,6 | z7 D,, | A,,,B,,, G,,, _E,,2 G,, D,,E,, | C,,F,, B,,,B,, F,,G,, =E,,A,, | %10
+ A,,,F,, C,,D,, B,,,_E,, C,,E,, | B,,,C,, A,,,D,, G,,,4- | G,,,2 z6 | z8 | z8 | z8 | %16
+ z _E,, B,,,C,, A,,,D,, G,,,D,, | A,,,B,,, G,,,_E,, A,,,E,, B,,,C,, | %18
+ A,,,F,, B,,,F,, C,,D,, B,,,G,, | C,,G,, D,,_E,, C,,G,, _D,,G,, | %20
+ =D,,=E,, _D,,G,, =D,,_E,, B,,,C,, | A,,,D,, G,,,6- | G,,,6 z2 | z8 | z8 | z8 | z4 z _E,, B,,,C,, | %27
+ A,,,D,, G,,,D,, A,,,B,,, G,,,_E,, | A,,,_E,, B,,,C,, A,,,F,, B,,,F,, | %29
+ C,,D,, B,,,G,, C,,G,, D,,_E,, | C,,G,, _D,,G,, =D,,=E,, _D,,G,, | %31
+ =D,,_E,, B,,,C,, A,,,D,, G,,,2- | G,,,8- | G,,,8- | G,,,2 z6 |] %35

@@ -1,0 +1,67 @@
+% Das alte Jahr vergangen ist: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=849
+% Licence: Creative Commons Attribution-ShareAlike 2.5. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Das alte Jahr vergangen ist
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 ( 2 3 ) ( 4 5 ) 6 7 8 9
+L:1/8
+Q:1/4=26
+M:4/4
+I:linebreak $
+K:Amin
+V:1 bass nm="Pan Flute" snm="P Fl"
+V:2 treble nm="Pan Flute" snm="P Fl"
+L:1/16
+V:3 treble 
+L:1/4
+V:4 treble nm="Recorder" snm="Rec"
+L:1/16
+V:5 treble 
+L:1/4
+V:6 treble nm="Pan Flute" snm="P Fl"
+V:7 treble nm="Recorder" snm="Rec"
+V:8 bass nm="Pan Flute" snm="P Fl"
+V:9 treble nm="Recorder" snm="Rec"
+V:1
+ x2 | x4 x A,/G,/ ^F,=F, | E,D, A,A,, D,/x/D,, x2 | x7 A,, | _B,,=B,, C,^C, D,/x/D,, x2 | %5
+ x3 A,, B,,^C, D,^G,, | A,,D, E,E,, A,,2 x2 | x A,, ^G,,=G,, ^F,,=F,, E,,D,, | %8
+ G,,E,, A,,2 D,,A,, _B,,=B,, | C,/x/C,, x3 B,,C,^C, | D,^F,, G,,^G,, A,,2 x2 | x4 x D, ^C,=C, | %12
+ B,,4[Q:1/4=20][Q:1/4=15] E,,2[Q:1/4=5] x2 |] %13
+V:2
+ x12 A3 z | A4 GFEF E4 A2>_B2 | %2
+ A2<G2 (3[_BA]2[GF]2 z/ [GE] (3:2:1F4 [ED] (3:2:2z/ [EF]-(3:2:2[EF][GF]2[AG] (3:2:1z/ | %3
+ A4- A G[FE]F E4 A2>_B2 | G4 (3[_BA]2[GF]2 z/ [GE] F3 z A4 | _B2=B2 c2^c2 d2>e2 A2=cB | %6
+ c2d[fe] c2BA A3 z B2>[cd]2 | c4 BA_B2 A4- AcBA | G2>F2 [E_B][AG][FG]E F3 z G2F[AG] | %9
+ G4 A4 z AGF E_BAG | ^FEDE =F4 E3 z =B2>[cd]2 | c4 BAB2 A4 E2^F[A^G] | %12
+[Q:1/4=20][Q:1/4=15][Q:1/4=5] A^GcB e^d^fA A2G2 x4 |] %13
+V:3
+ x x3 | z4 | z2 z3/4 [EF]/4 z3/4 [_BA]/4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z3 x |] %13
+V:4
+ x12 a3 z | a4 gfef e4 a2>_b2 | %2
+ a2<g2 (3[_ba]2[gf]2 z/ [ge] (3:2:1f4 [ed] (3:2:2z/ [ef]-(3:2:2[ef][gf]2[ag] (3:2:1z/ | %3
+ a4- a g[fe]f e4 a2>_b2 | g4 (3[_ba]2[gf]2 z/ [ge] f3 z a4 | _b2=b2 c'2^c'2 d'2>e'2 a2=c'b | %6
+ c'2d'[f'e'] c'2ba a3 z b2>[c'd']2 | c'4 ba_b2 a4- ac'ba | g2>f2 [e_b][ag][fg]e f3 z g2f[ag] | %9
+ g4 a4 z agf e_bag | ^fede =f4 e3 z =b2>[c'd']2 | c'4 bab2 a4 e2^f[a^g] | %12
+[Q:1/4=20][Q:1/4=15][Q:1/4=5] a^gc'b e'^d'^f'a a2g2 x4 |] %13
+V:5
+ x x3 | z4 | z2 z3/4 [ef]/4 z3/4 [_ba]/4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z3 x |] %13
+V:6
+ x2 | x A, _B,=B, C^C D2 | ^CD/[EF]/ EA,/ x/ A,2 x2 | x A, _B,=B, =C^C DC | D2 E3 D/^C/ D2- | %5
+ DE/F/ EA ^G=G ^F=F | EF ED ^C=C B,2 | A,2 B,^C D/E/D/E/ F2 | x/ F/E/D/ =C/_B,/ A,2 ^C D2 | %9
+ x/ D/=C/_B,/ A,/E/D/C/ =B,/C/D C/D/E | DC _B,=B, C^C D^D | E/=C/ F2 E2 =D E2 | %12
+ ^DE/D/[Q:1/4=20] G/^F/A/D/[Q:1/4=15] E2[Q:1/4=5] x2 |] %13
+V:7
+ x2 | x A _B=B c^c d2 | ^cd/[ef]/ eA/ x/ A2 x2 | x A _B=B =c^c dc | d2 e3 d/^c/ d2- | %5
+ de/f/ ea ^g=g ^f=f | ef ed ^c=c B2 | A2 B^c d/e/d/e/ f2 | x/ f/e/d/ =c/_B/ A2 ^c d2 | %9
+ x/ d/=c/_B/ A/e/d/c/ =B/c/d c/d/e | dc _B=B c^c d^d | e/=c/ f2 e2 =d e2 | %12
+ ^de/d/[Q:1/4=20] g/^f/a/d/[Q:1/4=15] e2[Q:1/4=5] x2 |] %13
+V:8
+ x2 | x7 A, | _B,=B, C^C D2 x2 | x4 x A,/G,/ ^F,=F, | E,D, A,3 D,/E,/ F,^F, | %5
+ G,^G, A,/=G/=F/E/ D/C/B,/_B,/ A,D | C/=B,/ A,2 ^G, A,/x/A, G,=G,- | G,^F, =F,E, A,2- A,/x/A, | %8
+ _B,=B, C^C Dx2D, | ^D,E, F,^F, G,2- G,E, | A,2 =D,2 A,2 x2 | x A, ^G,=G, ^F,=F, G,A, | %12
+ B,7/2[Q:1/4=20] x/[Q:1/4=15] B,2[Q:1/4=5] x2 |] %13
+V:9
+ x2 | x7 A | _B=B c^c d2 x2 | x4 x A/G/ ^F=F | ED A3 D/E/ F^F | G^G A/=g/=f/e/ d/c/B/_B/ Ad | %6
+ c/=B/ A2 ^G A/x/A G=G- | G^F =FE A2- A/x/A | _B=B c^c dx2D | ^DE F^F G2- GE | A2 =D2 A2 x2 | %11
+ x A ^G=G ^F=F GA | B7/2[Q:1/4=20] x/[Q:1/4=15] B2[Q:1/4=5] x2 |] %13

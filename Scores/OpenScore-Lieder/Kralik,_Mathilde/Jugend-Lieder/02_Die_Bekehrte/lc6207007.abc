@@ -1,0 +1,84 @@
+X:1
+T:Jugend-Lieder
+T:Die Bekehrte
+C:Mathilde Kralik
+Z:Johann Wolfgang von Goethe
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 6 7 ) }
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="Singstimme\nVoice"
+L:1/16
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:6 bass 
+V:7 bass 
+L:1/4
+V:1
+"^Getragen" z16 |!mf! G4 G4 A4 A4 | c4 B2A2 G4 G4 | c4 c4 d4 e4 | d4 c2B2 f8 | e4 B4 A4 G4 | %6
+w: |Bei dem Glanz der|A- bend- * rö- te|ging ich still den|Wald ent- * lang,|Da- mon sass und|
+ F6 E2 E4 D4 | G4 G4 G4 F2E2 | D4 C4 !fermata!G6 z2 |!mf! !>!G4 G2 G2 !>!G4 G2 G2 | %10
+w: blies die Flö- te,|dass es von den _|Fel- sen klang,|so la la la la la|
+!<(! GAGA G2!>!c2 GAGA G2!>!d2!<)! | GAGA GAGA GAGA GAGA |!<(! (3G4 c4 e4!<)!!>(! !fermata!g8!>)! | %13
+w: la _ _ _ _ _ la _ _ _ _ _|la _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|_ _ _ _|
+ z16 |!p!!<(! G4 G4!<)! A4 A4 |!>(! c4 (B2A2)!>)! G4 G4 |!p! c4 c4 d4 e4 | d4 c2B2 !>!f8 | %18
+w: |Und er zog mich|zu sich _ nie- der,|Küss- te mich so|hold, so _ süss|
+ e4 B4 A4 G4 | F6 E2 E4 D4 | G4 G4 G4 F2E2 | D4 C4 !fermata!G4 z4 | !>!G4 G2 G2 !>!G4 G2 G2 | %23
+w: und ich sag- te:|bla- se wie- der|und der gu- te _|Jun- ge blies,|so la la la la la|
+ GAGA G2!>!c2 GAGA G2!>!d2 | GAGA!>(! GAGA GAGA GAGA!>)! | %25
+w: la _ _ _ _ _ la _ _ _ _ _|la _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
+!p!!<(! (3G4 c4 e4!<)!!>(! !fermata!g8!>)! |[Q:1/4=135]"^Etwas bewegter." z16 | %27
+w: _ _ _ _||
+!f!!<(! G4 G4 A4 A4!<)! | c4!>(! B2A2 G4 G4!>)! |!<(! c4 c4 d4 e4!<)! | d4 c2B2 f8 | e4 B4 A4 G4 | %32
+w: Mei- ne Ruh ist|nun ver _ lo- ren,|mei- ne Freu- de|floh da- * von,|und ich hör vor|
+ F6 E2 E4 D4 | !>!G4 G4 G4 F2E2 | D4 C4 !fermata!G6 z2 | !>!G4 G2 G2 !>!G4 G2 G2 | %36
+w: mei- nen Oh- ren|im- mer nur den _|al- ten Ton|so la la la la la|
+!<(! GAGA G2!>!c2 GAGA G2!>!d2!<)! | !>!GAG"^string."A GAGA GAGA GAGA | %38
+w: la _ _ _ _ _ la _ _ _ _ _|la. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
+"^rit." (3G4 c4 e4!>(! !fermata!g8-!>)! | g4 z4 z8 |] %40
+w: _ _ _ _||
+V:2
+!mf! z (C[EG]C [EG]C[EG]C) | z (C[EG]C) ([EA]C[EA]C) | ([DA]B,[DA]B, [DG]B,[DG]B,) | %3
+ [CG]A,[CG]A, [CF]A,[CF]A, | z[I:staff +1] (B,,-D,-F,-[I:staff -1] A,B,DF) | E2 D2 C2 B,2 | %6
+ A,2 G,2[K:bass] G,2 F,2 | z F,[G,D]F, z E,[G,C]E, | [F,C]D,[F,C]D,{/D,} [G,^B,]2 !fermata!z2 | %9
+[K:treble] z (.G,.E.G,) (.D.G,.D.G,) | z (.G,.E.G,) (.D.G,.D.G,) | z (.G,.E.G, .E.G,EG,-) | %12
+ !fermata![E,G,E]8 |!p! z (C[EG]C [EG]C[EG]C) | z (C[EG]C [EA]C[EA]C) | %15
+ ([DA]B,[DA]B, [DG]B,[DG]B,) |!p! ([CG]A,[CG]A, [CF]A,[CF]A,) | %17
+ z[I:staff +1] (B,,D,F,[I:staff -1] A,B,DF) | (EB,DB, CE,B,E,) | (A,E,G,E,[K:bass] G,E,F,D,) | %20
+ z (F,[G,D]F,) z (E,[G,C]E,) | [F,C]D,[F,C]D,{/D,} [G,^B,]2 !fermata!z2 | %22
+[K:treble] z (.G,.E.G,) (.D.G,.D.G,) | z (.G,.E.G,) (.D.G,.D.G,) | z (.G,.E.G, .E.G,E-[G,E]-) | %25
+ [E,G,E]8 |!f! z (C[EG]C [EG]C[EG]C) | z (C[EG]C [EA]C[EA]C) | ([DA]B,[DA]B, [DG]B,[DG]B,) | %29
+ ([CG]A,[CG]A, [CF]A,[CF]A,) | z[I:staff +1] (B,,D,F,[I:staff -1] A,B,DF) | (EB,DB, CE,B,E,) | %32
+ (A,E,G,E,[K:bass] G,E,F,D,) | z (F,[G,D]F,) z (E,[G,C]E,) | %34
+"^rit." ([F,C]D,[F,C]D,){/D,} [G,^B,]2 !fermata!z2 |[K:treble] z (.G,.E.G,) (.D.G,.D.G,) | %36
+ z (.G,.E.G,) (.D.G,.D.G,) |!<(! z (.G,.E.G, .E.G,.E-!<)!!>(![G,E]-) | [E,G,E]4!>)! (3G2 c2 e2 | %39
+!8va(! (3g2 c'2 e'2 !fermata!g'4!8va)! |] %40
+V:3
+ [C,,C,]8 | [C,,C,]4 [C,,C,]4 | [B,,,B,,]8 | [A,,,A,,]8 | x4 [B,,D,F,]4 | G,,4 A,,4- | %6
+ A,,2 ^A,,2 B,,4 | ^B,,4 C,4 | A,,4 G,,D,- !fermata![D,G,] z | C,8 | C,8 | C,8- | [C,,G,,C,]8 | %13
+ [C,,C,]8 | C,4 C,4 | B,,8 | A,,8 | x4 x4 | G,,4 A,,4- | A,,2 ^A,,2 B,,4 | ^B,,4 C,4 | %21
+ A,,4 G,,D,- !fermata![D,G,] z | C,8 | C,8 | C,8- | [C,,G,,C,]8 | [C,,C,]8 | C,4 C,4 | B,,8 | %29
+ A,,8 | x4 x4 | G,,4 A,,4- | A,,2 ^A,,2 B,,4 | ^B,,4 C,4 | A,,4 G,,D,- !fermata![D,G,] z | C,8 | %36
+ C,8 | C,8- |!ped! [C,,G,,C,]8- | [C,,G,,C,]8!ped-up! |] %40
+V:4
+ x8 | x8 | x8 | x8 | x4 A,4 | (EB,DB, CE,B,E,) | (A,E,G,E,[K:bass] G,E,F,D,) | x8 | x8 | %9
+[K:treble] x8 | x8 | x6 E2- | x8 | x8 | x8 | x8 | x8 | x4 A,4 | x8 | x4[K:bass] x4 | x8 | x8 | %22
+[K:treble] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 A,4 | x8 | x4[K:bass] x4 | x8 | x8 | %35
+[K:treble] x8 | x8 | x8 | x8 |!8va(! g8!8va)! |] %40
+V:5
+ x8 | x8 | x8 | x8 | x B,,3 x[I:staff -1] B,3 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %15
+ x8 | x8 | x[I:staff +1] B,,3 x[I:staff -1] B,3 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %28
+ x8 | x8 | x[I:staff +1] B,,3 x[I:staff -1] B,3 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %40
+V:6
+ x8 | x8 | x8 | x8 | A,,8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | A,,8 | x8 | %19
+ x8 | x8 | x4 G,,3 x | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | A,,8 | x8 | x8 | x8 | x4 G,,3 x | %35
+ x8 | x8 | x8 | x8 | x8 |] %40
+V:7
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x D, x2 | %18
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x D, x2 | x4 | x4 | x4 | x4 | x4 | %36
+ x4 | x4 | x4 | x4 |] %40

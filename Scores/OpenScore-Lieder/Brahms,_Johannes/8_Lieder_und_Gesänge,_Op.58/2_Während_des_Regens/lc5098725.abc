@@ -1,0 +1,81 @@
+X:1
+T:8 Lieder und Gesänge, Op.58
+T:Während des Regens
+C:Johannes Brahms
+Z:August von Köpisch
+Z:OpenScore  (CC0)
+Z:
+%%score 1 { ( 2 4 ) | 3 }
+L:1/4
+Q:1/4=190
+M:6/4
+I:linebreak $
+K:Db
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/8
+V:4 treble 
+V:3 bass 
+V:1
+"^Lebhaft" z6 | z6 | (F A) d f2 e | (d c) e B2 A ||[M:9/4] (f3- f e) c (d c) e | %5
+w: ||Vol- * ler, dich- ter|tropft _ ums Dach da,|Trop- * * fen sü- * sser|
+ (a3- a e) c (e2 B) | c2 z z3 z3 ||[M:6/4] (F A) d f2 e | (d c) e B2 A || %9
+w: Re- * * gen- güs- *|se;|mei- * nes Lieb- chens|hol- * de Küs- se|
+[M:9/4] (f3- f e) c (d c) e | (a3- a e) c (d{ed} c) B | B2 A z3 z3 | (=A3- A2 =B) A2 z || %13
+w: meh- * * ren sich, * je|mehr, _ _ je mehr * ihr|trop- fet!|Tropft _ _ ihr,|
+[M:6/4] =A2 A =d2 d | ^c2 =e z3 ||[M:9/4] (_B3- B2 =c) =A2 z ||[M:6/4] =A2 A =d2 d | (_e6- | %18
+w: darf ich sie um-|fas- sen,|lasst _ _ ihrs,|will sie mich ent-|las-|
+ e2 =e f _e) c | =d2 d _e2 e | (_g6- | g2 =g a _g e | d3) c z z | (F A) d f2 e | (d c) e B2 A || %25
+w: * * * * sen,|will sie mich ent-|las-||* sen;|Him- * mel, wer- de|nur _ nicht lich- ter,|
+[M:9/4][Q:1/4=195]"^animato" (f3- f g) d (f g) d | (f e) d B3 A z z | (f3- f e) d (f e) d | %28
+w: Trop- * * fen, trop- * fet|im- * mer dich- ter,|im    \-- * * \-   mer, im- * mer|
+ B6 A z z | e6 d z z ||[M:6/4] d6 | A z z z3 | z6 | !fermata!z6 |] %34
+w: dich    \-- \-   ter,|dich- ter,|dich-|ter!|||
+V:2
+ z2!p! z[I:staff +1] .F,[I:staff -1]z[I:staff +1].A,[I:staff -1] z2 z[I:staff +1] .A,[I:staff -1]z[I:staff +1].D | %1
+[I:staff -1] z2 z[I:staff +1] .A,[I:staff -1]z.D z2 z .[A,D]z.[DF] | %2
+ z .[A,D]z.[DF]z.[FA] z!<(! .[GB]z.[Bd]z.[dg]!<)! | z !>![gb]3 z .[ca] z .[Bg]z.fz.[Aa] || %4
+[M:9/4]!p! z .[Ae]z.dz.a z .[Ad]z.cz.a z .[Af]z.ez.a | z .[Fc]z.Bz.f z .[EB]z.Az.e z .[DA]z.=Gz.e | %6
+ z .[CB]z.Az.[_gb] z .[eg]z.[ce]z.[Ac] z .[GA]z.[EG]z.[CE] || %7
+[M:6/4] z .[A,D]z.[DF]z.[FA] z!<(! .[GB]z.[Bd]z!<)!.[dg] | %8
+ z !>![gb]3 z .[ca]!p! z .[Bg]z.fz.[Aa] ||[M:9/4] z .[Ae]z.dz.a z .[Ad]z.cz.a z .[Af]z.ez.a | %10
+ z .[Fc]z.Bz.f z .[EB]z.Az.e z .[DA]z.=Gz.e | z!>(! .[CB]z.=Gz.A z .Gz.Az.G z .Az.Gz!>)!.A | %12
+ [=A,^C=E=A]6- [A,CEA]2 z .[A,C]z.[CE] z .[=DA]z.[A,D]z.[D^F] || %13
+[M:6/4] z .[=D=F=A]z.[=A,D]z.[DF]!<(! z .[F^G=B]z.[DF]z.[FGB]!<)! | %14
+!>(! z .[=E=A^c]z.[^CE]z.^G!>)! z .Az.Gz.A || %15
+[M:9/4] [_B,^C=E_B]6- [B,CEB]2 z .[B,C]z.[CE] z .[=D=A]z.[=A,D]z.[DFA] || %16
+[M:6/4] z .[^C=G=A]z.[=A,C]z.[CG] z .[=DFA]z.[A,D]z.[DF] | %17
+ z .[_EF=A]z.[=A,E]z.[E=G_B] z .[EFc]z.[EF]z.[EBe] |!f! z .[E=Ae] z .[CE]z.[EA] z .[Ac] z2 z2 | %19
+ z .[FB=d]z.[=DF]z.[FBd]!<(! z .[Be]z.[EB]z.[Be] | %20
+ z .[Be_g]z.[GB]z.[__Beg] z .[Aeg]z.[GA]z!<)!.[Gdeg] | %21
+ z!>(! .[Gceg] z .[EG]z.[Gc] z .[ce]z.[eg]z!>)!.[gc'] |!p! z .[ge'g'] z2 z2 z6 | %23
+ z (.D.A,.D.F.A) z!<(! (.B.G.B.d!<)!.g) | z (!>!b.g.B.c.a) z (.g.B.A.f.a) || %25
+[M:9/4] .e.A.d.A.a.A .e.G.d.G.g.G .e.G.d.G.g.G | dFAFfF cEBEeE cEAEeE | BDADdD AD=GDdD BDEDdD | %28
+ _GEBDGE!>(! BCGEBC FDA_CFD | A_CFDAC FDGB,E!>)!D G__B,DB,EG, ||[M:6/4] B,F,A,EDA, GDFBAF | %31
+ eAdgfd bfae'd'a | !arpeggio!.[faf'] z z2 z2!f! !arpeggio!.[Ada] z z2 z2 | !fermata![F,A,D]12 |] %34
+V:3
+ .[D,,A,,] .D, .F, .[D,,A,,] .F, .A, | .[D,,A,,] .F, .A, .[D,,A,,] .F, .A, | %2
+ !arpeggio!.[D,,A,,] .F, .A, !arpeggio!.[D,B,] .D .G |"^stacc." .[D,A,] .E .G .[D,A,] .D .F || %4
+[M:9/4] .[F,,D,] .F, .A, .[A,,E,] .A, .C .[C,E,] .A, .C | %5
+ .[=D,A,] .B, .=D .[E,A,] .C .A, .[E,,B,,] .E, .=G, | .[A,,E,] .A, .C .A ._G .E .C .A, .A,, || %7
+[M:6/4] .[D,,A,,] .D, .F, !arpeggio!.[D,B,] .D .G | .[D,A,] .E .G .[D,A,] .D .F || %9
+[M:9/4] .[F,,D,] .F, .A, .[A,,E,] .A, .C .[C,E,] .A, .C | %10
+ .[=D,A,] .B, .=D .[E,A,] .C .A, .[E,,B,,] .E, .=G, | .[A,,E,] .=G, .A, .G, .A, .G, .A, .G, .A, | %12
+"^dolce" .=G,, .^C, .=E, .G,, .E, .=G, .^F,, .=D, .^F, ||[M:6/4] .=F,, .=D, .=F, .=D,, .=A,, .D, | %14
+ .=A,,, .=A,, .^G, .=A, .G, .A, ||[M:9/4] .=G,, .^C, .=E, .G,, .E, .=G, .=F,, .=D, .=F, || %16
+[M:6/4]!<(! .=E,, .=A,, .=E, .=D,, .A,, .=D, | .C,, .C, .[B,,,B,,] .=A,,, .=A,, .[=G,,,=G,,]!<)! | %18
+ .[F,,,F,,] .[C,E,] .[E,=A,] .[A,C] z z | .[_A,,_B,,] .F, .B, .[_G,,B,,] .G, .B, | %20
+ .E,, .E, .[D,,D,] .C,, .C, .[__B,,,__B,,] | %21
+!f! .[A,,,A,,] .[E,G,] .[G,C][K:treble] .[CE] .[EG] .[Gc] | .[Ae] z z z3 | %23
+[K:bass]!p! .[D,,A,,] .F, .A, !arpeggio!.[D,B,] .D .G | .[D,A,] .E .G .[D,A,] .D .F || %25
+[M:9/4]"^animato  sempre" .[_C,D,] .F, .D .[B,,D,] .G, .B, .[__B,,D,] .G, .__B, | %26
+ [A,,D,] F, A, [=G,,B,,] E, =G, [_G,,C,] E, _G, | %27
+!p! [F,,A,,] D, F, [E,,B,,] D, E, [=G,,,=G,,] B,, E, | [A,,,A,,] E, _G, A,, E, G, [D,,A,,] D, F, | %29
+ [G,,,G,,] D, F, G,, D, E, G,, __B,, D, || %30
+[M:6/4] !arpeggio!.[D,,A,,] .D, .F, !arpeggio!.[A,,F,] .A, .D | %31
+ !arpeggio!.[F,D][K:treble] .F .A !arpeggio!.[DA] .d .f | %32
+ !arpeggio!.[DAd]/ z/ z z[K:bass] !arpeggio!.[F,A,DF]/ z/ z z | !fermata![D,,A,,D,]6 |] %34
+V:4
+ x6 | x6 | x6 | x6 ||[M:9/4] x9 | x9 | x9 ||[M:6/4] x6 | x6 ||[M:9/4] x9 | x9 | x9 | x9 || %13
+[M:6/4] x6 | x6 ||[M:9/4] x9 ||[M:6/4] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x/ b x9/2 || %25
+[M:9/4] x9 | x9 | x9 | x9 | x9 ||[M:6/4] x6 | x6 | x6 | x6 |] %34

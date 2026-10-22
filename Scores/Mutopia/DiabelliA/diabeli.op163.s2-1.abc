@@ -1,0 +1,57 @@
+% Jugendfreuden - Sechs Sonatinen: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1568
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Jugendfreuden - Sechs Sonatinen
+C:DiabelliA
+%%score ( 1 2 3 ) ( 4 5 6 )
+L:1/8
+Q:1/4=60
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm="up"
+V:2 treble 
+L:1/16
+V:3 treble 
+V:4 bass nm="down"
+V:5 bass 
+V:6 bass 
+L:1/4
+V:1
+ [gG,]4 [bB,]3 [c'C] | [d'D]4 z2 [bB,]2 | [c'C]2 [bB,]>[bB,] [aA,] z [d'D] z | %3
+ [bB,] z [gG,] z2 G,F,G, | [G,C]4 [G,B,]2 [G,^A,]2 | [G,B,]4- [G,B,] G,3 | [gG,]4 [gG,]2 g2- | %7
+ [gG,-B,-] [G,B,]3- [G,B,] D, d'2 | d'3 [c'A,] a2 [d'B,]A, | d'3 [bG,] g2 [d'B,]G, | %10
+ d'3 [c'=A,] a2 [d'B,]A, | d'3 [bD] [gB,][gB,][bD][d'=F] | c'/ z/ gbd' c'/ z/ gbd' | %13
+ [c'CE]2 [bD]2 [aC]2 [gB,]2 | a2 a>a d'c'ab | [gG,B,]2 [bB,]>[bB,] [bA,B,^D]2 [bG,B,E]2 | %16
+ b3 [c'F]/B,/ b2 b2 | b3 [c'E]/B,/ b2 b2 | c'3 [bE]/C/ a2 [gF,]/A,/[aE]/A,/ | %19
+ b2 ^D/F/[bD]/F/ c'2 [bE]/G/[^aE]/G/ | b2 ^D/F/[bD]/F/ [=d'E]/G/[c'E]/G/[bE]/G/[^aE]/G/ | %21
+ b2 g>[=aB,] b2 g>[aB,] | [bF,B,^D]2 [bF,B,D]>[bF,B,D] [bF,B,D]2 [bF,B,D]2 | =d'3 c' a2 c'b |] %24
+V:2
+ x16 | x16 | x16 | x16 | x16 | z2 g2b2c'2 d'4 g4 | D4 C4 C2B,2B,2^A,2 | z2 g2b2c'2 d'4 G,2B,2 | %8
+ C2B,2C2 z2 D2C2 z3 d' | B,2^A,2B,2 z2 E2D2 z3 d' | C2B,2C2 z2 D2C2 z3 d' | B,2^A,2B,2 z8 z2 | %12
+ E4 [D=F]4 [CE]4 [DF]4 | z3 d' z3 c' z3 b z3 b | [G,A,^C]8 [F,A,=C]8 | x16 | %16
+ A,B,FB,A,B, z2 A,B,FB,A,B,FB, | G,B,EB,G,B, z2 G,B,EB,E,B,EB, | F,CECF,C z2 F,A,EA, z4 | %19
+ F,B,^DF z4 EGEG z4 | ^DFDF z12 | F^DB,DEB,G, z DB,F,B,EB,G, z | x16 | [F,CD]8 [D,F,C]8 |] %24
+V:3
+ x8 | x8 | x8 | x8 | x8 | z6 B,D | z6 G,2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 |] %24
+V:4
+ [GG,,,G,,]4 [BB,,,B,,]3 [cC,,C,] | [dD,,D,]4 z2 [BB,,,B,,]2 | %2
+ [cC,,C,]2 [BB,,,B,,]>[BB,,,B,,] [AA,,,A,,] z [dD,,D,] z | [BB,,,B,,] z [GG,,,G,,] z4 z | %4
+ [G,,E,]4 [G,,E,]2 [G,,^C,]2 | [G,,D,]6 [GG,,=F,]2 | [GG,,E,]4 [GG,,D,]2 G2- | %7
+ [GG,,-D,-] [G,,D,]3- [G,,D,] z d2 | d3 c [AF,,]2 [dD,,]2 | d3 B [GG,,]2 [dD,,]2 | %10
+ d3 c [AF,,]2 [dD,,]2 | d3 B GGBd | [cG,,,][GG,,][BG,,,][dG,,] [cG,,,][GG,,][BG,,,][dG,,] | %13
+ c2 B2 A2 G2 | A2 [AG,,,]G,, [dG,,,][cG,,][AG,,,][BG,,] | [GG,,,]2 [BG,,G,]2 [BF,,F,]2 [BE,,E,]2 | %16
+ B3 c B2 B2 | B3 c B2 B2 | c3 B A2 [GC,,C,]A/ z/ | B2 B,,B/ z/ c2 [BB,,]^A | %20
+ B2 B,,B/ z/ [dB,,]c[BB,,]^A | B2 [GE,,B,,] z/ =A/ B2 [GE,,B,,] z/ A/ | %22
+ [BB,,,B,,]2 [BF,,]2 [B^D,,]2 [BB,,,]2 | =d3 c A2 cB |] %24
+V:5
+ x8 | x8 | x8 | x8 | x8 | z GB=c d2 z2 | z6 [G,,^C,]2 | z GB=c d2 z2 | D,8 | D,8 | D,8 | %11
+ D,6 [G,,,G,,]2 | x8 | G,,,G,,G,,,G,, G,,,G,,G,,,G,, | G,,,G,, z3/2 A/ z4 | z7/2 B/ z4 | %16
+ [^D,,^D,] z [B,,,B,,] z [D,,D,] z [B,,,B,,] z | [E,,E,] z [B,,,B,,] z [E,,E,] z [G,,,G,,] z | %18
+ [A,,,A,,] z [A,,,A,,] z [C,,C,] z3 | [B,,,B,,] z3 B,, z3 | [B,,,B,,] z7 | %21
+ [B,,,B,,] z3 [B,,,B,,] z3 | z7/2 B/ z4 | A,,,4 D,,4 |] %24
+V:6
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | F,, D,, z7/4 d/4 | G,, D,, z7/4 d/4 | F,, D,, z7/4 d/4 | %11
+ G,, D,, G,, z | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %24

@@ -1,0 +1,95 @@
+X:1
+T:6 Lieder aus Jucunde, Op. 23
+T:An einem lichten Morgen
+C:Clara Schumann
+Z:Hermann Rollett
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/8
+V:5 treble 
+L:1/8
+V:3 bass 
+L:1/16
+V:4 bass 
+V:1
+"^Lebhaft" z4 |: z4 |$ z4 | z4 |$ z4 | z4 |$ z4 |$ z2 z A |$ A3/2 A/ =B B | d2 c c |$ B3/2 B/ d f | %11
+w: |||||||1. An|ei- nem lich- ten|Mor- gen da|klingt es hell im|
+w: |||||||2. Ich|will ja nichts ver-|lan- gen als|lie- gen dir im|
+ f3 z |$ z4 | z2 z!f! A |$ f d c B |$ A2 A =B | c3!<(! d |$ e2!<)! =B2 | c3 z |$ z4 | z4 |$ z4 | %22
+w: Thal:||wach'|auf du lie- be|Blu- me, ich|bin der|Son- nen-|strahl!||||
+w: Schoos,||und|dei- ne Blü- the-|kü- ssen eh'|sie ver-|welkt im|Moos.||||
+ z2 z!p! c |$ c3/2 c/ =B _B | B2 A A |$ e =B c ^G | A3 ^F |$ G A B d | d2 c A |$ B d g f |$ %30
+w: Er-|schlie- sse mit Ver-|trau- en dein|Blü- then- käm- mer-|lein und|lass die hei- sse|Lie- be in's|Hei- lig- thum hin-|
+w: Ich|will ja nichts be-|geh- ren, als|ruh'n an dei- ner|Brust, und|dich da- für ver-|klä- ren mit|son- nen- hel- ler|
+ e3!f! c |$ a f e d |$ d2 c _B |$ f d c A |1$ F3 z :|2 F3 z ||$ z4 |$ z4 |$ z4 |] %39
+w: ein, und|lass die hei- sse|Lie- be in's|Hei- lig- thum hin-|ein.|Lust.||||
+w: Lust, und|dich da- für ver-|klä- ren mit|son- nen- hel- ler||||||
+V:2
+!p! x4 a z [_a=bd'] z |: d3 x d' z !arpeggio![egc'] z |$ x4 f z !arpeggio![egb] z | %3
+ B3 x b z !arpeggio![_e^fa] z |${/A} d3 x d' z !arpeggio![_deg] z |{/G} c3 x c' z [=B,F] z |$ %6
+ A4 G4 |$ x8 |$ x4 [dg=b] z [DG=B] z | z4 !arpeggio![egc'] z [EGc] z |$ x4 f z [fbd'f'] z | %11
+ x4 f z [fac'f'] z |$ (f2 d2 c2 B2 | A3) x a z!mf! !arpeggio![EGA] z |$ x8 |$ %15
+ x4 a z !arpeggio![DG=B] z | x4 c' z"_cresc." !arpeggio![CDAd] z |$ z2 z2 e' z [=B,FG=B] z | %18
+!f! x4 c' z [EGc] z |$ c2 z (3d/-f/-(c'/ [df=b]) z [DF_B] z | %20
+ _B2 z (3c/-e/-(_b/ [cea]) z [CEA] z |$ e2 =B2 c2 d2 | c2 z2 c' z!p! [EAc] z |$ %23
+ z2 z2 =b z [DF_B] z | z2 z2 [cea] z [CEA] z |$ x8 | z2 z2 a z x2 |$ x8 | z2 z2 b z z2 |$ x8 |$ %30
+ x4 c' z!f! [EGce] z |$ x8 |$ x4 c z [_B,F_B] z |$ x8 |$ z4 a z !arpeggio![_a=bd'] z :| %35
+ z4 a z [D_A=B] z |$ =B2 c2 c' z [F_Bd] z |$ x8 |$ x4 z2 z2!pp! |] %39
+V:3
+"" (6:4:6F,,C,F, A,CF (6:4:6F,CF Acf z4[K:treble]"m" !arpeggio![F_A=Bd]2 z2 |: %1
+[K:bass]"" (6:4:6E,,D,G, DEG (6:4:6E,DG deg z4[K:treble]"" !arpeggio![EGc]2 z2 |$ %2
+[K:bass]"" (6:4:6D,,B,,D, F,B,D (6:4:6F,B,D FBd z4[K:treble]"m" !arpeggio![DEGB]2 z2 | %3
+[K:bass]"m" (6:4:6^C,,^C,E, B,^CE (6:4:6C,CE B^ce z4[K:treble]"m" !arpeggio![C_E^FA]2 z2 |$ %4
+[K:bass]"m" (6:4:6=B,,^F,A, D^FA (6:4:6=B,FA d^fa z4[K:treble]"m" !arpeggio![_B,_DEG]2 z2 | %5
+[K:bass]"m" (6:4:6A,,E,G, CEG (6:4:6A,EG ceg z4"" [D,F,G,]2 z2 |$ %6
+[K:bass]"" (6:4:6(C,,C,F, A,CF c2) z2"" (6:4:6(C,,C,E, G,B,C c2) x2 |$ %7
+"" (6:4:6(F,,C,F, A,CF) (6:4:6(F,CF Acf) (6:4:6(afc AFC)"C{" (6:4:6(AFC A,F,C,) |$ %8
+ (6:4:6F,,C,F, A,CF (6:4:6F,CF Acf[K:treble]"" [FG=B]2 z2[K:bass] !arpeggio![F,G,=B,]2 z2 | %9
+"" (6:4:6E,,=B,,G, DEG (6:4:6E,=B,G deg"" [EGc]2 z2[K:bass] !arpeggio![E,G,C]2 z2 |$ %10
+"" (6:4:6(D,,B,,D, F,B,D) (6:4:6(D,B,D FBd) z4[K:treble] !arpeggio![DFBd]2 z2 | %11
+[K:bass]"" (6:4:6(C,,A,,C,F,A,C) (6:4:6(C,A,CFAc) z4[K:treble] !>!c4 |$ %12
+[K:bass]"m" (B,,,/B,,/D,/F,/ G,/D/F/G/) z4"" (6:4:6(C,,C,G, B,EG) z4 | %13
+"" (6:4:6(^C,,^C,E, A,EG) (6:4:6(C,^CE Aeg) z4"C{" !arpeggio![C,E,A,]2 z2 |$ %14
+"m" (5:4:5(D,,/F,,/_A,,/=B,,/D,/ (5:4:5F,/_A,/=B,/D/F/) (5:4:5(D,/F,/A,/B,/D/ (5:4:5F/_A/=B/d/f/)"" (3(E,,C,G, _B,/C/G/_B/) (3(E,CG B/c/g/_b/) |$ %15
+"" (6:4:6F,,C,F, A,CF (6:4:6F,CF Acf z4"" !arpeggio![F,G,=B,]2 z2 | %16
+"" (6:4:6E,,C,G, CEG (6:4:6E,CG ceg z4"" !arpeggio![^F,,D,A,]2 z2 |$ %17
+"" (G,,/D,/F,/G,/ (3=B,FG) (G,/D/F/G/ (3=Bfg)"" z4 !arpeggio![G,,D,F,G,]2 z2 | %18
+"" (6:4:6(C,,G,,E, CEG) (6:4:6(C,G,E ceg) z4"" !arpeggio![E,G,C]2 z2 |$ %19
+"m" (6:4:6(D,,D,F, CDF)[K:treble]"^diminuendo" (3D-F-c- ([D-F-c]2"m" [DF=B]2) z2[K:bass]"" [D,F,_B,]2 z2 | %20
+"" (6:4:6(E,,C,E, _B,CE)[K:treble]"" (3C-E-_B- ([C-E-B]2"m" [CEA]2) z2[K:bass]"m" !arpeggio![E,A,]2 z2 |$ %21
+"" (5:4:5z (E,,E,E^G)"" (5:4:5z (E,EDG)"" (5:4:5z (E,ECG)"" (5:4:5z (E,E=B,G) | %22
+"m" (6:4:6(A,,E,A, CEA) (6:4:6A,EA cea z4"C{" !arpeggio![A,C]2 z2 |$ %23
+"m" (6:4:6(D,F,C DFc)[K:treble] (6:4:6(DFc dfc')"m" =B2 z2[K:bass]"" [D,F,_B,]2 z2 | %24
+"" (6:4:6(E,,C,_B, CE_B) (6:4:6(E,CB ceb)[K:treble]"m" [CEA]2 z2[K:bass]"m" [E,A,]2 z2 |$ %25
+"" (E,,E, ^G,D) (5:4:5(E,E G,DE)"" (5:4:5(E,E A,D^F)"" (5:4:5(E,E =B,D^G) | %26
+"m" (6:4:6(A,,E,A, CEA) (5:4:5(A,EA ce) z4"m" (C,A, _E^F) |$ %27
+"m" (B,,G, DG)"" (5:4:5(A,,^F, CDA)"m" (6:4:6(G,,D,G,!<(! B,DB)"m" (6:4:6(F,,D,G, B,DB)!<)! | %28
+"" (6:4:6(E,,C,G, _B,CG) (6:4:6E,CG Bcg"" z4"" z4 |$ %29
+"m" (6:4:6(G,,D,G, _B,DG)"m" (6:4:6(F,,D,G,!<(! B,DG)"" (6:4:6(E,,C,G, B,CG)"m" (6:4:6(D,,D,G, B,DG)!<)! |$ %30
+"" (6:4:6(C,,C,G, _B,EG) (6:4:6(C,CG Beg) z4"C{" !arpeggio![C,B,C]2 z2 |$ %31
+"" (3(F,,C,F, A,/C/F/A/) (3(F,CF A/c/f/a/)"m" (3(F,,D,F, _A,/=B,/F/_A/)"m" (3(F,DF A/=B/f/_a/) |$ %32
+"" (6:4:6(E,,D,G, =B,DG) (6:4:6(E,DG =Bdg)"" C2 z2"" !arpeggio![D,,F,]2 z2 |$ %33
+"" (6:4:6(C,,C,F, A,CA)"m" (6:4:6(=B,,,=B,,F, _A,D_A)"" (6:4:6(C,,C, B,CF=A)"" (6:4:6(C,C B,CEA) |$ %34
+"" (6:4:6(F,,C,F, A,CF) (6:4:6(F,CF Acf) z4[K:treble]"m" !arpeggio![F_A=Bd]2 z2 :| %35
+[K:bass]"" (6:4:6(F,,C,F, A,CF) (6:4:6(F,CF Acf) z4"m" !arpeggio![F,_A,]2 z2 |$ %36
+[K:bass]"" (6:4:6(E,,D,G, =B,DG)"" (5:4:5E,CG eg z4"" !arpeggio![D,F,_B,D]2 z2 |$ %37
+[K:bass]"m" (^C,/G,/B,/^C/ E/G/B/e/)"m" (=D,/_A,/=B,/D/ F/_A/"^dim."=B/f/)"" (6:4:6(=C,_B,=C FGc)"" (6:4:6(C,B,C EGc) |$ %38
+"" (6:4:6(F,,C,F, A,CF) (3(F,CF A/c/f/a/)[K:treble] f'2 z2 z4 |] %39
+V:4
+ x3[K:treble] x |:[K:bass] x3[K:treble] x |$[K:bass] x3[K:treble] x |[K:bass] x3[K:treble] x |$ %4
+[K:bass] x3[K:treble] x |[K:bass] x4 |$[K:bass] x4 |$ x4 |$ x2[K:treble] x[K:bass] x | %9
+ x3[K:bass] x |$ x3[K:treble] x |[K:bass] x3[K:treble] [CFA]/ z/ |$[K:bass] x4 | x4 |$ x4 |$ x4 | %16
+ x4 |$ x4 | x4 |$ x[K:treble] x2[K:bass] x | x[K:treble] x2[K:bass] x |$ x4 | x4 |$ %23
+ x[K:treble] x2[K:bass] x | x2[K:treble] x[K:bass] x |$ x4 | x4 |$ x4 | x4 |$ x4 |$ x4 |$ x4 |$ %32
+ x4 |$ x4 |$ x3[K:treble] x :|[K:bass] x4 |$[K:bass] x4 |$[K:bass] x4 |$ x2[K:treble] x2 |] %39
+V:5
+ x8 |: x8 |$ x8 | x8 |$ x8 | x8 |$ x8 |$ x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 |$ x8 | x8 |$ %17
+ x8 | x8 |$ x2 x d x4 | x3 c x4 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 |$ x8 |$ x8 |$ %32
+ x8 |$ x8 |$ x8 :| x8 |$ x8 |$ x8 |$ x8 |] %39

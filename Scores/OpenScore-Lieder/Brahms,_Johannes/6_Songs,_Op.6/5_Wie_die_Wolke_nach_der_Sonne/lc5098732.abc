@@ -1,0 +1,91 @@
+X:1
+T:6 Songs, Op.6
+T:Wie die Wolke nach der Sonne
+C:Johannes Brahms
+Z:August Heinrich Hoffmann von Fallersleben
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/4
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:B
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+L:1/8
+V:4 bass 
+V:5 bass 
+V:1
+"^Poco Andante"!p! B3/2 c/ d F | B3/2 c/ d F | B d f d | B c d z |!<(! B B e3/2!<)! e/ | %5
+w: Wie die Wol- ke|nach der Son- ne|voll Ver- lan- gen|irrt und bangt,|und durch- glüht von|
+w: Wie die Son- nen-|blu- me rich- tet|auf die Sonn ihr|An- ge- sicht|und nicht ehr auf|
+ e3/2 d/ d c/ z/ | !>!e3"^dim. e sosten." c | (.=A .E .E .B) |[Q:1/4=92]"^a tempo" ^A2 z2 | z4 |1 %10
+w: Him- mels- won- ne|ster- bend|ihr am Bu- sen|hangt:||
+w: sie ver- zich- tet,|bis ihr|eig- nes Au- ge|bricht:||
+ z4 | z4 :|2 z4 | z4 ||[K:D]!f! B3/2 c/ d F | d3/2 e/ f d | g d c B | B e c z | e3/2 f/ g B | %19
+w: ||||Wie der Aar auf|Wol- ken- pfa- de|seh- nend steigt ins|Him- mels- zelt|und be- rauscht vom|
+w: |||||||||
+ e3/2 f/ g e | (.g .f .^e .=e) |"^dim." !>!^d3 =d |!>(! c2!>)! z2 | z4 || %24
+w: Son- nen- ba- de|blind zur Er- de|nie- der-|fällt:||
+w: |||||
+[K:B][Q:1/4=92]"^a tempo"!p! B3/2 c/ d F | B3/2 c/ d F | B d f d | (.B .c .d) z | %28
+w: So auch  muss ich|schmach- ten,  ban- gen,|spähn und trach- ten,|dich zu sehn,|
+w: ||||
+!<(! B B!<)! e3/2 e/ | e3/2 d/ d c/ z/ | !>!e3"^dim. e sosten." c | =A E E B | %32
+w: will an dei- nen|Bli- cken han- gen|und an|ih- rem Glanz ver-|
+w: ||||
+ ^A z[Q:1/4=92]"^a tempo" e2- | e2 e2 | e3 e | d2 c2 | e4- | e z!p! G2 | !fermata!F4 |] %39
+w: gehn, und|_ an|ih- rem|Glanz ver-|gehn,|_ ver-|gehn.|
+w: |||||||
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x4 | x4 :|2 x4 | x4 ||[K:D] x4 | x4 | x4 | x4 | %18
+ x4 | x4 | x4 | x4 | x4 | x4 ||[K:B] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %36
+ x2 x"^rit."!>(! x | x!>)! x x x/ x/ | x4 |] %39
+V:3
+!p! z (.[DB]z.[Ec]z.[Fd]z.[DF]) | z (.[DB]z.[Ec]z.[Fd]z.[DF]) | %2
+ z!<(! (.[DB]z.[Gd]!<)!z.[FBf]z.[Fd]) | z (.[DB]z.[FAc]) z (.[DFBd]2 .[DFBd]) | %4
+ z (.[Ge]z.[=Af]) z (.[Bg]z.[GB]) | z (.[Gce]z.[df] z .[eg]z.[EG]) | %6
+ z!f! (.[ec'e']z.[=ac']z"_dim. e sosten.".[ea]z.[ce]) | %7
+ z (.[=Ac]z.[EA]z.[B,E]z!arpeggio!.[B,EGB]) |!p! z (!arpeggio!.[EF^Ae]z.[df]z.[eg]z.[FA]) | %9
+ z (.[ce]z.[df]z.[eg]z.[FA]) | z (.[eg]z.[FA] z .[eg]z.[FA]) | z (.[eg] z2 z .[FA]) z2 :| %12
+ z (.[e=g]z.[FA] z .[eg]z.[FA]) | z (.[ef] z2 z .[FA]) z2 || %14
+[K:D] (3z ([Bf]F) (3z ([cf]F) (3z ([df]F) (3z (fF) | %15
+ (3z ([da]A) (3z ([ea]A) (3z ([fa]A) (3z ([da]A) | (3z ([gb]B) (3z ([db]B) (3z ([cb]B) (3z (bB) | %17
+ (3z (bB) (3z (bB) (3z (^a^A) (3z (aA) | (3z ([eb]B) (3z ([fb]B) (3z ([gb]B) (3z (bB) | %19
+ (3z ([e=c']=c) (3z ([fc']c) (3z ([gc']c) (3z ([ec']c) | %20
+ (3z ([gb]B) (3z ([fb]B) (3z ([^eb]B) (3z ([=eb]B) | %21
+"_dim." (3z ([^db]B) (3z ([db]B) (3z ([db]B) (3z ([=db]B) | %22
+ (3z [c^a]^A"_dim. e rit. poco" (3z [ca]A (3z [ca]A (3z [ca]A | %23
+!>(! (3z (fF) (3z (fF) (3z (fF) (3z!>)! (fF) || %24
+[K:B]!p! (3z ([Bf]F) (3z ([cf]F) (3z ([df]F) (3z (fF) | %25
+ (3z ([Bf]F) (3z ([cf]F) (3z ([df]F) (3z (fF) | (3z [Bg]G (3z [dg]G (3z [fb]B (3z [db]B | %27
+ (3z [dgb]B (3z [fac']c (3z [fbd']d (3z [fbd']d | (3z [eb]B (3z [fb]B (3z [gb]B (3z bB | %29
+ (3z [ec']c (3z [fc']c (3z [gc']c (3z c'c | %30
+!f! (3z [c'e']e (3z [=ac']e (3z [ea]c"_dim. e sosten." (3z [ce]=A | %31
+ (3z [=Ac]E (3z [EA]C (3z EB, (3z [EGB]B, | (3z [F^Ae]E z [df] (3z [eg]F (3z AF | %33
+ (3z [ce]F z [df] (3z [eg]F (3z AF | (3z [Be]G z [df] (3z [eg]B (3z BG | %35
+ (3z [ce]F z [df] (3z [eg]F (3z AF | (3z [gb]B (3z [eg]B (3z [Be]G (3z [GB]E | %37
+ (3z [EG]B, (3z [B,E]G,[K:bass]!p! (3z [G,B,]E, (3z [G,B,C]!>(!E, | z2 !fermata![D,F,B,D]6!>)! |] %39
+V:4
+ (.[B,,D,B,] z/ .[E,C]/ .[F,D] .[D,F,]) | (.[B,,D,B,] z/ .[E,C]/ .[F,D] .[D,F,]) | %2
+ (.[G,,D,B,] .[B,D]) (.[D,,B,,D,] .[B,D]) | (.[G,,D,G,] .[F,,F,] .[B,,,B,,]) z | %4
+ (.[E,G,E] z/ .[B,F]/ .[EG] .[G,B,]) | (.[C,G,E] z/ .[DF]/ .[EG] .[E,G,]) | %6
+ (.[=A,,E,=A,][K:treble] .[=Ac] .[EA] .[CE]) |[K:bass] (.[=A,C] .[E,A,] .[E,G,] .[C,,C,]) | %8
+ .[F,,F,] z/ (.[DF]/ .[EG] .[F,A,]) | (.[F,CE] z/ .[DF]/ .[EG] .[F,A,]) | %10
+ (.[EG] .[F,A,] .[EG] .[F,A,]) | (.[EG] z .[F,A,]) z :| (.[E=G] .[F,A,] .[EG] .[F,A,]) | %13
+ (.[EF] z .[F,A,]) z ||[K:D] [B,,D,B,] z/ [F,C]/ [B,D] [D,F,] | %15
+ !arpeggio![A,,F,D] z/ [A,E]/ [DF] [F,D] | !arpeggio![G,,D,B,] [B,D] [A,C] [G,B,] | %17
+ [E,G,]2 [F,^A,] z | [E,G,E] z/ [B,F]/ [EG] [G,B,] | !arpeggio![=C,G,E] z/ [^DF]/ [EG] [=CE] | %20
+ (G F ^E =E) | (^D3 =D) | [F,^A,C] (!>!G,2 F,) | !arpeggio![F,,C,E,^A,] z z2 || %24
+[K:B] (.[B,,D,B,] z/ .[E,C]/ .[F,D] .[D,F,]) | (.[B,,D,B,] z/ .[E,C]/ .[F,D] .[D,F,]) | %26
+ (.[G,,D,B,] .[B,D] .[D,,B,,D,] .[F,D]) | (.[G,,D,G,] .[F,,F,] .[B,,,B,,]) z | %28
+ [E,G,E] z/ [=A,F]/ [B,G] [G,B,] | [C,G,E] z/ [DF]/ [EG] [E,G,] | %30
+ [=A,,E,=A,][K:treble] [=Ac] [EA] [CE] |[K:bass] [=A,C] [E,A,] [E,G,] [C,,C,] | %32
+ [F,,F,] z/ [DF]/ [EG] [F,A,] | [F,CE] z/ [DF]/ [EG] [F,A,] | [G,B,E] z/ [B,F]/ [EG] [G,B,] | %35
+ [A,E] z/ [DF]/ [EG] [F,A,] | [B,,B,] [EG] [B,E] [G,B,] |"^rit." [E,G,] [B,,E,] [E,,B,,]2 | %38
+ !fermata![B,,,F,,B,,]4 |] %39
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x[K:treble] x3 |[K:bass] x4 | x4 | x4 | x4 | x4 :| x4 | x4 || %14
+[K:D] x4 | x4 | x4 | x4 | x4 | x4 | [G,B,]4 | [G,B,]2 [^E,B,]2 | x4 | x4 ||[K:B] x4 | x4 | x4 | %27
+ x4 | x4 | x4 | x[K:treble] x3 |[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %39

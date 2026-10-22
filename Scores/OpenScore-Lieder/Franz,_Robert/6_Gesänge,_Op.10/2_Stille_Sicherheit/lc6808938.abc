@@ -1,0 +1,88 @@
+X:1
+T:6 Gesänge, Op.10
+T:Stille Sicherheit
+C:Robert Franz
+Z:Nikolaus Lenau
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 6 ) }
+L:1/8
+Q:1/4=58
+M:2/4
+I:linebreak $
+K:Db
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/16
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:6 bass 
+L:1/16
+V:1
+"^Andantino con moto"!p! d2 z F | B3 A |!<(! G B!<)! e!>(! d!>)! | c2 z2 | f3 c | e d c B | %6
+w: Horch, wie|still es|wird im dun- keln|Hain,|Mäd- chen,|wir sind si- cher|
+w: Hark, how|still ’tis|in the grove, no|tone!|Mai- den,|we are safe and|
+ _A3/2 B/!<(! c2-!<)! |!>(! c!>)! z z2 |!p! d3 F | B3 A |!<(! G B!<)! e!>(! d!>)! | c2 z A/ A/ | %12
+w: und al- lein|_|Still ver-|säu- selt|hier am Wie- sen-|hang schon der|
+w: quite a- lone|_|Faint- er|and more|dis- tant spreads a-|round, o’er the|
+ f3 e | (d2 c) B |!<(! A3/2 B/!<)! c2- |!>(! c!>)! z z!p! B/ A/ |!>(! =G2 F!>)! A/ c/ | %17
+w: A- bend-|glo- * cken|mü- der Klang|_ Auf den|Blu- men, die sich|
+w: meads the|night _ chimes|dy- ing sound|_ On the|flow’rs ob- e- dient|
+!>(! f3 c!>)! | B2 z2 | z c2 B | =A3/2 A/ (=dc/) B/ |!>(! (=Ac)!>)! z =E | F2 z2 | %23
+w: dir ver-|neigt,|schlief das|letz- te Lüft- * chen|ein _ und|schweigt.|
+w: to thy|will,|sleeps the|last faint breath * of|air, _ is|still.|
+ z!pp! =A/ A/!<(! A A!<)! | !>!c2 z2 | z2!pp! F F/ F/ | _A2 z2 | z!mf! A/ d/"^cresc." c d | %28
+w: Sa- gen darf ich|dir,|wir sind al-|lein,|dass mein Herz ist|
+w: Mai- den, dare I|say,|we are a-|lone,|that my heart a-|
+!f!!>(! (f2 e) d!>)! | (c2 d) e |!>(! d2-!>)! d z | z4 |] %32
+w: e- * wig,|e- * wig|Dein. _||
+w: dores _ thee,|loves _ but|one. _||
+V:2
+!p! z"^m.d."[I:staff +1] (F,[A,D]F,)"^m.s."[I:staff -1] ([DF]A,)"_m.d." ([Ad]F) | %1
+ z[I:staff +1] (F,[B,D]F,)[I:staff -1] ([DF]B,) ([Bdf]F) | %2
+ z!<(![I:staff +1] (G,[B,E]G,)!<)!!>(![I:staff -1] ([EG]B,)!>)! ([Be]G) | %3
+ z[I:staff +1] (G,[CE]G,)[I:staff -1] ([GA]C) ([ega]A) | %4
+ z[I:staff +1] (F,[A,D]F,)[I:staff -1] ([DF]A,) ([=A,C]F,) | %5
+ z[I:staff +1] (F,[B,D]F,)[I:staff -1] z[I:staff +1] (F,[I:staff -1][B,F][I:staff +1]F,) | %6
+[I:staff -1] z[I:staff +1] (F,[_A,C]F,)!<(![I:staff -1] ([CF]A,) ([FAc]C)!<)! | %7
+ z[I:staff +1] (_G,[CE]G,)!>(![I:staff -1] ([GA]C) ([Bce][Af])!>)! | %8
+!p! z[I:staff +1] (F,[A,D]F,)[I:staff -1] ([DF]A,) ([Ad]F) | %9
+ z[I:staff +1] (F,[A,B,]F,)[I:staff -1] ([=DF]A,) ([AB]F) | %10
+!<(! z[I:staff +1] (G,[B,E]G,)!<)![I:staff -1] z!>(! (_D[E=G]D)!>)! | %11
+ z[I:staff +1] (_G,[CE]G,)[I:staff -1] ([GA]C) ([ega]A) | %12
+ z[I:staff +1] (F,[A,D]F,)!>(![I:staff -1] ([DF]A,) ([=A,C]F,)!>)! | %13
+ z[I:staff +1] (F,[B,D]F,)[I:staff -1] z[I:staff +1] (F,[I:staff -1][B,F][I:staff +1]F,) | %14
+!<(![I:staff -1] z[I:staff +1] (F,[_A,C]F,)[I:staff -1] ([CF]A,)!<)! ([FAc]C) | (=G2>A2 B4) | %16
+!pp! (=G4 F2) z2 |!<(! (.[CFA]2.[CFA]2.[CFA]2.[CFA]2)!<)! | %18
+!>(! (.[B,FA]2.[B,FA]2.[B,FA]2.[B,FA]2)!>)! | (.[B,C=G]2.[B,CG]2.[B,CG]2.[B,CG]2) | %20
+!<(! [=A,F]2[A,F]2!<)!!>(! [F,B,=D]4!>)! | (([F,=A,C]2[CF=A]2) [B,=E=G]4) | %22
+ (.[=A,F]2.[A,F]2.[A,F]2.[A,F]2) |!pp!!<(! (.[=A,F=A]2.[A,FA]2.[A,FA]2.[A,FA]2)!<)! | %24
+!>(! (.[C=E=A]2.[CEA]2.[CEA]2.[CEA]2)!>)! | (.[C_Ac]2.[CAc]2!<(!.[CAc]2.[CAc]2)!<)! | %26
+!>(! (.[CAc]2"_cresc.".[CAc]2!>)!!<(!.[CAc]2.[CAc]2)!<)! | %27
+!mf! z[I:staff +1] (F,[A,D]F,)"_cresc."[I:staff -1] ([DF]A,) ([Ad]F) | %28
+!f! z[I:staff +1] (=G,[I:staff -1][DF][I:staff +1]G,)[I:staff -1] ([EB]D) ([Bde]=G) | %29
+!<(! z"^m.s." (AaA)!<)! z (A!>(!aA) | z!>)! (A,[DF]"_dim."A,) ([FA]D) ([Ad]F-) | [FAdf]2!p!FB A4 |] %32
+V:3
+!ped! [D,,A,,]4!ped-up! |!ped! [B,,,B,,]4!ped-up! |!ped! [E,,E,]4!ped-up! | %3
+!ped! [A,,,A,,]4!ped-up! |!ped! [D,,A,,]3!ped-up! [F,,,F,,] |!ped! [B,,,B,,]2 [D,,D,]2!ped-up! | %6
+!ped! [C,,C,]4!ped-up! |!ped! [A,,,A,,]4!ped-up! |!ped! [D,,A,,]4!ped-up! | %9
+!ped! [B,,,B,,]4!ped-up! | [E,,E,]2 [__B,,,__B,,]2 |!ped! [A,,,A,,]4!ped-up! | %12
+!ped! [D,,A,,]3 [F,,,F,,]!ped-up! |!ped! [B,,,B,,]2 [D,,D,]2!ped-up! |!ped! [C,,C,]4!ped-up! | %15
+!ped! [C,,C,]4!ped-up! |!ped! (.[F,,C,A,].[F,,C,A,].[F,,C,A,].[F,,C,A,])!ped-up! | %17
+!ped! (.[_E,,_E,].[E,,E,].[E,,E,].[E,,E,])!ped-up! | %18
+!ped! (.[=D,,=D,].[D,,D,].[D,,D,].[D,,D,])!ped-up! | %19
+!ped! (.[=E,,C,].[E,,C,].[E,,C,].[E,,C,])!ped-up! | [F,,C,][F,,C,] [B,,,B,,]2 | %21
+!ped! ([C,,C,-]4!ped-up! |!ped! [F,,C,]2) z2!ped-up! |!ped! (([=D,,=D,]4!ped-up! | %24
+!ped! [=A,,,=A,,]2)) z2!ped-up! |!ped! (([F,,F,]4!ped-up! | %26
+!ped! !arpeggio![_A,,,_G,]2)) z2!ped-up! |!ped! [F,,,F,,]4!ped-up! |!ped! [B,,,B,,]4!ped-up! | %29
+!ped! [A,,,A,,]4!ped-up! |!ped! [D,,A,,]4- | [D,,A,,]4!ped-up! |] %32
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z/ B,/=E- E2 | %16
+ C2- C x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %29
+ ([B,_G]2[I:staff +1] [A,F][G,E] | [F,D]2)[I:staff -1] x2 | x F- F2 |] %32
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x D,- [D,F,]2 |] %32
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x2 F,-B, A,4 |] %32

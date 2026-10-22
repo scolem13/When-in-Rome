@@ -1,0 +1,38 @@
+% Gymnopédie No. 2: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=38
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Gymnopédie No. 2
+C:Erik Satie
+%%score ( 1 2 ) 3
+L:1/4
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Amin
+V:1 treble nm="treble"
+V:2 treble 
+V:3 bass nm="bass" snm="B"
+V:1
+ z [GEB,]2 | z [AFCA,]2 | z [GEB,]2 | z [AFCA,]2 | g3 | a g f | e f g | d3 | g3 | a g f | e f g | %11
+ d [cAFCA,]2 | z [GEB,]2 | z [AFCA,]2 | c'3 | f g a | g3 | c3 | f3- | f ^d =d | f3- | f g _b | %22
+ a g f | g3 | f3 | z [GD_B,]2 | z [AFCA,]2 | c'3 | ^g =g f | =g3 | f3- | f ^d =d | f3 | d3- | %34
+ =d ^d ^g | _b3 | f3 | z [GEB,]2 | z [AFCA,]2 | g3 | f g a | e f g | d3 | g3 | f g a | e f g | %46
+ f [cAFCA,]2 | z [GEB,]2 | z [AFCA,]2 | c'3 | f g a | g3 | c3 | f3 | g3 | =d3- | d3- [FD_B,G,]2 | %57
+ d3- [F^D_B,G,]2 | [dF=DA,]2 [F=DA,] | _b3 | a [fAFCA,]2 | z [GD_B,]2 | z [AFCA,]2 | z [GD_B,]2 | %64
+ z [GEC]2 |] %65
+V:2
+ x3 | x3 | x3 | x3 | z [GEB,]2 | z [AFCA,]2 | z [GEB,]2 | z [AFCA,]2 | z [GEB,]2 | z [AFCA,]2 | %10
+ z [GEB,]2 | x3 | x3 | x3 | z [cAEC]2 | z [AFCA,]2 | z [G^D_B,]2 | z [G^D_B,G,]2 | z [F=DA,]2 | %19
+ z [F^D_B,G,]2 | z [F=DA,]2 | z [GFD_B,]2 | z [A^DC]2 | z [G=D_B,]2 | z [AFCA,]2 | x3 | x3 | %27
+ z [cG^D]2 | z [c^GFC]2 | z [_BGD_B,]2 | z [FDA,]2 | z [F^D_B,G,]2 | z [F=DA,]2 | z [GFD_B,]2 | %34
+ z [^G^DC]2 | z [=GD_B,]2 | z [AFCA,]2 | x3 | x3 | z [GEB,]2 | z [AFCA,]2 | z [GEB,]2 | %42
+ z [AFCA,]2 | z [GEB,]2 | z [AFCA,]2 | z [GEB,]2 | x3 | x3 | x3 | z [cAEC]2 | z [AFCA,]2 | %51
+ z [G^D_B,]2 | z [G^D_B,G,]2 | z [F=DA,]2 | z [G^D_B,G,]2 | z [FDA,]2 | x5 | x5 | z2 f | %59
+ z [GD_B,]2 | x3 | x3 | x3 | x3 | x3 |] %65
+V:3
+ G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | %14
+ C,,3 | C,,3 | C,,3 | F,,3 | F,,3 | F,,3 | F,,3 | F,,3 | F,,3 | _B,,,3 | D,,3 | G,,3 | D,,3 | %27
+ C,,3 | C,,3 | C,,3 | F,,3 | F,,3 | F,,3 | F,,3 | F,,3 | _B,,,3 | D,,3 | G,,3 | D,,3 | G,,3 | %40
+ D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | G,,3 | D,,3 | C,,3 | C,,3 | C,,3 | F,,3 | F,,3 | %54
+ F,,3 | F,,3 | F,,3 | F,,3 | F,,3 | _B,,,3 | D,,3 | G,,3 | D,,3 | G,,3 | C,,3 |] %65

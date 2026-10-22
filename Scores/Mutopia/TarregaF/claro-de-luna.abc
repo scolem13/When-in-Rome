@@ -1,0 +1,79 @@
+% Claro de Luna (Beethoven's Moonlight Sonata): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2074
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Claro de Luna (Beethoven's Moonlight Sonata)
+C:Arr: de F. Tárrega
+%%score 1 2 3
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="upperVoice"
+V:2 bass nm="lowerVoice"
+L:1/4
+V:3 bass nm="middleVoice"
+V:1
+ (3A,DF (3A,DF (3A,DF (3A,DF | (3A,DF (3A,DF (3A,DF (3A,DF | (3:2:5F8 B, DFB, | %3
+ (3DFF- (12:7:2F8 B,2- | B,4 _E4- | (3:2:2E2 G4- (3:2:2G4 B,2- | B,4 _E4- | %7
+ (3:2:2E2 G4- (3G4 A,_D | (3GA,=D (3FA,D (3=EG,_D (3EF,A, | (3=DF,A, (3DF,A, (3D z D (3F z E | %10
+ (3GA,E (3GA,E (3GA,E (3G z D | (3FA,D (3F z D (3GB,D (3:2:2G G2- | (48:25:1G8 z/ (3CF A,(3:2:2CF | %13
+ F4- F3/2 z/ (3B,E z | (3EBB- (48:29:1B8 z/ (3:2:1F | (3ACF (3:2:2A A2- A4- | (3:2:2A4 A,8 | %17
+ (3:2:2C8 F4- | (3:2:2F4 A,8 | (3:2:2C8 F4- | (3:2:9F4 _A,C FA,C FA,C | %21
+ (3F z C (3F z C (3_G z C (3G z C | (3_G z C (3G z _D (3F z C (3F z =D | (3F z D (3:2:2F F2- F4- | %24
+ (3:2:2F/4 z/ (3:2:2z/4 C(3_E z C(3E z C(3D z C(3:2:1D | D3/2 z/ (3C_EG, (3CEE- E2- | (3:2:2E8 z4 | %27
+ (3:2:2z4 =B,8 | (3:2:2D8 G,4- | (3:2:2G,4 =B,8 | D4- D3/2 z/ (3C_EC | %31
+ (3_EGC (3=EGC (3EG_D (3F_AD | (3F_A_D (3FAA- A4- | (6:5:2A4 =B,8- | (3:2:2B, F2- F4 _A2- | %35
+ (6:5:2A4 C (3EGC (3EGC | (3EGC (3EG_D (3F_AD (3FAD | (3F_AA- A6- | (3:2:2A2 =B,4- (3:2:2B,4 F2- | %39
+ F4 _A4- | (3:2:5A2 C EGC (3EGG- G2 | (3C4 _E4 _G4 | (3C4 _E4 _G4 | _G8 | %44
+ (3CDA (3CDA (3B,D=G (3B,DG | (3_A,C_E (3A,CE (3G,B,=E (3G,B,E | (3D,G,B, (3D,G,B, (3:2:2B,4 D,2- | %47
+ (3:2:2D,2 G,4 (3:2:2A,4 D,2- | (3:2:2D,2 _G,4 (3:2:2A,4 A,2- | A,4 (3=G,B,D (3B,DG | %50
+ (3:2:2G8 D4- | (3:2:2D4 G8 | (3:2:2B8 D4- | (3:2:2D4 G8 | (3:2:2B8 B4- | (3:2:9B4 DA cDA cDA | %56
+ (3cDA (3:2:2c c2- c4 | (3DGB (3DGB B4- | (3:2:2B2 _D4- (3:2:2D4 G2- | G4 B4- | %60
+ (3:2:2B2 B4- (3:2:2B4 D2- | D4 G4- | (3:2:2G2 B4- (3:2:2B4 B2- | B4 (3EGA (3EGA | %64
+ (3EGA (3EGA A4- | (3:2:5A2 F AdF (3Add- d2- | (3:2:2d4 E8 | (3:2:2G8 B4- | (3:2:2B4 B8 | %69
+ (3:2:2D8 F4- | (3:2:2F4 =B8 | (3:2:5=B8 _d _DEA | (3_DE_B (3DEE- E4- | (3:2:2E G2- G4 _D2- | %74
+ (6:5:2D4 E8- | (6:5:1E z/ (3_D EA,(3D EB,(3D EG,(3:2:1D | (3:2:2E E2- (48:25:1E8 z/ (3:2:2FA | %77
+ (3dFA (3fFA (3dFA (3z F,A, | (3DF,A, (3FF,A, (3DF,A, (3E,B,G, | (3_DB,E (3:2:2E8 D- | %80
+ (12:7:2D8 G4- | G2 (3:2:2E8 E- | (12:7:2E8 B4- | B2 (3:2:2G8 _d- | (12:7:2d8 _d4- | %85
+ d2 (3F,=DA, (3FDA A2- | A6 F2- | (6:5:2F4 d8- | (3:2:2d A2- A4 f2- | (6:5:2f4 d8- | %90
+ (3:2:2d A2- A4 (3D_AF | (3=B_Ad (3Bfd (3_af=b (3G,_D_B, | (3E_DG (3:2:2G8 E- | (12:7:2E8 B4- | %94
+ B2 (3:2:2G8 _d- | (12:7:2d8 B4- | B2 (3:2:2e8 _d | (3GBE (3G_DE (3B,DG, (3B,E,G, | %98
+ (3_D,E,B,, (3D,G,,E, (3G,B,=D, (3G,B, z | (3G,A,B, (3A,G,E, (3G,B,D, (3G,B, z | %100
+ (3G,A,B, (3A,G,_E, (3G,B,D, (3G,B, z | (3G,A,B, (3A,G,F, (3D,DD, (3F,DD- | %102
+ (12:7:2D8 E,(3B, DE,(3:2:1B, | (3:2:2D D2- D6- | (3:2:2D E,2- E,4 A,2- | (6:5:2A,4 _D8- | %106
+ (3:2:2D E,2- E,4 A,2- | (6:5:2A,4 _D8- | (3DF,A, (3=DA,D (3FA,D (3FA,D | %109
+ (3FA,E (3GA,E (3GA,E (3GA,E | (3GA,D (3FA,D (3FB,D (3GB,D | (3GA,C (3FA,C (3:2:2F F2- F2- | %112
+ (12:7:2F8 G,4- | G,2 (3:2:2B,8 E- | (12:7:2E8 C4- | C2 (3:2:2E8 B- | (12:7:2B8 F,(3F AC(3:2:1F | %117
+ (3ACF (3:2:2A A2- A4- | (3:2:2A4 C8 | (3:2:2F8 A4- | (3:2:9A4 CG BCG BCG | %121
+ (3BCG (3BCF (3ACF (3A_DG | (3A=DF (3AEG (3AEG (3:2:2A A2- | A4 F4- | (3:2:2F2 A4- (3:2:2A4 d2- | %125
+ d4 F4- | (3:2:2F2 A4- (3:2:2A4 d2- | d4 d4- | (3:2:5d2 _E GBE (3GBB- B2- | (3:2:2B8 _D4- | %130
+ (3:2:2D4 G8 | (3:2:2A8 _D4- | (3:2:2D4 G8 | (3:2:5A8 =D FAD | (3FAD (3_GAD (3GA_E (3=GBE | %135
+ (3GB_E (3GBB- B4- | (6:5:2B4 _D8- | (3:2:2D G2- G4 B2- | (6:5:2B4 =D, (3_GAD (3GAD | %139
+ (3_GAD (3GA_E (3=GBE (3GBE | (3GB_D (3GB=D (3_GAD (3GAD | (3=GBD (3GBC (3GBC (3GBC | (3GBB- B6- | %143
+ (3:2:2B2 C4- (3:2:2C4 F2- | F4 A4- | (3:2:5A2 B, FAB, (3EGG- G2 | (3A,4 E4 G4 | (3A,4 D4 F4 | %148
+ (3G,DE (3G,DE (3A,DE (3B,DE | (3A,DF (3A,DF (3A,_DE (3A,DE | (3=D,A,F (3A,DF (3A,DF (3A,DF | %151
+ (3z EG (3A,EG (3A,EG (3A,EG | (3:2:5G8 D, FDA | (3FdA (3fda (3fd_d (3eBd | %154
+ (3GBE (3GB,_D- (3:2:2D2 D4- | (3:2:9D4 =D,F =DAF dAf | (3daf (3d_de (3BdG (3BEG | %157
+ (3:2:2B, _D2- (3:2:2D D8 | (3[=DF,]A,D (3FDA, (3z F,A, (3DA,F, | z8 | z4 [DA,F,]4 | [DA,F,]4 z4 |] %162
+V:2
+ D,4 | C,4 | B,,2 G,,2 | A,,2 A,,2 | D,,3 [A,D,,]/>A,/ | [A,_D,]3 [A,D,]/>A,/ | %6
+ [A,=D,,]2 [B,G,,]2 | [A,C,]2 [G,C,] [CC,] | [F,F,,]2 F,,2 | F,,3 [_A,F,]/>A,/ | _E,2 z2 | %11
+ [_A,_D,] [A,C,] [A,=B,,] [G,B,,] | [G,C,]2 [_A,F,,] [F,=A,,] | [G,G,,]2 [G,G,,]2 | C,3 C, | %15
+ C, F, _A, F, | C,3 C, | C, F, _A, F, | C,2 =A,,2 | _G,,2 [B,=G,,]2 | [_A,C,]2 _D,2 | =D,,2 D,,2 | %22
+ G,,3 G,/>D/ | [D_G,]3 G,/>D/ | =G,2 E, D, | [E_D,]3 D, | [F=D,]2 G,, _A,, | =A,,2 z2 | A,,2 z2 | %29
+ A,,2 z2 | A,,2 z2 | A,,2 A,,2 | A,,2 A,,2 | A,,2 A,,2 | A,,2 A,,2 | z4 | z4 | [_D,A,,]2 E, =D, | %38
+ [_D,A,,]2 _E, =D, | [_D,A,,]2 B,,2 | G,,2 A,,2 | D,,3 [A,D,,]/>A,/ | [A,_D,]3 [A,D,]/>A,/ | %43
+ [A,=D,,]2 [B,G,,]2 | [A,C,]2 C, C, | F,,3 F,/>C/ | [CE,]3 [CE,]/>C/ | [CF,]2 E, D, | %48
+ [E_D,]2 [F=D,]2 | [_EG,,]2 [_DA,,]2 | [=D=D,]3 D, | D, G, B, G, | D,3 D, | D, G, B, G, | %54
+ [DD,]2 [DG,,]2 | [CE,]3 F, | D, E, _D, =D, | B,,2 A,, G,, | [A,A,,]2 [A,A,,]2 | %59
+ [D,D,,]3 A,,/>[A,A,,]/ | _D,3 A,,/>[A,A,,]/ | =D,,3 D,/>D,/ | A,,3 A,,/>A,,/ | D,,3 D,/>D,/ | %64
+ A,,3 A,,/>A,,/ | D,,2 D,2 | (3A,,/D,/F,/ (3A,/F,/D,/ (3A,,/D,/A,,/ (3F,,/A,,/F,,/ | D,,2 D,,2 | %68
+ D,,2 z2 |] %69
+V:3
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | _A,2 A,2 A,2 [A,_E,]>A, | z8 | z8 | z8 | z8 | %15
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %34
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | _E4 z4 | z8 | %53
+ z8 | z8 | z8 | z8 | z8 | z6 A,>A, | z8 | z8 | z8 | z6 A,2- | (6:5:2A,4 B, (3A,G, z z2 | z8 | %65
+ (6:5:2z4 G,8- | (3G,B,A, (3:2:2G, z2 z4 |] %67

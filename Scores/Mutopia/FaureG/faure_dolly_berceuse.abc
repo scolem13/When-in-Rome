@@ -1,0 +1,60 @@
+% Berceuse: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1536
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Berceuse
+C:FaureG
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:E
+V:1 treble nm="flute" snm="Fl"
+V:2 bass nm="guitar:guitarUpperVoice" snm="Ac Gtr"
+V:3 bass 
+L:1/16
+V:1
+ z4 | z4 | b2 b2- | bg ab | ge fg | e2 B z | b2 b2- | bg ab | ge e'd' | c'2 b z | f'2 f'2- | %11
+ f'd' e'f' | d'b c'd' | b2 f z | f'2 f'2- | f'g' e'c' | e'f' d'b | d'2 c'2 | b2 b2- | bg ab | %20
+ ge fg | e2 B z | b2 b2- | bg ab | ge e'd' | c'2 b z | e'2 e'2- | e'c' ba | e'2 e'2- | e'c' ba | %30
+ b2 b2- | bg fe | g2 f2 | e3 z |[K:C] e2 e2- | ec de | e2 c2- | cG Ac | Bd g2- | ge g2- | g_B dg | %41
+ fe de | f2 f2- | fd ef | f2 d2- | dA Bd | ce a2- | af a2- | ac ea | g^f ef | g2 g2- | ge ^fg | %52
+ g2 e2- | eB ^ce | d^f b2- | bg b2- | b^f ^d'^c' | ba ^f^d |[K:E] B2 B2- | BG AB | GE FG | E2 z2 | %62
+ B2 B2- | BG AB | GE FG | E2 z2 | e2 e2- | ec =de | cA Bc | Ae dc | B2 c2 | =d2 ^d2 | b2 b2- | %73
+ bg ab | ge fg | e2 B z | b2 b2- | bg ab | ge fg | e2 B z | e2 B z | e2 B z | e2 z2 |] %83
+V:2
+ [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | %4
+ [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | %8
+ [G,E,,][EB,,] [B,EG]2 | [^A,F,,][FF,] [F,B,D]2 | [DB,,][BF,] [E^A]2 | [DB,,][BF,] [E^A]2 | %12
+ [DB,,][BF,] [E^A]2 | [DB,,][BF,] [E^A]2 | [DB,,][BF,] [Fc]2 | [FG,,][=cD,] [EG^c]2 | %16
+ [E^A,,][cF,] [DFB]2 | [B,D,][FD,] [CG]2 | [GD,][B,B,,] F2 | [G,EE,,][EB,,] [A,D]2 | %20
+ [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | %24
+ [G,E,,][EB,,] [B,EG]2 | [^A,F,,][FF,] [F,B,D]2 | [B,G,,][FE,] [=DE]2 | [CA,,][GE,] [EF]2 | %28
+ [=DB,,][AE,] [DG]2 | [EC,][BE,] [EA]2 | [FD,][cB,] [AB]2 | E,[BB,] [EGc]2 | [CA,,][cA,] [DAB]2 | %33
+ E,,3 B,/G,/ |[K:C] C,4 | A,,4 | C,4 | E,4 | G,4 | E,4 | E,,4 | A,,4 | D,4 | _B,,4 | D,4 | F,4 | %46
+ A,,4 | D,4 | A,,4 | B,,4 | E,4 | C,4 | E,4 | G,4 | B,,4 | E,4 | B,,[^F^F,] [BB,][A^C] | %57
+ [^GB,][^FA,] [^D^F,][B,^D,] |[K:E] [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | %60
+ [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | %64
+ [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [=DE]2 | A,,[AE,] [=DG]2 | A,,[AE,] [=DG]2 | %68
+ A,,[AE,] [=DG]2 | A,,[AE,] [E=G]2 | z/ ^G/[BB,] [Gc]2 | z/ A/[=dB,] [A^d]2 | E,,[EB,,] [A,^D]2 | %73
+ [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | [G,E,,][EB,,] [A,D]2 | %77
+ B2 B2- | [BE,,B,][GB,,E]/C/ AB | [GE,,]/B,/[EB,,]/C/ FG | E,,/B,/[EB,,]/C/ FG | E,,/B,/E FG | %82
+ [B,,E,G,B,EE,,]2 z2 |] %83
+V:3
+ z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | %5
+ z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z B, C,2C,2 | z E z E B,,2B,,2 | %10
+ z F z G C2F,2 | z F z G C2F,2 | z F z G C2F,2 | z F z G C2F,2 | z F z F =A,,2A,2 | %15
+ z G z G ^C,2^C2 | z F z F B,,2B,2 | z D z D E,2E,2 | z A, z A, A,2B,,2 | z B, z C F,2B,,2 | %20
+ z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z B, C,2C,2 | %25
+ z E z E B,,2B,,2 | z ^D z D G,2E,2 | z =F z F A,2E,2 | z =G z G B,2E,2 | z ^G z G C2E,2 | %30
+ z ^A z A D2B,2 | z G z G C,2C2 | z G z G B,,2B,2 | z G,EB, GE z2 |[K:C] z2 G,G, ECGE | %35
+ z2 A,A, ECAE | z2 G,G, ECGE | z2 G,G, ECGE | z2 B,B, GDBG | z2 B,B, GEBG | z2 _B,B, GD_BG | %41
+ z2 A,A, G^CAG | z2 A,A, FDAF | z2 _B,B, FD_BF | z2 A,A, FDAF | z2 A,A, FDAF | z2 A,A, ECAE | %47
+ z2 A,A, FDAF | z2 A,A, ECAE | z2 A,A, ^DB,AD | z2 B,B, GEBG | z2 CC GEcG | z2 B,B, GEBG | %53
+ z2 B,B, GEBG | z2 B,B, ^FDBF | z2 B,B, E^CGE | z B, z ^D z ^F z E | z ^D z ^C z A, z ^F, | %58
+[K:E] z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | %62
+ z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C E,2B,,2 | z E z F B,2E,2 | %67
+ z E z F B,2E,2 | z E z F B,2E,2 | z E z E ^A,,2^A,2 | z3 G z2 B,,2 | z3 A z2 B,,2 | %72
+ z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | z B, z C F,2B,,2 | %77
+ E,,B,[B,,E]C [F,A,D]2B,,2 | z4 [F,D]4 | z4 [F,D]4 | z4 [F,D]4 | z3 C [F,D]4 | x8 |] %83

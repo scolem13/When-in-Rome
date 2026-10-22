@@ -1,0 +1,81 @@
+X:1
+T:6 Gesänge, Op.16
+T:Abends
+C:Robert Franz
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 4 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=94
+M:12/8
+I:linebreak $
+K:G
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+L:1/4
+V:3 treble nm="Pianoforte"
+V:4 treble 
+V:5 bass 
+V:6 bass 
+V:1
+"^Andantino"!p!"^Sanft bewegt" B2 ^A B2 E G2 F E2 z | (ec) A B2 E (F2 A/G/) F2 z | %2
+w: A- bend- lich schon rauscht der Wald|aus * den tief- sten Grün- * * den,|
+w: Gent- ly roves the ev’- ning breeze|thro’ * the val- ley twi- * * ning,|
+ d2 ^c d2 G (AB) =c B2 z | (ge) c B2 d (A2 c) B2 z |!<(! B2 B B2 B!<)! B2 g f2 e | %5
+w: dro- ben wird der Herr * nun bald,|bald * die Stern’ an- zün- * den;|wie so stil- le in den Grün- den|
+w: up there soon a- bove * the trees|will * the stars be shi- * ning;|gent- ly thro' the val- ley twi- ning,|
+ d2 c (BA) G!<(! c3!<)! ^D3 | E2 z z3 z6 | z12 |!p! B2 ^A B2 E G2 F E2 z | %9
+w: a- bend- lich * nur rauscht der|Wald.||Al- les geht zu sei- ner Ruh’,|
+w: whisp'- ring roves * the ev'- ning|breeze.||All things sink to per- fect rest,|
+!>(! (ec)!>)! A B2 E!<(! (F2!<)!!>(! A/G/) F2!>)! z | d2 (3(c/d/_e/) d2 G (AB) c B2 z | %11
+w: Wald * und Welt ver- sau- * * sen,|schau- ernd * * hört der Wan- * drer zu,|
+w: wood * and town are si- * * lent;|shudd’- ring * * harks the la- * ted guest,|
+!<(! (Gc) _e!<)!!>(! (dc)!>)! B (A2 c) B2 z |!<(! B2 B B2 B!<)! B2 e!>(! g2!>)! f | %13
+w: sehnt * sich wohl * nach Hau- * se;|hier in Wal- des grü- ner Klau- se,|
+w: longs * to reach * the thres- * hold;|here in wood- land’s lea- fy wold, *|
+ e2!<(! (d/c/) (BA)!<)! G c3!>(! ^D2!>)! D | E2 z z3 z6 | z12 | z12 |] %17
+w: Herz, geh’ * end- * lich du auch zur|Ruh’.|||
+w: heart, sad * heart, * now be at *|rest.|||
+V:2
+ x6 | x6 | x6 | x6 | x6 | x3 x/ x/!>(! x/ x/!>)! x/ x/ | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %13
+ x3 x3/2 ^D3/2 | x6 | x6 | x6 |] %17
+V:3
+!p! (B2 (3^A/B/c/ BeE G2 [=B,F] E2 z) | %1
+ (!arpeggio![CAe]E-[EA] !arpeggio![G,EB]B,-[B,E] F2 [^CE] F2) z | %2
+!p! (d2 (3^c/d/e/ dgG A2 [F=c] B2) z | %3
+ (!arpeggio![Ecg]G-[Gc] !arpeggio![G,DB]D-[DFd] [EA]C-[CD-F] [B,DG]2) z | %4
+ (B2 B B2 B B2 !arpeggio!g f2 !arpeggio!e | %5
+ d2 !arpeggio!c BAG!<(! !arpeggio![E,Ec]3!>(!!<)! [A,^D]3)!>)! | %6
+"^Tenore ben marcato" [G,E]B-[^DFB]!<(! B,B-[AB] B,!<)![E-GB-]!>(![EB] F[Gc]-!>)![Gc] | %7
+ D[FB]-[FB] B,[DG]-[DG]!>(! F6!>)! |!p! (B2 (3^A/B/c/ BeE G2 F E2) z | %9
+ (!arpeggio![CAe]E-[EA] !arpeggio![G,EB]B,-[B,E] ^DB,-B,- [DF]2) z | %10
+ (d2 (3(c/d/_e/) dgG [CA][DB][_Ec] [DGB]G,-G,) | %11
+ (!arpeggio![_Ecg]G-[Gc] !arpeggio![G,DB]D-[DBd]!<(! A2!<)!!>(! c!>)! B2) z | %12
+ B2!<(! B B2!<)! B B2 e!>(! g2!>)! f | e2!<(! d/c/ BA!<)!G F6 | %14
+"^Tenore ben marcato" ([G,E]B-[^DFB] B,B-[AB] B,[EG-B-][GB] [B,G]2 [A,F] | %15
+ [Ec]2 [DB]/[CA]/ BAG F6 | E3- E2) z z6 |] %17
+V:4
+ [EG]B,[E-G] [EG]2 G, EB,-A, G,B,-B, | x6 ^DB,-B, [B,D]2 x | [GB]D[G-B] [GB]2 B, FD-D GD-D | x12 | %4
+ B[^DF]-[DF] B[DF]-[DF] B[EG]!arpeggio![EB] f[Ec]!arpeggio![Fc] | %5
+ d[CF]!arpeggio![DF] B[B,D]-[B,D] x6 | %6
+[I:staff +1] !arpeggio!B,2 B,[I:staff -1] B,2 [B,^D] B,2 G F2 E | %7
+ D2 C B,[I:staff +1]A,G,[I:staff -1] E3 ^D3 | !arpeggio![G,E]B,[E-G] [EG]2 G, EB,-[=A,B,] G,B,-B, | %9
+ x6 F2 [^CE] B,2 x | [GB]D[FA] [GB]2 B, F3 x3 | x6 [_EF]3 [DG]2 x | %12
+ B[^DF]-[DF] B[DF]-[DF] B[EG]!arpeggio![EB] !arpeggio![EA]3 | [Fc]2 A D3 E3!>(! ^D3!>)! | %14
+ x3 B,2 [B,^D] B,2 E x3 | x3 D3 E3 ^D3 | x12 |] %17
+V:5
+!ped! [E,,B,,]6 B,,3-!ped-up! B,,2 z | %1
+ ([A,,,A,,]2 [C,,C,] [E,,E,]2 [G,,,G,,] [B,,,B,,]3- [B,,,B,,]2) z | %2
+!ped!!<(! [G,,D,]6!ped-up!!<)! [G,,D,]3- [G,,D,]2 z | %3
+ [C,,C,]2 [E,,E,] [G,,G,]3 [G,,,G,,]3- [G,,,G,,]2 z |!<(! B,2 A, G,2 F, E,3 C,3!<)! | %5
+!>(! D,3 G,,3!ped! A,,3 B,,3!>)!!ped-up! | !arpeggio!E,,2 A, G,2 F, E,3 A,,3 | x6 C3 B,2 A, | %8
+!ped! [E,,B,,]6 B,,3-!ped-up! B,,2 z | %9
+ [A,,,A,,]2 [C,,C,] [E,,E,]2 [G,,,G,,] [B,,,B,,]3- [B,,,B,,]2 z | %10
+!ped! [G,,D,]6!ped-up! [G,,,G,,]3- [G,,,G,,]2 z | %11
+ ([C,,G,,-]3 [G,,,G,,]2) z ([C,,G,,-]3 [G,,,G,,]2) z | B,2 A, G,2 F, E,2!ped! G, C3!ped-up! | %13
+ A,2 F, DCB, C3 B,2 A, |!<(! !arpeggio!B,2 B, G,2!<)! F,!>(! E,2!ped! G,!>)! C3!ped-up! | %15
+!<(! F,3 DCB,!<)! C3!>(! B,2 A,!>)! | G,3- G,2 z z6 |] %17
+V:6
+ x6 B,,2 (B,,, E,,2) x | x12 | x12 | x12 | x12 | x12 | x12 | D,3 G,,3 A,,3 B,,3 | %8
+ x6 B,,2 (B,,, E,,2) x | x12 | x12 | x12 | x6 E,3 A,,3 | D,3 G,,3 A,,3 B,,3 | E,,2 A, x3 E,3 A,,3 | %15
+ D,3 G,,3 A,,3 B,,3 | [E,,B,,]3- [E,,B,,]2 x x6 |] %17

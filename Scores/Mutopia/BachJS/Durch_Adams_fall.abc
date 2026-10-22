@@ -1,0 +1,90 @@
+% Durch Adams Fall ist ganz verderbt: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=775
+% Licence: Creative Commons Attribution-ShareAlike 2.5. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Durch Adams Fall ist ganz verderbt
+C:Johann Sebastian Bach (1685-1750)
+%%score 1 ( 2 3 ) ( 4 5 ) 6 7 ( 8 9 ) ( 10 11 ) 12
+L:1/16
+Q:1/4=35
+M:4/4
+I:linebreak $
+K:Amin
+V:1 treble nm="Recorder" snm="Rec"
+L:1/8
+V:2 treble nm="Pan Flute" snm="P Fl"
+V:3 treble 
+L:1/4
+V:4 treble nm="Recorder" snm="Rec"
+V:5 treble 
+L:1/4
+V:6 treble nm="Pan Flute" snm="P Fl"
+V:7 treble nm="Recorder" snm="Rec"
+V:8 bass nm="Pan Flute" snm="P Fl"
+V:9 bass 
+L:1/8
+V:10 treble nm="Recorder" snm="Rec"
+V:11 treble 
+L:1/8
+V:12 bass nm="Pan Flute" snm="P Fl"
+L:1/8
+V:1
+ x4 | x c ^D2 x _B ^C2 | x F ^G,A, =D,2 x2 | x A B,2 x F ^G,2 | x _B, C,E, F,2 x2 | %5
+ x c ^D2 x _B ^C2 | x F ^G,A, =D,2 x2 | x A B,2 x F ^G,2 | x _B, C,E, F,2 x2 | x =B C2 x A B,2 | %10
+ x D E,A, D,2 x2 | x c ^D2 x _B ^C2 | x F ^G,A, =D,2 x2 | x A _B,2 x C ^D,2 | x ^D ^F,2 G,2 x2 | %15
+ x4 x c ^D=F | ^G,^D[Q:1/4=30] E,2[Q:1/4=20] A,2[Q:1/4=10] x2 |] %17
+V:2
+ x12 A3 z | A3 z A4 G4 A4 | F4 E4 D3 z A4 | c4 d4 A4 B4 | c8 A z3 A3 z | A3 z A4 G4 A4 | %6
+ F4 E4 D3 z A4 | c4 d4 A4 B4 | c8 A3 z c4 | c3 z c2>_B2 A4 F2G2 | A4 G4 F3 z A3 z | A3 z A4 G4 A4 | %12
+ F4 E4 D3 z A3 z | A4 G4 A4 B4 | c4 A4 G3 z d4 | e4 d4 A z A2 c4 | %16
+[Q:1/4=30][Q:1/4=20][Q:1/4=10] B2 A4 ^G2 A4 x4 |] %17
+V:3
+ x2 x2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z B z x |] %17
+V:4
+ x12 a3 z | a3 z a4 g4 a4 | f4 e4 d3 z a4 | c'4 d'4 a4 b4 | c'8 a z3 a3 z | a3 z a4 g4 a4 | %6
+ f4 e4 d3 z a4 | c'4 d'4 a4 b4 | c'8 a3 z c'4 | c'3 z c'2>_b2 a4 f2g2 | a4 g4 f3 z a3 z | %11
+ a3 z a4 g4 a4 | f4 e4 d3 z a3 z | a4 g4 a4 b4 | c'4 a4 g3 z d'4 | e'4 d'4 a z a2 c'4 | %16
+[Q:1/4=30][Q:1/4=20][Q:1/4=10] b2 a4 ^g2 a4 x4 |] %17
+V:5
+ x2 x2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z b z x |] %17
+V:6
+ x8 x2 AG ^FE=F2 | E2^DE ^F2EF G2^C=D E2DE | =F^C D4 C2 D2AG ^FE=F2 | E2F3 D^G2 AED^C DB,E2- | %4
+ EDEF =G2>G2- G_BAG ^FE=FG | E2^DE ^F2EF G2^C=D E2DE | =F^C D4 C2 D2AG ^FE=F2 | %7
+ E2F3 D^G2 AED^C DB,E2- | EDEF =G2>G2- GEF2x2>_B2 | AG^G2 =G4 x GFE D4 | %10
+ E2xB, CB,^C2 DA,AG ^FE=F2 | E2^DE ^F2EF G2^C=D E2DE | =F^C D4 C2 D4 E2xE | %13
+ FG^F2 G2=CD ^D2=DC B,CB,A, | G,2^F,G, A,CB,C B,4 x3 =F | EDE^F GA^G2 ABAG FED2 | %16
+ E2^F2[Q:1/4=30] E3 x[Q:1/4=20] E4[Q:1/4=10] x4 |] %17
+V:7
+ x8 x2 ag ^fe=f2 | e2^de ^f2ef g2^c=d e2de | =f^c d4 c2 d2ag ^fe=f2 | e2f3 d^g2 aed^c dBe2- | %4
+ edef =g2>g2- g_bag ^fe=fg | e2^de ^f2ef g2^c=d e2de | =f^c d4 c2 d2ag ^fe=f2 | %7
+ e2f3 d^g2 aed^c dBe2- | edef =g2>g2- gef2x2>_b2 | ag^g2 =g4 x gfe d4 | e2xB cB^c2 dAag ^fe=f2 | %11
+ e2^de ^f2ef g2^c=d e2de | =f^c d4 c2 d4 e2xe | fg^f2 g2=cd ^d2=dc BcBA | G2^FG AcBc B4 x3 =f | %15
+ ede^f ga^g2 abag fed2 | e2^f2[Q:1/4=30] e3 x[Q:1/4=20] e4[Q:1/4=10] x4 |] %17
+V:8
+ x15 D | ^CB,A,G, ^F,B,,B,2 E,F,G,2 z G,=F,E, | D,2>=C2 B,_B,A,G, F,G,F,E, D,A,D^G, | %3
+ A,C=B,A, ^G,F,E,D, C,^C,D,E, F,2E,D, | A,2=G,F, E,G,=C2- C2^C2 DA,D2 | %5
+ ^CB,A,G, ^F,B,,B,2 E,F,G,2 z G,=F,E, | D,2>=C2 B,_B,A,G, F,G,F,E, D,A,D^G, | %7
+ A,C=B,A, ^G,F,E,D, C,^C,D,E, F,2E,D, | A,2=G,F, E,G,=C2- C2CD ^DFE2 | %9
+ F2 z F z FE=D CB,^C2 D^G,=G,F, | =CA,2F, E,G,F,E, D,4 z3 D | %11
+ ^CB,A,G, ^F,B,,B,2 E,F,G,2 z G,=F,E, | D,2>=C2 B,_B,A,G, ^F,^G,A,=B, CD^C2 | %13
+ D2>^D2 =D_B,A,=G, =F,G,2<^F,2 A,G,F, | E,D,C,D, ^D,2=D,2- D,^F,G,A, _B,C=B,2 | %15
+ C2C,2 B,,=F,E,D, C,E,^F,^G, A,B,G,A, |[Q:1/4=30][Q:1/4=20][Q:1/4=10] B,[CD]CB, CB,^CD C4 x4 |] %17
+V:9
+ x4 x4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z G,/ z4 z2 z/ | z8 | z8 | z8 | z8 | z8 | %16
+ z6 x2 |] %17
+V:10
+ x15 d | ^cBAG ^FB,B2 EFG2 z G=FE | D2>=c2 B_BAG FGFE DAd^G | Ac=BA ^GFED C^CDE F2ED | %4
+ A2=GF EG=c2- c2^c2 dAd2 | ^cBAG ^FB,B2 EFG2 z G=FE | D2>=c2 B_BAG FGFE DAd^G | %7
+ Ac=BA ^GFED C^CDE F2ED | A2=GF EG=c2- c2cd ^dfe2 | f2 z f z fe=d cB^c2 d^G=GF | %10
+ =cA2F EGFE D4 z3 d | ^cBAG ^FB,B2 EFG2 z G=FE | D2>=c2 B_BAG ^F^GA=B cd^c2 | %13
+ d2>^d2 =d_BA=G =FG2<^F2 AGF | EDCD ^D2=D2- D^FGA _Bc=B2 | c2C2 B,=FED CE^F^G ABGA | %16
+[Q:1/4=30][Q:1/4=20][Q:1/4=10] B[cd]cB cB^cd c4 x4 |] %17
+V:11
+ x4 x4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z G/ z4 z2 z/ | z8 | z8 | z8 | z8 | z8 | %16
+ z6 x2 |] %17
+V:12
+ x4 | x C ^D,2 x _B, ^C,2 | x F, ^G,,A,, =D,,2 x2 | x A, B,,2 x F, ^G,,2 | x _B,, C,,E,, F,,2 x2 | %5
+ x C ^D,2 x _B, ^C,2 | x F, ^G,,A,, =D,,2 x2 | x A, B,,2 x F, ^G,,2 | x _B,, C,,E,, F,,2 x2 | %9
+ x =B, C,2 x A, B,,2 | x D, E,,A,, D,,2 x2 | x C ^D,2 x _B, ^C,2 | x F, ^G,,A,, =D,,2 x2 | %13
+ x A, _B,,2 x C, ^D,,2 | x ^D, ^F,,2 G,,2 x2 | x4 x C ^D,=F, | %16
+ ^G,,^D,[Q:1/4=30] E,,2[Q:1/4=20] A,,2[Q:1/4=10] x2 |] %17

@@ -1,0 +1,68 @@
+X:1
+T:8 Lieder und Gesänge, Op.57
+T:Es träumte mir
+C:Johannes Brahms
+Z:Georg Friedrich Daumer
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:B
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+L:1/16
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Sehr langsam" z6 | z6 | z6 | z2 B e2 d | c2 B A2 B | e3- efd | c2 z z2 z | z2 d c2 c | ^B3 f2 f | %9
+w: |||Es träum- te|mir, ich sei dir|teu- * * *|er;|doch zu er-|wa- chen be-|
+ e3 d3 | G2 z z2 z | z2 =G c2 c | c3 B2 z | z2 A e2 e | e3 d2 d | (=g3- gf) e | =d3 z2 d | %17
+w: durft ich|kaum;|denn schon im|Trau- me|be- reits emp-|fand ich, es|sei _ _ ein|Traum, es|
+ (f3- fe) c | B3 z2 z | z6 | z6 | z6 | z6 | z2 z e2 d | c2 B A2 B | (f2 e) B2 z | z2 z z2 B | %27
+w: sei _ _ ein|Traum,|||||ach, im|Traum be- reits emp-|fand _ ich,|es|
+ =d3- d2 c | B2 z z2 f | (^e3- e2 =d) |"^ritard." (=d3- d2 c) | B3 z2 z | z6 | z6 | z6 | z6 | z6 | %37
+w: sei _ ein|Traum, es|sei _ _|ein _ _|Traum.||||||
+ !fermata!z6 |] %38
+w: |
+V:2
+!p! z2 z ([A^^c]3 | [Bd]3 [B=dg]3 | [Ac]3 [=A=cf]3 | [GB]3) ([=Ge]2 [Fd] | %4
+ [Ac]2 [FB]!<(! [CFA]2 [B,FB] | [A,EA]2!<)! [B,EG]!>(! [CEF-]2 [B,DF-])!>)! | [A,CF]2 z ([A^^c]3 | %7
+ [Bd]3 [=Ac]3 | [G^B]3 [=Af]3 | [Ge]3 [Fd]3 | [EG]3)!>(! ([Gc]3!>)! | [E=G]3) .!tenuto![Gc]3 | %12
+!<(! z2 z .!tenuto![FB]2 z | z2 z .!tenuto![Ae]2!<)! z |!f! z2 z [=cf=a]2 z | z2 z [Be=g]2 z | %16
+ z2 z!>(! [B=df]2 z | %17
+ z2 z!>)!"_dim. e molto     ri    -          -  tar       -         -          -  dan    -            -   do" [^Ace]2 z | %18
+ z2 z .!tenuto![B=d]2 z | z2 z .!tenuto![B=d]2 z |!pp! z2 z ([A^^c]3 | %21
+ [Bd]3!<(!!>(! !arpeggio![B=dg]3!<)!!>)! | [Ac]3!<(!!>(! !arpeggio![=A=cf]3!<)!!>)! | %23
+ [GB]3) ([=Ge]2 [Fd] | [=Gc]2 [FB]!<(! [CFA]2 [B,FB]) | ([B,DF]2 [B,E] [B,D=A]2 [B,EG])!<)! | %26
+!p!!>(! ([=CDF]2 [B,E] [B,D=A]2!>)! [B,E=G]) |!p! z2 z .!tenuto![B=d]2 z | z2 z .!tenuto![B=d]2 z | %29
+ z2 z [^EB]2 z |"^ritard."!>(! z2 z [=EA]2!>)! z |!pp!"^molto dolce" [^DB]2 z ([d^^f]3 | %32
+ [eg]3 [^A^^c]3 | [df]3 [=A^B]3 | [Gce]3"^ritardando" [F=Bd]3) |!>(! [=D^EGB]3 [B,CF]3- | %36
+ [B,CF]3!>)! [F,A,CF]3- | [F,A,CF]3 !fermata![F,B,DF]3 |] %38
+V:3
+ (F,,A,,E,F,A,E) z4 z2 | (F,,B,,F,B,DF !arpeggio![F,^E]2) z2 z2 | %2
+ (F,,C,=E,F,A,E !arpeggio![F,^D]2) z2 z2 | x6 (A,4 B,2 | E4 D2) F,6 | F,12 | (F,,C,E,F,A,E) z4 z2 | %7
+ (F,,B,,D,F,B,D) z4 z2 | (F,,^B,,D,F,^B,D) z4 z2 | (F,,G,,^B,,F,G,^B,) z4 z2 | %10
+ (F,,C,E,F,G,C) z4 z2 | (F,,C,E,F,=G,C) z4 z2 | (F,,B,,=D,F,B,=D) z4 z2 | (F,,C,E,F,A,C) z4 z2 | %14
+ (B,,,B,,F,=A,=CF) z4 z2 | (E,,B,,E,=G,B,E) z4 z2 | (F,,B,,=D,F,B,=D) z4 z2 | %17
+ (=G,,C,E,=G,^A,^C) z4 z2 | (^G,,=D,^E,B,=D^E) z4 z2 | (=G,,=D,^E,B,=D^E) z4 z2 | %20
+ (5:3:5(F,,2=E,2F,2A,2E2) z4 z2 | (F,,B,,F,B,DF !arpeggio![F,^E]2) z2 z2 | %22
+ (F,,C,=E,F,A,E !arpeggio![F,^D]2) z2 z2 | x6 (A,4 B,2 | E4 D2) F,6 | B,,6 B,,6 | %26
+ ([=A,,,=A,,]4 [=G,,,=G,,]2 [F,,,F,,]4 [E,,,E,,]2) | (^E,,B,,^E,^G,B,=D) z4 z2 | %28
+ (F,,B,,=D,F,B,=D) z4 z2 | (=G,,B,,^E,=G,B,=D) z4 z2 | (F,,C,=E,F,^A,F) z4 z2 | %31
+ (B,,^D,=A,B,D=A) z4 z2 | (B,,E,G,B,EG !arpeggio![B,F]2) z2 z2 | %33
+ (B,,,B,,D,F,B,D !arpeggio![B,F]2) z2 z2 | (B,,,B,,C,E,G,C [F,B,D]2) z2 z2 | %35
+ (5:3:5(F,,,2F,,2B,,2=D,2F,2) z4 z2 |!ped! (4:3:4F,,,2F,,2-C,2-E,2- [F,,C,E,]6!ped-up! | %37
+!ped! (B,,,,2B,,,2F,,2) !fermata![B,,D,]6!ped-up! |] %38
+V:4
+ x6 | x6 | x6 | (F,,/B,,/E,/G,/B,/E/) F,3 | F,3 (E,2 D, | C,2 B,, A,,2 B,,) | x6 | x6 | x6 | x6 | %10
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | (F,,/B,,/E,/G,/B,/E/) (F,3 | %24
+ F,3 E,2 D,) | (=A,,2 G,,) (F,,2 E,,) | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %36
+ (4:3:3x F,,2 x x3 | x6 |] %38
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %36
+ (4:3:2x C, x3/2 | x3 |] %38

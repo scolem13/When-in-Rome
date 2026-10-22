@@ -1,0 +1,67 @@
+% Heut triumphieret Gottes Sohn: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1163
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Heut triumphieret Gottes Sohn
+C:Johann Sebastian Bach
+%%score 1 ( 2 3 4 ) ( 5 6 ) 7
+L:1/8
+Q:1/4=60
+M:3/2
+I:linebreak $
+K:Dmin
+V:1 bass nm="Trombone" snm="Trb"
+L:1/4
+V:2 treble nm="right" snm="P Org"
+V:3 treble 
+V:4 treble 
+V:5 bass nm="left" snm="P Org"
+V:6 bass 
+L:1/4
+V:7 bass nm="Pipe Organ" snm="P Org"
+L:1/4
+V:1
+ x2 | x3 G,, _E,, F,, | _B,,,2 x B,,, F,, D,, | G,,2- G,,/ D,,/_E,,/C,,/ F,, F,,, | _B,,,4 x2 | %5
+ x3 G,, D,, _E,, | A,,,2 x A,,, D,, _B,,, | _E,,/_B,,,/C,,/A,,,/ D,,2 D,,,2 | G,,,4 x2 | %9
+ x3 G,, _E,, F,, | _B,,,2 x G,,, D,, B,,, | G,,2- G,,/ D,,/_E,,/C,,/ F,, F,,, | _B,,,4 x2 | %13
+ x3 _B,, _E,, F,, | _B,,,2 x B,,, _E,, C,, | _G,,2- G,,/ E,,/G,,/D,,/ =G,, G,,, | D,,4 x2 | %17
+ x3 A,, D,, _E,, | A,,,2 x A,,, D,, _B,,, | _E,,/_B,,,/C,,/A,,,/ D,,2 D,,,2 | G,,,4 x2 | %21
+ x3 F,, D,, _E,, | A,,,2 x F,, _B,,/A,,/B,,/A,,/ | _B,,/F,,/G,,/E,,/ A,,2 A,,,2 | %24
+ D,,2 x D,, D,/C,/D,/A,,/ | _B,,/A,,/B,,/_G,,/ =G,,/C,,/D,,/A,,,/ _B,,,/_G,,,/=G,,,/_D,,/ | %26
+ D,,4-[Q:1/4=136] D,,2- | D,,2[Q:1/4=92][Q:1/4=76][Q:1/4=30] D,,,2 x2 |] %28
+V:2
+ x8 _B4 | _B8 c4 | d8 c4 | _B8 A4 | [_BD]8 B4 | _B8 B4 | c8 A4 | G4 _G4- D4- | DDE_G =G4- A3 A | %9
+ _B8 c4 | d6 _e2 f4 | _e4 d4 c4 | d8 d4 | d8 c4 | d8 c4 | d6 c2 _B4 | A8 A4 | A8 _B4 | c8 A4 | %19
+ G4 _G4- D4 | G4 G4 G4 | A8 _B4 | c8 d4 | d4 _d4- A3 [GE] | d8- _G3 G | d4 d4 d4 | %26
+[Q:1/4=136] d8- _B4 |[Q:1/4=92][Q:1/4=76][Q:1/4=30] A8 x4 |] %28
+V:3
+ x8 x DE_G | G4- G F_ED CGFE | D4 z CD_E FGFE | D2 _EF G4- GGFE | z8 z D_EF | G_AGF _EFDE F2 ED | %6
+ C3 D _ED C2- CEDC | _B,2 _E3 EDC _G4 | G4 z4 G_G=G z | D2 E_G =GF_ED CGFE | DFGA _B4- BcB_A | %11
+ GFGA _B4- CG A2- | AAG_G =G4 z _EDC- | CC z6 G2 F_E | D4 z c_BA GA_G=G | AG_GE D4- DED_D | %16
+ DG_GE G4- D[E_D][G=D][=GE] | _G[=GE][_GD][E_D] G4- G2 =G2- | G2 _G=G A_BAG _G3 G | %19
+ z2 _E3 EDC _G4 | z DE_G z2 D2- DDC z | z2 D_E F2 C2 D_AGF | _ED C2 FGFE D2 [FD]2 | %23
+ _B4- B BAG- _d4 | [_GD]=G_GE D_BA=G d4 | G3 A G3 _G =GA _B2- | _B3 A B3 A d4- | d8 x4 |] %28
+V:4
+ x4 x8 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z6 G2 _B2 F_E | D4- D z7 | %13
+ z12 | z12 | z12 | z8 _G z3 | z4 D_ED z4 z | z12 | z12 | z12 | z12 | z12 | G7 z GG_G z | z12 | %25
+ z8 z2 G2- | G_G =G3 _G =G2- G_G =G2- | GG_GE G4 x4 |] %28
+V:5
+ x4 | z CB,A, G,2 B,2- B,2 A,2 | B,F,G,A, B,4 A,4 | z B,CD _E2 D2 C4 | z CB,A, B,F,G,A, B,2 CD | %5
+ _ECB,_A, G,A, B,2- B,A, G,2- | G,G,=A,B, CB,A,G, _G,4 | =G,2 C2 A,4- A,CB,A, | %8
+ B,4 z B,A,G, DD,E,_G, | =G,_G,=G,A, B,4- B,2 A,2 | B,4 z A,B,C D_EDC | B,A,B,C D2 z6 | %12
+ z4 z B,A,G, _G,4 | =G,8- G,B, A,2- | A,A,G,_G, =G,4 z CD_E | A,8- A,G,_G,=E, | %16
+ _G,E,D,_D, =D,A,=B,_D z4 | z7 C _B,A,=G,B, | A,G,A,B, CD _E2- EEDC | B,4 A,4- A,CB,A, | %20
+ B,4 z G,A,B, E,4 | F,4 z B,A,G, F,2 G,2- | G,3 B, A,B,A,G, F,2 z2 | z12 | %24
+ z B,A,G, _G,=G,_G,E, D,3 C | D3 C B,3 C D2 z2 |[Q:1/4=136] z7 _D =DA,B,G, | %27
+[Q:1/4=92][Q:1/4=76][Q:1/4=30] D8 x4 |] %28
+V:6
+ x2 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z B,/A,/ B,/C/D/B,/ z2 | z6 | %15
+ z6 | z6 | z6 | z6 | z6 | z4 z3/2 B,/ | A,/C/ z4 z | z6 | z6 | z6 | z6 | z6 | z4 x2 |] %28
+V:7
+ x2 | x3 G, _E, F, | _B,,2 x B,, F, D, | G,2- G,/ D,/_E,/C,/ F, F,, | _B,,4 x2 | x3 G, D, _E, | %6
+ A,,2 x A,, D, _B,, | _E,/_B,,/C,/A,,/ D,2 D,,2 | G,,4 x2 | x3 G, _E, F, | _B,,2 x G,, D, B,, | %11
+ G,2- G,/ D,/_E,/C,/ F, F,, | _B,,4 x2 | x3 _B, _E, F, | _B,,2 x B,, _E, C, | %15
+ _G,2- G,/ E,/G,/D,/ =G, G,, | D,4 x2 | x3 A, D, _E, | A,,2 x A,, D, _B,, | %19
+ _E,/_B,,/C,/A,,/ D,2 D,,2 | G,,4 x2 | x3 F, D, _E, | A,,2 x F, _B,/A,/B,/A,/ | %23
+ _B,/F,/G,/E,/ A,2 A,,2 | D,2 x D, D/C/D/A,/ | _B,/A,/B,/_G,/ =G,/C,/D,/A,,/ _B,,/_G,,/=G,,/_D,/ | %26
+ D,4-[Q:1/4=136] D,2- | D,2[Q:1/4=92][Q:1/4=76][Q:1/4=30] D,,2 x2 |] %28

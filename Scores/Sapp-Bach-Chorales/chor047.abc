@@ -1,0 +1,29 @@
+X:1
+T:Vater unser im Himmelreich
+T:Vater unser im Himmelreich
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ A | A F G A | F E !fermata!D A | A G c A | F G !fermata!A A/=B/ | c d/e/ f e | d ^c !fermata!d d | %7
+ e d =c =B | A ^G !fermata!A d | c =B c A | A G !fermata!F A | B A/G/ F G | F E !fermata!D x || %13
+V:2
+ F | E D ^C D/E/ | F ^C !fermata!A, F | E D E F | F E/D/ !fermata!E E | A G F G | %6
+ F/E/ E !fermata!F F | E =B E E/D/ | C/D/ E !fermata!E G | G F G F | F E !fermata!C D | D E D D | %12
+ D ^C !fermata!A, x || %13
+V:3
+ d | A A G d | d A !fermata!F d | A B c c | d/^c/ d !fermata!c =c | c/A/ =B/^c/ d/=c/ _B | %6
+ =B A !fermata!A B | =B/A/ A/^G/ A G | A =B !fermata!c B | c d e d | d/c/ B !fermata!A A | %11
+ G/=F/ E A G/A/ | =B E/ F/4G/4 !fermata!^F x || %13
+V:4
+ D, | ^C, D, E, F,/G,/ | A, A,, !fermata!D, D, | C, B,, A,,/C,/ F, | B, B, !fermata!A, A,/G,/ | %5
+ F,3/2 E,/ D, G, | ^G, A, !fermata!D, =G, | C, =B,, A,, E, | F, E, !fermata!A,, =G,/F,/ | %9
+ E, D, C, D,/C,/ | B,, C, !fermata!F, ^F, | G, ^C, D,/=C,/B,,/A,,/ | ^G,, A,, !fermata!D, x || %13

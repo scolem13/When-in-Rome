@@ -1,0 +1,105 @@
+X:1
+T:6 Gesänge, Op.16
+T:Der Fichtenbaum
+C:Robert Franz
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 8 ) | ( 3 5 6 7 ) }
+L:1/4
+Q:1/4=85
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+L:1/16
+V:4 treble 
+V:8 treble 
+L:1/8
+V:3 bass 
+L:1/16
+V:5 bass 
+L:1/16
+V:6 bass 
+V:7 bass 
+V:1
+"^Andante maëstoso" z4 | z2 z!p! F | D3/2 E/ F d | (c3/2!<(! d/) e f!<)! | g c/ c/ d =G | %5
+w: |Ein|Fich- ten- baum steht|ein- * sam im|Nor- den auf kah- ler|
+w: |A|so- li- ta- ry|fir- * tree stood|high, where the north- winds|
+!>(! A2-!>)! A z | z2 z A |!<(! A4-!<)! |!>(! A3!>)! =G | F (A/B/) c3/2 d/ | c B z A | %11
+w: Höh’, _|ihn|schlä-||fert; mit * wei- sser|De- cke um-|
+w: blow, _|he|slum-||ber’d ’neath * glitt- ’ring|white- ness, all|
+ =G/ G/ G G A | B2- B d |!<(! F/ F/ F A!<)! =G |!>(! F2-!>)! F z | z4 | z4 | z4 | z4 | z4 | z4 | %21
+w: hül- len ihn Eis und|Schnee, _ um-|hül- len ihn Eis und|Schnee. _|||||||
+w: co- vered by ice and|snow, _ all|co- vered by ice and|snow. _|||||||
+ z2 z!p! A |"^mit Wärme und Inngkeit.""^con passione." d3/2 c/ d e |!>(! (f3/2!>)! d/) A z/ d/ | %24
+w: Er|träumt von ei- ner|Pal- * me, die|
+w: He|dreamt of one fair|palm- * tree, a-|
+ (d _c/) __B/ A G |!>(! (A!>)! F/) z/ z2 | d e/ _f/ e d |!<(! (e3/2!<)! _f/)!>(! g!>)! z/ c/ | %28
+w: fern _ im Mor- gen-|land, _|ein- sam und schwei- gend|trau- * ert auf|
+w: far in a sun- ny|land, _|lone- ly and si- lent|mourn- * ing, parched|
+!p! d A/ F/ (__B A/) G/ |!>(! (A!>)! F/) z/ z2 | z4 | z4 | z4 |] %33
+w: bren- nen- der Fel- * sen-|wand. _||||
+w: up on a rock- * y|strand. _||||
+V:2
+!p!!<(! (c6 d2 e4 f4!<)! |!>(! g8 f4)!>)! z4 |!p! z4 [DFB]4 z4 [DFB]4 | z4 [EGc]4 z4 [EGc]4 | %4
+ z4 [CEG]4 z4 [D_F=G]4 | z4 (A8 [A,E]4- | [A,E]4 (([=G,D]4 [A,C]4))) z4 | z4!<(! (C8 D4!<)! | %8
+ z4!>(! (A8!>)! [_B,=G]4) | [A,F]4) z4!p! z4 [CFc]4 |!<(! z4 [DFB]4 z4 [CFA]4!<)! | %11
+ z4!>(! [B,=E=G]4 z4!>)! [CFA]4 | z4!>(! [DB]8!>)! z4 | z4 [=B,FA]4 z4 [_B,=E=G]4 | z4 F8 [F,C]4- | %15
+ [F,C]4[K:bass] (([=E,B,]4 [F,=A,]4)) z4 |[K:treble] z8 z4!pp!"^melodia ben marcato" (__B4 | %17
+ A4 G4 F4) (d4 | c4 B4"_cresc." A4) (f4 | e4 d4 c4 B4) |!f!!<(! ([Cc]6 [Dd]2 [Ee]4 [Ff]4!<)! | %21
+!>(! [Gg]8!>)! [Cc]4) z4 | %22
+!p![I:staff +1] [F,A,D]2[I:staff -1](Ad FADF)[I:staff +1] [G,__B,E]2[I:staff -1](de __BdGB) | %23
+[I:staff +1] [F,A,D]2[I:staff -1](Ad FADF)[I:staff +1] [F,A,D]2[I:staff -1](Ad FADF) | %24
+ [__B,DG]2(__Bd GBDG) [G,DG]2(Bd GBDG) | %25
+!p![I:staff +1] [F,A,D]2[I:staff -1](Ad FADF)[I:staff +1] [F,A,D]2[I:staff -1](Ad FADF) | %26
+[I:staff +1] [_F,=G,D]2[I:staff -1](=Gd _FGDF)[I:staff +1] [F,A,D]2"_crescendo"[I:staff -1](Ad FADF) | %27
+ [__B,DE]2(de __BdGB) [G,DD]2(de B"_dimin."dGB) | %28
+!p![I:staff +1] D2[I:staff -1](A!<(!d FADF)!<)!!>(! [G,CE]2(GA E!>)!GCE) | %29
+[K:bass] D2!<(!(DF A,DF,A,)!<)! __B,2(CE A,CG,A,) | %30
+!>(! ((([F,A,D]4!>)! [D,F,A,]2))) z2!>(! (__B,2CE A,CG,!>)!A,) | %31
+"_decresc." ((([F,A,D]4 [D,F,A,]2))) z2 ((([F,A,D]4 [D,F,A,]2))) z2 | %32
+!pp! ((([F,A,D]8 [D,F,A,]4))) z4 |] %33
+V:3
+ z16 |[K:treble]!ped! ([=A,-C-E-G]8 [A,CEF]4)!ped-up! z4 |[K:bass] B,8 B,8 | B,8 B,8 | A,8 A,,8 | %5
+!ped! z4 (_G,4 _F,4)!ped-up! (G,4 | _F,4) (__B,,,4 A,,,4) z4 | z4 (A,,8 =A,,4 | %8
+ B,,4 =B,,4!ped! C,8-)!ped-up! | C,4 z4 (A,,8 | B,,8 C,8 | D,8 C,8 |!ped! B,,8-) B,,4!ped-up! z4 | %13
+ D,8 C,8 |!ped! z4 (_E,4!ped-up! D,4) (E,4 | D,4) (_G,,,4 F,,,4) z4 | z16 | %17
+ z4 (([C,__B,]4 [D,A,]4)) z4 | z4 (([E,G,]4 [F,A,]4)) z4 | z4 [G,B,]4 z4 [E,G,]4- | [E,G,]4 z4 z8 | %21
+!ped! ((C8 [A,E]4)) z4!ped-up! |!ped! [D,,A,,]8!ped-up!!ped! [D,,__B,,]8!ped-up! | %23
+!ped! [D,,A,,]8 [D,,A,,]8!ped-up! |!ped! [G,,,G,,]8!ped-up!!ped! [__B,,,__B,,]8!ped-up! | %25
+!ped! [D,,A,,]8!ped-up!!ped! [D,,A,,]8!ped-up! |!ped! [B,,,B,,]8!ped-up!!ped! [A,,,A,,]8!ped-up! | %27
+!ped! [_G,,,_G,,]8!ped-up!!ped! [__B,,,__B,,]8!ped-up! | %28
+!ped! [A,,,A,,]2(A,D F,A,D,F,)!ped-up!!ped! [A,,,A,,]2(G,A, E,G,C,E,)!ped-up! | %29
+!ped! [D,,A,,]2(D,F, A,,D,F,,A,,)!ped-up!!ped! [A,,,A,,]2(C,E, A,,C,G,,A,,)!ped-up! | %30
+!ped! [D,,A,,]2(D,F, A,,D,F,,A,,)!ped-up!!ped! [A,,,A,,]2(C,E, A,,C,G,,A,,)!ped-up! | %31
+!ped! [D,,A,,]2(D,F, A,,D,F,,A,,) [D,,A,,]2(D,F, A,,D,F,,A,,) | [D,,A,,]8- [D,,A,,]4!ped-up! z4 |] %33
+V:4
+ x4 | x/ x/ x/ x/ x2 | x4 | x4 | x4 | x (([CE] D)) x | x4 | x4 | =D E =E2 | x4 | x4 | x4 | %12
+ x (_G/F/ G) x | x4 | x ([=A,C] B,) x | x[K:bass] x3 |[K:treble] x4 | z (_E F) z | z (C D) z | %19
+ z E z C | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:bass] ([F,A,]2 [E,G,]2) | x2 [E,G,]2 | %31
+ x4 | x4 |] %33
+V:5
+ x16 |[K:treble] x16 |[K:bass] x16 | x16 | x16 | A,,,12 (C,4 | D,4) x12 | x16 | x8 C,4 (C,,4 | %9
+ F,,4) x4 x8 | x16 | x16 | x16 | x16 | !^!F,,,12 (=A,,4 | B,,4) x12 | x16 | x16 | x16 | x16 | x16 | %21
+ [A,,E,]8- [A,,E,]4 x4 | [D,,A,,]2(A,D F,A,D,F,) [D,,__B,,]2(DE __B,DG,B,) | %23
+ [D,,A,,]2(A,D F,A,D,F,) [D,,A,,]2(A,D F,A,D,F,) | %24
+ [G,,,G,,]2(__B,D G,B,D,G,) [__B,,,_B,,]2(B,D G,B,D,G,) | %25
+ [D,,A,,]2(A,D F,A,D,F,) [D,,A,,]2(A,D F,A,D,F,) | %26
+ [__B,,,__B,,]2(=G,D _F,G,D,F,) [A,,,A,,]2(A,D F,A,D,F,) | %27
+ [G,,,G,,]2(DE __B,DG,B,) [__B,,,_B,,]2(DE B,DG,B,) | [A,,,A,,]8 [A,,,A,,]8 | %29
+ x4 A,,2F,,2 x4 A,,2G,,2 | x4 A,,2F,,2 x4 A,,2G,,2 | x4 A,,2F,,2 x4 A,,2F,,2 | x16 |] %33
+V:6
+ x4 |[K:treble] x4 |[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %16
+ x4 | x4 | x4 | x4 | x4 | x4 | [F,A,D]2 [G,__B,E]2 | [F,A,D]2 [F,A,D]2 | %24
+[I:staff -1] [__B,DG]2 [G,DG]2 |[I:staff +1] [F,A,D]2 [F,A,D]2 | [_F,=G,D]2 [F,A,D]2 | %27
+[I:staff -1] [__B,DE]2 [G,DE]2 | x4 |[I:staff +1] [D,,A,,]2 [A,,,A,,]2 | [D,,A,,]2 [A,,,A,,]2 | %31
+ [D,,A,,]2 [D,,A,,]2 | x4 |] %33
+V:7
+ x4 |[K:treble] x4 |[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %16
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | [F,A,D]2[I:staff -1] [G,CE]2 | x4 | %30
+ x4 | x4 | x4 |] %33
+V:8
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x2[K:bass] x6 | %16
+[K:treble] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %29
+[K:bass] x2 A,F, x2 A,G, | x6 A,G, | x8 | x8 |] %33

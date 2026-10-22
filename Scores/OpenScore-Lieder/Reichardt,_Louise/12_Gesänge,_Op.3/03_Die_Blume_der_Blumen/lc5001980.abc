@@ -1,0 +1,43 @@
+X:1
+T:Zwölf Gesänge
+T:Die Blume der Blumen
+C:Louise Reichardt
+Z:Philipp Otto Runge
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+M:6/8
+I:linebreak $
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+V:5 bass 
+V:1
+ E | c d c (BA) B | A3 E2 A | G2 G A2 A | B3 z2 A | d2 d d c c |({c} B2) B z2 B | %7
+w: Es|blüht ei- ne schö- * ne|Blu- me in|ei- nem  wei- ten|Land, die|ist so se- lig ge-|schaf- fen die|
+ e2 e (=d/e/g/f/) e/ _d/ | d2 c z2 B | B2 A A2 G | A3 z2 c | B2 G B A F | F2 E z2 c | %13
+w: ist so se- * * * lig ge-|schaf- fen und|we- ni- gen be-|kant, ihr|Duft er- fül- let die|Tha- le, ihr|
+ B2 e({g/} f) e =d | e3- e z e | e2 c A B c | (e2 =d) _d2 d | c d c (BA) B | A3 z2 :| e | %20
+w: Glanz er- leuch- tet den|Wald, * und|wo, ein Kran- ker sie|sie- * het, die|Krank- heit ent- wei- * chet|bald.|So|
+"^zur letzten Strophe" e2 c (A>ag/) f/ | %21
+w: wünsch ich das * * im|
+V:2
+ x | c2 x4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x5 :| %19
+ x | x6 | %21
+V:3
+ z |!p! CEA DEG | CEA CEA | DEG CEA | EGB EAc | z [FAd][FAd] z [EAc][EAc] | %6
+"_cresc." z [EGB][EGB] z [EGB][EGB] |!p! z!f! [EAe][EAe] z [EGd][EGd] | %8
+"_dim." z [EAc][EAc] z [DFB][DFB] |!p! z [CEB][CEA] z [DEA][DEG] | %10
+"_poco cresc." z [CEA][CEA] z [CEA][CEA] | z [B,EG][B,EG] z [=DF][DF] | z EE z [EAc][EAc] | %13
+ z [EGB][EGB] z!p!!f! [FAB][FAB] | E"_dim."GB _DEG | CEA CEA | DEG DEG | CEA DEG | CEA [CEA]2 :| %19
+ z | CEA CEA | %21
+V:4
+ z | [A,,A,]3 [E,B,]3 | [A,,A,-]3 [A,,A,]3 | [E,B,]3 [A,,A,]3 | [E,,E,]3 A,3 | A,3 A,3 | D3 D3 | %7
+ C3 B,3 | A,3 D,3 | E,3 E,3 | [A,,A,]3 [A,,A,]3 | B,,3 B,,3 | [E,,E,]3 [A,,A,]3 | %13
+ [B,,B,]3 [B,,B,]3 | [E,,E,]3 [E,B,]3 | [A,,A,]3 [A,,A,]3 | [E,B,]3 [E,B,]3 | [A,,A,]3 [E,B,]3 | %18
+ [A,,A,]3 [A,,,A,,]2 :| z | [A,,A,]3 [A,,A,]3 | %21
+V:5
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 x A, A, | x [G,B,] [G,B,] x x2 | x6 | %14
+ x6 | x6 | x6 | x6 | x5 :| x | x6 | %21

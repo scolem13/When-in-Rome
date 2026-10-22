@@ -1,0 +1,55 @@
+X:1
+T:Variations on a Theme of Corelli
+T:Variation 2
+C:Sergei Rachmaninoff
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/16
+Q:1/4=90
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 treble 
+V:4 treble 
+V:1
+"^L'istesso tempo\n\n"!p! .d2z(f .d2)z(f .d2)z(((e | .^c2)))z(d .c2)z(=B .c2)z(e | %2
+ .d2)z(f .d2)z(f .d2)z(f |$ .e2)z(f .e2)z(d .e2)z(g | .f2)z(a .f2)z(a f2)z(g | %5
+ .e2)z(d"_dim." .e2)z(f .e2)z(f |$!p! .d2)z(^c .d2)z(f .d2)z((e | !tenuto!^c12)) | %8
+!pp! .d2z"_sempre leggiere\n\n".f .d2z.f .d2z.e |$ .^c2z.d .c2z.=B .=c2z.e | %10
+ .d2z.f .d2z.f .d2z.f |$ .e2z.f .e2z.d .e2z.g | .f2z.a .f2z.a .f2z.g | .e2z.d .e2z.f .e2z.f |$ %14
+ .d2z.e .d2z.e .^c2z.d | !tenuto!d12 |] %16
+V:2
+ (A"_leggiere\n\n"B!tenuto!A2-) A(c!tenuto!B2-) B(A(!tenuto!^G2) | %1
+ G)(A!tenuto!=G2-) G(^F!tenuto!G2-) G(A(!tenuto!^G2) | %2
+ G)(B!tenuto!A2-) A(c!tenuto!B2-) B(A(!tenuto!_A2) |$ %3
+ A)G!tenuto!c2- c(=B!tenuto!c2-) c(^c!tenuto!d2-) | %4
+ d(_d!tenuto!c2-) c(^c!tenuto!=d2-) d(_d!tenuto!=c2-) | %5
+ c(=B!tenuto!_B2-) B(=B!tenuto!c2-) c(B!tenuto!_B2-) |$ %6
+ B(A!tenuto!^G2-) G(A!tenuto!B2-) B(A(!tenuto!G2) | G)A^G=G"_perdendo\n\n" ^GA2B =B=c2^c | %8
+ z (B!tenuto!A2-) A(c!tenuto!B2-) B(A(!tenuto!^G2) |$ %9
+ G)(A!tenuto!=G2-) G(^F!tenuto!G2-) G(A(!tenuto!^G2) | %10
+ G)(B!tenuto!A2-) A(c!tenuto!B2-) B(A(!tenuto!_A2) |$ %11
+ A)(G!tenuto!c2-) c(=B!tenuto!c2-) c(^c!tenuto!d2-) | %12
+ d(_d!tenuto!c2-) c(^c!tenuto!=d2-) d(_d!tenuto!=c2-) | %13
+ c(=B!tenuto!_B2-) B(=B!tenuto!c2-) c(B!tenuto!_B2-) |$ %14
+ B(B!tenuto!A2-) A(c!tenuto!B2-) B(B!tenuto!A2-) | A(^GAB Bc2^c d2) z2 |] %16
+V:3
+"m" .[DF]2z([A,G] .[DF]2)z([CG] .[DF]2)z"CFr43"([B,D] | %1
+"" .[A,E]2)z([B,_E] .[A,=E]2)z([DF] .[A,E]2)z([^CE] | %2
+"m" .[DF]2)z([A,G] .[DF]2)z([CG] .[DF]2)z"m"([=B,D] |$ %3
+"""^poco cresc." .[CE]2)z([D_A] .[EG]2)z([FA] .[CG]2)z([EB] | %4
+"" .[FA]2)z([CB] .[FA]2)z([GB] .[FA]2)z([DF] |"" .[CG]2)z([B,F] .[CE]2)z([A,D] .[CE]2)z"m"([^CG] |$ %6
+"m" .[DF]2)z([A,E] .[DF]2)z([=CG] .[DF]2)z"m"[B,D] | (E2>_E2 D^D=EF ^FG^GA) | %8
+[K:treble]"m" .D2z.A, .D2z.C .D2z"CFr43".B, |$"" .A,2z.B, .A,2z.G, .A,2z.^C | %10
+"m" .D2z.A, .D2z.C .D2z"m".=B, |$"" .C2z.D .E2z.F"^poco cresc." .C2z.E |"" .F2z.C .F2z.G .F2z.D | %13
+"""^dim." .C2z.B, .C2z.A, .C2z"m".^C |$"m" .D2z.F, .G,2z.G,"" .A,2z.A, | %15
+ G"^perdendo"FEF ^FG^GA- !fermata![Ad]4 |] %16
+V:4
+ x12 | x12 | x12 |$ x12 | x12 | x12 |$ x12 |"" A,12 | %8
+[K:treble] z (G!tenuto!F2-) F(A!tenuto!G2-) G(F!tenuto!E2-) |$ %9
+ E(F!tenuto!_E2-) E(^D=E2-) E(F!tenuto!E2-) | E(G!tenuto!F2-) F(A!tenuto!G2-) G(^F(!tenuto!=F2) |$ %11
+ F)(E!tenuto!_A2-) A(G!tenuto!A2-) A(=A!tenuto!B2-) | %12
+ B(B!tenuto!A2-) A(B!tenuto!=B2-) B(_B!tenuto!A2-) | %13
+ A(_A!tenuto!G2-) G(^G!tenuto!=A2-) A(_A!tenuto!=G2-) |$ %14
+ G(^F!tenuto!=F2-) F(A!tenuto!G2-) G(^F!tenuto!G2-) |"m" D8- D4 |] %16

@@ -1,0 +1,60 @@
+X:1
+T:Sonata
+C:Domenico Scarlatti
+%%score { ( 1 3 ) | ( 2 4 5 ) }
+L:1/8
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Harpsichord" snm="Hch."
+V:3 treble 
+V:2 bass 
+L:1/4
+V:4 bass 
+V:5 bass 
+V:1
+ z/[Q:1/4=132] F/ |: FG A3 B | c2 G3 F- | B2 AB c2- | cB c2 d2- |$ dc e2 a2 | g3 f e2 | d3 c B2 | %8
+ A3 G F2- | F E2 D CB, |$ C=D z2 A2- | AG c2 f2- | fe g2 c'2- | c'=a b3 g | a3 g f2 |$ e3 =d c2 | %16
+ =B=dBGAe | f=d=BGAe | f=d=BGAe | f=d=BG g=e |$ c'afc B=e | c'afc B=e | c'3 b a2- | ag f3 e- | %24
+ e=dc=B c2- |$ c3 =d2 =B | c2 FA GE | AF E=d =D=B | C=EG_B_d=e | g=edBG=E ::$ =AB c3 B | =AB c3 B | %32
+ cd e3 d | cd e2 dc | Bc d3 c |$ Bc d3 c | fg a3 g | c'3 b a2- | ag f3 e | d3 c B2 | AcBAGF | %41
+ cG=ECDB | cG=ECDB |$ cG=ECc=A | fdBFE=A | fdBFE=A | f3 e d2- | dcBAGF | c'g=ecdb | c'g=ecdb | %50
+ c'g=ec c'=a |$ bfdB c'b/=a/ | bfdB c'b/=a/ |$ b3 _a g2- | g f2 =e f2- | f2 =e2 f2- | fd c4 | %57
+ FG AB cf | dBAgG=e |$ fdBG=EB | cAFDB,=E | F4- F=E | F4- F=E | FC=A,F,[K:bass] F,,2 :| %64
+V:2
+"m" z/ |:"C{" F,3/2 E/"m" D |"" C3/2"m" D/"m" C |"m" B,"m" C3/2"m" _E/ |"m" D"" C"m" D |$ %5
+"""" E2"" F |"m" E3/2"m" D/"" C |"m" B,3/2"m" A,/"" G, |"" F,3/2"m" E,/"m" D, |"" C,"m" B,,"" E, |$ %10
+"""C{" A,3/2 G,/"m" A, |"" B,"m" C"" =D |"m" E3/2"m" =D/"m" C |"m" z"m""" G2 |"m" F3/2"m" E/"" F |$ %15
+"" E3/2"m" =D/"m" C |"""C{" =D2"" [CE] |"" [=B,=DF]3/2 [B,DF]/"m" [CEF] |"" [=B,=DF]2"m" [CEF] | %19
+"" [=B,=DF]2"" [G,_B,C=E] |$"m" [A,CF]2"" [G,B,C=E] |"m" [A,CF]2"" [G,B,C=E] |"m""""m" [CF]3 | %23
+"m" E3/2"" =D/"" C |"""" =D2"m" C- |$"m""m" C"" G,"" G,, |"m" A,,"C{" z/"m" F,/"m"E,/"m"C,/ | %27
+"m" F,/"m"=D,/"" G,"" G,, |"m""m" C, z z | z3 ::$"" [F,CF]3/2 E/"m" F |"m" E3/2 F/"m" [E_G] | %32
+"" [EF]3/2 F/"m" [E_G] |"" [EF]3/2"m" F"m" F/ |"" E3/2"" E E/ |$"" [B,E]3/2"" E E/ |"""" F2"m" D | %37
+"m" [A,CF]"" [G,B,C=E]"m" [F,CF] |"m" _E"m" [DF]"m" [CE] |"m""m" [B,D]3/2"m" [A,C]/"" [G,B,C] | %40
+"m" [F,C]"m" D"m" B, |"""C{" [C,G,C]3/2 C,/"m" F, |"" T=E,3/2 E,/"m" F, |$ %43
+"" T=E,3/2 E,/"" [_E,F,=A,] |"m" [D,F,B,]3/2 [D,F,B,]/"" [C,E,F,=A,] | %45
+"m" [D,F,B,]3/2 [D,F,B,]/"" [C,E,F,=A,] |"m" [D,B,]"m" [C,C]"m""m" [B,D] |"m" [_A,C]"m" D"m" B, | %48
+"""C{" [C,C]3/2 C/"m" F |"" T=E3/2 E/"m" F |"" T=E3/2[K:treble] E/"" [_EF=A] |$ %51
+"m" [DFB]2"" [CEF=A] |"m" [DFB]2"" [CEF=A] |$"m" [DFB][K:bass]"" [CE]"m" [B,D] | %54
+"m" [A,CF]"" [G,B,C=E]"m" [F,DF] |"" C-"" C"m" [F,A,C] |"m""" [F,B,]2"" C | %57
+"""C{" D,3/2"m" [B,D]/"m" [A,C] |"m" [B,D]"" C"" C, |$"m" [F,,F,]"m" z"m" z |"" [F,,C,F,] z"m" z | %61
+"m" [F,,C,F,] z"" z |"m"({F,,A,,)B,,} [F,,C,F,] z"" z |""({F,,A,,)B,,} [F,,C,F,] z"C}" z :| %64
+V:3
+ x |: x4 F2- | F=E z x3 | F=E F3 G | F3 A2 G |$ A3 B2 d- | dc B3 A- | AG F3 E- | ED C3 B, | %9
+ A,2 G,4 |$ x2 E3 =D | E3 F2 =B | c3 =d2 f | g3 =d =e2 | z =B c3 _B- |$ BA G3 F | x6 | x6 | x6 | %19
+ x6 |$ x6 | x6 | z f _e3 =d | c3 B A2 | G4- GF |$ GA E2 =D2- | DC x4 | x6 | x6 | x6 ::$ x6 | x6 | %32
+ =AB c3 B | =AB c2 B2 | G4- GA |$ x6 | f3 e d2 | z f =e3 _d | c3 B =A2 | z G F3 =E | F2 x4 | x6 | %42
+ x6 |$ x6 | x6 | x6 | z B =A3 G | F2 x4 | x6 | x6 | x6 |$ x6 | x6 |$ z f e3 d | c2 B3 d- | %55
+ dd cB AG | F3 GA=E | F6 | x6 |$ x6 | x6 | z CA,F, G,[G,B,C] | z CA,F, G,[G,B,C] | x4[K:bass] x2 :| %64
+V:4
+ x |: x6 | x3 B, A,2 | G,2 F,2 x2 | x4 B,2 |$ A,3 G, F,2 | x6 | x6 | x6 | x6 |$ x4 F,2 | %11
+ E,2 A,2 G,2 | C3 B, A,2 | G,4 C2 | x4 =D2 |$ C3 B, A,2 | G,4 x2 | x6 | x6 | x6 |$ x6 | x6 | %22
+ A,3 G, F,2 | x6 | =B,2 G,2 A,2 |$ E,F, x4 | x6 | x6 | x6 | x6 ::$ x4 D2 | C4 B,2 | =A,4 B,2 | %33
+ =A,4 B,_A, | G,4 A,2 |$ G,4 [A,C]2 | D3 C B,2 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | %47
+ x6 | x6 | x6 | x3[K:treble] x3 |$ x6 | x6 |$ x2[K:bass] x4 | x6 | =E,3 C, x2 | B,,2 C,4 | x6 | %58
+ x6 |$ x6 | x6 | x6 | x6 | x6 :| %64
+V:5
+ x |: x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | %19
+ x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 ::$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | %37
+ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3[K:treble] x3 |$ x6 | x6 |$ %53
+ x2[K:bass] x4 | x6 | B,2 x4 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 :| %64

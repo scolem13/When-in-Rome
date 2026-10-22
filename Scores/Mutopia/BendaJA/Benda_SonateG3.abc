@@ -1,0 +1,43 @@
+% 3. Satz aus der Sonate in G-Dur: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=45
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:3. Satz aus der Sonate in G-Dur
+C:Jiři Antonìn Benda
+%%score ( 1 2 ) 3
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="up"
+V:2 treble 
+L:1/8
+V:3 bass nm="down"
+V:1
+ B2dB G2 z2 | z2 [Bd] z [ce] z [Bd] z | [cA]2AF D2 z2 | z2 [Ac] z [Bd] z [Ac] z | B2gB c2g^c | %5
+ d2g^d e z G z | F2G2 c2B2 | AGFE D2 z2 | B2dB G2 z2 | z2 [Bd] z [ce] z [Bd] z | [cA]2AF D2 z2 | %11
+ z2 [Ac] z [Bd] z [Ac] z | c z A[Bd] c2B[ce] | d2cd e z c z | c z A[GB] A2GF | G4 G,4 | B2 e4 ^d2 | %17
+ efgf e z B z | A2 d4 ^c2 | defe d z A z | G2g2 z2 g2 | z2 g2 z2 g2 | g z ed b z d z | ^cdec AGFE | %24
+ f2af d2AF | D2[fa] z [gb] z [fa] z | [ge]2E^C A,2 z2 | z2 [eg] z [fa] z [eg] z | %28
+ g z e[fa] g2f[gb] | a2ga b z g z | g z e[df] e2d^c | d4 D4 | B2e2 z2 e2 | z2 e2 z2 e2 | %34
+ z2 e2 z2 e2 | edcB A4 | A2d2 z2 d2 | z2 d2 z2 d2 | z2 d2 z2 d2 | dcBA G4 | =f z d[ce] d2c[Bd] | %41
+ c2B[Ac] B2A[GB] | A2G[FA] G2FE | FGAF D4 | B2dB G2 z2 | z2 [Bd] z [ce] z [Bd] z | [cA]2AF D2 z2 | %47
+ z2 [Ac] z [Bd] z [Ac] z | B2gB c2g^c | d2g^d e z G z | F2G2 c2B2 | AGFE D2 z2 | B2dB G2 z2 | %53
+ z2 [Bd] z [ce] z [Bd] z | [cA]2AF D2 z2 | z2 [Ac] z [Bd] z [Ac] z | c z A[Bd] c2B[ce] | %57
+ d2cd e z c z | c z A[GB] A2GF | G4 G,4 |] %60
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | B z3 | x4 | B z3 | x4 | G2 F2 | %17
+ G2 z2 | F2 E2 | F2 z2 | x4 | x4 | f z3 | x4 | D2 z2 | x4 | x4 | x4 | f z3 | x4 | f z3 | x4 | x4 | %33
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | e z3 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %52
+ x4 | x4 | x4 | x4 | B z3 | x4 | B z3 | x4 |] %60
+V:3
+ G,4 z2 DB, | G,2 z6 | D,4 z2 A,F, | D,2 z6 | G,4 A,4 | B,4 C4 | D2B,2 F,2G,2 | D,4 z CB,A, | %8
+ G,4 z2 DB, | G,2 z6 | D,4 z2 A,F, | D,2 z6 | G,, z G, z A,, z G, z | B,, z G, z C, z E, z | %14
+ D,4 D,,4 | G,,4 z4 | z8 | z8 | z8 | z8 | E4 D4 | ^C4 A,4 | D4 G,4 | A,4 z4 | z8 | z8 | %26
+ A,4 z2 E,^C, | A,,4 z4 | D, z D z E, z D z | F, z D z G, z B, z | A,4 A,,4 | D,4 z4 | %32
+ z4 [^G,B,D]4 | [A,C]4 [^G,B,D]4 | [A,C]4 [^G,B,D]4 | [A,C]4 z4 | z4 [F,A,C]4 | [G,B,]4 [F,A,C]4 | %38
+ [G,B,]4 [F,A,C]4 | [G,B,]4 z4 | C, z A, z B,, z G, z | A,, z F, z G,, z G, z | %42
+ F,, z D, z E,, z ^C, z | D,,4 z =CB,A, | G,4 z2 DB, | G,2 z6 | D,4 z2 A,F, | D,2 z6 | G,4 A,4 | %49
+ B,4 C4 | D2B,2 F,2G,2 | D,4 z CB,A, | G,4 z2 DB, | G,2 z6 | D,4 z2 A,F, | D,2 z6 | %56
+ G,, z G, z A,, z G, z | B,, z G, z C, z E, z | D,4 D,,4 | G,,4 z4 |] %60

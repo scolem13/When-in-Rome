@@ -1,0 +1,35 @@
+% O Morning Star!: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1031
+% Licence: Creative Commons Attribution-ShareAlike 3.0. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:O Morning Star!
+C:Geo. F. Root (1820-1895)
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=60
+M:9/8
+I:linebreak $
+K:Ab
+V:1 bass nm="tb" snm="Tba"
+L:1/4
+V:2 treble nm="sa"
+V:3 treble 
+V:1
+ x2 | x [_A,_A,,]/ [A,A,,] [A,A,,]/ [G,_E,] [G,E,]/ | _A, A,/ A, x2 | %3
+ x [_A,_A,,]/ [A,A,,] [A,A,,]/ [A,A,,] [A,A,,]/ | [G,_E,] [G,E,]/ [G,E,] x2 | %5
+ x [_B,_E,]/ [B,E,] [B,E,]/ [_A,E,] [A,E,]/ | [G,_E,] [G,E,]/ [G,E,] x2 | %7
+ x [_B,_E,]/ [B,E,] [B,E,]/ _A, [A,F,]/ |[M:6/8] [_B,_E,] [B,E,]/ [B,E,]- [B,E,]3/2 [_EE,]/ | %9
+[M:6/8][M:6/8] [_E_E,] [EE,]/ [EE,] [EE,]/ |[M:6/8] [_E_E,] [EE,]/ [E_A,] [CA,]/ | %11
+ [_E_E,] [EE,]/ [EE,] [EE,]/ |[M:9/8][M:9/8] _A, [A,F,]/ [_B,_E,] E,/ E, E,/ | %13
+[M:9/8] [_A,_A,,] [A,A,,]/ [A,A,,] [A,A,,]/ [G,_E,] [G,E,]/ | _A, A,/ A, A,/ [A,F,] [A,F,]/ | %15
+ [C_E,] [CE,]/ [CE,] [CE,]/ [_A,E,] [G,E,]/ | [_A,_A,,]2- [A,A,,]/ x2 |] %17
+V:2
+ x4 x [_EC] [EC][F_D][G_B,] | [_AC]4 [G_B,][AC] _BA[B_E] | [c_E]4- [cE] [EC] [EC][_AE][cA] | %3
+ [_ec]4 [_d_B][c_A] [cA][B_E][AC] | [_B_E]4- [BE] E E2 [BG] | _d4 c[_BG] [c_A][B_E][AC] | %6
+ [_B_E]4- [BE] E E2 [BG] | _d4 c[_BG] cB_A | [_eG]4- [eG]- z3 [eG]- | %9
+ [_eG]2 [eG] [f_d]2 [ec] [d_B]2 [BG] |[M:6/8] [_eC]2 [_d_B] [c_A]2 A | [_d_B]2 [c_A] [BG]2 [BG] | %12
+[M:9/8] [c_A]2 A [_eG]2 _E E2 [G_D] |[M:9/8] [_AC]4 [G_B,][A_E] _BA[BE] | %14
+ [c_E]4- [cE] [cE] _dc[d_A] | _e4 c[_A_E] [cE]2 [_B_D] | [_AC]4- [AC] x4 |] %17
+V:3
+ x4 x5 | z6 _E2 z | z9 | z9 | z7 G z | G4- G z4 | z7 G z | G4- G z _A2 z | z9 | z8 z |[M:6/8] z6 | %11
+ z6 |[M:9/8] z7 G z |[M:9/8] z6 _E2 z | z6 _A2 z | _A4- A z4 | z4 z x4 |] %17

@@ -1,0 +1,37 @@
+% St. Louis (hymntune): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1292
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:St. Louis (hymntune)
+C:Lewis H. Redner (1830-1908), 1868
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:F
+V:1 bass nm="lower"
+V:2 bass 
+L:1/8
+V:3 treble nm="upper"
+V:4 treble 
+L:1/8
+V:1
+ x3 F, | F, F, F, F, | [B,,_G,] [B,,=G,] [B,,G,] [B,,B,] | [C,A,] C, [C,B,] [C,B,] | [F,A,]3 F, | %5
+ F, [_E,A,] [D,A,] [D,D] | [G,D] [G,D] [G,,D] [B,,B,] | C,3/2 [C,A,]/ [C,C]- z/ [C,C]/ | %8
+ [C,B,]/ [F,=A,]3 [F,C]/- | [F,C]/ [F,C] [F,A,] [G,B,] [_A,=B,]/- | %10
+ [A,B,]/ [=A,_D]2 [A,D] [A,,A,]/- | [A,,A,]/ =D, E, F, [_B,D]/- | [B,D]/ [A,_D]3 [F,C]/- | %13
+ [F,C]/ [F,C] [F,A,] F, F,/- | F,/ [B,,_G,] [B,,=G,] [B,,G,] [B,,B,]/- | %15
+ [B,,B,]/ [C,A,] D, [C,F,]- z/ | [C,F,]/[C,E,]/ [F,,F,]3 |] %17
+V:2
+ x2 x6 | z8 | z8 | z2 G,A, z4 | z8 | z8 | z8 | A,2 _A, z4 z | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %15
+ z3 G, F, z3 | z8 |] %17
+V:3
+ x3 [CA] | [CA] [CA] [=B,_A] [C=A] | [_Ec] [D_B] [_B,D] [DG] | [CF] C [CG] C | [CA]3 [CA] | %5
+ [CA] [FA] [_Gd] [Gc] | [=Gc] [DB] [B,D] [DG] | [CF] C [EA]- z/ [EA]/ | [EG]/ F3 [FA]/- | %9
+ [FA]/ [FA] [FA] [EG] [DF]/- | [DF]/ [_DE]2 [DE] [DE]/- | [DE]/ =D E F [DG]/- | %12
+ [DG]/ [EA]3 [FA]/- | [FA]/ [CA] [CA] [=B,_A] [C=A]/- | [CA]/ [Dc] [D_B] [_B,D] D/ | %15
+ E/ [Fc] [=B,F] [CA]- z/ | [CA]/[_B,G]/ [A,F]3 |] %17
+V:4
+ x2 x6 | z8 | z8 | z2 =EF z4 | z8 | z8 | z8 | z2 EF z4 | z8 | z8 | z8 | z8 | z8 | z8 | z7 d- | %15
+ d z7 | z8 |] %17

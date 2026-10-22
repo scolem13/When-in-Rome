@@ -1,0 +1,62 @@
+X:1
+T:Das Buch der hängenden Gärten, Op.15
+T:Hain in diesen Paradiesen
+C:Arnold Schoenberg
+Z:Stefan Anton George
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 5 ) | ( 3 6 ) }
+L:1/8
+Q:1/4=76
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:5 treble 
+V:3 bass 
+V:6 bass 
+V:1
+"^Ruhige Bewegung (ca. 76)" z2 =F3 =D ^C B, | %1
+w: Hain in die- sen|
+!<(! B, A,!<)!!>(! B,3/2!>)! !breath!A,/!<(! (B, ^C D =G)!<)! |$ %2
+w: Pa- ra- die- sen wech- selt ab mit|
+!>(! G3 F!>)! F !breath!_E!<(! G2-!<)! |!>(! G ^F!>)! z!pp! F-"^rall." F!<(! F ^G!<)! ^A |$ %4
+w: Blü- ten- wie- sen, Hal-|* len, bunt- * be- mal- ten|
+!pp!!<(! (3:2:2(^A2!>(!!<)! B)!>)![Q:1/4=56]"^etwas langsamer (ca. 56)" (3z =E3/2 =G/ (3:2:2G2 E (3:2:2=F2 _G | %5
+w: Flie- sen. Schlan- ker Stör- che Schnä- bel|
+ (3z F _E (3:2:2_D2 =C (3z D E =F2- |$ (3:2:2F2 _E (3:2:2E2 _D z =A- (3:2:2A2 ^G | %7
+w: kräu- seln Tei- che, die von Fi-|* schen schil- lern. Vö- * gel-|
+ (3=G ^F F- (3:2:2F2 =E (3:2:2E2 =D (3z ^C D |$ (3:2:2D2 =F (3:2:2F2 D D ^C"^molto rit." (3z C B, | %9
+w: rei- hen mat- * ten Schei- nes auf den|schie- fen Fir- sten tril- lern und die|
+!pp!!>(! (3:2:2=B2 A (3:2:2B2 A (3:2:2B2 A!>)! z2 |$ z2 ^C B, B, A, B, C | %11
+w: gold- nen Bin- sen säu- seln,|doch mein Traum ver- folgt nur|
+!<(! =D6!>(!!<)!!p! =G2!>)! | z8 | !fermata!z8 |] %14
+w: Ei- nes.|||
+V:2
+!pp! !arpeggio![=F,A,^C]8- | [F,A,C]8- |$ [F,A,^C]2 ([F,A,C]2!<(! F2 A2-!<)! | A2) (^G3 ^A^B=f |$ %4
+!pp! (3^f=e^d) (3^c-c3/2d/ (3(!courtesy!d=dc) (3(=F-F3/2_G/) | %5
+ (3([=D_G][_DF][_C_E])!pp! .!^![=F_B_e]/.!^![CGB]/ !tenuto![CGB]2 ([_B,F=A]- [B,FA]/.!^![E=G]/) ([EG]- |$ %6
+ [_EG][_D=A=c]) z ([_d=a=c']- [dac']/.!^![=f=b=e']/)[fbe']- ([fbe']/.!^![_cf_b]/)[cfb]- | %7
+ [cfb]"_ bleiben, aber etwas steigern""^espress." (!>![=A^c^g]3- [Acg]2!<(! !>![^A^a]2 |$ %8
+ !>![^B^b]2 [=f=c'=f']2!<)! [=gc'=g']4- | [gc'g']2 [^f^c'^f']4)!>(! !arpeggio![=ac'f'=a']2- |$ %10
+ [a^c'^f'a']!>)!!>(! (.!^![^A^a].!^![^B^b]!>)!.!^![^e^e'])!p! !tenuto![=A,^C=F]4- | [A,CF]8- | %12
+"^molto rit." z2!>(! !tenuto!_B2 !tenuto!=c2 !tenuto!=f2-!>)! | !fermata!f8 |] %14
+V:3
+ !arpeggio![D,,,D,,]8- | [D,,,D,,]7 [_E,,,_E,,]- |$ [_E,,,_E,,]8 | [=E,,,=E,,]6 [E,^G,=D]2 |$ %4
+ [^D,^F,^D]2 (3:2:2z[K:treble] !>!=e2 (3:2:2z !>!=e'2[K:bass] (3:2:1_G,3 | %5
+ F,,,7/4!^!=E,/4 !courtesy!E,3 (=G,- G,/.!^![_A,_C]/) [A,C]- |$ %6
+ [_A,_C] [=A,,,=A,,] z[K:treble]"_sehr ruhig, molto legato" (=A/=E/^G/A/) (_E/=D/^F/=G/) (=C/=B,/ | %7
+[K:bass] =F,6) [=E,^G,=D]2- |$ [E,^G,D]4[K:treble]"_espress." ([G,^G]2 [^A,^A]2 | %9
+ [=B,=B]2 [=E=e]2 [^D^d]2)!<(!!<)!{=D-^A-d-} [DAd]2 |$ %10
+ !arpeggio![^C=B=e] z z2[K:bass] [=D,,,=D,,]4- | [D,,,D,,]6!pp! !tenuto![_E,,,_E,,]2- | %12
+ [E,,,E,,]8- | !fermata![E,,,E,,]8 |] %14
+V:4
+ x8 | x8 |$ x4 [A,-^C-F]4 | [A,C]2 [=A,^C]4 ^B2 |$ %4
+ =B2 (6:4:6(^A/^G/^^F/G/A/B/) (3:2:2B _B2 (6:4:6_D/_C/_B,/C/D/=D/ | x8 |$ x8 | x8 |$ x8 | x8 |$ %10
+ x8 | x8 | [A,^CF]8- | [A,CF]8 |] %14
+V:5
+ x8 | x8 |$ x8 | x8 |$ x2 (3:2:1=D3 (3:2:1D3 x2 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 | x8 | x8 |] %14
+V:6
+ x8 | x8 |$ x8 | x8 |$ x8/3[K:treble] x10/3[K:bass] (3:2:2z !trill(!T=E,,,2!trill)! | _G,3 x5 |$ %6
+ x3[K:treble] x5 |[K:bass] x8 |$ x4[K:treble] x4 | x8 |$ x4[K:bass] x4 | x8 | x8 | x8 |] %14

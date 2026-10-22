@@ -1,0 +1,108 @@
+X:1
+T:Sonata in D Minor
+T:Allegro moderato
+C:Carl Philipp Emanuel Bach
+%%score { ( 1 3 ) | ( 2 4 5 ) }
+L:1/4
+Q:1/4=86
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Harpsichord" snm="Hch."
+L:1/16
+V:3 treble 
+L:1/8
+V:2 bass 
+V:4 bass 
+V:5 bass 
+V:1
+"^Andante moderato" Pd3^c/d/ !wedge!A4!p! [GB]4- | [GB]2 [FA]4 [EG]4 [DF]2 | %2
+!f! Pd3^c/d/ !wedge!A4!p! PB3A/G/ | PA3G/F/ PG3F/E/ PF3E/D/ |$ %4
+!f! Pf3e/f/!p! !wedge!g2(GB d)(d'bg) |!f! Pe3d/e/ !wedge!f2(FA c)(c'af) | %6
+!f! Pd3^c/d/ !wedge!e2(E!p!G B)(bge) | (d3P^c/)d/ (d4 Me2) z2 |$!f! Pd3^c/d/ !wedge!A4 [GB]4- | %9
+ [GB]2 [FA]4 [EG]4 [DF]2 |!f! Pd3^c/d/ !wedge!A4!p! !turn!B2gB | !turn!F2fF !turn!G2eG (G2PF2) |$ %12
+ d/_e/d/c/B/A/G/^F/ !wedge!G2!wedge!g2 z2 =f2 | e/f/e/d/c/=B/A/^G/ !wedge!A2!wedge!a2 z2 =g2 | %14
+ f/g/f/e/d/c/B/A/ !wedge!B2!wedge!b2 z2 (ag) |$ (af)(c'a) (a4 P!turn!g2) z2 | %16
+!p! Pf2>a2 (.c2.c2.c2.c2) | c4- c3e/d/ !wedge!c4 | Pf2>a2 !wedge!c'2(F2A2c2) | %19
+ (C6 P!turn!B,2) !wedge!A,4 |$ G/!f!D/E/^F/G/A/B/c/ d/G/A/B/c/d/e/^f/ g/d/e/f/g/a/b/c'/ | %21
+ !wedge!d'2!p!!wedge![db]2!wedge![Bg]2!wedge![Ge]2!f! z3[I:staff +1] B, |$ %22
+ (B,A,)(G,F,) G,DCB, A,G,F,E, |[I:staff -1] z4 z4 z/ C/D/E/F/E/D/C/ | %24
+ !wedge!F4!ff! z4 z/!p! C/D/E/F/E/D/C/ |$ !wedge!G4!ff! z4!p! z/ C/D/E/F/E/D/C/ | %26
+!f! A/C/D/E/F/E/D/C/ B/C/D/E/F/E/D/C/ c/F/G/A/B/A/G/F/ |$ %27
+ d/G/A/B/c/B/A/G/ e/c/d/e/f/e/d/c/ f/e/d/c/B/A/G/F/ | d/c/B/A/G/F/E/D/ C3D/4E/4F/4G/4 PG3F/G/ |$ %29
+ !wedge!F2!p!!wedge![Bd]2{[Bd]/}!wedge![Ac]2!wedge![GB]2{[GB]/}!wedge![FA]2!wedge![EG]2 | %30
+ !wedge![FA]2!wedge!B2{B/}!wedge!A2!wedge!G2{G/}!wedge!F2!wedge!E2 | (E8 MF2) z2 ::$ %32
+!f! PF3E/F/ !wedge!C4!p! [Bd]4- | [Bd]2 [Ac]4 [GB]4 [FA]2 |!f! PG3^F/G/ !wedge!D4 P_e3d/c/ | %35
+ Pd3c/B/ Pc3B/A/ PB3A/G/ |$!f! PA3^G/A/ !wedge!E4!p! !turn!f2d'f | %37
+ !turn!e2c'e !turn!d2=bd (d2Pc2) |!f! =B/c/B/A/B/c/d/e/ !wedge!f2ed (PcB)(fA) | %39
+ (A2P^G>)A (A4 M=B2) z2 |$ Pc3=B/c/ a/g/^f/e/d/c/B/A/!p! !wedge!B!wedge!G!wedge!B!wedge!d | %41
+ !wedge!g!wedge!=b!wedge!d'!wedge!f' z3 PF F2E2 |!f! z C!turn!C2 A(CP=B,A,) c=B2A |$ %43
+ ^G/^F/E/F/G/A/=B/c/ d/c/B/A/B/c/d/e/ !wedge!f2ze | (dcP=BA) z ^G/A/BF PEDC=B, | %45
+ C/A/E/C/!wedge!A,2 z4!ff! z/ E/^F/^G/A/G/F/E/ |$ !wedge!A4!ff! z4!p! z/ E/^F/^G/A/G/F/E/ | %47
+ !wedge!=B4!ff! z4!p! z/ E/^F/^G/A/G/F/E/ |$ %48
+!f! c/E/^F/^G/A/G/F/E/ d/E/F/G/A/G/F/E/ e/A/=B/c/d/c/B/A/ | %49
+ f/=B/c/d/e/d/c/B/ ^g/e/^f/g/a/g/f/e/ a/=g/=f/e/d/c/B/A/ |$ %50
+ f/e/d/c/=B/A/^G/^F/ E>FG/A/B/ PB3A/B/ z/ |$ %51
+ !wedge!A2!p!!wedge![d'f']2!wedge![c'e']2!wedge![=bd']2!wedge![ac']2!wedge![^gb]2 | %52
+ !wedge!a2!f!!wedge!_b2{b/4}!wedge!a2!wedge!g2{g/4}!wedge!f2!wedge!e2 | %53
+ Pd3^c/d/ !wedge!A4!p! [GB]4- | [GB]2 [FA]4 [EG]4 [DF]2 |$!f! Pd3^c/d/ !wedge!A4!p! PB3A/G/ | %56
+ PA3G/F/ PG3F/E/ PF3E/D/ |!f! Pf3e/f/ !wedge!g2!p!(GB d)(d'bg) |$ %58
+!f! Pe3d/e/ !wedge!f2!p!(FA c)(c'af) | Pd3^c/d/ e2!p!(EG B)(bge) | (d2P^c>)d (d4 Me2) z2 | %61
+!f! ^f/g/a/b/a/g/f/e/ !wedge!d2!wedge!d'2 z2 !wedge!c2 |$ %62
+ B/c/d/_e/d/c/B/A/ !wedge!G!wedge!g!wedge!d!wedge!B !wedge!G2 z2 |$ %63
+ =e/f/g/a/g/f/e/d/ !wedge!c2!wedge!c'2 z2 !wedge!B2 | %64
+ A/B/c/d/c/B/A/G/ !wedge!F!wedge!f!wedge!c!wedge!A !wedge!F2 z2 |!p! PB2>d2 (.F2.F2.F2.F2) |$ %66
+ F4- F3A/G/ !wedge!F4 | PB2>d2 !wedge!f2(D2F2B2) | x12 |$ %69
+!f! d'/c'/d'/_e'/d'/c'/b/a/ b/c'/d'/c'/b/a/g/^f/ g/a/b/a/g/=f/=e/d/ |$ %70
+ e/f/g/f/e/d/^c/=B/ c/d/e/d/c/B/A/^G/ Ae z =G | (GF)(PED) EBAG FED^C |$ %72
+ (3DAF !wedge!D2!ff! z4 z/ A/=B/^c/d/c/B/A/ | !wedge!d4!ff! z4 z/ A/=B/^c/d/c/B/A/ | %74
+ !wedge!e4!ff! z4 z/ A/=B/^c/d/c/B/A/ |$!f! f/A/=B/^c/d/c/B/A/ g/A/B/c/d/c/B/A/ a/d/e/f/g/f/e/d/ | %76
+ b/e/f/g/a/g/f/e/ ^c'/a/=b/c'/d'/c'/b/a/ d'/=c'/_b/a/g/f/e/d/ |$ !wedge!b2 z2 z4 PE3D/E/ | %78
+ !wedge!D2!p!!wedge![GB]2{[GB]/}!wedge![FA]2!wedge![EG]2{[EG]/}!wedge![DF]2!wedge![^CE]2 | %79
+ !wedge!F2!wedge!G2!wedge!F2!wedge!E2!wedge!D2!wedge!^C2 | (^C8 MD2) z2 :| %81
+V:2
+"m" PD3/4^C/8D/8 !wedge!A,"m" z |"" A,,"" A,,"m" D, | PD3/4^C/8D/8 !wedge!A,"m" z | %3
+"" A,,"" A,,"m" D, |$"C{" PD3/4^C/8D/8"m" !wedge!B, z |"" PC3/4B,/8C/8""!p! !wedge!A, z | %6
+"" PB,3/4A,/8B,/8"m" !wedge!G, z |"" A,"" x2 |$"m" PD3/4^C/8D/8 !wedge!A,"m"!p! z | %9
+"" A,,"" A,,"m" D, | PD3/4^C/8D/8 !wedge!A,"m" z |"" A,,"" A,,"m" D, |$"m"!f! B,, B,,"" =B,, | %13
+"m" C, C,"" ^C, |"" D, D,"" E, |$"" F,"""" C,3/2 z/ |"" z3 |"""" z3 | z3 | %19
+"" z/ (G,/E,/C,/)"" F,/F,,/ |$"m" B,,3 | z z"m" E, |$"" F,"m" B,,"" PC, | %23
+"" (3F,/4C/4A,/4 !wedge!F,/""!ff! C,2 |"" z C,2 |$"" z C,2 |"" F,,"" G,,"" A,, |$ %27
+"m" B,,"" B,,"" A,, |"" B,,"" C, C,, |$"""""m" F,,2"m" z | %30
+"" z/"" !wedge!D/"m"{D/}!wedge!C/!wedge!B,/"m"{B,/}!wedge!A,/!wedge!G,/ |"" (G,2"" A,/) z/ ::$ %32
+"C{" PF,3/4E,/8F,/8 !wedge!C,"" z |"" C,,"" C,,"" F,, |"m" PG,3/4^F,/8G,/8 !wedge!D,"m"!p! z | %35
+"" D,,"" D,,"m" G,, |$"m" PA,3/4^G,/8A,/8 !wedge!E,"m" z |"" E,,"" E,,"m" A,, |"m" D,,2 D, | %39
+"" E, z/ E,/4F,/4"" E,/4D,/4C,/4=B,,/4 |$"m" A,,/A,/"" z/ ^F,/"" !wedge!G,/ z/ | z"" (=B,,"" C,) | %42
+"m" [^D,,-^D,]2 D,,/D,/ |$"" E, z"m" z/ ^G,,/ |"m" A,,/"m"C,/"" E, E,, |"m" x"" E,2 |$"m" x E,2 | %47
+"" x E,2 |$"m" A,,"" =B,,"m" C, |"m" D,"" D,"m" C, |$"m" D,"" E, E,, |$"m""m""m" A,,3 |"m""" z3 | %53
+"m" z !wedge!A,"m" z |"" A,,"" A,,"m" D, |$ PD3/4^C/8D/8 !wedge!A,"m" z |"" A,,"" A,,"m" D, | %57
+"C{" PD3/4^C/8D/8"m" !wedge!B, z |$"" PC3/4B,/8C/8"" !wedge!A, z | %59
+"" PB,3/4A,/8B,/8"m" !wedge!G, z |"" A, z/ A,/4B,/4"" A,/4G,/4F,/4E,/4 | %61
+"" !wedge!D,"" !wedge!^F, !wedge!F, |$"m" !wedge!G,"m" !wedge!B,,"" z/4 (=B,/4D/4F/4) |$ %63
+"" !wedge!C"" !wedge!E, !wedge!E, |"" !wedge!F,"" !wedge!A,,"" z/4 (A,/4C/4_E/4) |"" [B,D] z z |$ %66
+"" z/ [A,_E]/[A,E]/[A,E]/""[B,D]/[B,D]/ | z3 |"" (F,3/2 P!turn!_E,/)"" !wedge!D, |$"m" z3 |$ %70
+"m" G,,"" A,, z/"" ^C,/ |"m" D,/""B,,/"m" G,,"" A,, |$"m" z"" A,2 |"m" z A,2 |"" z A,2 |$ %75
+"m" D,"" E,"m" F, |"m" G,"" G,"m" F, |$"m" !wedge!G,/ z/ z"" G, |"m" F,/"m""m""m" x5/2 | %79
+"m" !wedge!D/"m"!wedge!B,/"m"{B,/}!wedge!A,/!wedge!G,/"m"{G,/}!wedge!F,/!wedge!E,/ | %80
+"m" (E,2"m" F,/) z/ :| %81
+V:3
+ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x2 z A/B/ A/G/F/E/ |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 |$ %15
+ x6 | x6 | z [EB][EB][EB][FA][FA] | x6 | x6 |$ x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 |$ x6 | x6 |$ %29
+ x6 | x6 | x6 ::$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | %47
+ x6 |$ x6 | x6 |$ x6 |$ x6 | z !wedge!_B{B/4}!wedge!A!wedge!G{G/4}!wedge!F!wedge!E | %53
+ PD3/2^C/4D/4 x4 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ %69
+ x6 |$ x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 |$ x6 | x6 | x6 | x6 :| %81
+V:4
+ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | %19
+ x3 |$ x3 | x3 |$ x3 | !wedge!F,, z!p! B,, | !wedge!A,, z A,, |$ !wedge!E,, z E,, | x3 |$ x3 | %28
+ x3 |$ x3 | F,3 | F,2- F,/ x/ ::$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | %44
+ x3 | !wedge!A,, z!p! D, |$ !wedge!C, z C, | !wedge!^G,, z G,, |$ x3 | x3 |$ x3 |$ x3 | x3 | x3 | %54
+ x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 |$ x3 | x3 | x3 |$ x3 | x3 | %68
+ z/ (C,/A,,/F,,/) B,,/B,,,/ |$ x3 |$ x3 | x3 |$ !wedge!D,, z!p! G, | !wedge!F, z!p! F, | %74
+ !wedge!^C, z!p! C, |$ x3 | x3 |$ x3 | D,3- | D,3 | D,2- D,/ x/ :| %81
+V:5
+ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | %19
+ x3 |$ x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 |$ x3 | x3 |$ x3 | x3 | x3 ::$ x3 | x3 | x3 | x3 |$ x3 | %37
+ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 | x3 |$ x3 | x3 |$ x3 |$ x3 | x3 | x3 | x3 |$ %55
+ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 |$ x3 | x3 | x3 |$ x3 | x3 | x3 |$ x3 |$ x3 | x3 |$ x3 | %73
+ x3 | x3 |$ x3 | x3 |$ x2 [A,,^C,] | x3 | x3 | x3 :| %81

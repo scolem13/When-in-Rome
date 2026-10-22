@@ -1,0 +1,65 @@
+% Prelude to Suite in C Major: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=44
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Prelude to Suite in C Major
+C:Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 3 )
+L:1/16
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:C
+V:1 bass nm="melody" snm="Ac Gtr"
+V:2 bass 
+V:3 bass 
+L:1/8
+V:1
+ A,,12 G,4 | F,12 E,4 | D,12 C,4 | D,8 ^G,A,B,F, E,2D2 | CB,A,2 C,4 CEDC FEDC | %5
+ DF=G,2 D,4 DFED GFED | EDEG B,A,B,G CB,CG DCDF | EDEC EB,EA, ^G,^F,G,=F G,EG,D | %8
+ CB,CE A2c3 E2<^D2 E^F=G | AC2<B,2 ^C^DE ^F^G,2<A,2 =CB,A, | =G,B,E^D EB,C_B, =B,D^FE FB,C_B, | %11
+ B,EG^F GB,C_B, =B,F2<A2 CB,_B, | [G,E,]2[EC,]2 [GA,,]2[^FB,,]2 EA,2<^G,2 B,C=D | %13
+ C=F,2<E,2 =G,A,B, A,E,2<^D,2 cBA | [GE,,]2[BG,,]2 [GA,,]2[EB,,]2 [EC,]2[_B,E,]2 G,2[=B,^C,]2 | %15
+ [=B,^D,]2[^D^F,]2 [^FD,]2[A,B,,]2 [G,E,]2[E=C,]2 [F,A,,]2[DB,,]2 | E,,12 =D,4 | C,12 B,,4 | %18
+ A,,12 G,,4 | A,,8 ^D,E,^F,C, B,,4 | G,^F,E,2 G,,4 G,A,B,G, CB,A,G, | %21
+ A,CB,A, ^G,A,B,C =D=FED EDCB, | CB,A,2 C,4 CEDC FEDC | DFED ^CDEF =G_BAG AGFE | %24
+ FEFA ^CB,CA DCDA EDEG | FEDE FDF=C [_B,G,]2[B,F,]2 [B,E,]2[B,D,]2 | %26
+ EDCD ECE_B, [A,F,]2[A,E,]2 [A,D,]2[A,C,]2 | %27
+ [D_B,,]2[_B,A,,]2 [DG,,]2[DF,,]2 [G,E,,]2[G,D,]2 [G,^C,]2[G,E,]2 | %28
+ ^C=B,A,2 A,,4 ^C,_B,A,G, EG,F,E, | F,A,G,F, DF,E,D, ^C,_B,A,G, EG,F,E, | %30
+ F,A,G,F, DF,E,D, ^D,F,D,=D, ^D,^G,[=G,A,,]2 | %31
+ G,^G,=G,^F, G,^D[=DE,,]2 [D=F,,]2[A,A,,]2 [GA,,]2[EA,,]2 | D2FD A,2[_B,D,]^C, D,6 [_BD,]2 | %33
+ =C,6 [A,C,]=B,, C,6 [AC,]2 | B,,8 ^G,A,B,F, E,=DCB, | CB,CE ^G,^F,G,E A,G,A,E B,A,B,D | %36
+ CB,A,B, CA,C=G, [=F,D,]2[F,C,]2 [F,B,,]2[F,A,,]2 | %37
+ [B,G,]2G,2 B,G,B,F, [E,C,]2[E,B,,]2 [E,A,,]2[E,G,,]2 | %38
+ [A,F,,]2[F,E,,]2 [A,D,]2[A,C,]2 [^D,B,,]2[D,A,,]2 [D,^F,,]2[D,B,,]2 | ^G,FE=D BFED G,FED BFED | %40
+ ^C_B,A,=G, EB,A,G, ^C,B,A,G, EB,A,G, | ^F,^D=D=C A^D=DC F,^D=DC A^D=DC | %42
+ B,^G,=G,=F, D^G,=G,F, B,,^G,=G,F, D^G,=G,F, | E,^C=C_B, G^C=CB, E,^C=CB, G^C=CB, | %44
+ A,G,A,^C D2F3 A,2<^G,2 A,=B,=C | DF,2<E,2 ^F,^G,A, B,^C,2<D,2 =F,E,D, | %46
+ =C,E,A,^G, A,E,F,^D, E,G,B,A, B,E,F,D, | E,A,CB, CE,F,^D, E,B,2<=D2 FED | %48
+ [CA,,]2[AF,]2 [cD,]2[BE,]2 AD2<^C2 EF=G | F_B,A,2 A,=CDE DA,2<^G,2 FED | %50
+ CDCB, CF[EB,,]2 EFE^D E_B[A=D,]2 | [AC,]2[EA,,]2 [=dE,]2[=BE,]2 ABcA cBA=G | %52
+ ^FGAF AGFE [^DAB,,]8 | [B,E^G]4 z E,^F,^G, A,B,C=D ED=FE | %54
+ DCB,A, ^G,F,E,2 [C,A,,]2[AF,]2 [B,D,]2[^GE,,]2 | [CEAA,,]4 z12 |] %56
+V:2
+ z2 A,B, C2E2 ^G2A2 z2 A2 | z2 A,B, C2E2 ^G2A2 z2 A2 | z2 A,B, C2E2 ^G2A2 z2 A2 | %3
+ z =GFE DCB,A, E,,8 | A,,4 z ^G,A,B, F,4 A,,4 | B,,4 z A,B,C G,4 B,,4 | C,4 F,4 E,4 G,4 | %7
+ C,4 C,4 B,,4 E,4 | A,,4 G,4 ^F,4 E,4 | ^D,4 ^F,4 D,4 B,,4 | E,4 =B,,4 ^D,4 B,,4 | %11
+ E,4 =B,,4 ^D,4 B,,4 | z B, z ^F z4 C,4 B,,4 | A,,4 G,,4 ^F,,4 B,,4 | %14
+ z A z E z ^F z ^D z G z3 ^C z _B, | z ^C z E z12 | z2 E,^F, G,2B,2 ^D2E2 z2 E2 | %17
+ z2 E,^F, G,2B,2 ^D2E2 z2 E2 | z2 E,^F, G,2B,2 ^D2E2 z2 E2 | z =DCB, A,G,^F,E, B,,4 z2 A,2 | %20
+ E,,4 z ^D,E,^F, C,4 E,,4 | F,,4 D,4 B,,4 ^G,,4 | A,,4 z ^G,A,B, F,4 A,,4 | =B,,4 G,4 E,4 ^C,4 | %24
+ D,4 G,4 F,4 A,,4 | D,4 D,4 z A, z A z G z F | C,4 C,4 z G, z G z F z E | %27
+ z =C z C z _B, z A, z F, z F z E z D | A,,4 z E,F,G, E,,4 ^C,4 | A,,4 A,,4 E,,4 ^C,4 | %30
+ =D,4 F,,4 G,,6 z ^F, | _B,,6 z ^C z4 z F z D | D,6 z4 EF A2 z2 | z2 EC ^G,2 z4 ^DE ^G2 z2 | %34
+ z =GFE DCB,A, E,,8 | A,,4 D,4 C,4 E,4 | A,,4 A,,4 z E, z E z D z C | %37
+ z A, z A, G,,4 z D, z D z C z B, | z G, z G, z =F, z E, z ^C, z =C z B, z A, | E,,4 E,,4 E,,8 | %40
+ A,,4 A,,4 A,,8 | D,4 D,4 D,8 | G,,4 G,,4 G,,8 | C,4 C,4 C,8 | F,,4 F,4 B,,4 D,4 | %45
+ ^G,,4 B,,4 E,,4 G,,4 | A,,4 E,,4 ^G,,4 E,,4 | A,,4 E,,4 ^G,,4 E,,4 | z E z B z4 F,4 E,4 | %49
+ D,4 C,4 =B,,4 E,,4 | A,,6 z ^D C,6 z ^G | z4 z c z A [^F,^D]8 | [A,C]8 z8 | D,8 [C,E,]8 | %54
+ ^G,,8 z8 | x16 |] %56
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | E,3 z/ D,/ z4 | %55
+ x8 |] %56

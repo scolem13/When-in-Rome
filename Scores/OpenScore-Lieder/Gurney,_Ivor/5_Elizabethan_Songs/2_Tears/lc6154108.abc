@@ -1,0 +1,81 @@
+X:1
+T:5 Elizabethan Songs
+T:Tears
+C:Ivor Gurney
+Z:Thomas Nashe
+Z:OpenScore (CC0)
+%%score 1 { ( 2 6 ) | ( 3 4 5 ) }
+L:1/8
+Q:1/4=55
+M:3/4
+I:linebreak $
+K:E
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:6 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+"^Adagio" z6 | z6 |!pp! (c2 B A G F | (A3 G) F2) | z (E F A E D | G6) |!p! (c2!<(! d c d B!<)! | %7
+w: ||Weep you no more, sad|foun- * tains;|What need you flow so|fast?|Look how the snow- y|
+!>(! (e2 A2)!>)! G2) | z"^cresc." (F A G B A) | =c6- | c2 z2 z2 | z6 | %12
+w: moun- * tains|Heaven's sun doth quick- ly|waste!|_||
+!mp! z (!tenuto!=d !tenuto!c !tenuto!e d3/2 A/ | =G3"^dim." A =c _B | A2 =D4) | z2 z!pp! (=D E =F | %16
+w: But my Sun's heaven- ly|eyes View not your|weep- ing,|That now lies|
+ A2 =G2) z2 |!mf! (e3 d !breath!B) (G |"^dim." (c2-) cBG F |!p!!>(! G6)!>)! |!pp! G2 C4- | %21
+w: sleep- ing|Soft- * ly, now|soft- * * * ly|lies|Sleep- ing.|
+ C z z2 z2 | z6 | z6 |[Q:1/4=45]"_rit." z6 |!pp![Q:1/4=55]"_a tempo" (c2 B A G F | A3 G F2-) | %27
+w: _||||Sleep is a re- con-|cil- * ing,|
+ F (!tenuto!E !tenuto!F !tenuto!A E D) | G4- G z | z (c d c d B | (e2 A2) G2) | %31
+w: _ A rest that peace be-|gets; _|Doth not the sun rise|smil- * ing|
+ z!p!!<(! (F A G B!<)! A) |!mf! c6- | c2 z2 z2 | z6 | z!mp! (=d c !breath!e) (d3/2 A/ | %36
+w: When fair at even he|sets?|_||Rest you then, rest, sad|
+ =G3) (!tenuto!A"^dim." !tenuto!=c !tenuto!_B | A2!pp! =D4-) | D z z (=D E =F | A2 =G3) z | %40
+w: eyes! Melt not in|weep- ing,|_ While she lies|sleep- ing|
+!mp! (e3 d)"^dim." !breath!B (G | c3 BG F |!pp! G6) | z2!ppp! G4- | G2 C4- | C3 z z2 | z6 | z6 |] %48
+w: Soft- * ly, now|soft- * * ly|lies|Sleep-|* ing.|_|||
+V:2
+!pp!"^Adagio" z (EDFC^B,) | z (EDFC^B,) | z (EDFC^B,) | z (EDFC^B,) | z (EDFC^B,) | %5
+"_cresc." (DCEDGF-) | F([Ec][DB][Ec][DB]!p![CA]- | [CA][B,G][A,F][G,E][F,D][G,E]) | %8
+"_cresc." [CF]2 [B,EB]2 [A,DB]2 |!mf! [=C=G=c] ([G=g][=F=f][Aa][Ee][=D=d] | [=G=c])!mp! (G=FAE=D) | %11
+ =CE=G=d^ce | [A=d]2 z2!p! ([Ad]2 | =d2 ^c2) z2 | [=DA]3 (E=F=G | [C_B]2 [=DA]) z z2 | %16
+!pp! z2 z!p! (^^F"_cresc."G[F^A]) |!mp! [E^^Fe]2 [DGd]2 z2 |"^colla voce" ([^^FGc]2 [DGB]2) z2 | %19
+ z2 (E2 D2) | (G2- GFED) | (G2- GFED) | (GFAcgf) | f6 |!pp! (F2 (5:4:5F/G/F/^E/F/ B/A/G/^^F/) | %25
+ G!8va(! ([ge'][fd'][af'][dc'][f^b]) | z ([ge'][fd'][af'][dc'][f^b])!8va)! | %27
+ z ([Ge][Fd][Af][Dc][F^B]) | ([Dd][Cc][B,G][A,F][Ec][DB]-) | ([DB][CA][B,G][Ec][DB][CA]-) | %30
+ [CA]([B,G][A,F][G,E][F,D][G,E]) | ([CF]2!p! [B,EB]2!mp! [A,DFB]2 | %32
+!mf! [CGc]) ([Gc-g][Fc-f][^Ac^a][^E^e][Dd] |!mp! [CGc]) (GF^A^ED |!<(! C^EGc- c!<)!=e | %35
+!mf! =d2) z2!p! ([=DA]2 | [=D=G-]) [CG] z4 | [=DA]3 (E=F=G | [CE_B]2 [=D=FA]) z z2 | %39
+ z2 z!p!"_cresc." ([E^^F][DG][F^A] |!mp!!>(! [E^^Fc]2!>)! [DGB]2) z2 | %41
+!p!!>(! ([E^^F]2!>)! [B,DG]2) z2 | [^B,G]3!ppp! ([B,^B][Ee][Dd]) | [C-G-c]6 | [CG]6 |!ppp! (G6 | %46
+ F4- Fc) | [C^Ec]6 |] %48
+V:3
+ z G, F, A, D, F, | z G, F, A, D, A, | z G, F, A, D, A, | z G, F, A, D, A, | z G, F, A, D, F, | %5
+ G,2 A,2 C2 | F,E, [F,,A,]2 B,,2 | ([C,E,]4 [B,,E,]2) | [A,,E,]2 [G,,E,]2 [F,,B,,]2 | %9
+ [E,,=C,=G,]2 A,2 B,2 | =C2 A,2 B,2 | E,2 =G,2 (E^C) | [=F,=D]2 z2 [F,-D]2 | _B,4 z2 | %14
+ [=F,A,]3 z z2 | =F,3 z z2 | z ([E,=C]=G,[^CE][B,D][^A,C]) | C2 B,2 x2 | (^A,2 B,2) x2 | %19
+ z2 (E,2 D,2) | C,4 E,D, | C,4 (E,D,) | [A,,C,]2 [F,,C,]2 z2 | z6 | z [G,E] [F,D]A,[D,C][A,C] | %25
+ [E,C] ([G,E][F,D][A,F][D,C][F,^B,]) | z ([G,E][F,D][A,F][D,C][F,^B,]) | %27
+ z ([G,E][G,F][F,D][CA][F,D]) | [E,G,]2 ([B,,G,][C,A,][G,,E,][A,,F,]-) | %29
+ ([A,,F,][C,A,][B,,G,][E,C][D,B,][C,A,]-) | [C,A,]([B,,G,][A,,F,][G,,E,][F,,D,][G,,E,]) | %31
+ ([A,,E,]2 [G,,E,]2 [F,,B,,]2 | [^E,,C,G,]) (([^E,C-] [D,C]2) ^B,2 | ^E,) z [D,^A,]2 ^B,2 | %34
+ G,2 C2 [=G,=E]2 | [=F,=D]2 z2 [F,A,]2 | ([=F,_B,-]2 [E,B,]) z z2 | [=F,A,]3 z z2 | =F,3 z z2 | %39
+ z2 z (CB,[^A,C] | B,,) (G,,D,G,B,E) | z"^colla voce" (G,,B,,D,!pp!G,=A,) | [E,,^B,,]3 z G,,2 | %43
+ [A,,E,]6- | [A,,E,]6 | [A,,D,]6- | [A,,D,]6 | [C,,G,,C,G,]6 |] %48
+V:4
+ (C,,4 F,,A,,) | (C,,4 A,,F,,) | (C,,4 F,,D,,) | (C,,4 A,,F,,) | (C,,4 F,,D,,) | E,,2 F,,2 A,,2 | %6
+ [G,,C,]2 x4 | x6 | x6 | x2 =D,2 =G,=F, | E,2 =D,2 (=G,=F,) | E,2- E,2 =G,2 | x6 | F,2 E,2 x2 | %14
+ x6 | x6 | x6 | z (B,,D,G,B,E) | z (G,,B,,D,G,=A,) | x2 [G,^B,]4 | A,,4 G,,2 | A,,4 G,,2 | x6 | %23
+ x6 | x6 | x6 | x6 | G,,6 | x6 | x6 | x6 | x6 | x4 G,F, | x4 G,F, | ^E,4 x2 | x6 | x6 | x6 | x6 | %39
+ x6 | x6 | [^A,C]2 x4 | x3 (E,G,F,) | x6 | x6 | x6 | x6 | x6 |] %48
+V:5
+ x6 | x6 | x6 | x6 | x6 | x4 (C,D,) | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %18
+ x6 | x2 E,,4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %36
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %48
+V:6
+ x3 | x3 | x3 | x3 | x3 | x3 | C x2 | x3 | x3 | x =c B | x =C x | =C- C _B | x3 | =G2 x | x3 | x3 | %16
+ x3 | x3 | x3 | x3 | C2 ^B, | C2 ^B, | C A, z | z/ [Ec]/ ([D^B]/[Fd]/[CA]/[^B,G]/) | x3 | %25
+ x/!8va(! x5/2 | x3!8va)! | x3 | G x2 | x3 | x3 | x3 | x2 G | x C x | C G =A- | A x2 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | C3- | C3 | x3 |] %48

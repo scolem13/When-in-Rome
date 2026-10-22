@@ -1,0 +1,70 @@
+X:1
+T:Das Buch der hängenden Gärten, Op.15
+T:Wenn ich heut nicht deinen Leib berühre
+C:Arnold Schoenberg
+Z:Stefan Anton George
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/2=216
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+L:1/16
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+"^Rasch (ca. 108)" z2 ^C!<(! =F F A A =B!<)! | !>!B3/2 =c/!<(! c3!>(!!<)!!>)! =B ^G A |$ %2
+w: Wenn ich heut nicht dei- nen|Leib be- rüh- re, wird der|
+!<(! !tenuto!=B3/2 ^A/ !tenuto!A3/2 =A/ !tenuto!=c3/2 B/ ^f2- | %3
+w: Fa- den mei- ner See- le rei-|
+ f ^e =f =e e3/2 ^d/!<(! d3/2 ^f/!<)! | (^f3 =A) z2 (_e2 |$ %5
+w: * ßen wie zu sehr ge- spann- te|Seh- ne. Lie-|
+[Q:1/4=180]"^etwas breiter" _e) d d3 =f f _A | ^G3 =A A3 G | %7
+w: * be Zei- chen sei- en|Trau- er- flö- re|
+[Q:1/4=216]"^Tempo" z (^d2 ^e!<(! e =a-!<)! a2- |$ (a) ^G) G3/2 =G/ G4- | G =B =F4 B2 | z4 =B4- | %11
+w: mir, der lei- * *|* det, seit ich dir|_ ge- hö- re.|Rich-|
+ B2 A z ^C2 =F2 |$ (!>!=A7/2 =B/) B7/2 =c/ | =c2[Q:1/4=216]"^Tempo" =B2 z4 | z2 ^d4 e2 | %15
+w: * te, ob mir|sol- che Qual ge-|büh- re?|Küh- lung|
+ z ^d2 e z d2 e |$ (f3 _g) f3 =e | z2 =A4 =B2- | B =F2 =B2 F2 B |$ =B6 c2 | z8 | z8 |] %22
+w: spren- ge mir, dem|Fie- ber- hei- ßen,|Der ich|_ wan- kend drau- ßen|leh- ne.|||
+V:2
+"_gedämpftes Forte""^*)" z [^CF]- [CF]4 z _E | z [F=c]- [Fc]4 z [^G=B] |$ %2
+ z !tenuto!e !tenuto!_e2 z =a!>!_a/ z/ !>![^d'^f'] | %3
+!fff! [=a=d'^g'] z z!<(! (!tenuto!=e2!>(!!<)! !tenuto!^d) z =c- | c[=B,_E=F=A] z2 z2 z [_e_g] |$ %5
+ z =E2 F2 ^F- F2 |[K:bass] z/!>(! =C/-C- C4!>)! z/ [=G,=B,-]/[^F,B,] | %7
+[K:treble] z [=f=a]3 z [=c'=e']3 |$ z [=f'=a']3[K:bass] z !>![A,,F,]3 | z!>(! [^G,=B,]3 z [^C=E]3 | %10
+ z [^G,=B,]3 z [^C=E]3 | z [^G,=B,]3 z [^C=E]3!>)! |$[K:bass] z [^G,=B,]3 z [^C=E]2[K:treble] z | %13
+ [^c=e]2 z2 z4 | x8 | =A_B"_cresc." (!>![_B,B]4 [_A,_A]2) |$ z2 ^C=F =A=B=c=e | %17
+!ff! _a!^![=fa=c'=e'] [fac'e']3 !^![fac'^f'] [fac'e']2- | %18
+ [fac'e']!^![=f=a=c'^f'] [_e_ac'_e']3 !^![=e=e'] [=d=d']2- |$ %19
+ [dd'][=e=e'] [^c^c']3 [=d=d'] [=c=c']2- | [cc'][_d_d'] [=A=a]3!>(! [^G=d^g] [=Gd=g]2- | %21
+ [Gdg]2!>)! .[^F=d^f] z z4 |] %22
+V:3
+ z A,-A,2- A,8 z G,-[G,=B,]2 | z =E-E2- E2_D2- D4 z =C-C2 |$ %2
+ z =F2-<[F=B]2 _G-[G_B]2 z [B_e]2-<[Be]2 =g-g2 | x4 z =F-[F=B]2- [FB]2 z2 z _D-[D_G]2- | %4
+ [DG]2 x10 z =G-G2 |$ z =G,-[G,=B,]2- [G,B,]_A,-[A,C]2- [A,C]^A,-[A,^C]2- [A,C]4 | %6
+[K:bass] z2 [_D,=G,]2- [D,G,]8 z2 =D,2 |[K:treble] z!f! _B- B6 z!ff! =f- f6 |$ %8
+ z _b- b6[K:bass] z [_A,,_D,]- D,4 =C,2 | z =C,- C,6 z F,- F,6 | z =C,- C,6 z F,- F,6 | %11
+ z =C,- C,6 z =F,- F,6 |$[K:bass] z =C,- C,6 z =F,- F,4[K:treble] z =F- | F4 x12 | x16 | x16 |$ %16
+ x16 | x16 | x16 |$ x16 | x16 | x16 |] %22
+V:4
+ ^C,,2 F,,3 A,, ^C,2 | _G,,2 _B,,3 =D, _E,2 |$!<(! ^C,, D,,3 ^F,, _B,,2 =B,!<)! | %3
+[K:treble] =c z[K:bass] (^C,,2 =F,,2 =A,,2 |!<(! B,,>=C, C,4 =B,,2) |$ %5
+!p! ([=C,,=C,]4 .[_A,,,_A,,] [=E,,,=E,,]3) | ([=F,,,=F,,]4 .[=A,,,=A,,] [^C,,^C,]3) | %7
+!p!"_cresc." =D,,^F,,_B,,=C, _D,=F,=A,=B, |$!ff! =C/[^G,^G]/ [G,G]2 [=G,=G] [G,G]3 [=D,,,=D,,] | %9
+!p! [=F,,,=F,,]4 [=A,,,=A,,]4 | [=E,,,=E,,]4 [^G,,,^G,,]4 | [_E,,,_E,,]4 [=G,,,=G,,]4 |$ %12
+ [D,,,D,,]4 [^F,,,^F,,]4 |!pp! z2 ^C,,,=F,,, A,,,=B,,,=C,,=E,, | %14
+ z2!pp! ^C,=F, A,=B,[I:staff -1]=CE |[I:staff +1] z2 ^C,,=F,,=A,,=B,,=C,=E, |$ %16
+ (=F,[^C,F,=A,^C]) [C,F,A,C]4 [=C,=E,^G,=C]2 | %17
+ z2 [^C,,,^C,,][F,,,F,,] [=A,,,=A,,][=B,,,=B,,] [=C,,=C,][=E,,=E,] | %18
+"_linke Hand immer gleich stark bis\nzum schluß" [=F,,=F,]!^![F,_A,=C=E] [F,A,C!courtesy!E]4 !^![F,A,C^F]2 |$ %19
+ !>!_E3 !^!=E !>!_E3 !^!=E | !>!_E3 !^!=E !>!_E3 !^!=E | !>!_E4!ff! !>!=E z z2 |] %22
+V:5
+ x4 | x4 |$ x4 |[K:treble] x[K:bass] x3 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | %14
+ ^G,,/A,,/ (!>!A,,2 G,,) | x4 |$ x4 | x4 | x4 |$ [=F,_A,=C]2 [F,A,C]2 | [=F,_A,=C]2 [F,A,C]2 | %21
+ [=F,_A,=C]2 z2 |] %22

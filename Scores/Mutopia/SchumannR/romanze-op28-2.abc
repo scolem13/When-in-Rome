@@ -1,0 +1,74 @@
+% Romanzen: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=314
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Romanzen
+C:R. Schumann (1810-1856)
+%%score ( 1 2 3 ) ( 4 5 ) ( 6 7 )
+L:1/16
+Q:1/4=50
+M:6/8
+I:linebreak $
+K:F#
+V:1 treble nm="up" snm="Pno"
+V:2 treble 
+V:3 treble 
+L:1/4
+V:4 treble nm="mid" snm="Pno"
+L:1/8
+V:5 treble 
+L:1/8
+V:6 bass nm="down" snm="Pno"
+L:1/8
+V:7 bass 
+V:1
+ z CAC z C z CBC z C | z CFC z C z CAC2C | z FcF z F z FdF z F | z CFC z C z CAC2C | %4
+ z CAC z D cD z D z D | z CGC z C BC z C z =D | z ^DFD z D GD z C z A | z CGC z =C GC z ^CGC | %8
+ B4 [AG]3 G[AF]D[GE]B, | F4 E4 ^D4 | =A4 [GF]3 F[G=E]C[F^D]=A, | =E4 D4 ^C4 | ^C4 =E4 D2[F=C]^C | %13
+ ^E4 G4 F2[=A=D]^D | G4 B4 ^A2^c2- | [c=G]2B2G2 =D2B,2 z2 | z12 | z CAC z C z CBC z C | %18
+ z CFC z C z CAC2C | z FcF z F z FdF z F | z CFC z C z CAC2=D | z ^DAD z D cD z D z2 | %22
+ z FcF z F =eF z F z =A | f=A z AfA z3 ^efg | =a=dc2 =c4 ^cE,F,G, | %25
+ =A,=C,[^C^A]2[CG]^c [C=E=Gc]6- | [CEGc]2 z7 =c^cd | =e=GFAc[fF] ^edcB[A^E]2 | %28
+ F2[eG][dB][cA][f=A] [F^A]4 [EGD]B, | [^A,F]4 [G,E]2 [FF,]2<[^dF=c]2[EB]2 | F2 z C z C z C2C z C- | %31
+ CC2C2C2 C2C2C- | CC2C2C2 C2C2C- | CC2C2C z6 |] %34
+V:2
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | GDB,D z E =D z4 z | DA,F,A,=DA, E,A, z A,2G, | %10
+ FC=A,C z D =C z4 z | CG,=E,G,=CG, D,G, z G,2F, | z G,=E,G, z C =A,2 z C z2 | %13
+ z =DB,D z E =C2 z ^D z2 | z E=DE z G =E=G z GFG | z3 =D z B, z =G, z4 | x12 | x12 | x12 | x12 | %20
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | z6 F4 z ^G | z f z4 C=C^C=D z2 | ^C7 z4 ^c | z C2 z8 z | %31
+ x12 | x12 | x12 |] %34
+V:3
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z7/4 C/4 z | z7/4 D/4 z | x3 | x3 | %16
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %34
+V:4
+ A,2 G, B,2 A, | F,>F,G, A,3 | C2 B, D2 C | F,>F,G, A,3 | A,2 C2 B,A, | G,2 B,2 A,G, | %6
+ F,2 G,2 G,/ z/ A,/ z/ | G,2 F,2 E,2 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | A,2 G, B,2 A, | %18
+ F,>F,G, A,3 | C2 B, D2 C | F,>F,G, A,3 | A,2 C2 B,G,/B,/ | C2 =E2 DF- | F F2 =A3- | =A3 z3 | z6 | %26
+ z6 | z6 | z6 | z6 | A,2 G, B,2 A, | F,>F,G, A,2 [G,G] | [A,A]>[F,F][G,G] A,3- | A,6 |] %34
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | (3:2:1z4 F/ (24:17:1z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %31
+ (12:7:1z8 [F,F]/ (6:5:1z | z3 A3 | x6 |] %34
+V:6
+ F,2 E, G,2 F, | D,>[C,D,]E, F,3 | A,2 G, B,2 A, | D,>[C,D,]E, F,3 | =G,2 A,2 ^G,F, | %5
+ E,2 G,2 F,E, | D,2 F,2 E,/C,,/=E,/=G,,/ | ^E,2 D,2 ^C,2 | %8
+ [G,,G,,,]2 [A,,A,,,]2 [F,,F,,,][G,,G,,,] | [A,,A,,,]2 [G,,G,,,]2 [F,,F,,,][E,,E,,,] | %10
+ [D,,D,,,]2 [G,,G,,,]2 [=E,,=E,,,][F,,F,,,] | [G,,G,,,]2 [F,,F,,,]2 [=E,,=E,,,][D,,D,,,] | %12
+ [C,,C,,,]2 z [F,,F,,,]2 [=A,,=A,,,]- | [A,,A,,,][G,,G,,,][B,,B,,,] [=A,,=A,,,]2 [=C,=C,,]- | %14
+ [C,C,,][B,,B,,,][=D,=D,,] [^C,^C,,]2 =E,- | [=E,=D,,-] =D,,5- | %16
+ [^G,,^E,]/ =D,,2- =D,/ B,,/ G,,/ ^E,,/ D,,/ D,,/ ^D,,/ F,,/ =C,/ ^D,/ F,/ =A,/ | F,2 E, G,2 F, | %18
+ D,>[C,D,]E, F,3 | A,2 G, B,2 A, | D,>[C,D,]E, F,3 | =G,2 A,2 ^G,B,,/G,/ | A,2 C2 B,D- | %23
+ [D=C,=A,]D>[A,D] F3- | F>EF/G/ =A/=D/^C[=C^DF^d]- | [CDFd][^C,F,][B,,E,] [^A,,F,]>=C,^C,/^D,/ | %26
+ =E,/=A,,/G,,^C/D/ =E/=A,/[G,G,,]=G, | [=A,,=G,][F,^A,,^C,]/^A,/^C/[FB,,F,]/ ^E/D/C/B,/[A,=D,] | %28
+ [F,^D,][CEE,][CF,]/[=CD,]/ ^C,3- | C,/=C,/^C,/=D,/^D,/B,,/ A,,/=A,,/G,,^C,, | F,2 E, G,2 F, | %31
+ D,>[C,D,]E, F,>[C,D,]E, | F,>[C,D,]E, F,3- | F,6 C,/ C, C, C,/ |] %34
+V:7
+ z C,F,,C, z C, z C,F,,C, z C, | z C,F,, z2 C, z C,F,,C,2C, | z C,F,,C, z C, z C,F,,C, z C, | %3
+ z C,F,, z2 C, z C,F,,C,2C, | z D,D,,D, z D, ^G,,D, z D, z =C, | %5
+ z ^C,^C,,C, z C, F,,C, z C, z A,, | z A,,D,,A,, z ^G,, =C,,G,, z4 | %7
+ z C,G,,C, z G,, ^C,,G,, z G,,C,,2 | x12 | x12 | x12 | x12 | x12 | x12 | z8 z2 =E,,2 | %15
+ z2 =D,7 [C,D,][B,,=G,][=A,,F,] | x17 | z ^C,^C,,C, z C, z C,C,,C, z C, | %18
+ z C,C,, z2 C, z C,F,,C,2C, | z C,F,,C, z C, z C,F,,C, z C, | z C,F,, z2 C, z C,F,,C,2=D, | %21
+ z ^D,^D,,D, z D, ^G,,D, z D, z2 | z C,F,,C, z F, B,,F, z F, z =A, | z3 =A,=C, z7 | x12 | x12 | %26
+ z3 =C =G,,4 z2 =A,,2- | z8 z3 ^G, | z F z ^D z8 | x12 | z C,F,,C, z C, z C,F,,C, z C, | %31
+ z C,F,, z2 C, z C,F,, z2 C, | z C,F,, z2 C,2 C,2C,2C,- | x18 |] %34

@@ -1,0 +1,32 @@
+X:1
+T:Christus, der uns selig macht
+T:Christus, der uns selig macht
+C:Bach, Johann Sebastian
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice" snm="V"
+V:2 treble nm="Voice" snm="V"
+V:3 treble-8 nm="Voice" snm="V"
+V:4 bass nm="Voice" snm="V"
+V:1
+ f f f f | e _d !fermata!c2 | _d e f f | e _d !fermata!c2 | B c _d B | B/A/ _G !fermata!F2 | %6
+ _G A B B | A _G !fermata!F2 | B =A B c | _d c/B/ !fermata!B2 | _d e f f | e _d/c/ !fermata!c2 | %12
+ B c _d/c/ B | B/A/ _G !fermata!F2 | _G A B B | A _G F2- | !fermata!F4 || %17
+V:2
+ =A A B c | B B !fermata!=A2 | F _G _A A | _G F !fermata!F2 | F F F _G | F E !fermata!=D2 | %6
+ E E _F F | E2 !fermata!=D2 | F E F _G | F F !fermata!_G2 | A A A B | B2 !fermata!=A2 | F F F _G | %13
+ F E !fermata!=D2 | E F _G G | F E2 _D | !fermata!C4 || %17
+V:3
+ c c _d c/d/ | e/f/ _g !fermata!c2 | B B _c B | B2 !fermata!=A2 | _d c B/c/ d/e/ | %5
+ f/B/ B !fermata!B2 | B _c _d d | _c/_d/ e !fermata!B2 | _d =c B B | B/A/ _d !fermata!d2 | %10
+ f c _d d | e/f/ _g !fermata!f2 | B =A B/c/ _d/e/ | f/B/ B !fermata!B2 | B _d d d | _d/_c/ B =A B | %16
+ !fermata!=A4 || %17
+V:4
+ F, F, B, A, | _G, F,/E,/ !fermata!F,2 | B, _G, =D, D, | E, B,, !fermata!F,2 | B, =A, B, _G, | %5
+ =D, E, !fermata!B,,2 | E, _C, =G,, G,, | A,, =A,, !fermata!B,,2 | B,, C, _D, E, | %9
+ F, _D, !fermata!_G,2 | F, A, _D/C/B,/A,/ | _G, F,/E,/ !fermata!F,2 | _D, F, B,/A,/ _G, | %13
+ =D, E, !fermata!B,,2 | E, _D, _G,,/A,,/ B,,/_C,/ | _D, E, F,2- | !fermata!F,4 || %17

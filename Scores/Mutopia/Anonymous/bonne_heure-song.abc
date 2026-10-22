@@ -1,0 +1,41 @@
+% Il Est de Bonne Heure Né: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=198
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Il Est de Bonne Heure Né
+C:Anonymous
+%%score 1 2 3 4
+L:1/4
+Q:1/4=200
+M:2/2
+I:linebreak $
+K:none
+V:1 bass nm="bass" snm="B"
+V:2 treble nm="sop"
+V:3 treble nm="alt" snm="A"
+V:4 bass nm="tenor" snm="T"
+V:1
+ x2 A, A, | E, E, A,, A,, | E,2 A, A, | E, E, A,, A,, | E,2 C, A,, | B,,2 A,, E, | F, A, E,2 | %7
+[M:3/2][M:3/2] A,,2- A,,2 A,, A,, |[M:2/2][M:2/2] E,2 A,2 |[M:2/2] G, A, G, A, | D, C, B,,2 | %11
+[M:3/2][M:3/2] A,,2- A,,2 A,, A,, |[M:2/2][M:2/2] E,2 C,2 |[M:2/2] B,,2 A,, B,, | C, A,, E,2 | %15
+ A,,2 A,, A,, | E, E, C, A,, | E,2 C, C, | B,,/B,,/B,,/B,,/ A,,2 | E, E, E, E, | A,, A,, E,2 | %21
+ A,,2 A, A, | E, E, A,, A,, | E,2 A, A, | E, E, A,, A,, | E,2 C, A,, | B,,2 A,, E, | F, A, E,2 | %28
+ A,,2- A,,2 |] %29
+V:2
+ x2 A A | B B c c | B2 A A | B B c c | B2 e e | d3/2 B/ c B- | B/A/ A- A ^G | %7
+[M:3/2][M:3/2] A2- A2 c c |[M:2/2][M:2/2] B2 A2 |[M:2/2] B c d c | A e- e d | %11
+[M:3/2][M:3/2] c2- c2 c c |[M:2/2][M:2/2] B2 A2 |[M:2/2] B2 c d | c B/A/ ^G2 | A2 c c | B B A A | %17
+ B2 c c | d/d/d/d/ c3/2 B/4A/4 | G G B B | c e- e d | c2 A A | B B c c | B2 A A | B B c c | %25
+ B2 e e | d3/2 B/ c B- | B/A/ A- A ^G | A2- A2 |] %29
+V:3
+ x2 e e | g g a a | e2 e e | g g a a | e2 e e | g g a e | a f e2- |[M:3/2][M:3/2] e2- e2 a a | %8
+[M:2/2][M:2/2] g2 e2 |[M:2/2] B A B c | d A B2 |[M:3/2][M:3/2] e2- e2 a a |[M:2/2][M:2/2] e2 e2 | %13
+[M:2/2] d2 e d | e2 e2 | e2 a a | e e e e | g2 a a | g g a a | b b g e | a a ^g3/2 ^f/ | a2 e e | %22
+ g g a a | e2 e e | g g a a | e2 e e | g g a e | a f e2- | e2- e2 |] %29
+V:4
+ x2 | x2 A,, A,, | B,, B,, C, C, | B,,2 A,, A,, | B,, B,, C, C, | B,,2 E, E, | C, A,, B,,2 | %7
+[M:3/2][M:3/2] A,,2- A,,2 A,, A,, |[M:2/2][M:2/2] B,,2 C,2 |[M:2/2] D, C, B,, A,, | A,,2 ^G,,2 | %11
+[M:3/2][M:3/2] A,,2- A,,2 A,, A,, |[M:2/2][M:2/2] B,,2 C,2 |[M:2/2] D,2 C, B,, | A,,2 B,,2 | %15
+ A,,2 A,, A,, | B,, B,, C, C, | B,,2 A,, A,, | B,, B,, C, C, | B,, B,, E, E, | C, A,, B,,2 | %21
+ A,,2 x2 | x2 A,, A,, | B,, B,, C, C, | B,,2 A,, A,, | B,, B,, C, C, | B,,2 E, E, | C, A,, B,,2 | %28
+ A,,2- A,,2 |] %29

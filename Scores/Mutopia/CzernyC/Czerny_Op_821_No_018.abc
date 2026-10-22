@@ -1,0 +1,22 @@
+% 160 Eight-Measure Exercises, No. 18: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2084
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:160 Eight-Measure Exercises, No. 18
+C:Czerny, C.
+%%score 1 2
+L:1/16
+Q:1/4=40
+M:3/8
+I:linebreak $
+K:G
+V:1 treble nm="Staff_pfUpper" snm="Pno"
+V:2 bass nm="Staff_pfLower" snm="Pno"
+V:1
+ [Bd] z [Bd] z [cf]2 | [Bg] z [Bd] z [cf]2 | [Bg] z d z [Bg] z | [dfa]4 [g^c']2 | %4
+ [fd'] z a z [g^c']2 | [fd'] z a z [g^c']2 | [fd'] z [df=c'] z [cd=f] z | [Bdg]4 z2 |] %8
+V:2
+ [G,A,][B,C][B,D][CB,][A,C][B,A,] | [G,A,][B,C][B,D][CB,][A,C][B,A,] | %2
+ [G,A,][B,C][B,D][CB,][A,G,][F,G,] | [D,E,][F,G,][F,A,][G,F,][E,G,][F,E,] | %4
+ [D,E,][F,G,][F,A,][G,F,][E,G,][F,E,] | [D,E,][F,G,][F,A,][G,F,][E,G,][F,E,] | %6
+ [D,E,][F,G,][A,G,][F,E,][D,C,][B,,A,,] | [G,,F,,][G,,F,,][G,,B,,][D,B,,]G,,2 |] %8

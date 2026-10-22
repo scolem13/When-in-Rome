@@ -1,0 +1,152 @@
+% Sonata 1 for Unaccompanied Violin: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1025
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Sonata 1 for Unaccompanied Violin (1)
+C:Max Reger, Op. 42, Heft 1 No. 1
+%%score ( 1 2 )
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="\new" snm="Vln"
+V:2 treble 
+V:1
+ [D,A,Fd]6 A2 [G,,G,DB]6 AG | [A,,E,_DA]G[FA,][EG,] [=D,A,F]D=D_A, =A,B,A,D, E,F,G,F, | %2
+ [E,_D,]A,,[=B,,=D,][_D,E,] [=D,F,]A,,[_D,E,][=D,F,] [E,G,]A,,_D,E, G,_B,[A,D,]G, | %3
+ [G,=D]2F,A, [DB,F]F[EG][DF] [A,Fd]4 [_d=d] z2 a | [=DAf=d']6 a2 [G,Gdb]6 ag | %5
+ [A,E_da]gfe [=DAf]e=dc =Bdfa _afed | _degc' _b=age fa=d'_d' =d'e'f'a' | %7
+ a' z [b'bDG,]4 g'_e' (3[d'f']2[e'b]2[c'a]2 (3[bf]2[gd]2[_eg]2 | b_d=df AcBA GcBF =EcBD | %9
+ _DB,A,B, A,B,CB, A,B,CB, A,2>_A,2 | =A,2>C2 [FA,]2>[GC]2 [GC]2[AF]2 z2 [AC]2 | %11
+ [DB,]4 [FA,]2[_GC]2 [=GB,]2[AD]2 [BG]2 z D | [EC]2>[GB,]2 [FA,]2>[AC]2 D6 [EG,]2 | %13
+ A,4 A4 z2 AA [BA]G[BF][BG] | [dE]2[=BD][_dE] [dF]2[eG][=dF] [A_G]2[cE][dG] [c=G]2[AD][G_B,] | %15
+ [FC]2[D=B,][E_D] [G=D]2[E_D][F=D] [A_B,]2[_GA,][=GB,] [_BC]2[_A=B,][=AC] | %16
+ [AC_E]2 z _g' g'2=g'[_b'_bDG,] c'=e'[g'b][b'd'] [b'd'][a'c'][a'c'][f'a] | %17
+ bd'[f'a][a'c'] [a'c'][g'b][g'b][e'g] [g'b][f'a][f'a][d'f] [f'a][e'g][e'g][_d'e] | %18
+ [_d'e][=d'f][e_d][f=d] [_dA][=dB][A_D][B=D] [_GA,][=GB,][AC][GB,] [BD][AC][AC][GB,] | %19
+ F4 FEF[GE] A4 AcBc | %20
+ [_B=G][dE][dF][fA] [fA][a_d][f=d][d'f] [DG,][_g'a][=g'_b][a'c'] [_g'a][=g'b][ac][bd] | %21
+ [_A,F][d=b][bd][FA,] [=A,F][da][ad][FA,] [_B,F][dd'][d'd][FB,] [=B,_A][fd'][d'f][AB,] | %22
+ C z FE [=AF][cE][AF][fA] [cA][d_B][cA][ac] [af][c'a][c'a][f'a] | %23
+ [_DB][gf'][f'g][BD] [CA][fc'][c'f][AC] B, z [G,Bf_d']2 [CFA]2[B,E]2 | %24
+ [_eA,F]2 z [=dc] [dB,F]2B[A_G] [B=G][AF][G=E][FD] E2>[B,F]2 | %25
+ [FA,]4 [DB,]4 [FA,]4 A[=B_d=d][efg][a=b_d'] | [FA,]4 [=D_B,]2>[EG,]2 [F_A,]4 z [G_A][_Bc][de] | %27
+ f6 g2 _e6 dc | [_eA,_G]2dc [_B=G,=G]_D=D_G =GAB_d =d_g=ga | b_g=ga bd'_g'=g' b'2a'_a' =a'2>g'2 | %30
+ [f'aD]2e'd' (3[_d'=d']2[ab]2[ag]2 (3[fe]2[fd]2[AB]2 (3[AE]2[FD]2[B,A,]2 | %31
+ _A,2>[Fd=b]2 =A,2>[Fda]2 C2>[A_gd']2 _B,2>[=Gdd']2 | %32
+ A,[=B,_D][=DE][F_A] [=A_B][=B_d][=de][f_a] [=a_b][=b_d'][=d'e'][f'_a'] =a'a_d'e' | %33
+ a'_g'=g'[e'g] [f'a][_d'e][=d'f][a_d] [_b=d][ac][g_B][fA] [eG][dF][AF][FD] | %34
+ [B,Fd]2>[G_e]2 [B,_Ec]2>[Fd]2 [B,DB]2[C=E][D_G] [E=G][_GA][=GB][Ac] | %35
+ [BdG,]2 z [c_e] [AcG,]2 z [Bd] [GBG,]2[C=E][D_G] [E=G][_GA][=GB][Ac] | %36
+ [_Edg]2c2 [DAf]2[Bd]2 [CB_e]2[Acd]e [B,Fd]2B,A, | %37
+ [G,=E][_da][bd][EG,] [_A,F][=db][=bd][FA,] [=A,F][dA][ad][FA,] [DA][fA][d'f][AD] | %38
+ [Fd][aA][f'a][dF] [Af][d'A][a'd'][fA] (3:2:4[_B_G]2[=GD]2[_E_B,]2 A,2[=B,_D=D=EFGA=B_d] (6:5:1z2 | %39
+ [=DAf=d']6 a2 [G,Gd_b]6 ag | [A,E_da]g[fA][eG] [=DAf]d=d_A =ABAD EFGF | %41
+ [E_D]A,[=B,=D][_DE] [=DF]A,[_DE][=DF] [EG]A,_DE G_B[AD]G | %42
+ [G=D]2FA [dF_B,]2[eG][dF] (3:2:2[dF]4 [_d=d]2 [_dEA,]2 z a | %43
+ [=DAf=d']6 [a_g]2 [b=gD=G,]6 [af][ge] | %44
+ [a_dEA,][gB][fA][ed] [f=d]edc (3[=BD]2[Bd]2[fa]2 (3[_a=a]2[fe]2[fd]2 | %45
+ (3[_dA]2[eg]2[ac']2 (3[_be]2[ag]2[ae]2 (3[fe]2[ga]2[=b_d']2 (3[=d'a]2[e'f']2[g'a']2 | %46
+ a'2 [_b'_bDG,]4 [g'f'][_e'd'] (3:2:2[f'e']2[d'b]2[e'd'] (3:2:4z/ [c'b]-[c'b][ag]2[f_e] (3:2:1z/ | %47
+ z _d[=d=e][fA] z [cA][BA][_AG] z [c=A][BG][FE] z [cA][BE][=D_D] | %48
+ z [EB,][A,C][B,A,] z B,CB, A,_DE_A =A_A=AG |[K:D] F2>=A2 [=dF]2>[eA]2 [eA]2[fd]2 z2 [fA]2 | %50
+ [BG]4 [dF]2[^dA]2 [eG]2[fB]2 [ge]2 z B | [cA]2>[eG]2 [=dF]2>[fA]2 B6 [cE]2 | %52
+ [dF]2[AE]2 [FD]2AA [^A=A]G[^AF][AG] [A=A]G[^AF][AG] | %53
+ [dE]2[BD][cE] [eF]2[cE][dF] [fG]2[^dF][eG] [g=A]2[=f^G][^fA] | %54
+ [aB]2[f^A][=gB] [gB][bd][bd][e'g] =ac'e'[g'b] [g'b][^f'a][f'a][d'f] | %55
+ gbd'[f'a] [f'a][e'g][e'g][c'e] [e'g][d'f][d'f][bd] [d'f][c'e][c'e][^acE] | %56
+ [^ac][bd][c^A][dB] [AF][GB][F^A,][GB,] [GB,][F=A,][FA,][=AF] [AF][dD][dF][fA] | %57
+ [f^ADG,]2>[gB]2 (3:2:2[cE=A,]4 [cd]2 [dD^A,]2>=f'2 [f'=aDG,]2>[e'g]2 | %58
+ [e'g][d'=f][af][fd] [d=F][AF][FD]D [A,F][da][^a=a][gf] [ed][c^A][=AG][FE] | %59
+[K:Dmin] D2[d'f=A][FE] D2[d'fA][DC] B,2[d'dF][B,A,] (3[G,A,]2[CB,]2[DF]2 | %60
+ [E_A,]2>[=B=b]2 [E=A,]2>[cc']2 [G_B,]2>[_d_d']2 [FB,]2>[=d=d']2 | %61
+ (3:2:1G,4 [A,B,] (3:2:1z2 [GA_B][d_e]_A, [=A,=B,][_D=D][=EF][G_A] [=A=B_d][=d=ef][g_a=a][=b_d'] | %62
+ [DAfd']6 [a_g]2 [_b=gD=G,]6 [af][g=e] | %63
+ [a_dEA,][gB][fA][eG] [fA=D][dE][=dF]_A =ABA[FD] (3:2:2E4 [DE]2 | %64
+ [_GA,]2[=G=G,][Bb] _D2>=D2 [FA,]2>=B,2 [E_D]2>=D2 | D16 |] %66
+V:2
+ x16 | x16 | x16 | z E, z8 z2 [A,E_d] z3 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | z3 E z12 | %12
+ z8 C2B,A, B,2 z2 | x16 | z _d z3 =d z3 _B z3 B z2 | z E z3 F z3 G z3 A z2 | x16 | x16 | x16 | %19
+ A,=B,_D=D D3 z FDEF _G4 | x16 | x16 | x16 | x16 | z4 z c z6 D2C z | z7 E z8 | x16 | %27
+ [=BDG,]4 z4 [GC]4 z4 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | %38
+ z14 [=defga=b_d'] z | x16 | x16 | x16 | z E z3 [fA] z2 A,4 z4 | x16 | x16 | x16 | %46
+ z8 z3 [c'b] z3 [gb] | x16 | x16 |[K:D] x16 | z3 c z12 | z8 A2GF G2 z2 | x16 | %53
+ z c z3 =d z3 e z3 f z2 | z g z2 ^F12 | E12 E3 z | x16 | x16 | x16 |[K:Dmin] x16 | x16 | %61
+ z3 [=D_E_G] z12 | x16 | z12 _D4 | x16 | x16 |] %66
+
+X:2
+T:Sonata 1 for Unaccompanied Violin (2)
+C:Max Reger, Op. 42, Heft 1 No. 1
+%%score ( 1 2 )
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:Amin
+V:1 treble nm="\new" snm="Vln"
+V:2 treble 
+V:1
+ A,2>E2 C2[B,C]E | F2(3:2:2C2 z E2 z A | ^G2A[GA] B2>E2 | =G2F[EF] E2[DF]_B, | A,2^G,2 z E=GF | %5
+ (3D2[EF]2 z/ G ^G[AB]c^D | ^D[E^F]E2 BEA=G | G^FE^D E2(3:2:2[EBe]2 z | %8
+ z [^gaec][ADA=f][ef] (3:2:2[ecEA,]2[agBE]2[a=c_b^c] (3:2:1z/ | %9
+ z [a=c][acD][=gB] [g_B^C][fA][f=BDG,][d'bgf] | [fA=C][eGg][A^CG=c][_BA] [GD]2[Fd=C][^Gf] | %11
+ (3[=g=G=B,]2[fAfAC]2 z/ [eG] [dBD][cA][B^G]E | ^de[=dB=D]2 [B^G]^DE[FAa] | %13
+ [_bAF][=GEF=D][_BE^C][AG] [GD]2[^cE][dF] | [f^G=B,][e=G=C][eG^C][dFD] [=cA]^DE[^GBA] | %15
+ [AA,]4 [AF][C_B][=GE][CA^F] | (3:2:4[_BG]2 z [A^F]2 z [dF_B,][BGg][_b^DBG,][ag] | %17
+ (3[A,E^ca]2[gegeD]2 z/ [=fd] [ecE] z [=B^G][A^FBG] | %18
+ (3[^cA]2[BEA^C]2 z2 [DA=fd'][f'A,C][D^GAc][dfa^c'] | %19
+ [d'fAD][f'A,^C][D^GA^cd][fad'f'] [a'=c'D=G,][_b'd'a'c'][a'c'g'_b][f'ae'g] | %20
+ [d'fAe'gd'f][^c'ed'f][f'a][e'g] [e'gD][d'f]ed | ^d4 [d^F]=d=c[_BA] | _B4 BAG[=FE] | %23
+ [FD][E^C][FD][AE] [dF][a^c][fd][f'a] | [f'aDG,][e'g^c'e][d'fA][=c'e_bd] [bd][a^c][ac][^g=B] | %25
+ =g2>[aBg^c]2 [gefd][eAdF][dF=cE][_BDAC] | [AD][^D=D][A^F][GA] [A=C][DC][A_B,F][GA] | %27
+ A2>[e^G]2 [cA][=B=G][cA][ec_B] | [fA]2(3:2:2[cA]2 z [eAC]2 z [ac] | [^ge]2>c2 [bd]2>[cB]2 | %30
+ [=g^c]2[fd]2 [ec]2[df][_BD=C] | [AC]E[^G=B,]^D E[eG][=g_B][fA] | %32
+ (3[=dF]2[eAfd]2 z/ [ge] [^g=B][ac](3:2:2[c'A]2 z | z [e^G^fA][eG]2 [b=d]2[ac][=gB] | %34
+ [gB][^fA][eG][^d^F] [eE]2(3:2:2[eEB]2 z | %35
+ z [^gaec][AAD][e=f] (3:2:2[ecEA,]2[agBE]2[a=c_b^c] (3:2:1z/ | %36
+ z [a=c][acD][=gB] [g_B^C][fA][f=BDG,][d'bgf] | [fA=C][eGg][AG^C=c][_BA] [GD]F[Fd=C][^Gf] | %38
+ (3[=g=G=B,]2[fAfAC]2 z/ [eG] [dBD][cA][B^G]E | ^de[=dB=D]2 [B^G]^DE[FAa] | %40
+ [_bAF][=GEF=D][_BE^C][AG] F^GA=B | [^cA][Ed][B^G][Ec_B] [d=B][^Fec][^f_B]2 | %42
+ [aD=B][=g^f][g^CA][=fef] [DAe][d=c][_BA][GF] | %43
+ [^D=D][^CD][_B,A,][^G,A,] (3E2[FA,]2 z/ [G,=G,^G,] | A,2>E2 =C2[=B,C]E | F2(3:2:2C2 z E2 z [DC] | %46
+ [DB,]2_B,2 [FA,]2[AC][FA,] | [dE^G,][c=B][cEA,][AEC] [AeE^C][AfD][BFG,][=cEA,] | D2CB, A,2[B,C]D | %49
+ A,2CB, A,4 |] %50
+V:2
+ x8 | z3 A, z4 | x8 | x8 | x8 | x8 | x8 | z7 [E=deA,Ece] | z7 [=bdbdE] | x8 | z4 z F z2 | x8 | %12
+ z3 [cA] z4 | z4 z F z2 | x8 | x8 | z [=DcA] z [Dd^F] z4 | x8 | x8 | x8 | x8 | z cAG z4 | %22
+ GFED ^C4 | x8 | x8 | [^cd][ed][cA] z4 z | [CD] z [C^F] z [_B,C] z3 | A,=B,C z4 z | z3 [AF] z4 | %29
+ z2 a2 z2 e2 | z3 [ef] z4 | x8 | z7 [^d^FdF] | z4 z e z2 | z7 [eE=decEA,] | z2 [fAD] z4 [=bdbdE] | %36
+ x8 | x8 | x8 | z3 [cA] z4 | z4 D3 z | z7 ^F | x8 | x8 | x8 | z3 D z4 | z3 E z4 | x8 | x8 | x8 |] %50
+
+X:3
+T:Sonata 1 for Unaccompanied Violin (3)
+C:Max Reger, Op. 42, Heft 1 No. 1
+L:1/16
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Dmin
+V:1 treble nm="\new" snm="Vln"
+V:1
+ [fd']2 z2 [DA]2 z2 [ea]2 z2 | [fd']2 z2 [AD]2 z2 [af']2[ge']2 | [fd']2 z2 [AD]2 z2 [ec']2[gb]2 | %3
+ [fa]2 z2 [AD]2 z2 A,2_D2 | =D2E2 F2[_GC] z [=GB,] z [AD] z | [BG]2[cA]2 [dB]2g z [ec] z [_gA] z | %6
+ [=gB]2 z2 [DG,]2 z2 [dA]2 z2 | [gB]2 z2 [DG,]2 z2 [bd]2[ac]2 | [gB]2 z2 [DG,]2 z2 [fA]2[_ec]2 | %9
+ [dB]2 z2 [DG,]2 z2 G2D2 | E2_G2 =G2[AC] z [BD] z [cE] z | [AF]2_A2 =A2[A_d] z [=B=d] z [_de] z | %12
+ [=df]2_d2 =d2[e_d] z [_g=d] z [ag] z | [b=g]2_d'2 =d'2_e' z [=e'g] z [_g'a] z | %14
+ =G,2>G2 [Dbb']2 z6 | z8 [CGBe]2 z2 | [FAf]2 z8 z2 | D4 [Afd']4 A,2 z2 | D4 [Aff']4 F2E2 | %19
+ D4 [Afd']4 C2B,2 | A,4 [Fda]4 d'2a2 | [bdGG,]2a2 g2f z e z d z | [eGC]2d2 c2B z A z G z | %23
+ [AF]2_A2 =A2[cA] z [=B_A] z [c=A] z | A2_A2 =A2[ca] z [=B_a] z [c=a] z | %25
+ [ec']2[_e=b]2 [=ec']2a' z _a' z =a' z | [_g'a]2=g'2 [e'g]2f' z [d'f] z e' z | %27
+ [c'e]2d'2 [bd]2g z [ec] z g z | [bd]2c'2 [ac]2f z [dB] z f z | [ac]2b2 [gB]2e z [_dA] z e z | %30
+ [f=d]2[eA]2 [fd]2[eA] z [dF] z [eA] z | [dF] z A, z [E_d] z A, z [F=d] z A, z | %32
+ [_G_e] z A, z [=G=e] z A, z [Af] z A, z | [Bg] z A, z [Af] z A z [e_d'] z A z | %34
+ =d'2f2 A2D z e z a z | d'2f2 A2D z [af'] z [ge'] z | d'2f2 A2D z [ec'] z [gb] z | %37
+ [fa]2e2 d2A z D z _D z | =D2E2 F2[_GC] z [=GB,] z [AD] z | [BG]2c2 d2[gB] z [_gA] z [ac] z | %40
+ =g2B2 _E2B z g z B z | D2B2 g2A z C z A z | g2G2 B,2G z d z G z | A,2F2 _A,2F z d z =b z | %44
+ d'2e'2 f'2=A2 _B2A,2 | A2_D2 =D2 z6 |[K:Bb] [F=dB,]8 [Ge]4 | [EcB,]8 [Fd]4 | [DBB,]8 F4 | %49
+ G4 [AE]4 [BD]2[cE]2 | [FdB,]8 [Ge]4 | [_AfB,]8 [G=e]4 | [_G_e=A,]8 [Fd]4 | [EcB,]8 [DB]4 | %54
+ [CA]8 [B,=E]4 | [A,F]8 z4 | [AfD]8 [Bg]4 | [G=eD]8 [Af]4 | [FdD]8 [FA]4 | [Fd]4 [A=e]4 [df]4 | %60
+ [BgD]8 [ca]4 | [AfD]8 [=Bg]4 | [ce]8 [Ac]4 | [FdB,]8 [Ge]4 | [EcB,]8 [Fd]4 | [DBB,]8 F4 | %66
+ G4 [AE]4 [BD]2[cE]2 | [FdB,]8 [Ge]4 | [_AfB,]8 [G=e]4 | [_G_e=A,]8 [Fd]4 | [EcB,]8 [DB]4 | %71
+ [BgE]8 [Ge]4 | [Fd]8 [Ec]4 | [B,DB]8 z4 |] %74

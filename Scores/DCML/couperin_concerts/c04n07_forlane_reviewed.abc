@@ -1,0 +1,51 @@
+X:1
+T:Concert Royal no. 4
+T:Forlane
+C:François Couperin
+Z:© Les Éditions Outremontaises, 2006
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=120
+M:6/8
+I:linebreak $
+K:E
+V:1 treble nm="Clavecin"
+V:2 bass 
+V:3 bass 
+V:1
+"""^Gayement""_Rondeau" !wedge!G PG2 !wedge!F |"" [DF]2 !wedge!A"m" MA>B!wedge!G | %2
+"m" [EG]2 !wedge!B"" (B2 Mc) | B>e""B"" MB>c""B |"" PGE"C{"!wedge!G PG2 !wedge!F | %5
+"" [DF]2 !wedge!A"m" MA>B!wedge!G |"m" [EG]2 !wedge!B"" (B2 Mc) |$ B>e""G"" PG>F!wedge!E | %8
+"" !fermata![G,B,E]2!fine! :|S"C{" !wedge!g g2 !wedge!c |"" c2 !wedge!f"m" f>gf | %11
+"" B2 !wedge!e"" Me3- |"" e>dc"" B>AB |"" PGE"C{"!wedge!g g2 !wedge!c |$"" c2 !wedge!f"m" f>gf | %15
+"" B2 !wedge!e"" Me3- |"" e>dc"" B>AB |"" PGE!D.C.! ||O"C{" G"m""^" Mc2"" d | %19
+"m"({d} Me>)dc"" Pd>c^B |"m" c>de"" d>e""f |$"m" Pe>dc"" (Pd3{c2)d2} |"m" c2"" e"" Pd2 c | %23
+"" B>cB"" B>A""G |"" F>G""A"" G>FE |"" F>G""A"" A2"" PG{F2G2} |"" F2!D.C.! ||$O"C{" e"" Me3- | %28
+"" e>d""e"" Pf>ef |"" g>fe Me3- |"m" e>f""e"" Pd>cd |"" e>B"C{"e Me3- |"" e>d""e"" Pf>ef |$ %33
+"" g>fe Me3- |"m" e>f""e"" Pd>cd |"" [GBe]2"C{" g Pg>fe |"" f>g""a"" Pg>fe |"" f>b""a"" g>f""e | %38
+"" Pd>e""f"" (Pg3{f2)g2} |$"" f2"C{" g"" g>f""e |"" Pd>c""B"" c>d"m"e |"" B>B""e"" Pd>c""B | %42
+"m" e>""f""g"" (g2"" Pf{e2f2)} |"" e2"C{" g g>f""e |"" Pd>c""B"" c>d"m"e |$"" B>B""e"" Pd>c""B | %46
+"m" e>""f""g"" (g2"" Pf/>)e/ |"" [GBe]2!D.C.! || %48
+[K:Emin]O"m""_Notes égales, et coulées" B"m" (cdc) |"m" BeB"m" (Pc3{B2)c2} |"m" B (cB)"m" (cdc) | %51
+"m" BeB"m" (Pc3{B2)c2} |$"m" B2 B"m" (cdc) |"m" BeB"m" (cdc) |"m" BeB"m" (cdc) | %55
+"m" BeG"" G2"" PF{E2F2} |"m" E2"C{" B"m" (cdc) |"m" BeB"m" (cdc) |$"m" BeB"m" (cdc) | %59
+"m" BeG"" (G2"" PF{E2F2)} |"m" E2!D.C.! || %61
+V:2
+ E, E,2 B,, | B,,2 F,, F,,2 C, | C,2 G,, G,,2 A,, | PG,,>F,,E,, B,,>A,,B,, | E,,2 E, E,2 B,, | %5
+ B,,2 F,, F,,2 C, | C,2 G,, G,,2 A,, |$ PG,,>F,,E,, B,,>A,,B,, | !fermata!E,,2 :| E E2 A, | %10
+ A,2 A,, A,,>B,,A,, | G,,2 G, G,>F,E, | B,2 B,, B,,>C,B,, | E,,2 E E2 A, |$ A,2 A,, A,,>B,,A,, | %15
+ G,,2 G, G,>F,E, | B,2 B,, B,,>C,B,, | E,,2 || z z2 G, | C2 C, G,2 G,, | C,2 C ^B,>^A,G, |$ %21
+ C>^B,C G,2 G,, | C,B,,C, PD,>C,D, | E,>D,E, G,,>F,,E,, | B,,>E,D, E,>D,E, | B,,>E,D, E,3 | %26
+ B,,2 ||$ z z3/2 E/D | C>DC B,2 B,, | E,3- E,>E,D, | C,>D,E, B,,3 | E,,3- E,,3/2 E/D | %32
+ C>DC B,2 B,, |$ E,3- E,>E,D, | C,>D,E, B,,3 | E,,2 E E>DC | PD>CB, E>DC | PD>CB, E>DC | %38
+ B,>CD E2 E, |$ B,2 E E>DC | B,>A,G, A,>G,F, | G,>F,E, B,>A,G, | C>DE B,3 | E,E,,E, E,>D,C, | %44
+ B,,>A,,G,, A,,>G,,F,, |$ G,,>F,,E,, B,,>A,,G,, | C,>D,E, B,,3 | E,,E, ||[K:Emin] E, A,,2 F, | %49
+ G,,2 E, A,,2 F, | G,,E,G,, A,,F,A,, | G,,E,G,, A,,F,A,, |$ G,,E,G,, A,,2 F, | G,,2 E, A,,2 F, | %54
+ G,,2 E, A,,2 F, | G,,2 A,, B,,3 | E,,E,E,, A,,F,A,, | G,,E,G,, A,,F,A,, |$ G,,E,G,, A,,F,A,, | %59
+ G,,2 A,, B,,3 | E,,2 || %61
+V:3
+ x4 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x2 :| x4 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x2 || x4 | %19
+ x6 | x6 |$ x6 | x6 | x6 | x6 | x3 E,2 E,, | x2 ||$ x4 | x6 | x6 | x3 B,,2 B,,, | x6 | x6 |$ x6 | %34
+ x3 B,,2 B,,, | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x3 B,2 B,, | x6 | x6 |$ x6 | x3 B,,2 B,,, | %47
+ E,,2 ||[K:Emin] x4 | x6 | x6 | x6 |$ x6 | x6 | x6 | x3 B,,2 B,,, | x6 | x6 |$ x6 | x3 B,,2 B,,, | %60
+ x2 || %61

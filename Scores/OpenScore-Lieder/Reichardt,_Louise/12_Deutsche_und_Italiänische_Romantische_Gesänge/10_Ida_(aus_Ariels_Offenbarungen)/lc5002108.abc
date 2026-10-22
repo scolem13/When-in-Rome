@@ -1,0 +1,60 @@
+X:1
+T:Zwölf Deutsche und Italiänische Romantische Gesänge
+T:Ida (aus Ariels Offenbarungen)
+C:Louise Reichardt
+Z:Achim von Arnim
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=90
+M:2/4
+I:linebreak $
+K:Gb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+L:1/16
+V:3 bass 
+V:4 bass 
+L:1/16
+V:1
+"^Schauerlich leise und mit\nzunehmender Stärke" E2 E E | F2 F2 | G2 z2 | G2 G G | A2 A2 | B2 z2 | %6
+w: Wenn ich ge-|stor- ben|bin,|leg mich aufs|Schiff- lein|hin,|
+ B2 B A | _G2 F2 | =E4 | F2 B d | c2 =E2 | F2 z2 | z4 |"^sanft." =c2 d e | e3 A | (A2 =G) z | %16
+w: le- ge viel|Feu- er|drein,|dass ich ver-|bren- ne|rein.||Las- se das|Schiff- lein,|frey, *|
+ B2{A/} =G F | E3 _D |{D} C2 z2 | e2 A2 | f2 B B | (B _c2) (B/A/) | (A2 G) G | A2 A2 |{AB} _c2 B2 | %25
+w: sin- ge dies|Sprüch- lein|bey:|Heym- dal,|Heym- dal, die|Lie- * be *|dein * war|nicht auf|Er- den|
+ A2 z2 | z2 z d | e3 e | (d=c) (Bc/A/) | (A2 =G) z | B2{A/} =G F | E3 D |{D} _C2 z C | %33
+w: mein.|Und|wo mein|Schiff- * lein * *|steht, *|der mit zu|Gra- be|geht, bey|
+ _c3/2 c/ B3/2 B/ | =A A A A | B2 =D2 | E2 z2 | =D F/ A/ c3/2 D/ |{F} E2 z B | %39
+w: dir o  Heym- dal|mein steht es am|har- ten|Stein.|Hart war dein kal- ter|Sinn, um|
+ f (e/=d/) (_cB/) A/ |{A} _G2 z2 | _c c/ c/ e3/2 d/ | c c B =A | B2 =D2 | E2 z B | %45
+w: ihn, ich * stor- * ben|bin,|nimm bald das Nacht- mahl|fein dass du kannst|ster- ben|rein. Weicht|
+ B3/2 B/ B3/2 E/ | (E2 =D) z | B B/ f/ f3/2 A/ | (A2 _G) z | _c c/ c/ B3/2 B/ | =A2 B2- | %51
+w: dir dies Lied den|Sinn, *|wis- se du Flo- cken-|kinn, *|bren- nen kann Lie- be|nicht hör-|
+ B2 (A/G/) (F/E/) | (E2{G} F) E | E2 z2 | z4 |] %55
+w: * test * sonst *|die- * ses|nicht.||
+V:2
+ [G,B,E]2[G,B,E]2[G,B,E]2[G,B,E]2 | [B,=DF]2[B,DF]2[B,DF]2[B,DF]2 | [B,EG]2[B,EG]2[B,EG]2[B,EG]2 | %3
+ [B,EG]2[B,EG]2[B,EG]2[B,EG]2 | [_DFA]2[DFA]2[DFA]2[DFA]2 | [DGB]2[DGB]2[DGB]2[DGB]2 | %6
+ [DGB]2[DGB]2[DGB]2[CFA]2 | [B,DG]2[B,DG]2[B,DF]2[B,DF]2 | [B,D=E]2[B,DE]2[B,DE]2[B,DE]2 | %9
+ [B,DF]2[B,DF]2[B,DF]2[B,DF]2 | [A,CF]2[A,CF]2[G,B,=E]2[G,B,E]2 | [A,CF]2[A,CF]2[A,CF]2[A,CF]2 | %12
+ [B,D=G]2[B,DG]2[B,DG]2[B,DG]2 | =CEAE CEAE | =CEAE CEAE | _DE=GE DEGE | _DE=GE DEGE | %17
+ _DE=GE DEGE | =CEAE CEAE | A,EAE A,EAE | DFBF DFBF | _CFAF CFAF | B,EAE B,_D=GD | A,_CAC CFAF | %24
+ _CEAE B,E=GE | _CEAE CEAE | =CEAE CEAE | =CEAE CEAE | =CEAE CEAE | B,D=GD B,DGD | B,D=GD B,DGD | %31
+ B,D=GD B,DGD | _CEAE CEAE | _EA_cA E_GBG | E_G=AG EGAG | EGBG A,=DFD | x8 | x8 | x8 | x8 | x8 | %41
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | E_GcG EGBG | EG=AG EGBG | B,EGE B,EGE | A,EFE A,=DFD | %53
+ z8 | z8 |] %55
+V:3
+ E,,E,,E,,E,, | B,,B,,B,,B,, | E,E,E,E, | E,E,E,E, | D,D,D,D, | G,G,G,G, | G,G,G,G, | G,G,G,G, | %8
+ G,G,G,G, | F,F,D,B,, | C,C,C,C, | F,,F,,F,,F,, | _E,,E,,E,,E,, | A,,4 | A,,4 | E,4 | E,4 | E,4 | %18
+ A,,4 | =C,4 | D,4 | =D,4 | E,4 | _F,2 =D,2 | E,2 E,,2 | A,,4 | A,,4 | A,,4 | A,,4 | E,4 | E,,4 | %31
+ E,,4 | A,,4 | A,2 B,2 | _CCCC | B,2 B,,2 | [E,,E,][E,,E,][E,,E,][E,,E,] | E,,4 | E,,E,,E,,E,, | %39
+ B,,4 | E,E,E,E, | C,4 | C,4 | B,,4 | E,,2 E,2 | E,4 | B,,4 | B,,4 | E,4 | _C,4 | C2 B,2 | B,,4 | %52
+ B,,4 | _G,/B,/E/B,/ G,/ x/ x | E,,4 |] %55
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ _G,B,EB, G,B,EB, | A,_C=DC A,CDC | G,B,EB, G,B,EB, | A,=DFD A,DFD | G,B,EB, G,B,EB, | %41
+ G,_CEC G,CEC | G,CEC G,=A,EA, | G,B,EB, F,A,=DA, | G,B,EB, =G,B,EB, | =G,B,EB, G,B,EB, | %46
+ A,B,EB, A,B,=DB, | A,B,=DB, A,B,DB, | A,B,EB, _G,B,EB, | x8 | x8 | x8 | x8 | E,4 z E,B,,G,, | %54
+ x8 |] %55

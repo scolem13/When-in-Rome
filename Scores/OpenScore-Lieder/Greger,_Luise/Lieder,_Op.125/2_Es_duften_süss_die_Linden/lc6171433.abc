@@ -1,0 +1,64 @@
+X:1
+T:Lieder, Op.125
+T:Es duften süss die Linden
+C:Luise Greger
+Z:Gottfried Hertel
+Z:OpenScore(CC0)
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Klavier\nPiano"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+"^In sanfter BewegungAndante" z6 | z6 | z6 | z2 z2 z c | c3 c c d | c2 c2 z!<(! A | %6
+w: |||Es|duf- ten süss die|Lin- den in|
+ F3!<)! F!>(! G G | C4!>)! A2 | A3 A A B | c2 c2 z c | e3 c G G | G6 || z2 z2 d2 | d3 d A B | %14
+w: schwü- ler Som- mer-|nacht, mein|Herz konnt’ Ruh’ nicht|fin- den, nur|dein hab’ ich ge-|dacht.|Die|Blät- ter rau- schen|
+ c2 A2 z A | _c3 c _F _G | A4!<(! A2 | e3!<)! e A!>(! B | E2!>)!!<(! F2 A2 | d3!<)!!>(! d d c | %20
+w: wie- der, von|zar- tem Hauch er-|regt, mir|klingt’s wie trau- te|Lie- der, die|einst dein Herz be-|
+ c4!>)! z2 | z6 | z2 z2!f! C2 | F3!<(! F G G | A2 A2 B2 | c3 c =d d!<)! | =e4!p! c2 | %27
+w: wegt!||O,|flö- gen, sturm ge-|trie- ben, die|Blät- ter hin zu|dir, auf|
+ _e3 e e [cf] | _d2 d2 =A2 | !breath!c4 _A2 | !breath!f4 =B2 |!<(! c6- | c6-!<)! | c4 z2 | z6 |] %35
+w: je- dem steht ge-|schrie- ben: Komm|bald, komm|bald zu|mir!|_|||
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | d4 x2 | x6 | x3!>(! x3 | x4!>)! x2 | x6 |] %35
+V:3
+!mp!!<(! z [A,D]C!<)!!>(!A[G,G]=E!>)! |!<(! z [F,D]C!<)!!>(!GF=B,!>)! |!<(! C=DC!<)!!>(!=dc=A!>)! | %3
+ [=D=G][=E=A][DG]!>(!BAG!>)! |!p! [Fc]GFB_AG |!>(! cGFE_DC!>)! | =B,CB,F[_B,D]C | %7
+!<(! [A,C]DC!<)!!>(!BA[=Ed]!>)! |!<(! [Fc]GF[Ac]Ff!<)! | [Ae]BA[da]!>(![A-e][Ac]!>)! | %10
+ gfe[G-=d] [Gc][F=B] |!>(! [=Ec]=AGf =ec'!>)! ||!pp! Cccc'c'b | %13
+!ppp! [dfa][egb] [dfa][egb] [dfa][egb] | [Ace][Bdf] [Ace][Bdf] [Ace][Bdf] | %15
+ [_ce_g][d_fa] [ceg][dfa] [df__b][eg_c'] | [_fa_c'][_g__bd']!<(! [fac'][gbd'] [fac'][fad']!<)! | %17
+!<(! [a=c'e'][dfa] [cea][fad']!<)!!>(! [dfb][egc']!>)! | [Ae][Bd-] [Fd][fd'] [db][Bf] | %19
+!>(! ([Dd][FB])"^rit." ([Dd][_FB]) ([Dd]E-)!>)! |!p! [CE]DCF[G,E]B, |!mp! [A,C]DCF[G,E]B, | %22
+!<(! CDCE!<)! [A,=E]G, | z!mf!!<(! [A,D]Cd[Cc]B | [FA]BAagf!<)! | cdcc'ba |!>(! g=ecAGc!>)! | %27
+ [_GB_e][Acf] [GBe][Acf] [GBe][EGc] | [=E=A^c][^FA^d] [EAc][FAd] [EAc][^CEA] | %29
+!<(! [_A_e]fe!<)!!>(!_aeA!>)! |!<(! [Fd]fd!<)!!>(!=AB=B!>)! |!>(! c=AC[=DA]=E[Gc] | %32
+ c=AC[=DA]=E[Gc]!>)! |!pp! =ac=A[Bf]=Bg | [cfc']4 z2 |] %35
+V:4
+ C,4 =B,,_B,, | A,,6 | [C,,=A,,]B,,=D,=E,F,=A, | [F,B,]C"^rit."B,=DCB, | [F,_A,]B,A,_DCB, | %5
+ [F,A,]B,A,G,F,E, | [D,G,]A,G,F,[C,=E,]G, | [F,,C,]=E,F,DCB, | [F,A,]B,A,[E,C][D,A,]B, | %9
+ CDCF [E,C][F,=D] |[I:staff -1] [G,E]!>(!AGF E=D!>)! |[I:staff +1] [C,G,]=B,C[I:staff -1]_A G_e || %12
+[I:staff +1] z6 |!8va(! B4 E2!8va)! | A,4 E,2 | __B,2 A,2 _G,2 | _F,2 _C2 _F2 | [E,=CE]4 [E,F]E | %18
+ C2 B,2 A,2 | A,4 G,2 | E,F,E,=D,_D,E, | E,F,E,=D,_D,E, | E,F,E,C,- C,2 | C,4 =D,=E, | %24
+ [F,C]DCA,B,D |[I:staff -1] [C=E]FEAGF | [C=E]GcCB,C |!p! _A,6 |[I:staff +1] =A,4 =E,2 | %29
+ [_E,C]DCFCF, | [D,A,]=A,B,CD[G,=D] |!ped! F,,C,=A,=B,_B,C,!ped-up! | %32
+!ped! F,,C,=A,=B,_B,C,!ped-up! |!ped! F,C[I:staff -1]F[I:staff +1]=D!ped-up! _D2 | %34
+[I:staff -1] !arpeggio!=A4[I:staff +1] z2 |] %35
+V:5
+ F,,3 | F,, E,, D,, | x3 | x3 | x3 | x3 | x3 | x3 | x3 | E,2- x | x3 | x3 || x3 |!8va(! x3!8va)! | %14
+ x3 | x3 | x3 | x3 | E,3 | E,3 | A,,3 | A,,3 | A,,2 C,, | F,,3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %31
+ x3 | x3 | x3 | [F,C]2 x |] %35
+V:6
+ x6 | x6 | x6 | x3 =E3 | x6 | F3 A3 | F3 F x2 | x6 | x6 | x6 | c3 x3 | x6 || x6 | x6 | x6 | x6 | %16
+ x6 | x6 | x6 | x6 | x6 | x6 | A,4 x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ x6 |] %35

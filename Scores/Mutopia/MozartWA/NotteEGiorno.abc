@@ -1,0 +1,83 @@
+% Notte e giorno (Don Giovanni): Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2244
+% Licence: Public Domain. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Notte e giorno (Don Giovanni)
+C:Wolfgang Amadeus Mozart (1756-1791)
+%%score ( 1 2 ) 3 ( 4 5 )
+L:1/8
+Q:1/4=155
+M:4/4
+I:linebreak $
+K:F
+V:1 bass nm="lower" snm="Pno"
+V:2 bass 
+L:1/4
+V:3 bass nm="Voice" snm="V"
+V:4 treble nm="upper" snm="Pno"
+V:5 treble 
+L:1/4
+V:1
+ x4 F, z C, z | F, z C, z F,2 z [C,D,]/E,/ | F,2 z2 G, z C, z | G, z C, z G,2 z [C,D,]/[E,F,]/ | %4
+ G,2 z2 A, z F, z | A, z F, z A,2 z F,/G,/ | A,2 z2 B, z G, z | B, z G, z B,2 z2 | %8
+ [B,G,]2 z2 [B,G,E,]2 z2 | [G,E,C,]2 z2 [G,E,C,]2 z2 | [G,E,C,]4 F, z C, z | %11
+ F, z C, z F,2 z [C,D,]/E,/ | F,2 z2 G, z C, z | G, z C, z G,2 z [C,D,]/[E,F,]/ | %14
+ G,2 z2 A, z F, z | A, z F, z A,2 z F,/G,/ | A,2 z2 B, z G, z | B, z G, z B,2 z2 | %18
+ [G,E,C,]2 z2 [G,E,C,]2 z2 | [G,E,C,]2 z6 | [F,F,,]2 z6 | z8 | [F,F,,]2 [A,A,,]2 [CC,]2 [C,C,,]2 | %23
+ [F,F,,]2 z6 | z6 [B,C,]2 | [A,F,]2 z2 F,2 A,2 | B,,2 z2 D,2 z2 | C,2 z2 E,2 z2 | F,2 z6 | %29
+ z4 A,,2 C,2 | B,,2 z2 D,2 z2 | [A,F,]4 [G,E,]4 | F,4 [DF,]4 | C2 z2 B,3 C/D/ | [A,F,]2 z6 | %35
+ C,4- C,4 | [F,F,,]2 z2 [DF,]4 | C2 z2 B,3 C/D/ | [A,F,]2 z6 | C,4- C,4 | [F,F,,]2 z2 F,,2 z2 | %41
+ G,,2 z2 G,,2 z2 | [C,C,,]2 z2 G,,2 z2 | [C,C,,]2 z2 [G,,G,,,]2 z2 | [C,C,,]2 z6 | [F,F,,]2 z6 | %46
+ z8 | [F,F,,]2 [A,A,,]2 [CC,]2 [C,C,,]2 | [F,F,,]2 z6 | z8 | F,2 z2 F,2 A,2 | B,,2 z2 D,2 z2 | %52
+ C,2 z2 E,2 z2 | F,2 z6 | z4 A,,2 C,2 | B,,2 z2 D,2 z2 | [A,F,]4 [G,E,]4 | %57
+ [A,F,]2 [A,F,][A,F,] B,2 [FB,][FB,] | [FF,]2 [A,F,][A,F,] B,2 [FB,][FB,] | %59
+ [FF,]2 [A,F,][A,F,] B,2 [FB,][FB,] | [FF,]2 [A,F,][A,F,] B,2 [FB,][FB,] | F2 B,B, F,F, B,B, | %62
+ F,[FF,] [FB,][FB,] [FF,][FF,] [FB,][FB,] | [FF,]2 z2 F,2 A,2 | B,,2 z2 D,2 z2 | C,2 z2 E,2 z2 | %66
+ F,2 z6 | z4 A,,2 C,2 | B,,2 z2 D,2 z2 | [A,F,]4 [G,E,]4 | F,,F, F,,F, F,,F, F,,F, | %71
+ F,,F, F,,F, F,,F, F,,F, | F,,F, F,,F, F,,F, F,,F, | %73
+ [F,D,B,,]/B,/[F,D,B,,]/B,/ [F,D,B,,]/B,/[F,D,B,,]/B,/ [B,F,D,B,,]2 x2 |] %74
+V:2
+ x2 x2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %19
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | C, z C, z | z4 | F,2 F,2 | z4 | z4 | %36
+ z4 | F,2 F,2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %54
+ z4 | z4 | C, z C, z | z4 | z4 | z4 | z4 | F,/F,/ z3 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %69
+ C, z C, z | z4 | z4 | z4 | z3 x |] %74
+V:3
+ x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 F,2 C,2 | F,2 C,2 F,2 C,2 | F,2 x2 G,2 C,2 | %13
+ G,2 C,2 G,2 C,2 | G,2 x2 A,2 F,2 | A,2 F,2 A,2 F,2 | A,2 x2 B,2 G,2 | B,2 G,2 B,2 G,2 | %18
+ B,4- B,4- | B,2 x6 | A,4- A,2 B,2 | C2 B,2 A,2 G,2 | F,2 F,2 x4 | A,4- A,2 B,2 | C2 B,2 A,2 G,2 | %25
+ F,2 x2 F,2 A,2 | B,,4 D,4 | C,4 E,4 | F, x A, x C x A, x | F,xC,xB,, x C,2 | B,,4 D,4 | %31
+ C,4- C,2 D,E, | F,2 x6 | x8 | x4 A,2 C2 | CB, A,G, G,2 G,2 | F,2 F,2 x4 | x8 | x4 A,2 C2 | %39
+ CB, A,G, G,3 A, | F,2 F,2 F,2 F,2 | E,3 E, D,3 D, | C,2 C,C, D,3 E, | C,2 C,C, D,3 E, | %44
+ C,2 C,2 x4 | A,4- A,2 B,2 | C2 B,2 A,2 G,2 | F,2 F,2 x4 | A,4- A,2 B,2 | C2 B,2 A,2 G,2 | %50
+ F,2 x2 F,2 A,2 | B,,4 D,4 | C,4 E,4 | F, x A, x C x A, x | F,xC,xB,, x C,2 | B,,4 D,4 | %56
+ C,4- C,2 D,E, | F,2 x4 F,F, | F,2 x3 F, F,F, | F,2 F,2 x2 F,F, | F,2 x3 F, F,F, | %61
+ F,F, F,F, F,F, F,F, | F,F, F,F, F,F, F,F, | F,2 x2 F,2 A,2 | B,,4 D,4 | C,4 E,4 | %66
+ F, x A, x C x A, x | F,xC,xB,, x C,2 | B,,4 D,4 | C,4- C,2 D,E, | F,2 x6 |] %71
+V:4
+ x4 F z C z | F z C z F2 z [CD]/E/ | F2 z2 G z C z | G z C z G2 z [CD]/[EF]/ | G2 z2 A z F z | %5
+ A z F z A2 z F/G/ | A2 z2 B z G z | B z G z B2 z G/A/ | B2 z [Bc]/[def]/ g2 z [ef]/[ga]/ | %9
+ ba/g/ f/e/d/c/ BA/G/ F/E/D/C/ | B,4 F z C z | F z C z F2 z [CD]/E/ | F2 z2 G z C z | %13
+ G z C z G2 z [CD]/[EF]/ | G2 z2 A z F z | A z F z A2 z F/G/ | A2 z2 B z G z | %17
+ B z G z B2 z [ef]/[ga]/ | ba/g/ f/e/d/c/ BA/G/ F/E/D/C/ | B,2 z6 | (3AFC (3AFC (3AFC (3BGC | %21
+ (3cAC (3BGC (3AFC (3GEC | [c'abg]<[af] [af][af] [af]g/a/ [bg][ge] | (3AFC (3AFC (3AFC (3BGC | %24
+ (3cAC (3BGC (3AFC (3GEC | F2 z2 F2 A2 | z2 B,2 z2 D2 | z2 C2 z2 E2 | F z A z c z A z | %29
+ F z C z A,2 C2 | z2 B,2 z2 D2 | z2 C2 z2 C2 | F2 z2 B3 c/B/ | A z F z d3 e/f/ | c2 z6 | %35
+ [EB,]4- [EB,]4 | [FA,]2 z2 B3 c/B/ | A z F z d3 e/f/ | c2 z6 | [ECB,]4- [ECB,]4 | %40
+ z2 [FCA,]2 z2 [FDA,]2 | z2 [ECG,]2 z2 [D=B,F,]2 | z2 [CG,E,]2 z2 [D=B,G,F,]2 | %43
+ z2 [CG,E,]2 [D=B,G,F,]2 z2 | [CG,E,]2 z6 | (3AFC (3AFC (3AFC (3BGC | (3cAC (3BGC (3AFC (3GEC | %47
+ [c'abg]<[af] [af][af] [af]g/a/ [bg][ge] | (3AFC (3AFC (3AFC (3BGC | (3cAC (3BGC (3AFC (3GEC | %50
+ F2 z2 F2 A2 | z2 B,2 z2 D2 | z2 C2 z2 E2 | F z [aA] z [c'c] z [aA] z | %54
+ [fF] z [cC] z [AA,]2 [cC]2 | z2 [BB,]2 z2 [dD]2 | z2 [cC]2 z2 [cC]2 | z2 [FC][FC] [FD]2 [bd][bd] | %58
+ [ac]2 [FC][FC] [FD]2 [bd][bd] | [ac]2 [FC][FC] [FD]2 [bd][bd] | [ac]2 [FC][FC] [FD]2 [bd][bd] | %61
+ [ac][cA] [dB][dB] [cA][cA] [dB][dB] | [cA][c'a] [d'b][d'b] [c'a][c'a] [d'b][d'b] | %63
+ [c'a]2 z2 [fF]2 [aA]2 | z2 [BB,]2 z2 [dD]2 | z2 [cC]2 z2 [eE]2 | Ff Aa cc' Aa | %67
+ Ff Cc [AA,]2 [cC]2 | z2 [BB,]2 z2 [dD]2 | z2 [cC]2 z2 [cC]2 | %70
+ [FC]/A,/[FC]/A,/ [FC]/A,/[FC]/A,/ [FC]/A,/[FC]/A,/ [GE]/B,/[GE]/B,/ | %71
+ [AF_E]/C/[AFE]/C/ [BF]/D/[BF]/D/ [cA]/F/[cA]/F/ [dB]/F/[dB]/F/ | %72
+ [_ec]/F/[ec]/F/ [fd]/F/[fd]/F/ [ge]/F/[ge]/F/ [afe]/c/[afe]/c/ | bf df b2 x2 |] %74
+V:5
+ x2 x2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %19
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | C2- C2- | C z3 | %37
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %56
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z3 x |] %74

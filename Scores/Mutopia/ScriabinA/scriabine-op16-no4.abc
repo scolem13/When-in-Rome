@@ -1,0 +1,33 @@
+% Préludes opus 16 - 4.: Mutopia Project https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=762
+% Licence: Creative Commons Attribution-ShareAlike 2.5. From LilyPond via MIDI: no slurs, dynamics, articulation or lyrics; spelling rebuilt from the key.
+
+X:1
+T:Préludes opus 16 - 4.
+C:A. Scriabin (1872-1915)
+%%score ( 1 2 3 ) 4
+L:1/16
+Q:1/4=44
+M:3/4
+I:linebreak $
+K:Ebmin
+V:1 treble nm="upper"
+V:2 treble 
+V:3 treble 
+L:1/8
+V:4 bass nm="lower"
+V:1
+ B4 A2B2 (3:2:1d2c2 (3:2:1z | A4 G2A2 (3:2:1c2B2 (3:2:1z | [G,B,EG] z3 [G,B,EG] z3 [G,B,EG] z3 | %3
+ A4 G2A2 [cB,F]2 z F | G4 F2G2 [BA,E]2 z E | [F,B,=DF] z3 [F,B,DF] z3 [F,B,DF] z3 | %6
+ G4 F2G2 (3:2:1A2B2 (3:2:1z | [d=EA]4 _e2=e2 (3:2:1_e2d2 (3:2:1z | [C=Ec] z3 [C_Ec] z3 [CEc] z3 | %9
+ [B,BE]2 z2 A2B2 (3:2:1d2c2 (3:2:1z | A4 G2A2 (3:2:1c2B2 (3:2:1z | %11
+ [G,B,EG] z3 [G,B,EG] z3 (3:2:2[G,B,EG]2 z4 |] %12
+V:2
+ z8 z3 G | z8 z3 E | x12 | [A,DF]8 (3:2:1z2 B2 (3:2:1z | [B,E]8 (3:2:1z2 A2 (3:2:1z | x12 | %6
+ [G,CE]8 [_DF]4 | z4 [=Ec]4 [EB]2>[EAc]2 | x12 | z8 z3 G | z8 z3 E | x12 |] %12
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | z4 z3/2 c/ | x6 | x6 | x6 | x6 | x6 |] %12
+V:4
+ z12 | z12 | [E,,B,,E,] z3 [E,,B,,E,] z3 [E,,B,,E,] z3 | [D,,D,]8 [G,,D,]4 | [C,,C,]8 [F,,C,]4 | %5
+ [B,,,B,,] z3 [B,,,B,,] z3 [B,,,B,,] z3 | [A,,,A,,]8 [D,,D,]2[C,,C,]2 | %7
+ [B,,,B,,]4 [A,,,A,,]4 [=G,,,=G,,]2>[A,,,A,,]2 | [A,,=E,]4 [=A,,_G,]4 [A,,G,]4 | [B,,G,] z8 z3 | %10
+ z12 | [E,,B,,E,] z3 [E,,B,,E,] z3 (3:2:2[E,,B,,E,]2 z4 |] %12
